@@ -1,0 +1,24 @@
+---
+identifier: AKT2_Zhou_He_2014
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: AKT2
+locus_full_name: Potassium channel AKT2 gene
+locus_type: protein
+locus_ID: Glyma.08g187600
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: Ion channel
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "24893844"
+pub_doi: "10.1186/1471-2229-14-154"
+pub_au_au_year: "Zhou_He_2014"
+pub_title: "Overexpression of GmAKT2 potassium channel enhances resistance to soybean mosaic virus"
+pub_citation: "Zhou L, He H, Liu R, Han Q, Shou H, Liu B. Overexpression of GmAKT2 potassium channel enhances resistance to soybean mosaic virus. BMC Plant Biol. 2014 Jun 3;14:154. doi: 10.1186/1471-2229-14-154. PMID: 24893844; PMCID: PMC4074861."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20171227.4"
+Gene_class: Ion channel

@@ -1,0 +1,26 @@
+---
+identifier: Chl1a_Campbell_Mani_2014
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: Chl1a
+locus_full_name: magnesium chelatase subunit 1a
+locus_symbol_synonyms:
+  - Y11
+locus_type: protein
+locus_ID: Glyma.13g232500
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: Chlorophyll Content
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "25452420"
+pub_doi: "10.1534/g3.114.015255"
+pub_au_au_year: "Campbell_Mani_2014"
+pub_title: "Identical Substitutions in Magnesium Chelatase Paralogs Result in Chlorophyll-Deficient Soybean Mutants"
+pub_citation: "Campbell BW, Mani D, Curtin SJ, Slattery RA, Michno JM, Ort DR, Schaus PJ, Palmer RG, Orf JH, Stupar RM. Identical substitutions in magnesium chelatase paralogs result in chlorophyll-deficient soybean mutants. G3 (Bethesda). 2014 Dec 1;5(1):123-31. doi: 10.1534/g3.114.015255. PMID: 25452420; PMCID: PMC4291463."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20171228.6"
+Gene_class: Chlorophyll Content

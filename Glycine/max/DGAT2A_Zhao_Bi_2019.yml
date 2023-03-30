@@ -1,0 +1,24 @@
+---
+identifier: DGAT2A_Zhao_Bi_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: DGAT2A
+locus_full_name: diacylglycerol acyltransferase 2 gene A
+locus_type: protein
+locus_ID: Glyma.09g195400
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31437808"
+pub_doi: "10.1016/j.jplph.2019.153019"
+pub_au_au_year: "Zhao_Bi_2019"
+pub_title: "Genome-wide analysis and functional characterization of Acyl-CoA:diacylglycerol acyltransferase from soybean identifyGmDGAT1Aand1Broles in oil synthesis inArabidopsisseeds"
+pub_citation: "Zhao J, Bi R, Li S, Zhou D, Bai Y, Jing G, Zhang K, Zhang W. Genome-wide analysis and functional characterization of Acyl-CoA:diacylglycerol acyltransferase from soybean identify GmDGAT1A and 1B roles in oil synthesis in Arabidopsis seeds. J Plant Physiol. 2019 Nov;242:153019. doi: 10.1016/j.jplph.2019.153019. Epub 2019 Aug 11. PMID: 31437808."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210915.1"
+Gene_class: ~

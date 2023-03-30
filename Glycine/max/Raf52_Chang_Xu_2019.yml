@@ -1,0 +1,24 @@
+---
+identifier: Raf52_Chang_Xu_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: Raf52
+locus_full_name: Raf52 proto-oncogene serine/threonine protein kinase
+locus_type: protein
+locus_ID: Glyma.04g020100
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31832042"
+pub_doi: "10.5423/PPJ.OA.04.2019.0111"
+pub_au_au_year: "Chang_Xu_2019"
+pub_title: "Connection the Rhizomicrobiome and plant MAPK gene expression response to pathogenic Fusarium oxysporum in wild and cultivated soybean."
+pub_citation: "Chang C, Xu S, Tian L, Shi S, Nasir F, Chen D, Li X, Tian C. Connection the Rhizomicrobiome and Plant <i>MAPK</i> Gene Expression Response to Pathogenic <i>Fusarium oxysporum</i> in Wild and Cultivated Soybean. Plant Pathol J. 2019 Dec;35(6):623-634. doi: 10.5423/PPJ.OA.04.2019.0111. Epub 2019 Dec 12. PMID: 31832042; PMCID: PMC6901252."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210706.6"
+Gene_class: ~

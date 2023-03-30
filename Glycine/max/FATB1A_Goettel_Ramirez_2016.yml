@@ -1,0 +1,24 @@
+---
+identifier: FATB1A_Goettel_Ramirez_2016
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: FATB1A
+locus_full_name: "16:0-acyl carrier protein (ACP) thioesterase enzyme"
+locus_type: protein
+locus_ID: Glyma.05g012300
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: Enzyme
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "27179525"
+pub_doi: "10.1007/s00122-016-2725-z"
+pub_au_au_year: "Goettel_Ramirez_2016"
+pub_title: "Identification and characterization of large DNA deletions affecting oil quality traits in soybean seeds through transcriptome sequencing analysis"
+pub_citation: "Goettel W, Ramirez M, Upchurch RG, An YQ. Identification and characterization of large DNA deletions affecting oil quality traits in soybean seeds through transcriptome sequencing analysis. Theor Appl Genet. 2016 Aug;129(8):1577-93. doi: 10.1007/s00122-016-2725-z. Epub 2016 May 14. PMID: 27179525; PMCID: PMC4943983."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20180102.1"
+Gene_class: Enzyme

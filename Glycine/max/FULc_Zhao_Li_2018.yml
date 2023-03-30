@@ -1,0 +1,26 @@
+---
+identifier: FULc_Zhao_Li_2018
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: FULc
+locus_full_name: Fruitfull C gene
+locus_type: protein
+locus_ID: Glyma.05G018800
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "30004144"
+pub_doi: "10.1111/tpj.14025"
+pub_au_au_year: "Zhao_Li_2018"
+pub_title: "Natural variation in GmGBP1 promoter affects photoperiod control of flowering time and maturity in soybean"
+pub_citation: "Zhao L, Li M, Xu C, Yang X, Li D, Zhao X, Wang K, Li Y, Zhang X, Liu L, Ding F, Du H, Wang C, Sun J, Li W. Natural variation in GmGBP1 promoter affects photoperiod control of flowering time and maturity in soybean. Plant J. 2018 Oct;96(1):147-162. doi: 10.1111/tpj.14025. Epub 2018 Aug 16. PMID: 30004144."
+supporting_pub_IDs:
+  - 10.1101/2022.03.24.485586
+contact_person: ~
+comment: "soybase_ref_ID:AP20210708.4"
+Gene_class: ~

@@ -1,0 +1,26 @@
+---
+identifier: D2_Fang_Li_2014
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: D2
+locus_full_name: D2
+locus_symbol_synonyms:
+  - D2
+locus_type: protein
+locus_ID: Glyma.11g027400
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: Chlorophyll Content
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "24372721"
+pub_doi: "10.1111/tpj.12419"
+pub_au_au_year: "Fang_Li_2014"
+pub_title: "Concerted evolution of D1 and D2 to regulate chlorophyll degradation in soybean"
+pub_citation: "Fang C, Li C, Li W, Wang Z, Zhou Z, Shen Y, Wu M, Wu Y, Li G, Kong LA, Liu C, Jackson SA, Tian Z. Concerted evolution of D1 and D2 to regulate chlorophyll degradation in soybean. Plant J. 2014 Mar;77(5):700-12. doi: 10.1111/tpj.12419. Epub 2014 Feb 4. PMID: 24372721."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20170306.4"
+Gene_class: Chlorophyll Content

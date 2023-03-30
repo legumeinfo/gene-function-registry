@@ -1,0 +1,24 @@
+---
+identifier: GPX_Yim_Wong_2015
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: GPX
+locus_full_name: Glutathione Peroxidase
+locus_type: protein
+locus_ID: Glyma.08g013800
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "26348924"
+pub_doi: "10.1371/journal.pone.0136343"
+pub_au_au_year: "Yim_Wong_2015"
+pub_title: "Using RNA-Seq Data to evaluate Reference Genes Suitable for gene expression studies in soybean"
+pub_citation: "Yim AK, Wong JW, Ku YS, Qin H, Chan TF, Lam HM. Using RNA-Seq Data to Evaluate Reference Genes Suitable for Gene Expression Studies in Soybean. PLoS One. 2015 Sep 8;10(9):e0136343. doi: 10.1371/journal.pone.0136343. PMID: 26348924; PMCID: PMC4562714."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210712.2"
+Gene_class: ~

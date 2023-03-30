@@ -1,0 +1,24 @@
+---
+identifier: F3G6_Rt_RojasRodas_Rodriguez_2014
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: F3G6_Rt
+locus_full_name: flavonol 3-O-glucoside (1->6) rhamnosyltransferase
+locus_type: protein
+locus_ID: Glyma.10g194000
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: Flower Pigmentation
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "24072327"
+pub_doi: "10.1007/s11103-013-0133-1"
+pub_au_au_year: "RojasRodas_Rodriguez_2014"
+pub_title: "Linkage mapping, molecular cloning and sunctional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1->6) rhamnosyltransferase"
+pub_citation: "Rojas Rodas F, Rodriguez TO, Murai Y, Iwashina T, Sugawara S, Suzuki M, Nakabayashi R, Yonekura-Sakakibara K, Saito K, Kitajima J, Toda K, Takahashi R. Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1 → 6) rhamnosyltransferase. Plant Mol Biol. 2014 Feb;84(3):287-300. doi: 10.1007/s11103-013-0133-1. Epub 2013 Sep 27. PMID: 24072327."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20170322.1"
+Gene_class: Flower Pigmentation

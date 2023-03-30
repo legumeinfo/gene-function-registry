@@ -1,0 +1,24 @@
+---
+identifier: Tubulin_Li_Sun_2020
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: Tubulin
+locus_full_name: tubulin
+locus_type: protein
+locus_ID: Glyma.08g014200
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "32180505"
+pub_doi: "10.1080/09168451.2020.1740970"
+pub_au_au_year: "Li_Sun_2020"
+pub_title: "Transcriptome analysis of two soybean cultivars identifies an aluminum responsive antioxidant enzyme GmCAT1."
+pub_citation: "Li W, Sun Y, Wang B, Xie H, Wang J, Nan Z. Transcriptome analysis of two soybean cultivars identifies an aluminum respon-sive antioxidant enzyme GmCAT1. Biosci Biotechnol Biochem. 2020 Jul;84(7):1394-1400. doi: 10.1080/09168451.2020.1740970. Epub 2020 Mar 17. PMID: 32180505."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210621.1"
+Gene_class: ~

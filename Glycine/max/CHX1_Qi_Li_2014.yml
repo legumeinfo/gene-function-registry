@@ -1,0 +1,24 @@
+---
+identifier: CHX1_Qi_Li_2014
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: CHX1
+locus_full_name: cation H+ exchanger
+locus_type: protein
+locus_ID: Glyma.03g171700
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "25004933"
+pub_doi: "10.1038/ncomms5340"
+pub_au_au_year: "Qi_Li_2014"
+pub_title: "Identification of a novel salt tolerance gene in wild soybean by whole-genome sequencing"
+pub_citation: "Qi X, Li MW, Xie M, Liu X, Ni M, Shao G, Song C, Kay-Yuen Yim A, Tao Y, Wong FL, Isobe S, Wong CF, Wong KS, Xu C, Li C, Wang Y, Guan R, Sun F, Fan G, Xiao Z, Zhou F, Phang TH, Liu X, Tong SW, Chan TF, Yiu SM, Tabata S, Wang J, Xu X, Lam HM. Identification of a novel salt tolerance gene in wild soybean by whole-genome sequencing. Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340. PMID: 25004933; PMCID: PMC4104456."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210609.4"
+Gene_class: ~

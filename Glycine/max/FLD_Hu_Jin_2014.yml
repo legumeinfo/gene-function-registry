@@ -1,0 +1,24 @@
+---
+identifier: FLD_Hu_Jin_2014
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: FLD
+locus_full_name: Flowering locus D
+locus_type: protein
+locus_ID: Glyma.02g159100
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: Flowering Induction
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "25287450"
+pub_doi: "10.1186/s12870-014-0263-x"
+pub_au_au_year: "Hu_Jin_2014"
+pub_title: "GmFLD, a soybean homolog of the autonomous pathway gene FLOWERING LOCUS D, promotes flowering in Arabidopsis thaliana"
+pub_citation: "Hu Q, Jin Y, Shi H, Yang W. GmFLD, a soybean homolog of the autonomous pathway gene FLOWERING LOCUS D, promotes flowering in Arabidopsis thaliana. BMC Plant Biol. 2014 Oct 7;14:263. doi: 10.1186/s12870-014-0263-x. PMID: 25287450; PMCID: PMC4190295."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20170310.7"
+Gene_class: Flowering Induction

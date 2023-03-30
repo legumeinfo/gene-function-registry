@@ -1,0 +1,24 @@
+---
+identifier: MEKK2_Zhang_Cheng_2021
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: MEKK2
+locus_full_name: mitogen-activated protein kinase
+locus_type: protein
+locus_ID: Glyma.17g173000
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "33742112"
+pub_doi: "10.1038/s42003-021-01907-7"
+pub_au_au_year: "Zhang_Cheng_2021"
+pub_title: "GmBTB/POZ promotes the ubiquitination and degredation of LHP1 to regulate the response of soybean to Phytophthora sojae."
+pub_citation: "Zhang C, Cheng Q, Wang H, Gao H, Fang X, Chen X, Zhao M, Wei W, Song B, Liu S, Wu J, Zhang S, Xu P. GmBTB/POZ promotes the ubiquitination and degradation of LHP1 to regulate the response of soybean to Phytophthora sojae. Commun Biol. 2021 Mar 19;4(1):372. doi: 10.1038/s42003-021-01907-7. PMID: 33742112; PMCID: PMC7979691."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210610.4"
+Gene_class: ~

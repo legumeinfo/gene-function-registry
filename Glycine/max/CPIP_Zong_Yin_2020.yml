@@ -1,0 +1,24 @@
+---
+identifier: CPIP_Zong_Yin_2020
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: CPIP
+locus_full_name: Soybean mosaic virus coat protein-interacting protein
+locus_type: protein
+locus_ID: Glyma.06g289000
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31962064"
+pub_doi: "10.1016/j.virusres.2020.197870"
+pub_au_au_year: "Zong_Yin_2020"
+pub_title: "A DnaJ protein that interacts with soybean mosaid virus coat protein serves as a key susceptibility factor for viral infection"
+pub_citation: "Zong T, Yin J, Jin T, Wang L, Luo M, Li K, Zhi H. A DnaJ protein that interacts with soybean mosaic virus coat protein serves as a key susceptibility factor for viral infection. Virus Res. 2020 May;281:197870. doi: 10.1016/j.virusres.2020.197870. Epub 2020 Jan 18. PMID: 31962064."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210629.4"
+Gene_class: ~

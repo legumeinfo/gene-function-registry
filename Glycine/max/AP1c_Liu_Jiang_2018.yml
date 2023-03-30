@@ -1,0 +1,24 @@
+---
+identifier: AP1c_Liu_Jiang_2018
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: AP1c
+locus_full_name: Apetella 1 gene c
+locus_type: protein
+locus_ID: Glyma.08g250800
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "29120038"
+pub_doi: "10.1111/nph.14884"
+pub_au_au_year: "Liu_Jiang_2018"
+pub_title: "Functional diversification of Flowering Locus T homologs in soybean: GmFT1a and Gm FT2a/5a have opposite roles in controlling flowering and maturation."
+pub_citation: "Liu W, Jiang B, Ma L, Zhang S, Zhai H, Xu X, Hou W, Xia Z, Wu C, Sun S, Wu T, Chen L, Han T. Functional diversification of Flowering Locus T homologs in soybean: GmFT1a and GmFT2a/5a have opposite roles in controlling flowering and maturation. New Phytol. 2018 Feb;217(3):1335-1345. doi: 10.1111/nph.14884. Epub 2017 Nov 9. PMID: 29120038; PMCID: PMC5900889."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210628.8"
+Gene_class: ~

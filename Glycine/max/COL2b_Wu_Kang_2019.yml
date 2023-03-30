@@ -1,0 +1,30 @@
+---
+identifier: COL2b_Wu_Kang_2019
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: COL2b
+locus_full_name: Constans-like 2 gene b
+locus_symbol_synonyms:
+  - ef1
+locus_type: protein
+locus_ID: Glyma.19g039000
+annotation_name: Wm82.gnm2.ann1
+evidence code: IMP
+method_description: |traditional genetic|mutant analysis
+ontology_IDs:
+  - GO:0010228
+ontology_terms:
+  - vegetative to reproductive phase transition of meristem
+trait_synopsis: The ef1 mutation is involved in thermal regulation of flowering in response to cool ambient temperature, and the lack of COL2b in the mutant likely alleviates the repression of flowering by cool temperature.
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31787988"
+pub_doi: "10.3389/fpls.2019.01221"
+pub_au_au_year: "Wu_Kang_2019"
+pub_title: "Transcriptome-enabled network inference revealed the GmCOL1 feed-forward loop and its roles in photoperiodic flowering of soybean"
+pub_citation: "Wu F, Kang X, Wang M, Haider W, Price WB, Hajek B, Hanzawa Y. Transcriptome-Enabled Network Inference Revealed the <i>GmCOL1</i> Feed-Forward Loop and Its Roles in Photoperiodic Flowering of Soybean. Front Plant Sci. 2019 Nov 8;10:1221. doi: 10.3389/fpls.2019.01221. PMID: 31787988; PMCID: PMC6856076."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210708.7"
+Gene_class: ~

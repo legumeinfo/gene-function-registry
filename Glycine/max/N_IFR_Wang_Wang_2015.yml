@@ -1,0 +1,24 @@
+---
+identifier: N_IFR_Wang_Wang_2015
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: N_IFR
+locus_full_name: Isoflavone Reductase
+locus_type: protein
+locus_ID: Glyma.01g172600
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "null"
+pub_doi: "10.1007/s11240-015-0837-9"
+pub_au_au_year: "Wang_Wang_2015"
+pub_title: "Identification of soybean herbivory-related genes and a transgenic investigation of their potential in insect resistance"
+pub_citation: "Wang, Y., Wang, H., Ma, Y. et al. Identification of soybean herbivory-regulated genes and a transgenic investigation of their potential in insect resistance. Plant Cell Tiss Organ Cult123, 321–340 (2015). https://doi.org/10.1007/s11240-015-0837-9"
+contact_person: ~
+comment: "soybase_ref_ID:AP20210624.3"
+Gene_class: ~

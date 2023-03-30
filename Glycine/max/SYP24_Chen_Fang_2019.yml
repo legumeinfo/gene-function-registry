@@ -1,0 +1,24 @@
+---
+identifier: SYP24_Chen_Fang_2019
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: SYP24
+locus_full_name: syntaxin
+locus_type: protein
+locus_ID: Glyma.19g198600
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "30979945"
+pub_doi: "10.1038/s41598-019-42332-5"
+pub_au_au_year: "Chen_Fang_2019"
+pub_title: "GmSYP24, a putative syntaxin gene, confers osmotic/drought, salt stress tolerances and ABA signal pathway"
+pub_citation: "Chen LM, Fang YS, Zhang CJ, Hao QN, Cao D, Yuan SL, Chen HF, Yang ZL, Chen SL, Shan ZH, Liu BH, Jing-Wang, Zhan Y, Zhang XJ, Qiu DZ, Li WB, Zhou XA. GmSYP24, a putative syntaxin gene, confers osmotic/drought, salt stress tolerances and ABA signal pathway. Sci Rep. 2019 Apr 12;9(1):5990. doi: 10.1038/s41598-019-42332-5. PMID: 30979945; PMCID: PMC6461667."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210621.6"
+Gene_class: ~

@@ -1,0 +1,24 @@
+---
+identifier: PDI_Yu_Jin_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: PDI
+locus_full_name: protein disulfide isomerase
+locus_type: protein
+locus_ID: Glyma.04G215900
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31856712"
+pub_doi: "10.1186/s12870-019-2201-4"
+pub_au_au_year: "Yu_Jin_2019"
+pub_title: "Quantitative proteomic analysis of two soybean low phytic acid mutants to identify the genes associated with seed field emergence"
+pub_citation: "Yu X, Jin H, Fu X, Yang Q, Yuan F. Quantitative proteomic analyses of two soybean low phytic acid mutants to identify the genes associated with seed field emergence. BMC Plant Biol. 2019 Dec 19;19(1):569. doi: 10.1186/s12870-019-2201-4. PMID: 31856712; PMCID: PMC6921446."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210706.3"
+Gene_class: ~

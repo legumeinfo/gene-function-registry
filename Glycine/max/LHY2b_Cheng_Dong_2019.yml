@@ -1,0 +1,24 @@
+---
+identifier: LHY2b_Cheng_Dong_2019
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: LHY2b
+locus_full_name: LATE ELONGATED HYPOCOTYL 2 gene b
+locus_type: protein
+locus_ID: Glyma.03g261800
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31852439"
+pub_doi: "10.1186/s12870-019-2145-8"
+pub_au_au_year: "Cheng_Dong_2019"
+pub_title: "CRISPR/Cas9-mdiated targeted mutagenesis of GmLHY genes alters plant height and internode length in soybean"
+pub_citation: "Cheng Q, Dong L, Su T, Li T, Gan Z, Nan H, Lu S, Fang C, Kong L, Li H, Hou Z, Kou K, Tang Y, Lin X, Zhao X, Chen L, Liu B, Kong F. CRISPR/Cas9-mediated targeted mutagenesis of GmLHY genes alters plant height and internode length in soybean. BMC Plant Biol. 2019 Dec 18;19(1):562. doi: 10.1186/s12870-019-2145-8. PMID: 31852439; PMCID: PMC6921449."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210607.4"
+Gene_class: ~

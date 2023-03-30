@@ -1,0 +1,24 @@
+---
+identifier: ABCC8_Pan_Yu_2021
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: ABCC8
+locus_full_name: ABC Transporter C8
+locus_type: protein
+locus_ID: Glyma.07g011600
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "33846264"
+pub_doi: "10.1073/pnas.2100136118"
+pub_au_au_year: "Pan_Yu_2021"
+pub_title: "An ABCC-type transporter endowing glyphosate resistance in plants"
+pub_citation: "Pan L, Yu Q, Wang J, Han H, Mao L, Nyporko A, Maguza A, Fan L, Bai L, Powles S. An ABCC-type transporter endowing glyphosate resistance in plants. Proc Natl Acad Sci U S A. 2021 Apr 20;118(16):e2100136118. doi: 10.1073/pnas.2100136118. PMID: 33846264; PMCID: PMC8072331."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210609.9"
+Gene_class: ~

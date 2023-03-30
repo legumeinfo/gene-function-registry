@@ -1,0 +1,24 @@
+---
+identifier: KASIIa_Head_Galos_2012
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+ta1id: 3847
+locus_symbol: KASIIa
+locus_full_name: 3-ketoacyl-ACP synthase II
+locus_type: protein
+locus_ID: Glyma.17g047000
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "null"
+pub_doi: "10.1007/s11032-012-9707-x"
+pub_au_au_year: "Head_Galos_2012"
+pub_title: "Mutations in the soybean 3-ketoacyl-ACP synthase gene are correlated with high levels of seed palmitic acid."
+pub_citation: "Head, K., Galos, T., Fang, Y. et al. Mutations in the soybean 3-ketoacyl-ACP synthase gene are correlated with high levels of seed palmitic acid. Mol Breeding 30, 1519–1523 (2012). https://doi.org/10.1007/s11032-012-9707-x"
+contact_person: ~
+comment: "soybase_ref_ID:AP20210628.3"
+Gene_class: ~
