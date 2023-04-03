@@ -3,7 +3,7 @@ identifier: GR-1b_Costa_Roque_2021
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: GR-1b
 locus_full_name: Cytosolic glutathione reductase 1 gene b
 locus_type: protein

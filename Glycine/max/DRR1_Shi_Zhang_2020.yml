@@ -3,7 +3,7 @@ identifier: DRR1_Shi_Zhang_2020
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: DRR1
 locus_full_name: disease resitance-responsive 1 protein
 locus_type: protein

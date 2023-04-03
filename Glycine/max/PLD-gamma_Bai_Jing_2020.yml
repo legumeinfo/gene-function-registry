@@ -3,7 +3,7 @@ identifier: PLD-gamma_Bai_Jing_2020
 priority: 5
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: PLD-gamma
 locus_full_name: Phospholipase D gamma
 locus_type: protein

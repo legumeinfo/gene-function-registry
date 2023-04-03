@@ -3,7 +3,7 @@ identifier: UGT73P2_Krishnamurthy_Tsukamoto_2020
 priority: 5
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: UGT73P2
 locus_full_name: Plant uridine 5' -diphosphate glycosyltransferase 73P2
 locus_type: protein

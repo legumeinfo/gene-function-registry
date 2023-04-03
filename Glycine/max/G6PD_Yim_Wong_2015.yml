@@ -3,7 +3,7 @@ identifier: G6PD_Yim_Wong_2015
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: G6PD
 locus_full_name: Glucose Metabolism
 locus_type: protein

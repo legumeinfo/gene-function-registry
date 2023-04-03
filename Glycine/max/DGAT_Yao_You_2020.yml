@@ -3,7 +3,7 @@ identifier: DGAT_Yao_You_2020
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: DGAT
 locus_full_name: diglyceride acetyltransferase
 locus_type: protein

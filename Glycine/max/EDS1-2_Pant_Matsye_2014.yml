@@ -3,7 +3,7 @@ identifier: EDS1-2_Pant_Matsye_2014
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: EDS1-2
 locus_full_name: enhanced disease susceptibility1
 locus_type: protein

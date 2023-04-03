@@ -3,7 +3,7 @@ identifier: ACS10a_Wu_Kang_2019
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: ACS10a
 locus_full_name: ACC Synthase 10 gene a
 locus_type: protein

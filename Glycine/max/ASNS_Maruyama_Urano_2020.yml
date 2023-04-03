@@ -3,7 +3,7 @@ identifier: ASNS_Maruyama_Urano_2020
 priority: 5
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: ASNS
 locus_full_name: glutamine-dependent asparagine synthetase
 locus_type: protein

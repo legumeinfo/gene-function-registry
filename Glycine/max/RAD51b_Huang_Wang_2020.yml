@@ -3,7 +3,7 @@ identifier: RAD51b_Huang_Wang_2020
 priority: 5
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: RAD51b
 locus_full_name: Radiation- repair 51 gene b
 locus_type: protein

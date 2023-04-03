@@ -3,7 +3,7 @@ identifier: ABCC8_Pan_Yu_2021
 priority: 5
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: ABCC8
 locus_full_name: ABC Transporter C8
 locus_type: protein

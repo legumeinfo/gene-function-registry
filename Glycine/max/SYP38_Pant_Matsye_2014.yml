@@ -3,7 +3,7 @@ identifier: SYP38_Pant_Matsye_2014
 priority: ~
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
-ta1id: 3847
+taxid: 3847
 locus_symbol: SYP38
 locus_full_name: syntaxin
 locus_type: protein
