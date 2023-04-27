@@ -1,0 +1,24 @@
+---
+identifier: SR1_Noman_Jameel_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: SR1
+locus_full_name: Serine racemase-1 involved in D-Serine biosynthetic process
+locus_type: protein
+locus_ID: Glyma.05g206600
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31569565"
+pub_doi: "10.3390/ijms20194849"
+pub_au_au_year: "Noman_Jameel_2019"
+pub_title: "Overexpression of GmCAMTA12 enhanced drought tolerance in Arabidopsis and soybean."
+pub_citation: "Noman M, Jameel A, Qiang WD, Ahmad N, Liu WC, Wang FW, Li HY. Overexpression of <i>GmCAMTA12</i> Enhanced Drought Tolerance in Arabidopsis and Soybean. Int J Mol Sci. 2019 Sep 29;20(19):4849. doi: 10.3390/ijms20194849. PMID: 31569565; PMCID: PMC6801534."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210730.2"
+Gene_class: ~

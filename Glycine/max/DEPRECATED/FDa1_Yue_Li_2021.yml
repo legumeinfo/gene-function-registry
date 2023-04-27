@@ -1,0 +1,26 @@
+---
+identifier: FDa1_Yue_Li_2021
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: FDa1
+locus_full_name: Flowering Locus D
+locus_type: protein
+locus_ID: Glyma.01g163500
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "33458938"
+pub_doi: "10.1111/jipb.13070"
+pub_au_au_year: "Yue_Li_2021"
+pub_title: "FT5a interferes with the Dt1-AP1 feedback loop to control flowering time and shoot determinacy in soybean."
+pub_citation: "Yue L, Li X, Fang C, Chen L, Yang H, Yang J, Chen Z, Nan H, Chen L, Zhang Y, Li H, Hou X, Dong Z, Weller JL, Abe J, Liu B, Kong F. FT5a interferes with the Dt1-AP1 feedback loop to control flowering time and shoot determinacy in soybean. J Integr Plant Biol. 2021 Jun;63(6):1004-1020. doi: 10.1111/jipb.13070. Epub 2021 Mar 26. PMID: 33458938."
+supporting_pub_IDs:
+  - 10.1101/2022.03.24.485586
+contact_person: ~
+comment: "soybase_ref_ID:AP20210609.2"
+Gene_class: ~

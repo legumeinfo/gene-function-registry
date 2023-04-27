@@ -1,0 +1,24 @@
+---
+identifier: UO1_Chiasson_Loughlin_2014
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: UO1
+locus_full_name: Urate Oxidase 1 gene
+locus_type: protein
+locus_ID: Glyma.U032500
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "24707045"
+pub_doi: "10.1073/pnas.1312801111"
+pub_au_au_year: "Chiasson_Loughlin_2014"
+pub_title: "Soybean SAT1 (Symbiotic Ammonium Transporter 1) encodes a bHLH transcription factor involved in nodule growth and NH<sub>4</sub><sup>+</sup> transport"
+pub_citation: "Chiasson DM, Loughlin PC, Mazurkiewicz D, Mohammadidehcheshmeh M, Fedorova EE, Okamoto M, McLean E, Glass AD, Smith SE, Bisseling T, Tyerman SD, Day DA, Kaiser BN. Soybean SAT1 (Symbiotic Ammonium Transporter 1) encodes a bHLH transcription factor involved in nodule growth and NH4+ transport. Proc Natl Acad Sci U S A. 2014 Apr 1;111(13):4814-9. doi: 10.1073/pnas.1312801111. Epub 2014 Mar 19. PMID: 24707045; PMCID: PMC3977234."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210617.1"
+Gene_class: ~

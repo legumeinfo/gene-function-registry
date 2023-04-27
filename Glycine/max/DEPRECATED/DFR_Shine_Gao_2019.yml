@@ -1,0 +1,24 @@
+---
+identifier: DFR_Shine_Gao_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: DFR
+locus_full_name: dihydroflavanol reductase
+locus_type: protein
+locus_ID: Glyma.17g173200
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31757957"
+pub_doi: "10.1038/s41467-019-13318-8"
+pub_au_au_year: "Shine_Gao_2019"
+pub_title: "Glycerol-3-phosphate mediates rhizobia-induced systemic signaling in soybean"
+pub_citation: "Shine MB, Gao QM, Chowda-Reddy RV, Singh AK, Kachroo P, Kachroo A. Glycerol-3-phosphate mediates rhizobia-induced systemic signaling in soybean. Nat Commun. 2019 Nov 22;10(1):5303. doi: 10.1038/s41467-019-13318-8. PMID: 31757957; PMCID: PMC6876567."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210713.2"
+Gene_class: ~

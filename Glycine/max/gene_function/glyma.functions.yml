@@ -1,0 +1,734 @@
+---
+classical_locus: E9
+gene_symbols:
+  - GmFT2a
+gene_symbol_long: Flowering Time 2a
+pub_gene_id: Glyma.16g150700
+datastore_gene_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references:
+  - citation: Kong, Liu et al., 2010
+  - doi: 10.1104/pp.110.160796
+  - pmid: ~
+  - citation: Kong, Nan et al., 2014
+  - doi: 10.2135/cropsci2014.03.0228
+  - pmid: ~
+  - citation: Takeshima, Hayashi et al., 2016
+  - doi: 10.1093/jxb/erw283
+  - pmid: ~
+  - citation: Zhao, Takeshima et al., 2016
+  - doi: 10.1186/s12870-016-0704-9
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT5a
+gene_symbol_long: Flowering Time 5a
+pub_gene_id: Glyma.16G044100
+datastore_gene_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references:
+  - citation: Nan, Cao et al., 2014
+  - doi: 10.1371/journal.pone.0097669
+  - pmid: ~
+  - citation: Takeshima, Hayashi et al., 2016
+  - doi: 10.1093/jxb/erw283
+  - pmid: ~
+  - citation: Zhao, Takeshima et al., 2016
+  - doi: 10.1186/s12870-016-0704-9
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: E1
+gene_symbols:
+  - E1
+gene_symbol_long: Earliness 1
+pub_gene_id: Glyma.06G207800
+datastore_gene_id: glyma.Wm82.gnm4.ann1.Glyma.06G207800
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references:
+  - citation: Xia, Zhai et al., 2012
+  - doi: 10.3389/fpls.2021.632754
+  - pmid: ~
+  - citation: Watanabe, Xia et al., 2011
+  - doi: 10.1534/genetics.110.125062
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: E2
+gene_symbols:
+  - GmGI
+gene_symbol_long: Earliness 2
+pub_gene_id: Glyma.10G221500
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.10G221500
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references:
+  - citation: Tsubokura, Watanabe et al., 2013
+  - doi: 10.1093/aob/mct269
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+  - citation: Watanabe, Xia et al., 2011
+  - doi: 10.1534/genetics.110.125062
+  - pmid: ~
+  - citation: Xu, Yamagishi et al., 2015
+  - doi: 10.1104/pp.15.00763
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - Tof11
+  - PRR3a: ~
+gene_symbol_long: Time of Flowering 11
+pub_gene_id: SoyZH13_11G141200
+datastore_gene_id: glyma.Zh13.gnm1.ann1.SoyZH13_11G141200
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references:
+  - citation: Lu, Dong et al., 2020
+  - doi: 10.1038/s41588-020-0604-7
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - Tof12
+  - PRR3b: ~
+gene_symbol_long: Time of Flowering 12
+pub_gene_id: SoyZH13_12G067700
+datastore_gene_id: glyma.Zh13.gnm1.ann1.SoyZH13_12G067700
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references:
+  - citation: Lu, Dong et al., 2020
+  - doi: 10.1038/s41588-020-0604-7
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmSWN
+gene_symbol_long: Swinger
+pub_gene_id: Glyma.03G224300
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.03G224300
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Wu, Kang et al., 2019
+  - doi: 10.3389/fpls.2019.01221
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmELF5
+gene_symbol_long: Early Flowering 5
+pub_gene_id: Glyma.05G031100
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.05G031100
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Noh, Bizzell et al., 2004
+  - doi: 10.1111/j.1365-313X.2004.02072.x
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmTEM1a
+gene_symbol_long: Tempranillo 1a
+pub_gene_id: Glyma.20G186200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.20G186200
+confidence: 3
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Noh, Bizzell et al., 2004
+  - doi: 10.1111/j.1365-313X.2004.02072.x
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmPHYE1
+gene_symbol_long: Phytochrome E1
+pub_gene_id: Glyma.09G088500
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.09G088500
+confidence: 3
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmTOC1
+gene_symbol_long: Timing of CAB Expression 1
+pub_gene_id: Glyma.06G196200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.06G196200
+confidence: 2
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmGA2OX5
+gene_symbol_long: Gibberellin 2 Oxidase 5
+pub_gene_id: Glyma.13G218200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.13G218200
+confidence: 2
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmGA2OX6
+gene_symbol_long: Gibberellin 2 Oxidase 6
+pub_gene_id: Glyma.13G259400
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.13G259400
+confidence: 2
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmMSI1
+gene_symbol_long: Multicopy Suppressor of IRA 1
+pub_gene_id: Glyma.05G131200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.05G131200
+confidence: 5
+traits:
+  - entity: TO:0002616    # flowering time trait
+  - relation: ~
+  - entity: TO:0000469    # days to maturity
+  - relation: ~
+references:
+  - citation: Wu, Kang et al., 2019
+  - doi: 10.3389/fpls.2019.01221
+  - pmid: ~
+  - citation: Dietz, Chan et al., 2023
+  - doi: 10.3389/fpls.2022.889066
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - E1La
+gene_symbol_long: E1-like-a
+pub_gene_id: Glyma.04G156400
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.04G156400
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Xu, Yamagishi et al., 2015
+  - doi: 10.1104/pp.15.00763
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - E1Lb
+gene_symbol_long: E1-like-b
+pub_gene_id: Glyma.04G143300
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.04G143300
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Watanabe, Xia et al., 2011
+  - doi: 10.1534/genetics.110.125062
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: E3
+gene_symbols:
+  - GmphyA3
+gene_symbol_long: Earliness 3
+pub_gene_id: Glyma.19G224200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.19G224200
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Watanabe, Hideshima et al., 2009
+  - doi: 10.1534/genetics.108.098772
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: E4
+gene_symbols:
+  - GmphyA2
+gene_symbol_long: Earliness 4
+pub_gene_id: Glyma.20G090000
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.20G090000
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Liu, Jiang et al., 2008a
+  - doi: 10.1111/nph.14884
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: E10
+gene_symbols:
+  - GmFT4
+gene_symbol_long: Earliness 10
+pub_gene_id: Glyma.08G363100
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.08G363100
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Zhai et al., 2014
+  - doi: 10.1371/journal.pone.0089030
+  - pmid: ~
+  - citation: Samanfar et al., 2017
+  - doi: 10.1007/s00122-016-2819-7
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: J
+gene_symbols:
+  - GmELF3
+gene_symbol_long: Early Flowering 3
+pub_gene_id: Glyma.04G050200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.04G050200
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Lu, Zhao et al., 2017
+  - doi: 10.1038/ng.3819
+  - pmid: ~
+  - citation: Yue et al., 2017
+  - doi: 10.1016/j.molp.2016.12.004
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT5a
+gene_symbol_long: Flowering Time 5a
+pub_gene_id: Gyma.16G044100
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Gyma.16G044100
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Kong, Liu et al., 2010
+  - doi: 10.1104/pp.110.160796
+  - pmid: ~
+  - citation: Fan, Hu et al., 2014
+  - doi: 10.1186/1471-2229-14-9
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT1a
+gene_symbol_long: Flowering Timne 1a
+pub_gene_id: Glyma.18G298900
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.18G298900
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Guo, Xu et al., 2015
+  - doi: 10.1371/journal.pone.0136601
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT1b
+gene_symbol_long: Flowering Time 1b
+pub_gene_id: Glyma.18G299000
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.18G299000
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Guo, Xu et al., 2015
+  - doi: 10.1371/journal.pone.0136601
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT2b
+gene_symbol_long: Flowering Time 2b
+pub_gene_id: Glyma.16G151000
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.16G151000
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Fan, Hu et al., 2014
+  - doi: 10.1186/1471-2229-14-9
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT3a
+gene_symbol_long: Flowering Time 3a
+pub_gene_id: Glyma.16G044200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.16G044200
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Fan, Hu et al., 2014
+  - doi: 10.1186/1471-2229-14-9
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT3b
+gene_symbol_long: Flowering Time 3b
+pub_gene_id: Glyma.19G108100
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.19G108100
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Fan, Hu et al., 2014
+  - doi: 10.1186/1471-2229-14-9
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT5b
+gene_symbol_long: Flowering Time 5b
+pub_gene_id: Glyma.19G108200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.19G108200
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Fan, Hu et al., 2014
+  - doi: 10.1186/1471-2229-14-9
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - GmFT6
+gene_symbol_long: Flowering Time 6
+pub_gene_id: Glyma.08G363200
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.08G363200
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002212  # negatively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002212  # negatively regulates
+references: 
+  - citation: Wang, Zhou et al., 2015
+  - doi: 10.1105/tpc.114.135103
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - LHY1a
+gene_symbol_long: Leafy 1a
+pub_gene_id: Glyma.16G017400
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.16G017400
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Lu, Zhao et al., 2017
+  - doi: 10.1038/ng.3819
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - LHY1b
+gene_symbol_long: Leafy 1b
+pub_gene_id: Glyma.07G048500
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.07G048500
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Lu, Zhao et al., 2017
+  - doi: 10.1038/ng.3819
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - LHY2a
+gene_symbol_long: Leafy 2a
+pub_gene_id: Glyma.19G260900
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.19G260900
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Lu, Zhao et al., 2017
+  - doi: 10.1038/ng.3819
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~
+
+
+---
+classical_locus: ~
+gene_symbols:
+  - LHY2b
+gene_symbol_long: Leafy 2b
+pub_gene_id: Glyma.03G261800
+datastore_gene_id: glyma.Wm82.gnm2.ann1.Glyma.03G261800
+confidence: 5
+traits: 
+  - entity: TO:0002616    # flowering time trait
+  - relation: RO:0002213  # positively regulates
+  - entity: TO:0000469    # days to maturity
+  - relation: RO:0002213  # positively regulates
+references: 
+  - citation: Lu, Zhao et al., 2017
+  - doi: 10.1038/ng.3819
+  - pmid: ~
+  - citation: Lin, Liu et al., 2021
+  - doi: 10.1111/jipb.13021
+  - pmid: ~

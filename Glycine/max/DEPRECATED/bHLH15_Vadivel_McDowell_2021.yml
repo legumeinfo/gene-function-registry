@@ -1,0 +1,24 @@
+---
+identifier: bHLH15_Vadivel_McDowell_2021
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: bHLH15
+locus_full_name: bHLH protein
+locus_type: protein
+locus_ID: Glyma.15g005100
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "33742087"
+pub_doi: "10.1038/s42003-021-01889-6"
+pub_au_au_year: "Vadivel_McDowell_2021"
+pub_title: "A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max)"
+pub_citation: "Anguraj Vadivel AK, McDowell T, Renaud JB, Dhaubhadel S. A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max). Commun Biol. 2021 Mar 19;4(1):356. doi: 10.1038/s42003-021-01889-6. PMID: 33742087; PMCID: PMC7979867."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210610.3"
+Gene_class: ~

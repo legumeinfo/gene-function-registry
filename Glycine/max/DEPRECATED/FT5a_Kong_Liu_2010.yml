@@ -1,0 +1,34 @@
+---
+identifier: FT5a_Kong_Liu_2010
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: FT5a
+locus_full_name: Flowering Locus T 5 gene a
+locus_type: protein
+locus_ID: Glyma.16g044100
+annotation_name: Wm82.gnm2.ann1
+evidence code: IMP
+method_description: ~
+ontology_IDs:
+  - GO:0048587
+  - PO:0007016
+  - GO:0010228
+ontology_terms:
+  - regulation of short-day photoperiodism, flowering
+  - whole plant flowering stage
+  - vegetative to reproductive phase transition of meristem
+trait_synopsis: Early flowering;; Photoperiod insensitivity
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "20864544"
+pub_doi: "10.1104/pp.110.160796"
+pub_au_au_year: "Kong_Liu_2010"
+pub_title: "Two coordinately regulated homologs of Flowering Locus T are involved in the control of photoperiodic flowering in soybean"
+pub_citation: "Kong F, Liu B, Xia Z, Sato S, Kim BM, Watanabe S, Yamada T, Tabata S, Kanazawa A, Harada K, Abe J. Two coordinately regulated homologs of FLOWERING LOCUS T are involved in the control of photoperiodic flowering in soybean. Plant Physiol. 2010 Nov;154(3):1220-31. doi: 10.1104/pp.110.160796. Epub 2010 Sep 23. PMID: 20864544; PMCID: PMC2971601."
+supporting_pub_IDs:
+  - 25774204
+contact_person: ~
+comment: "soybase_ref_ID:AP20210615.3"
+Gene_class: ~

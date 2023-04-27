@@ -1,0 +1,24 @@
+---
+identifier: PDF_Wang_Li_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: PDF
+locus_full_name: serine/threonine-protein phosphatase 2A regulatory subunit A gene
+locus_type: protein
+locus_ID: Glyma.20g114000
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31514462"
+pub_doi: "10.3390/genes10090701"
+pub_au_au_year: "Wang_Li_2019"
+pub_title: "The soybean laccase gene family: Evolution and possible roles in plant defense and stem strength selection"
+pub_citation: "Wang Q, Li G, Zheng K, Zhu X, Ma J, Wang D, Tang K, Feng X, Leng J, Yu H, Yang S, Feng X. The Soybean Laccase Gene Family: Evolution and Possible Roles in Plant Defense and Stem Strength Selection. Genes (Basel). 2019 Sep 11;10(9):701. doi: 10.3390/genes10090701. PMID: 31514462; PMCID: PMC6770974."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210802.2"
+Gene_class: ~

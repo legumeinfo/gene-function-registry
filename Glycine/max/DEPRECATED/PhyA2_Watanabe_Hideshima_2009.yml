@@ -1,0 +1,26 @@
+---
+identifier: PhyA2_Watanabe_Hideshima_2009
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: PhyA2
+locus_full_name: Phytochrome A2
+locus_symbol_synonyms:
+  - E3
+locus_type: protein
+locus_ID: Glyma.20G090000
+annotation_name: #N/A
+evidence code: ~
+method_description: ~
+trait_synopsis: Flowering and Maturity
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "19474204"
+pub_doi: "10.1534/genetics.108.098772"
+pub_au_au_year: "Watanabe_Hideshima_2009"
+pub_title: "Map-based cloning of the Gene associated with the soybean maturity locus E3"
+pub_citation: "Watanabe S, Hideshima R, Xia Z, Tsubokura Y, Sato S, Nakamoto Y, Yamanaka N, Takahashi R, Ishimoto M, Anai T, Tabata S, Harada K. Map-based cloning of the gene associated with the soybean maturity locus E3. Genetics. 2009 Aug;182(4):1251-62. doi: 10.1534/genetics.108.098772. Epub 2009 May 27. PMID: 19474204; PMCID: PMC2728863."
+contact_person: ~
+comment: "soybase_ref_ID:RTN20200608.1"
+Gene_class: Flowering and Maturity

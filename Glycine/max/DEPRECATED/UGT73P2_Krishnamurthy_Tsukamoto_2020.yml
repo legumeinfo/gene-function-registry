@@ -1,0 +1,24 @@
+---
+identifier: UGT73P2_Krishnamurthy_Tsukamoto_2020
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: UGT73P2
+locus_full_name: Plant uridine 5' -diphosphate glycosyltransferase 73P2
+locus_type: protein
+locus_ID: Glyma.11g053400
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "32182686"
+pub_doi: "10.3390/ijms21051855"
+pub_au_au_year: "Krishnamurthy_Tsukamoto_2020"
+pub_title: "Reconstruction of the evolutionary histories of UGT gene superfamily in legumes clarifies the functional divergence of duplicates in specialized metabolism"
+pub_citation: "Krishnamurthy P, Tsukamoto C, Ishimoto M. Reconstruction of the Evolutionary Histories of UGT Gene Superfamily in Legumes Clarifies the Functional Divergence of Duplicates in Specialized Metabolism. Int J Mol Sci. 2020 Mar 8;21(5):1855. doi: 10.3390/ijms21051855. PMID: 32182686; PMCID: PMC7084467."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210617.4"
+Gene_class: ~

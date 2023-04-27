@@ -1,0 +1,24 @@
+---
+identifier: Phi-1_Yang_Zhang_2021
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: Phi-1
+locus_full_name: phosphate-induced protein
+locus_type: protein
+locus_ID: Glyma.14g176500
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "33841461"
+pub_doi: "10.3389/fpls.2021.629069"
+pub_au_au_year: "Yang_Zhang_2021"
+pub_title: "GmIDD is induced by short days in soybean and may accelerate flowering when overexpressed in Arabidopsis via inhibiting Agamous-Like 18."
+pub_citation: "Yang X, Zhang Y, Shan J, Sun J, Li D, Zhang X, Li W, Zhao L. <i>GmIDD</i> Is Induced by Short Days in Soybean and May Accelerate Flowering When Overexpressed in <i>Arabidopsis</i> via Inhibiting <i>AGAMOUS-LIKE 18</i>. Front Plant Sci. 2021 Feb 26;12:629069. doi: 10.3389/fpls.2021.629069. PMID: 33841461; PMCID: PMC8029582."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210614.2"
+Gene_class: ~

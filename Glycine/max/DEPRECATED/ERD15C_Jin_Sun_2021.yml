@@ -1,0 +1,24 @@
+---
+identifier: ERD15C_Jin_Sun_2021
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: ERD15C
+locus_full_name: Responsive to Desication 15 gene C
+locus_type: protein
+locus_ID: Glyma.02g260800
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "33368860"
+pub_doi: "10.1111/pbi.13536"
+pub_au_au_year: "Jin_Sun_2021"
+pub_title: "Natural variation in the promoter of GsERD15B affects salt tolerance in soybean."
+pub_citation: "Jin T, Sun Y, Shan Z, He J, Wang N, Gai J, Li Y. Natural variation in the promoter of GsERD15B affects salt tolerance in soybean. Plant Biotechnol J. 2021 Jun;19(6):1155-1169. doi: 10.1111/pbi.13536. Epub 2021 Jan 19. PMID: 33368860; PMCID: PMC8196659."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210609.3"
+Gene_class: ~

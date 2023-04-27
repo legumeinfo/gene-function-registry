@@ -1,0 +1,24 @@
+---
+identifier: PHO1_Wang_Gao_2019
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: PHO1
+locus_full_name: phosphate responsive 1 gene H9
+locus_type: protein
+locus_ID: Glyma.20g032400
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31412775"
+pub_doi: "10.1186/s12870-019-1959-8"
+pub_au_au_year: "Wang_Gao_2019"
+pub_title: "The PHOSPHATE1 genes participate in salt and Pi signaling pathways an play adaptive roles during soybean evolution."
+pub_citation: "Wang Y, Gao H, He L, Zhu W, Yan L, Chen Q, He C. The PHOSPHATE1 genes participate in salt and Pi signaling pathways and play adaptive roles during soybean evolution. BMC Plant Biol. 2019 Aug 14;19(1):353. doi: 10.1186/s12870-019-1959-8. PMID: 31412775; PMCID: PMC6694516."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210614.6"
+Gene_class: ~

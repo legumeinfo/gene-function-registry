@@ -1,0 +1,24 @@
+---
+identifier: DHAR-3a_Costa_Roque_2021
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: DHAR-3a
+locus_full_name: DHAR class glutathione S-transferase 3 gene a
+locus_type: protein
+locus_ID: Glyma.18g040100
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "34302870"
+pub_doi: "10.1016/j.ijbiomac.2021.07.103"
+pub_au_au_year: "Costa_Roque_2021"
+pub_title: "Genome-wide identification of ascorbate-glutathione cycle gene families in soybean (Glycine max) reveals gene duplication events"
+pub_citation: "Costa JH, Roque ALM, Aziz S, Dos Santos CP, Germano TA, Batista MC, Thiers KLL, da Cruz Saraiva KD, Arnholdt-Schmitt B. Genome-wide identification of ascorbate-glutathione cycle gene families in soybean (Glycine max) reveals gene duplication events and specificity of gene members linked to development and stress conditions. Int J Biol Macromol. 2021 Sep 30;187:528-543. doi: 10.1016/j.ijbiomac.2021.07.103. Epub 2021 Jul 21. PMID: 34302870."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210726.1"
+Gene_class: ~

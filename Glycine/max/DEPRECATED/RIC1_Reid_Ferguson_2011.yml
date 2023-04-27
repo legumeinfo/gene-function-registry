@@ -1,0 +1,24 @@
+---
+identifier: RIC1_Reid_Ferguson_2011
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: RIC1
+locus_full_name: CLE-related protein RIC1
+locus_type: protein
+locus_ID: Glyma13g36830
+annotation_name: Wm82.gnm1.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "21198362"
+pub_doi: "10.1094/MPMI-09-10-0207"
+pub_au_au_year: "Reid_Ferguson_2011"
+pub_title: "Inoculation- and nitrate-induced CLE peptides of soybean control NARK-dependent nodule formation"
+pub_citation: "Reid DE, Ferguson BJ, Gresshoff PM. Inoculation- and nitrate-induced CLE peptides of soybean control NARK-dependent nodule formation. Mol Plant Microbe Interact. 2011 May;24(5):606-18. doi: 10.1094/MPMI-09-10-0207. PMID: 21198362."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210706.1"
+Gene_class: ~

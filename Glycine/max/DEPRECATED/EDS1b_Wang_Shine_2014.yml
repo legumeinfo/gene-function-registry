@@ -1,0 +1,24 @@
+---
+identifier: EDS1b_Wang_Shine_2014
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: EDS1b
+locus_full_name: Enhanced disease susceptibility 1 gene a
+locus_type: protein
+locus_ID: Glyma.06g187400
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "24872380"
+pub_doi: "10.1104/pp.114.242495"
+pub_au_au_year: "Wang_Shine_2014"
+pub_title: "Enhanced disease susceptibility1 mediates pathogen resistance and virulence function of a bacterial effector in soybean"
+pub_citation: "Wang J, Shine MB, Gao QM, Navarre D, Jiang W, Liu C, Chen Q, Hu G, Kachroo A. Enhanced Disease Susceptibility1 Mediates Pathogen Resistance and Virulence Function of a Bacterial Effector in Soybean. Plant Physiol. 2014 Jul;165(3):1269-1284. doi: 10.1104/pp.114.242495. Epub 2014 May 28. PMID: 24872380; PMCID: PMC4081336."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210716.3"
+Gene_class: ~

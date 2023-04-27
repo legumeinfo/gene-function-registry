@@ -1,0 +1,24 @@
+---
+identifier: DRR3_Shi_Zhang_2020
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: DRR3
+locus_full_name: disease resitance-responsive 3 protein
+locus_type: protein
+locus_ID: Glyma.11g150700
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "32186464"
+pub_doi: "10.1094/MPMI-01-20-0017-R"
+pub_au_au_year: "Shi_Zhang_2020"
+pub_title: "RNA sequencing-associated study identifies GmDRR1 as positively regulating the establishment of symbiosis in soybean."
+pub_citation: "Shi Y, Zhang Z, Wen Y, Yu G, Zou J, Huang S, Wang J, Zhu J, Wang J, Chen L, Ma C, Liu X, Zhu R, Li Q, Li J, Guo M, Liu H, Zhu Y, Sun Z, Han L, Jiang H, Wu X, Wang N, Zhang W, Yin Z, Li C, Hu Z, Qi Z, Liu C, Chen Q, Xin D. RNA Sequencing-Associated Study Identifies <i>GmDRR1</i> as Positively Regulating the Establishment of Symbiosis in Soybean. Mol Plant Microbe Interact. 2020 Jun;33(6):798-807. doi: 10.1094/MPMI-01-20-0017-R. Epub 2020 May 7. PMID: 32186464."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210616.1"
+Gene_class: ~

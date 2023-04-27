@@ -1,0 +1,24 @@
+---
+identifier: HK02_Le_Nishiyama_2011
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: HK02
+locus_full_name: Root Exclusive, Histidine Kinase
+locus_type: protein
+locus_ID: Glyma.04g058400
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "21208938"
+pub_doi: "10.1093/dnares/dsq032"
+pub_au_au_year: "Le_Nishiyama_2011"
+pub_title: "Genome-wide expression profiling of soybean two-component system genes in soybean root and shoot tissues under dehydration stress"
+pub_citation: "Le DT, Nishiyama R, Watanabe Y, Mochida K, Yamaguchi-Shinozaki K, Shinozaki K, Tran LS. Genome-wide expression profiling of soybean two-component system genes in soybean root and shoot tissues under dehydration stress. DNA Res. 2011 Feb;18(1):17-29. doi: 10.1093/dnares/dsq032. Epub 2011 Jan 4. PMID: 21208938; PMCID: PMC3041507."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210603.1"
+Gene_class: ~

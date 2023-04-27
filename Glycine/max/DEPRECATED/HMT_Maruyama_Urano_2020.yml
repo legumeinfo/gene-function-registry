@@ -1,0 +1,24 @@
+---
+identifier: HMT_Maruyama_Urano_2020
+priority: ~
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: HMT
+locus_full_name: homocyteine S-methyltransferase
+locus_type: protein
+locus_ID: Glyma.20g148900
+annotation_name: Wm82.gnm2.ann1
+evidence code: ~
+method_description: ~
+trait_synopsis: ~
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "32072682"
+pub_doi: "10.1111/tpj.14719"
+pub_au_au_year: "Maruyama_Urano_2020"
+pub_title: "Metabolite/phytohormone-gene regulatory networks in soybean organs under dehydration conditions revealded by integration analysis."
+pub_citation: "Maruyama K, Urano K, Kusano M, Sakurai T, Takasaki H, Kishimoto M, Yoshiwara K, Kobayashi M, Kojima M, Sakakibara H, Saito K, Shinozaki K. Metabolite/phytohormone-gene regulatory networks in soybean organs under dehydration conditions revealed by integration analysis. Plant J. 2020 Jul;103(1):197-211. doi: 10.1111/tpj.14719. Epub 2020 May 3. PMID: 32072682; PMCID: PMC7384127."
+contact_person: ~
+comment: "soybase_ref_ID:AP20210622.5"
+Gene_class: ~

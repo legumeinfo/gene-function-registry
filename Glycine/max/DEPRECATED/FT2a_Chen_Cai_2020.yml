@@ -1,0 +1,34 @@
+---
+identifier: FT2a_Chen_Cai_2020
+priority: 5
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+locus_symbol: FT2a
+locus_full_name: Flowering Locus T2 gene a
+locus_symbol_synonyms:
+  - E9
+locus_type: protein
+locus_ID: Glyma.16g150700
+annotation_name: Wm82.gnm2.ann1
+evidence code: IMP
+method_description: ~
+ontology_IDs:
+  - GO:0048587
+  - PO:0007016
+ontology_terms:
+  - regulation of short-day photoperiodism, flowering
+  - whole plant flowering stage
+trait_synopsis: Early flowering;; Photoperiod insensitivity
+trait_dscription_full: ~
+with_or_from: ~
+pub_pmid: "31981430"
+pub_doi: "10.1111/pce.13695"
+pub_au_au_year: "Chen_Cai_2020"
+pub_title: "Soybean adaptation to high-latitude regions is associated with natural variations of GmFT2b, an ortholog of Flowering Locus T"
+pub_citation: "Chen L, Cai Y, Qu M, Wang L, Sun H, Jiang B, Wu T, Liu L, Sun S, Wu C, Yao W, Yuan S, Han T, Hou W. Soybean adaption to high-latitude regions is associated with natural variations of GmFT2b, an ortholog of FLOWERING LOCUS T. Plant Cell Environ. 2020 Apr;43(4):934-944. doi: 10.1111/pce.13695. Epub 2020 Jan 25. PMID: 31981430; PMCID: PMC7154755."
+supporting_pub_IDs:
+  - 25774204
+contact_person: ~
+comment: "soybase_ref_ID:AP20210628.7"
+Gene_class: ~
