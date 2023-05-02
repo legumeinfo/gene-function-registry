@@ -1,0 +1,338 @@
+##### PUB RECORD #####
+## 10.1371/journal.pone.0089030  24586488  PMC3929636  Zhai et al., 2014 ##
+
+PMID- 24586488
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150110
+LR  - 20220409
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 9
+IP  - 2
+DP  - 2014
+TI  - GmFT4, a homolog of FLOWERING LOCUS T, is positively regulated by E1 and 
+      functions as a flowering repressor in soybean.
+PG  - e89030
+LID - 10.1371/journal.pone.0089030 [doi]
+LID - e89030
+AB  - The major maturity gene E1 has the most prominent effect on flowering time and 
+      photoperiod sensitivity of soybean, but the pathway mediated by E1 is largely 
+      unknown. Here, we found the expression of GmFT4, a homolog of Flowering Locus T, 
+      was strongly up-regulated in transgenic soybean overexpressing E1, whereas 
+      expression of flowering activators, GmFT2a and GmFT5a, was suppressed. GmFT4 
+      expression was strongly up-regulated by long days exhibiting a diurnal rhythm, 
+      but down-regulated by short days. Notably, the basal expression level of GmFT4 
+      was elevated when transferred to continous light, whereas repressed when 
+      transferred to continuous dark. GmFT4 was primarily expressed in fully expanded 
+      leaves. Transcript abundance of GmFT4 was significantly correlated with that of 
+      functional E1, as well as flowering time phenotype in different cultivars. 
+      Overexpression of GmFT4 delayed the flowering time in transgenic Arabidopsis. 
+      Taken together, we propose that GmFT4 acts downstream of E1 and functions as a 
+      flowering repressor, and the balance of two antagonistic factors (GmFT4 vs 
+      GmFT2a/5a) determines the flowering time of soybean.
+FAU - Zhai, Hong
+AU  - Zhai H
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Lu, Shixiang
+AU  - Lu S
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Liang, Shuang
+AU  - Liang S
+AD  - College of Life Science, Northeast Agricultural University, Harbin, Heilongjiang, 
+      China.
+FAU - Wu, Hongyan
+AU  - Wu H
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Zhang, Xingzheng
+AU  - Zhang X
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Liu, Baohui
+AU  - Liu B
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Kong, Fanjiang
+AU  - Kong F
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Yuan, Xiaohui
+AU  - Yuan X
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+FAU - Li, Jing
+AU  - Li J
+AD  - College of Life Science, Northeast Agricultural University, Harbin, Heilongjiang, 
+      China.
+FAU - Xia, Zhengjun
+AU  - Xia Z
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, Heilongjiang, 
+      China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140219
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (FT protein, Arabidopsis)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Repressor Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Arabidopsis/genetics
+MH  - Arabidopsis Proteins/genetics
+MH  - Flowers/*genetics
+MH  - Gene Expression Regulation, Plant
+MH  - Molecular Sequence Data
+MH  - Phylogeny
+MH  - Plant Proteins/*genetics
+MH  - Plants, Genetically Modified
+MH  - Repressor Proteins/*genetics
+MH  - Sequence Homology
+MH  - Soybeans/*genetics
+MH  - Transcription Factors/*genetics
+PMC - PMC3929636
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2014/03/04 06:00
+MHDA- 2015/01/13 06:00
+CRDT- 2014/03/04 06:00
+PHST- 2013/09/14 00:00 [received]
+PHST- 2014/01/19 00:00 [accepted]
+PHST- 2014/03/04 06:00 [entrez]
+PHST- 2014/03/04 06:00 [pubmed]
+PHST- 2015/01/13 06:00 [medline]
+AID - PONE-D-13-37961 [pii]
+AID - 10.1371/journal.pone.0089030 [doi]
+PST - epublish
+SO  - PLoS One. 2014 Feb 19;9(2):e89030. doi: 10.1371/journal.pone.0089030. eCollection 
+      2014.
+
+
+##### PUB RECORD #####
+## 10.1371/journal.pone.0097669  24845624  PMC4028237  Nan, Cao et al., 2014 ##
+
+PMID- 24845624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150212
+LR  - 20211021
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 9
+IP  - 5
+DP  - 2014
+TI  - GmFT2a and GmFT5a redundantly and differentially regulate flowering through 
+      interaction with and upregulation of the bZIP transcription factor GmFDL19 in 
+      soybean.
+PG  - e97669
+LID - 10.1371/journal.pone.0097669 [doi]
+LID - e97669
+AB  - FLOWERING LOCUS T (FT) is the key flowering integrator in Arabidopsis 
+      (Arabidopsis thaliana), and its homologs encode florigens in many plant species 
+      regardless of their photoperiodic response. Two FT homologs, GmFT2a and GmFT5a, 
+      are involved in photoperiod-regulated flowering and coordinately control 
+      flowering in soybean. However, the molecular and genetic understanding of the 
+      roles played by GmFT2a and GmFT5a in photoperiod-regulated flowering in soybean 
+      is very limited. In this study, we demonstrated that GmFT2a and GmFT5a were able 
+      to promote early flowering in soybean by overexpressing these two genes in the 
+      soybean cultivar Williams 82 under noninductive long-day (LD) conditions. The 
+      soybean homologs of several floral identity genes, such as GmAP1, GmSOC1 and 
+      GmLFY, were significantly upregulated by GmFT2a and GmFT5a in a redundant and 
+      differential pattern. A bZIP transcription factor, GmFDL19, was identified as 
+      interacting with both GmFT2a and GmFT5a, and this interaction was confirmed by 
+      yeast two-hybridization and bimolecular fluorescence complementation (BiFC). The 
+      overexpression of GmFDL19 in soybean caused early flowering, and the 
+      transcription levels of the flowering identity genes were also upregulated by 
+      GmFDL19, as was consistent with the upregulation of GmFT2a and GmFT5a. The 
+      transcription of GmFDL19 was also induced by GmFT2a. The results of the 
+      electrophoretic mobility shift assay (EMSA) indicated that GmFDL19 was able to 
+      bind with the cis-elements in the promoter of GmAP1a. Taken together, our results 
+      suggest that GmFT2a and GmFT5a redundantly and differentially control 
+      photoperiod-regulated flowering in soybean through both physical interaction with 
+      and transcriptional upregulation of the bZIP transcription factor GmFDL19, 
+      thereby inducing the expression of floral identity genes.
+FAU - Nan, Haiyang
+AU  - Nan H
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China; 
+      University of Chinese Academy of Sciences, Beijing, China.
+FAU - Cao, Dong
+AU  - Cao D
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China.
+FAU - Zhang, Dayong
+AU  - Zhang D
+AD  - Institute of Biotechnology, Jiangsu Academy of Agricultural Sciences, Nanjing, 
+      China.
+FAU - Li, Ying
+AU  - Li Y
+AD  - State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry 
+      University, Harbin, China.
+FAU - Lu, Sijia
+AU  - Lu S
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China; 
+      University of Chinese Academy of Sciences, Beijing, China.
+FAU - Tang, Lili
+AU  - Tang L
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China.
+FAU - Yuan, Xiaohui
+AU  - Yuan X
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China.
+FAU - Liu, Baohui
+AU  - Liu B
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China.
+FAU - Kong, Fanjiang
+AU  - Kong F
+AD  - The Key of Soybean Molecular Design Breeding, Northeast Institute of Geography 
+      and Agroecology, Chinese Academy of Sciences, Nangang District, Harbin, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140520
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Flowers/genetics/*metabolism
+MH  - Gene Expression Regulation, Plant/*physiology
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Soybeans/genetics/*metabolism
+MH  - Transcription Factors/genetics/*metabolism
+MH  - Up-Regulation/*physiology
+PMC - PMC4028237
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2014/05/23 06:00
+MHDA- 2015/02/13 06:00
+CRDT- 2014/05/22 06:00
+PHST- 2014/03/20 00:00 [received]
+PHST- 2014/04/14 00:00 [accepted]
+PHST- 2014/05/22 06:00 [entrez]
+PHST- 2014/05/23 06:00 [pubmed]
+PHST- 2015/02/13 06:00 [medline]
+AID - PONE-D-14-12622 [pii]
+AID - 10.1371/journal.pone.0097669 [doi]
+PST - epublish
+SO  - PLoS One. 2014 May 20;9(5):e97669. doi: 10.1371/journal.pone.0097669. eCollection 
+      2014.
+
+
+##### PUB RECORD #####
+## 10.1111/jipb.13021  33090664  null  Lin, Liu et al., 2021 ##
+
+PMID- 33090664
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210804
+LR  - 20210804
+IS  - 1744-7909 (Electronic)
+IS  - 1672-9072 (Linking)
+VI  - 63
+IP  - 6
+DP  - 2021 Jun
+TI  - Molecular mechanisms for the photoperiodic regulation of flowering in soybean.
+PG  - 981-994
+LID - 10.1111/jipb.13021 [doi]
+AB  - Photoperiodic flowering is one of the most important factors affecting regional 
+      adaptation and yield in soybean (Glycine max). Plant adaptation to long-day 
+      conditions at higher latitudes requires early flowering and a reduction or loss 
+      of photoperiod sensitivity; adaptation to short-day conditions at lower latitudes 
+      involves delayed flowering, which prolongs vegetative growth for maximum yield 
+      potential. Due to the influence of numerous major loci and quantitative trait 
+      loci (QTLs), soybean has broad adaptability across latitudes. Forward genetic 
+      approaches have uncovered the molecular basis for several of these major maturity 
+      genes and QTLs. Moreover, the molecular characterization of orthologs of 
+      Arabidopsis thaliana flowering genes has enriched our understanding of the 
+      photoperiodic flowering pathway in soybean. Building on early insights into the 
+      importance of the photoreceptor phytochrome A, several circadian clock components 
+      have been integrated into the genetic network controlling flowering in soybean: 
+      E1, a repressor of FLOWERING LOCUS T orthologs, plays a central role in this 
+      network. Here, we provide an overview of recent progress in elucidating 
+      photoperiodic flowering in soybean, how it contributes to our fundamental 
+      understanding of flowering time control, and how this information could be used 
+      for molecular design and breeding of high-yielding soybean cultivars.
+CI  - (c) 2020 Institute of Botany, Chinese Academy of Sciences.
+FAU - Lin, Xiaoya
+AU  - Lin X
+AD  - Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, 510642, China.
+FAU - Liu, Baohui
+AU  - Liu B
+AD  - Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, 510642, China.
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, 150081, China.
+FAU - Weller, James L
+AU  - Weller JL
+AD  - School of Natural Sciences, University of Tasmania, Hobart, Tasmania, 7001, 
+      Australia.
+FAU - Abe, Jun
+AU  - Abe J
+AD  - Research Faculty of Agriculture, Hokkaido University, Sapporo, 060-8589, Japan.
+FAU - Kong, Fanjiang
+AU  - Kong F
+AD  - Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, 510642, China.
+AD  - Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of 
+      Geography and Agroecology, Chinese Academy of Sciences, Harbin, 150081, China.
+LA  - eng
+GR  - National Natural Science Foundation of China/
+GR  - State Key Laboratory for Conservation and Utilization of Subtropical 
+      Agro-bioresources/
+PT  - Journal Article
+PT  - Review
+DEP - 20210426
+PL  - China (Republic : 1949- )
+TA  - J Integr Plant Biol
+JT  - Journal of integrative plant biology
+JID - 101250502
+SB  - IM
+MH  - Circadian Rhythm/genetics/physiology
+MH  - Flowers/genetics/*physiology
+MH  - Gene Expression Regulation, Plant/genetics/physiology
+MH  - Gene Regulatory Networks/genetics/physiology
+MH  - *Photoperiod
+MH  - Plant Breeding
+MH  - Quantitative Trait Loci/genetics
+MH  - Soybeans/genetics/*physiology
+OTO - NOTNLM
+OT  - molecular-designed breeding
+OT  - photoperiodic flowering
+OT  - soybean
+EDAT- 2020/10/23 06:00
+MHDA- 2021/08/05 06:00
+CRDT- 2020/10/22 12:22
+PHST- 2020/08/08 00:00 [received]
+PHST- 2020/09/27 00:00 [accepted]
+PHST- 2020/10/23 06:00 [pubmed]
+PHST- 2021/08/05 06:00 [medline]
+PHST- 2020/10/22 12:22 [entrez]
+AID - 10.1111/jipb.13021 [doi]
+PST - ppublish
+SO  - J Integr Plant Biol. 2021 Jun;63(6):981-994. doi: 10.1111/jipb.13021. Epub 2021 
+      Apr 26.
+
+
+##### PUB RECORD #####
+## 10.1111/nph.14884  29120038  PMC5900889  Liu, Jiang et al., 2008a ##
