@@ -9,7 +9,7 @@ use Getopt::Long;
 use feature "say";
 
 my $usage = <<EOS;
-  Synopsis: get_citations.pl -traits TRAITS.yml -cit_out CITATIONS.tsv
+  Synopsis: get_citations.pl -traits gensp.traits.yml -cit_out gensp.citations.txt
 
   This script uses information in a yaml-format traits file to evaluate and fill in 
   missing citation values (pmid from doi or doi from pmid), and to generate 
@@ -142,7 +142,12 @@ for my $doc_ref ( @yaml ){
       &printstr_yml( "traits:" );
       foreach my $trait (@{ $value }){
         while (my ($k, $v) = each (%{$trait})){
-          &printstr_yml( "  - $k: $v" );
+          if ($k =~ /name/) { # e.g. entity_name, relation_name, quality_name
+            &printstr_yml( "  - $k: $v" );
+          }
+          else {  # e.g. entity, relation, quality
+            &printstr_yml( "    $k: $v" );
+          }
         }
       }
     }
@@ -244,6 +249,7 @@ sub get_ids {
 __END__
 
 S. Cannon
-2022-04-30 Initial version, using the PubMed/NLM idconv citation service
-2022-05-01 Switch to fatcat biblio lookup service
+2023-04-30 Initial version, using the PubMed/NLM idconv citation service
+2023-05-01 Switch to fatcat biblio lookup service
+2023-05-03 Change grouping of ontology terms, adding e.g. entity_name to go with entity
 

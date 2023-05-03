@@ -1,0 +1,38 @@
+## DOCUMENT 1 ##
+---
+classical_locus: null
+gene_symbols:
+  - VfCYP78A
+gene_symbol_long: cytochrome P450 monooxygenase CYP78A
+gene_model_pub_name: Vfaba.Hedin2.R1.4g051440.1
+gene_model_full_id: vicfa.Hedin2.gnm1.ann1.4g051440.1
+confidence: 4
+comments: Evidence based on GWAS, allele analysis, and homology to an Arabidopsis gene involved in seed size regulation
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+references:
+  - citation: Jayakodi, Golicz et al., 2023
+    doi: 10.1038/s41586-023-05791-5
+    pmid: 36890232
+
+
+## DOCUMENT 2 ##
+---
+classical_locus: null
+gene_symbols:
+  - VfPPO-2
+gene_symbol_long: polyphenol oxidase 2
+gene_model_pub_name: Vfaba.Tiffany.R1.1g391400.1
+gene_model_full_id: vicfa.Tiffany.gnm1.ann1.1g391400.1
+confidence: 4
+comments: E/vidence based on association and allelic variant analysis, and homology to an orthologous locus in pea (gene Psat1g2063360) that controls hilum color. "[Evidence suggests that the] regulation of expression of VfPPO-2 controls hilum colour variation in faba bean."
+traits:
+  - entity_name: hilum color
+    entity: TO:0000968
+references:
+  - citation: Jayakodi, Golicz et al., 2023
+    doi: 10.1038/s41586-023-05791-5
+    pmid: 36890232
+
+
