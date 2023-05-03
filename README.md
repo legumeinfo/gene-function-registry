@@ -29,10 +29,14 @@ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G221500
 confidence: 5
 comments: ~
 traits:
-  - entity: TO:0002616    # flowering time trait
-    relation: RO:0002212  # negatively regulates
-  - entity: TO:0000469    # days to maturity
-    relation: RO:0002212  # negatively regulates
+  - entity_name: flowering time
+    entity: TO:0002616
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+  - relation_name: positively regulates
+    relation: RO:0002213
 references:
   - citation: Tsubokura, Watanabe et al., 2013
     doi: 10.1093/aob/mct269
@@ -57,9 +61,9 @@ The **gene_model_full_id** block is required. It holds the fully-qualified gene 
 
 The **comments** block is for unstructured text, if needed for curatorial comments or other purposes.
 
-The **confidence** block is to have values [1-5] or null. This field indicates level of experimental support, with 5 being the strongest -- typically consisting of evidence at the level of a genetic complementation test, or otherwise observed as a mutant phenotype (experimental evidence code IMP) associated with the mutated form of the indicated gene. A level of 3 would be strong associational support, but lacking experimental lab validation such as genetic complementation. Levels 1 and 2 would be high-throughput evidence, and generally will NOT be collected in the SoyBase/LIS/PeanutBase projects. Papers that report lists of "candidate genes" in the vicinity of a GWAS or QTL region would be level 1 or 2 support, and should generally not be collected here.
+The **confidence** block is to have values [1-5]. This field indicates level of experimental support, with 5 being the strongest -- typically consisting of evidence at the level of a genetic complementation test, or otherwise observed as a mutant phenotype (experimental evidence code IMP) associated with the mutated form of the indicated gene. A level of 3 would be strong associational support, but lacking experimental lab validation such as genetic complementation. Levels 1 and 2 would be high-throughput evidence, and generally will NOT be collected in the SoyBase/LIS/PeanutBase projects. Papers that report lists of "candidate genes" in the vicinity of a GWAS or QTL region would be level 1 or 2 support, and should generally not be collected here.
 
-The **traits** block must contain at least one "entity" key with a valid ontology accession. Trait ontology is preferred where possible. Optionally, a "relation" key with a relation ontology may be associated with the entity ontology. The association between entity and relation ontology terms is established by proximity: entity and term followed by relation and term. Optionally (for the benefit of curators), a comment (marked by "#") may be added to the ontology-term lines.
+The **traits** block must contain at least one "entity" name (e.g. `  -entity_name: flowering time`) and entity accession (e.g. `    entity: TO:0002616`). For entities, the trait ontology (TO) is preferred where possible. Optionally, ontology modifier terms may be listed following an entity -- typically, a "quality" term, from [PATO](https://www.ebi.ac.uk/ols/ontologies/pato) and/or a "relation" key with a [relation ontology](https://www.ebi.ac.uk/ols/ontologies/ro). The association between entity and relation ontology terms is established by proximity: entity and term followed by the modifying term(s). 
 
 The **references** block contains one or more blocks of citations, each containing three key-value pairs: "citation", "doi", and "pmid". Of these, either the pmid or doi is required (some publications lack a pmid, but all should have a doi). The citation should be in one of the following forms (depending on whether there are one, two, or three-or-more authors):  
 ```
