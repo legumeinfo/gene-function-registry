@@ -903,6 +903,7 @@ gene_symbol_long: ~
 gene_model_pub_name: EU038802
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -920,6 +921,7 @@ gene_symbol_long: ~
 gene_model_pub_name: EU038803
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -937,6 +939,7 @@ gene_symbol_long: ~
 gene_model_pub_name: DQ899790
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -954,6 +957,7 @@ gene_symbol_long: ~
 gene_model_pub_name: Medtr5g099060
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -971,6 +975,7 @@ gene_symbol_long: ~
 gene_model_pub_name: GU966590
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -988,6 +993,7 @@ gene_symbol_long: ~
 gene_model_pub_name: AJ972478
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -1005,6 +1011,7 @@ gene_symbol_long: ~
 gene_model_pub_name: Medtr5g036480
 gene_model_full_id: ~
 confidence: 5
+phenotype_synopsis: Control of symbiotic nitrogen fixation
 traits:
   - entity_name: root nodule
     entity: PO:0003023
