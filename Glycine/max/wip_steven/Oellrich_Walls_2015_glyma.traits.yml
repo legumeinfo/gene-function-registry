@@ -6,7 +6,7 @@ gene_symbol_long: GmAMDH2
 gene_model_pub_name: Glyma06g19820
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: fragrant seeds
+phenotype_synopsis: fragrant seeds
 traits:
   - entity_name: enzyme activity trait
     entity: TO:0000599
@@ -26,7 +26,7 @@ gene_symbol_long: Anthocyanin Reductase activitiy reduced
 gene_model_pub_name: Glyma08g06630
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Red-brown seed coat color
+phenotype_synopsis: Red-brown seed coat color
 traits:
   - entity_name: enzyme activity trait
     entity: TO:0000599
@@ -48,7 +48,7 @@ gene_symbol_long: Early flowering under long days
 gene_model_pub_name: Glyma06g23026
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Early flowering
+phenotype_synopsis: Early flowering
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
@@ -67,7 +67,7 @@ gene_symbol_long: Early flowering
 gene_model_pub_name: Glyma01g36600
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Early Flowering
+phenotype_synopsis: Early flowering
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
@@ -85,7 +85,7 @@ gene_symbol_long: Early flowering
 gene_model_pub_name: Glyma19g41210
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Early flowering
+phenotype_synopsis: Early flowering
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
@@ -105,7 +105,7 @@ gene_symbol_long: ESU
 gene_model_pub_name: Glyma05g27840
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Embryo urease activity
+phenotype_synopsis: Embryo urease activity
 traits:
   - entity_name: enzyme activity trait
     entity: TO:0000599
@@ -125,7 +125,7 @@ gene_symbol_long: GmUreF
 gene_model_pub_name: Glyma14g04380
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Urease activity
+phenotype_synopsis: Urease activity
 traits:
   - entity_name: enzyme activity trait
     entity: TO:0000599
@@ -145,7 +145,7 @@ gene_symbol_long: GmUreG
 gene_model_pub_name: Glyma08g08970
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Urease activity
+phenotype_synopsis: Urease activity
 traits:
   - entity_name: enzyme activity trait
     entity: TO:0000599
@@ -165,7 +165,7 @@ gene_symbol_long: UU
 gene_model_pub_name: Glyma11g37250
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Urease activity
+phenotype_synopsis: Urease activity
 traits:
   - entity_name: enzyme activity trait
     entity: TO:0000599
@@ -185,7 +185,7 @@ gene_symbol_long: R2R MYB Transcription Factor
 gene_model_pub_name: Glyma09g36983
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Brown hilum, brown seed coat color
+phenotype_synopsis: Brown hilum, brown seed coat color
 traits:
   - entity_name: hilum
     entity: PO:0020063
@@ -205,7 +205,7 @@ gene_symbol_long: Asparagine synthase 1
 gene_model_pub_name: Glyma11g27480
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High asparagine synthase activity in seed coats
+phenotype_synopsis: High asparagine synthase activity in seed coats
 traits:
   - entity_name: endosperm storage protein content
     entity: TO:0002653
@@ -229,7 +229,7 @@ gene_symbol_long: Asparaginase B1
 gene_model_pub_name: Glyma14g09510
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High asparaginase activity in seed coats
+phenotype_synopsis: High asparaginase activity in seed coats
 traits:
   - entity_name: endosperm storage protein content
     entity: TO:0002653
@@ -253,7 +253,7 @@ gene_symbol_long: Late flowering under short day
 gene_model_pub_name: Glyma04g11010
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Late flowering under short day
+phenotype_synopsis: Late flowering under short day
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
@@ -273,7 +273,7 @@ gene_symbol_long: FAB2-3
 gene_model_pub_name: Glyma14g27990
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High seed stearic acid content
+phenotype_synopsis: High seed stearic acid content
 traits:
   - entity_name: stearic acid content
     entity: TO:0005003
@@ -293,7 +293,7 @@ gene_symbol_long: FAD2-1
 gene_model_pub_name: Glyma10g42470
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High seed oleic acid content
+phenotype_synopsis: High seed oleic acid content
 traits:
   - entity_name: oleic acid content
     entity: TO:0005002
@@ -313,7 +313,7 @@ gene_symbol_long: FAD2-2
 gene_model_pub_name: Glyma20g24530
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High seed oleic acid content
+phenotype_synopsis: High seed oleic acid content
 traits:
   - entity_name: oleic acid content
     entity: TO:0005002
@@ -333,7 +333,7 @@ gene_symbol_long: FAD3-1
 gene_model_pub_name: Glyma14g37350
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High seed oleic acid content
+phenotype_synopsis: High seed oleic acid content
 traits:
   - entity_name: oleic acid content
     entity: TO:0005002
@@ -353,7 +353,7 @@ gene_symbol_long: FAD3-2
 gene_model_pub_name: Glyma02g39230
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High seed oleic acid content
+phenotype_synopsis: High seed oleic acid content
 traits:
   - entity_name: oleic acid content
     entity: TO:0005002
@@ -373,7 +373,7 @@ gene_symbol_long: FAD3-3
 gene_model_pub_name: Glyma18g06950
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: High seed oleic acid content
+phenotype_synopsis: High seed oleic acid content
 traits:
   - entity_name: oleic acid content
     entity: TO:0005002
@@ -393,7 +393,7 @@ gene_symbol_long: FT-2A
 gene_model_pub_name: Glyma16g26660
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Photoperiod insensitivity
+phenotype_synopsis: Photoperiod insensitivity
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
@@ -415,7 +415,7 @@ gene_symbol_long: FT-5A
 gene_model_pub_name: Glyma16g04830
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Photoperiod insensitivity
+phenotype_synopsis: Photoperiod insensitivity
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
@@ -437,7 +437,7 @@ gene_symbol_long: MYB Transcription Factor
 gene_model_pub_name: Glyma16g01980
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Elongated hypocotyl
+phenotype_synopsis: Elongated hypocotyl
 traits:
   - entity_name: seedling hypocotyl length
     entity: TO:0006065
@@ -463,7 +463,7 @@ gene_symbol_long: LPA1-1
 gene_model_pub_name: Glyma03g32500
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: low phytic acid concentration in seeds
+phenotype_synopsis: low phytic acid concentration in seeds
 traits:
   - entity_name: seed phosphorus content
     entity: TO:0002666
@@ -483,7 +483,7 @@ gene_symbol_long: LPA1-2
 gene_model_pub_name: Glyma19g35230
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: low phytic acid concentration in seeds
+phenotype_synopsis: low phytic acid concentration in seeds
 traits:
   - entity_name: seed phosphorus content
     entity: TO:0002666
@@ -503,7 +503,7 @@ gene_symbol_long: GmJagged1
 gene_model_pub_name: Glyma20g25000
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Narow leaflet
+phenotype_synopsis: Narow leaflet
 traits:
   - entity_name: fruit seed number
     entity: TO:0000445
@@ -527,7 +527,7 @@ gene_symbol_long: GmMIPS1
 gene_model_pub_name: Glyma18g02210
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Reduced emergence
+phenotype_synopsis: Reduced emergence
 traits:
   - entity_name: seedling growth and development trait
     entity: TO:0000949
@@ -547,7 +547,7 @@ gene_symbol_long: Photoperiod insensitivity
 gene_model_pub_name: Glyma20g22160
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: photoperiod insensitivity to short day conditions
+phenotype_synopsis: photoperiod insensitivity to short day conditions
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
@@ -566,7 +566,7 @@ gene_symbol_long: Brown seed coat color
 gene_model_pub_name: Glyma09g36983
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Brown hilum, brown seed coat color
+phenotype_synopsis: Brown hilum, brown seed coat color
 traits:
   - entity_name: seed coat color
     entity: TO:0000190
@@ -584,7 +584,7 @@ gene_symbol_long: Raffinose synthase
 gene_model_pub_name: Glyma06g18890
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Seed raffinose concentration
+phenotype_synopsis: Seed raffinose concentration
 traits:
   - entity_name: raffinose content
     entity: TO:0006004
@@ -607,7 +607,7 @@ gene_symbol_long: Tawny
 gene_model_pub_name: Glyma06g21920
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Gray pubescence at maturity
+phenotype_synopsis: Gray pubescence at maturity
 traits:
   - entity_name: hilum color
     entity: TO:0000968
@@ -632,7 +632,7 @@ gene_symbol_long: ~
 gene_model_pub_name: Glyma02g05450
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Pink flowers
+phenotype_synopsis: Pink flowers
 traits:
   - entity_name: flower color
     entity: TO:0000537

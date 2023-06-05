@@ -5,7 +5,7 @@ gene_symbol_long: Anthocyanidin synthase
 gene_model_pub_name: Medtr5g011250
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: MtANS (anthocyanidin synthase) gene expression was down-regulated in M. truncatula genotype R108 using an antisense construct.  Anthocyanin levels were strongly reduced in leaf tissues of antisense lines.  The presence of a red anthocyanin-rich circle at the base of the axial side of the leaflet and small red dots on the adaxial side results from anthocyanin deposition.  Six independent transgenic antisense MtANS lines lacked the red circle and spots and another 10 such lines had reduced levels of pigmentation.  There was a strong reduction in the levels of both soluble and insoluble PAs (Oligomeric proanthocyanidins) in seeds, consistent with involvement of ANS in PA biosynthesis.
+phenotype_synopsis: MtANS (anthocyanidin synthase) gene expression was down-regulated in M. truncatula genotype R108 using an antisense construct.  Anthocyanin levels were strongly reduced in leaf tissues of antisense lines.  The presence of a red anthocyanin-rich circle at the base of the axial side of the leaflet and small red dots on the adaxial side results from anthocyanin deposition.  Six independent transgenic antisense MtANS lines lacked the red circle and spots and another 10 such lines had reduced levels of pigmentation.  There was a strong reduction in the levels of both soluble and insoluble PAs (Oligomeric proanthocyanidins) in seeds, consistent with involvement of ANS in PA biosynthesis.
 traits:
   - entity_name: anthocyanin content
     entity: TO:0000071
@@ -27,7 +27,7 @@ gene_symbol_long: basic helix loop helix 1
 gene_model_pub_name: Medtr3g099620
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Repressing MtbHLH1 (using Chimeric REpressor Silencing Technology) caused an assymetrical pattern of nodule vascular bundle development with variable angles of growth in inoculated roots.  The growth and vigor of aerial parts of the plant was impaired; the nodules were still able to fix atmospheric Nitrogen but the aboveground tissues could not benefit for whatever reason.  Nodules on repressed plants appeared later than in control plants and were smaller in size.
+phenotype_synopsis: Repressing MtbHLH1 (using Chimeric REpressor Silencing Technology) caused an assymetrical pattern of nodule vascular bundle development with variable angles of growth in inoculated roots.  The growth and vigor of aerial parts of the plant was impaired; the nodules were still able to fix atmospheric Nitrogen but the aboveground tissues could not benefit for whatever reason.  Nodules on repressed plants appeared later than in control plants and were smaller in size.
 traits:
   - entity_name: vascular bundle development trait
     entity: TO:0020109
@@ -53,7 +53,7 @@ gene_symbol_long: C-repeat binding factor 4
 gene_model_pub_name: Medtr1g101600
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: "Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress."
+phenotype_synopsis: "Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress."
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -77,7 +77,7 @@ gene_symbol_long: cell division cycle 16
 gene_model_pub_name: Medtr8g058380
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Partial suppression of the CDC16 gene homolog in Medicago truncatula leads to a decreased number of lateral roots, an increased number of nodules, and reduced auxin sensitivity.
+phenotype_synopsis: Partial suppression of the CDC16 gene homolog in Medicago truncatula leads to a decreased number of lateral roots, an increased number of nodules, and reduced auxin sensitivity.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -105,7 +105,7 @@ gene_symbol_long: calcium-dependent protein kinase 1
 gene_model_pub_name: Medtr5g022030
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Reduced root hair and root cell lengths; diminution of rhizobial and mycorrhizal symbiotic colonization
+phenotype_synopsis: Reduced root hair and root cell lengths; diminution of rhizobial and mycorrhizal symbiotic colonization
 traits:
   - entity_name: root cortical cell length
     entity: TO:0020108
@@ -133,7 +133,7 @@ gene_symbol_long: class III chitinase
 gene_model_pub_name: Medtr8g055940
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Mtchit 3-3 expression (class III chitinase gene) is specifically induced by arbuscular mycorrhizal (AM) fungi in roots of the model legume Medicago truncatula.  Mtchit 3-3 expression was artificially induced with a CaMV 35S promoter in root cells; this stimulated spore germination of Glomus intraradices and Glomus constrictum, and in the case of G. intraradices resulted in a higher probability of root colonization and spore formation.  There was no measurable effect on the abundance of arbuscules within colonized roots.
+phenotype_synopsis: Mtchit 3-3 expression (class III chitinase gene) is specifically induced by arbuscular mycorrhizal (AM) fungi in roots of the model legume Medicago truncatula.  Mtchit 3-3 expression was artificially induced with a CaMV 35S promoter in root cells; this stimulated spore germination of Glomus intraradices and Glomus constrictum, and in the case of G. intraradices resulted in a higher probability of root colonization and spore formation.  There was no measurable effect on the abundance of arbuscules within colonized roots.
 traits:
   - entity_name: root system
     entity: PO:0025025
@@ -151,7 +151,7 @@ gene_symbol_long: calcium dependent protein kinase 3
 gene_model_pub_name: ABE72958.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Expression of MtCPK3 in Medicago truncatula is regulated during nodulation.  RNAi silenced CPK3 in transformed roots but no major phenotype was detected.  When infected with rhizobia the nodule number was twice as high as the controls.
+phenotype_synopsis: Expression of MtCPK3 in Medicago truncatula is regulated during nodulation.  RNAi silenced CPK3 in transformed roots but no major phenotype was detected.  When infected with rhizobia the nodule number was twice as high as the controls.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -173,7 +173,7 @@ gene_symbol_long: ~
 gene_model_pub_name: Medtr5g026850
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Symbiotic infection of roots by rhizobia bacteria and arbuscular mycorrhiza fungi was inhibited or blocked, i.e. infection threads were not observed despite colonization of root hairs by rhizobia and AM fungal hyphae formed abnormal hyphal swellings with no arbuscles observed.  Nodule organogenesis was initiated but arrested prematurely at the level of primordia as an indirect consequence of the aborted infection.
+phenotype_synopsis: Symbiotic infection of roots by rhizobia bacteria and arbuscular mycorrhiza fungi was inhibited or blocked, i.e. infection threads were not observed despite colonization of root hairs by rhizobia and AM fungal hyphae formed abnormal hyphal swellings with no arbuscles observed.  Nodule organogenesis was initiated but arrested prematurely at the level of primordia as an indirect consequence of the aborted infection.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -193,7 +193,7 @@ gene_symbol_long: cytochrome P450 monoxygenase
 gene_model_pub_name: Medtr3g021350
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: A cytochrome P450 gene (CYP716A12) is involved in an early step in saponin biosynthesis and is found in most tissues.  CYP716A12 loss-of-function mutants do not produce hemolytic saponins and only synthetize soyasaponins, and were thus named lacking hemolytic activity (lha).  CYP716A12 catalyzes the oxidation of _-amyrin and erythrodiol at the C-28 position, yielding oleanolic acid. Transcriptome changes in the lha mutant showed a modulation in the main steps of the triterpenic saponin biosynthetic pathway, which includes squalene cyclization, _-amyrin oxidation, and glycosylation.  Growth of homozygous lha/lha plants was stunted.
+phenotype_synopsis: A cytochrome P450 gene (CYP716A12) is involved in an early step in saponin biosynthesis and is found in most tissues.  CYP716A12 loss-of-function mutants do not produce hemolytic saponins and only synthetize soyasaponins, and were thus named lacking hemolytic activity (lha).  CYP716A12 catalyzes the oxidation of _-amyrin and erythrodiol at the C-28 position, yielding oleanolic acid. Transcriptome changes in the lha mutant showed a modulation in the main steps of the triterpenic saponin biosynthetic pathway, which includes squalene cyclization, _-amyrin oxidation, and glycosylation.  Growth of homozygous lha/lha plants was stunted.
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
@@ -213,7 +213,7 @@ gene_symbol_long: doesn't make infections 1
 gene_model_pub_name: Medtr2g005870
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Doesn't make nodules; infection thread aborts
+phenotype_synopsis: Doesn't make nodules; infection thread aborts
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -235,7 +235,7 @@ gene_symbol_long: doesn't make infections 3
 gene_model_pub_name: Medtr8g043970
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Doesn't make nodules or mycorrhizae
+phenotype_synopsis: Doesn't make nodules or mycorrhizae
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -257,7 +257,7 @@ gene_symbol_long: Abnormal tissue development
 gene_model_pub_name: CAD48198.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Use of antisense constructs of Mtenod40 arrested callus growth of Medicago explants, while overexpressing Mtenod40 embryos developed into teratomas. Enod40 genes might have a role in plant development, acting as 'riboregulators'.
+phenotype_synopsis: Use of antisense constructs of Mtenod40 arrested callus growth of Medicago explants, while overexpressing Mtenod40 embryos developed into teratomas. Enod40 genes might have a role in plant development, acting as 'riboregulators'.
 traits:
   - entity_name: plant tissue development trait
     entity: TO:0006015
@@ -275,7 +275,7 @@ gene_symbol_long: fused compound leaf 1
 gene_model_pub_name: Medtr6g071190
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Leaflets fused or partially fused, rachis between leaflets is absent, petiole is foreshortened.
+phenotype_synopsis: Leaflets fused or partially fused, rachis between leaflets is absent, petiole is foreshortened.
 traits:
   - entity_name: petiole length
     entity: TO:0000766
@@ -301,7 +301,7 @@ gene_symbol_long: Flotillin-like protein 2
 gene_model_pub_name: Medtr3g106420
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in plants that form pink nodules. A decrease in primary root length and long primary lateral roots, reduced reduction of acetylene, and reduced number of infection events. 
+phenotype_synopsis: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in plants that form pink nodules. A decrease in primary root length and long primary lateral roots, reduced reduction of acetylene, and reduced number of infection events. 
 traits:
   - entity_name: lateral root length
     entity: TO:0001012
@@ -331,7 +331,7 @@ gene_symbol_long: Flotillin-like protein 3
 gene_model_pub_name: Medtr3g106480
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Shorter roots and reduced root weight.
+phenotype_synopsis: Shorter roots and reduced root weight.
 traits:
   - entity_name: root weight
     entity: TO:0000279
@@ -353,7 +353,7 @@ gene_symbol_long: Flotillin-like protein 4
 gene_model_pub_name: Medtr3g106430
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Decrease in plants that form pink nodules and an increase in numbers of secondary lateral roots, reduced reduction of acetylene.  Weak association with reduction in nodule numbers.  Both decreased number of infection events and defective infection thread elongation.
+phenotype_synopsis: Decrease in plants that form pink nodules and an increase in numbers of secondary lateral roots, reduced reduction of acetylene.  Weak association with reduction in nodule numbers.  Both decreased number of infection events and defective infection thread elongation.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -377,7 +377,7 @@ gene_symbol_long: Delayed flowering
 gene_model_pub_name: Medtr7g084970
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Delayed flowering
+phenotype_synopsis: Delayed flowering
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
@@ -395,7 +395,7 @@ gene_symbol_long: Flower development normal under long days
 gene_model_pub_name: Medtr7g085040
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: MtFTc is expressed in apical bud tissue prior to the expression of floral meristem identity genes.  MtFTc expression is not detectable in ftc-2 mutant plants (likely a null mutation) and low in the ftc-1 and ftc-3 mutants.  Under a long-day photoperiod homozygous plants for each of the three FTc mutations developed normally like the wild type.  MtFTc does not appear to play a major role in regulating Medicago flowering under LDs.
+phenotype_synopsis: MtFTc is expressed in apical bud tissue prior to the expression of floral meristem identity genes.  MtFTc expression is not detectable in ftc-2 mutant plants (likely a null mutation) and low in the ftc-1 and ftc-3 mutants.  Under a long-day photoperiod homozygous plants for each of the three FTc mutations developed normally like the wild type.  MtFTc does not appear to play a major role in regulating Medicago flowering under LDs.
 traits:
   - entity_name: flower development trait
     entity: TO:0000622
@@ -414,7 +414,7 @@ gene_symbol_long: Glycosyltransferase 3
 gene_model_pub_name: Medtr2g035020
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.  
+phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.  
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
@@ -442,7 +442,7 @@ gene_symbol_long: ~
 gene_model_pub_name: Medtr1g056530
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Small and nonfunctional nodules arrested in growth when both normally spliced and alternatively spliced variants repressed.  When only the alternative spliced form repressed the nodules are small but still fix nitrogen successfully.
+phenotype_synopsis: Small and nonfunctional nodules arrested in growth when both normally spliced and alternatively spliced variants repressed.  When only the alternative spliced form repressed the nodules are small but still fix nitrogen successfully.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -462,7 +462,7 @@ gene_symbol_long: Lumpy infections
 gene_model_pub_name: Medtr1g090320
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Rhizobial infection was reduced in quantity and infections were not persistent, i.e. infection threads were arrested after very limited progression within root hair cells.  Nodule differentiation was arrested at an early primordial stage as an indirect result of the aborted infection.
+phenotype_synopsis: Rhizobial infection was reduced in quantity and infections were not persistent, i.e. infection threads were arrested after very limited progression within root hair cells.  Nodule differentiation was arrested at an early primordial stage as an indirect result of the aborted infection.
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -480,7 +480,7 @@ gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 3
 gene_model_pub_name: Medtr5g086130
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Doesn't make nodules; infection thread aborts
+phenotype_synopsis: Doesn't make nodules; infection thread aborts
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -502,7 +502,7 @@ gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 4
 gene_model_pub_name: Medtr5g086120
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Doesn't make nodules; infection thread aborts
+phenotype_synopsis: Doesn't make nodules; infection thread aborts
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -524,7 +524,7 @@ gene_symbol_long: Allene-oxide cyclase
 gene_model_pub_name: CAI29046.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: MtAOC (allene oxide cyclase) gene expression was partially suppressed in roots following transformation with cDNA in the antisense direction.  These roots exhibited lower jasmonic acid levels and delayed colonization by Glomus intraradices.  The number of arbuscles decreased and their development was delayed, yet their physical structure was unaltered.
+phenotype_synopsis: MtAOC (allene oxide cyclase) gene expression was partially suppressed in roots following transformation with cDNA in the antisense direction.  These roots exhibited lower jasmonic acid levels and delayed colonization by Glomus intraradices.  The number of arbuscles decreased and their development was delayed, yet their physical structure was unaltered.
 traits:
   - entity_name: root system
     entity: PO:0025025
@@ -544,7 +544,7 @@ gene_symbol_long: carotenoid cleavage dioxygenase 1
 gene_model_pub_name: CAR57918.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: RNA interference (RNAi) was used to repress a M. truncatula CCD1 gene in hairy roots colonized by the arbuscular mycorrhizal (AM) fungus Glomus intraradices.  The normal AM-mediated accumulation of apocarotenoids (C13 cyclohexenone and C14 mycorradicin derivatives) was reduced in repressed plants; mycorradicin derivatives were reduced to 3% to 6% of the controls and the cyclohexenone derivatives were reduced to 30% to 47%.  The RNAi roots turned a yellow-orange color because of C27 apocarotenoid accumulation (the probable substrate of the CCD1 enzyme).  More degenerating arbuscules was observed in RNAi roots.
+phenotype_synopsis: RNA interference (RNAi) was used to repress a M. truncatula CCD1 gene in hairy roots colonized by the arbuscular mycorrhizal (AM) fungus Glomus intraradices.  The normal AM-mediated accumulation of apocarotenoids (C13 cyclohexenone and C14 mycorradicin derivatives) was reduced in repressed plants; mycorradicin derivatives were reduced to 3% to 6% of the controls and the cyclohexenone derivatives were reduced to 30% to 47%.  The RNAi roots turned a yellow-orange color because of C27 apocarotenoid accumulation (the probable substrate of the CCD1 enzyme).  More degenerating arbuscules was observed in RNAi roots.
 traits:
   - entity_name: carotene content
     entity: TO:0000289
@@ -564,7 +564,7 @@ gene_symbol_long: Cytokinin Response1
 gene_model_pub_name: Medtr8g106150
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, Mt RR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi. 
+phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, Mt RR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi. 
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -592,7 +592,7 @@ gene_symbol_long: Nick-associated protein 1
 gene_model_pub_name: Medtr4g084140
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Reduced levels of nodulation, reduced acetylene reduction, and limited nodule development.  Aborted and deformed infection threads restricted to epidermal root hair cells.  The few nodules that did form had very low rhizobial colonization and nitrogenase activity.
+phenotype_synopsis: Reduced levels of nodulation, reduced acetylene reduction, and limited nodule development.  Aborted and deformed infection threads restricted to epidermal root hair cells.  The few nodules that did form had very low rhizobial colonization and nitrogenase activity.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -620,7 +620,7 @@ gene_symbol_long: No Apical Meristem (weak allele)
 gene_model_pub_name: AFI56799.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: The null allele bearing plants (mtnam-1) exhibited fused cotyledons as well as an abortive shoot apical meristem.  Embryos appear cylindrical as compared to the heart-shaped embryos in wild type.  If plants are regenerated through tissue culture then the leaflets of the compound leaf show fusion into a single simple leaf.  Mature plants develop flowers that are reduced in size and form no seed pods.  Both male and female organs are sterile.  The second whorl (petals) and the third whorl (stamens) are usually fused into one whorl, forming either sepal-like or petal-like structures.  Sometimes, anther-like tissues are formed on a petal-like structure, but no pollen is formed.  The carpel is small and its edges are not fused, resulting in exposed ovules, and it is covered with abnormal trichomes, and sometimes no style and stigmas develop.  Carpels have reduced numbers of ovules and their development is impaired (sometimes look like carpels) with no embryo sac observed in the nucellus.
+phenotype_synopsis: The null allele bearing plants (mtnam-1) exhibited fused cotyledons as well as an abortive shoot apical meristem.  Embryos appear cylindrical as compared to the heart-shaped embryos in wild type.  If plants are regenerated through tissue culture then the leaflets of the compound leaf show fusion into a single simple leaf.  Mature plants develop flowers that are reduced in size and form no seed pods.  Both male and female organs are sterile.  The second whorl (petals) and the third whorl (stamens) are usually fused into one whorl, forming either sepal-like or petal-like structures.  Sometimes, anther-like tissues are formed on a petal-like structure, but no pollen is formed.  The carpel is small and its edges are not fused, resulting in exposed ovules, and it is covered with abnormal trichomes, and sometimes no style and stigmas develop.  Carpels have reduced numbers of ovules and their development is impaired (sometimes look like carpels) with no embryo sac observed in the nucellus.
 traits:
   - entity_name: shoot apical meristem development
     entity: TO:0006020
@@ -676,7 +676,7 @@ gene_symbol_long: No Apical Meristem (weak allele)
 gene_model_pub_name: JF929904.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: The plants exhibited partially fused cotyledons, deformed juvenile leaves, and the 3 leaflets of the mature compound leaf were fused into a simple leaf.  Mature plants develop flowers but no seed pods.  There are minor developmental abnormalities in the stamens and the carpel.  Most anthers do not release pollen.      
+phenotype_synopsis: The plants exhibited partially fused cotyledons, deformed juvenile leaves, and the 3 leaflets of the mature compound leaf were fused into a simple leaf.  Mature plants develop flowers but no seed pods.  There are minor developmental abnormalities in the stamens and the carpel.  Most anthers do not release pollen.      
 traits:
   - entity_name: reproductive shoot system
     entity: PO:0025082
@@ -706,7 +706,6 @@ gene_symbol_long: Nod Factor Perception
 gene_model_pub_name: first
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root system
     entity: PO:0025025
@@ -724,7 +723,7 @@ gene_symbol_long: Nod Factor Perception
 gene_model_pub_name: Medtr5g019040
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Root nodules did not form and infection threads aborted during development.
+phenotype_synopsis: Root nodules did not form and infection threads aborted during development.
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -742,7 +741,7 @@ gene_symbol_long: nodulation receptor kinase
 gene_model_pub_name: Medtr5g030920
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Lacks symbiotic root responses in the presence of compatible Sinorhizobium meliloti or Nod factor, and resists mycorrhizal colonization
+phenotype_synopsis: Lacks symbiotic root responses in the presence of compatible Sinorhizobium meliloti or Nod factor, and resists mycorrhizal colonization
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -764,7 +763,7 @@ gene_symbol_long: PALMATE-LIKE PENTAFOLIATA1
 gene_model_pub_name: Medtr5g014400
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Forms dissected leaves with five leaflets clustered at the tip (palmate-like pentafoliate in contrast to the trifoliate WT leaves).  The distal lateral leaflets developed in a manner morphologically/anatomically similar to terminal leaflets.  The length of the petiole increased and that of the rachis decreased.
+phenotype_synopsis: Forms dissected leaves with five leaflets clustered at the tip (palmate-like pentafoliate in contrast to the trifoliate WT leaves).  The distal lateral leaflets developed in a manner morphologically/anatomically similar to terminal leaflets.  The length of the petiole increased and that of the rachis decreased.
 traits:
   - entity_name: petiole length
     entity: TO:0000766
@@ -790,7 +789,7 @@ gene_symbol_long: single leaflet1
 gene_model_pub_name: Medtr3g098560
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is decreased. Defective, fused flowers 
+phenotype_synopsis: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is decreased. Defective, fused flowers 
 traits:
   - entity_name: petiole length
     entity: TO:0000766
@@ -816,7 +815,7 @@ gene_symbol_long: Sickle 1
 gene_model_pub_name: Medtr7g101410
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Absence of discrete nodules, increased persistant rhizobila infection, radial swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both hypocotyl and root growth.  Reduced inhibition of root growth in response to application of exogenous cytokinin benzyl adenine.  Increased primary mycorrhizal infections by Glomus versiforme and Glomus intraradices.  Increased susceptability to damage caused by infection with R. solani necrotrophic fungus and P. medicaginis necrotrophic oomycete as well as larger numbers of P. medicaginis reproductive structures.  Reduced biphasic ethylene production after inoculation with P. medicaginis, reduced gene expression for one isoform of ACC oxidase transcripts, and reduced responsiveness of ethylene levels to exogenous ACC (all indicators of impaired autocatalytic ethylene production).
+phenotype_synopsis: Absence of discrete nodules, increased persistant rhizobila infection, radial swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both hypocotyl and root growth.  Reduced inhibition of root growth in response to application of exogenous cytokinin benzyl adenine.  Increased primary mycorrhizal infections by Glomus versiforme and Glomus intraradices.  Increased susceptability to damage caused by infection with R. solani necrotrophic fungus and P. medicaginis necrotrophic oomycete as well as larger numbers of P. medicaginis reproductive structures.  Reduced biphasic ethylene production after inoculation with P. medicaginis, reduced gene expression for one isoform of ACC oxidase transcripts, and reduced responsiveness of ethylene levels to exogenous ACC (all indicators of impaired autocatalytic ethylene production).
 traits:
   - entity_name: gravity response trait
     entity: TO:0002693
@@ -856,7 +855,7 @@ gene_symbol_long: super numeric nodules
 gene_model_pub_name: Medtr4g070970
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: Shortened roots even in the absence of rhizobia.  A dramatic increase in the number of root nodules.  Nodulation occurred even under a high nitrogen regime.  Unlike wild type, both infection by rhizobia and nodulation occur randomly throughout the circumference of the developing root.  Nodulation is normally sensitive to ethylene, similar to wild type.
+phenotype_synopsis: Shortened roots even in the absence of rhizobia.  A dramatic increase in the number of root nodules.  Nodulation occurred even under a high nitrogen regime.  Unlike wild type, both infection by rhizobia and nodulation occur randomly throughout the circumference of the developing root.  Nodulation is normally sensitive to ethylene, similar to wild type.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -882,7 +881,7 @@ gene_symbol_long: Vapyrin
 gene_model_pub_name: ADC33495.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: In Medicago truncatula, the Vapyrin (VPY) gene is essential for the establishment of the arbuscular mycorrhizal symbiosis. Analyses of mutants shows that the same VPYgene is also required for rhizobial colonization and nodulation.  Plants mutated in this gene have abnormal rhizobial infection threads and fewer nodules, and in the case of interactions with AM fungi, epidermal penetration defects and aborted arbuscule formation.
+phenotype_synopsis: In Medicago truncatula, the Vapyrin (VPY) gene is essential for the establishment of the arbuscular mycorrhizal symbiosis. Analyses of mutants shows that the same VPYgene is also required for rhizobial colonization and nodulation.  Plants mutated in this gene have abnormal rhizobial infection threads and fewer nodules, and in the case of interactions with AM fungi, epidermal penetration defects and aborted arbuscule formation.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -904,7 +903,6 @@ gene_symbol_long: ~
 gene_model_pub_name: EU038802
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -922,7 +920,6 @@ gene_symbol_long: ~
 gene_model_pub_name: EU038803
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -940,7 +937,6 @@ gene_symbol_long: ~
 gene_model_pub_name: DQ899790
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -958,7 +954,6 @@ gene_symbol_long: ~
 gene_model_pub_name: Medtr5g099060
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -976,7 +971,6 @@ gene_symbol_long: ~
 gene_model_pub_name: GU966590
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -994,7 +988,6 @@ gene_symbol_long: ~
 gene_model_pub_name: AJ972478
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -1012,7 +1005,6 @@ gene_symbol_long: ~
 gene_model_pub_name: Medtr5g036480
 gene_model_full_id: ~
 confidence: 5
-phenotype_description: #N/A
 traits:
   - entity_name: root nodule
     entity: PO:0003023
