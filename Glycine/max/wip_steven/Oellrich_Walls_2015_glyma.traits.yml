@@ -1,0 +1,651 @@
+---
+gene_symbols:
+  - AMDH2
+  - BADH2
+gene_symbol_long: GmAMDH2
+gene_model_pub_name: Glyma06g19820
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: fragrant seeds
+traits:
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Qian, Jin, et al., 2022
+    doi: 10.3390/ijms23084116
+    pmid: 35456933
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - ANR1
+gene_symbol_long: Anthocyanin Reductase activitiy reduced
+gene_model_pub_name: Glyma08g06630
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Red-brown seed coat color
+traits:
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: seed coat
+    entity: PO:0009088
+references:
+  - citation: Kovinich, Saleem, et al., 2012
+    doi: 10.1021/jf2033939
+    pmid: 22107112
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - E1-1
+gene_symbol_long: Early flowering under long days
+gene_model_pub_name: Glyma06g23026
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Early flowering
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+references:
+  - citation: Xia, Watanabe, et al., 2012
+    doi: 10.1073/pnas.1117982109
+    pmid: 22619331
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+classical_locus: E2
+gene_symbols:
+  - E2-1
+gene_symbol_long: Early flowering
+gene_model_pub_name: Glyma01g36600
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Early Flowering
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Watanabe, Xia, et al., 2011
+    doi: 10.1534/genetics.110.125062
+    pmid: 21406680
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - E3-1
+gene_symbol_long: Early flowering
+gene_model_pub_name: Glyma19g41210
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Early flowering
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: far red light sensitivity
+    entity: TO:0000130
+references:
+  - citation: Mao, Li, et al., 2017
+    doi: 10.1186/s12864-017-3778-3
+    pmid: 28549456
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - Eu1-1
+gene_symbol_long: ESU
+gene_model_pub_name: Glyma05g27840
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Embryo urease activity
+traits:
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: plant embryo
+    entity: PO:0009009
+references:
+  - citation: Polacco, Hyten, et al., 2011
+    doi: 10.1093/jxb/err054
+    pmid: 21430294
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - Eu2-1
+gene_symbol_long: GmUreF
+gene_model_pub_name: Glyma14g04380
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Urease activity
+traits:
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: whole plant
+    entity: PO:0000003
+references:
+  - citation: Polacco, Hyten, et al., 2011
+    doi: 10.1093/jxb/err054
+    pmid: 21430294
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - Eu3-1
+gene_symbol_long: GmUreG
+gene_model_pub_name: Glyma08g08970
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Urease activity
+traits:
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: whole plant
+    entity: PO:0000003
+references:
+  - citation: Polacco, Hyten, et al., 2011
+    doi: 10.1093/jxb/err054
+    pmid: 21430294
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - EU4-1
+gene_symbol_long: UU
+gene_model_pub_name: Glyma11g37250
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Urease activity
+traits:
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: whole plant
+    entity: PO:0000003
+references:
+  - citation: Polacco, Hyten, et al., 2011
+    doi: 10.1093/jxb/err054
+    pmid: 21430294
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - Glyma09g36983
+gene_symbol_long: R2R MYB Transcription Factor
+gene_model_pub_name: Glyma09g36983
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Brown hilum, brown seed coat color
+traits:
+  - entity_name: hilum
+    entity: PO:0020063
+  - entity_name: seed coat
+    entity: PO:0009088
+references:
+  - citation: Zabala, Vodkin, et al., 2014
+    doi: 10.1371/journal.pone.0111959
+    pmid: 25369033
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmAS1-A
+gene_symbol_long: Asparagine synthase 1
+gene_model_pub_name: Glyma11g27480
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High asparagine synthase activity in seed coats
+traits:
+  - entity_name: endosperm storage protein content
+    entity: TO:0002653
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: seed coat
+    entity: PO:0009088
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Lauter, Peiffer, et al., 2014
+    doi: 10.1186/1471-2164-15-702
+    pmid: 25149281
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmASPGB1-A
+gene_symbol_long: Asparaginase B1
+gene_model_pub_name: Glyma14g09510
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High asparaginase activity in seed coats
+traits:
+  - entity_name: endosperm storage protein content
+    entity: TO:0002653
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: seed coat
+    entity: PO:0009088
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Pandurangan, Pajak, et al., 2012
+    doi: 10.1093/jxb/ers039
+    pmid: 22357599
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmCRY1
+gene_symbol_long: Late flowering under short day
+gene_model_pub_name: Glyma04g11010
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Late flowering under short day
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: blue light sensitivity
+    entity: TO:0000159
+references:
+  - citation: Molinari, Fuganti-Pagliarini, et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFAB2-3
+gene_symbol_long: FAB2-3
+gene_model_pub_name: Glyma14g27990
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High seed stearic acid content
+traits:
+  - entity_name: stearic acid content
+    entity: TO:0005003
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Carrero-Colón, Abshire, et al., 2014
+    doi: 10.1371/journal.pone.0097891
+    pmid: 24846334
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFAD2-1
+gene_symbol_long: FAD2-1
+gene_model_pub_name: Glyma10g42470
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High seed oleic acid content
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Pham, Lee, et al., 2010
+    doi: 10.1186/1471-2229-10-195
+    pmid: 20828382
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFAD2-2
+gene_symbol_long: FAD2-2
+gene_model_pub_name: Glyma20g24530
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High seed oleic acid content
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Pham, Lee, et al., 2010
+    doi: 10.1186/1471-2229-10-195
+    pmid: 20828382
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFAD3-1
+gene_symbol_long: FAD3-1
+gene_model_pub_name: Glyma14g37350
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High seed oleic acid content
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Hoshino, Watanabe, et al., 2014
+    doi: 10.1270/jsbbs.64.371
+    pmid: 25914592
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFAD3-2
+gene_symbol_long: FAD3-2
+gene_model_pub_name: Glyma02g39230
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High seed oleic acid content
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Yadav, Wierzbicki, et al., 1993
+    doi: 10.1104/pp.103.2.467
+    pmid: 8029334
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFAD3-3
+gene_symbol_long: FAD3-3
+gene_model_pub_name: Glyma18g06950
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: High seed oleic acid content
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Hoshino, Watanabe, et al., 2014
+    doi: 10.1270/jsbbs.64.371
+    pmid: 25914592
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFT2-A
+gene_symbol_long: FT-2A
+gene_model_pub_name: Glyma16g26660
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Photoperiod insensitivity
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: whole plant flowering stage
+    entity: PO:0007016
+references:
+  - citation: Su, Chen, et al., 2022
+    doi: 10.3390/ijms23052497
+    pmid: 35269637
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmFT5-A
+gene_symbol_long: FT-5A
+gene_model_pub_name: Glyma16g04830
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Photoperiod insensitivity
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: whole plant flowering stage
+    entity: PO:0007016
+references:
+  - citation: Su, Chen, et al., 2022
+    doi: 10.3390/ijms23052497
+    pmid: 35269637
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmLHY1
+gene_symbol_long: MYB Transcription Factor
+gene_model_pub_name: Glyma16g01980
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Elongated hypocotyl
+traits:
+  - entity_name: seedling hypocotyl length
+    entity: TO:0006065
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: photoperiod sensitivity trait
+    entity: TO:0000229
+  - entity_name: hypocotyl
+    entity: PO:0020100
+  - entity_name: whole plant flowering stage
+    entity: PO:0007016
+references:
+  - citation: Li, Cao, et al., 2019
+    doi: 10.1073/pnas.1708508116
+    pmid: 31676549
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmLPA1-1
+gene_symbol_long: LPA1-1
+gene_model_pub_name: Glyma03g32500
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: low phytic acid concentration in seeds
+traits:
+  - entity_name: seed phosphorus content
+    entity: TO:0002666
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Gillman,, Pantalone,, et al., 2009
+    doi: 10.3835/plantgenome2008.03.0013
+    pmid: 31676549
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - GmLPA1-2
+gene_symbol_long: LPA1-2
+gene_model_pub_name: Glyma19g35230
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: low phytic acid concentration in seeds
+traits:
+  - entity_name: seed phosphorus content
+    entity: TO:0002666
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Gillman,, Pantalone,, et al., 2009
+    doi: 10.3835/plantgenome2008.03.0013
+    pmid: 31676549
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - Ln
+gene_symbol_long: GmJagged1
+gene_model_pub_name: Glyma20g25000
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Narow leaflet
+traits:
+  - entity_name: fruit seed number
+    entity: TO:0000445
+  - entity_name: vascular leaf morphology trait
+    entity: TO:0000419
+  - entity_name: leaflet
+    entity: PO:0020049
+  - entity_name: whole plant
+    entity: PO:0000003
+references:
+  - citation: Sayama, Tanabata, et al., 2017
+    doi: 10.1270/jsbbs.16201
+    pmid: 29085246
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - MIPS1
+gene_symbol_long: GmMIPS1
+gene_model_pub_name: Glyma18g02210
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Reduced emergence
+traits:
+  - entity_name: seedling growth and development trait
+    entity: TO:0000949
+  - entity_name: seedling shoot emergence stage
+    entity: PO:0007030
+references:
+  - citation: Yuan, Zhao, et al., 2007
+    doi: 10.1007/s00122-007-0621-2
+    pmid: 17701395
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - PhyA2
+gene_symbol_long: Photoperiod insensitivity
+gene_model_pub_name: Glyma20g22160
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: photoperiod insensitivity to short day conditions
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+references:
+  - citation: Liu, Kanazawa, et al., 2008
+    doi: 10.1534/genetics.108.092742
+    pmid: 18780733
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+classical_locus: R
+gene_symbols:
+  - R
+gene_symbol_long: Brown seed coat color
+gene_model_pub_name: Glyma09g36983
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Brown hilum, brown seed coat color
+traits:
+  - entity_name: seed coat color
+    entity: TO:0000190
+references:
+  - citation: Zabala, Vodkin, et al., 2014
+    doi: 10.1371/journal.pone.0111959
+    pmid: 25369033
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - RS2
+gene_symbol_long: Raffinose synthase
+gene_model_pub_name: Glyma06g18890
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Seed raffinose concentration
+traits:
+  - entity_name: raffinose content
+    entity: TO:0006004
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Qiu, Vuong, et al., 2015
+    doi: 10.1007/s00122-015-2575-0
+    pmid: 26179337
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+classical_locus: T
+gene_symbols:
+  - T
+gene_symbol_long: Tawny
+gene_model_pub_name: Glyma06g21920
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Gray pubescence at maturity
+traits:
+  - entity_name: hilum color
+    entity: TO:0000968
+  - entity_name: trichome morphology trait
+    entity: TO:0000911
+  - entity_name: hilum
+    entity: PO:0020063
+  - entity_name: trichome
+    entity: PO:0000282
+references:
+  - citation: Gillman, Tetlow, et al., 2011
+    doi: 10.1186/1471-2229-11-155
+    pmid: 22070454
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+classical_locus: Wp
+gene_symbols:
+  - Wp
+gene_symbol_long: ~
+gene_model_pub_name: Glyma02g05450
+gene_model_full_id: ~
+confidence: 5
+phenotype_description: Pink flowers
+traits:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: seed coat color
+    entity: TO:0000190
+  - entity_name: seed coat
+    entity: PO:0009088
+  - entity_name: flower
+    entity: PO:0009046
+references:
+  - citation: Cheng, Wang, et al., 2013
+    doi: 10.1371/journal.pone.0054154
+    pmid: 23342093
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204

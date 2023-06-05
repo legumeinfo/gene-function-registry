@@ -7,6 +7,7 @@ gene_symbol_long: bHLH transcription factor
 gene_model_pub_name: Glyma08g06880
 gene_model_full_id: glyma.gnm2.ann1.Glyma.07g184900
 confidence: 5
+phenotype_description: GmbHLHm1 is important to the soybean rhizobium symbiosis because loss of activity results in a reduction of nodule fitness and growth. Transcriptional changes in nodules highlight downstream signaling pathways involving circadian clock regulation, nutrient transport, hormone signaling, and cell wall modification.
 comments: 
   - Established using mutation, expression, and related functional tests.
   - Originally named GmSAT1 (Symbiotic Ammonium Transporter 1) by Kaiser et al., 1998, but does not encode an NH4+ transporter.
