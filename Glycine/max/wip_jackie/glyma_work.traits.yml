@@ -9,7 +9,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name 
 confidence: 5  # Value from 1 to 5 -- 5 being equivalent to complementation test
 comments: 
   -  # Use if needed
-phenotype_summary: # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+phenotype_synopsis: # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
 traits:        # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait # Short descriptive name of the ontology accession
     entity: TO:0002616    # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to
@@ -42,7 +42,7 @@ gene_model_full_id:
 confidence: 
 comments: 
   - 
-phenotype_summary: 
+phenotype_synopsis: 
 traits:
   - entity_name: 
     entity: 

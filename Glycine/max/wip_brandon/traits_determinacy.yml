@@ -1,0 +1,38 @@
+---
+classical_locus: 
+gene_symbols:
+  - GmDT2
+gene_symbol_long: Determinacy 2
+gene_model_pub_name: SoyZH13_18g242900
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g50910
+confidence: 5
+traits:
+  - entity_name: shoot branching
+    entity: TO:0002639
+    relation_name: increased amount
+    relation: PATO:0000470
+references:
+  - citation: Liang, Chen, et al., 2022
+    doi: 10.1038/s41467-022-34153-4
+    pmid: 36307423
+  - citation: Ping, Liu, et al., 2014
+    doi: 10.1105/tpc.114.126938
+    pmid: 25005919
+
+---
+classical_locus: 
+gene_symbols:
+  - GmDT1
+gene_symbol_long: Determinacy 1
+gene_model_pub_name: Glyma.19g194300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G194300
+confidence: 5
+traits:
+  - entity_name: meristem identity
+    entity: TO:0006017
+    relation_name: terminal
+    relation: PATO:0002476
+references:
+  - citation: Liu, Watanabe et al., 2010
+    doi: doi.org/10.1104/pp.109.150607
+    pmid: 20219831

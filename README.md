@@ -31,11 +31,11 @@ phenotype_synopsis: GmGI modulates flowering time, delaying expression of GmFT2a
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Tsubokura, Watanabe et al., 2013
@@ -59,11 +59,11 @@ The **gene_model_pub_name** block is required. It holds the name of a gene as id
 
 The **gene_model_full_id** block is required. It holds the fully-qualified gene ID, with components "gensp.Accession.gnm#.ann#.gene_ID". The "gene_ID" may be the same as **gene_model_pub_name**, but may be different if a corresponding and preferable gene model is available from another assembly and/or annotation. The purpose of this ID is to enable linking this gene to other resources at SoyBase/LIS/PeanutBase.
 
+The **confidence** block is to have values [1-5]. This field indicates level of experimental support, with 5 being the strongest -- typically consisting of evidence at the level of a genetic complementation test, or otherwise observed as a mutant phenotype (experimental evidence code IMP) associated with the mutated form of the indicated gene. A level of 3 would be strong associational support, but lacking experimental lab validation such as genetic complementation. Levels 1 and 2 would be high-throughput evidence, and generally will NOT be collected in the SoyBase/LIS/PeanutBase projects. Papers that report lists of "candidate genes" in the vicinity of a GWAS or QTL region would be level 1 or 2 support, and should generally not be collected here.
+
 The **comments** block is for unstructured text, if needed for curatorial comments or other purposes. Comments must be entered as an array - i.e. with leading spaces and dash before each comment string.
 
 The **phenotype_synopsis** block is for unstructured text, to give a brief human-readable description of the main phenotype associated with this gene (either through its wildtype or mutant form, but inferred relative to the mutant phenotype).
-
-The **confidence** block is to have values [1-5]. This field indicates level of experimental support, with 5 being the strongest -- typically consisting of evidence at the level of a genetic complementation test, or otherwise observed as a mutant phenotype (experimental evidence code IMP) associated with the mutated form of the indicated gene. A level of 3 would be strong associational support, but lacking experimental lab validation such as genetic complementation. Levels 1 and 2 would be high-throughput evidence, and generally will NOT be collected in the SoyBase/LIS/PeanutBase projects. Papers that report lists of "candidate genes" in the vicinity of a GWAS or QTL region would be level 1 or 2 support, and should generally not be collected here.
 
 The **traits** block must contain at least one "entity" key with a valid ontology accession. Trait or Plant ontologies (TO and PO) are preferred where possible. Optionally (and generally discouraged due to the complexity and difficulty of getting this right), a modifying ontology term may be added to a trait block, in association with (listed underneath) an entity term. A modifier could be a "quality" or a "relation" key with a relation ontology may be associated with the entity ontology. Quality terms typically come from the Phenotype And Trait Ontology, [https://www.ebi.ac.uk/ols4/ontologies/pato](PATO) , and relation terms typically come from the Relations Ontology, [RP](https://www.ebi.ac.uk/ols4/ontologies/ro) The association between entity and relation ontology terms is established by proximity: entity and term followed by relation and term. However, to reiterate: focus on the primary entities, from TO or PO, and don't get bogged down with selecting modifiers.
 
@@ -73,4 +73,5 @@ The **references** block contains one or more blocks of citations, each containi
   LastName, LastName, YEAR
   LastName, LastName et al., YEAR
 ```
+
 
