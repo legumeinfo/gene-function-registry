@@ -3,7 +3,7 @@ gene_symbols:
   - GmPLDγ
 gene_symbol_long: Phospholipase D
 gene_model_pub_name: Glyma.01g42420
-gene_model_full_id: Glyma.Wm82.gmn1.glyma01g42420
+gene_model_full_id: Glyma.Wm82.gmn1.Glyma01g42420
 confidence: 5
 phenotype_summary: "Overexpression of GmPLDγ from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis."
 traits:
