@@ -1,0 +1,18 @@
+gene_symbols:
+  - EcABCC8
+gene_symbol_long: Echinocloa colona ATP-binding cassette transporter
+gene_model_pub_name: MT249005
+gene_model_full_id: MT249005
+confidence: 5
+comments: 
+  - Overexpression of EcABCC8 (or its orthologs) in transgenic plants created glyphosate resistance. EcABCC8 knockout plants had decreased resistance to glyphosate.
+phenotype_synopsis: EcABCC8 codes for an efflux pump that 'extrudes' the herbicide glyphosate out of a cell's cytoplasm, making Echinochloa colona ('awnless barnyardgrass') glyphosate resistant.
+traits:
+  - entity_name: herbicide resistance
+    entity: OMIT:0025284
+  - entity_name: ABC-type transporter activity
+    entity: GO:0140359
+references:
+  - citation: Pan,Yu et.al, 2021
+    doi: 10.1073/pnas.2100136118
+    pmid: 33846264
