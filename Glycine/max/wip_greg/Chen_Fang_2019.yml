@@ -1,0 +1,32 @@
+---
+gene_symbols:
+  - GmSYP24
+  - GmLEA2-96
+  - SYP24
+gene_symbol_long: Putative Syntaxin Gene
+gene_model_pub_name: Glyma.19G198600
+gene_model_full_id: 
+confidence: 5
+phenotype_summary: "Dehydration response"
+traits:
+  - entity_name: response to osmotic stress
+    entity: GO:0006970
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: soybean drought tolerance trait
+    entity: CO_336:0000078
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: abscisic acid-activated signaling pathway
+    entity: GO:0009738
+  - entity_name: seed germination
+    entity: GO:0009845
+references:
+  - citation: Chen, Fang et al., 2019
+    doi: 10.1038/s41598-019-42332-5
+    pmid: 30979945
+
