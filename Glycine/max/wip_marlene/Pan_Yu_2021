@@ -2,7 +2,7 @@ gene_symbols:
   - EcABCC8
 gene_symbol_long: Echinocloa colona ATP-binding cassette transporter
 gene_model_pub_name: MT249005
-gene_model_full_id: MT249005
+gene_model_full_id: ~
 confidence: 5
 comments: 
   - Overexpression of EcABCC8 (or its orthologs) in transgenic plants created glyphosate resistance. EcABCC8 knockout plants had decreased resistance to glyphosate.
