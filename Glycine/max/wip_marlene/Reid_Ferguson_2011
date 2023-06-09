@@ -1,0 +1,68 @@
+gene_symbols:
+  - RIC1
+  - GmRIC1
+gene_symbol_long: rhizobia-induced CLE
+gene_model_pub_name: Glyma13g36830
+gene_model_full_id: ~
+confidence: 5
+comments:
+  - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC1 is upregulated hours after injection.
+  - Introduction of plasmids carrying an extra dose of RIC1 inhibited nodulation.
+phenotype_synopsis: RIC1 reduces nodulation in Lotus japonicus and Medicago truncatula. It is induced by Bradyrhizobium nodulation factor.
+traits:
+  - entity_name: plant organ growth and development trait
+    entity: TO:0000927
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Reid, Ferguson et al., 2011
+    doi: 10.1094/MPMI-09-10-0207
+    pmid: 21198362
+ ---
+ gene_symbols:
+  - RIC2
+  - GmRIC2
+gene_symbol_long: rhizobia-induced CLE, nitrate-induced CLE
+gene_model_pub_name: Glyma06g43680
+gene_model_full_id: ~
+confidence: 5
+comments: 
+  - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC2 is upregulated a few days after injection. 
+  - Introduction of plasmids carrying an extra dose of RIC2 inhibited nodulation.
+phenotype_synopsis: RIC2 reduces nodulation in Lotus japonicus and Medicago truncatula. It is induced by Bradyrhizobium nodulation factor.
+traits:
+  - entity_name: plant organ growth and development trait
+    entity: TO:0000927
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Reid, Ferguson et al., 2011
+    doi: 10.1094/MPMI-09-10-0207
+    pmid: 21198362
+---
+gene_symbols:
+  - NIC1
+  - GmNIC1
+gene_symbol_long: nitrate-induced CLE
+gene_model_pub_name: Glyma12g33660
+gene_model_full_id: ~
+confidence: 5
+comments: 
+  - RT-qPCR conducted on root tissue exposed to varying concentrations of nitrate showed that NIC1 expression is induced when roots are exposed to nitrate. 
+  - Introduction of plasmids carrying an extra dose of NIC1 inhibited nodulation.
+phenotype_synopsis: NIC1 reduces nodulation in Lotus japonicus and Medicago truncatula. It is induced by nitrate but inhibited by Bradyrhizobium nodulation factor.
+traits:
+  - entity_name: plant organ growth and development trait
+    entity: TO:0000927
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Reid, Ferguson et al., 2011
+    doi: 10.1094/MPMI-09-10-0207
+    pmid: 21198362
