@@ -2,8 +2,8 @@ gene_symbols:
   - RIC1
   - GmRIC1
 gene_symbol_long: rhizobia-induced CLE
-gene_model_pub_name: Glyma13g36830
-gene_model_full_id: ~
+gene_model_pub_name: Glyma.13g36830
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G368300
 confidence: 5
 comments:
   - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC1 is upregulated hours after injection.
@@ -25,8 +25,8 @@ references:
   - RIC2
   - GmRIC2
 gene_symbol_long: rhizobia-induced CLE, nitrate-induced CLE
-gene_model_pub_name: Glyma06g43680
-gene_model_full_id: ~
+gene_model_pub_name: Glyma.06g43680
+gene_model_full_id: NOT FOUND
 confidence: 5
 comments: 
   - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC2 is upregulated a few days after injection. 
@@ -48,8 +48,8 @@ gene_symbols:
   - NIC1
   - GmNIC1
 gene_symbol_long: nitrate-induced CLE
-gene_model_pub_name: Glyma12g33660
-gene_model_full_id: ~
+gene_model_pub_name: Glyma.12g33660
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g33660
 confidence: 5
 comments: 
   - RT-qPCR conducted on root tissue exposed to varying concentrations of nitrate showed that NIC1 expression is induced when roots are exposed to nitrate. 
