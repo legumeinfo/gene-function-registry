@@ -24,7 +24,7 @@ references:
  gene_symbols:
   - RIC2
   - GmRIC2
-gene_symbol_long: rhizobia-induced CLE, nitrate-induced CLE
+gene_symbol_long: rhizobia-induced CLE
 gene_model_pub_name: Glyma.06g43680
 gene_model_full_id: NOT FOUND
 confidence: 5
