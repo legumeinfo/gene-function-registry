@@ -25,8 +25,8 @@ references:
   - RIC2
   - GmRIC2
 gene_symbol_long: rhizobia-induced CLE
-gene_model_pub_name: Glyma.06g43680
-gene_model_full_id: NOT FOUND
+gene_model_pub_name: Glyma.13G292300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G292300
 confidence: 5
 comments: 
   - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC2 is upregulated a few days after injection. 
