@@ -15,6 +15,9 @@ traits:
     entity: TO:0000947
 
 references:
+  - citation: Fang, Li et al., 2014
+    doi: 10.1111/tpj.12419
+    pmid: 24372721
   - citation: Schmutz et al., 2010
     doi: 10.1038/nature08670
     pmid: 20075913
@@ -36,6 +39,9 @@ traits:
   - entity_name: STAY-GREEN (SGR)
     entity: TO:0000947
 references:
+  - citation: Fang, Li et al., 2014
+    doi: 10.1111/tpj.12419
+    pmid: 24372721
   - citation: Schmutz et al., 2010
     doi: 10.1038/nature08670
     pmid: 20075913
