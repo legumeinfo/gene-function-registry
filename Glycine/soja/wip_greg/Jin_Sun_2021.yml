@@ -5,6 +5,8 @@ gene_symbol_long: early responsive to dehydration 15B
 gene_model_pub_name: ~
 gene_model_full_id: ~
 confidence: 4
+curators:
+	- Greg Murrell
 phenotype_summary: "Enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport."
 traits:
   - entity_name: salt tolerance

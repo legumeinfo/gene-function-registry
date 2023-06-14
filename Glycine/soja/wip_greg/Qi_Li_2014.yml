@@ -6,6 +6,8 @@ gene_symbol_long: cation/H(+) antiporter 1
 gene_model_pub_name: Glysoja.01g005509
 gene_model_full_id: ~ # conflicting results from publications, GenBank, and SequenceServer
 confidence: 4
+curators:
+	- Greg Murrell
 phenotype_summary: "Raises salt tolerance."
 traits:
   - entity_name: salt tolerance

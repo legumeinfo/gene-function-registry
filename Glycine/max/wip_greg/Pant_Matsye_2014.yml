@@ -5,6 +5,8 @@ gene_symbol_long: ~
 gene_model_pub_name: ~
 gene_model_full_id: ~
 confidence: 4
+curators:
+	- Greg Murrell
 phenotype_summary: "Resistance to the plant parasitic nematode Heterodera glycines."
 traits:
   - entity_name: nematode damage resistance

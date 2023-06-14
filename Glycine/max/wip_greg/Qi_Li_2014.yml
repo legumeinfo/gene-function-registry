@@ -6,6 +6,8 @@ gene_symbol_long: cation/H(+) antiporter 1
 gene_model_pub_name: Glyma.03G171600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G171600
 confidence: 4
+curators:
+	- Greg Murrell
 phenotype_summary: "Raises salt tolerance."
 traits:
   - entity_name: salt tolerance

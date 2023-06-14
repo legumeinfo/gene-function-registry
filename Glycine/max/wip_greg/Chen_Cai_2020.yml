@@ -6,6 +6,8 @@ gene_symbol_long: Glycine max flowering locus T-like protein 2b
 gene_model_pub_name: Glyma.16G151000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G151000
 confidence: 4
+curators:
+	- Greg Murrell
 phenotype_summary: "Promotes flowering time under long-day conditions"
 traits:
   - entity_name: photoperiod-sensitive flowering time trait

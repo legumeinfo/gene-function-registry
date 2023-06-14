@@ -7,6 +7,8 @@ gene_symbol_long: Flowering Locus T
 gene_model_pub_name: Glyma.16G044100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
 confidence: 5
+curators:
+	- Greg Murrell
 phenotype_summary: ~
 traits:
   - entity_name: photoperiod-sensitive flowering time trait

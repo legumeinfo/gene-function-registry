@@ -5,6 +5,8 @@ gene_symbol_long: beta-ketoacyl-ACP synthetase I
 gene_model_pub_name: Glyma.08G084300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G084300
 confidence: 4
+curators:
+	- Greg Murrell
 phenotype_summary: "Altered seed sucrose & oil content due to due to disruption of a core fatty acid synthase."
 traits:
   - entity_name: sucrose content
