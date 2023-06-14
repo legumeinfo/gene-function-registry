@@ -1,0 +1,30 @@
+---
+gene_symbols:
+  - GmLEC2a
+  - GmLEC2
+  - LEC2
+gene_symbol_long: Leafy Cotyledon 2
+gene_model_pub_name: Glyma.20G035700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G035700
+confidence: 4
+phenotype_summary: "Regulation of genes involved in biosynthesis and catabolism of seed storage and development."
+traits:
+  - entity_name: seed growth and development trait
+    entity: TO:0000653
+#  - entity_name: control of seed storage proteins
+#    entity: 
+  - entity_name: triglyceride catabolic process
+    entity: GO:0019433
+  - relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: carbohydrate biosynthetic process
+    entity: GO:0016051
+  - relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: regulation of gene expression
+    entity: GO:0010468
+references:
+  - citation: Manan, Ahmad et al., 2017
+    doi: 10.3389/fpls.2017.01604
+    pmid: 28979275
+
