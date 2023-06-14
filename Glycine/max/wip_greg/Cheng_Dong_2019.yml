@@ -5,12 +5,12 @@ gene_symbols:
   - MYB156
 gene_symbol_long: Late Elongated Hypocotyl 2a
 gene_model_pub_name: Glyma.19G260900
-gene_model_full_id: 
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
 confidence: 5
 phenotype_summary: "Encodes an MYB transciption factor that affects plant height through mediating the GA pathway in soybean."
 traits:
-  - entity_name: soybean plant height trait
-    entity: CO_336:0000027
+  - entity_name: plant height
+    entity: TO:0000207
   - relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: gibberellin metabolic process

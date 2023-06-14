@@ -11,8 +11,8 @@ traits:
     entity: CO_336:0000048
   - relation_name: positively regulates
     relation: RO:0002213
-  - entity_name: fatty acid composition
-    entity: ¡¡MISSING!!
+  - entity_name: fat and essential oil composition related trait
+    entity: TO:0000491
   - entity_name: seed weight
     entity: TO:0000181
   - relation_name: positively regulates
@@ -21,18 +21,18 @@ traits:
     entity: GO:0006641
   - relation_name: positively regulates
     relation: RO:0002213
-  - entity_name: regulation of gene expression # genes involved in glycerolipid metabolism
-    entity: GO:0010468
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: membrane lipid in vegetative tissue
-    entity: ¡¡MISSING!!
-  - relation_name: negatively regulates
-    relation: RO:0002212
-  - entity_name: digalactosyldiacylglycerol levels
-    entity: ¡¡MISSING!!
-  - relation_name: negatively regulates
-    relation: RO:0002212
+#  - entity_name: regulation of gene expression # genes involved in glycerolipid metabolism
+#    entity: GO:0010468
+#  - relation_name: positively regulates
+#    relation: RO:0002213
+#  - entity_name: membrane lipid in vegetative tissue
+#    entity: ¡¡MISSING!!
+#  - relation_name: negatively regulates
+#    relation: RO:0002212
+#  - entity_name: digalactosyldiacylglycerol levels
+#    entity: ¡¡MISSING!!
+#  - relation_name: negatively regulates
+#    relation: RO:0002212
 references:
   - citation: Bai, Jing et al., 2021
     doi: 10.1016/j.plantsci.2019.110298

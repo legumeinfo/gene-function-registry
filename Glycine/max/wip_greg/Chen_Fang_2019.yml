@@ -5,20 +5,12 @@ gene_symbols:
   - SYP24
 gene_symbol_long: Putative Syntaxin Gene
 gene_model_pub_name: Glyma.19G198600
-gene_model_full_id: 
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G198600
 confidence: 5
 phenotype_summary: "Dehydration response"
 traits:
-  - entity_name: response to osmotic stress
-    entity: GO:0006970
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: soybean drought tolerance trait
-    entity: CO_336:0000078
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: salt tolerance
-    entity: TO:0006001
+  - entity_name: drought tolerance
+    entity: TO:0000276
   - relation_name: positively regulates
     relation: RO:0002213
   - entity_name: abscisic acid-activated signaling pathway

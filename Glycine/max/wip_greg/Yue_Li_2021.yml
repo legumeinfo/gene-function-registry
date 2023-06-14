@@ -5,16 +5,14 @@ gene_symbols:
   - GmFT5a
 gene_symbol_long: Flowering Locus T
 gene_model_pub_name: Glyma.16G044100
-gene_model_full_id: ~
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
 confidence: 5
-comments: 
-  - photoperiodic flowering time
 phenotype_summary: ~
 traits:
-  - entity_name: soybean flowering time trait
-    entity: CO_336:0000000
-  - entity_name: soybean plant height trait
-    entity: CO_336:0000027
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: plant height
+    entity: TO:0000207
   - entity_name: transcription factor AP-1 complex
     entity: GO:0035976
   - relation_name: positively regulates
