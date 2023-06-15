@@ -6,7 +6,7 @@ gene_model_pub_name: ~ # No GenBank entry
 gene_model_full_id: ~
 confidence: 5
 curators:
-	- Greg Murrell
+  - Greg Murrell
 phenotype_summary: "Catalyzes the conversion of γ-tocopherol to α-tocopherol."
 traits:
   - entity_name: vitamin E biosynthetic process
