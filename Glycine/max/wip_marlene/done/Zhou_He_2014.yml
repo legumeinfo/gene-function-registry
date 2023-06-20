@@ -1,10 +1,13 @@
+---
 gene_symbols:
   - GmAKT2
 gene_symbol_long: soybean potassium transporter gene 2
-gene_model_pub_name: Glym08g20030.1
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glym08g20030.1
+gene_model_pub_name: Glym08g20030
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glym08g20030
 confidence: 5
-comments: 
+curators: 
+  - Marlene Dorneich-Hayes
+comments:
   - Overexpression of GmAKT2 in transgenic SMV-susceptible soy plants increases resistance to SMV relative to WT 
 phenotype_synopsis: GmAKT2 increases a soy plant's resistance to SMV by affecting distribution of potassium ions in the leaves.
 traits:

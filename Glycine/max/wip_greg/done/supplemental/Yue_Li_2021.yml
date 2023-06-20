@@ -9,7 +9,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_summary: ~
+phenotype_synopsis: Control of flowering time and shoot determinacy
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
@@ -57,11 +57,11 @@ gene_symbols:
   - GmTFL1b
 gene_symbol_long: Terminal Flower 1-Like
 gene_model_pub_name: Glyma.19G194300
-gene_model_full_id: ~
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G194300
 confidence: 5
 comments: 
   - photoperiodic flowering time
-phenotype_summary: ~
+phenotype_synopsis: Modification of flowering time and determinacy
 traits:
   - entity_name: soybean flowering time trait
     entity: CO_336:0000000

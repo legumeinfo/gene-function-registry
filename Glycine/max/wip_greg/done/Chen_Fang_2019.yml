@@ -9,7 +9,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G198600
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_summary: "Dehydration response"
+phenotype_synopsis: "Dehydration response"
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276

@@ -43,23 +43,33 @@ references:
 ---
 gene_symbols:
   - GmFT5a
+  - FT5a
+  - FTL4
 gene_symbol_long: Flowering Time 5a
 gene_model_pub_name: Glyma.16G044100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
+  - Greg Murrell
+phenotype_synopsis: Control of flowering time and shoot determinacy
 traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: plant height
+    entity: TO:0000207
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
+  - citation: Yue, Li et al., 2021
+    doi: 10.1111/jipb.13070
+    pmid: 33458938
   - citation: Nan, Cao et al., 2014
     doi: 10.1371/journal.pone.0097669
     pmid: 24845624
@@ -72,6 +82,22 @@ references:
   - citation: Dietz, Chan et al., 2023
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
+  - citation: Cai, Wang, et al., 2020
+    doi: 10.1111/pbi.13199
+    pmid: 31240772
+  - citation: Jiang, Zhang, et al., 2019
+    doi: 10.1186/s12864-019-5577-5
+    pmid: 30894121
+  - citation: Liu, Jiang, et al., 2018
+    doi: 10.1111/nph.14884
+    pmid: 29120038
+  - citation: Cao, Takeshima, et al., 2017
+    doi: 10.1093/jxb/erw394
+    pmid: 28338712
+  - citation: Kong, Liu, et al., 2010
+    doi: 10.1104/pp.110.160796
+    pmid: 20864544
+
 
 
 ## DOCUMENT 3 ##
@@ -681,6 +707,7 @@ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G151000
 confidence: 5
 curators:
   - Steven Cannon
+  - Greg Murrell
 phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
@@ -698,6 +725,9 @@ references:
   - citation: Lin, Liu et al., 2021
     doi: 10.1111/jipb.13021
     pmid: 33090664
+  - citation: Chen, Cai et al., 2020
+    doi: 10.1111/pce.13695
+    pmid: 31981430
 
 
 ## DOCUMENT 25 ##
@@ -878,13 +908,18 @@ references:
 ---
 gene_symbols:
   - LHY2a
+  - GmLHY2a
+  - LCL3
+  - MYB156
 gene_symbol_long: Leafy 2a
 gene_model_pub_name: Glyma.19G260900
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G260900
 confidence: 5
 curators:
   - Steven Cannon
+  - Greg Murrell
 phenotype_synopsis: Photoperiodic flowering time regulation
+comments: Encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean
 traits:
   - entity_name: flowering time
     entity: TO:0002616
@@ -901,6 +936,9 @@ references:
   - citation: Lin, Liu et al., 2021
     doi: 10.1111/jipb.13021
     pmid: 33090664
+  - citation: Chen, Cai et al., 2020
+    doi: 10.1111/pce.13695
+    pmid: 31981430
 
 
 ## DOCUMENT 32 ##
@@ -965,14 +1003,27 @@ references:
 classical_locus: 
 gene_symbols:
   - GmDT1
+  - TFL
+  - TFL1b
+  - TFL1.1
+  - GmTFL1b
 gene_symbol_long: Determinacy 1
 gene_model_pub_name: Glyma.19g194300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G194300
 confidence: 5
 curators:
   - Brandon Jordan
-phenotype_synopsis: determinate stem growth habit
+  - Greg Murrell
+comments: 
+  - Affects photoperiodic flowering time and determinacy
+phenotype_synopsis: Modification of flowering time and determinacy
 traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: flowering time
+    entity: TO:0002616
   - entity_name: meristem identity
     entity: TO:0006017
     relation_name: terminal
@@ -981,6 +1032,215 @@ references:
   - citation: Liu, Watanabe et al., 2010
     doi: doi.org/10.1104/pp.109.150607
     pmid: 20219831
+  - citation: Yue, Li et al., 2021
+    doi: 10.1111/jipb.13070
+    pmid: 33458938
+  - citation: Tian, Wang, et al., 2010
+    doi: 10.1073/pnas.1000088107
+    pmid: 20421496
+  - citation: Langewisch, Zhang, 2014
+    doi: 10.1371/journal.pone.0094150
+    pmid: 24727730
 
+## DOCUMENT 35 ##
+---
+gene_symbols:
+  - GmPLDγ
+gene_symbol_long: Phospholipase D
+gene_model_pub_name: Glyma.01g42420
+gene_model_full_id: Glyma.Wm82.gmn1.Glyma01g42420
+confidence: 5
+curators: ARRAY(0x7f896de46308)
+phenotype_summary: Overexpression of GmPLDγ from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
+traits:
+  - entity_name: seed oil content
+    entity: CO_336:0000048
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: fat and essential oil composition related trait
+    entity: TO:0000491
+  - entity_name: seed weight
+    entity: TO:0000181
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: triglyceride metabolic process
+    entity: GO:0006641
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Bai, Jing et al., 2021
+    doi: 10.1016/j.plantsci.2019.110298
+    pmid: 31779909
+
+
+## DOCUMENT 36 ##
+---
+gene_symbols:
+  - GmSYP24
+  - GmLEA2-96
+  - SYP24
+gene_symbol_long: Putative Syntaxin Gene
+gene_model_pub_name: Glyma.19G198600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G198600
+confidence: 5
+curators: ARRAY(0x7f896deda080)
+phenotype_synopsis: Dehydration response
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: abscisic acid-activated signaling pathway
+    entity: GO:0009738
+  - entity_name: seed germination
+    entity: GO:0009845
+references:
+  - citation: Chen, Fang et al., 2019
+    doi: 10.1038/s41598-019-42332-5
+    pmid: 30979945
+
+
+## DOCUMENT 37 ##
+---
+gene_symbols:
+  - KASI
+gene_symbol_long: beta-ketoacyl-ACP synthetase I
+gene_model_pub_name: Glyma.08G084300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G084300
+confidence: 4
+curators: ARRAY(0x7f896deea578)
+phenotype_synopsis: Altered seed sucrose & oil content due to due to disruption of a core fatty acid synthase.
+traits:
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: fat & essential oil content
+    entity: TO:0000604
+  - relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Dobbels, Michno et al., 2017
+    doi: 10.1534/g3.116.038596
+    pmid: 28235823
+
+
+## DOCUMENT 38 ##
+---
+gene_symbols:
+  - GmLEC2a
+  - GmLEC2
+  - LEC2
+gene_symbol_long: Leafy Cotyledon 2
+gene_model_pub_name: Glyma.20G035700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G035700
+confidence: 4
+curators: ARRAY(0x7f896def7fd8)
+phenotype_synopsis: Regulation of genes involved in biosynthesis and catabolism of seed storage and development.
+traits:
+  - entity_name: seed growth and development trait
+    entity: TO:0000653
+  - entity_name: triglyceride catabolic process
+    entity: GO:0019433
+  - relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: carbohydrate biosynthetic process
+    entity: GO:0016051
+  - relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: regulation of gene expression
+    entity: GO:0010468
+references:
+  - citation: Manan, Ahmad et al., 2017
+    doi: 10.3389/fpls.2017.01604
+    pmid: 28979275
+
+
+## DOCUMENT 39 ##
+---
+gene_symbols:
+  - GmCHX1
+gene_symbol_long: cation/H(+) antiporter 1
+gene_model_pub_name: Glyma.03G171600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G171600
+confidence: 4
+curators: ARRAY(0x7f896df078f8)
+phenotype_synopsis: Impacts salt tolerance
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Qi, Li et al., 2014
+    doi: 10.1038/ncomms5340
+    pmid: 25004933
+
+
+## DOCUMENT 40 ##
+---
+gene_symbols:
+  - Fg2
+  - GmF3G6R-b
+  - GmF3G6_Rt-b
+gene_symbol_long: flavonol glycoside 2 mRNA for flavonol 3-O-glucoside (1->6) rhamnosyltransferase
+gene_model_pub_name: Glyma.10G194000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G194000
+confidence: 4
+curators: ARRAY(0x7f896df13538)
+phenotype_synopsis: Encodes a flavonol 3-O-glucoside (1 -> 6) rhamnosyltransferase.
+traits:
+  - entity_name: glycoside biosynthetic process
+    entity: GO:0016138
+references:
+  - citation: RojasRodas, Rodriguez et al., 2013
+    doi: 10.1007/s11103-013-0133-1
+    pmid: 24072327
+
+
+## DOCUMENT 41 ##
+---
+gene_symbols:
+  - Rj2
+gene_symbol_long: Restriction of nodulation 2
+gene_model_pub_name: Glyma16g33780
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma16g33780
+confidence: 4
+curators: ARRAY(0x7f896df1cc68)
+phenotype_synopsis: Some alleles of Rj2 restrict nodulation to specific rhizobial strains.
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Sugawara, Umehara et al., 2019
+    doi: 10.1371/journal.pone.0222469
+    pmid: 31518373
+
+
+## DOCUMENT 42 ##
+---
+gene_symbols:
+  - GmTMT2a
+gene_symbol_long: glyma.Wm82.gnm1.ann1.Glyma12g01690
+gene_model_pub_name: Glyma12g01690
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g01690
+confidence: 5
+curators: ARRAY(0x7f896df25398)
+phenotype_synopsis: Catalyzes the conversion of γ-tocopherol to α-tocopherol.
+traits:
+  - entity_name: vitamin E biosynthetic process
+    entity: GO:0010189
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Zhang, Luo et al., 2013
+    doi: 10.1007/s11248-013-9713-8
+    pmid: 23645501
+  - citation: Fang, Feng, et al., 2017
+    doi: 10.1016/j.yrtph.2017.01.004
+    pmid: 28132846
+  - citation: Zhang, Luo, et al., 2020
+    doi: 10.1007/s11248-019-00180-z
+    pmid: 31673914
 
 

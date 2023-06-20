@@ -5,7 +5,9 @@ gene_symbol_long: soybean indeterminate domain transcription factor
 gene_model_pub_name: Glyma.14G095900
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G095900
 confidence: 5
-comments: 
+curators: 
+  - Marlene Dorneich-Hayes
+comments:
   - Comparisons between plants exposed to different day lengths indicated that GmIDD was induced by short days. Overexpression of GmIDD induces early flowering in WT Arabidopsis plants and restores normal flowering time to late-flowering Arabidopsis mutants. Genes acted on by the GmIDD-endcoded transcription factor identified by ChIP-Seq.
 phenotype_synopsis: GmIDD is induced by short days and promotes flowering in soy, maize, rice, and Arabidopsis.
 traits:

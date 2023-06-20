@@ -1,0 +1,18 @@
+---
+gene_symbols:
+  - Rj2
+gene_symbol_long: Restriction of nodulation 2
+gene_model_pub_name: Glyma16g33780
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma16g33780
+confidence: 4
+curators:
+  - Greg Murrell
+phenotype_synopsis: Some alleles of Rj2 restrict nodulation to specific rhizobial strains.
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Sugawara, Umehara et al., 2019
+    doi: 10.1371/journal.pone.0222469
+    pmid: 31518373
+

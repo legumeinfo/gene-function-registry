@@ -8,7 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G151000
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_summary: "Promotes flowering time under long-day conditions"
+phenotype_synopsis: "Promotes flowering time under long-day conditions"
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934

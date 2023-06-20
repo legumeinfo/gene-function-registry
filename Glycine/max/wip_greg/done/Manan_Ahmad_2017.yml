@@ -9,12 +9,10 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G035700
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_summary: "Regulation of genes involved in biosynthesis and catabolism of seed storage and development."
+phenotype_synopsis: "Regulation of genes involved in biosynthesis and catabolism of seed storage and development."
 traits:
   - entity_name: seed growth and development trait
     entity: TO:0000653
-#  - entity_name: control of seed storage proteins
-#    entity: 
   - entity_name: triglyceride catabolic process
     entity: GO:0019433
   - relation_name: negatively regulates

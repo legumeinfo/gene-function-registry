@@ -1,5 +1,4 @@
 ---
-#accession: KF879912
 gene_symbols:
   - GmCHX1
 gene_symbol_long: cation/H(+) antiporter 1
@@ -8,7 +7,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G171600
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_summary: "Raises salt tolerance."
+phenotype_synopsis: Impacts salt tolerance
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
