@@ -2,12 +2,12 @@
 gene_symbols:
   - GmBTB/POZ
 gene_symbol_long: Glycine max broad complex tramtrack bric-a-brac pox virus and zinc finger
-gene_model_pub_name: 
-gene_model_full_id: 
+gene_model_pub_name:
+gene_model_full_id:
 confidence: 4
-curators: 
+curators:
   - Marlene Dorneich-Hayes
-comments: 
+comments:
   - Overexpression of GmBTB/POZ increases resistance to Phytophthora sojae in GmLHP1 overexpressing plants.
 phenotype_synopsis: the product of GmBTB/POZ positively regulates the plant's response to Phytophthora sojae infection by marking the product of GmLHP1 for degradation, thus activating the transcription factor GmWRKY40.
 traits:
@@ -27,12 +27,12 @@ gene_symbol_long: Glycine max like heterochromatin protein 1
 gene_model_pub_name: Glyma.16G079900
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G079900
 confidence: 4
-comments: 
+comments:
   - Overexpression and RNA intereference studies both show that GmLHP1 is a negative regulator of a plant's immune response.
 phenotype_synopsis: GmLHP1 negatively regulates the plant's response to Phytophthora sojae infection by reducing salicylic acid levels and repressing both the immune response gene GmPR1 and the transcription factor gene GmWRKY40.
 traits:
-  - entity_name: 
-    entity: 
+  - entity_name:
+    entity:
 references:
   - citation: Zhang, Cheng et al., 2021
     doi: 10.1038/s42003-021-01907-7
@@ -40,21 +40,21 @@ references:
   - citation: Zhang, Gao et al., 2018
     doi: 10.1111/mpp.12741
     pmid: 30113770
---
+---
 gene_symbols:
   - GmPR1
 gene_symbol_long:
-gene_model_pub_name: 
-gene_model_full_id: 
-curators: 
+gene_model_pub_name:
+gene_model_full_id:
+curators:
   - Marlene Dorneich-Hayes
 confidence: 4
-comments: 
-  - 
+comments:
+  -
 phenotype_synopsis: GmLHP1 represses GmPR1, which
 traits:
-  - entity_name: 
-    entity: 
+  - entity_name:
+    entity:
 references:
   - citation: Zhang, Cheng et al., 2021
     doi: 10.1038/s42003-021-01907-7
@@ -62,18 +62,18 @@ references:
 ---
 gene_symbols:
   - GmLHP1
-gene_symbol_long: 
-gene_model_pub_name: 
-gene_model_full_id: 
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
 confidence: 4
-curators: 
+curators:
   - Marlene Dorneich-Hayes
-comments: 
-  - 
+comments:
+  -
 phenotype_synopsis: GmLHP1 represses the transcription factor gene GmWRKY40.
 traits:
-  - entity_name: 
-    entity: 
+  - entity_name:
+    entity:
 references:
   - citation: Zhang, Cheng et al., 2021
     doi: 10.1038/s42003-021-01907-7

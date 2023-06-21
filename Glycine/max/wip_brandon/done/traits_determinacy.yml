@@ -1,5 +1,5 @@
 ---
-classical_locus: 
+classical_locus:
 gene_symbols:
   - GmDT2
 gene_symbol_long: Determinacy 2
@@ -9,9 +9,9 @@ confidence: 5
 curators:
   - Brandon Jordan
 phenotype_synopsis: In the presence of Dt1, Dt2 impacts determinacy, maturity, and branch number.
-comments: 
+comments:
   - knockout of SoyZH13_18g242900 produces plants with increased branch number and delayed flowering and maturity relative to wildtype.
-traits: 
+traits:
   - entity_name: shoot branching
     entity: TO:0002639
     relation_name: increased amount
@@ -26,7 +26,7 @@ references:
 
 
 ---
-classical_locus: 
+classical_locus:
 gene_symbols:
   - GmDT1
 gene_symbol_long: Determinacy 1

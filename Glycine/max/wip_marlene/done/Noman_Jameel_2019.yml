@@ -5,11 +5,11 @@ gene_symbol_long: Glycine max calmodulin binding transcription activator
 gene_model_pub_name: Glyma.17G031900
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G031900
 confidence: 4
-curators: 
+curators:
   - Marlene Dorneich-Hayes
 comments:
   - Overexpression of GmCAMTA12 increases drought tolerance in Glycine max and Arabidopsis.
-phenotype_synopsis: GmCAMTA12 affects the expression of many genes involved in stress tolerance. 
+phenotype_synopsis: GmCAMTA12 affects the expression of many genes involved in stress tolerance.
 traits:
   - entity_name: abiotic stress trait
     entity: TO:0000168

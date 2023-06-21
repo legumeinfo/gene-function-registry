@@ -7,7 +7,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G084300
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_synopsis: "Altered seed sucrose & oil content due to due to disruption of a core fatty acid synthase."
+phenotype_synopsis: Altered seed sucrose & oil content due to due to disruption of a core fatty acid synthase.
 traits:
   - entity_name: sucrose content
     entity: TO:0000328

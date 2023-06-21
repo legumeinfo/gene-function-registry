@@ -9,7 +9,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_synopsis: "Encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean."
+phenotype_synopsis: Encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean.
 traits:
   - entity_name: plant height
     entity: TO:0000207

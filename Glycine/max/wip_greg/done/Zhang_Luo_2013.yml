@@ -7,7 +7,7 @@ gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g01690
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_synopsis: "Catalyzes the conversion of γ-tocopherol to α-tocopherol."
+phenotype_synopsis: Catalyzes the conversion of γ-tocopherol to α-tocopherol.
 traits:
   - entity_name: vitamin E biosynthetic process
     entity: GO:0010189

@@ -7,7 +7,7 @@ gene_model_full_id: ~
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_synopsis: "Resistance to the plant parasitic nematode Heterodera glycines."
+phenotype_synopsis: Resistance to the plant parasitic nematode Heterodera glycines.
 traits:
   - entity_name: nematode damage resistance
     entity: TO:0000384
@@ -23,7 +23,7 @@ gene_symbol_long: ~
 gene_model_pub_name: ~
 gene_model_full_id: ~
 confidence: 4
-phenotype_synopsis: "Resistance to the plant parasitic nematode Heterodera glycines."
+phenotype_synopsis: Resistance to the plant parasitic nematode Heterodera glycines.
 traits:
   - entity_name: nematode damage resistance
     entity: TO:0000384
@@ -39,7 +39,7 @@ gene_symbol_long: ~
 gene_model_pub_name: ~
 gene_model_full_id: ~
 confidence: 4
-phenotype_synopsis: "Resistance to the plant parasitic nematode Heterodera glycines."
+phenotype_synopsis: Resistance to the plant parasitic nematode Heterodera glycines.
 traits:
   - entity_name: nematode damage resistance
     entity: TO:0000384

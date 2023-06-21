@@ -18,21 +18,21 @@ references:
     doi: 10.1534/g3.114.015255
     pmid: 25452420
 ---
- gene_symbols:
-   - ChlI1b
- gene_symbol_long: 
- gene_model_pub_name: Glyma.15g08680
- gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G086800
- confidence: 4
- comments:
-   - The CD-5 phenotype cosegregates with ChlI1b.
- phenotype_synopsis: defective Mg-chetelase is responsible for chlorophyll deficient CD-5 phenotype
- traits:
-   - entity_name: magnesium chelatase activity
-     entity: GO:0016851
-   - entity_name: leaf chlorophyll content
-     entity: TO:0012002
- references:
-   - citation: Campbell, Mani et al., 2014
-     doi: 10.1534/g3.114.015255
-     pmid: 25452420
+gene_symbols:
+  - ChlI1b
+gene_symbol_long:
+gene_model_pub_name: Glyma.15g08680
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G086800
+confidence: 4
+comments:
+  - The CD-5 phenotype cosegregates with ChlI1b.
+phenotype_synopsis: defective Mg-chetelase is responsible for chlorophyll deficient CD-5 phenotype
+traits:
+  - entity_name: magnesium chelatase activity
+    entity: GO:0016851
+  - entity_name: leaf chlorophyll content
+    entity: TO:0012002
+references:
+  - citation: Campbell, Mani et al., 2014
+    doi: 10.1534/g3.114.015255
+    pmid: 25452420

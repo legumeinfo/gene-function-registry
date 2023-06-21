@@ -53,7 +53,7 @@ gene_symbol_long: C-repeat binding factor 4
 gene_model_pub_name: Medtr1g101600
 gene_model_full_id: ~
 confidence: 5
-phenotype_synopsis: "Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress."
+phenotype_synopsis: Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -301,7 +301,7 @@ gene_symbol_long: Flotillin-like protein 2
 gene_model_pub_name: Medtr3g106420
 gene_model_full_id: ~
 confidence: 5
-phenotype_synopsis: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in plants that form pink nodules. A decrease in primary root length and long primary lateral roots, reduced reduction of acetylene, and reduced number of infection events. 
+phenotype_synopsis: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in plants that form pink nodules. A decrease in primary root length and long primary lateral roots, reduced reduction of acetylene, and reduced number of infection events.
 traits:
   - entity_name: lateral root length
     entity: TO:0001012
@@ -414,7 +414,7 @@ gene_symbol_long: Glycosyltransferase 3
 gene_model_pub_name: Medtr2g035020
 gene_model_full_id: ~
 confidence: 5
-phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.  
+phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
@@ -564,7 +564,7 @@ gene_symbol_long: Cytokinin Response1
 gene_model_pub_name: Medtr8g106150
 gene_model_full_id: ~
 confidence: 5
-phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, Mt RR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi. 
+phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, Mt RR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -676,7 +676,7 @@ gene_symbol_long: No Apical Meristem (weak allele)
 gene_model_pub_name: JF929904.1
 gene_model_full_id: ~
 confidence: 5
-phenotype_synopsis: The plants exhibited partially fused cotyledons, deformed juvenile leaves, and the 3 leaflets of the mature compound leaf were fused into a simple leaf.  Mature plants develop flowers but no seed pods.  There are minor developmental abnormalities in the stamens and the carpel.  Most anthers do not release pollen.      
+phenotype_synopsis: The plants exhibited partially fused cotyledons, deformed juvenile leaves, and the 3 leaflets of the mature compound leaf were fused into a simple leaf.  Mature plants develop flowers but no seed pods.  There are minor developmental abnormalities in the stamens and the carpel.  Most anthers do not release pollen.
 traits:
   - entity_name: reproductive shoot system
     entity: PO:0025082
@@ -789,7 +789,7 @@ gene_symbol_long: single leaflet1
 gene_model_pub_name: Medtr3g098560
 gene_model_full_id: ~
 confidence: 5
-phenotype_synopsis: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is decreased. Defective, fused flowers 
+phenotype_synopsis: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is decreased. Defective, fused flowers
 traits:
   - entity_name: petiole length
     entity: TO:0000766
