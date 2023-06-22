@@ -157,6 +157,12 @@ for my $doc_ref ( @yaml ){
         &printstr_yml( "  - $symbol" );
       }
     }
+    elsif ($key =~ /curators/){
+      &printstr_yml( "curators:" );
+      foreach my $symbol (@{ $value }){
+        &printstr_yml( "  - $symbol" );
+      }
+    }
     else {
       if ( defined $value && $value !~ /null|~/ ){ &printstr_yml( "$key: $value" ) }
       else { &printstr_yml( "$key: null" ) }
@@ -252,4 +258,4 @@ S. Cannon
 2023-04-30 Initial version, using the PubMed/NLM idconv citation service
 2023-05-01 Switch to fatcat biblio lookup service
 2023-05-03 Change grouping of ontology terms, adding e.g. entity_name to go with entity
-
+2023-06-22 Add curators key (holding an array)
