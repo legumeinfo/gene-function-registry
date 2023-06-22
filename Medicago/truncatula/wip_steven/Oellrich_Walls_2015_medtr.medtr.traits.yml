@@ -1,3 +1,4 @@
+## DOCUMENT 1 ##
 ---
 gene_symbols:
   - ANS
@@ -20,6 +21,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 2 ##
 ---
 gene_symbols:
   - bHLH1
@@ -46,6 +50,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 3 ##
 ---
 gene_symbols:
   - CBF4
@@ -70,6 +77,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 4 ##
 ---
 gene_symbols:
   - CDC16
@@ -98,6 +108,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 5 ##
 ---
 gene_symbols:
   - CDPK1
@@ -126,6 +139,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 6 ##
 ---
 gene_symbols:
   - chitIII-3
@@ -139,11 +155,14 @@ traits:
     entity: PO:0025025
 references:
   - citation: Salzer, Bonanomi, et al., 2000
-    doi: 10.1094/MPMI.2000.13.7.763
+    doi: 10.1094/mpmi.2000.13.7.763
     pmid: 10875337
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 7 ##
 ---
 gene_symbols:
   - CPK3
@@ -161,11 +180,14 @@ traits:
     entity: PO:0003023
 references:
   - citation: Gargantini, Gonzalez-Rizzo, et al., 2006
-    doi: 10.1111/j.1365-313X.2006.02910.x
+    doi: 10.1111/j.1365-313x.2006.02910.x
     pmid: 17132148
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 8 ##
 ---
 gene_symbols:
   - CYCLOPS
@@ -181,10 +203,13 @@ traits:
 references:
   - citation: Liu, Breakspear, et al., 2019
     doi: 10.1104/pp.18.01572
-    pmid: 30710053
+    pmid: null
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 9 ##
 ---
 gene_symbols:
   - cyp716A12
@@ -205,6 +230,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 10 ##
 ---
 gene_symbols:
   - DMI1
@@ -227,6 +255,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 11 ##
 ---
 gene_symbols:
   - DMI3
@@ -249,6 +280,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 12 ##
 ---
 gene_symbols:
   - ENOD40
@@ -267,6 +301,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 13 ##
 ---
 gene_symbols:
   - FCL1
@@ -293,6 +330,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 14 ##
 ---
 gene_symbols:
   - FLOT2
@@ -323,6 +363,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 15 ##
 ---
 gene_symbols:
   - FLOT3
@@ -345,6 +388,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 16 ##
 ---
 gene_symbols:
   - FLOT4
@@ -369,6 +415,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 17 ##
 ---
 gene_symbols:
   - FTa1
@@ -387,6 +436,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 18 ##
 ---
 gene_symbols:
   - FTc
@@ -394,7 +446,7 @@ gene_symbol_long: Flower development normal under long days
 gene_model_pub_name: Medtr7g085040
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g085040
 confidence: 5
-phenotype_synopsis: MtFTc is expressed in apical bud tissue prior to the expression of floral meristem identity genes.  MtFTc expression is not detectable in ftc-2 mutant plants (likely a null mutation) and low in the ftc-1 and ftc-3 mutants.  Under a long-day photoperiod homozygous plants for each of the three FTc mutations developed normally like the wild type.  MtFTc does not appear to play a major role in regulating Medicago flowering under LDs.
+phenotype_synopsis: null
 traits:
   - entity_name: flower development trait
     entity: TO:0000622
@@ -405,6 +457,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 19 ##
 ---
 gene_symbols:
   - GT3
@@ -434,6 +489,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 20 ##
 ---
 gene_symbols:
   - HAP2.1
@@ -453,6 +511,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 21 ##
 ---
 gene_symbols:
   - LIN
@@ -466,11 +527,14 @@ traits:
     entity: PO:0003023
 references:
   - citation: Lace, Su, et al., 2023
-    doi: 10.7554/eLife.80741
+    doi: 10.7554/elife.80741
     pmid: 36856086
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 22 ##
 ---
 gene_symbols:
   - LYK3
@@ -493,6 +557,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 23 ##
 ---
 gene_symbols:
   - LYK4
@@ -515,6 +582,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 24 ##
 ---
 gene_symbols:
   - MtAOC
@@ -535,6 +605,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 25 ##
 ---
 gene_symbols:
   - MtCCD1
@@ -555,6 +628,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 26 ##
 ---
 gene_symbols:
   - MtCre1
@@ -577,12 +653,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 27 ##
 ---
 gene_symbols:
   - MtNAP1
@@ -606,11 +685,14 @@ traits:
     entity: PO:0000256
 references:
   - citation: Miyahara, Richens, et al., 2010
-    doi: 10.1094/MPMI-06-10-0144
+    doi: 10.1094/mpmi-06-10-0144
     pmid: 20731530
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 28 ##
 ---
 gene_symbols:
   - NAM
@@ -619,7 +701,7 @@ gene_symbol_long: No Apical Meristem (weak allele)
 gene_model_pub_name: AFI56799.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g078700
 confidence: 5
-phenotype_synopsis: The null allele bearing plants (mtnam-1) exhibited fused cotyledons as well as an abortive shoot apical meristem.  Embryos appear cylindrical as compared to the heart-shaped embryos in wild type.  If plants are regenerated through tissue culture then the leaflets of the compound leaf show fusion into a single simple leaf.  Mature plants develop flowers that are reduced in size and form no seed pods.  Both male and female organs are sterile.  The second whorl (petals) and the third whorl (stamens) are usually fused into one whorl, forming either sepal-like or petal-like structures.  Sometimes, anther-like tissues are formed on a petal-like structure, but no pollen is formed.  The carpel is small and its edges are not fused, resulting in exposed ovules, and it is covered with abnormal trichomes, and sometimes no style and stigmas develop.  Carpels have reduced numbers of ovules and their development is impaired (sometimes look like carpels) with no embryo sac observed in the nucellus.
+phenotype_synopsis: null
 traits:
   - entity_name: shoot apical meristem development
     entity: TO:0006020
@@ -668,6 +750,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 29 ##
 ---
 gene_symbols:
   - NFP
@@ -686,6 +771,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 30 ##
 ---
 gene_symbols:
   - nork
@@ -708,6 +796,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 31 ##
 ---
 gene_symbols:
   - PALM1
@@ -734,6 +825,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 32 ##
 ---
 gene_symbols:
   - SGL1
@@ -760,6 +854,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 33 ##
 ---
 gene_symbols:
   - EIN2
@@ -801,6 +898,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 34 ##
 ---
 gene_symbols:
   - SUNN
@@ -827,6 +927,9 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 35 ##
 ---
 gene_symbols:
   - VPY
@@ -844,11 +947,14 @@ traits:
     entity: PO:0003023
 references:
   - citation: Pumplin, Mondo, et al., 2009
-    doi: 10.1111/j.1365-313X.2009.04072.x
+    doi: 10.1111/j.1365-313x.2009.04072.x
     pmid: 19912567
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 36 ##
 ---
 gene_symbols:
   - ERN1
@@ -861,12 +967,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 37 ##
 ---
 gene_symbols:
   - ERN2
@@ -879,12 +988,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 38 ##
 ---
 gene_symbols:
   - EXPA
@@ -897,12 +1009,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 39 ##
 ---
 gene_symbols:
   - NIN
@@ -915,12 +1030,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 40 ##
 ---
 gene_symbols:
   - NRT1.3
@@ -933,12 +1051,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 41 ##
 ---
 gene_symbols:
   - NSP1
@@ -951,12 +1072,15 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+
+## DOCUMENT 42 ##
 ---
 gene_symbols:
   - RR4
@@ -969,6 +1093,8 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Verni√©, Kim, et al., 2015
+  - citation: Vernié, Kim, et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
+
+
