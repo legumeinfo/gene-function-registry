@@ -1684,4 +1684,95 @@ references:
     pmid: 23636865
 
 
+## DOCUMENT 60 ##
+---
+gene_symbols:
+  - KASII-A
+gene_symbol_long: beta-ketoacyl-ACP synthase II
+gene_model_pub_name: Glyma17g05200
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g05200
+confidence: 3
+curators:
+  - Wei Huang
+comments:
+  - Mutations in the soybean 3-ketoacyl-ACP synthase gene are correlated with high levels of seed palmitic acid
+phenotype_synopsis: Palmitic acid levels were significantly higher in the mutants than in the Williams-82 wild type control
+traits:
+  - entity_name: beta-ketoacyl-acyl-carrier-protein synthase II activity
+    entity: GO:0033817
+references:
+  - citation: Head, Katie, et al., 2012
+    doi: 10.1007/s11032-012-9707-x
+    pmid: null
+
+
+## DOCUMENT 61 ##
+---
+gene_symbols:
+  - KASII-B
+gene_symbol_long: plastid 3-keto-acyl-ACP synthase II-B
+gene_model_pub_name: Glyma13g17290
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g17290
+confidence: 3
+curators:
+  - Wei Huang
+phenotype_synopsis: Palmitic acid levels were significantly higher in the mutants than in the Williams-82 wild type control
+traits:
+  - entity_name: beta-ketoacyl-acyl-carrier-protein synthase II activity
+    entity: GO:0033817
+references:
+  - citation: Head, Katie, et al., 2012
+    doi: 10.1007/s11032-012-9707-x
+    pmid: null
+
+
+## DOCUMENT 62 ##
+---
+gene_symbols:
+  - MYB176
+gene_symbol_long: GmMYB176
+gene_model_pub_name: Glyma.05g032200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05g032200
+confidence: 4
+curators:
+  - Wei Huang
+comments:
+  - A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max)
+phenotype_synopsis: GmMYB176 regulates multiple genes in the isoflavonoid biosynthetic pathway, thereby affecting their levels in soybean roots.
+traits:
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: isoflavonoid phytoalexin metabolic process
+    entity: GO:0046289
+references:
+  - citation: Vadivel, Anguraj AK, et al., 2021
+    doi: 10.1038/s42003-021-01889-6
+    pmid: 33742087
+  - citation: Yi, Jinxin et al., 2010
+    doi: 10.1111/j.1365-313x.2010.04214.x
+    pmid: 20345602
+
+
+## DOCUMENT 63 ##
+---
+gene_symbols:
+  - bzip5
+gene_symbol_long: GmbZIP5
+gene_model_pub_name: Glyma.15g014800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15g014800
+confidence: 4
+curators:
+  - Wei Huang
+phenotype_synopsis: RNAi silencing of GmbZIP5 reduced the isoflavonoid level in soybean hairy roots.
+traits:
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: isoflavonoid phytoalexin metabolic process
+    entity: GO:0046289
+references:
+  - citation: Vadivel, Anguraj AK, et al., 2021
+    doi: 10.1038/s42003-021-01889-6
+    pmid: 33742087
+
+
 

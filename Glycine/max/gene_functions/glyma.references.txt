@@ -5629,3 +5629,193 @@ PST - ppublish
 SO  - Plant J. 2018 Oct;96(1):147-162. doi: 10.1111/tpj.14025. Epub 2018 Aug 16.
 
 
+##### PUB RECORD #####
+## 10.1111/j.1365-313x.2010.04214.x  20345602  null  Yi, Jinxin et al., 2010  "Yi J, Derynck MR, Li X, Telmer P, Marsolais F, Dhaubhadel S. A single-repeat MYB transcription factor, GmMYB176, regulates CHS8 gene expression and affects isoflavonoid biosynthesis in soybean. Plant J. 2010 Jun 1;62(6):1019-34. doi: 10.1111/j.1365-313X.2010.04214.x. Epub 2010 Mar 25. PMID: 20345602." ##
+
+PMID- 20345602
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100927
+LR  - 20220310
+IS  - 1365-313X (Electronic)
+IS  - 0960-7412 (Linking)
+VI  - 62
+IP  - 6
+DP  - 2010 Jun 1
+TI  - A single-repeat MYB transcription factor, GmMYB176, regulates CHS8 gene 
+      expression and affects isoflavonoid biosynthesis in soybean.
+PG  - 1019-34
+LID - 10.1111/j.1365-313X.2010.04214.x [doi]
+AB  - Here we demonstrate that GmMYB176 regulates CHS8 expression and affects 
+      isoflavonoid synthesis in soybean. We previously established that CHS8 expression 
+      determines the isoflavonoid level in soybean seeds by comparing the transcript 
+      profiles of cultivars with different isoflavonoid contents. In the present study, 
+      a functional genomic approach was used to identify the factor that regulates CHS8 
+      expression and isoflavonoid synthesis. Candidate genes were cloned, and 
+      co-transfection assays were performed in Arabidopsis leaf protoplasts. The 
+      results showed that GmMYB176 can trans-activate the CHS8 promoter with maximum 
+      activity. Transient expression of GmMYB176 in soybean embryo protoplasts 
+      increased endogenous CHS8 transcript levels up to 169-fold after 48 h. GmMYB176 
+      encodes an R1 MYB protein, and is expressed in soybean seed during maturation. 
+      Furthermore, GmMYB176 recognizes a 23 bp motif containing a TAGT(T/A)(A/T) 
+      sequence within the CHS8 promoter. A subcellular localization study confirmed 
+      nuclear localization of GmMYB176. A predicted pST binding site for 14-3-3 protein 
+      is required for subcellular localization of GmMYB176. RNAi silencing of GmMYB176 
+      in hairy roots resulted in reduced levels of isoflavonoids, showing that GmMYB176 
+      is necessary for isoflavonoid biosynthesis. However, over-expression of GmMYB176 
+      was not sufficient to increase CHS8 transcript and isoflavonoid levels in hairy 
+      roots. We conclude that an R1 MYB transcription factor, GmMYB176, regulates CHS8 
+      expression and isoflavonoid synthesis in soybean.
+FAU - Yi, Jinxin
+AU  - Yi J
+AD  - Southern Crop Protection and Food Research Center, Agriculture and Agri-Food 
+      Canada, London, Ontario, N5V 4T3, Canada.
+FAU - Derynck, Michael R
+AU  - Derynck MR
+FAU - Li, Xuyan
+AU  - Li X
+FAU - Telmer, Patrick
+AU  - Telmer P
+FAU - Marsolais, Frederic
+AU  - Marsolais F
+FAU - Dhaubhadel, Sangeeta
+AU  - Dhaubhadel S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100325
+PL  - England
+TA  - Plant J
+JT  - The Plant journal : for cell and molecular biology
+JID - 9207397
+RN  - 0 (Flavonoids)
+RN  - 0 (Plant Proteins)
+RN  - 0 (RNA, Plant)
+RN  - 0 (Transcription Factors)
+SB  - IM
+CIN - Plant Signal Behav. 2010 Jul;5(7):921-3. PMID: 20622511
+MH  - Amino Acid Sequence
+MH  - Flavonoids/*biosynthesis
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Plant
+MH  - Molecular Sequence Data
+MH  - Mutagenesis, Site-Directed
+MH  - Phylogeny
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Plant Roots/metabolism
+MH  - Promoter Regions, Genetic
+MH  - RNA Interference
+MH  - RNA, Plant/genetics
+MH  - Seeds/*metabolism
+MH  - Sequence Alignment
+MH  - Sequence Analysis, DNA
+MH  - Soybeans/genetics/metabolism
+MH  - Transcription Factors/genetics/*metabolism
+EDAT- 2010/03/30 06:00
+MHDA- 2010/09/29 06:00
+CRDT- 2010/03/30 06:00
+PHST- 2010/03/30 06:00 [entrez]
+PHST- 2010/03/30 06:00 [pubmed]
+PHST- 2010/09/29 06:00 [medline]
+AID - TPJ4214 [pii]
+AID - 10.1111/j.1365-313X.2010.04214.x [doi]
+PST - ppublish
+SO  - Plant J. 2010 Jun 1;62(6):1019-34. doi: 10.1111/j.1365-313X.2010.04214.x. Epub 
+      2010 Mar 25.
+
+
+##### PUB RECORD #####
+## 10.1038/s42003-021-01889-6  33742087  null  Vadivel, Anguraj AK, et al., 2021  "Anguraj Vadivel AK, McDowell T, Renaud JB, Dhaubhadel S. A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max). Commun Biol. 2021 Mar 19;4(1):356. doi: 10.1038/s42003-021-01889-6. PMID: 33742087; PMCID: PMC7979867." ##
+
+PMID- 33742087
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210811
+LR  - 20210811
+IS  - 2399-3642 (Electronic)
+IS  - 2399-3642 (Linking)
+VI  - 4
+IP  - 1
+DP  - 2021 Mar 19
+TI  - A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis 
+      in soybean (Glycine max).
+PG  - 356
+LID - 10.1038/s42003-021-01889-6 [doi]
+LID - 356
+AB  - GmMYB176 is an R1 MYB transcription factor that regulates multiple genes in the 
+      isoflavonoid biosynthetic pathway, thereby affecting their levels in soybean 
+      roots. While GmMYB176 is important for isoflavonoid synthesis, it is not 
+      sufficient for the function and requires additional cofactor(s). The aim of this 
+      study was to identify the GmMYB176 interactome for the regulation of isoflavonoid 
+      biosynthesis in soybean. Here, we demonstrate that a bZIP transcription factor 
+      GmbZIP5 co-immunoprecipitates with GmMYB176 and shows protein-protein interaction 
+      in planta. RNAi silencing of GmbZIP5 reduced the isoflavonoid level in soybean 
+      hairy roots. Furthermore, co-overexpression of GmMYB176 and GmbZIP5 enhanced the 
+      level of multiple isoflavonoid phytoallexins including glyceollin, isowighteone 
+      and a unique O-methylhydroxy isoflavone in soybean hairy roots. These findings 
+      could be utilized to develop biotechnological strategies to manipulate the 
+      metabolite levels either to enhance plant defense mechanisms or for human health 
+      benefits in soybean or other economically important crops.
+FAU - Anguraj Vadivel, Arun Kumaran
+AU  - Anguraj Vadivel AK
+AUID- ORCID: 0000-0002-6384-6316
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada.
+AD  - Department of Biology, University of Western Ontario, London, ON, Canada.
+FAU - McDowell, Tim
+AU  - McDowell T
+AUID- ORCID: 0000-0001-5334-1923
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada.
+FAU - Renaud, Justin B
+AU  - Renaud JB
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada.
+FAU - Dhaubhadel, Sangeeta
+AU  - Dhaubhadel S
+AUID- ORCID: 0000-0003-2582-5503
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada. sangeeta.dhaubhadel@canada.ca.
+AD  - Department of Biology, University of Western Ontario, London, ON, Canada. 
+      sangeeta.dhaubhadel@canada.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210319
+PL  - England
+TA  - Commun Biol
+JT  - Communications biology
+JID - 101719179
+RN  - 0 (Basic-Leucine Zipper Transcription Factors)
+RN  - 0 (Isoflavones)
+RN  - 0 (Pterocarpans)
+RN  - 0 (Soybean Proteins)
+RN  - 0 (Transcription Factors)
+RN  - 6461TV6UCH (glyceollin)
+SB  - IM
+MH  - Basic-Leucine Zipper Transcription Factors/genetics/metabolism
+MH  - Gene Expression Regulation, Plant
+MH  - Isoflavones/*biosynthesis
+MH  - Plant Roots
+MH  - Protein Binding
+MH  - Pterocarpans/biosynthesis
+MH  - Soybean Proteins/genetics/*metabolism
+MH  - Soybeans/genetics/*metabolism
+MH  - Transcription Factors/genetics/*metabolism
+PMC - PMC7979867
+COIS- The authors declare no competing interests.
+EDAT- 2021/03/21 06:00
+MHDA- 2021/08/12 06:00
+CRDT- 2021/03/20 06:33
+PHST- 2020/09/03 00:00 [received]
+PHST- 2021/02/19 00:00 [accepted]
+PHST- 2021/03/20 06:33 [entrez]
+PHST- 2021/03/21 06:00 [pubmed]
+PHST- 2021/08/12 06:00 [medline]
+AID - 10.1038/s42003-021-01889-6 [pii]
+AID - 1889 [pii]
+AID - 10.1038/s42003-021-01889-6 [doi]
+PST - epublish
+SO  - Commun Biol. 2021 Mar 19;4(1):356. doi: 10.1038/s42003-021-01889-6.
+
+
