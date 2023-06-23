@@ -1,0 +1,46 @@
+---
+classical_locus:
+gene_symbols:
+  - GA2ox8A
+gene_symbol_long: gibberellin 2-oxidase 8A/B
+gene_model_pub_name: Glyma.13G287600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G287600.1
+confidence: 5
+curators:
+  - William Hardison
+comments:
+  - ncbi says the locus for  gibberellin 2-beta-dioxygenase 8 [Glycine max] ->
+    "LOCUS NP_001242439"
+  - Cannot find plant trait ontology for trailing growth and shoot length -> "shoot height (related)" is for plant height
+  - glyma.Wm82.gnm2.ann1.Glyma.13G287600.1 also works
+  -
+phenotype_synopsis: Negatively correlated with shoot length and trailing growth
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+references:
+  - citation: Wang, Li et al., 2021
+    doi: 10.1111/tpj.15414
+    pmid: 34245624
+
+---
+classical_locus:
+gene_symbols:
+  - GA2ox8B
+gene_symbol_long: gibberellin 2-oxidase 8A/B
+gene_model_pub_name: Glyma.13G288000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G288000.1
+confidence: 5
+curators:
+  - William Hardison
+comments:
+  - Cannot find plant trait ontology for trailing growth and shoot length -> "shoot height (related)" is for plant height
+  - glyma.Wm82.gnm2.ann1.Glyma.13G288000.1 also works
+phenotype_synopsis: Negatively correlated with shoot length and trailing growth
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+references:
+  - citation: Wang, Li et al., 2021
+    doi: 10.1111/tpj.15414
+    pmid: 34245624
