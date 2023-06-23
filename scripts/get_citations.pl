@@ -27,12 +27,14 @@ my $usage = <<EOS;
                If citations in the traits file are found in this file, the citation handles
                will be drawn from this file; otherwise, from the PubMed idconv citation service.
     -yml_out   Filename of yaml-format traits to write, filling in doi and/or pmid.
+    -doc_count Starting number for document count (comment at top of each yaml document). Default 1.
     -overwrite To overwrite the yml_out and cit_out files, if they exist already (boolean).
     -verbose   Write some status info to stderr.
     -help      This message (boolean).
 EOS
 
 my ($traits, $help, $verbose, $yml_out, $cit_out, $in_cit);
+my $doc_count = 1;
 my $lookup_url = 'https://api.fatcat.wiki/v0/release/lookup';
 my $overwrite=0;
 
@@ -41,6 +43,7 @@ GetOptions (
   "cit_out=s" =>  \$cit_out, # retuired
   "yml_out:s" =>  \$yml_out,
   "in_cit:s" =>   \$in_cit,
+  "doc_count:i" => \$doc_count,
   "overwrite" =>  \$overwrite,
   "verbose" =>    \$verbose,
   "help" =>       \$help,
@@ -83,10 +86,9 @@ if ($in_cit){
 my $yp = YAML::PP->new( preserve => YAML::PP::Common->PRESERVE_ORDER );
 my @yaml = $yp->load_file( $traits );
 
-my $doc_num = 1;
 for my $doc_ref ( @yaml ){
-  &printstr_yml( "## DOCUMENT $doc_num ##" );
-  if ($verbose){ warn "\nProcessing document $doc_num\n"; }
+  &printstr_yml( "## DOCUMENT $doc_count ##" );
+  if ($verbose){ warn "\nProcessing document $doc_count\n"; }
   &printstr_yml( "---" );
   while (my ($key, $value) = each (%{$doc_ref})){
     if ($key =~ /references/){
@@ -151,16 +153,10 @@ for my $doc_ref ( @yaml ){
         }
       }
     }
-    elsif ($key =~ /gene_symbols/){
-      &printstr_yml( "gene_symbols:" );
-      foreach my $symbol (@{ $value }){
-        &printstr_yml( "  - $symbol" );
-      }
-    }
-    elsif ($key =~ /curators/){
-      &printstr_yml( "curators:" );
-      foreach my $symbol (@{ $value }){
-        &printstr_yml( "  - $symbol" );
+    elsif ($key =~ /gene_symbols|curators|comments/){
+      &printstr_yml( "$key:" );
+      foreach my $val (@{ $value }){
+        &printstr_yml( "  - $val" );
       }
     }
     else {
@@ -168,7 +164,7 @@ for my $doc_ref ( @yaml ){
       else { &printstr_yml( "$key: null" ) }
     }
   }
-  $doc_num++;
+  $doc_count++;
   &printstr_yml("\n");
 }
 
@@ -258,4 +254,5 @@ S. Cannon
 2023-04-30 Initial version, using the PubMed/NLM idconv citation service
 2023-05-01 Switch to fatcat biblio lookup service
 2023-05-03 Change grouping of ontology terms, adding e.g. entity_name to go with entity
-2023-06-22 Add curators key (holding an array)
+2023-06-22 Handle key-value pairs for which the value is an array: comments, curators, gene_symbols
+2023-06-23 Add doc_count as parameter
