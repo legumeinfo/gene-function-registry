@@ -1,0 +1,75 @@
+---
+classical_locus: 
+gene_symbols:
+  - GmDT2
+gene_symbol_long: Determinacy 2
+gene_model_pub_name: SoyZH13_18g242900, Glyma18g50910
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g50910
+confidence: 5
+comments:
+  - gain-of-function mutation in Wm82 # Use if needed
+phenotype_synopsis: semi-determinacy # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:
+  - entity_name: shoot branching
+    entity: TO:0002639
+    relation_name: increased amount
+    relation: PATO:0000470
+references:
+  - citation: Liang, Chen, et al., 2022
+    doi: 10.1038/s41467-022-34153-4
+    pmid: 36307423
+  - citation: Ping, Liu, et al., 2014
+    doi: 10.1105/tpc.114.126938
+    pmid: 25005919
+
+---
+classical_locus: 
+gene_symbols:
+  - GmDT1
+gene_symbol_long: Determinacy 1
+gene_model_pub_name: Glyma.19g194300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G194300
+confidence: 5
+comments:
+  -  # Use if needed
+phenotype_synopsis:  # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:
+  - entity_name: meristem identity
+    entity: TO:0006017
+    relation_name: terminal
+    relation: PATO:0002476
+references:
+  - citation: Liu, Watanabe et al., 2010
+    doi: doi.org/10.1104/pp.109.150607
+    pmid: 20219831
+
+---
+classical_locus: cqSeed protein-003 
+gene_symbols:
+  - 
+gene_symbol_long:  
+gene_model_pub_name: Glyma.20g85100 
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G085100.1
+confidence: 5
+comments:
+  -  loss-of-function mutation in Wm82 # Use if needed
+phenotype_synopsis: seed protein and oil concentration # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:        # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: seed protein compostion # Short descriptive name of the ontology accession
+     entity: TO:0000490    # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to
+  - quality_name:  # Optional; short descriptive name for accession quality term
+     quality:    # Optional; typically from generally from PATO, https://www.ebi.ac.uk/ols/ontologies/pato
+  - relation_name: positively regulates # Relations Ontology may be used as modifier if known; 
+     relation: RO:0002213 # https://www.ebi.ac.uk/ols/ontologies/ro
+traits:
+  - entity_name: seed quality 
+    entity: TO:0000931
+    relation_name: increased quality 
+    relation: PATO:0002300
+references:
+  - citation: Fliege, Ward et al., 2022
+    doi: 10.1111/tpj.15658   
+    pmid: 
+
+
+-
