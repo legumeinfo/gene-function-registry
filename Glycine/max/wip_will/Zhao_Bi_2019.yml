@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long:
 gene_model_pub_name: Glyma13g16560
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g16560.2
-confidence: 5
+confidence: 3
 curators:
   - William Hardison
 comments:
@@ -25,7 +25,7 @@ gene_symbols:
 gene_symbol_long:
 gene_model_pub_name: Glyma17g06120
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g06120.1
-confidence: 5
+confidence: 3
 curators:
   - William Hardison
 comments:
@@ -69,7 +69,7 @@ gene_symbols:
 gene_symbol_long:
 gene_model_pub_name:
 gene_model_full_id:
-confidence: 5
+confidence: 3
 curators:
   - William Hardison
 comments:

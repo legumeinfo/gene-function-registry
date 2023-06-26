@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long:
 gene_model_pub_name: Glyma01g42390
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g02980
-confidence: 5
+confidence: 4
 curators:
   - William Hardison
 comments:
@@ -34,7 +34,7 @@ gene_symbols:
 gene_symbol_long:
 gene_model_pub_name: Glyma11g02980
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g02980.1
-confidence: 5
+confidence: 4
 comments:
 phenotype_synopsis: chlorophyll retention in mature tissues
 traits:

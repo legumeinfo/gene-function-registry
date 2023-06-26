@@ -29,7 +29,7 @@ gene_symbols:
 gene_symbol_long:
 gene_model_pub_name: Glyma18g51320
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g51320.1
-confidence: 5
+confidence: 3
 curators:
   - William Hardison
 comments:
