@@ -35,7 +35,7 @@ references:
    - enitity_name: defense response to virus
      entity: GO:0051607
  references:
-   - citation: 
+   - citation: Wang, Shine et al., 2014
      doi: 10.1104/pp.114.242495
      pmid: 24872380
    - citation: Weirmer, Feys et al., 2005
@@ -57,7 +57,7 @@ traits:
   - enitity_name: defense response to virus
     entity: GO:0051607
 references:
-  - citation: 
+  - citation: Wang, Shine et al., 2014
     doi: 10.1104/pp.114.242495
     pmid: 24872380
   - citation: Weirmer, Feys et al., 2005
