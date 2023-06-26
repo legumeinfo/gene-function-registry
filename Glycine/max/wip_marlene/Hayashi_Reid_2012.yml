@@ -1,0 +1,19 @@
+gene_symbols:
+  - 
+gene_symbol_long: 
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 3
+comments: 
+  - Identified 2915 (!) genes regulated by Nod factor (NF) injected into plant by Bradyrhizobium japonicum infection. Researchers injected WT Bradyrhizobium and mutant unable to produce NF.
+phenotype_synopsis: 
+traits:
+  - entity_name: 
+    entity: 
+references:
+  - citation: Hayashi, Reid et. al., 2012
+    doi: 10.1111/j.1467-7652.2012.00729.x
+    pmid: 22863334
+  - citation: 
+    doi: 
+    pmid: 
