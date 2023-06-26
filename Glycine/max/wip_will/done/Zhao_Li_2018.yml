@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: Glycine max GAMYB-binding protein gene
 gene_model_pub_name: DQ112540
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G008600.1
-confidence: 5
+confidence: 4
 curators:
   - William Hardison
 comments:

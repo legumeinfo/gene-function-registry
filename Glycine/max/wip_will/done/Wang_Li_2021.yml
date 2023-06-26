@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: gibberellin 2-oxidase 8A/B
 gene_model_pub_name: Glyma.13G287600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G287600.1
-confidence: 5
+confidence: 3
 curators:
   - William Hardison
 comments:
@@ -28,7 +28,7 @@ gene_symbols:
 gene_symbol_long: gibberellin 2-oxidase 8A/B
 gene_model_pub_name: Glyma.13G288000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G288000.1
-confidence: 5
+confidence: 3
 curators:
   - William Hardison
 comments:
