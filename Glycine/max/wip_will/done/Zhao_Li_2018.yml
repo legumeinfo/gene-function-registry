@@ -1,0 +1,30 @@
+---
+classical_locus:
+gene_symbols:
+  - GmGBP1
+gene_symbol_long: Glycine max GAMYB-binding protein gene
+gene_model_pub_name: DQ112540
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G008600.1
+confidence: 5
+curators:
+  - William Hardison
+comments:
+  - haplotype analysis, association analysis, phenotypic analysis, statistics analysis
+  - on ncbi -> GLYMA_01G008600v4, LOC732608, glyma.Wm82.gnm2.ann1.Glyma.01G008600.1
+  - Zhang, Zhao et al., 2013 [doi 10.1186/1471-2229-13-21] identifies GmGBP1 as GenBank DQ112540
+phenotype_synopsis: increased flowering on short days
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000933
+references:
+  - citation: Zhao, Li et al., 2018
+    doi: 10.1111/tpj.14025
+    pmid: 30004144
+  - citation: Zhang, Zhao et al., 2013
+    doi: 10.1186/1471-2229-13-21
+    pmid: 23388059
+  - citation: Zhao, Wang et al., 2013
+    doi: 10.1007/s11103-013-0062-z
+    pmid: 23636865

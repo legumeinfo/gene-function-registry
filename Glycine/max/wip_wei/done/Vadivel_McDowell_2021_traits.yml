@@ -5,6 +5,8 @@ gene_symbol_long: GmMYB176
 gene_model_pub_name: Glyma.05g032200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05g032200
 confidence: 4
+curators:
+  - Wei Huang
 comments:
   - A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max)
 phenotype_synopsis: GmMYB176 regulates multiple genes in the isoflavonoid biosynthetic pathway, thereby affecting their levels in soybean roots.
@@ -27,6 +29,8 @@ gene_symbol_long: GmbZIP5
 gene_model_pub_name: Glyma.15g014800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15g014800
 confidence: 4
+curators:
+  - Wei Huang
 phenotype_synopsis: RNAi silencing of GmbZIP5 reduced the isoflavonoid level in soybean hairy roots.
 traits:
   - entity_name: isoflavonoid biosynthetic process
