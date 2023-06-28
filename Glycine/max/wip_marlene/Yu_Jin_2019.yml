@@ -25,16 +25,6 @@ references:
  traits:
    - entity_name: seed germination
      entity: GO:0009845
-   - entity_name: endoplasmic reticulum
-     entity: GO:0005783
-   - entity_name: glycerol ether metabolic process
-     entity: GO:0006662
-   - entity_name: protein disulfide oxidoreductase activity
-     entity: GO:0015035
-   - entity_name: isomerase activity
-     entity: GO:0016853
-   - entity_name: cell redox homeostasis
-     entity: GO:0045454
  references:
    - citation: Yu, Jin et. al., 2019
      doi: 10.1186/s12870-019-2201-4
@@ -49,8 +39,6 @@ phenotype_synopsis: Associated with seed germination, energy metabolism, and/or 
 traits:
   - entity_name: seed germination
     entity: GO:0009845
-  - entity_name: endopeptidase inhibitor activity
-    entity: GO:0004866
 references:
   - citation: Yu, Jin et. al., 2019
     doi: 10.1186/s12870-019-2201-4
@@ -79,12 +67,6 @@ phenotype_synopsis: Associated with seed germination and energy metabolism.
 traits:
   - entity_name: seed germination
     entity: GO:0009845
-  - entity_name: polysaccaride catabolic process
-    entity: GO:0000272
-  - entity_name: carbohydrate metabolic process
-    entity: GO:0005975
-  - entity_name: beta amylase activity
-    entity: GO:0016161
 references:
   - citation: Yu, Jin et. al., 2019
     doi: 10.1186/s12870-019-2201-4
@@ -99,10 +81,6 @@ references:
  traits:
    - entity_name: seed germination
      entity: GO:0009845
-   - entity_name: vacuolar transport
-     entity: GO:0007034
-   - entity_name: retromer complex
-     entity: GO:0030904
  references:
    - citation: Yu, Jin et. al., 2019
      doi: 10.1186/s12870-019-2201-4
@@ -119,8 +97,6 @@ traits:
     entity: GO:0009845
   - entity_name: disease resistance
     entity: TO:0000112
-  - entity_name: protein binding
-    entity: GO:0005515 
 references:
   - citation: Yu, Jin et. al., 2019
     doi: 10.1186/s12870-019-2201-4
