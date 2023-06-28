@@ -82,19 +82,19 @@ references:
   - citation: Dietz, Chan et al., 2023
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
-  - citation: Cai, Wang, et al., 2020
+  - citation: Cai, Wang et al., 2020
     doi: 10.1111/pbi.13199
     pmid: 31240772
-  - citation: Jiang, Zhang, et al., 2019
+  - citation: Jiang, Zhang et al., 2019
     doi: 10.1186/s12864-019-5577-5
     pmid: 30894121
-  - citation: Liu, Jiang, et al., 2018
+  - citation: Liu, Jiang et al., 2018
     doi: 10.1111/nph.14884
     pmid: 29120038
-  - citation: Cao, Takeshima, et al., 2017
+  - citation: Cao, Takeshima et al., 2017
     doi: 10.1093/jxb/erw394
     pmid: 28338712
-  - citation: Kong, Liu, et al., 2010
+  - citation: Kong, Liu et al., 2010
     doi: 10.1104/pp.110.160796
     pmid: 20864544
 
@@ -990,10 +990,10 @@ traits:
     relation_name: increased amount
     relation: PATO:0000470
 references:
-  - citation: Liang, Chen, et al., 2022
+  - citation: Liang, Chen et al., 2022
     doi: 10.1038/s41467-022-34153-4
     pmid: 36307423
-  - citation: Ping, Liu, et al., 2014
+  - citation: Ping, Liu et al., 2014
     doi: 10.1105/tpc.114.126938
     pmid: 25005919
 
@@ -1035,7 +1035,7 @@ references:
   - citation: Yue, Li et al., 2021
     doi: 10.1111/jipb.13070
     pmid: 33458938
-  - citation: Tian, Wang, et al., 2010
+  - citation: Tian, Wang et al., 2010
     doi: 10.1073/pnas.1000088107
     pmid: 20421496
   - citation: Langewisch, Zhang, 2014
@@ -1244,10 +1244,10 @@ references:
   - citation: Zhang, Luo et al., 2013
     doi: 10.1007/s11248-013-9713-8
     pmid: 23645501
-  - citation: Fang, Feng, et al., 2017
+  - citation: Fang, Feng et al., 2017
     doi: 10.1016/j.yrtph.2017.01.004
     pmid: 28132846
-  - citation: Zhang, Luo, et al., 2020
+  - citation: Zhang, Luo et al., 2020
     doi: 10.1007/s11248-019-00180-z
     pmid: 31673914
 
@@ -1701,7 +1701,7 @@ traits:
   - entity_name: beta-ketoacyl-acyl-carrier-protein synthase II activity
     entity: GO:0033817
 references:
-  - citation: Head, Katie, et al., 2012
+  - citation: Head, Katie et al., 2012
     doi: 10.1007/s11032-012-9707-x
     pmid: null
 
@@ -1721,7 +1721,7 @@ traits:
   - entity_name: beta-ketoacyl-acyl-carrier-protein synthase II activity
     entity: GO:0033817
 references:
-  - citation: Head, Katie, et al., 2012
+  - citation: Head, Katie et al., 2012
     doi: 10.1007/s11032-012-9707-x
     pmid: null
 
@@ -1745,7 +1745,7 @@ traits:
   - entity_name: isoflavonoid phytoalexin metabolic process
     entity: GO:0046289
 references:
-  - citation: Vadivel, Anguraj AK, et al., 2021
+  - citation: Vadivel, Anguraj AK et al., 2021
     doi: 10.1038/s42003-021-01889-6
     pmid: 33742087
   - citation: Yi, Jinxin et al., 2010
@@ -1770,7 +1770,7 @@ traits:
   - entity_name: isoflavonoid phytoalexin metabolic process
     entity: GO:0046289
 references:
-  - citation: Vadivel, Anguraj AK, et al., 2021
+  - citation: Vadivel, Anguraj AK et al., 2021
     doi: 10.1038/s42003-021-01889-6
     pmid: 33742087
 
