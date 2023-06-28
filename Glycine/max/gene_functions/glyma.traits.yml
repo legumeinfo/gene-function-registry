@@ -13,11 +13,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Kong, Liu et al., 2010
@@ -115,11 +115,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Xia, Zhai et al., 2012
@@ -151,11 +151,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Tsubokura, Watanabe et al., 2013
@@ -190,11 +190,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Lu, Dong et al., 2020
@@ -220,11 +220,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Lu, Dong et al., 2020
@@ -437,11 +437,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Xu, Yamagishi et al., 2015
@@ -466,11 +466,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Watanabe, Xia et al., 2011
@@ -496,11 +496,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Watanabe, Hideshima et al., 2009
@@ -526,11 +526,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Liu, Jiang et al., 2008a
@@ -556,11 +556,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Zhai et al., 2014
@@ -589,11 +589,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Lu, Zhao et al., 2017
@@ -621,11 +621,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Kong, Liu et al., 2010
@@ -653,11 +653,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Guo, Xu et al., 2015
@@ -682,11 +682,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Guo, Xu et al., 2015
@@ -712,11 +712,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Fan, Hu et al., 2014
@@ -744,11 +744,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Fan, Hu et al., 2014
@@ -773,11 +773,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Fan, Hu et al., 2014
@@ -802,11 +802,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Fan, Hu et al., 2014
@@ -831,11 +831,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Wang, Zhou et al., 2015
@@ -860,11 +860,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Lu, Zhao et al., 2017
@@ -889,11 +889,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Lu, Zhao et al., 2017
@@ -923,11 +923,11 @@ comments: Encodes a MYB transciption factor that affects plant height through me
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Lu, Zhao et al., 2017
@@ -955,11 +955,11 @@ phenotype_synopsis: Photoperiodic flowering time regulation
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Lu, Zhao et al., 2017
@@ -1056,17 +1056,17 @@ phenotype_summary: Overexpression of GmPLDγ from soybean results in higher seed
 traits:
   - entity_name: seed oil content
     entity: CO_336:0000048
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: fat and essential oil composition related trait
     entity: TO:0000491
   - entity_name: seed weight
     entity: TO:0000181
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: triglyceride metabolic process
     entity: GO:0006641
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Bai, Jing et al., 2021
@@ -1090,7 +1090,7 @@ phenotype_synopsis: Dehydration response
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: abscisic acid-activated signaling pathway
     entity: GO:0009738
@@ -1116,11 +1116,11 @@ phenotype_synopsis: Altered seed sucrose & oil content due to due to disruption 
 traits:
   - entity_name: sucrose content
     entity: TO:0000328
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
   - entity_name: fat & essential oil content
     entity: TO:0000604
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
 references:
   - citation: Dobbels, Michno et al., 2017
@@ -1146,11 +1146,11 @@ traits:
     entity: TO:0000653
   - entity_name: triglyceride catabolic process
     entity: GO:0019433
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: carbohydrate biosynthetic process
     entity: GO:0016051
-  - relation_name: negatively regulates
+    relation_name: negatively regulates
     relation: RO:0002212
   - entity_name: regulation of gene expression
     entity: GO:0010468
@@ -1174,7 +1174,7 @@ phenotype_synopsis: Impacts salt tolerance
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Qi, Li et al., 2014
@@ -1238,7 +1238,7 @@ phenotype_synopsis: Catalyzes the conversion of γ-tocopherol to α-tocopherol.
 traits:
   - entity_name: vitamin E biosynthetic process
     entity: GO:0010189
-  - relation_name: positively regulates
+    relation_name: positively regulates
     relation: RO:0002213
 references:
   - citation: Zhang, Luo et al., 2013
