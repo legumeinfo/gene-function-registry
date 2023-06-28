@@ -705,7 +705,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1039,7 +1039,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1062,7 +1062,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1085,7 +1085,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1108,7 +1108,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1131,7 +1131,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1154,7 +1154,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
   - citation: Oellrich, Walls et al., 2015
@@ -1177,7 +1177,7 @@ traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
-  - citation: Vernié, Kim, et al., 2015
+  - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
 
