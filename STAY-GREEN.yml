@@ -1,0 +1,26 @@
+classical_locus: XX
+gene_symbols:
+  - SGR
+gene_symbol_long: STAY-GREEN
+gene_model_pub_name: XX
+gene_model_full_id: XX
+confidence: XX
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - XX
+phenotype_synopsis: XX
+traits:
+  - entity_name: XX
+    entity: XX
+references:
+  - citation: Sato, Morita et. al., 2007
+    doi: 10.1073/pnas.0705521104
+    pmid: 17709752
+  - citation: Armstead, Donnison et. al., 2007
+    doi: 10.1126/science.1132912
+    pmid: 17204643
+  - citation: Aubry, Mani et. al., 2008
+    doi: 10.1007/s11103-008-9314-8
+    pmid: 18301989
