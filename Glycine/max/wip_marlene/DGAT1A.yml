@@ -1,0 +1,45 @@
+gene_symbols:
+  - GmDGAT1A
+gene_symbol_long: Glycine max DiacylGlycerol AcylTransferase 1A
+gene_model_pub_name: Glyma13g16560
+Glyma13G106100
+glyma.Wm82.gnm2.ann1.Glyma.13G106100 
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g16560
+confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Overexpression enhances triacylglycerol biosynthesis in seeds (and in other tissues to a lesser extent). Involved in stress response. Downregulated by cold, insect bites, and jasmonate.
+phenotype_synopsis: DGAT1A codes for 
+traits:
+  - entity_name: 
+    entity: 
+references:
+  - citation: Chen, Wang et. al., 2016
+    doi: PMC4921965
+    pmid: 27345221
+  - citation: Zhau, Bi et. al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
+---
+ gene_symbols:
+   - GmDGAT2D
+ gene_symbol_long: Glycine max DiacylGlycerol AcylTransferase 2D
+ gene_model_pub_name: Glyma.01G156000
+ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000 
+ confidence: 3
+ curators:
+   - Marlene Dorneich-Hayes
+ comments:
+   - Overexpression enhances triacylglycerol biosynthesis in flower tissues. Upregulated by temperature stress, downregulated by insect bites and jasmonate.
+ phenotype_synopsis: DGAT2D codes for 
+ traits:
+   - entity_name: 
+     entity: 
+ references:
+   - citation: Chen, Wang et. al., 2016
+     doi: PMC4921965
+     pmid: 27345221
