@@ -9,10 +9,10 @@ curators:
   - William Hardison
   - Steven Cannon
 comments:
-  - Could not determine the gene_model_pub_name from the paper. 
+  - Could not determine the gene_model_pub_name from the paper.
   - Zhang, Zhao et al., 2013 [doi 10.1186/1471-2229-13-21] identifies GmGBP1 as GenBank DQ112540.
   - Zhao, Wang et al., 2013 [10.1007/s11103-013-0062-z] identifies GmGBP1 as Glyma16g08450.
-  - Sequence analysis indicates this is a SNW/SKIP transcription factor, equivalent to glyma.Wm82.gnm2.ann1.Glyma.01G008600 
+  - Sequence analysis indicates this is a SNW/SKIP transcription factor, equivalent to glyma.Wm82.gnm2.ann1.Glyma.01G008600
 phenotype_synopsis: increased flowering on short days
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
