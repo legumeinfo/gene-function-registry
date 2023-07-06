@@ -1,10 +1,8 @@
 ---
-classical_locus: null
 gene_symbols:
   - GmMYB118
-gene_symbol_long: null
 gene_model_pub_name: GLYMA_17G094400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G094400.1
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G094400
 confidence: 4
 curators:
   - William Hardison
@@ -16,7 +14,7 @@ traits:
   - entity_name: drought tolerance
     entity: TO:0000276
   - entity_name: stress trait
-    entity: TO: TO:0000164
+    entity: TO:0000164
 references:
   - citation: Du, Zhao, et al., 2018
     doi: 10.1186/s12870-018-1551-7

@@ -1,17 +1,18 @@
 ---
-classical_locus:
 gene_symbols:
   - GmGBP1
-gene_symbol_long: Glycine max GAMYB-binding protein gene
+gene_symbol_long: GAMYB Binding Protein 1
 gene_model_pub_name: DQ112540
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G008600.1
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G008600
 confidence: 4
 curators:
   - William Hardison
+  - Steven Cannon
 comments:
-  - haplotype analysis, association analysis, phenotypic analysis, statistics analysis
-  - on ncbi -> GLYMA_01G008600v4, LOC732608, glyma.Wm82.gnm2.ann1.Glyma.01G008600.1
-  - Zhang, Zhao et al., 2013 [doi 10.1186/1471-2229-13-21] identifies GmGBP1 as GenBank DQ112540
+  - Could not determine the gene_model_pub_name from the paper. 
+  - Zhang, Zhao et al., 2013 [doi 10.1186/1471-2229-13-21] identifies GmGBP1 as GenBank DQ112540.
+  - Zhao, Wang et al., 2013 [10.1007/s11103-013-0062-z] identifies GmGBP1 as Glyma16g08450.
+  - Sequence analysis indicates this is a SNW/SKIP transcription factor, equivalent to glyma.Wm82.gnm2.ann1.Glyma.01G008600 
 phenotype_synopsis: increased flowering on short days
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
@@ -22,9 +23,8 @@ references:
   - citation: Zhao, Li et al., 2018
     doi: 10.1111/tpj.14025
     pmid: 30004144
-  - citation: Zhang, Zhao et al., 2013
-    doi: 10.1186/1471-2229-13-21
-    pmid: 23388059
   - citation: Zhao, Wang et al., 2013
     doi: 10.1007/s11103-013-0062-z
     pmid: 23636865
+  - citation: Zhang, Zhao et al., 2013
+    doi: 10.1186/1471-2229-13-21

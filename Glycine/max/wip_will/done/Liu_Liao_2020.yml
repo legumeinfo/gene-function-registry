@@ -2,7 +2,7 @@
 classical_locus:
 gene_symbols:
   - GmVTL1a
-gene_symbol_long:
+gene_symbol_long: Vacuolar Iron Transporter Like 1A
 gene_model_pub_name: Glyma.05G121600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G121600.1
 confidence: 3
@@ -23,7 +23,7 @@ references:
 classical_locus:
 gene_symbols:
   - GmVTL1b
-gene_symbol_long:
+gene_symbol_long: Vacuolar Iron Transporter Like 1B
 gene_model_pub_name: Glyma.08G076300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G076300.1
 confidence: 3
@@ -31,7 +31,7 @@ curators:
   - William Hardison
 comments:
   - Failed to keep wildtype phenotype
-phenotype_synopsis: lack of Iron homeostasis
+phenotype_synopsis: lack of iron homeostasis
 traits:
   - entity_name: indeterminate root nodule nitrogen fixation zone
     entity: ENVO:01000171
