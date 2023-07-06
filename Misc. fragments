@@ -1,0 +1,23 @@
+gene_symbols:
+  - GmDGAT1B
+gene_symbol_long: DiacylGlycerol AcylTransferase 1B
+gene_model_pub_name: Glyma17g06120
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g06120
+confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Transgenic expression in yeast enhances triacylglycerol biosynthesis.
+phenotype_synopsis: DGAT1B controls synthesis of many triacylglycerols. Oil mostly accumulates in seeds.
+traits:
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: seed development
+    entity: GO:0048316 
+references:
+  - citation: Li, Hatanaka et. al., 2013
+    doi: https://doi.org/10.1007/s10142-012-0306-z
+    pmid:
+  - citation: Zhau, Bi et. al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
