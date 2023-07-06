@@ -1,0 +1,41 @@
+---
+classical_locus:
+gene_symbols:
+  - GmVTL1a
+gene_symbol_long: Vacuolar Iron Transporter Like 1A
+gene_model_pub_name: Glyma.05G121600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G121600.1
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - also known as glyma.Wm82.gnm2.ann1.Glyma.08G076300.1
+  - iron import into symbiosomes from infected cell cytosol
+phenotype_synopsis: Nitrogen fixation in the nodules
+traits:
+  - entity_name: indeterminate root nodule nitrogen fixation zone
+    entity: ENVO:01000171
+references:
+  - citation: Liu, Liao et al., 2020
+    doi: 10.1111/nph.16506
+    pmid: 32119117
+---
+classical_locus:
+gene_symbols:
+  - GmVTL1b
+gene_symbol_long: Vacuolar Iron Transporter Like 1B
+gene_model_pub_name: Glyma.08G076300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G076300.1
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - Failed to keep wildtype phenotype
+phenotype_synopsis: lack of iron homeostasis
+traits:
+  - entity_name: indeterminate root nodule nitrogen fixation zone
+    entity: ENVO:01000171
+references:
+  - citation: Liu, Liao et al., 2020
+    doi: 10.1111/nph.16506
+    pmid: 32119117

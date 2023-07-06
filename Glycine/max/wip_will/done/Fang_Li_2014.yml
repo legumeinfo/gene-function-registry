@@ -2,19 +2,15 @@
 classical_locus: D1
 gene_symbols:
   - D1
-gene_symbol_long:
 gene_model_pub_name: Glyma01g42390
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g02980
 confidence: 5
 curators:
   - William Hardison
-comments:
-
 phenotype_synopsis: chlorophyll retention in mature tissues
-
 traits:
-  - entity_name: STAY-GREEN (SGR)
-    entity: TO:0000947
+  - entity_name: negative regulation of chlorophyll catabolic process
+    entity: GO:1903647
 
 references:
   - citation: Fang, Li et al., 2014
@@ -31,15 +27,15 @@ references:
 classical_locus: D2
 gene_symbols:
   - D2
-gene_symbol_long:
 gene_model_pub_name: Glyma11g02980
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g02980.1
-confidence: 5
-comments:
+confidence: 4
+curators:
+  - William Hardison
 phenotype_synopsis: chlorophyll retention in mature tissues
 traits:
-  - entity_name: STAY-GREEN (SGR)
-    entity: TO:0000947
+  - entity_name: negative regulation of chlorophyll catabolic process
+    entity: GO:1903647
 references:
   - citation: Fang, Li et al., 2014
     doi: 10.1111/tpj.12419
