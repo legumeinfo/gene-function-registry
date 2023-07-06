@@ -1,7 +1,7 @@
 ---
 gene_symbols:
   - ChlI1a
-gene_symbol_long: Mg-chelatase subunit Chl1
+gene_symbol_long: Mg-chelatase subunit Chl1a
 gene_model_pub_name: Glyma.13G232500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G232500
 confidence: 4
@@ -20,9 +20,9 @@ references:
 ---
 gene_symbols:
   - ChlI1b
-gene_symbol_long:
-gene_model_pub_name: Glyma.15g08680
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G086800
+gene_symbol_long: Mg-chelatase subunit Chl1b
+gene_model_pub_name: Glyma.15g080200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15g080200
 confidence: 4
 comments:
   - The CD-5 phenotype cosegregates with ChlI1b.
