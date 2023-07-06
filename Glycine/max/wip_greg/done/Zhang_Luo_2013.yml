@@ -1,0 +1,26 @@
+---
+gene_symbols:
+  - GmTMT2a
+gene_symbol_long: glyma.Wm82.gnm1.ann1.Glyma12g01690
+gene_model_pub_name: Glyma12g01690
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g01690
+confidence: 5
+curators:
+  - Greg Murrell
+phenotype_synopsis: Catalyzes the conversion of γ-tocopherol to α-tocopherol.
+traits:
+  - entity_name: vitamin E biosynthetic process
+    entity: GO:0010189
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Zhang, Luo et al., 2013
+    doi: 10.1007/s11248-013-9713-8
+    pmid: 23645501
+  - citation: Fang, Feng, et al., 2017
+    doi: 10.1016/j.yrtph.2017.01.004
+    pmid: 28132846
+  - citation: Zhang, Luo, et al., 2020
+    doi: 10.1007/s11248-019-00180-z
+    pmid: 31673914
+

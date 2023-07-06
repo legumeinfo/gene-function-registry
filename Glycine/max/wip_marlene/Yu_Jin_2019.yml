@@ -1,9 +1,10 @@
+---
 gene_symbols:
   - GmPDI
 gene_model_pub_name: Glyma.04g215900
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G215900
 confidence: 4
-comments: 
+comments:
   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
 phenotype_synopsis: Associated with seed germination under salt stress.
 traits:
@@ -14,26 +15,26 @@ references:
     doi: 10.1186/s12870-019-2201-4
     pmid: 31856712
 ---
- gene_symbols:
-   - GmPDIL
- gene_model_pub_name: Glyma.06g114800
- gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G114800
- confidence: 4
- comments: 
-   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
- phenotype_synopsis: Associated with seed germination under salt stress.
- traits:
-   - entity_name: seed germination
-     entity: GO:0009845
- references:
-   - citation: Yu, Jin et. al., 2019
-     doi: 10.1186/s12870-019-2201-4
-     pmid: 31856712
+gene_symbols:
+  - GmPDIL
+gene_model_pub_name: Glyma.06g114800
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G114800
+confidence: 4
+comments:
+  - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
+phenotype_synopsis: Associated with seed germination under salt stress.
+traits:
+  - entity_name: seed germination
+    entity: GO:0009845
+references:
+  - citation: Yu, Jin et. al., 2019
+    doi: 10.1186/s12870-019-2201-4
+    pmid: 31856712
 ---
 gene_model_pub_name: Glyma.01g09500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G095000
 confidence: 4
-comments: 
+comments:
   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
 phenotype_synopsis: Associated with seed germination, energy metabolism, and/or response to stress.
 traits:
@@ -44,24 +45,24 @@ references:
     doi: 10.1186/s12870-019-2201-4
     pmid: 31856712
 ---
- gene_model_pub_name: Glyma.05g152100
- gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05g152100
- confidence: 4
- comments: 
-   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
- phenotype_synopsis: Produces a stress-induced hydrophilic plant seed protein associated with seed germination.
- traits:
-   - entity_name: seed germination
-     entity: GO:0009845
- references:
-   - citation: Yu, Jin et. al., 2019
-     doi: 10.1186/s12870-019-2201-4
-     pmid: 31856712
+gene_model_pub_name: Glyma.05g152100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05g152100
+confidence: 4
+comments:
+  - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
+phenotype_synopsis: Produces a stress-induced hydrophilic plant seed protein associated with seed germination.
+traits:
+  - entity_name: seed germination
+    entity: GO:0009845
+references:
+  - citation: Yu, Jin et. al., 2019
+    doi: 10.1186/s12870-019-2201-4
+    pmid: 31856712
 ---
 gene_model_pub_name: Glyma.06g301500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G301500
 confidence: 4
-comments: 
+comments:
   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
 phenotype_synopsis: Associated with seed germination and energy metabolism.
 traits:
@@ -72,24 +73,24 @@ references:
     doi: 10.1186/s12870-019-2201-4
     pmid: 31856712
 ---
- gene_model_pub_name: Glyma.06g312800
- gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G312800
- confidence: 4
- comments: 
-   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
- phenotype_synopsis: Associated with seed germination, energy metabolism, and/or response to stress.
- traits:
-   - entity_name: seed germination
-     entity: GO:0009845
- references:
-   - citation: Yu, Jin et. al., 2019
-     doi: 10.1186/s12870-019-2201-4
-     pmid: 31856712
+gene_model_pub_name: Glyma.06g312800
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G312800
+confidence: 4
+comments:
+  - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
+phenotype_synopsis: Associated with seed germination, energy metabolism, and/or response to stress.
+traits:
+  - entity_name: seed germination
+    entity: GO:0009845
+references:
+  - citation: Yu, Jin et. al., 2019
+    doi: 10.1186/s12870-019-2201-4
+    pmid: 31856712
 ---
 gene_model_pub_name: Glyma.06g319700
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G319700
 confidence: 4
-comments: 
+comments:
   - All of these genes were identified by their differential expression in low phytic acid soy strains with normal germination and low germination. They are presumably involved in seed germination, but their specific roles are not investigated in this paper.
 phenotype_synopsis: Associated with seed germination and disease resistance.
 traits:

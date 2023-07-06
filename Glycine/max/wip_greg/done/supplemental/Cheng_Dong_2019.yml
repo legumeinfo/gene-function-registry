@@ -1,0 +1,24 @@
+---
+gene_symbols:
+  - GmLHY2a
+  - LCL3
+  - MYB156
+gene_symbol_long: Late Elongated Hypocotyl 2a
+gene_model_pub_name: Glyma.19G260900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
+confidence: 5
+curators:
+  - Greg Murrell
+phenotype_synopsis: Encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: gibberellin metabolic process
+    entity: GO:0009685
+references:
+  - citation: Cheng, Dong et al., 2019
+    doi: 10.1186/s12870-019-2145-8
+    pmid: 31852439
+

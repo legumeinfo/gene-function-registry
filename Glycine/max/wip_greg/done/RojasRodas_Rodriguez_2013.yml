@@ -1,0 +1,20 @@
+---
+gene_symbols:
+  - Fg2
+  - GmF3G6R-b
+  - GmF3G6_Rt-b
+gene_symbol_long: flavonol glycoside 2 mRNA for flavonol 3-O-glucoside (1->6) rhamnosyltransferase
+gene_model_pub_name: Glyma.10G194000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G194000
+confidence: 4
+curators:
+  - Greg Murrell
+phenotype_synopsis: Encodes a flavonol 3-O-glucoside (1 -> 6) rhamnosyltransferase.
+traits:
+  - entity_name: glycoside biosynthetic process
+    entity: GO:0016138
+references:
+  - citation: RojasRodas, Rodriguez et al., 2013
+    doi: 10.1007/s11103-013-0133-1
+    pmid: 24072327
+

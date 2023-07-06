@@ -1,10 +1,11 @@
+---
 gene_symbols:
   - GmMIPS1
-gene_symbol_long: Glycine max myo-inositol-3-phosphate synthase 1
+gene_symbol_long: Myo-Inositol-3-Phosphate Synthase 1
 gene_model_pub_name: Glyma.11G238800
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G238800
 confidence: 3
-comments: 
+comments:
   - Silencing of MIPS1 in transgenic lines (with RNAi and antisense) reduces accumulation of phytic acid in seeds.
 phenotype_synopsis: MIPS1 codes for the rate-limiting enzyme in phytic acid biosynthesis. Supression of MIPS1 reduces the phytic acid concentration in seeds which improves their nutritional value, but also reduces their germination rate.
 traits:
@@ -19,7 +20,7 @@ references:
     pmid: 31123331
   - citation: Yu, Jin et. al., 2019
     doi: 10.1186/s12870-019-2201-4
-    pmid: 31856712 
+    pmid: 31856712
   - citation: Nunes, Vianna et. al., 2006
     doi: 10.1007/s00425-005-0201-0
     pmid: 16395584

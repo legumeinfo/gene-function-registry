@@ -9,8 +9,6 @@ comments:
   - The MinnGold and T219H phenotypes cosegregate with ChlI1a. Transformation of WT ChlI1a into mutant soy reinstated normal phenotype.
 phenotype_synopsis: defective Mg-chetelase is responsible for chlorophyll deficient MinnGold (y11-2) and T219H (y11) phenotypes
 traits:
-  - entity_name: leaf
-    entity: PO:0025034
   - entity_name: magnesium chelatase activity
     entity: GO:0016851
   - entity_name: leaf chlorophyll content
@@ -30,8 +28,6 @@ comments:
   - The CD-5 phenotype cosegregates with ChlI1b.
 phenotype_synopsis: defective Mg-chetelase is responsible for chlorophyll deficient CD-5 phenotype
 traits:
-  - entity_name: leaf
-    entity: PO:0025034
   - entity_name: magnesium chelatase activity
     entity: GO:0016851
   - entity_name: leaf chlorophyll content

@@ -1,10 +1,11 @@
+---
 gene_symbols:
   - GmNFYA
-gene_symbol_long: Glycine max nuclear transcription factor Y subunit
+gene_symbol_long: Nuclear Transcription Factor Y subunit
 gene_model_pub_name: Glyma.02G303800
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G303800
 confidence: 3
-comments: 
+comments:
   - Overexpression enhances seed oil content and salt tolerance.
 phenotype_synopsis: NFYA is a transcription factor which is induced by salt stress and regulates seed oil metabolism by acting as a positive regulator of lipid biosynthesis.
 traits:

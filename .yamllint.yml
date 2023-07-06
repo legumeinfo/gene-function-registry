@@ -1,0 +1,9 @@
+extends: default
+ignore:
+  - .*
+
+rules:
+  line-length: disable
+  quoted-strings:
+    required: only-when-needed
+  empty-lines: disable
