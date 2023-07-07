@@ -14,7 +14,7 @@ traits:
   - entity_name: regulation of triglyceride biosynthetic process
     entity: GO:0010866
   - entity_name: seed development
-    entity: GO:0048316 
+    entity: GO:0048316
 references:
   - citation: Chen, Wang et. al., 2016
     doi: 10.1038/srep28541
@@ -28,22 +28,22 @@ references:
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
- gene_symbols:
+gene_symbols:
    - GmDGAT2D
  gene_symbol_long: DiacylGlycerol AcylTransferase 2D
  gene_model_pub_name: Glyma.01G156000
- gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000 
+ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000
  confidence: 3
  curators:
-  - Marlene Dorneich-Hayes
+   - Marlene Dorneich-Hayes
  comments:
-  - Overexpression enhances triacylglycerol biosynthesis in flower tissues. Upregulated by temperature stress, downregulated by insect bites and jasmonate. It produces similar results when transformed into other species.
+   - Overexpression enhances triacylglycerol biosynthesis in flower tissues. Upregulated by temperature stress, downregulated by insect bites and jasmonate. It produces similar results when transformed into other species.
  phenotype_synopsis: DGAT2D controls synthesis of many triacylglycerols, using 18:1 and 18:2 acyl CoA as acyl donors. Oil accumulates most in flowers.
  traits:
    - entity_name: regulation of triglyceride biosynthetic process
      entity: GO:0010866
    - entity_name: seed development
-     entity: GO:0048316  
+     entity: GO:0048316
  references:
    - citation: Chen, Wang et. al., 2016
      doi: PMC4921965
