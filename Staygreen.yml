@@ -1,10 +1,13 @@
-classical_locus: I
+---
+classical_locus:
+  - I
+  - AB303332 
 gene_symbols:
   - SGR
   - I
 gene_symbol_long: Staygreen
-gene_model_pub_name: 
-gene_model_full_id: 
+gene_model_pub_name: AB303332
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat2g181040
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
