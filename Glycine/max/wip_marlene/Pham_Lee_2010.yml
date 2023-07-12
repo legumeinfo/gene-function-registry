@@ -32,7 +32,7 @@ references:
     pmid: 35782726
 ---
 gene_symbols:
-   - FAD2-1B
+  - FAD2-1B
  gene_symbol_long: Fatty Acid Disaturase 2-1B
  gene_model_pub_name:
    - Glyma20g111000 (this one has more information in SoyBase, so I'm guessing this is the correct one)
