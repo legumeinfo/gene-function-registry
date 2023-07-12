@@ -30,7 +30,7 @@ references:
 ---
 gene_symbols:
   - GmDGAT2D
- gene_symbol_long: DiacylGlycerol AcylTransferase 2D
+gene_symbol_long: DiacylGlycerol AcylTransferase 2D
  gene_model_pub_name: Glyma.01G156000
  gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000
  confidence: 3
