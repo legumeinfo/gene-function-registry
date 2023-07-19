@@ -28,7 +28,7 @@ references:
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
- gene_symbols:
+gene_symbols:
    - GmDGAT2D
  gene_symbol_long: DiacylGlycerol AcylTransferase 2D
  gene_model_pub_name: Glyma.01G156000
