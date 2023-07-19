@@ -33,7 +33,7 @@ references:
     pmid: 35782726
 ---
 gene_symbols:
-   - GmC/VIF2
+  - GmC/VIF2
  gene_symbol_long: Cell Wall or Vacuolar Inhibitor of β-Fructosidase 2
  gene_model_pub_name: Glyma17G036400
  gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
