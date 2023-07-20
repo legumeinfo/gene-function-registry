@@ -38,11 +38,11 @@ gene_model_pub_name:
   - Glyma20g111000 (this one has more information in SoyBase, so I'm guessing this is the correct one)
   - Glyma20g24530
 gene_model_full_id:
-  - glyma.Wm82.gnm2.ann1.Glyma.20G111000
-  - glyma.Wm82.gnm1.ann1.Glyma20g24530
+  - glyma.Wm82.gnm2.ann1.Glyma.10G278000
+  - glyma.Wm82.gnm1.ann1.Glyma10g42470
 confidence: 4
 curators:
- - Marlene Dorneich-Hayes
+  - Marlene Dorneich-Hayes
 comments:
   - Knockout studies confirm that functional FAD2-1B decreases accumulation of oleic acid in seeds.
 phenotype_synopsis: Normal FAD2-1B converts the precursors of oleic acid into linoleic acid. If FAD2-1A and FAD2-1B are both downregulated or have loss-of-function mutations, seeds will have high oleic acid content. FAD2-1B is more active at low temperatures.
