@@ -41,7 +41,7 @@ confidence: 4
 curators:
   - Marlene Dorneich-Hayes
 comments:
- - Ectopic expression and RNAi silencing show that C/VIF2 has a role in suppressing extracellular invertases.
+  - Ectopic expression and RNAi silencing show that C/VIF2 has a role in suppressing extracellular invertases.
 phenotype_synopsis: C/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase). Silencing of C/VIF2 increases seed weight as well as protein and starch content. It is most strongly expressed in flowers, roots, and developing seeds. C/VIF2 is activated by ABA signaling, draught, and senescence but suppressed by fungal infections.
 traits:
   - entity_name: regulation of seed growth
