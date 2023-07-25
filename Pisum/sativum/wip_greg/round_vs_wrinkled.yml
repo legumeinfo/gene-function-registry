@@ -1,0 +1,52 @@
+---
+classical_locus: R
+gene_symbols:
+  - SBEI
+  - PsSBE1
+gene_symbol_long: Starch Branching Enzyme I
+gene_model_pub_name: X80009
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g034640
+confidence: 5
+curators:
+  - Greg Murrell
+  - Scott Kalberer
+comments:
+  - SBEI is a 1,4-alpha-glucan-branching enzyme.
+  - The classical locus R is short for rugosus.
+  - The mutated allele (r) is a 0.8 kb insertion of a nonautonomous type-II transposon.
+phenotype_synopsis: The seed-shape character of round or wrinkled mature seeds;
+  the size and shape of cotyledon starch grains; the total amount of starches;
+  the amylopectin to amylose ratio; the content of sucrose, lipids, and legumin
+  seed storage protein.
+traits:
+  - entity_name: seed shape
+    entity: TO:0000484
+  - entity_name: seed texture
+    entity: TO:0020016
+  - entity_name: starch grain shape
+    entity: TO:0002656
+  - entity_name: starch grain size
+    entity: TO:0002655
+  - entity_name: starch content
+    entity: TO:0000696
+  - entity_name: amylose to amylopectin ratio
+    entity: TO:0000372
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - entity_name: total fat content
+    entity: TO:0000602
+  - entity_name: endosperm storage protein content
+    entity: TO:0002653
+references:
+  - citation: Burton, Bewley, et al., 1995
+    doi: 10.1046/j.1365-313x.1995.07010003.x
+    pmid: 7894509
+  - citation: Bhattacharyya, Smith, et al., 1990
+    doi: 10.1016/0092-8674(90)90721-p
+    pmid: 2153053
+  - citation: Bhattacharyya, Martin, et al., 1993
+    doi: 10.1007/BF00015981
+    pmid: 8329688
+  - citation: Moreau, Warren, et al., 2022
+    doi: 10.1016/j.carbpol.2022.119386 
+    pmid: 35450647
