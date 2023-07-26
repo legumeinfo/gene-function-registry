@@ -1,0 +1,33 @@
+---
+gene_symbols:
+  - GmNARK
+gene_symbol_long: Nodule Autoregulation Receptor Kinase
+gene_model_pub_name: Glyma12g040000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G040000
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - All these studies identified the implicated gene by comparing mutant strains to each other and to WT.
+phenotype_synopsis: NARK is expressed in roots, leaves, and shoots and exerts long-distance control on nodule proliferation by activating nodulation-suppressing genes. If the kinase domain is nonfunctional, most plants produce huge numbers of extra nodules, extra lateral roots, and more symbiotic interactions. If NARK is less severely compromised, fewer extra nodules form.
+traits:
+  - entity_name: kinase activity
+    entity: GO:0016301
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: root development
+    entity: GO:0048364
+references:
+  - citation: Searle, Men et. al., 2003
+    doi: 10.1126/science.1077937
+    pmid: 12411574
+  - citation: Kim, Van et. al., 2005
+    doi: 10.1007/s00122-004-1887-2
+    pmid: 15731930
+  - citation: Meixner, Vegvari et. al., 2007
+    doi: 10.1111/j.1399-3054.2007.00903.x
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
