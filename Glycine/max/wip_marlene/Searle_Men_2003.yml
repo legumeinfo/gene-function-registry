@@ -9,7 +9,7 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - All these studies identified the implicated gene by comparing mutant strains to each other and to WT.
-phenotype_synopsis: NARK is expressed in roots, leaves, and shoots and exerts long-distance control on nodule proliferation by activating nodulation-suppressing genes. If the kinase domain is nonfunctional, most plants produce huge numbers of extra nodules, extra lateral roots, and more symbiotic interactions. If NARK is less severely compromised, fewer extra nodules form.
+phenotype_synopsis: NARK is expressed in roots, leaves, and shoots and exerts long-distance control on nodule proliferation by activating nodulation-suppressing genes (it is a negative regulator of miR172c, which affects the activity of nodulation gene NNC1 [see Wang, Wang et. al., 2014]). If the kinase domain of NARK is nonfunctional, most plants produce huge numbers of extra nodules, extra lateral roots, and more symbiotic interactions. If NARK is less severely compromised, fewer extra nodules form.
 traits:
   - entity_name: kinase activity
     entity: GO:0016301
@@ -28,6 +28,9 @@ references:
     pmid: 15731930
   - citation: Meixner, Vegvari et. al., 2007
     doi: 10.1111/j.1399-3054.2007.00903.x
+  - citation: Wang, Wang et. al., 2014
+    doi: 10.1105/tpc.114.131607
+    pmid: 25549672
   - citation: Yang, Lan et. al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
