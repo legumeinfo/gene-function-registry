@@ -1,0 +1,22 @@
+---
+classical_locus: --
+gene_symbols:
+  - SBEI
+  - --
+gene_symbol_long: Starch Branching Enzyme I
+gene_model_pub_name: -
+gene_model_full_id: -
+confidence: --
+curators:
+  - Greg Murrell
+  - --
+comments:
+  - --
+phenotype_synopsis: --
+traits:
+  - entity_name: --
+    entity: --
+references:
+  - citation: Chang, Li, et. al, 2010
+    doi: 10.1021/jf102129f
+    pmid: 20822148

@@ -1,0 +1,23 @@
+---
+classical_locus: --
+gene_symbols:
+  - SBEII
+  - VrsbeII
+  - LOC106757609
+gene_symbol_long: Starch Branching Enzyme II
+gene_model_pub_name: AY622199
+gene_model_full_id: vigra.VC1973A.gnm7.chr4
+confidence: --
+curators:
+  - Greg Murrell
+comments:
+  - SBEI is a 1,4-alpha-glucan-branching enzyme.
+phenotype_synopsis: --
+traits:
+  - entity_name: --
+    entity: --
+references:
+  - citation: Ko, Chung, et. al, 2009
+    doi: 10.1021/jf802544b
+    pmid: 19143523
+

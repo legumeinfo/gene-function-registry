@@ -1,0 +1,38 @@
+---
+classical_locus: ae
+gene_symbols:
+  - SBEII
+gene_symbol_long: Starch Branching Enzyme II
+gene_model_pub_name: KIW84_050322
+gene_model_full_id: pissa.Cameor.gnm1.scaffold02670
+confidence: -
+curators:
+  - Greg Murrell
+comments:
+  - SBEII is a 1,4-alpha-glucan-branching enzyme.
+phenotype_synopsis: The size and shape of cotyledon starch grains; 
+  the total amount of starches; the amylopectin to amylose ratio; the content 
+  of sucrose, lipids, and legumin seed storage protein; amylopectin chain 
+  length distribution.
+traits:
+  - entity_name: starch grain shape
+    entity: TO:0002656
+  - entity_name: starch grain size
+    entity: TO:0002655
+  - entity_name: starch content
+    entity: TO:0000696
+  - entity_name: amylose to amylopectin ratio
+    entity: TO:0000372
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - entity_name: total fat content
+    entity: TO:0000602
+  - entity_name: endosperm storage protein content
+    entity: TO:0002653
+references:
+  - citation: Timmerman-Vaughan, Carpenter, et. al, 2014
+    doi: 10.1186/s12870-017-1080-9
+    pmid: 28764648
+  - citation: Burton, Bewley, et. al, 1995
+    doi: 10.1046/j.1365-313x.1995.07010003.x
+    pmid: 7894509
