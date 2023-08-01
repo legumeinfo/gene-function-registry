@@ -1,0 +1,24 @@
+---
+gene_symbols:
+  - KASI
+gene_symbol_long: beta-ketoacyl-ACP synthetase I
+gene_model_pub_name: Glyma.08G084300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G084300
+confidence: 4
+curators:
+  - Greg Murrell
+phenotype_synopsis: Altered seed sucrose & oil content due to due to disruption of a core fatty acid synthase.
+traits:
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: fat & essential oil content
+    entity: TO:0000604
+  - relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Dobbels, Michno et al., 2017
+    doi: 10.1534/g3.116.038596
+    pmid: 28235823
+

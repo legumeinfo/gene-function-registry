@@ -1,56 +1,59 @@
 ---
-classical_locus: E9    # Name of locus if available from classical genetic studies
+classical_locus: E9  # Name of locus if available from classical genetic studies
 gene_symbols:
-  - GmFT2a             # Abbreviated name of gene symbol if available from literature
-  - Another            # Enter in yml list format, even if only one symbol.
-gene_symbol_long: Flowering Time 2a   # Descriptive name of gene symbol if available 
+  - GmFT2a  # Abbreviated name of gene symbol if available from literature
+  - Another  # Enter in yml list format, even if only one symbol.
+gene_symbol_long: Flowering Time 2a  # Descriptive name of gene symbol if available
 gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
 confidence: 5  # Value from 1 to 5 -- 5 being equivalent to complementation test
-comments: 
+curators:  # Name of curators who worked on this
+  -
+comments:
   -  # Use if needed
-phenotype_synopsis: # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
-traits:        # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait # Short descriptive name of the ontology accession
-    entity: TO:0002616    # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to
-  - quality_name: premature # Optional; short descriptive name for accession quality term
-    quality:    # Optional; typically from generally from PATO, https://www.ebi.ac.uk/ols/ontologies/pato
-  - relation_name: positively regulates # Relations Ontology may be used as modifier if known; 
-    relation: RO:0002213 # https://www.ebi.ac.uk/ols/ontologies/ro
+phenotype_synopsis:  # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+  - quality_name: premature  # Optional; short descriptive name for accession quality term
+    quality:  # Optional; typically from generally from PATO, https://www.ebi.ac.uk/ols/ontologies/pato
+  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
+    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
   - entity_name: days to maturity
     entity: TO:0000469
-  - relation_name: positively regulates # Relations Ontology may be used as modifier if known; 
-    relation: RO:0002213 # https://www.ebi.ac.uk/ols/ontologies/ro
-references:            # REQUIRED (at least citation and one doi or one pmid). 
+  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
+    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
+references:  # REQUIRED (at least citation and one doi or one pmid).
   - citation: Kong, Liu et al., 2010  # Use the "LastName, LastName et al., YEAR" format
     doi: 10.1104/pp.110.160796  # the bare doi (omit https://doi.org/)
-    pmid: 20864544      # The "get_citations.pl" script can fill in pmid from doi or vice versa (in a new document)
+    pmid: 20864544  # The "get_citations.pl" script can fill in pmid from doi or vice versa (in a new document)
   - citation: Kong, Nan et al., 2014
     doi: 10.2135/cropsci2014.03.0228
-    pmid: null
   - citation: Takeshima, Hayashi et al., 2016
     doi: 10.1093/jxb/erw283
     pmid: 27422993
 
 ---
-classical_locus: 
+classical_locus: XX
 gene_symbols:
-  - 
-gene_symbol_long: 
-gene_model_pub_name: 
-gene_model_full_id: 
-confidence: 
-comments: 
-  - 
-phenotype_synopsis: 
+  -
+gene_symbol_long: XX
+gene_model_pub_name: XX
+gene_model_full_id: XX
+confidence: XX
+curators:
+  - XX
+comments:
+  - XX
+phenotype_synopsis: XX
 traits:
-  - entity_name: 
-    entity: 
+  - entity_name: XX
+    entity: XX
 references:
-  - citation: 
-    doi: 
-    pmid: 
-  - citation: 
-    doi: 
-    pmid: 
+  - citation: XX
+    doi: XX
+    pmid: XX
+  - citation: XX
+    doi: XX
+    pmid: XX
 

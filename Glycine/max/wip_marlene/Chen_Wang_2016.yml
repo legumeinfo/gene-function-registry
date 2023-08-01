@@ -1,0 +1,50 @@
+---
+gene_symbols:
+  - GmDGAT1A
+gene_symbol_long: DiacylGlycerol AcylTransferase 1A
+gene_model_pub_name: Glyma.13G106100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G106100
+confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Overexpression enhances triacylglycerol biosynthesis in seeds (and in other tissues to a lesser extent). Involved in stress response. Downregulated by cold, insect bites, and jasmonate. It produces similar results when transformed into other species.
+phenotype_synopsis: DGAT1A controls synthesis of many triacylglycerols, using 18:3 acyl CoA as an acyl donor. Oil mostly accumulates in seeds.
+traits:
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: seed development
+    entity: GO:0048316 
+references:
+  - citation: Chen, Wang et. al., 2016
+    doi: 10.1038/srep28541
+    pmid: 27345221
+  - citation: Li, Hatanaka et. al., 2013
+    doi: https://doi.org/10.1007/s10142-012-0306-z
+  - citation: Zhau, Bi et. al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
+---
+ gene_symbols:
+   - GmDGAT2D
+ gene_symbol_long: DiacylGlycerol AcylTransferase 2D
+ gene_model_pub_name: Glyma.01G156000
+ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000 
+ confidence: 3
+ curators:
+  - Marlene Dorneich-Hayes
+ comments:
+  - Overexpression enhances triacylglycerol biosynthesis in flower tissues. Upregulated by temperature stress, downregulated by insect bites and jasmonate. It produces similar results when transformed into other species.
+ phenotype_synopsis: DGAT2D controls synthesis of many triacylglycerols, using 18:1 and 18:2 acyl CoA as acyl donors. Oil accumulates most in flowers.
+ traits:
+   - entity_name: regulation of triglyceride biosynthetic process
+     entity: GO:0010866
+   - entity_name: seed development
+     entity: GO:0048316  
+ references:
+   - citation: Chen, Wang et. al., 2016
+     doi: PMC4921965
+     pmid: 27345221

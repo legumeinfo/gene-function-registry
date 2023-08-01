@@ -2852,3 +2852,2970 @@ SO  - Front Plant Sci. 2022 Apr 29;13:889066. doi: 10.3389/fpls.2022.889066.
       eCollection 2022.
 
 
+##### PUB RECORD #####
+## 10.1038/s41598-019-42332-5  30979945  PMC6461667  Chen, Fang et al., 2019  "Chen LM, Fang YS, Zhang CJ, Hao QN, Cao D, Yuan SL, Chen HF, Yang ZL, Chen SL, Shan ZH, Liu BH, Jing-Wang, Zhan Y, Zhang XJ, Qiu DZ, Li WB, Zhou XA. GmSYP24, a putative syntaxin gene, confers osmotic/drought, salt stress tolerances and ABA signal pathway. Sci Rep. 2019 Apr 12;9(1):5990. doi: 10.1038/s41598-019-42332-5. PMID: 30979945; PMCID: PMC6461667." ##
+
+PMID- 30979945
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201007
+LR  - 20210109
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2019 Apr 12
+TI  - GmSYP24, a putative syntaxin gene, confers osmotic/drought, salt stress 
+      tolerances and ABA signal pathway.
+PG  - 5990
+LID - 10.1038/s41598-019-42332-5 [doi]
+LID - 5990
+AB  - As major environment factors, drought or high salinity affect crop growth, 
+      development and yield. Transgenic approach is an effective way to improve abiotic 
+      stress tolerance of crops. In this study, we comparatively analyzed gene 
+      structures, genome location, and the evolution of syntaxin proteins containing 
+      late embryogenesis abundant (LEA2) domain. GmSYP24 was identified as a 
+      dehydration-responsive gene. Our study showed that the GmSYP24 protein was 
+      located on the cell membrane. The overexpression of GmSYP24 (GmSYP24ox) in 
+      soybean and heteroexpression of GmSYP24 (GmSYP24hx) in Arabidopsis exhibited 
+      insensitivity to osmotic/drought and high salinity. However, wild type soybean, 
+      Arabidopsis, and the mutant of GmSYP24 homologous gene of Arabidopsis were 
+      sensitive to the stresses. Under the abiotic stresses, transgenic soybean plants 
+      had greater water content and higher activities of POD, SOD compared with 
+      non-transgenic controls. And the leaf stomatal density and opening were reduced 
+      in transgenic Arabidopsis. The sensitivity to ABA was decreased during seed 
+      germination of GmSYP24ox and GmSYP24hx. GmSYP24hx induced up-regulation of 
+      ABA-responsive genes. GmSYP24ox alters the expression of some aquaporins under 
+      osmotic/drought, salt, or ABA treatment. These results demonstrated that GmSYP24 
+      played an important role in osmotic/drought or salt tolerance in ABA signal 
+      pathway.
+FAU - Chen, Li-Miao
+AU  - Chen LM
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Fang, Yi-Sheng
+AU  - Fang YS
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Zhang, Chan-Juan
+AU  - Zhang CJ
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Hao, Qing-Nan
+AU  - Hao QN
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Cao, Dong
+AU  - Cao D
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Yuan, Song-Li
+AU  - Yuan SL
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Chen, Hai-Feng
+AU  - Chen HF
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Yang, Zhong-Lu
+AU  - Yang ZL
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Chen, Shui-Lian
+AU  - Chen SL
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Shan, Zhi-Hui
+AU  - Shan ZH
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Liu, Bao-Hong
+AU  - Liu BH
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Jing-Wang
+AU  - Jing-Wang
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Zhan, Yong
+AU  - Zhan Y
+AD  - Crop Research Institute, Xinjiang Academy of Agricultural and Reclamation 
+      Science, Key Lab of Cereal Quality Research and Genetic Improvement, Xinjiang 
+      Production and Construction Crops, 832000, Shihezi, China.
+FAU - Zhang, Xiao-Juan
+AU  - Zhang XJ
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Qiu, De-Zhen
+AU  - Qiu DZ
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China.
+FAU - Li, Wen-Bin
+AU  - Li WB
+AD  - Key Laboratory of Soybean Biology in the Chinese Ministry of Education, Northeast 
+      Agricultural University, Harbin, 150030, China. wenbinli@yahoo.com.
+AD  - Division of Soybean Breeding and Seed, Soybean Research & Development Center, 
+      CARS (Key Laboratory of Biology and Genetics & Breeding for Soybean in Northeast 
+      China, Ministry of Agriculture), Harbin, 150030, China. wenbinli@yahoo.com.
+FAU - Zhou, Xin-An
+AU  - Zhou XA
+AD  - Key Laboratory of Oil Crop Biology, Ministry of Agriculture, Wuhan, 430062, 
+      China. zhouocri@sina.com.
+AD  - Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, Wuhan, 
+      430062, China. zhouocri@sina.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190412
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Qa-SNARE Proteins)
+RN  - 72S9A8J5GW (Abscisic Acid)
+SB  - IM
+MH  - Abscisic Acid/*metabolism
+MH  - Arabidopsis/cytology/genetics/metabolism/physiology
+MH  - *Droughts
+MH  - *Osmosis
+MH  - Phylogeny
+MH  - Plants, Genetically Modified
+MH  - Qa-SNARE Proteins/*genetics
+MH  - Salt Tolerance/*genetics
+MH  - Seeds/genetics
+MH  - Signal Transduction/*genetics
+MH  - Soybeans/genetics
+MH  - Up-Regulation
+PMC - PMC6461667
+COIS- The authors declare no competing interests.
+EDAT- 2019/04/14 06:00
+MHDA- 2020/10/08 06:00
+CRDT- 2019/04/14 06:00
+PHST- 2018/08/09 00:00 [received]
+PHST- 2019/03/24 00:00 [accepted]
+PHST- 2019/04/14 06:00 [entrez]
+PHST- 2019/04/14 06:00 [pubmed]
+PHST- 2020/10/08 06:00 [medline]
+AID - 10.1038/s41598-019-42332-5 [pii]
+AID - 42332 [pii]
+AID - 10.1038/s41598-019-42332-5 [doi]
+PST - epublish
+SO  - Sci Rep. 2019 Apr 12;9(1):5990. doi: 10.1038/s41598-019-42332-5.
+
+
+##### PUB RECORD #####
+## 10.1007/s11248-019-00180-z  31673914  null  Zhang, Luo, et al., 2020  "Zhang L, Luo Y, Liu B, Zhang L, Zhang W, Chen R, Wang L. Overexpression of the maize γ-tocopherol methyltransferase gene (ZmTMT) increases α-tocopherol content in transgenic Arabidopsis and maize seeds. Transgenic Res. 2020 Feb;29(1):95-104. doi: 10.1007/s11248-019-00180-z. Epub 2019 Oct 31. PMID: 31673914." ##
+
+PMID- 31673914
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210607
+LR  - 20210607
+IS  - 1573-9368 (Electronic)
+IS  - 0962-8819 (Linking)
+VI  - 29
+IP  - 1
+DP  - 2020 Feb
+TI  - Overexpression of the maize gamma-tocopherol methyltransferase gene (ZmTMT) increases 
+      alpha-tocopherol content in transgenic Arabidopsis and maize seeds.
+PG  - 95-104
+LID - 10.1007/s11248-019-00180-z [doi]
+AB  - The vitamin E family includes tocopherols and tocotrienols, which are essential 
+      lipid-soluble antioxidants necessary for human and livestock health. The seeds of 
+      many plant species, including maize, have high gamma (gamma)-tocopherol but low alpha 
+      (alpha)-tocopherol contents; however, alpha-tocopherol is the most effective antioxidant. 
+      Therefore, it is necessary to optimize the tocopherol composition in plants. 
+      alpha-Tocopherol is synthesized from gamma-tocopherol by gamma-tocopherol methyltransferase 
+      (gamma-TMT, VTE4) in the final step of the tocopherol biosynthetic pathway. In the 
+      present study, the full-length coding sequence (CDS) of gamma-TMT was isolated from 
+      Zea mays, named ZmTMT. The ZmTMT CDS was 1059 bp in size, encoding 352 amino 
+      acids. Recombinant ZmTMT was expressed in Escherichia coli and the purified 
+      protein effectively converted gamma-tocopherol into alpha-tocopherol in vitro. A 
+      comparison of enzyme activities showed that the activity of ZmTMT was higher than 
+      that of GmTMT2a (Glycine max) and AtTMT (Arabidopsis thaliana). Overexpression of 
+      ZmTMT increased the alpha-tocopherol content 4-5-fold in transgenic Arabidopsis and 
+      around 6.5-fold in transgenic maize kernels, and increased the alpha-/gamma-tocopherol 
+      ratio to approximately 15 and 17, respectively. These results show that it is 
+      feasible to overexpress ZmTMT to optimize the tocopherol composition in maize; 
+      such a corn product might be useful in the feed industry in the near future.
+FAU - Zhang, Lan
+AU  - Zhang L
+AUID- ORCID: 0000-0001-9372-2042
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China.
+FAU - Luo, Yanzhong
+AU  - Luo Y
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China.
+FAU - Liu, Bin
+AU  - Liu B
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China.
+FAU - Zhang, Liang
+AU  - Zhang L
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China.
+FAU - Chen, Rumei
+AU  - Chen R
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China.
+FAU - Wang, Lei
+AU  - Wang L
+AD  - National Key Facility of Crop Gene Resources and Genetic Improvement, 
+      Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, 100081, China. wanglei01@caas.cn.
+LA  - eng
+GR  - 2016ZX08003-002/Earmarked Fund for China Agriculture Research 
+      System/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191031
+PL  - Netherlands
+TA  - Transgenic Res
+JT  - Transgenic research
+JID - 9209120
+RN  - EC 2.1.1.- (Methyltransferases)
+RN  - EC 2.1.1.95 (gamma-tocopherol methyltransferase)
+RN  - H4N855PNZ1 (alpha-Tocopherol)
+SB  - IM
+MH  - Arabidopsis/genetics/*metabolism
+MH  - Methyltransferases/genetics/*metabolism
+MH  - Plants, Genetically Modified/genetics/*metabolism
+MH  - Seeds/genetics/*metabolism
+MH  - Zea mays/*enzymology
+MH  - alpha-Tocopherol/*metabolism
+OTO - NOTNLM
+OT  - Zea mays
+OT  - alpha-/gamma-Tocopherol ratio
+OT  - alpha-Tocopherol
+OT  - gamma-Tocopherol methyltransferase (gamma-TMT)
+EDAT- 2019/11/02 06:00
+MHDA- 2021/06/08 06:00
+CRDT- 2019/11/02 06:00
+PHST- 2019/08/12 00:00 [received]
+PHST- 2019/10/22 00:00 [accepted]
+PHST- 2019/11/02 06:00 [pubmed]
+PHST- 2021/06/08 06:00 [medline]
+PHST- 2019/11/02 06:00 [entrez]
+AID - 10.1007/s11248-019-00180-z [pii]
+AID - 10.1007/s11248-019-00180-z [doi]
+PST - ppublish
+SO  - Transgenic Res. 2020 Feb;29(1):95-104. doi: 10.1007/s11248-019-00180-z. Epub 2019 
+      Oct 31.
+
+
+##### PUB RECORD #####
+## 10.1371/journal.pone.0222469  31518373  PMC6743760  Sugawara, Umehara et al., 2019  "Sugawara M, Umehara Y, Kaga A, Hayashi M, Ishimoto M, Sato S, Mitsui H, Minamisawa K. Symbiotic incompatibility between soybean and Bradyrhizobium arises from one amino acid determinant in soybean Rj2 protein. PLoS One. 2019 Sep 13;14(9):e0222469. doi: 10.1371/journal.pone.0222469. PMID: 31518373; PMCID: PMC6743760." ##
+
+PMID- 31518373
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200310
+LR  - 20200310
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 14
+IP  - 9
+DP  - 2019
+TI  - Symbiotic incompatibility between soybean and Bradyrhizobium arises from one 
+      amino acid determinant in soybean Rj2 protein.
+PG  - e0222469
+LID - 10.1371/journal.pone.0222469 [doi]
+LID - e0222469
+AB  - Cultivated soybean (Glycine max) carrying the Rj2 allele restricts nodulation 
+      with specific Bradyrhizobium strains via host immunity, mediated by rhizobial 
+      type III secretory protein NopP and the host resistance protein Rj2. Here we 
+      found that the single isoleucine residue I490 in Rj2 is required for induction of 
+      symbiotic incompatibility. Furthermore, we investigated the geographical 
+      distribution of the Rj2-genotype soybean in a large set of germplasm by single 
+      nucleotide polymorphism (SNP) genotyping using a SNP marker for I490. By allelic 
+      comparison of 79 accessions in the Japanese soybean mini-core collection, we 
+      suggest substitution of a single amino acid residue (R490 to I490) in Rj2 induces 
+      symbiotic incompatibility with Bradyrhizobium diazoefficiens USDA 122. The 
+      importance of I490 was verified by complementation of rj2-soybean by the dominant 
+      allele encoding the Rj2 protein containing I490 residue. The Rj2 allele was also 
+      found in Glycine soja, the wild progenitor of G. max, and their single amino acid 
+      polymorphisms were associated with the Rj2-nodulation phenotype. By SNP 
+      genotyping against 1583 soybean accessions, we detected the Rj2-genotype in 5.4% 
+      of G. max and 7.7% of G. soja accessions. Distribution of the Rj2-genotype 
+      soybean plants was relatively concentrated in the temperate Asian region. These 
+      results provide important information about the mechanism of host 
+      genotype-specific symbiotic incompatibility mediated by host immunity and suggest 
+      that the Rj2 gene has been maintained by environmental conditions during the 
+      process of soybean domestication.
+FAU - Sugawara, Masayuki
+AU  - Sugawara M
+AUID- ORCID: 0000-0002-3058-4348
+AD  - Graduate School of Life Sciences, Tohoku University, Sendai, Miyagi, Japan.
+FAU - Umehara, Yosuke
+AU  - Umehara Y
+AD  - Institute of Agrobiological Sciences, National Agriculture and Food Research 
+      Organization, Tsukuba, Ibaraki, Japan.
+FAU - Kaga, Akito
+AU  - Kaga A
+AD  - National Institute of Crop Science, National Agriculture and Food Research 
+      Organization, Tsukuba, Ibaraki, Japan.
+FAU - Hayashi, Masaki
+AU  - Hayashi M
+AD  - Institute of Agrobiological Sciences, National Agriculture and Food Research 
+      Organization, Tsukuba, Ibaraki, Japan.
+FAU - Ishimoto, Masao
+AU  - Ishimoto M
+AD  - National Institute of Crop Science, National Agriculture and Food Research 
+      Organization, Tsukuba, Ibaraki, Japan.
+FAU - Sato, Shusei
+AU  - Sato S
+AD  - Graduate School of Life Sciences, Tohoku University, Sendai, Miyagi, Japan.
+FAU - Mitsui, Hisayuki
+AU  - Mitsui H
+AD  - Graduate School of Life Sciences, Tohoku University, Sendai, Miyagi, Japan.
+FAU - Minamisawa, Kiwamu
+AU  - Minamisawa K
+AD  - Graduate School of Life Sciences, Tohoku University, Sendai, Miyagi, Japan.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190913
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Amino Acids)
+RN  - 0 (Soybean Proteins)
+RN  - 0 (Type III Secretion Systems)
+SB  - IM
+MH  - Alleles
+MH  - Amino Acids/*genetics
+MH  - Bradyrhizobium/*genetics
+MH  - Genotype
+MH  - Phenotype
+MH  - Plant Root Nodulation/genetics
+MH  - Plant Roots/genetics/microbiology
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Rhizobium/genetics
+MH  - Soybean Proteins/*genetics
+MH  - Soybeans/*genetics/*microbiology
+MH  - Symbiosis/*genetics
+MH  - Type III Secretion Systems/*genetics
+PMC - PMC6743760
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2019/09/14 06:00
+MHDA- 2020/03/11 06:00
+CRDT- 2019/09/14 06:00
+PHST- 2019/06/27 00:00 [received]
+PHST- 2019/08/29 00:00 [accepted]
+PHST- 2019/09/14 06:00 [entrez]
+PHST- 2019/09/14 06:00 [pubmed]
+PHST- 2020/03/11 06:00 [medline]
+AID - PONE-D-19-18174 [pii]
+AID - 10.1371/journal.pone.0222469 [doi]
+PST - epublish
+SO  - PLoS One. 2019 Sep 13;14(9):e0222469. doi: 10.1371/journal.pone.0222469. 
+      eCollection 2019.
+
+
+##### PUB RECORD #####
+## 10.1038/ncomms5340  25004933  PMC4104456  Qi, Li et al., 2014  "Qi X, Li MW, Xie M, Liu X, Ni M, Shao G, Song C, Kay-Yuen Yim A, Tao Y, Wong FL, Isobe S, Wong CF, Wong KS, Xu C, Li C, Wang Y, Guan R, Sun F, Fan G, Xiao Z, Zhou F, Phang TH, Liu X, Tong SW, Chan TF, Yiu SM, Tabata S, Wang J, Xu X, Lam HM. Identification of a novel salt tolerance gene in wild soybean by whole-genome sequencing. Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340. PMID: 25004933; PMCID: PMC4104456." ##
+
+PMID- 25004933
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151116
+LR  - 20220331
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 5
+DP  - 2014 Jul 9
+TI  - Identification of a novel salt tolerance gene in wild soybean by whole-genome 
+      sequencing.
+PG  - 4340
+LID - 10.1038/ncomms5340 [doi]
+LID - 4340
+AB  - Using a whole-genome-sequencing approach to explore germplasm resources can serve 
+      as an important strategy for crop improvement, especially in investigating wild 
+      accessions that may contain useful genetic resources that have been lost during 
+      the domestication process. Here we sequence and assemble a draft genome of wild 
+      soybean and construct a recombinant inbred population for 
+      genotyping-by-sequencing and phenotypic analyses to identify multiple QTLs 
+      relevant to traits of interest in agriculture. We use a combination of de novo 
+      sequencing data from this work and our previous germplasm re-sequencing data to 
+      identify a novel ion transporter gene, GmCHX1, and relate its sequence 
+      alterations to salt tolerance. Rapid gain-of-function tests show the protective 
+      effects of GmCHX1 towards salt stress. This combination of whole-genome de novo 
+      sequencing, high-density-marker QTL mapping by re-sequencing and functional 
+      analyses can serve as an effective strategy to unveil novel genomic information 
+      in wild soybean to facilitate crop improvement.
+FAU - Qi, Xinpeng
+AU  - Qi X
+AD  - 1] School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong [2].
+FAU - Li, Man-Wah
+AU  - Li MW
+AD  - 1] School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong [2].
+FAU - Xie, Min
+AU  - Xie M
+AD  - 1] BGI-Shenzhen, Shenzhen 518083, PR China [2].
+FAU - Liu, Xin
+AU  - Liu X
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Ni, Meng
+AU  - Ni M
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Shao, Guihua
+AU  - Shao G
+AD  - Institute of Crop Sciences, The Chinese Academy of Agricultural Sciences, Beijing 
+      100081, PR China.
+FAU - Song, Chi
+AU  - Song C
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Kay-Yuen Yim, Aldrin
+AU  - Kay-Yuen Yim A
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Tao, Ye
+AU  - Tao Y
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Wong, Fuk-Ling
+AU  - Wong FL
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Isobe, Sachiko
+AU  - Isobe S
+AD  - Kazusa DNA Research Institute, Chiba 292-0818, Japan.
+FAU - Wong, Chi-Fai
+AU  - Wong CF
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Wong, Kwong-Sen
+AU  - Wong KS
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Xu, Chunyan
+AU  - Xu C
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Li, Chunqing
+AU  - Li C
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Wang, Ying
+AU  - Wang Y
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Guan, Rui
+AU  - Guan R
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Sun, Fengming
+AU  - Sun F
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Fan, Guangyi
+AU  - Fan G
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Xiao, Zhixia
+AU  - Xiao Z
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Zhou, Feng
+AU  - Zhou F
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Phang, Tsui-Hung
+AU  - Phang TH
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Liu, Xuan
+AU  - Liu X
+AD  - Department of Computer Science, The University of Hong Kong, Pokfulam HKSAR, Hong 
+      Kong.
+FAU - Tong, Suk-Wah
+AU  - Tong SW
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Chan, Ting-Fung
+AU  - Chan TF
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+FAU - Yiu, Siu-Ming
+AU  - Yiu SM
+AD  - Department of Computer Science, The University of Hong Kong, Pokfulam HKSAR, Hong 
+      Kong.
+FAU - Tabata, Satoshi
+AU  - Tabata S
+AD  - Kazusa DNA Research Institute, Chiba 292-0818, Japan.
+FAU - Wang, Jian
+AU  - Wang J
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Xu, Xun
+AU  - Xu X
+AD  - BGI-Shenzhen, Shenzhen 518083, PR China.
+FAU - Lam, Hon-Ming
+AU  - Lam HM
+AD  - School of Life Sciences and Center for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin 
+      HKSAR, Hong Kong.
+LA  - eng
+SI  - GENBANK/AZNC00000000
+SI  - GENBANK/KF879911
+SI  - GENBANK/KF879912
+SI  - SRA/SRR1185321
+SI  - SRA/SRR1185322
+SI  - SRA/SRR1185323
+SI  - SRA/SRR1185926
+SI  - SRA/SRR1185927
+SI  - SRA/SRR1185928
+SI  - SRA/SRR1185929
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140709
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Ion Pumps)
+RN  - 0 (Plant Proteins)
+RN  - 451W47IQ8X (Sodium Chloride)
+SB  - IM
+MH  - Chromosome Mapping
+MH  - *Genome, Plant
+MH  - Genotype
+MH  - Ion Pumps/*genetics/metabolism
+MH  - Molecular Sequence Data
+MH  - Plant Proteins/*genetics
+MH  - Quantitative Trait Loci
+MH  - *Salt Tolerance
+MH  - Sodium Chloride/metabolism
+MH  - Soybeans/*genetics/physiology
+PMC - PMC4104456
+EDAT- 2014/07/10 06:00
+MHDA- 2015/11/17 06:00
+CRDT- 2014/07/10 06:00
+PHST- 2014/03/01 00:00 [received]
+PHST- 2014/06/09 00:00 [accepted]
+PHST- 2014/07/10 06:00 [entrez]
+PHST- 2014/07/10 06:00 [pubmed]
+PHST- 2015/11/17 06:00 [medline]
+AID - ncomms5340 [pii]
+AID - 10.1038/ncomms5340 [doi]
+PST - epublish
+SO  - Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340.
+
+
+##### PUB RECORD #####
+## 10.1534/g3.116.038596  28235823  PMC5386870  Dobbels, Michno et al., 2017  "Dobbels AA, Michno JM, Campbell BW, Virdi KS, Stec AO, Muehlbauer GJ, Naeve SL, Stupar RM. An Induced Chromosomal Translocation in Soybean Disrupts a <i>KASI</i> Ortholog and Is Associated with a High-Sucrose and Low-Oil Seed Phenotype. G3 (Bethesda). 2017 Apr 3;7(4):1215-1223. doi: 10.1534/g3.116.038596. PMID: 28235823; PMCID: PMC5386870." ##
+
+PMID- 28235823
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180710
+LR  - 20181113
+IS  - 2160-1836 (Electronic)
+IS  - 2160-1836 (Linking)
+VI  - 7
+IP  - 4
+DP  - 2017 Apr 3
+TI  - An Induced Chromosomal Translocation in Soybean Disrupts a KASI Ortholog and Is 
+      Associated with a High-Sucrose and Low-Oil Seed Phenotype.
+PG  - 1215-1223
+LID - 10.1534/g3.116.038596 [doi]
+AB  - Mutagenesis is a useful tool in many crop species to induce heritable genetic 
+      variability for trait improvement and gene discovery. In this study, forward 
+      screening of a soybean fast neutron (FN) mutant population identified an 
+      individual that produced seed with nearly twice the amount of sucrose (8.1% on 
+      dry matter basis) and less than half the amount of oil (8.5% on dry matter basis) 
+      as compared to wild type. Bulked segregant analysis (BSA), comparative genomic 
+      hybridization, and genome resequencing were used to associate the seed 
+      composition phenotype with a reciprocal translocation between chromosomes 8 and 
+      13. In a backcross population, the translocation perfectly cosegregated with the 
+      seed composition phenotype and exhibited non-Mendelian segregation patterns. We 
+      hypothesize that the translocation is responsible for the altered seed 
+      composition by disrupting a beta-ketoacyl-[acyl carrier protein] synthase 1 (KASI) 
+      ortholog. KASI is a core fatty acid synthesis enzyme that is involved in the 
+      conversion of sucrose into oil in developing seeds. This finding may lead to new 
+      research directions for developing soybean cultivars with modified carbohydrate 
+      and oil seed composition.
+CI  - Copyright (c) 2017 Dobbels et al.
+FAU - Dobbels, Austin A
+AU  - Dobbels AA
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Michno, Jean-Michel
+AU  - Michno JM
+AUID- ORCID: 0000-0003-3723-2246
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Campbell, Benjamin W
+AU  - Campbell BW
+AUID- ORCID: 0000-0002-5510-8583
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Virdi, Kamaldeep S
+AU  - Virdi KS
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Stec, Adrian O
+AU  - Stec AO
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Muehlbauer, Gary J
+AU  - Muehlbauer GJ
+AUID- ORCID: 0000-0001-9320-2629
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+AD  - Department of Plant Biology, University of Minnesota, St. Paul, Minnesota 55108.
+FAU - Naeve, Seth L
+AU  - Naeve SL
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Stupar, Robert M
+AU  - Stupar RM
+AUID- ORCID: 0000-0002-8836-2924
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108 stup0004@umn.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20170403
+PL  - England
+TA  - G3 (Bethesda)
+JT  - G3 (Bethesda, Md.)
+JID - 101566598
+RN  - 0 (Plant Proteins)
+RN  - 57-50-1 (Sucrose)
+RN  - 8001-22-7 (Soybean Oil)
+SB  - IM
+MH  - Chromosome Mapping
+MH  - Chromosomes, Plant/*genetics
+MH  - Genes, Plant
+MH  - Heterozygote
+MH  - Homozygote
+MH  - Mutation/genetics
+MH  - Phenotype
+MH  - Plant Proteins/*genetics
+MH  - Reproducibility of Results
+MH  - Seeds/*genetics
+MH  - *Sequence Homology, Nucleic Acid
+MH  - Soybean Oil/*metabolism
+MH  - Soybeans/*genetics
+MH  - Sucrose/*metabolism
+MH  - *Translocation, Genetic
+PMC - PMC5386870
+OTO - NOTNLM
+OT  - fast neutron
+OT  - oil
+OT  - soybean
+OT  - sucrose
+OT  - translocation
+EDAT- 2017/02/27 06:00
+MHDA- 2018/07/11 06:00
+CRDT- 2017/02/26 06:00
+PHST- 2017/02/27 06:00 [pubmed]
+PHST- 2018/07/11 06:00 [medline]
+PHST- 2017/02/26 06:00 [entrez]
+AID - g3.116.038596 [pii]
+AID - GGG_038596 [pii]
+AID - 10.1534/g3.116.038596 [doi]
+PST - epublish
+SO  - G3 (Bethesda). 2017 Apr 3;7(4):1215-1223. doi: 10.1534/g3.116.038596.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2017.01604  28979275  PMC5611487  Manan, Ahmad et al., 2017  "Manan S, Ahmad MZ, Zhang G, Chen B, Haq BU, Yang J, Zhao J. Soybean LEC2 Regulates Subsets of Genes Involved in Controlling the Biosynthesis and Catabolism of Seed Storage Substances and Seed Development. Front Plant Sci. 2017 Sep 20;8:1604. doi: 10.3389/fpls.2017.01604. PMID: 28979275; PMCID: PMC5611487." ##
+
+PMID- 28979275
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220331
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 8
+DP  - 2017
+TI  - Soybean LEC2 Regulates Subsets of Genes Involved in Controlling the Biosynthesis 
+      and Catabolism of Seed Storage Substances and Seed Development.
+PG  - 1604
+LID - 10.3389/fpls.2017.01604 [doi]
+LID - 1604
+AB  - Soybean is an important oilseed crop and major dietary protein resource, yet the 
+      molecular processes and regulatory mechanisms involved in biosynthesis of seed 
+      storage substances are not fully understood. The B3 domain transcription factor 
+      (TF) LEC2 essentially regulates embryo development and seed maturation in other 
+      plants, but is not functionally characterized in soybean. Here, we characterize 
+      the function of a soybean LEC2 homolog, GmLEC2a, in regulating carbohydrate 
+      catabolism, triacylglycerol (TAG) biosynthesis, and seed development. The 
+      experimental analysis showed that GmLEC2a complemented Arabidopsis atlec2 mutant 
+      defects in seedling development and TAG accumulation. Over-expression of GmLEC2a 
+      in Arabidopsis seeds increased the TAG contents by 34% and the composition of 
+      long chain fatty acids by 4% relative to the control seeds. Transcriptome 
+      analysis showed that ectopic expression of GmLEC2a in soybean hairy roots 
+      up-regulated several sets of downstream TF genes GmLEC1, GmFUS3, GmABI3, GmDof11 
+      and GmWRI1 that regulate the seed development and production of seed storage 
+      substances. GmLEC2a regulated the lipid transporter genes and oil body protein 
+      gene OLEOSIN (OLE1). The genes involved in carbohydrate biosynthesis and storage, 
+      such as sucrose synthesis, and catabolism of TAG, such as lipases in GmLEC2a 
+      hairy roots were down-regulated. GmLEC2a targeted metabolic genes for seed 
+      protein in soybean.
+FAU - Manan, Sehrish
+AU  - Manan S
+AD  - National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+      UniversityWuhan, China.
+FAU - Ahmad, Muhammad Z
+AU  - Ahmad MZ
+AD  - National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+      UniversityWuhan, China.
+AD  - State Key Lab of Tea Plant Biology and Utilization, College of Tea and Food 
+      Science and Technology, Anhui Agricultural UniversityHefei, China.
+FAU - Zhang, Gaoyang
+AU  - Zhang G
+AD  - National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+      UniversityWuhan, China.
+AD  - State Key Lab of Tea Plant Biology and Utilization, College of Tea and Food 
+      Science and Technology, Anhui Agricultural UniversityHefei, China.
+FAU - Chen, Beibei
+AU  - Chen B
+AD  - National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+      UniversityWuhan, China.
+FAU - Haq, Basir U
+AU  - Haq BU
+AD  - National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+      UniversityWuhan, China.
+FAU - Yang, Jihong
+AU  - Yang J
+AD  - State Key Lab of Tea Plant Biology and Utilization, College of Tea and Food 
+      Science and Technology, Anhui Agricultural UniversityHefei, China.
+FAU - Zhao, Jian
+AU  - Zhao J
+AD  - National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+      UniversityWuhan, China.
+AD  - State Key Lab of Tea Plant Biology and Utilization, College of Tea and Food 
+      Science and Technology, Anhui Agricultural UniversityHefei, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20170920
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC5611487
+OTO - NOTNLM
+OT  - LEAFY COTYLEDON2
+OT  - carbohydrate catabolism
+OT  - protein biosynthesis
+OT  - seed storage substances
+OT  - transcription factor
+OT  - triacylglycerol
+EDAT- 2017/10/06 06:00
+MHDA- 2017/10/06 06:01
+CRDT- 2017/10/06 06:00
+PHST- 2017/06/20 00:00 [received]
+PHST- 2017/08/31 00:00 [accepted]
+PHST- 2017/10/06 06:00 [entrez]
+PHST- 2017/10/06 06:00 [pubmed]
+PHST- 2017/10/06 06:01 [medline]
+AID - 10.3389/fpls.2017.01604 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2017 Sep 20;8:1604. doi: 10.3389/fpls.2017.01604. eCollection 
+      2017.
+
+
+##### PUB RECORD #####
+## 10.1007/s11103-013-0133-1  24072327  null  RojasRodas, Rodriguez et al., 2013  "Rojas Rodas F, Rodriguez TO, Murai Y, Iwashina T, Sugawara S, Suzuki M, Nakabayashi R, Yonekura-Sakakibara K, Saito K, Kitajima J, Toda K, Takahashi R. Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 encoding flavonol 3-O-glucoside (1 → 6) rhamnosyltransferase. Plant Mol Biol. 2014 Feb;84(3):287-300. doi: 10.1007/s11103-013-0133-1. Epub 2013 Sep 27. PMID: 24072327." ##
+
+PMID- 24072327
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140227
+LR  - 20220309
+IS  - 1573-5028 (Electronic)
+IS  - 0167-4412 (Linking)
+VI  - 84
+IP  - 3
+DP  - 2014 Feb
+TI  - Linkage mapping, molecular cloning and functional analysis of soybean gene Fg2 
+      encoding flavonol 3-O-glucoside (1 --> 6) rhamnosyltransferase.
+PG  - 287-300
+LID - 10.1007/s11103-013-0133-1 [doi]
+AB  - There are substantial genotypic differences in the levels of flavonol glycosides 
+      (FGs) in soybean leaves. The first objective of this study was to identify and 
+      locate genes responsible for FG biosynthesis in the soybean genome. The second 
+      objective was to clone and verify the function of these candidate genes. 
+      Recombinant inbred lines (RILs) were developed by crossing the Kitakomachi and 
+      Koganejiro cultivars. The FGs were separated by high performance liquid 
+      chromatography (HPLC) and identified. The FGs of Koganejiro had rhamnose at the 
+      6''-position of the glucose or galactose bound to the 3-position of kaempferol, 
+      whereas FGs of Kitakomachi were devoid of rhamnose. Among the 94 RILs, 53 RILs 
+      had HPLC peaks classified as Koganejiro type, and 41 RILs had peaks classified as 
+      Kitakomachi type. The segregation fitted a 1:1 ratio, suggesting that a single 
+      gene controls FG composition. SSR analysis, linkage mapping and genome database 
+      survey revealed a candidate gene in the molecular linkage group O (chromosome 
+      10). The coding region of the gene from Koganejiro, designated as GmF3G6''Rt-a, is 
+      1,392 bp long and encodes 464 amino acids, whereas the gene of Kitakomachi, 
+      GmF3G6''Rt-b, has a two-base deletion resulting in a truncated polypeptide 
+      consisting of 314 amino acids. The recombinant GmF3G6''Rt-a protein converted 
+      kaempferol 3-O-glucoside to kaempferol 3-O-rutinoside and utilized 
+      3-O-glucosylated/galactosylated flavonols and UDP-rhamnose as substrates. 
+      GmF3G6''Rt-b protein had no activity. These results indicate that GmF3G6''Rt 
+      encodes a flavonol 3-O-glucoside (1 --> 6) rhamnosyltransferase and it probably 
+      corresponds to the Fg2 gene. GmF3G6''Rt was designated as UGT79A6 by the UGT 
+      Nomenclature Committee.
+FAU - Rojas Rodas, Felipe
+AU  - Rojas Rodas F
+AD  - Graduate School of Life and Environmental Sciences, University of Tsukuba, 
+      Tsukuba, Ibaraki, 305-8518, Japan.
+FAU - Rodriguez, Tito O
+AU  - Rodriguez TO
+FAU - Murai, Yoshinori
+AU  - Murai Y
+FAU - Iwashina, Tsukasa
+AU  - Iwashina T
+FAU - Sugawara, Satoko
+AU  - Sugawara S
+FAU - Suzuki, Makoto
+AU  - Suzuki M
+FAU - Nakabayashi, Ryo
+AU  - Nakabayashi R
+FAU - Yonekura-Sakakibara, Keiko
+AU  - Yonekura-Sakakibara K
+FAU - Saito, Kazuki
+AU  - Saito K
+FAU - Kitajima, Junichi
+AU  - Kitajima J
+FAU - Toda, Kyoko
+AU  - Toda K
+FAU - Takahashi, Ryoji
+AU  - Takahashi R
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130927
+PL  - Netherlands
+TA  - Plant Mol Biol
+JT  - Plant molecular biology
+JID - 9106343
+RN  - 0 (DNA Primers)
+RN  - 0 (DNA, Complementary)
+RN  - 0 (Recombinant Proteins)
+RN  - 0 (Soybean Proteins)
+RN  - EC 2.4.1.- (Hexosyltransferases)
+RN  - EC 2.4.1.- (flavonol 3-O-glucoside (1-6) rhamnosyltransferase, soybean)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Base Sequence
+MH  - Chromatography, High Pressure Liquid
+MH  - *Chromosome Mapping
+MH  - Cloning, Molecular
+MH  - DNA Primers
+MH  - DNA, Complementary/genetics
+MH  - Gene Expression Regulation, Plant
+MH  - *Genes, Plant
+MH  - Hexosyltransferases/chemistry/*genetics/isolation & purification
+MH  - Molecular Sequence Data
+MH  - Recombinant Proteins/chemistry/genetics/isolation & purification
+MH  - Sequence Homology, Amino Acid
+MH  - Soybean Proteins/chemistry/*genetics/isolation & purification
+MH  - Soybeans/*genetics
+EDAT- 2013/09/28 06:00
+MHDA- 2014/02/28 06:00
+CRDT- 2013/09/28 06:00
+PHST- 2013/07/10 00:00 [received]
+PHST- 2013/09/17 00:00 [accepted]
+PHST- 2013/09/28 06:00 [entrez]
+PHST- 2013/09/28 06:00 [pubmed]
+PHST- 2014/02/28 06:00 [medline]
+AID - 10.1007/s11103-013-0133-1 [doi]
+PST - ppublish
+SO  - Plant Mol Biol. 2014 Feb;84(3):287-300. doi: 10.1007/s11103-013-0133-1. Epub 2013 
+      Sep 27.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plantsci.2019.110298  31779909  null  Bai, Jing et al., 2021  "Bai Y, Jing G, Zhou J, Li S, Bi R, Zhao J, Jia Q, Zhang Q, Zhang W. Overexpression of soybean GmPLDγ enhances seed oil content and modulates fatty acid composition in transgenic Arabidopsis. Plant Sci. 2020 Jan;290:110298. doi: 10.1016/j.plantsci.2019.110298. Epub 2019 Oct 6. Erratum in: Plant Sci. 2021 Jun;307:110881. PMID: 31779909." ##
+
+PMID- 31779909
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200323
+LR  - 20210427
+IS  - 1873-2259 (Electronic)
+IS  - 0168-9452 (Linking)
+VI  - 290
+DP  - 2020 Jan
+TI  - Overexpression of soybean GmPLDgamma enhances seed oil content and modulates fatty 
+      acid composition in transgenic Arabidopsis.
+PG  - 110298
+LID - S0168-9452(19)30840-4 [pii]
+LID - 10.1016/j.plantsci.2019.110298 [doi]
+AB  - Phospholipase D (PLD) hydrolyzes the phosphodiester bond of glycerophospholipids 
+      to yield phosphatidic acid (PA) and a free headgroup. PLDs are important for 
+      plant growth, development, and responses to external stresses. However, their 
+      roles in triacylglycerol (TAG) synthesis are still unclear. Here, we report that 
+      a soybean (Glycine max) PLDgamma (GmPLDgamma) is involved in glycerolipid turnover and 
+      seed oil production. GmPLDgamma was targeted to mitochondria and exhibited PLD 
+      activity that was activated by oleate and phosphatidylinositol 4,5-bisphosphate 
+      [PtdIns(4,5)P(2)]. Overexpression of GmPLDgamma (abbreviated GmPLDgamma-OE) in 
+      Arabidopsis thaliana resulted in enhanced seed weight, elevated levels of TAGs 
+      with 18-, 20-, and 22-carbon fatty acids (FAs), and altered oil-body morphology. 
+      Furthermore, the levels of membrane lipids in vegetative tissues decreased 
+      significantly, whereas no overt changes were found in mature seeds except for a 
+      decrease in the digalactosyldiacylglycerol (DGDG) level in the GmPLDgamma-OE lines. 
+      Additionally, the expression of genes involved in glycerolipid metabolism was 
+      significantly upregulated in developing siliques in GmPLDgamma-OE lines. Together, 
+      our data indicate a regulatory role for GmPLDgamma in TAG synthesis and fatty-acid 
+      remodeling, highlighting the importance of mitochondria-directed 
+      glycerophospholipid homeostasis in seed oil accumulation.
+CI  - Copyright (c) 2019 Elsevier B.V. All rights reserved.
+FAU - Bai, Yang
+AU  - Bai Y
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Jing, Guangqin
+AU  - Jing G
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Zhou, Jing
+AU  - Zhou J
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Li, Shuxiang
+AU  - Li S
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Bi, Rongrong
+AU  - Bi R
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Zhao, Jiangzhe
+AU  - Zhao J
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Jia, Qianru
+AU  - Jia Q
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China.
+FAU - Zhang, Qun
+AU  - Zhang Q
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China. 
+      Electronic address: zhangqun@njau.edu.cn.
+FAU - Zhang, Wenhua
+AU  - Zhang W
+AD  - College of Life Sciences, State Key Laboratory of Crop Genetics and Germplasm 
+      Enhancement, Nanjing Agricultural University, Nanjing, 210095, PR China. 
+      Electronic address: whzhang@njau.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20191006
+PL  - Ireland
+TA  - Plant Sci
+JT  - Plant science : an international journal of experimental plant biology
+JID - 9882015
+RN  - 0 (Fatty Acids)
+RN  - 0 (Plant Oils)
+RN  - 0 (Plant Proteins)
+RN  - EC 3.1.4.4 (Phospholipase D)
+SB  - IM
+EIN - Plant Sci. 2021 Jun;307:110881. PMID: 33902849
+MH  - Arabidopsis/genetics/*metabolism
+MH  - Fatty Acids/*metabolism
+MH  - *Gene Expression Regulation, Plant
+MH  - Phospholipase D/*genetics/metabolism
+MH  - Plant Oils/*metabolism
+MH  - Plant Proteins/*genetics/metabolism
+MH  - Plants, Genetically Modified/genetics/metabolism
+MH  - Seeds/metabolism
+MH  - Soybeans/*genetics/metabolism
+OTO - NOTNLM
+OT  - Mitochondria
+OT  - Oil synthesis
+OT  - Phospholipase Dgamma
+OT  - Soybean
+OT  - Transgenic Arabidopsis
+EDAT- 2019/11/30 06:00
+MHDA- 2020/03/24 06:00
+CRDT- 2019/11/30 06:00
+PHST- 2019/06/18 00:00 [received]
+PHST- 2019/09/23 00:00 [revised]
+PHST- 2019/10/02 00:00 [accepted]
+PHST- 2019/11/30 06:00 [entrez]
+PHST- 2019/11/30 06:00 [pubmed]
+PHST- 2020/03/24 06:00 [medline]
+AID - S0168-9452(19)30840-4 [pii]
+AID - 10.1016/j.plantsci.2019.110298 [doi]
+PST - ppublish
+SO  - Plant Sci. 2020 Jan;290:110298. doi: 10.1016/j.plantsci.2019.110298. Epub 2019 
+      Oct 6.
+
+
+##### PUB RECORD #####
+## 10.1007/s11248-013-9713-8  23645501  null  Zhang, Luo et al., 2013  "Zhang L, Luo Y, Zhu Y, Zhang L, Zhang W, Chen R, Xu M, Fan Y, Wang L. GmTMT2a from soybean elevates the α-tocopherol content in corn and Arabidopsis. Transgenic Res. 2013 Oct;22(5):1021-8. doi: 10.1007/s11248-013-9713-8. Epub 2013 May 4. PMID: 23645501." ##
+
+PMID- 23645501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140421
+LR  - 20211021
+IS  - 1573-9368 (Electronic)
+IS  - 0962-8819 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2013 Oct
+TI  - GmTMT2a from soybean elevates the alpha-tocopherol content in corn and Arabidopsis.
+PG  - 1021-8
+LID - 10.1007/s11248-013-9713-8 [doi]
+AB  - Tocochromanol, or vitamin E, plays a crucial role in human and animal nutrition 
+      and is synthesized only by photosynthetic organisms. gamma-Tocopherol 
+      methyltransferase (gamma-TMT), one of the key enzymes in the tocopherol biosynthetic 
+      pathway in plants, converts gamma, delta-tocopherols into alpha-, beta-tocopherols. Tocopherol 
+      content was investigated in 15 soybean cultivars and GmTMT2 was isolated from 
+      five varieties based on tocopherol content. GmTMT2a was expressed in E. coli and 
+      the purified protein effectively converted gamma-tocopherol into alpha-tocopherol in 
+      vitro. Overexpression of GmTMT2a enhanced alpha-tocopherol content 4-6-fold in 
+      transgenic Arabidopsis, and alpha-tocopherol content increased 3-4.5-fold in 
+      transgenic maize seed, which correlated with the accumulation of GmTMT2a. 
+      Transgenic corn that is alpha-tocopherol-rich may be beneficial for animal health and 
+      growth.
+FAU - Zhang, Lan
+AU  - Zhang L
+AD  - Biotechnology Research Institute, National Key Facility of Crop Gene Resources 
+      and Genetic Improvement, Chinese Academy of Agricultural Sciences, Beijing, 
+      100081, China.
+FAU - Luo, Yanzhong
+AU  - Luo Y
+FAU - Zhu, Yongxing
+AU  - Zhu Y
+FAU - Zhang, Liang
+AU  - Zhang L
+FAU - Zhang, Wei
+AU  - Zhang W
+FAU - Chen, Rumei
+AU  - Chen R
+FAU - Xu, Miaoyun
+AU  - Xu M
+FAU - Fan, Yunliu
+AU  - Fan Y
+FAU - Wang, Lei
+AU  - Wang L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130504
+PL  - Netherlands
+TA  - Transgenic Res
+JT  - Transgenic research
+JID - 9209120
+RN  - 0 (DNA Primers)
+RN  - EC 2.1.1.- (Methyltransferases)
+RN  - EC 2.1.1.95 (gamma-tocopherol methyltransferase)
+RN  - H4N855PNZ1 (alpha-Tocopherol)
+SB  - IM
+MH  - Arabidopsis/genetics/*metabolism
+MH  - Chromatography, High Pressure Liquid
+MH  - DNA Primers/genetics
+MH  - Enzyme-Linked Immunosorbent Assay
+MH  - Escherichia coli
+MH  - Methyltransferases/*genetics/metabolism
+MH  - Plants, Genetically Modified/genetics/*metabolism
+MH  - Soybeans/*genetics
+MH  - Zea mays/genetics/*metabolism
+MH  - alpha-Tocopherol/*metabolism
+EDAT- 2013/05/07 06:00
+MHDA- 2014/04/22 06:00
+CRDT- 2013/05/07 06:00
+PHST- 2012/11/09 00:00 [received]
+PHST- 2013/04/25 00:00 [accepted]
+PHST- 2013/05/07 06:00 [entrez]
+PHST- 2013/05/07 06:00 [pubmed]
+PHST- 2014/04/22 06:00 [medline]
+AID - 10.1007/s11248-013-9713-8 [doi]
+PST - ppublish
+SO  - Transgenic Res. 2013 Oct;22(5):1021-8. doi: 10.1007/s11248-013-9713-8. Epub 2013 
+      May 4.
+
+
+##### PUB RECORD #####
+## 10.1016/j.yrtph.2017.01.004  28132846  null  Fang, Feng, et al., 2017  "Fang J, Feng Y, Zhi Y, Zhang L, Yu Z, Jia X. A 90-day toxicity study of GmTMT transgenic maize in Sprague-Dawley rats. Regul Toxicol Pharmacol. 2017 Apr;85:48-54. doi: 10.1016/j.yrtph.2017.01.004. Epub 2017 Jan 27. PMID: 28132846." ##
+
+PMID- 28132846
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170327
+LR  - 20170327
+IS  - 1096-0295 (Electronic)
+IS  - 0273-2300 (Linking)
+VI  - 85
+DP  - 2017 Apr
+TI  - A 90-day toxicity study of GmTMT transgenic maize in Sprague-Dawley rats.
+PG  - 48-54
+LID - S0273-2300(17)30004-1 [pii]
+LID - 10.1016/j.yrtph.2017.01.004 [doi]
+AB  - GmTMT transgenic maize is a genetically modified maize plant that overexpresses 
+      the gamma-tocopherol methyltransferase (gamma-TMT) from Glycine max (Gm). The gamma-TMT gene 
+      was introduced into maize line Zhen58 to encode the GmTMT2a protein which can 
+      convert gamma-tocopherol into alpha-tocopherol. Overexpression of GmTMT2a significantly 
+      increased the alpha-tocopherol content in transgenic maize. The present study was 
+      designed to investigate any potential effects of GmTMT maize grain in a 90-day 
+      subchronic rodent feeding study. Maize grains from GmTMT or Zhen58 were 
+      incorporated into rodent diets at low (12.5%), medium (25%) or high (50%) 
+      concentrations and administered to Sprague-Dawley rats (n = 10/sex/group) for 90 
+      days. The negative control group of rats (n = 10/sex/group) were fed with common 
+      maize diets. Results from body weights, feed consumption, clinical chemistry, 
+      hematology, absolute and relative organ weights indicated no treatment-related 
+      side effects of GmTMT maize grain on rats in comparison with rats consuming diets 
+      containing Zhen58 maize grain. In addition, no treatment-related changes were 
+      found in necropsy and histopathology examinations. Altogether, our data indicates 
+      that GmTMT transgenic maize is as safe and nutritious as its conventional 
+      non-transgenic maize.
+CI  - Copyright (c) 2017 Elsevier Inc. All rights reserved.
+FAU - Fang, Jin
+AU  - Fang J
+AD  - Key Laboratory of Food Safety Risk Assessment of Ministry of Health, National 
+      Center for Food Safety Risk Assessment, Beijing 100021, China.
+FAU - Feng, Yongquan
+AU  - Feng Y
+AD  - Key Laboratory of Food Safety Risk Assessment of Ministry of Health, National 
+      Center for Food Safety Risk Assessment, Beijing 100021, China.
+FAU - Zhi, Yuan
+AU  - Zhi Y
+AD  - Key Laboratory of Food Safety Risk Assessment of Ministry of Health, National 
+      Center for Food Safety Risk Assessment, Beijing 100021, China.
+FAU - Zhang, Lan
+AU  - Zhang L
+AD  - Biotechnology Research Institute, National Key Facility of Crop Gene Resources 
+      and Genetic Improvement, Chinese Academy of Agricultural Sciences, Beijing 
+      100081, China.
+FAU - Yu, Zhou
+AU  - Yu Z
+AD  - Key Laboratory of Food Safety Risk Assessment of Ministry of Health, National 
+      Center for Food Safety Risk Assessment, Beijing 100021, China. Electronic 
+      address: yuzhou310@163.com.
+FAU - Jia, Xudong
+AU  - Jia X
+AD  - Key Laboratory of Food Safety Risk Assessment of Ministry of Health, National 
+      Center for Food Safety Risk Assessment, Beijing 100021, China. Electronic 
+      address: jiaxudong@cfsa.net.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20170127
+PL  - Netherlands
+TA  - Regul Toxicol Pharmacol
+JT  - Regulatory toxicology and pharmacology : RTP
+JID - 8214983
+RN  - 0 (Plant Proteins)
+RN  - EC 2.1.1.- (Methyltransferases)
+RN  - EC 2.1.1.95 (gamma-tocopherol methyltransferase)
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - Male
+MH  - Methyltransferases/*genetics
+MH  - Plant Proteins/*genetics
+MH  - Plants, Genetically Modified/*toxicity
+MH  - Rats, Sprague-Dawley
+MH  - Soybeans/*enzymology
+MH  - Toxicity Tests, Subchronic
+MH  - Zea mays/*genetics
+OTO - NOTNLM
+OT  - Feeding study
+OT  - Rats
+OT  - Toxicity
+OT  - Transgenic maize
+EDAT- 2017/01/31 06:00
+MHDA- 2017/03/28 06:00
+CRDT- 2017/01/31 06:00
+PHST- 2016/09/21 00:00 [received]
+PHST- 2017/01/22 00:00 [revised]
+PHST- 2017/01/24 00:00 [accepted]
+PHST- 2017/01/31 06:00 [pubmed]
+PHST- 2017/03/28 06:00 [medline]
+PHST- 2017/01/31 06:00 [entrez]
+AID - S0273-2300(17)30004-1 [pii]
+AID - 10.1016/j.yrtph.2017.01.004 [doi]
+PST - ppublish
+SO  - Regul Toxicol Pharmacol. 2017 Apr;85:48-54. doi: 10.1016/j.yrtph.2017.01.004. 
+      Epub 2017 Jan 27.
+
+
+##### PUB RECORD #####
+## 10.1038/s41467-022-34153-4  36307423  PMC9616897  Liang, Chen, et al., 2022  "Liang Q, Chen L, Yang X, Yang H, Liu S, Kou K, Fan L, Zhang Z, Duan Z, Yuan Y, Liang S, Liu Y, Lu X, Zhou G, Zhang M, Kong F, Tian Z. Natural variation of Dt2 determines branching in soybean. Nat Commun. 2022 Oct 28;13(1):6429. doi: 10.1038/s41467-022-34153-4. PMID: 36307423; PMCID: PMC9616897." ##
+
+PMID- 36307423
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221101
+LR  - 20221223
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2022 Oct 28
+TI  - Natural variation of Dt2 determines branching in soybean.
+PG  - 6429
+LID - 10.1038/s41467-022-34153-4 [doi]
+LID - 6429
+AB  - Shoot branching is fundamentally important in determining soybean yield. Here, 
+      through genome-wide association study, we identify one predominant association 
+      locus on chromosome 18 that confers soybean branch number in the natural 
+      population. Further analyses determine that Dt2 is the corresponding gene and the 
+      natural variations in Dt2 result in significant differential transcriptional 
+      levels between the two major haplotypes. Functional characterization reveals that 
+      Dt2 interacts with GmAgl22 and GmSoc1a to physically bind to the promoters of 
+      GmAp1a and GmAp1d and to activate their transcription. Population genetic 
+      investigation show that the genetic differentiation of Dt2 display significant 
+      geographic structure. Our study provides a predominant gene for soybean branch 
+      number and may facilitate the breeding of high-yield soybean varieties.
+CI  - (c) 2022. The Author(s).
+FAU - Liang, Qianjin
+AU  - Liang Q
+AUID- ORCID: 0000-0002-7925-4593
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Chen, Liyu
+AU  - Chen L
+AD  - Guangdong Provincial Key Laboratory of Plant Adaptation and Molecular Design, 
+      Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, China.
+FAU - Yang, Xia
+AU  - Yang X
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Yang, Hui
+AU  - Yang H
+AD  - Guangdong Provincial Key Laboratory of Plant Adaptation and Molecular Design, 
+      Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, China.
+FAU - Liu, Shulin
+AU  - Liu S
+AUID- ORCID: 0000-0002-0154-2966
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Kou, Kun
+AU  - Kou K
+AD  - Guangdong Provincial Key Laboratory of Plant Adaptation and Molecular Design, 
+      Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, China.
+FAU - Fan, Lei
+AU  - Fan L
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Zhang, Zhifang
+AU  - Zhang Z
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Duan, Zongbiao
+AU  - Duan Z
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Yuan, Yaqin
+AU  - Yuan Y
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Liang, Shan
+AU  - Liang S
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Liu, Yucheng
+AU  - Liu Y
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Lu, Xingtong
+AU  - Lu X
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Zhou, Guoan
+AU  - Zhou G
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Zhang, Min
+AU  - Zhang M
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+FAU - Kong, Fanjiang
+AU  - Kong F
+AUID- ORCID: 0000-0001-7138-1478
+AD  - Guangdong Provincial Key Laboratory of Plant Adaptation and Molecular Design, 
+      Innovative Center of Molecular Genetics and Evolution, School of Life Sciences, 
+      Guangzhou University, Guangzhou, China. kongfj@gzhu.edu.cn.
+FAU - Tian, Zhixi
+AU  - Tian Z
+AUID- ORCID: 0000-0001-6051-9670
+AD  - State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of 
+      Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China. 
+      zxtian@genetics.ac.cn.
+AD  - University of Chinese Academy of Sciences, Beijing, China. zxtian@genetics.ac.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221028
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - *Soybeans/genetics
+MH  - *Genome-Wide Association Study
+MH  - Plant Breeding
+MH  - Haplotypes
+MH  - Polymorphism, Single Nucleotide
+PMC - PMC9616897
+COIS- The authors declare no competing interests.
+EDAT- 2022/10/29 06:00
+MHDA- 2022/11/02 06:00
+CRDT- 2022/10/28 23:20
+PHST- 2022/05/26 00:00 [received]
+PHST- 2022/10/16 00:00 [accepted]
+PHST- 2022/10/29 06:00 [pubmed]
+PHST- 2022/11/02 06:00 [medline]
+PHST- 2022/10/28 23:20 [entrez]
+AID - 10.1038/s41467-022-34153-4 [pii]
+AID - 34153 [pii]
+AID - 10.1038/s41467-022-34153-4 [doi]
+PST - epublish
+SO  - Nat Commun. 2022 Oct 28;13(1):6429. doi: 10.1038/s41467-022-34153-4.
+
+
+##### PUB RECORD #####
+## 10.1105/tpc.114.126938  25005919  PMC4145117  Ping, Liu, et al., 2014  "Ping J, Liu Y, Sun L, Zhao M, Li Y, She M, Sui Y, Lin F, Liu X, Tang Z, Nguyen H, Tian Z, Qiu L, Nelson RL, Clemente TE, Specht JE, Ma J. Dt2 is a gain-of-function MADS-domain factor gene that specifies semideterminacy in soybean. Plant Cell. 2014 Jul;26(7):2831-42. doi: 10.1105/tpc.114.126938. Epub 2014 Jul 8. PMID: 25005919; PMCID: PMC4145117." ##
+
+PMID- 25005919
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150714
+LR  - 20211021
+IS  - 1532-298X (Electronic)
+IS  - 1040-4651 (Print)
+IS  - 1040-4651 (Linking)
+VI  - 26
+IP  - 7
+DP  - 2014 Jul
+TI  - Dt2 is a gain-of-function MADS-domain factor gene that specifies semideterminacy 
+      in soybean.
+PG  - 2831-42
+LID - 10.1105/tpc.114.126938 [doi]
+AB  - Similar to Arabidopsis thaliana, the wild soybeans (Glycine soja) and many 
+      cultivars exhibit indeterminate stem growth specified by the shoot identity gene 
+      Dt1, the functional counterpart of Arabidopsis TERMINAL FLOWER1 (TFL1). Mutations 
+      in TFL1 and Dt1 both result in the shoot apical meristem (SAM) switching from 
+      vegetative to reproductive state to initiate terminal flowering and thus produce 
+      determinate stems. A second soybean gene (Dt2) regulating stem growth was 
+      identified, which, in the presence of Dt1, produces semideterminate plants with 
+      terminal racemes similar to those observed in determinate plants. Here, we report 
+      positional cloning and characterization of Dt2, a dominant MADS domain factor 
+      gene classified into the APETALA1/SQUAMOSA (AP1/SQUA) subfamily that includes 
+      floral meristem (FM) identity genes AP1, FUL, and CAL in Arabidopsis. Unlike AP1, 
+      whose expression is limited to FMs in which the expression of TFL1 is repressed, 
+      Dt2 appears to repress the expression of Dt1 in the SAMs to promote early 
+      conversion of the SAMs into reproductive inflorescences. Given that Dt2 is not 
+      the gene most closely related to AP1 and that semideterminacy is rarely seen in 
+      wild soybeans, Dt2 appears to be a recent gain-of-function mutation, which has 
+      modified the genetic pathways determining the stem growth habit in soybean.
+CI  - (c) 2014 American Society of Plant Biologists. All rights reserved.
+FAU - Ping, Jieqing
+AU  - Ping J
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Liu, Yunfeng
+AU  - Liu Y
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Sun, Lianjun
+AU  - Sun L
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Zhao, Meixia
+AU  - Zhao M
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Li, Yinghui
+AU  - Li Y
+AD  - Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing 
+      100081, China.
+FAU - She, Maoyun
+AU  - She M
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Sui, Yi
+AU  - Sui Y
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Lin, Feng
+AU  - Lin F
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Liu, Xiaodong
+AU  - Liu X
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Tang, Zongxiang
+AU  - Tang Z
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Nguyen, Hanh
+AU  - Nguyen H
+AD  - Department of Agronomy and Horticulture/Center for Plant Science Innovation, 
+      University of Nebraska, Lincoln, Nebraska 68583.
+FAU - Tian, Zhixi
+AU  - Tian Z
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907.
+FAU - Qiu, Lijuan
+AU  - Qiu L
+AD  - Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing 
+      100081, China.
+FAU - Nelson, Randall L
+AU  - Nelson RL
+AD  - Soybean/Maize Germplasm, Pathology, and Genetics Research Unit, U.S. Department 
+      of Agriculture-Agricultural Research Service, Department of Crop Sciences, 
+      University of Illinois, Urbana, Illinois 61801.
+FAU - Clemente, Thomas E
+AU  - Clemente TE
+AD  - Department of Agronomy and Horticulture/Center for Plant Science Innovation, 
+      University of Nebraska, Lincoln, Nebraska 68583.
+FAU - Specht, James E
+AU  - Specht JE
+AD  - Department of Agronomy and Horticulture/Center for Plant Science Innovation, 
+      University of Nebraska, Lincoln, Nebraska 68583.
+FAU - Ma, Jianxin
+AU  - Ma J
+AD  - Department of Agronomy, Purdue University, West Lafayette, Indiana 47907 
+      maj@purdue.edu.
+LA  - eng
+SI  - GENBANK/KF908014
+SI  - GENBANK/KF908015
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20140708
+PL  - England
+TA  - Plant Cell
+JT  - The Plant cell
+JID - 9208688
+RN  - 0 (MADS Domain Proteins)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Arabidopsis/genetics
+MH  - Base Sequence
+MH  - Chromosome Mapping
+MH  - Chromosomes, Plant/*genetics
+MH  - Flowers/genetics/growth & development
+MH  - Gene Expression Regulation, Developmental
+MH  - *Gene Expression Regulation, Plant
+MH  - Genetic Linkage
+MH  - Genetic Loci
+MH  - MADS Domain Proteins/*genetics/metabolism
+MH  - Meristem/genetics/growth & development
+MH  - Molecular Sequence Data
+MH  - Mutation
+MH  - Phenotype
+MH  - Phylogeny
+MH  - Plant Proteins/genetics/metabolism
+MH  - Plant Stems/genetics/growth & development
+MH  - Plants, Genetically Modified
+MH  - Sequence Analysis, DNA
+MH  - Soybeans/*genetics/growth & development
+PMC - PMC4145117
+EDAT- 2014/07/10 06:00
+MHDA- 2015/07/15 06:00
+CRDT- 2014/07/10 06:00
+PHST- 2014/07/10 06:00 [entrez]
+PHST- 2014/07/10 06:00 [pubmed]
+PHST- 2015/07/15 06:00 [medline]
+AID - tpc.114.126938 [pii]
+AID - 126938 [pii]
+AID - 10.1105/tpc.114.126938 [doi]
+PST - ppublish
+SO  - Plant Cell. 2014 Jul;26(7):2831-42. doi: 10.1105/tpc.114.126938. Epub 2014 Jul 8.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plantsci.2019.110386  32005391  null  Tian, Liu et al., 2019  "Tian SN, Liu DD, Zhong CL, Xu HY, Yang S, Fang Y, Ran J, Liu JZ. Silencing GmFLS2 enhances the susceptibility of soybean to bacterial pathogen through attenuating the activation of GmMAPK signaling pathway. Plant Sci. 2020 Mar;292:110386. doi: 10.1016/j.plantsci.2019.110386. Epub 2019 Dec 24. PMID: 32005391." ##
+
+PMID- 32005391
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200831
+LR  - 20200930
+IS  - 1873-2259 (Electronic)
+IS  - 0168-9452 (Linking)
+VI  - 292
+DP  - 2020 Mar
+TI  - Silencing GmFLS2 enhances the susceptibility of soybean to bacterial pathogen 
+      through attenuating the activation of GmMAPK signaling pathway.
+PG  - 110386
+LID - S0168-9452(19)31559-6 [pii]
+LID - 10.1016/j.plantsci.2019.110386 [doi]
+AB  - The plasma membrane (PM)-localized receptor-like kinases (RLKs) play important 
+      roles in pathogen defense. One of the first cloned RLKs is the Arabidopsis 
+      receptor kinase FLAGELLIN SENSING 2 (FLS2), which specifically recognizes a 
+      conserved 22 amino acid N-terminal sequence of Pseudomonas syringae pv．tomato 
+      DC3000 (Pst) flagellin protein (flg22). Although extensively studied in 
+      Arabidopsis, the functions of RLKs in crop plants remain largely uninvestigated. 
+      To understand the roles of RLKs in soybean (Glycine max), GmFLS2 was silenced via 
+      virus induced gene silencing (VIGS) mediated by Bean pod mottle virus (BPMV). No 
+      significant morphological differences were observed between GmFLS2-silenced 
+      plants and the vector control plants. However, silencing GmFLS2 significantly 
+      enhanced the susceptibility of the soybean plants to Pseudomonas syringae 
+      pv．glycinea (Psg). Kinase activity assay showed that silencing GmFLS2 
+      significantly reduced the phosphorylation level of GmMPK6 in response to flg22 
+      treatment. However, reduced phosphorylation level of both GmMPK3 and GmMPK6 in 
+      response to Psg infection was observed in GmFLS2-silenced plants, implying that 
+      defense response is likely transduced through activation of the downstream GmMAPK 
+      signaling pathway upon recognition of bacterial pathogen by GmFLS2. The core 
+      peptides of flg22 from Pst and Psg were highly conserved and only 4 amino acid 
+      differences were seen at their N-termini. Interestingly, it appeared that the 
+      Psg-flg22 was more effective in activating soybean MAPKs than activating 
+      Arabidopsis MAPKs, and conversely, Pst-flg22 was more effective in activating 
+      Arabidopsis MAPKs than activating soybean MAPKs, suggesting that the cognate 
+      recognition is more potent than heterologous recognition in activating downstream 
+      signaling. Taken together, our results suggest that the function of FLS2 is 
+      conserved in immunity against bacteria pathogens across different plant species.
+CI  - Copyright (c) 2019. Published by Elsevier B.V.
+FAU - Tian, Sheng-Nan
+AU  - Tian SN
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Liu, Dan-Dan
+AU  - Liu DD
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Zhong, Chen-Li
+AU  - Zhong CL
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Xu, Hui-Yang
+AU  - Xu HY
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Yang, Shuo
+AU  - Yang S
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Fang, Yuan
+AU  - Fang Y
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Ran, Jie
+AU  - Ran J
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China.
+FAU - Liu, Jian-Zhong
+AU  - Liu JZ
+AD  - College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+      Zhejiang Province, 321004, China. Electronic address: jzliu@zjnu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20191224
+PL  - Ireland
+TA  - Plant Sci
+JT  - Plant science : an international journal of experimental plant biology
+JID - 9882015
+RN  - 0 (Plant Proteins)
+RN  - EC 2.7.- (Protein Kinases)
+RN  - Bean pod mottle virus
+SB  - IM
+MH  - Comovirus
+MH  - *Gene Silencing
+MH  - Plant Diseases/*genetics/microbiology
+MH  - Plant Proteins/*genetics/metabolism
+MH  - Protein Kinases/*genetics/metabolism
+MH  - Pseudomonas syringae/*physiology
+MH  - Soybeans/*genetics/*microbiology
+OTO - NOTNLM
+OT  - FLAGELLIN SENSING 2 (FLS2)
+OT  - MAPK
+OT  - Soybean
+OT  - Virus-induced gene silencing (VIGS)
+OT  - flg22
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2020/02/02 06:00
+MHDA- 2020/09/01 06:00
+CRDT- 2020/02/02 06:00
+PHST- 2019/10/13 00:00 [received]
+PHST- 2019/12/16 00:00 [revised]
+PHST- 2019/12/21 00:00 [accepted]
+PHST- 2020/02/02 06:00 [entrez]
+PHST- 2020/02/02 06:00 [pubmed]
+PHST- 2020/09/01 06:00 [medline]
+AID - S0168-9452(19)31559-6 [pii]
+AID - 10.1016/j.plantsci.2019.110386 [doi]
+PST - ppublish
+SO  - Plant Sci. 2020 Mar;292:110386. doi: 10.1016/j.plantsci.2019.110386. Epub 2019 
+      Dec 24.
+
+
+##### PUB RECORD #####
+## 10.1104/pp.114.242495  24872380  PMC4081336  Wang, Shine et al., 2014  "Wang J, Shine MB, Gao QM, Navarre D, Jiang W, Liu C, Chen Q, Hu G, Kachroo A. Enhanced Disease Susceptibility1 Mediates Pathogen Resistance and Virulence Function of a Bacterial Effector in Soybean. Plant Physiol. 2014 Jul;165(3):1269-1284. doi: 10.1104/pp.114.242495. Epub 2014 May 28. PMID: 24872380; PMCID: PMC4081336." ##
+
+PMID- 24872380
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220331
+IS  - 1532-2548 (Electronic)
+IS  - 0032-0889 (Print)
+IS  - 0032-0889 (Linking)
+VI  - 165
+IP  - 3
+DP  - 2014 Jul
+TI  - Enhanced Disease Susceptibility1 Mediates Pathogen Resistance and Virulence 
+      Function of a Bacterial Effector in Soybean.
+PG  - 1269-1284
+AB  - Enhanced disease susceptibility1 (EDS1) and phytoalexin deficient4 (PAD4) are 
+      well-known regulators of both basal and resistance (R) protein-mediated plant 
+      defense. We identified two EDS1-like (GmEDS1a/GmEDS1b) proteins and one PAD4-like 
+      (GmPAD4) protein that are required for resistance signaling in soybean (Glycine 
+      max). Consistent with their significant structural conservation to Arabidopsis 
+      (Arabidopsis thaliana) counterparts, constitutive expression of GmEDS1 or GmPAD4 
+      complemented the pathogen resistance defects of Arabidopsis eds1 and pad4 
+      mutants, respectively. Interestingly, however, the GmEDS1 and GmPAD4 did not 
+      complement pathogen-inducible salicylic acid accumulation in the eds1/pad4 
+      mutants. Furthermore, the GmEDS1a/GmEDS1b proteins were unable to complement the 
+      turnip crinkle virus coat protein-mediated activation of the Arabidopsis R 
+      protein Hypersensitive reaction to Turnip crinkle virus (HRT), even though both 
+      interacted with HRT. Silencing GmEDS1a/GmEDS1b or GmPAD4 reduced basal and 
+      pathogen-inducible salicylic acid accumulation and enhanced soybean 
+      susceptibility to virulent pathogens. The GmEDS1a/GmEDS1b and GmPAD4 genes were 
+      also required for Resistance to Pseudomonas syringae pv glycinea2 (Rpg2)-mediated 
+      resistance to Pseudomonas syringae. Notably, the GmEDS1a/GmEDS1b proteins 
+      interacted with the cognate bacterial effector AvrA1 and were required for its 
+      virulence function in rpg2 plants. Together, these results show that despite 
+      significant structural similarities, conserved defense signaling components from 
+      diverse plants can differ in their functionalities. In addition, we demonstrate a 
+      role for GmEDS1 in regulating the virulence function of a bacterial effector.
+CI  - (c) 2014 American Society of Plant Biologists. All Rights Reserved.
+FAU - Wang, Jialin
+AU  - Wang J
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Shine, M B
+AU  - Shine MB
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Gao, Qing-Ming
+AU  - Gao QM
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Navarre, Duroy
+AU  - Navarre D
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Jiang, Wei
+AU  - Jiang W
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Liu, Chunyan
+AU  - Liu C
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Chen, Qingshan
+AU  - Chen Q
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.).
+FAU - Hu, Guohua
+AU  - Hu G
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.) apkach2@uky.edu 
+      hugh757@vip.163.com.
+FAU - Kachroo, Aardra
+AU  - Kachroo A
+AD  - College of Agriculture, Northeast Agricultural University, Harbin 150030, China 
+      (J.W., W.J., Q.C., G.H.);Department of Plant Pathology, University of Kentucky, 
+      Lexington, Kentucky 40546 (J.W., M.B.S., Q.-M.G., A.K.);United States Department 
+      of Agriculture-Agricultural Research Service, Washington State University, 
+      Prosser, Washington 99350 (D.N.); andLand Reclamation Research and Breeding 
+      Centre of Heilongjiang, Harbin 150090, China (C.L., G.H.) apkach2@uky.edu 
+      hugh757@vip.163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20140528
+PL  - United States
+TA  - Plant Physiol
+JT  - Plant physiology
+JID - 0401224
+PMC - PMC4081336
+EDAT- 2014/05/30 06:00
+MHDA- 2014/05/30 06:01
+CRDT- 2014/05/30 06:00
+PHST- 2014/05/30 06:00 [entrez]
+PHST- 2014/05/30 06:00 [pubmed]
+PHST- 2014/05/30 06:01 [medline]
+AID - pp.114.242495 [pii]
+AID - 242495 [pii]
+AID - 10.1104/pp.114.242495 [doi]
+PST - ppublish
+SO  - Plant Physiol. 2014 Jul;165(3):1269-1284. doi: 10.1104/pp.114.242495. Epub 2014 
+      May 28.
+
+
+##### PUB RECORD #####
+## 10.1016/j.pbi.2005.05.010  15939664  null  Weirmer, Feys et al., 2005  "Wiermer M, Feys BJ, Parker JE. Plant immunity: the EDS1 regulatory node. Curr Opin Plant Biol. 2005 Aug;8(4):383-9. doi: 10.1016/j.pbi.2005.05.010. PMID: 15939664." ##
+
+PMID- 15939664
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050817
+LR  - 20220317
+IS  - 1369-5266 (Print)
+IS  - 1369-5266 (Linking)
+VI  - 8
+IP  - 4
+DP  - 2005 Aug
+TI  - Plant immunity: the EDS1 regulatory node.
+PG  - 383-9
+AB  - ENHANCED DISEASE SUSCEPTIBILITY 1 (EDS1) and its interacting partner, PHYTOALEXIN 
+      DEFICIENT 4 (PAD4), constitute a regulatory hub that is essential for basal 
+      resistance to invasive biotrophic and hemi-biotrophic pathogens. EDS1 and PAD4 
+      are also recruited by Toll-Interleukin-1 receptor (TIR)-type nucleotide 
+      binding-leucine rich repeat (NB-LRR) proteins to signal isolate-specific pathogen 
+      recognition. Recent work points to a fundamental role of EDS1 and PAD4 in 
+      transducing redox signals in response to certain biotic and abiotic stresses. 
+      These intracellular proteins are important activators of salicylic acid (SA) 
+      signaling and also mediate antagonism between the jasmonic acid (JA) and ethylene 
+      (ET) defense response pathways. EDS1 forms several molecularly and spatially 
+      distinct complexes with PAD4 and a newly discovered in vivo signaling partner, 
+      SENESCENCE ASSOCIATED GENE 101 (SAG101). Together, EDS1, PAD4 and SAG101 provide 
+      a major barrier to infection by both host-adapted and non-host pathogens.
+FAU - Wiermer, Marcel
+AU  - Wiermer M
+AD  - Max Planck Institute for Plant Breeding Research, Department of Plant-Microbe 
+      Interactions, Carl-von-Linne-Weg 10, D-50829 Cologne, Germany.
+FAU - Feys, Bart J
+AU  - Feys BJ
+FAU - Parker, Jane E
+AU  - Parker JE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - Curr Opin Plant Biol
+JT  - Current opinion in plant biology
+JID - 100883395
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (EDS1 protein, Arabidopsis)
+RN  - EC 3.1.1.- (Carboxylic Ester Hydrolases)
+RN  - EC 3.1.1.- (PAD4 protein, Arabidopsis)
+SB  - IM
+MH  - Arabidopsis/*immunology/metabolism
+MH  - Arabidopsis Proteins/metabolism/*physiology
+MH  - Carboxylic Ester Hydrolases/metabolism/*physiology
+MH  - DNA-Binding Proteins/metabolism/*physiology
+MH  - Gene Expression Regulation, Plant
+MH  - Oxidative Stress
+MH  - *Plant Diseases
+MH  - Signal Transduction
+RF  - 45
+EDAT- 2005/06/09 09:00
+MHDA- 2005/08/18 09:00
+CRDT- 2005/06/09 09:00
+PHST- 2005/04/18 00:00 [received]
+PHST- 2005/05/19 00:00 [accepted]
+PHST- 2005/06/09 09:00 [pubmed]
+PHST- 2005/08/18 09:00 [medline]
+PHST- 2005/06/09 09:00 [entrez]
+AID - S1369-5266(05)00071-3 [pii]
+AID - 10.1016/j.pbi.2005.05.010 [doi]
+PST - ppublish
+SO  - Curr Opin Plant Biol. 2005 Aug;8(4):383-9. doi: 10.1016/j.pbi.2005.05.010.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2021.629069  33841461  PMC8029582  Yang, Zhang et al., 2021  "Yang X, Zhang Y, Shan J, Sun J, Li D, Zhang X, Li W, Zhao L. <i>GmIDD</i> Is Induced by Short Days in Soybean and May Accelerate Flowering When Overexpressed in <i>Arabidopsis</i> via Inhibiting <i>AGAMOUS-LIKE 18</i>. Front Plant Sci. 2021 Feb 26;12:629069. doi: 10.3389/fpls.2021.629069. PMID: 33841461; PMCID: PMC8029582." ##
+
+PMID- 33841461
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210413
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 12
+DP  - 2021
+TI  - GmIDD Is Induced by Short Days in Soybean and May Accelerate Flowering When 
+      Overexpressed in Arabidopsis via Inhibiting AGAMOUS-LIKE 18.
+PG  - 629069
+LID - 10.3389/fpls.2021.629069 [doi]
+LID - 629069
+AB  - Photoperiod is one of the main climatic factors that determine flowering time and 
+      yield. Some members of the INDETERMINATE DOMAIN (IDD) transcription factor family 
+      have been reported to be involved in regulation of flowering time in Arabidopsis, 
+      maize, and rice. In this study, the domain analysis showed that GmIDD had a 
+      typical ID domain and was a member of the soybean IDD transcription factor 
+      family. Quantitative real-time PCR analysis showed that GmIDD was induced by 
+      short day conditions in leaves and regulated by circadian clock. Under long day 
+      conditions, transgenic Arabidopsis overexpressing GmIDD flowered earlier than 
+      wild-type, and idd mutants flowered later, while the overexpression of GmIDD 
+      rescued the late-flowering phenotype of idd mutants. Chromatin 
+      immunoprecipitation sequencing assays of GmIDD binding sites in 
+      GmIDD-overexpression (GmIDD-ox) Arabidopsis further identified potential direct 
+      targets, including a transcription factor, AGAMOUS-like 18 (AGL18). GmIDD might 
+      inhibit the transcriptional activity of flower repressor AGL18 by binding to the 
+      TTTTGGTCC motif of AGL18 promoter. Furthermore, the results also showed that 
+      GmIDD overexpression increased the transcription levels of flowering time-related 
+      genes FLOWERING LOCUS T (FT), SUPPRESSOR OF OVEREXPRESSION OF CONSTANS1 (SOC1), 
+      LEAFY (LFY) and APETALA1 (AP1) in Arabidopsis. Taken together, GmIDD appeared to 
+      inhibit the transcriptional activity of AGL18 and induced the expression of FT 
+      gene to promote Arabidopsis flowering.
+CI  - Copyright (c) 2021 Yang, Zhang, Shan, Sun, Li, Zhang, Li and Zhao.
+FAU - Yang, Xue
+AU  - Yang X
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Zhang, Yuntong
+AU  - Zhang Y
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Shan, Jinming
+AU  - Shan J
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Sun, Jingzhe
+AU  - Sun J
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Li, Dongmei
+AU  - Li D
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Zhang, Xiaoming
+AU  - Zhang X
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Li, Wenbin
+AU  - Li W
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+FAU - Zhao, Lin
+AU  - Zhao L
+AD  - Key Laboratory of Soybean Biology of Ministry of Education, China (Key Laboratory 
+      of Biology and Genetics and Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20210226
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC8029582
+OTO - NOTNLM
+OT  - AGL18
+OT  - GmIDD
+OT  - flowering
+OT  - photoperiod
+OT  - soybean
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/04/13 06:00
+MHDA- 2021/04/13 06:01
+CRDT- 2021/04/12 06:17
+PHST- 2020/12/07 00:00 [received]
+PHST- 2021/01/22 00:00 [accepted]
+PHST- 2021/04/12 06:17 [entrez]
+PHST- 2021/04/13 06:00 [pubmed]
+PHST- 2021/04/13 06:01 [medline]
+AID - 10.3389/fpls.2021.629069 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2021 Feb 26;12:629069. doi: 10.3389/fpls.2021.629069. 
+      eCollection 2021.
+
+
+##### PUB RECORD #####
+## 10.1534/g3.114.015255  25452420  PMC4291463  Campbell, Mani et al., 2014  "Campbell BW, Mani D, Curtin SJ, Slattery RA, Michno JM, Ort DR, Schaus PJ, Palmer RG, Orf JH, Stupar RM. Identical substitutions in magnesium chelatase paralogs result in chlorophyll-deficient soybean mutants. G3 (Bethesda). 2014 Dec 1;5(1):123-31. doi: 10.1534/g3.114.015255. PMID: 25452420; PMCID: PMC4291463." ##
+
+PMID- 25452420
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150917
+LR  - 20220408
+IS  - 2160-1836 (Electronic)
+IS  - 2160-1836 (Linking)
+VI  - 5
+IP  - 1
+DP  - 2014 Dec 1
+TI  - Identical substitutions in magnesium chelatase paralogs result in 
+      chlorophyll-deficient soybean mutants.
+PG  - 123-31
+LID - 10.1534/g3.114.015255 [doi]
+AB  - The soybean [Glycine max (L.) Merr.] chlorophyll-deficient line MinnGold is a 
+      spontaneous mutant characterized by yellow foliage. Map-based cloning and 
+      transgenic complementation revealed that the mutant phenotype is caused by a 
+      nonsynonymous nucleotide substitution in the third exon of a Mg-chelatase subunit 
+      gene (ChlI1a) on chromosome 13. This gene was selected as a candidate for a 
+      different yellow foliage mutant, T219H (Y11y11), that had been previously mapped 
+      to chromosome 13. Although the phenotypes of MinnGold and T219H are clearly 
+      distinct, sequencing of ChlI1a in T219H identified a different nonsynonymous 
+      mutation in the third exon, only six base pairs from the MinnGold mutation. This 
+      information, along with previously published allelic tests, were used to identify 
+      and clone a third yellow foliage mutation, CD-5, which was previously mapped to 
+      chromosome 15. This mutation was identified in the ChlI1b gene, a paralog of 
+      ChlI1a. Sequencing of the ChlI1b allele in CD-5 identified a nonsynonymous 
+      substitution in the third exon that confers an identical amino acid change as the 
+      T219H substitution at ChlI1a. Protein sequence alignments of the two Mg-chelatase 
+      subunits indicated that the sites of amino acid modification in MinnGold, T219H, 
+      and CD-5 are highly conserved among photosynthetic species. These results suggest 
+      that amino acid alterations in this critical domain may create competitive 
+      inhibitory interactions between the mutant and wild-type ChlI1a and ChlI1b 
+      proteins.
+CI  - Copyright (c) 2015 Campbell et al.
+FAU - Campbell, Benjamin W
+AU  - Campbell BW
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Mani, Dhananjay
+AU  - Mani D
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Curtin, Shaun J
+AU  - Curtin SJ
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Slattery, Rebecca A
+AU  - Slattery RA
+AD  - Department of Plant Biology, University of Illinois, Urbana, Illinois 61801.
+FAU - Michno, Jean-Michel
+AU  - Michno JM
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Ort, Donald R
+AU  - Ort DR
+AD  - Department of Plant Biology, University of Illinois, Urbana, Illinois 61801 US 
+      Department of Agriculture/Agricultural Research Service, Global Change and 
+      Photosynthesis Research Unit, Urbana, Illinois 61801.
+FAU - Schaus, Philip J
+AU  - Schaus PJ
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Palmer, Reid G
+AU  - Palmer RG
+AD  - Department of Agronomy, Iowa State University, Ames, Iowa 50011.
+FAU - Orf, James H
+AU  - Orf JH
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108.
+FAU - Stupar, Robert M
+AU  - Stupar RM
+AD  - Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, 
+      Minnesota 55108 rstupar@umn.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141201
+PL  - England
+TA  - G3 (Bethesda)
+JT  - G3 (Bethesda, Md.)
+JID - 101566598
+RN  - 0 (Protein Subunits)
+RN  - 1406-65-1 (Chlorophyll)
+RN  - EC 4.- (Lyases)
+RN  - EC 4.99.1- (magnesium chelatase)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Chlorophyll/*deficiency
+MH  - Lyases/*genetics
+MH  - Mutation
+MH  - Plant Leaves
+MH  - Protein Subunits/genetics
+MH  - Soybeans/*genetics
+PMC - PMC4291463
+OTO - NOTNLM
+OT  - chlorophyll
+OT  - duplication
+OT  - paralog
+OT  - photosynthesis
+OT  - soybean
+EDAT- 2014/12/03 06:00
+MHDA- 2015/09/18 06:00
+CRDT- 2014/12/03 06:00
+PHST- 2014/12/03 06:00 [entrez]
+PHST- 2014/12/03 06:00 [pubmed]
+PHST- 2015/09/18 06:00 [medline]
+AID - g3.114.015255 [pii]
+AID - GGG_015255 [pii]
+AID - 10.1534/g3.114.015255 [doi]
+PST - epublish
+SO  - G3 (Bethesda). 2014 Dec 1;5(1):123-31. doi: 10.1534/g3.114.015255.
+
+
+##### PUB RECORD #####
+## 10.1186/1471-2229-14-154  24893844  PMC4074861  Zhou, He et al., 2014  "Zhou L, He H, Liu R, Han Q, Shou H, Liu B. Overexpression of GmAKT2 potassium channel enhances resistance to soybean mosaic virus. BMC Plant Biol. 2014 Jun 3;14:154. doi: 10.1186/1471-2229-14-154. PMID: 24893844; PMCID: PMC4074861." ##
+
+PMID- 24893844
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150116
+LR  - 20220331
+IS  - 1471-2229 (Electronic)
+IS  - 1471-2229 (Linking)
+VI  - 14
+DP  - 2014 Jun 3
+TI  - Overexpression of GmAKT2 potassium channel enhances resistance to soybean mosaic 
+      virus.
+PG  - 154
+LID - 10.1186/1471-2229-14-154 [doi]
+AB  - BACKGROUND: Soybean mosaic virus (SMV) is the most prevalent viral disease in 
+      many soybean production areas. Due to a large number of SMV resistant loci and 
+      alleles, SMV strains and the rapid evolution in avirulence/effector genes, 
+      traditional breeding for SMV resistance is complex. Genetic engineering is an 
+      effective alternative method for improving SMV resistance in soybean. Potassium 
+      (K+) is the most abundant inorganic solute in plant cells, and is involved in 
+      plant responses to abiotic and biotic stresses. Studies have shown that altering 
+      the level of K+ status can reduce the spread of the viral diseases. Thus K+ 
+      transporters are putative candidates to target for soybean virus resistance. 
+      RESULTS: The addition of K+ fertilizer significantly reduced SMV incidence. 
+      Analysis of K+ channel gene expression indicated that GmAKT2, the ortholog of 
+      Arabidopsis K+ weak channel encoding gene AKT2, was significantly induced by SMV 
+      inoculation in the SMV highly-resistant genotype Rsmv1, but not in the 
+      susceptible genotype Ssmv1. Transgenic soybean plants overexpressing GmAKT2 were 
+      produced and verified by Southern blot and RT-PCR analysis. Analysis of K+ 
+      concentrations on different leaves of both the transgenic and the wildtype 
+      (Williams 82) plants revealed that overexpression of GmAKT2 significantly 
+      increased K+ concentrations in young leaves of plants. In contrast, K+ 
+      concentrations in the old leaves of the GmAKT2-Oe plants were significantly lower 
+      than those in WT plants. These results indicated that GmAKT2 acted as a K+ 
+      transporter and affected the distribution of K+ in soybean plants. Starting from 
+      14 days after inoculation (DAI) of SMV G7, severe mosaic symptoms were observed 
+      on the WT leaves. In contrast, the GmAKT2-Oe plants showed no symptom of SMV 
+      infection. At 14 and 28 DAI, the amount of SMV RNA in WT plants increased 200- 
+      and 260- fold relative to GmAKT2-Oe plants at each time point. Thus, SMV 
+      development was significantly retarded in GmAKT2-overexpressing transgenic 
+      soybean plants. CONCLUSIONS: Overexpression of GmAKT2 significantly enhanced SMV 
+      resistance in transgenic soybean. Thus, alteration of K+ transporter expression 
+      is a novel molecular approach for enhancing SMV resistance in soybean.
+FAU - Zhou, Lian
+AU  - Zhou L
+FAU - He, Hongli
+AU  - He H
+FAU - Liu, Ruifang
+AU  - Liu R
+FAU - Han, Qiang
+AU  - Han Q
+FAU - Shou, Huixia
+AU  - Shou H
+AD  - State Key Laboratory of Plant Physiology and Biochemistry, College of Life 
+      Sciences, Zhejiang University, Hangzhou 310058, P, R, China. huixia@zju.edu.cn.
+FAU - Liu, Bao
+AU  - Liu B
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140603
+PL  - England
+TA  - BMC Plant Biol
+JT  - BMC plant biology
+JID - 100967807
+RN  - 0 (Plant Proteins)
+RN  - 0 (Potassium Channels)
+RN  - RWP5GA015D (Potassium)
+SB  - IM
+MH  - *Disease Resistance/drug effects/genetics
+MH  - Gene Expression Regulation, Plant/drug effects
+MH  - Genotype
+MH  - Mosaic Viruses/drug effects/*physiology
+MH  - Plant Diseases/genetics/*virology
+MH  - Plant Leaves/drug effects/metabolism
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Plants, Genetically Modified
+MH  - Potassium/metabolism/pharmacology
+MH  - Potassium Channels/genetics/*metabolism
+MH  - Reproducibility of Results
+MH  - Soybeans/drug effects/genetics/growth & development/*virology
+PMC - PMC4074861
+EDAT- 2014/06/05 06:00
+MHDA- 2015/01/17 06:00
+CRDT- 2014/06/05 06:00
+PHST- 2014/02/25 00:00 [received]
+PHST- 2014/05/27 00:00 [accepted]
+PHST- 2014/06/05 06:00 [entrez]
+PHST- 2014/06/05 06:00 [pubmed]
+PHST- 2015/01/17 06:00 [medline]
+AID - 1471-2229-14-154 [pii]
+AID - 10.1186/1471-2229-14-154 [doi]
+PST - epublish
+SO  - BMC Plant Biol. 2014 Jun 3;14:154. doi: 10.1186/1471-2229-14-154.
+
+
+##### PUB RECORD #####
+## 10.1007/s11103-013-0062-z  23636865  null  Zhao, Wang et al., 2013  "Zhao L, Wang Z, Lu Q, Wang P, Li Y, Lv Q, Song X, Li D, Gu Y, Liu L, Li W. Overexpression of a GmGBP1 ortholog of soybean enhances the responses to flowering, stem elongation and heat tolerance in transgenic tobaccos. Plant Mol Biol. 2013 Jun;82(3):279-99. doi: 10.1007/s11103-013-0062-z. Epub 2013 May 1. PMID: 23636865." ##
+
+PMID- 23636865
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130821
+LR  - 20211021
+IS  - 1573-5028 (Electronic)
+IS  - 0167-4412 (Linking)
+VI  - 82
+IP  - 3
+DP  - 2013 Jun
+TI  - Overexpression of a GmGBP1 ortholog of soybean enhances the responses to 
+      flowering, stem elongation and heat tolerance in transgenic tobaccos.
+PG  - 279-99
+LID - 10.1007/s11103-013-0062-z [doi]
+AB  - Soybean is a typical short-day crop, and its photoperiodic and gibberellin (GA) 
+      responses for the control of flowering are critical to seed yield. The GmGBP1 
+      mRNA abundance in leaves was dramatically increased in short-days (SDs) compared 
+      to that in long-days in which it was consistently low at all time points from 0 
+      to 6 days (days after transfer to SDs). GmGBP1 was highly expressed in leaves and 
+      exhibited a circadian rhythm in SDs. Ectopic overexpression of GmGBP1 in tobaccos 
+      caused photoperiod-insensitive early flowering by increasing NtCO mRNA levels. 
+      GmGBP1 mRNA abundance was also increased by GAs. Transgenic GmGBP1 overexpressing 
+      (-ox) tobacco plants exhibited increased GA signaling-related phenotypes 
+      including flowering and plant height promotion. Furthermore, the hypocotyl 
+      elongation, early-flowering and longer internode phenotypes were largely 
+      accelerated by GA3 application in the GmGBP1-ox tobacco seedlings. Being 
+      consistent, overexpression of GmGBP1 resulted in significantly enhanced GA 
+      signaling (evidenced suppressed expression of NtGA20ox) both with and without GA 
+      treatments. GmGBP1 was a positive regulator of both photoperiod and GA-mediated 
+      flowering responses. In addition, GmGBP1-ox tobaccos were hypersensitive to ABA, 
+      salt and osmotic stresses during seed germination. Heat-inducible GmGBP1 also 
+      enhanced thermotolerance in transgenic GmGBP1-ox tobaccos during seed germination 
+      and growth. GmGBP1 protein was localized in the nucleus. Analyses of a series of 
+      5'-deletions of the GmGBP1 promoter suggested that several cis-acting elements, 
+      including P-BOX, TCA-motif and three HSE elements necessary to induce gene 
+      expression by GA, salicic acid and heat stress, were specifically localized in 
+      the GmGBP1 promoter region.
+FAU - Zhao, Lin
+AU  - Zhao L
+AD  - Key Laboratory of Soybean Biology of Chinese Education Ministry (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin 150030, China. zlhappy1981@yahoo.com.cn
+FAU - Wang, Zhixin
+AU  - Wang Z
+FAU - Lu, Qingyao
+AU  - Lu Q
+FAU - Wang, Pengpeng
+AU  - Wang P
+FAU - Li, Yongguang
+AU  - Li Y
+FAU - Lv, Qingxue
+AU  - Lv Q
+FAU - Song, Xianping
+AU  - Song X
+FAU - Li, Dongmei
+AU  - Li D
+FAU - Gu, Yuejiao
+AU  - Gu Y
+FAU - Liu, Lixue
+AU  - Liu L
+FAU - Li, Wenbin
+AU  - Li W
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130501
+PL  - Netherlands
+TA  - Plant Mol Biol
+JT  - Plant molecular biology
+JID - 9106343
+RN  - 0 (Gibberellins)
+RN  - 0 (Plant Growth Regulators)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Soybean Proteins)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+RN  - 451W47IQ8X (Sodium Chloride)
+SB  - IM
+MH  - Adaptation, Physiological/genetics
+MH  - Arabidopsis/genetics/growth & development
+MH  - Base Sequence
+MH  - Cell Nucleus
+MH  - Flowers/*genetics/growth & development
+MH  - Gene Expression Regulation, Developmental/drug effects/radiation effects
+MH  - Gene Expression Regulation, Plant/drug effects/radiation effects
+MH  - Gibberellins/pharmacology
+MH  - Green Fluorescent Proteins/genetics/metabolism
+MH  - *Hot Temperature
+MH  - Microscopy, Electron, Scanning
+MH  - Microscopy, Fluorescence
+MH  - Molecular Sequence Data
+MH  - Photoperiod
+MH  - Plant Growth Regulators/pharmacology
+MH  - Plant Proteins/*genetics/metabolism
+MH  - Plant Stems/*genetics/growth & development/ultrastructure
+MH  - Plants, Genetically Modified
+MH  - Promoter Regions, Genetic/genetics
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Sodium Chloride/pharmacology
+MH  - Soybean Proteins/*genetics/metabolism
+MH  - Soybeans/*genetics/metabolism
+MH  - Tobacco/*genetics/growth & development
+EDAT- 2013/05/03 06:00
+MHDA- 2013/08/22 06:00
+CRDT- 2013/05/03 06:00
+PHST- 2013/01/16 00:00 [received]
+PHST- 2013/04/14 00:00 [accepted]
+PHST- 2013/05/03 06:00 [entrez]
+PHST- 2013/05/03 06:00 [pubmed]
+PHST- 2013/08/22 06:00 [medline]
+AID - 10.1007/s11103-013-0062-z [doi]
+PST - ppublish
+SO  - Plant Mol Biol. 2013 Jun;82(3):279-99. doi: 10.1007/s11103-013-0062-z. Epub 2013 
+      May 1.
+
+
+##### PUB RECORD #####
+## 10.1093/pcp/pcy215  30418611  null  Li, Liu et al., 2019  "Li MW, Liu W, Lam HM, Gendron JM. Characterization of Two Growth Period QTLs Reveals Modification of PRR3 Genes During Soybean Domestication. Plant Cell Physiol. 2019 Feb 1;60(2):407-420. doi: 10.1093/pcp/pcy215. PMID: 30418611." ##
+
+PMID- 30418611
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190820
+LR  - 20190820
+IS  - 1471-9053 (Electronic)
+IS  - 0032-0781 (Linking)
+VI  - 60
+IP  - 2
+DP  - 2019 Feb 1
+TI  - Characterization of Two Growth Period QTLs Reveals Modification of PRR3 Genes 
+      During Soybean Domestication.
+PG  - 407-420
+LID - 10.1093/pcp/pcy215 [doi]
+AB  - Soybean yield is largely dependent on growth period. We characterized two growth 
+      period quantitative trait loci, Gp11 and Gp12, from a recombinant inbred 
+      population generated from a cross of wild (W05) and cultivated (C08) soybean. 
+      Lines carrying Gp11C08 and Gp12C08 tend to have a shorter growth period and 
+      higher expression of GmFT2a and GmFT5a. Furthermore, multiple interval mapping 
+      suggests that Gp11 and Gp12 may be genetically interacting with the E2 locus. 
+      This is consistent with the observation that GmFT2a and GmFT5a are activated by 
+      Gp11C08 and Gp12C08 at ZT4 in the recessive e2 but not the dominant E2 
+      background. Gp11 and Gp12 are duplicated genomic regions each containing a copy 
+      of the soybean ortholog of PSEUDO RESPONSE REGULATOR 3 (GmPRR3A and GmPRR3B). 
+      GmPRR3A and GmPRR3B from C08 carry mutations that delete the CCT domain in the 
+      encoded proteins. These mutations were selected during soybean improvement and 
+      they alter the subcellular localization of GmPRR3A and GmPRR3B. Furthermore, 
+      GmPRR3A and GmPRR3B can interact with TOPLESS-related transcription factors, 
+      suggesting that they function in a transcription repressor complex. This study 
+      addresses previously unexplored components of the genetic network that probably 
+      controls the growth period of soybean and puts these loci into context with the 
+      well-characterized growth period-regulating E loci.
+CI  - i inverted question mark(1/2) The Author(s) 2018. Published by Oxford University Press on behalf of 
+      Japanese Society of Plant Physiologists. All rights reserved. For permissions, 
+      please email: journals.permissions@oup.com.
+FAU - Li, Man-Wah
+AU  - Li MW
+AD  - Department of Molecular, Cellular and Developmental Biology, Yale University, New 
+      Haven, CT, USA.
+FAU - Liu, Wei
+AU  - Liu W
+AD  - Department of Molecular, Cellular and Developmental Biology, Yale University, New 
+      Haven, CT, USA.
+FAU - Lam, Hon-Ming
+AU  - Lam HM
+AD  - Centre for Soybean Research of the State Key Laboratory of Agrobiotechnology and 
+      School of Life Sciences, The Chinese University of Hong Kong, Shatin, New 
+      Territories, Hong Kong SAR.
+FAU - Gendron, Joshua M
+AU  - Gendron JM
+AD  - Department of Molecular, Cellular and Developmental Biology, Yale University, New 
+      Haven, CT, USA.
+LA  - eng
+PT  - Journal Article
+PL  - Japan
+TA  - Plant Cell Physiol
+JT  - Plant & cell physiology
+JID - 9430925
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+MH  - *Domestication
+MH  - Gene Expression Regulation, Plant
+MH  - Genes, Plant/*genetics/physiology
+MH  - Phylogeny
+MH  - Plant Proteins/*genetics/physiology
+MH  - Quantitative Trait Loci/*genetics
+MH  - Soybeans/*genetics/growth & development
+MH  - Transcription Factors/*genetics/physiology
+OTO - NOTNLM
+OT  - Domestication
+OT  - Flowering
+OT  - Growth period
+OT  - Pseudo-response regulator
+OT  - Soybean
+EDAT- 2018/11/13 06:00
+MHDA- 2019/08/21 06:00
+CRDT- 2018/11/13 06:00
+PHST- 2018/06/19 00:00 [received]
+PHST- 2018/11/01 00:00 [accepted]
+PHST- 2018/11/13 06:00 [pubmed]
+PHST- 2019/08/21 06:00 [medline]
+PHST- 2018/11/13 06:00 [entrez]
+AID - 5168116 [pii]
+AID - 10.1093/pcp/pcy215 [doi]
+PST - ppublish
+SO  - Plant Cell Physiol. 2019 Feb 1;60(2):407-420. doi: 10.1093/pcp/pcy215.
+
+
+##### PUB RECORD #####
+## 10.1111/tpj.15414  34245624  null  Wang, Li et al., 2021  "Wang X, Li MW, Wong FL, Luk CY, Chung CY, Yung WS, Wang Z, Xie M, Song S, Chung G, Chan TF, Lam HM. Increased copy number of gibberellin 2-oxidase 8 genes reduced trailing growth and shoot length during soybean domestication. Plant J. 2021 Sep;107(6):1739-1755. doi: 10.1111/tpj.15414. Epub 2021 Jul 29. PMID: 34245624." ##
+
+PMID- 34245624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220126
+LR  - 20220126
+IS  - 1365-313X (Electronic)
+IS  - 0960-7412 (Linking)
+VI  - 107
+IP  - 6
+DP  - 2021 Sep
+TI  - Increased copy number of gibberellin 2-oxidase 8 genes reduced trailing growth 
+      and shoot length during soybean domestication.
+PG  - 1739-1755
+LID - 10.1111/tpj.15414 [doi]
+AB  - Copy number variations (CNVs) play important roles in crop domestication. 
+      However, there is only very limited information on the involvement of CNVs in 
+      soybean domestication. Trailing growth and long shoots are soybean adaptations 
+      for natural habitats but cause lodging that hampers yield in cultivation. 
+      Previous studies have focused on Dt1/2 affecting the indeterminate/determinate 
+      growth habit, whereas the possible role of the gibberellin pathway remained 
+      unclear. In the present study, quantitative trait locus (QTL) mapping of a 
+      recombinant inbred population of 460 lines revealed a 
+      trailing-growth-and-shoot-length QTL. A CNV region within this QTL was 
+      identified, featuring the apical bud-expressed gibberellin 2-oxidase 8A/B, the 
+      copy numbers of which were positively correlated with expression levels and 
+      negatively with trailing growth and shoot length, and their effects were 
+      demonstrated by transgenic soybean and Arabidopsis thaliana. Based on the 
+      fixation index, this CNV region underwent intense selection during the initial 
+      domestication process.
+CI  - (c) 2021 Society for Experimental Biology and John Wiley & Sons Ltd.
+FAU - Wang, Xin
+AU  - Wang X
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Li, Man-Wah
+AU  - Li MW
+AUID- ORCID: 0000-0003-4859-5683
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Wong, Fuk-Ling
+AU  - Wong FL
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Luk, Ching-Yee
+AU  - Luk CY
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Chung, Claire Yik-Lok
+AU  - Chung CY
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Yung, Wai-Shing
+AU  - Yung WS
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Wang, Zhili
+AU  - Wang Z
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Xie, Min
+AU  - Xie M
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+FAU - Song, Shikui
+AU  - Song S
+AD  - FAFU-UCR Joint Center for Horticultural Biology and Metabolomics, Haixia 
+      Institute of Science and Technology, Fujian Agriculture and Forestry University, 
+      Fuzhou, China.
+FAU - Chung, Gyuhwa
+AU  - Chung G
+AD  - Department of Biotechnology, Chonnam National University, Yeosu, South Korea.
+FAU - Chan, Ting-Fung
+AU  - Chan TF
+AUID- ORCID: 0000-0002-0489-3884
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+AD  - Shenzhen Research Institute, The Chinese University of Hong Kong, Shenzhen, 
+      518000, China.
+FAU - Lam, Hon-Ming
+AU  - Lam HM
+AUID- ORCID: 0000-0002-6673-8740
+AD  - School of Life Sciences and the Centre for Soybean Research of the State Key 
+      Laboratory of Agrobiotechnology, The Chinese University of Hong Kong, Shatin, 
+      Hong Kong, China.
+AD  - Shenzhen Research Institute, The Chinese University of Hong Kong, Shenzhen, 
+      518000, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210729
+PL  - England
+TA  - Plant J
+JT  - The Plant journal : for cell and molecular biology
+JID - 9207397
+RN  - 0 (Gibberellins)
+RN  - 0 (Soybean Proteins)
+RN  - EC 1.- (Mixed Function Oxygenases)
+RN  - EC 1.14.11.13 (gibberellin 2-dioxygenase)
+SB  - IM
+MH  - Arabidopsis/genetics
+MH  - Chromosome Mapping
+MH  - DNA Copy Number Variations
+MH  - *Domestication
+MH  - Gene Expression Regulation, Plant
+MH  - Gene Knockdown Techniques
+MH  - Gene Knockout Techniques
+MH  - Gibberellins/metabolism
+MH  - Mixed Function Oxygenases/*genetics
+MH  - Plant Shoots/genetics/*growth & development
+MH  - Plants, Genetically Modified
+MH  - Quantitative Trait Loci
+MH  - Soybean Proteins/*genetics
+MH  - Soybeans/*genetics/growth & development
+OTO - NOTNLM
+OT  - domestication
+OT  - gene copy number
+OT  - gibberellin 2-oxdase
+OT  - growth habit
+OT  - shoot length
+OT  - soybean
+EDAT- 2021/07/11 06:00
+MHDA- 2022/01/27 06:00
+CRDT- 2021/07/10 17:08
+PHST- 2021/06/28 00:00 [revised]
+PHST- 2021/03/04 00:00 [received]
+PHST- 2021/07/06 00:00 [accepted]
+PHST- 2021/07/11 06:00 [pubmed]
+PHST- 2022/01/27 06:00 [medline]
+PHST- 2021/07/10 17:08 [entrez]
+AID - 10.1111/tpj.15414 [doi]
+PST - ppublish
+SO  - Plant J. 2021 Sep;107(6):1739-1755. doi: 10.1111/tpj.15414. Epub 2021 Jul 29.
+
+
+##### PUB RECORD #####
+## 10.1186/1471-2229-13-21  23388059  PMC3571917  Zhang, Zhao et al., 2013  "Zhang Y, Zhao L, Li H, Gao Y, Li Y, Wu X, Teng W, Han Y, Zhao X, Li W. GmGBP1, a homolog of human ski interacting protein in soybean, regulates flowering and stress tolerance in Arabidopsis. BMC Plant Biol. 2013 Feb 6;13:21. doi: 10.1186/1471-2229-13-21. PMID: 23388059; PMCID: PMC3571917." ##
+
+PMID- 23388059
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130621
+LR  - 20211021
+IS  - 1471-2229 (Electronic)
+IS  - 1471-2229 (Linking)
+VI  - 13
+DP  - 2013 Feb 6
+TI  - GmGBP1, a homolog of human ski interacting protein in soybean, regulates 
+      flowering and stress tolerance in Arabidopsis.
+PG  - 21
+LID - 10.1186/1471-2229-13-21 [doi]
+AB  - BACKGROUND: SKIP is a transcription cofactor in many eukaryotes. It can regulate 
+      plant stress tolerance in rice and Arabidopsis. But the homolog of SKIP protein 
+      in soybean has been not reported up to now. RESULTS: In this study, the 
+      expression patterns of soybean GAMYB binding protein gene (GmGBP1) encoding a 
+      homolog of SKIP protein were analyzed in soybean under abiotic stresses and 
+      different day lengths. The expression of GmGBP1 was induced by polyethyleneglycol 
+      6000, NaCl, gibberellin, abscisic acid and heat stress. GmGBP1 had 
+      transcriptional activity in C-terminal. GmGBP1 could interact with R2R3 domain of 
+      GmGAMYB1 in SKIP domain to take part in gibberellin flowering pathway. In 
+      long-day (16 h-light) condition, transgenic Arabidopsis with the ectopic 
+      overexpression of GmGBP1 exhibited earlier flowering and less number of rosette 
+      leaves; Suppression of AtSKIP in Arabidopsis resulted in growth arrest, flowering 
+      delay and down-regulation of many flowering-related genes (CONSTANS, FLOWERING 
+      LOCUS T, LEAFY); Arabidopsis myb33 mutant plants with ectopic overexpression of 
+      GmGBP1 showed the same flowering phenotype with wild type. In short-day (8 
+      h-light) condition, transgenic Arabidopsis plants with GmGBP1 flowered later and 
+      showed a higher level of FLOWERING LOCUS C compared with wild type. When treated 
+      with abiotic stresses, transgenic Arabidopsis with the ectopic overexpression of 
+      GmGBP1 enhanced the tolerances to heat and drought stresses but reduced the 
+      tolerance to high salinity, and affected the expressions of several 
+      stress-related genes. CONCLUSIONS: In Arabidopsis, GmGBP1 might positively 
+      regulate the flowering time by affecting CONSTANS, FLOWERING LOCUS T, LEAFY and 
+      GAMYB directly or indirectly in photoperiodic and gibberellin pathways in LDs, 
+      but GmGBP1 might represse flowering by affecting FLOWERING LOCUS C and SHORT 
+      VEGETATIVE PHASE in autonomous pathway in SDs. GmGBP1 might regulate the activity 
+      of ROS-eliminating to improve the resistance to heat and drought but reduce the 
+      high-salinity tolerance.
+FAU - Zhang, Yanwei
+AU  - Zhang Y
+AD  - Key Laboratory of Soybean Biology in Chinese Education Ministry, College of 
+      Agronomy, Northeast Agricultural University, Harbin, 150030, China.
+FAU - Zhao, Lin
+AU  - Zhao L
+FAU - Li, Haiyan
+AU  - Li H
+FAU - Gao, Yang
+AU  - Gao Y
+FAU - Li, Yongguang
+AU  - Li Y
+FAU - Wu, Xiaoxia
+AU  - Wu X
+FAU - Teng, Weili
+AU  - Teng W
+FAU - Han, Yingpeng
+AU  - Han Y
+FAU - Zhao, Xue
+AU  - Zhao X
+FAU - Li, Wenbin
+AU  - Li W
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130206
+PL  - England
+TA  - BMC Plant Biol
+JT  - BMC plant biology
+JID - 100967807
+RN  - 0 (Soybean Proteins)
+SB  - IM
+MH  - Arabidopsis/genetics/*metabolism/*physiology
+MH  - Droughts
+MH  - Flowers/genetics/*metabolism/*physiology
+MH  - Gene Expression Regulation, Plant
+MH  - Hot Temperature
+MH  - Humans
+MH  - Plants, Genetically Modified/genetics/metabolism/physiology
+MH  - Soybean Proteins/genetics/*metabolism
+MH  - Soybeans/genetics/*metabolism
+PMC - PMC3571917
+EDAT- 2013/02/08 06:00
+MHDA- 2013/06/25 06:00
+CRDT- 2013/02/08 06:00
+PHST- 2012/11/06 00:00 [received]
+PHST- 2013/01/28 00:00 [accepted]
+PHST- 2013/02/08 06:00 [entrez]
+PHST- 2013/02/08 06:00 [pubmed]
+PHST- 2013/06/25 06:00 [medline]
+AID - 1471-2229-13-21 [pii]
+AID - 10.1186/1471-2229-13-21 [doi]
+PST - epublish
+SO  - BMC Plant Biol. 2013 Feb 6;13:21. doi: 10.1186/1471-2229-13-21.
+
+
+##### PUB RECORD #####
+## 10.1111/tpj.14025  30004144  null  Zhao, Li et al., 2018  "Zhao L, Li M, Xu C, Yang X, Li D, Zhao X, Wang K, Li Y, Zhang X, Liu L, Ding F, Du H, Wang C, Sun J, Li W. Natural variation in GmGBP1 promoter affects photoperiod control of flowering time and maturity in soybean. Plant J. 2018 Oct;96(1):147-162. doi: 10.1111/tpj.14025. Epub 2018 Aug 16. PMID: 30004144." ##
+
+PMID- 30004144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190625
+LR  - 20190625
+IS  - 1365-313X (Electronic)
+IS  - 0960-7412 (Linking)
+VI  - 96
+IP  - 1
+DP  - 2018 Oct
+TI  - Natural variation in GmGBP1 promoter affects photoperiod control of flowering 
+      time and maturity in soybean.
+PG  - 147-162
+LID - 10.1111/tpj.14025 [doi]
+AB  - The present study screened for polymorphisms in coding and non-coding regions of 
+      the GmGBP1 gene in 278 soybean accessions with variable maturity and growth habit 
+      characteristics under natural field conditions in three different latitudes in 
+      China. The results showed that the promoter region was highly diversified 
+      compared with the coding sequence of GmGBP1. Five polymorphisms and four 
+      haplotypes were closely related to soybean flowering time and maturity through 
+      association and linkage disequilibrium analyses. Varieties with the polymorphisms 
+      SNP_-796G, SNP_-770G, SNP_-307T, InDel_-242normal, SNP_353A, or haplotypes Hap-3 
+      and Hap-4 showed earlier flowering time and maturity in different environments. 
+      The shorter growth period might be largely due to higher GmGBP1 expression levels 
+      in soybean that were caused by the TCT-motif with SNP_-796G in the promoter. In 
+      contrast, the lower expression level of GmGBP1 in soybean caused by RNAi 
+      interference of GmGBP1 resulted in a longer growth period under different day 
+      lengths. Furthermore, the gene interference of GmGBP1 also caused a reduction in 
+      photoperiod response sensitivity (PRS) before flowering in soybean. RNA-seq 
+      analysis on GmGBP1 underexpression in soybean showed that 94 and 30 predicted 
+      genes were significantly upregulated and downregulated, respectively. Of these, 
+      the diurnal photoperiod-specific expression pattern of three significant 
+      flowering time genes GmFT2a, GmFT5a, and GmFULc also showed constantly lower mRNA 
+      levels in GmGBP1-i soybean than in wild type, especially under short day 
+      conditions. Together, the results showed that GmGBP1 functioned as a positive 
+      regulator upstream of GmFT2a and GmFT5a to activate the expression of GmFULc to 
+      promote flowering on short days.
+CI  - (c) 2018 The Authors The Plant Journal (c) 2018 John Wiley & Sons Ltd.
+FAU - Zhao, Lin
+AU  - Zhao L
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Li, Minmin
+AU  - Li M
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Xu, Chongjing
+AU  - Xu C
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Yang, Xue
+AU  - Yang X
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Li, Dongmei
+AU  - Li D
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Zhao, Xue
+AU  - Zhao X
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Wang, Kuo
+AU  - Wang K
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Li, Yinghua
+AU  - Li Y
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Zhang, Xiaoming
+AU  - Zhang X
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Liu, Lixue
+AU  - Liu L
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Ding, Fuquan
+AU  - Ding F
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Du, Hailong
+AU  - Du H
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Wang, Chunsheng
+AU  - Wang C
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Sun, Jingzhe
+AU  - Sun J
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+FAU - Li, Wenbin
+AU  - Li W
+AD  - Key Laboratory of Soybean Biology of Ministry of Education China (Key Laboratory 
+      of Biology and Genetics & Breeding for Soybean in Northeast China), Northeast 
+      Agricultural University, Harbin, 150030, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180816
+PL  - England
+TA  - Plant J
+JT  - The Plant journal : for cell and molecular biology
+JID - 9207397
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Flowers/*growth & development
+MH  - Gene Expression Regulation, Plant
+MH  - Haplotypes
+MH  - Linkage Disequilibrium
+MH  - *Photoperiod
+MH  - Plant Proteins/genetics/*physiology
+MH  - Polymorphism, Single Nucleotide/genetics/physiology
+MH  - Promoter Regions, Genetic/genetics/*physiology
+MH  - Soybeans/genetics/growth & development/*physiology
+OTO - NOTNLM
+OT  - SNP
+OT  - GmGBP1 gene
+OT  - photoperiod
+OT  - promoter
+OT  - soybean maturity
+EDAT- 2018/07/14 06:00
+MHDA- 2019/06/27 06:00
+CRDT- 2018/07/14 06:00
+PHST- 2018/01/31 00:00 [received]
+PHST- 2018/06/21 00:00 [revised]
+PHST- 2018/06/26 00:00 [accepted]
+PHST- 2018/07/14 06:00 [pubmed]
+PHST- 2019/06/27 06:00 [medline]
+PHST- 2018/07/14 06:00 [entrez]
+AID - 10.1111/tpj.14025 [doi]
+PST - ppublish
+SO  - Plant J. 2018 Oct;96(1):147-162. doi: 10.1111/tpj.14025. Epub 2018 Aug 16.
+
+
+##### PUB RECORD #####
+## 10.1111/j.1365-313x.2010.04214.x  20345602  null  Yi, Jinxin et al., 2010  "Yi J, Derynck MR, Li X, Telmer P, Marsolais F, Dhaubhadel S. A single-repeat MYB transcription factor, GmMYB176, regulates CHS8 gene expression and affects isoflavonoid biosynthesis in soybean. Plant J. 2010 Jun 1;62(6):1019-34. doi: 10.1111/j.1365-313X.2010.04214.x. Epub 2010 Mar 25. PMID: 20345602." ##
+
+PMID- 20345602
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100927
+LR  - 20220310
+IS  - 1365-313X (Electronic)
+IS  - 0960-7412 (Linking)
+VI  - 62
+IP  - 6
+DP  - 2010 Jun 1
+TI  - A single-repeat MYB transcription factor, GmMYB176, regulates CHS8 gene 
+      expression and affects isoflavonoid biosynthesis in soybean.
+PG  - 1019-34
+LID - 10.1111/j.1365-313X.2010.04214.x [doi]
+AB  - Here we demonstrate that GmMYB176 regulates CHS8 expression and affects 
+      isoflavonoid synthesis in soybean. We previously established that CHS8 expression 
+      determines the isoflavonoid level in soybean seeds by comparing the transcript 
+      profiles of cultivars with different isoflavonoid contents. In the present study, 
+      a functional genomic approach was used to identify the factor that regulates CHS8 
+      expression and isoflavonoid synthesis. Candidate genes were cloned, and 
+      co-transfection assays were performed in Arabidopsis leaf protoplasts. The 
+      results showed that GmMYB176 can trans-activate the CHS8 promoter with maximum 
+      activity. Transient expression of GmMYB176 in soybean embryo protoplasts 
+      increased endogenous CHS8 transcript levels up to 169-fold after 48 h. GmMYB176 
+      encodes an R1 MYB protein, and is expressed in soybean seed during maturation. 
+      Furthermore, GmMYB176 recognizes a 23 bp motif containing a TAGT(T/A)(A/T) 
+      sequence within the CHS8 promoter. A subcellular localization study confirmed 
+      nuclear localization of GmMYB176. A predicted pST binding site for 14-3-3 protein 
+      is required for subcellular localization of GmMYB176. RNAi silencing of GmMYB176 
+      in hairy roots resulted in reduced levels of isoflavonoids, showing that GmMYB176 
+      is necessary for isoflavonoid biosynthesis. However, over-expression of GmMYB176 
+      was not sufficient to increase CHS8 transcript and isoflavonoid levels in hairy 
+      roots. We conclude that an R1 MYB transcription factor, GmMYB176, regulates CHS8 
+      expression and isoflavonoid synthesis in soybean.
+FAU - Yi, Jinxin
+AU  - Yi J
+AD  - Southern Crop Protection and Food Research Center, Agriculture and Agri-Food 
+      Canada, London, Ontario, N5V 4T3, Canada.
+FAU - Derynck, Michael R
+AU  - Derynck MR
+FAU - Li, Xuyan
+AU  - Li X
+FAU - Telmer, Patrick
+AU  - Telmer P
+FAU - Marsolais, Frederic
+AU  - Marsolais F
+FAU - Dhaubhadel, Sangeeta
+AU  - Dhaubhadel S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100325
+PL  - England
+TA  - Plant J
+JT  - The Plant journal : for cell and molecular biology
+JID - 9207397
+RN  - 0 (Flavonoids)
+RN  - 0 (Plant Proteins)
+RN  - 0 (RNA, Plant)
+RN  - 0 (Transcription Factors)
+SB  - IM
+CIN - Plant Signal Behav. 2010 Jul;5(7):921-3. PMID: 20622511
+MH  - Amino Acid Sequence
+MH  - Flavonoids/*biosynthesis
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Plant
+MH  - Molecular Sequence Data
+MH  - Mutagenesis, Site-Directed
+MH  - Phylogeny
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Plant Roots/metabolism
+MH  - Promoter Regions, Genetic
+MH  - RNA Interference
+MH  - RNA, Plant/genetics
+MH  - Seeds/*metabolism
+MH  - Sequence Alignment
+MH  - Sequence Analysis, DNA
+MH  - Soybeans/genetics/metabolism
+MH  - Transcription Factors/genetics/*metabolism
+EDAT- 2010/03/30 06:00
+MHDA- 2010/09/29 06:00
+CRDT- 2010/03/30 06:00
+PHST- 2010/03/30 06:00 [entrez]
+PHST- 2010/03/30 06:00 [pubmed]
+PHST- 2010/09/29 06:00 [medline]
+AID - TPJ4214 [pii]
+AID - 10.1111/j.1365-313X.2010.04214.x [doi]
+PST - ppublish
+SO  - Plant J. 2010 Jun 1;62(6):1019-34. doi: 10.1111/j.1365-313X.2010.04214.x. Epub 
+      2010 Mar 25.
+
+
+##### PUB RECORD #####
+## 10.1038/s42003-021-01889-6  33742087  null  Vadivel, Anguraj AK, et al., 2021  "Anguraj Vadivel AK, McDowell T, Renaud JB, Dhaubhadel S. A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis in soybean (Glycine max). Commun Biol. 2021 Mar 19;4(1):356. doi: 10.1038/s42003-021-01889-6. PMID: 33742087; PMCID: PMC7979867." ##
+
+PMID- 33742087
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210811
+LR  - 20210811
+IS  - 2399-3642 (Electronic)
+IS  - 2399-3642 (Linking)
+VI  - 4
+IP  - 1
+DP  - 2021 Mar 19
+TI  - A combinatorial action of GmMYB176 and GmbZIP5 controls isoflavonoid biosynthesis 
+      in soybean (Glycine max).
+PG  - 356
+LID - 10.1038/s42003-021-01889-6 [doi]
+LID - 356
+AB  - GmMYB176 is an R1 MYB transcription factor that regulates multiple genes in the 
+      isoflavonoid biosynthetic pathway, thereby affecting their levels in soybean 
+      roots. While GmMYB176 is important for isoflavonoid synthesis, it is not 
+      sufficient for the function and requires additional cofactor(s). The aim of this 
+      study was to identify the GmMYB176 interactome for the regulation of isoflavonoid 
+      biosynthesis in soybean. Here, we demonstrate that a bZIP transcription factor 
+      GmbZIP5 co-immunoprecipitates with GmMYB176 and shows protein-protein interaction 
+      in planta. RNAi silencing of GmbZIP5 reduced the isoflavonoid level in soybean 
+      hairy roots. Furthermore, co-overexpression of GmMYB176 and GmbZIP5 enhanced the 
+      level of multiple isoflavonoid phytoallexins including glyceollin, isowighteone 
+      and a unique O-methylhydroxy isoflavone in soybean hairy roots. These findings 
+      could be utilized to develop biotechnological strategies to manipulate the 
+      metabolite levels either to enhance plant defense mechanisms or for human health 
+      benefits in soybean or other economically important crops.
+FAU - Anguraj Vadivel, Arun Kumaran
+AU  - Anguraj Vadivel AK
+AUID- ORCID: 0000-0002-6384-6316
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada.
+AD  - Department of Biology, University of Western Ontario, London, ON, Canada.
+FAU - McDowell, Tim
+AU  - McDowell T
+AUID- ORCID: 0000-0001-5334-1923
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada.
+FAU - Renaud, Justin B
+AU  - Renaud JB
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada.
+FAU - Dhaubhadel, Sangeeta
+AU  - Dhaubhadel S
+AUID- ORCID: 0000-0003-2582-5503
+AD  - London Research and Development Centre, Agriculture and Agri-Food Canada, London, 
+      ON, Canada. sangeeta.dhaubhadel@canada.ca.
+AD  - Department of Biology, University of Western Ontario, London, ON, Canada. 
+      sangeeta.dhaubhadel@canada.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210319
+PL  - England
+TA  - Commun Biol
+JT  - Communications biology
+JID - 101719179
+RN  - 0 (Basic-Leucine Zipper Transcription Factors)
+RN  - 0 (Isoflavones)
+RN  - 0 (Pterocarpans)
+RN  - 0 (Soybean Proteins)
+RN  - 0 (Transcription Factors)
+RN  - 6461TV6UCH (glyceollin)
+SB  - IM
+MH  - Basic-Leucine Zipper Transcription Factors/genetics/metabolism
+MH  - Gene Expression Regulation, Plant
+MH  - Isoflavones/*biosynthesis
+MH  - Plant Roots
+MH  - Protein Binding
+MH  - Pterocarpans/biosynthesis
+MH  - Soybean Proteins/genetics/*metabolism
+MH  - Soybeans/genetics/*metabolism
+MH  - Transcription Factors/genetics/*metabolism
+PMC - PMC7979867
+COIS- The authors declare no competing interests.
+EDAT- 2021/03/21 06:00
+MHDA- 2021/08/12 06:00
+CRDT- 2021/03/20 06:33
+PHST- 2020/09/03 00:00 [received]
+PHST- 2021/02/19 00:00 [accepted]
+PHST- 2021/03/20 06:33 [entrez]
+PHST- 2021/03/21 06:00 [pubmed]
+PHST- 2021/08/12 06:00 [medline]
+AID - 10.1038/s42003-021-01889-6 [pii]
+AID - 1889 [pii]
+AID - 10.1038/s42003-021-01889-6 [doi]
+PST - epublish
+SO  - Commun Biol. 2021 Mar 19;4(1):356. doi: 10.1038/s42003-021-01889-6.
+
+

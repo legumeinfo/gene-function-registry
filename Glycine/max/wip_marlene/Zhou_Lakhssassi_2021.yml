@@ -1,0 +1,66 @@
+---
+gene_symbols:
+  - GmFATA1A
+gene_symbol_long: 
+gene_model_pub_name: Glyma18g36130
+gene_model_full_id:  glyma.Wm82.gnm1.ann1.Glyma18g36130 
+confidence: 
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Acyl-acyl carrier protein thioesterases
+phenotype_synopsis: high oleic acid in seeds
+traits:
+  - entity_name: 
+    entity: 
+references:
+  - citation: Zhou, Lakhssassi et. al., 2021
+    doi: 10.1007/s00122-021-03917-9
+    pmid: 34319424
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
+---
+ gene_symbols:
+   - GmFATB1B
+ gene_symbol_long: 
+ gene_model_pub_name: Glyma17g12940
+ gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g12940
+ confidence: 
+ curators:
+   - Marlene Dorneich-Hayes
+ comments:
+   - 
+ phenotype_synopsis: low palmitic and high oleic acid in seeds
+ traits:
+   - entity_name: 
+     entity: 
+ references:
+   - citation: Zhou, Lakhssassi et. al., 2021
+     doi: 10.1007/s00122-021-03917-9
+     pmid: 34319424
+   - citation: Zuo, Ikram et. al., 2022
+     doi: 10.1016/j.csbj.2022.06.014
+     pmid: 35782726
+---
+gene_symbols:
+  - GmFATB2B
+gene_symbol_long: 
+gene_model_pub_name: Glyma06g23560
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g23560
+confidence: 
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - 
+phenotype_synopsis: low palmitic and high oleic acid in seeds
+traits:
+  - entity_name: 
+    entity: 
+references:
+  - citation: Zhou, Lakhssassi et. al., 2021
+    doi: 10.1007/s00122-021-03917-9
+    pmid: 34319424
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726

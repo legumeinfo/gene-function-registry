@@ -1,0 +1,18 @@
+---
+classical_locus: D1
+gene_symbols:
+  - GmFLD
+gene_symbol_long: Flowering Locus D
+gene_model_pub_name: Glyma02g18610
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g18610
+confidence: 4
+curators:
+  - William Hardison
+phenotype_synopsis: early flowering time
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Hu, Jin et al., 2014
+    doi: 10.1186/s12870-014-0263-x
+    pmid: 25287450
