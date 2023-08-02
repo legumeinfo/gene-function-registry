@@ -12,12 +12,26 @@ curators:
   - Greg Murrell
 comments:
   - SBEI is a 1,4-alpha-glucan-branching enzyme.
-phenotype_synopsis: --
+phenotype_synopsis: The size and shape of cotyledon starch grains; 
+  the total amount of starches; the amylopectin to amylose ratio; the content 
+  of sucrose, lipids, and legumin seed storage protein; amylopectin chain 
+  length distribution.
 traits:
-  - entity_name: --
-    entity: --
+  - entity_name: starch grain shape
+    entity: TO:0002656
+  - entity_name: starch grain size
+    entity: TO:0002655
+  - entity_name: starch content
+    entity: TO:0000696
+  - entity_name: amylose to amylopectin ratio
+    entity: TO:0000372
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - entity_name: total fat content
+    entity: TO:0000602
+  - entity_name: endosperm storage protein content
+    entity: TO:0002653
 references:
   - citation: Ko, Chung, et. al, 2009
     doi: 10.1021/jf802544b
     pmid: 19143523
-
