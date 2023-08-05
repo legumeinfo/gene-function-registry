@@ -1,0 +1,10 @@
+{
+  "yaml.format.enable": true,
+  "yaml.format.proseWrap": "never",
+  "yaml.validate": true,
+  "yaml.hover": true,
+  "yaml.completion": true,
+  "yaml.schemas": {
+      "schema.json": "[A-Z]*/**/*.yml"
+  }
+}
