@@ -1,5 +1,4 @@
 ---
-classical_locus: --
 gene_symbols:
   - SBEII
   - VrsbeII
@@ -7,7 +6,7 @@ gene_symbols:
 gene_symbol_long: Starch Branching Enzyme II
 gene_model_pub_name: AY622199
 gene_model_full_id: vigra.VC1973A.gnm7.chr4
-confidence: --
+confidence: 3
 curators:
   - Greg Murrell
 comments:

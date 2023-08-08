@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: Starch Branching Enzyme II
 gene_model_pub_name: KIW84_050322
 gene_model_full_id: pissa.Cameor.gnm1.scaffold02670
-confidence: -
+confidence: 3
 curators:
   - Greg Murrell
 comments:
