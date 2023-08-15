@@ -1,0 +1,33 @@
+---
+gene_symbols:
+  - GmNNC1
+gene_symbol_long: Nodule Number Control 1
+gene_model_pub_name: Glyma12g07800
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G078000
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Expression patterns of NNC1 were studied with GAL4/UAS, GUS, and GFP reporter systems. Its function was confirmed with RNAi knockdown and transgenic overexpression studies.
+  - The activity of NNC1 is modulated by miR172c to fine-tune nodulation and symbiosis.
+  - miR172c cleaves the protein product of NNC1, allowing ENOD40 to be transcribed. miR172c is, in turn, negatively regulated by NARK (see Searle, Men et. al., 2003).
+phenotype_synopsis: NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40.
+traits:
+  - entity_name: DNA-binding transcription factor activity
+    entity: GO:0003700
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Wang, Wang et. al., 2014
+    doi: 10.1105/tpc.114.131607
+    pmid: 25549672
+  - citation: Searle, Men et. al., 2003
+    doi: 10.1126/science.1077937
+    pmid: 12411574
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095

@@ -1,0 +1,198 @@
+---
+gene_symbols:
+  - GmTIR1a
+gene_symbol_long: Transport Inhibitor Response 1a
+gene_model_pub_name: Glyma02G152800
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G152800
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - RNAi knockdowns of TIR1a have reduced nodulation. Transgenic overexpression of TIR1a increases nodulation.
+phenotype_synopsis: TIR1a is an auxin receptor which positively regulates root growth and nodulation. TIR1a is strongly expressed in developing nodules, main and lateral roots, and especially in main root tips and lateral root primordia. Expression in roots decreases as nodulation progresses. TIR1a is upregulated by auxin.
+traits:
+  - entity_name: auxin receptor activity
+    entity: GO:0038198
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: root development
+    entity: GO:0048364
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: positive regulation of lateral root development
+    entity: GO:1901333
+references:
+  - citation: Cai, Wang et. al., 2017
+    doi: 10.1111/nph.14632
+    pmid: 28598036
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmTIR1b
+gene_symbol_long: Transport Inhibitor Response 1b
+gene_model_pub_name: Glyma10G021500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G021500
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - RNAi knockdowns of TIR1b have reduced nodulation.
+phenotype_synopsis: TIR1b is an auxin receptor which positively regulates root growth and nodulation. TIR1b is most strongly expressed in developing nodules and main and lateral roots. Expression in roots decreases as nodulation progresses.
+traits:
+  - entity_name: auxin receptor activity
+    entity: GO:0038198
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: root development
+    entity: GO:0048364
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: positive regulation of lateral root development
+    entity: GO:1901333
+references:
+  - citation: Cai, Wang et. al., 2017
+    doi: 10.1111/nph.14632
+    pmid: 28598036
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmTIR1c
+gene_symbol_long: Transport Inhibitor Response 1c
+gene_model_pub_name: Glyma19G206800
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G206800
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - RNAi knockdowns of TIR1c have reduced nodulation. Transgenic overexpression of TIR1c increases nodulation.
+phenotype_synopsis: TIR1c is an auxin receptor which positively regulates root growth and nodulation. It is most strongly expressed in developing nodules and root meristems. Expression in roots is upregulated by Bradyrhizobium japonicum and auxin but downregulated by miR393d.
+traits:
+  - entity_name: auxin receptor activity
+    entity: GO:0038198
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: root development
+    entity: GO:0048364
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: regulation of root meristem growth
+    entity: GO:0010082
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Cai, Wang et. al., 2017
+    doi: 10.1111/nph.14632
+    pmid: 28598036
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmTIR1d
+gene_symbol_long: Transport Inhibitor Response 1d
+gene_model_pub_name: Glyma03G209400
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G209400
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - RNAi knockdowns of TIR1d have reduced nodulation.
+phenotype_synopsis: TIR1d is an auxin receptor which positively regulates root growth and nodulation. It is most strongly expressed in developing nodules, main and lateral root tips, and lateral root primordia.
+traits:
+  - entity_name: auxin receptor activity
+    entity: GO:0038198
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: root development
+    entity: GO:0048364
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: positive regulation of lateral root development
+    entity: GO:1901333
+references:
+  - citation: Cai, Wang et. al., 2017
+    doi: 10.1111/nph.14632
+    pmid: 28598036
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmAFB3a
+gene_symbol_long: Auxin-signalling F-Box 3a
+gene_model_pub_name: Glyma19G100200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G100200
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - RNAi knockdowns of AFB3a have reduced nodulation. Transgenic overexpression of AFB3a did not increase nodulation.
+phenotype_synopsis: AFB3a is an auxin receptor which has a minor role in the positive regulation of root growth and nodulation. It is most strongly expressed in developing nodules, main and lateral roots, and especially in main root tips and lateral root primordia. AFB3a is upregulated by presence of auxin but downregulated by miR393d.
+traits:
+  - entity_name: auxin receptor activity
+    entity: GO:0038198
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: root development
+    entity: GO:0048364
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: positive regulation of lateral root development
+    entity: GO:1901333
+references:
+  - citation: Cai, Wang et. al., 2017
+    doi: 10.1111/nph.14632
+    pmid: 28598036
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmAFB3b
+gene_symbol_long: Auxin-signalling F-Box 3b
+gene_model_pub_name: Glyma16G050500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G050500
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - RNAi knockdowns of AFB3b have reduced nodulation.
+phenotype_synopsis: AFB3a is an auxin receptor. Expression of AFB3b is barely detectable in roots and developing nodules. It is likely involved in shoot development rather than in root growth and nodulation.
+traits:
+  - entity_name: auxin receptor activity
+    entity: GO:0038198
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: shoot system development
+    entity: GO:0048367
+references:
+  - citation: Cai, Wang et. al., 2017
+    doi: 10.1111/nph.14632
+    pmid: 28598036
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095

@@ -1,0 +1,36 @@
+---
+classical_locus:
+  - fas
+  - st
+gene_symbols:
+  - SACPD-C
+gene_symbol_long: delta-9-Stearoyl-Acyl Carrier Protein Desaturase-C
+gene_model_pub_name: Glyma14g27990
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g27990
+confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Mutants with defective SACPD-C produce seeds with high stearic acid content.
+phenotype_synopsis: SACPD-C codes for a seed-specific enzyme that converts stearic acid into oleic acid. Plants with defective or silent SACPD-C produce seeds high in stearic acid. SACPD-C also has pleiotropic effects on nodule structure.
+traits:
+  - entity_name: seed development
+    entity: GO:0048316
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+references:
+  - citation: Zhang, Burton et. al., 2008
+    doi: doi.org/10.2135/cropsci2008.02.0084
+  - citation: Gillman, Stacey et. al., 2014
+    doi: 10.1186/1471-2229-14-143
+    pmid: 24886084
+  - citation: Carrero-Colon, Abshire et. al., 2014
+    doi: 10.1371/journal.pone.0097891
+    pmid: 24846334
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
