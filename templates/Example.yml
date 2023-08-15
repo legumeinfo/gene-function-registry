@@ -1,0 +1,83 @@
+---
+# As your first assignment, read the paper Kong, Liu et. al. 2010 and create a yml file based on the template below. 
+# Then, compare your yml to the answer key at the bottom of this page.
+# To create a new file, navigate to the directory where you want the file to appear, click the dropdown menu "Add file" and select "Create new file."
+# Name your new file "Kong_Liu_2010_practice.yml." Copy and paste this template into your new file:
+---
+classical_locus: # Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
+gene_symbols:
+  - # Abbreviated gene name if available from literature. It should be formatted like "GmNNC1." 
+  - # If there are multiple names, enter them on separate lines with the most common name listed first.
+gene_symbol_long: # The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1."
+gene_model_pub_name: # REQUIRED; This is listed in the publication in the format "Glyma12g07800".
+# If there is no "GlymaXXgXXXXX," try one of the search tools described at the bottom of this document.
+gene_model_full_id: # REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
+# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://jekyll.dev.lis.ncgr.org/tools/search/gene.html
+confidence: # A value from 1 to 5 showing how strong the evidence for the gene's function is. 
+# See the bottom of the document for guidance on assigning a confidence level.
+curators:
+  - # Put your name here
+comments:
+  - # If the information is available, briefly describe the function of the gene, what genes it interacts with, and how it is regulated.
+  - # If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interaction partner.
+  - # E.g. "miR172c cleaves the protein product of NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle, Men et. al., 2003)."
+phenotype_synopsis: # Briefly describe the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
+traits: # REQUIRED; at least one "entity" ontology accession describing the function of the gene. Find ontologies by searching this database: https://www.ebi.ac.uk/ols/ontologies
+  - entity_name: # The name of the ontology accession, e.g. "nodulation"
+    entity: # The ontology accession, e.g. "GO:0009877." Terms from the Plant Trait Ontology (those that begin with "GO") are preferred. 
+  - quality_name: # Optional; quality ontologies can be used to describe properties of the trait, e.g. "premature."
+    quality:  # Quality ontologies usually begin with "PATO"
+  - relation_name: # Optional; Relations ontologies can be used to describe the effects of the trait, e.g. "negatively regulates."
+    relation: # Relations ontologies begin with "RO"
+  - entity_name: # Additional ontologies can be added to describe other functions, e.g. "regulation of biological process involved in symbiotic interaction"
+    entity:
+references: # REQUIRED; At least one citation with its doi or pmid. Ideally, include several citations.
+  - citation: # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et. al., 2014"
+    doi: # the bare doi (omit https://doi.org/)
+    pmid:  # The "get_citations.pl" script can fill in pmid from doi or vice versa (in a new document)
+  - citation: # Citation of a paper providing additional information.
+    doi:
+    pmid:
+---
+# Answer key
+classical_locus: E9
+gene_symbols:
+  - GmFT2a
+gene_symbol_long: Flowering Time 2a
+gene_model_pub_name: Glyma.16g150700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700
+confidence: 5
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - quality_name: premature
+    quality: PATO:0000694
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Kong, Liu et al., 2010
+    doi: 10.1104/pp.110.160796
+    pmid: 20864544
+  - citation: Kong, Nan et al., 2014
+    doi: 10.2135/cropsci2014.03.0228
+  - citation: Takeshima, Hayashi et al., 2016
+    doi: 10.1093/jxb/erw283
+    pmid: 27422993
+---
+# Finding that gene_model_pub_name:
+# First, search the gene name on Soybase. E.g. enter "NNC1" into the search bar here: https://www.soybase.org/search/index.php.
+# If that does not identify a gene_model_pub_name, search the NCBI. E.g. enter "Glycine max NNC1" into the search bar here: https://www.ncbi.nlm.nih.gov/gene/
+# Scroll until you find the FASTA file for your gene of interest. Copy and paste the complete sequence into Funnotate (https://funnotate.legumeinfo.org/)
+# Click "Upload Seqence(s)," then "Begin Annotation." Click on the little hammer and wrench icon to load a family tree.
+# Find the soy gene_model_full_id closest to the highlighted USR. 
+# Google the gene_model_pub_name derived from that ID to confirm you have found the correct name.
+# Guidance on confidence levels:
