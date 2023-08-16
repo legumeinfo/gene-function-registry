@@ -1,23 +1,49 @@
 ---
-# As your first curation assignment, read the paper Tang, Su et. al., 2017 (doi: 10.1093/jxb/erw425)
-# Create your own yml file based on the template below.
+# DIRECTIONS
+# As your first curation assignment, read the paper Tang, Su et. al., 2017 (doi: 10.1093/jxb/erw425).
+# Create your own yml file based on the blank and annotated templates below.
 # Name your new file "Tang_Su_2012_practice.yml."
+# When you are done, compare your yml file to the Answer Key provided below.
 ---
-# TEMPLATE
-classical_locus: #  Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
+# BLANK TEMPLATE
+classical_locus:
 gene_symbols:
-  - # Abbreviated gene name as listed in the paper. It should be formatted like "GmNNC1."
-  - # If there are multiple names for one gene, enter them on separate lines with the most common name listed first.
-  - # If more than one gene is described in the same paper, paste another copy of this template at the bottom of your document and fill it in for the second gene.
-gene_symbol_long: #  The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1" (do not include the prefix Glycine max).
-gene_model_pub_name: #  REQUIRED; This should be listed in the publication in the format "GlymaXXgXXXXX," e.g. "Glyma12g07800".
+  -
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
+# ANNOTATED TEMPLATE
+classical_locus: #   Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
+gene_symbols:
+  - #  Abbreviated gene name as listed in the paper. It should be formatted like "GmNNC1."
+  - #  If there are multiple names for one gene, enter them on separate lines with the most common name listed first.
+  - #  If more than one gene is described in the same paper, paste another copy of this template at the bottom of your document and fill it in for the second gene.
+gene_symbol_long: #   The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1" (do not include the prefix Glycine max).
+gene_model_pub_name: #   REQUIRED; This should be listed in the publication in the format "GlymaXXgXXXXX," e.g. "Glyma12g07800".
 # If the paper has no "GlymaXXgXXXXX," try one of the search methods described at the bottom of this document.
-gene_model_full_id: #  REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
+gene_model_full_id: #   REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
 # Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://jekyll.dev.lis.ncgr.org/tools/search/gene.html
-confidence: #  A value from 1 to 5 showing how strong the evidence for the gene's function is.
+confidence: #   A value from 1 to 5 showing how strong the evidence for the gene's function is.
 # See the bottom of the document for guidance on assigning a confidence level.
 curators:
-  - #  Put your name here
+  - #   Put your name here
 comments:
   - #  If the information is available, briefly describe the function of the gene, what genes it interacts with, and how it is regulated.
   - #  If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interacting gene.
@@ -42,7 +68,6 @@ references: #  REQUIRED; At least one citation with its doi or pmid. Ideally, in
     pmid:
 ---
 # ANSWER KEY
----
 gene_symbols:
   - GmCIF1 #  This paper discusses both GmCIF1 and GmC/VIF2 in detail, so there is a second version of this template below for GmC/VIF2.
 gene_symbol_long: Cell Wall Invertase Inhibitor
@@ -112,12 +137,13 @@ references:
     doi: 10.3390/ijms19082395
     pmid: 30110937
 ---
+# ADDITIONAL RESOURCES
 # To find or check the validity of your gene_model_pub_name:
 # First, search the gene name on Soybase. E.g. enter "NNC1" into the search bar here: https://www.soybase.org/search/index.php.
 # Next, search the gene name in NCBI. E.g. enter "Glycine max NNC1" into the search bar here: https://www.ncbi.nlm.nih.gov/gene/
 # Scroll until you find the FASTA file for your gene of interest. Copy and paste the complete sequence into Funnotate (https://funnotate.legumeinfo.org/)
 # Click "Upload Seqence(s)," then "Begin Annotation." Click on the little hammer and wrench icon to load a family tree.
-# Find the soy gene_model_full_id closest to the highlighted USR. The gene_model_pub_name is the segment at the end of the gene_model_full_id.
-# Compare the output from Soybase to the output from Funnotate.
+# Examine the soy gene_model_full_ids close to the highlighted USR. The gene_model_pub_name is the segment at the end of the gene_model_full_id.
+# Compare the gene_model_pub_name from Soybase to the output from Funnotate.
 # Google the gene_model_pub_name to confirm that the name is used in scientific literature.
 # Guidance on confidence levels:
