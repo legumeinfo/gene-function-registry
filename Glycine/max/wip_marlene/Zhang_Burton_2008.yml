@@ -12,7 +12,9 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - Mutants with defective SACPD-C produce seeds with high stearic acid content.
-phenotype_synopsis: SACPD-C codes for a seed-specific enzyme that converts stearic acid into oleic acid. Plants with defective or silent SACPD-C produce seeds high in stearic acid. SACPD-C also has pleiotropic effects on nodule structure.
+  - Plants with defective or silent SACPD-C produce seeds high in stearic acid.
+  - SACPD-C also has pleiotropic effects on nodule structure.
+phenotype_synopsis: SACPD-C codes for a seed-specific enzyme that converts stearic acid into oleic acid.
 traits:
   - entity_name: seed development
     entity: GO:0048316
