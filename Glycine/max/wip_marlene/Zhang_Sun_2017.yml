@@ -8,8 +8,11 @@ confidence: 4
 curators:
   - Marlene Dorneich-Hayes
 comments:
-  - Expression of B1 in transgenic plants negatively correlates with the accumuation of oil and positively correlates with the amount of bloom. I.e. overexpression of B1 reduced fatty acid content in seed pods and increased bloom on the seed coat.
-phenotype_synopsis: B1 encodes a transmembrane transport protein and has pleiotropic effects. It downregulates fatty acid biosynthesis in seed pods and causes bloom to be deposited on the seed coat.
+  - Expression of B1 in transgenic plants negatively correlates with the accumuation of oil and positively correlates with the amount of bloom.
+  - Overexpression of B1 reduced fatty acid content in seed pods and increased bloom on the seed coat.
+phenotype_synopsis:
+  - B1 encodes a transmembrane transport protein and has pleiotropic effects.
+  - B1 downregulates fatty acid biosynthesis in seed pods and causes bloom to be deposited on the seed coat.
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
