@@ -8,8 +8,8 @@ confidence: 4
 curators:
   - Marlene Dorneich-Hayes
 comments:
-  - GmBS1 was silenced in transgenic soy plants.
-phenotype_synopsis: GmBS1 affects the size of seeds, seed pods, and leaves. Downregulation of BS1 increases seed size, weight, and amino acid content.
+  - Downregulation of BS1 increases seed size, weight, and amino acid content.
+phenotype_synopsis: BS1 negatively regulates the size of seeds, seed pods, and leaves.
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
@@ -17,8 +17,12 @@ traits:
     entity: GO:0048316
   - entity_name: seed size
     entity: TO:0000391
+  - relation_name: negatively regulates
+    relation: RO:0002212
   - entity_name: fat and essential oil content
     entity: TO:0000604
+  - relation_name: negatively regulates
+    relation: RO:0002212
 references:
   - citation: Ge, Yu et. al., 2016
     doi: 10.1073/pnas.1611763113
