@@ -10,7 +10,7 @@ curators:
 comments:
   - Ectopic expression of NIN produces extra nodule-like structures but, in the presence of nitrate, downregulates genes needed to establish symbiosis.
   - Constitutive expression of NIN eventually leads to suppression of NIN and stops further nodulation.
-phenotype_synopsis: 
+phenotype_synopsis:
   - NIN is part of a negative feedback loop.
   - It codes for a transcription factor which induces nodulation by promoting cortical cell division.
   - It also activates genes which code for the NIN-repressing signal proteins CLE-RS1 and CLE-RS2 which stop nodulation.
