@@ -9,7 +9,8 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - Researchers studied the phenotypes of loss-of-function mutants and compared them to WT plants.
-phenotype_synopsis: GmFATA1a loss-of-function mutatants accumulate high concentrations of oleic acid in their seeds. GmFATA1a is an acyl-acyl carrier protein thioesterase that hydrolizes 18:1 acyl-acyl carrier proteins.
+  - GmFATA1a loss-of-function mutatants accumulate high concentrations of oleic acid in their seeds.
+phenotype_synopsis: GmFATA1a is an acyl-acyl carrier protein thioesterase that hydrolizes 18:1 acyl-acyl carrier proteins.
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
@@ -38,7 +39,9 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - CRISPR-Cas9 knockout study on genes identified in other species.
-phenotype_synopsis: FATB1a codes for an enzyme that hydrolizes saturated acyl-ACPs. It is most strongly expressed in seeds and leaves. Knockouts have low palmitic and stearic acid but high oleic and linoleic acid.
+  - FATB1a knockouts have low palmitic and stearic acid but high oleic and linoleic acid.
+  - FATB1a It is most strongly expressed in seeds and leaves. 
+phenotype_synopsis: FATB1a codes for an enzyme that hydrolizes saturated acyl-ACPs.
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
@@ -66,7 +69,9 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - CRISPR-Cas9 knockout study on genes identified in other species.
-phenotype_synopsis: FATB1b codes for an enzyme that hydrolizes saturated acyl-ACPs. It is most strongly expressed in seeds and leaves. Knockouts have low palmitic and stearic acid but high oleic and linoleic acid.
+  - FATB1b knockouts have low palmitic and stearic acid but high oleic and linoleic acid.
+  - FATB1b is most strongly expressed in seeds and leaves.
+phenotype_synopsis: FATB1b codes for an enzyme that hydrolizes saturated acyl-ACPs.
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
@@ -97,7 +102,9 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - Researchers studied the phenotypes of loss-of-function mutants and compared them to WT plants.
-phenotype_synopsis: FATB2b codes for an enzyme that hydrolizes saturated acyl-ACPs. It is most strongly expressed in flowers. Knockouts have low palmitic acid but high oleic acid.
+  - FATB2b knockouts have low palmitic acid but high oleic acid.
+  - FATB2b is most strongly expressed in flowers.
+phenotype_synopsis: FATB2b codes for an enzyme that hydrolizes saturated acyl-ACPs.
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
