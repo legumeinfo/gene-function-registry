@@ -8,8 +8,8 @@ confidence: 3
 curators:
   - Marlene Dorneich-Hayes
 comments:
-  - Overexpression of DGAT1A enhances triacylglycerol biosynthesis in seeds (and in other tissues to a lesser extent). 
-  - It is involved in stress response and downregulated by stressors like cold, insect bites, and jasmonate. 
+  - Overexpression of DGAT1A enhances triacylglycerol biosynthesis in seeds (and in other tissues to a lesser extent).
+  - It is involved in stress response and downregulated by stressors like cold, insect bites, and jasmonate.
   - GmDGAT1A produces similar results when transformed into other species.
 phenotype_synopsis: DGAT1A controls synthesis of many triacylglycerols, using 18:3 acyl CoA as an acyl donor. Oil mostly accumulates in seeds.
 traits:
@@ -40,7 +40,7 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - Overexpression enhances triacylglycerol biosynthesis in flower tissues.
-  - DGAT2D is upregulated by temperature stress but downregulated by insect bites and jasmonate. 
+  - DGAT2D is upregulated by temperature stress but downregulated by insect bites and jasmonate.
   - GmDGAT2D produces similar results when transformed into other species.
 phenotype_synopsis: DGAT2D controls synthesis of many triacylglycerols, using 18:1 and 18:2 acyl CoA as acyl donors. Oil accumulates most in flowers.
 traits:
