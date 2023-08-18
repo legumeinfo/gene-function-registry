@@ -8,8 +8,10 @@ confidence: 3
 curators:
   - Marlene Dorneich-Hayes
 comments:
+  - GA20ox a is induced by innoculation with compatible rhizobia and expressed at the beginning and end of nodule development.
+  - Both over and underexpression of GA20ox can interfere with nodulation.
   - Researchers observed the phenotypes of mutated plants.
-phenotype_synopsis: GA20ox a is a gibberellic acid biosynthesis gene. It is induced by innoculation with compatible rhizobia and expressed at the beginning and end of nodule development. Both over and underexpression of GA20ox can interfere with nodulation.
+phenotype_synopsis: GA20ox a is a gibberellic acid biosynthesis gene.
 traits:
   - entity_name: gibberellin biosynthetic process
     entity: GO:0009686
@@ -41,8 +43,9 @@ confidence: 4
 curators:
   - Marlene Dorneich-Hayes
 comments:
+  - GA3ox 1a is induced by innoculation with compatible rhizobia but its expression is not exclusive to nodule development.
   - RNAi silencing of GA3ox 1a reduced nodulation.
-phenotype_synopsis: GA3ox 1a is a gibberellic acid biosynthesis gene. It is induced by innoculation with compatible rhizobia but its expression is not exclusive to nodule development.
+phenotype_synopsis: GA3ox 1a is a gibberellic acid biosynthesis gene.
 traits:
   - entity_name: gibberellin biosynthetic process
     entity: GO:0009686
