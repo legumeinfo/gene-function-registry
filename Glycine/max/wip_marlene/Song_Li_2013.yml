@@ -9,7 +9,8 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - The effect of bZIP123 was studied in transgenic Arabidopsis, not soy.
-phenotype_synopsis: bZIP123 is a transcription factor which promotes expression of sucrose transporter and cell wall invertase genes. Overexpression of bZIP123 increases lipid content in transgenic Arabidopsis as well as upregulating the genes that bZIP123 acts on.
+  - Overexpression of bZIP123 increases lipid content in transgenic Arabidopsis as well as upregulating the genes that bZIP123 acts on.
+phenotype_synopsis: bZIP123 is a transcription factor which promotes expression of sucrose transporter and cell wall invertase genes.
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
