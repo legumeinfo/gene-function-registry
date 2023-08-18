@@ -40,7 +40,7 @@ curators:
 comments:
   - CRISPR-Cas9 knockout study on genes identified in other species.
   - FATB1a knockouts have low palmitic and stearic acid but high oleic and linoleic acid.
-  - FATB1a It is most strongly expressed in seeds and leaves. 
+  - FATB1a It is most strongly expressed in seeds and leaves.
 phenotype_synopsis: FATB1a codes for an enzyme that hydrolizes saturated acyl-ACPs.
 traits:
   - entity_name: lipid metabolic process
