@@ -8,8 +8,9 @@ confidence: 5
 curators:
   - Marlene Dorneich-Hayes
 comments:
-  - Mutants lacking NFR1α don't form nodules. Transgenic overexpression increased the number of nodules per plant and allowed plants to form nodules in unfavorable conditions.
-phenotype_synopsis: NFR1α codes for a receptor kinase which controls nodule number.
+  - Mutants lacking NFR1α don't form nodules.
+  - Transgenic overexpression increased the number of nodules per plant and allowed plants to form nodules in unfavorable conditions.
+phenotype_synopsis: NFR1α codes for a receptor kinase which positively regulates nodule number.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -33,8 +34,10 @@ confidence: 5
 curators:
   - Marlene Dorneich-Hayes
 comments:
-  - Mutants with functional NFR1β but nonfunctional NFR1α have very minimal nodulation. Overexpression of NFR1β did not increase nodule number.
-phenotype_synopsis: NFR1β codes for a redundant receptor kinase. Its mRNA transcripts are unstable and its expression is not sufficient to induce a healthy level of nodulation.
+  - Mutants with functional NFR1β but nonfunctional NFR1α have very minimal nodulation.
+  - Overexpression of NFR1β did not increase nodule number.
+  - Expression of NFR1β is not sufficient to induce a healthy level of nodulation.
+phenotype_synopsis: NFR1β codes for a redundant receptor kinase with unstable mRNA transcripts.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
