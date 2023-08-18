@@ -12,7 +12,9 @@ comments:
   - When PAP12 is silenced, nodule number and APase activity are reduced.
   - PAP12 is induced by low-P conditions.
   - PAP12 is induced by transcription factor PHR1 (see Lu, Cheng et. al., 2020).
-phenotype_synopsis: PAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions by increasing the activity of APases. It is also involved in nodulation and nitrogen fixation.
+phenotype_synopsis:
+  - PAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions by increasing the activity of APases.
+  - It is also involved in nodulation and nitrogen fixation.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
