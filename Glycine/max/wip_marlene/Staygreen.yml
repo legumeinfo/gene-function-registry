@@ -13,8 +13,13 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Complementation test confirms that SGR is Mendel's I locus. SGR is a positive regulator of pathways involved in breakdown of chlorophyll via translational or posttranslational regulation of chlorophyll degrading enzymes. The products of SGR are required to separate chlorophyll from the photosynthetic complex, allowing chlorophyll degrading enzymes access to their substrate. The sgr loss-of-function mutation is due to lower expression of the SGR gene and a small insertion that disrupts SGR protein fuction.
-phenotype_synopsis: The recessive phenotype sgr retains a high chlorophyll content during scenesence, causing cotyledons to stay green as they mature and leaves to stay green as they die. PsSGR is a cosmetic stay-green mutant and does not retain the ability to photosynthesize.
+  - Complementation test confirms that SGR is Mendel's I locus.
+  - SGR positively regulates pathways involved in breakdown of chlorophyll by translational or posttranslational regulation of chlorophyll degrading enzymes.
+  - The products of SGR are required to separate chlorophyll from the photosynthetic complex, allowing chlorophyll degrading enzymes access to their substrate.
+  - The sgr loss-of-function mutation is due to lower expression of the SGR gene and a small insertion that disrupts SGR protein fuction.
+phenotype_synopsis:
+  - Recessive sgr retains a high chlorophyll content during scenesence, causing cotyledons to stay green as they mature and leaves to stay green as they die.
+  - PsSGR is a cosmetic stay-green mutant and does not retain the ability to photosynthesize.
 traits:
   - entity_name:
     entity:
