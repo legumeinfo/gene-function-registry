@@ -1,0 +1,48 @@
+---
+gene_symbols:
+  - GmNFR1α
+gene_symbol_long: Nod Factor Receptor 1α
+gene_model_pub_name: Glyma02G270800
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G270800
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Mutants lacking NFR1α don't form nodules. Transgenic overexpression increased the number of nodules per plant and allowed plants to form nodules in unfavorable conditions.
+phenotype_synopsis: NFR1α codes for a receptor kinase which controls nodule number.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Indrasumunar, Searle et. al., 2012
+    doi: 10.1111/j.1365-313X.2010.04398.x
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmNFR1β
+gene_symbol_long: Nod Factor Receptor 1β
+gene_model_pub_name: Glyma14G046200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G046200
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Mutants with functional NFR1β but nonfunctional NFR1α have very minimal nodulation. Overexpression of NFR1β did not increase nodule number.
+phenotype_synopsis: NFR1β codes for a redundant receptor kinase. Its mRNA transcripts are unstable and its expression is not sufficient to induce a healthy level of nodulation.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Indrasumunar, Searle et. al., 2012
+    doi: 10.1111/j.1365-313X.2010.04398.x
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095

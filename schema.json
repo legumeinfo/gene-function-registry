@@ -1,0 +1,117 @@
+{
+    "type": "object",
+    "properties": {
+      "classical_locus": {
+        "description": "Name of locus if available from classical genetic studies",
+        "type": "string"
+      },
+      "gene_symbols": {
+        "description": "List of gene symbols if available from literature",
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "gene_symbol_long": {
+        "description": "Descriptive name of gene symbol if available",
+        "type": "string"
+      },
+      "gene_model_pub_name": {
+        "description": "Gene name from publication",
+        "type": "string"
+      },
+      "gene_model_full_id": {
+        "description": "Gene name in Data Store, with full prefix",
+        "type": "string"
+      },
+      "confidence": {
+        "description": "Confidence of association",
+        "minimum": 1,
+        "maximum": 5,
+        "type": "integer"
+      },
+      "curators": {
+        "description": "Name of curators who worked on this",
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "comments": {
+        "description": "Free text comments",
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "phenotype_synopsis": {
+        "description": "Brief free-text phenotype description, e.g. \"Seed raffinose concentration\" or \"photoperiod insensitivity to short day conditions\"",
+        "type": "string"
+      },
+      "traits": {
+        "description": "List of traits associated with this gene",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "entity_name": {
+              "description": "Short descriptive name of the ontology accession",
+              "type": "string"
+            },
+            "entity": {
+              "description": "Ontology accession for the trait",
+              "type": "string"
+            },
+            "quality_name": {
+              "description": "Short descriptive name for accession quality term",
+              "type": "string"
+            },
+            "quality": {
+              "description": "Ontology accession for the quality term",
+              "type": "string"
+            },
+            "relation_name": {
+              "description": "Short descriptive name for accession relation term",
+              "type": "string"
+            },
+            "relation": {
+              "description": "Ontology accession for the relation term",
+              "type": "string"
+            }
+          }
+        }
+      },
+      "references": {
+        "description": "List of references for this association",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "citation": {
+              "description": "Citation in the format \"LastName, LastName et al., YEAR\"",
+              "type": "string"
+            },
+            "doi": {
+              "description": "DOI for the publication",
+              "type": "string"
+            },
+            "pmid": {
+              "description": "PubMed ID for the publication",
+              "minimum": 1,
+              "type": "integer"
+            }
+          }
+        }
+      } 
+    },
+    "additionalProperties": false,
+    "required": [
+      "confidence",
+      "gene_model_full_id",
+      "gene_model_pub_name",
+      "phenotype_synopsis",
+      "references",
+      "traits"
+    ]
+}
+
