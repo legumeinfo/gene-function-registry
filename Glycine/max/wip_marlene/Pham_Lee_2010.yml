@@ -3,11 +3,9 @@ gene_symbols:
   - FAD2-1A
 gene_symbol_long: Fatty Acid Disaturase 2-1A
 gene_model_pub_name:
-  - Glyma10g278000 (this seems to have more support, but both appear in SoyBase!)
-  - Glyma10g42470
+  - Glyma10g278000
 gene_model_full_id:
   - glyma.Wm82.gnm2.ann1.Glyma.10G278000
-  - glyma.Wm82.gnm1.ann1.Glyma10g42470
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -36,11 +34,9 @@ gene_symbols:
   - FAD2-1B
 gene_symbol_long: Fatty Acid Disaturase 2-1B
 gene_model_pub_name:
-  - Glyma20g111000 (this one has more information in SoyBase, so I'm guessing this is the correct one)
-  - Glyma20g24530
+  - Glyma.20g111000
 gene_model_full_id:
-  - glyma.Wm82.gnm2.ann1.Glyma.10G278000
-  - glyma.Wm82.gnm1.ann1.Glyma10g42470
+  - glyma.Wm82.gnm4.ann1.Glyma.20G111000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
