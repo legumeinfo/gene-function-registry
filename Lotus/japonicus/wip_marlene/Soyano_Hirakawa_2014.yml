@@ -1,0 +1,33 @@
+---
+gene_symbols:
+  - LjNIN
+gene_symbol_long: Nodule INception
+gene_model_pub_name: Lj2g3v3373110
+gene_model_full_id: lotja.MG20.gnm3.ann1.Lj2g3v3373110
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Ectopic expression of NIN produces extra nodule-like structures but, in the presence of nitrate, downregulates genes needed to establish symbiosis. Constitutive expression of NIN eventually leads to suppression of NIN and stops further nodulation.
+phenotype_synopsis: NIN is part of a negative feedback loop. It codes for a transcription factor which induces nodulation by promoting cortical cell division, but also activates genes which code for the NIN-repressing signal proteins CLE-RS1 and CLE-RS2 which stop nodulation. NIN positively regulates rhizobium infection by inducing the genes necessary to establish symbiosis in the absence of nitrate.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Soyano, Hirakawa et. al., 2014
+    doi: 10.1073/pnas.1412716111
+    pmid: 25246578
+  - citation: Soyano, Shimoda et. al., 2015
+    doi: 10.1093/pcp/pcu168
+    pmid: 25416287
+  - citation: Yoro, Suzaki et. al., 2014
+    doi: 10.1104/pp.113.233379
+    pmid: 24722550
+  - citation: Nishida, Nosaki et. al., 2021
+    doi: doi.org/10.1093/plcell/koab103

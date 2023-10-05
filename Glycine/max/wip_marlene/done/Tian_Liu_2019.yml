@@ -1,7 +1,7 @@
 ---
 gene_symbols:
   - GmFLS2a
-gene_symbol_long: Glycine max flagellin sensing 2
+gene_symbol_long: flagellin sensing 2
 gene_model_pub_name: glyma.08g083300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G083300
 confidence: 4
@@ -22,7 +22,7 @@ references:
 ---
 gene_symbols:
   - GmFLS2b
-gene_symbol_long: Glycine max flagellin sensing 2
+gene_symbol_long: flagellin sensing 2
 gene_model_pub_name: glyma.05g128200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G128200
 confidence: 4

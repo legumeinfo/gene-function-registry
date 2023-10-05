@@ -1,0 +1,65 @@
+---
+gene_symbols:
+  - GmNNL1
+gene_symbol_long: Nodule Number Locus 1
+gene_model_pub_name: Glyma.02G076900
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G076900
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - NNL1 encodes an R protein that interacts with nodulation outer protein P (NopP) of Bradyrhizobium japonicum to prevent symbiosis.
+  - Different NNL1 alleles provide immunity to different B. japonicum symbionts.
+  - GmSINE1 may be inserted into NNL1, producing an inactive truncated protein. Infection proceeds normally when NNL1 is nonfunctional.
+  - NNL1 is induced by innoculation with B. japonicum and expressed in root hairs.
+phenotype_synopsis: NNL1 gives soy plants immunity to root hair infection by B. japonicum, which inhibits nodulation and reduces nitrogen fixation.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: negatively regulates
+    entity: RO:0002212
+references:
+  - citation: Zhang, Wang et. al, 2021
+    doi: 10.1038/s41477-020-00832-7
+    pmid: 33452487
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmRj2
+gene_symbol_long: Resistance j2
+gene_model_pub_name: Glyma16g33780
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G33780
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Rj2 interacts with rhizobial NopP to determine compatibility of infecting rhizobia.
+  - Different Rj2 alleles provide immunity to different Bradyrhizobium symbionts.
+  - When invading NopP is incompatible with host Rj2, Rj2 activates defence gene PR-2 to prevent infection.
+  - Regardless of rhizobial compatibility, Rj2 induces ENOD40.
+  - Rj2 is expressed in nodules, root hairs, root tips, and shoot meristems.
+phenotype_synopsis: Rj2 is a resistance gene involved in sensing compatibility between soy and Bradyrhizobium symbionts.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: negatively regulates
+    entity: RO:0002212
+references:
+  - citation: Zhang, Wang et. al, 2021
+    doi: 10.1038/s41477-020-00832-7
+    pmid: 33452487
+  - citation: Sugawara, Takahashi et. al., 2018
+    doi: 10.1038/s41467-018-05663-x
+    pmid: 30087346
+  - citation: Sugawara, Umehara et al., 2019
+    doi: 10.1371/journal.pone.0222469
+    pmid: 31518373
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095

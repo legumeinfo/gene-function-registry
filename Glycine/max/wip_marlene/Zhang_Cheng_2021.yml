@@ -1,7 +1,7 @@
 ---
 gene_symbols:
   - GmBTB/POZ
-gene_symbol_long: Glycine max broad complex tramtrack bric-a-brac pox virus and zinc finger
+gene_symbol_long: Broad Complex Tramtrack Bric-a-brac Pox Virus and Zinc finger
 gene_model_pub_name:
 gene_model_full_id:
 confidence: 4
@@ -23,7 +23,7 @@ references:
 ---
 gene_symbols:
   - GmLHP1
-gene_symbol_long: Glycine max like heterochromatin protein 1
+gene_symbol_long: Like Heterochromatin Protein 1
 gene_model_pub_name: Glyma.16G079900
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G079900
 confidence: 4

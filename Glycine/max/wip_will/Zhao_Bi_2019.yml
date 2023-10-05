@@ -1,0 +1,87 @@
+---
+classical_locus:
+gene_symbols:
+  - GmDGAT1A
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1A
+gene_model_pub_name: Glyma13g16560
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g16560.2
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - soybean genome contains more DGAT genes -> duplicaiton events
+phenotype_synopsis: increased fat content, reduced protein content, and increased response to temperature stress
+traits:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+---
+classical_locus:
+gene_symbols:
+  - GmDGAT1B
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1B
+gene_model_pub_name: Glyma17g06120
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g06120.1
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - soybean genome contains more DGAT genes -> duplicaiton events
+phenotype_synopsis: increased fat content and reduced protein content
+traits:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+  - entity_name: temperature response trait
+    entity: TO:0000432
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+
+---
+classical_locus:
+gene_symbols:
+  - GmDGAT1C
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1C
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 2
+curators:
+  - William Hardison
+comments:
+  - transcriptional analysis -> similarity to GmDGAT1A and GmDGAT1B, no knockdowns or other experiments
+phenotype_synopsis: increased fat content and reduced protein content
+traits:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+
+---
+classical_locus:
+gene_symbols:
+  - GmDGAT2D
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - soybean genome contains more DGAT genes -> duplicaiton events
+phenotype_synopsis: increased response to temperature stress
+traits:
+  - entity_name: temperature response trait
+    entity: TO:0000432
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+  - citation: Zhao, Jiangzhe, et al. 2019
+    doi: https://doi.org/10.1016/j.jplph.2019.153019
+    pmid: null

@@ -1,0 +1,29 @@
+---
+gene_symbols:
+  - GmbZIP123
+gene_symbol_long: Basic Leucine Zipper 123
+gene_model_pub_name: Glyma06g01240
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g01240
+confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - The effect of bZIP123 was studied in transgenic Arabidopsis, not soy.
+  - Overexpression of bZIP123 increases lipid content in transgenic Arabidopsis as well as upregulating the genes that bZIP123 acts on.
+phenotype_synopsis: bZIP123 is a transcription factor which promotes expression of sucrose transporter and cell wall invertase genes.
+traits:
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+  - entity_name: seed development
+    entity: GO:0048316
+references:
+  - citation: Song, Li et. al., 2013
+    doi: 10.1093/jxb/ert238
+    pmid: 23963672
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726

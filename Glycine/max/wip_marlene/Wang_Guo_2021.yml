@@ -1,0 +1,68 @@
+---
+gene_symbols:
+  - GmSTF3
+gene_symbol_long: Soybean TGACG-motif binding Factor 3
+gene_model_pub_name: Glyma14G088300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G088300
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Overexpression of STF3 increased nodulation, RNAi knockdown decreased nodulation.
+  - STF3 is induced by the blue light activated transcription factor CRY1 and expressed mainly in leaves.
+  - The protein product of STF3 migrates from shoots to roots.
+  - After migration, it is phosphorylated by calcium/calmodulin dependent protein kinase (CCaMK), which is activated by rhizobial infection.
+  - Phosphorylation causes STF3 and FT2a to form a complex.
+phenotype_synopsis: STF3 promotes nodulation by inducing expression of nodule signalling pathway 1 (NSP1), nodule inception (NIN), and nuclear factor Y (NFY) genes.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: positive regulation of lateral root development
+    entity: GO:1901333
+references:
+  - citation: Wang, Guo et. al., 2021
+    doi: 10.1126/science.abh2890
+    pmid: 34591638
+  - citation: Hasan, Corpas et. al., 2022
+    doi: 10.1016/j.tplants.2022.07.002
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+---
+gene_symbols:
+  - GmFT2a
+gene_symbol_long: Flowering locus T2a
+gene_model_pub_name: Glyma16G150700
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G150700
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Overexpression of FT2a increased nodulation while RNAi knockdown decreased nodulation.
+  - FT2a is induced by the transcription factors GmCRY1 and CONSTANS.
+  - It is mainly expressed in leaves and migrates from shoots to roots.
+  - In the shoots, the product of FT2a forms a complex with the phosphorylated product of STF3.
+phenotype_synopsis: FT2a is known for stimulating flowering but it also positivley regulates nodulation.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: positive regulation of lateral root development
+    entity: GO:1901333
+  - entity_name: flowering
+references:
+  - citation: Wang, Guo et. al., 2021
+    doi: 10.1126/science.abh2890
+    pmid: 34591638
+  - citation: Hasan, Corpas et. al., 2022
+    doi: 10.1016/j.tplants.2022.07.002
+  - citation: Yang, Lan et. al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
