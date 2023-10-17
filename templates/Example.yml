@@ -36,10 +36,10 @@ gene_symbols:
   -  # If there are multiple names for one gene, enter them on separate lines with the most common name listed first.
   -  # If more than one gene is described in the same paper, paste another copy of this template at the bottom of your document and fill it in for the second gene.
 gene_symbol_long:  # The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1" (do not include the prefix Glycine max).
-gene_model_pub_name:  # REQUIRED; This should be listed in the publication in the format "GlymaXXgXXXXX," e.g. "Glyma12g07800".
-# If the paper has no "GlymaXXgXXXXX," try one of the search methods described at the bottom of this document.
+gene_model_pub_name:  # REQUIRED; This should be listed in the publication, e.g., Glyma02g17170.2, SoyW82_02G152800.1, or Glyma.02G152800, depending on the annotation version.
+# If the paper has no gene model name (rather, has a gene symbol plus sequence) try one of the search methods described at the bottom of this document.
 gene_model_full_id:  # REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
-# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://jekyll.dev.lis.ncgr.org/tools/search/gene.html
+# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://www.legumeinfo.org/tools/search/gene.html
 confidence:  # A value from 1 to 5 showing how strong the evidence for the gene's function is.
 # See the bottom of the document for guidance on assigning a confidence level.
 curators:
