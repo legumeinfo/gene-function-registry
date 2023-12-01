@@ -1,6 +1,6 @@
 ---
 # DIRECTIONS
-# As your first curation assignment, read the paper Tang, Su et. al., 2017 (doi: 10.1093/jxb/erw425).
+# As your first curation assignment, read the paper Tang, Su et al., 2017 (doi: 10.1093/jxb/erw425).
 # Create your own yml file based on the blank and annotated templates below.
 # Name your new file "Tang_Su_2012_practice.yml."
 # When you are done, compare your yml file to the Answer Key provided below.
@@ -36,10 +36,10 @@ gene_symbols:
   -  # If there are multiple names for one gene, enter them on separate lines with the most common name listed first.
   -  # If more than one gene is described in the same paper, paste another copy of this template at the bottom of your document and fill it in for the second gene.
 gene_symbol_long:  # The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1" (do not include the prefix Glycine max).
-gene_model_pub_name:  # REQUIRED; This should be listed in the publication in the format "GlymaXXgXXXXX," e.g. "Glyma12g07800".
-# If the paper has no "GlymaXXgXXXXX," try one of the search methods described at the bottom of this document.
+gene_model_pub_name:  # REQUIRED; This should be listed in the publication, e.g., Glyma02g17170.2, SoyW82_02G152800.1, or Glyma.02G152800, depending on the annotation version.
+# If the paper has no gene model name (rather, has a gene symbol plus sequence) try one of the search methods described at the bottom of this document.
 gene_model_full_id:  # REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
-# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://jekyll.dev.lis.ncgr.org/tools/search/gene.html
+# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://www.legumeinfo.org/tools/search/gene.html
 confidence:  # A value from 1 to 5 showing how strong the evidence for the gene's function is.
 # See the bottom of the document for guidance on assigning a confidence level.
 curators:
@@ -51,7 +51,7 @@ comments:
 phenotype_synopsis:  # Briefly describe the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
 traits:  # REQUIRED; at least one "entity" ontology accession describing the function of the gene. Find ontologies by searching this database: https://www.ebi.ac.uk/ols/ontologies
   - entity_name:  # The name of the ontology accession, e.g. "nodulation"
-    entity:  # The ontology accession code, e.g. "GO:0009877." Those that begin with "GO" are plant traits.
+    entity:  # The ontology accession code, e.g. "TO:0000898", with "TO" indicating the Trait Ontology
   - quality_name:  # Optional; quality ontologies can be used to describe properties of the trait, e.g. "premature."
     quality:  # Quality ontology codes usually begin with "PATO"
   - relation_name:  # Optional; Relations ontologies can be used to describe the effects of the trait, e.g. "negatively regulates."
@@ -60,8 +60,7 @@ traits:  # REQUIRED; at least one "entity" ontology accession describing the fun
     entity:  # Code of additional ontology.
     # You can add more lines describing the qualities and relations of your additional ontology entities.
 references:  # REQUIRED; At least one citation with its doi or pmid. Ideally, include several citations.
-  - citation:  # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et. al., 2014"
-    doi:  # the bare doi (omit https://doi.org/), e.g. "10.1105/tpc.114.131607," not "https://doi.org/10.1105/tpc.114.131607"
+  - citation:  # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et al., 2014"    doi:  # the bare doi (omit https://doi.org/), e.g. "10.1105/tpc.114.131607," not "https://doi.org/10.1105/tpc.114.131607"
     pmid:  # Either search for your paper on PubMed, or use the "get_citations.pl" script in a new document to find pmid based on doi (or vice versa!). E.g. "25549672."
   - citation:  # Additional citation of a paper providing more information.
     doi:
@@ -94,13 +93,13 @@ traits:
   - entity_name: starch content
     entity: TO:0000696
 references:
-  - citation: Tang, Su et. al., 2017
+  - citation: Tang, Su et al., 2017
     doi: 10.1093/jxb/erw425
     pmid: 28204559
-  - citation: Su, Han et. al., 2018
+  - citation: Su, Han et al., 2018
     doi: 10.3390/ijms19082395
     pmid: 30110937
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
@@ -130,10 +129,10 @@ traits:
   - entity_name: starch content
     entity: TO:0000696
 references:
-  - citation: Tang, Su et. al., 2017
+  - citation: Tang, Su et al., 2017
     doi: 10.1093/jxb/erw425
     pmid: 28204559
-  - citation: Su, Han et. al., 2018
+  - citation: Su, Han et al., 2018
     doi: 10.3390/ijms19082395
     pmid: 30110937
 ---
