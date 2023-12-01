@@ -60,8 +60,7 @@ traits:  # REQUIRED; at least one "entity" ontology accession describing the fun
     entity:  # Code of additional ontology.
     # You can add more lines describing the qualities and relations of your additional ontology entities.
 references:  # REQUIRED; At least one citation with its doi or pmid. Ideally, include several citations.
-  - citation:  # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et al., 2014"
-    doi:  # the bare doi (omit https://doi.org/), e.g. "10.1105/tpc.114.131607," not "https://doi.org/10.1105/tpc.114.131607"
+  - citation:  # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et al., 2014"    doi:  # the bare doi (omit https://doi.org/), e.g. "10.1105/tpc.114.131607," not "https://doi.org/10.1105/tpc.114.131607"
     pmid:  # Either search for your paper on PubMed, or use the "get_citations.pl" script in a new document to find pmid based on doi (or vice versa!). E.g. "25549672."
   - citation:  # Additional citation of a paper providing more information.
     doi:
