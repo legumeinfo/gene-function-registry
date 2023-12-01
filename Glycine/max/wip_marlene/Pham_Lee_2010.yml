@@ -2,10 +2,8 @@
 gene_symbols:
   - FAD2-1A
 gene_symbol_long: Fatty Acid Disaturase 2-1A
-gene_model_pub_name:
-  - Glyma10g278000
-gene_model_full_id:
-  - glyma.Wm82.gnm2.ann1.Glyma.10G278000
+gene_model_pub_name: Glyma10g278000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G278000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -33,10 +31,8 @@ references:
 gene_symbols:
   - FAD2-1B
 gene_symbol_long: Fatty Acid Disaturase 2-1B
-gene_model_pub_name:
-  - Glyma.20g111000
-gene_model_full_id:
-  - glyma.Wm82.gnm4.ann1.Glyma.20G111000
+gene_model_pub_name: Glyma.20g111000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G111000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
