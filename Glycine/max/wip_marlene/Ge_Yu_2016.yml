@@ -2,8 +2,8 @@
 gene_symbols:
   - GmBS1
 gene_symbol_long: Big Seeds 1
-gene_model_pub_name: Glyma10g38970
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10g38970
+gene_model_pub_name: Glyma10G38970
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G38970
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
