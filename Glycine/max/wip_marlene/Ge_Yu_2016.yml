@@ -2,11 +2,12 @@
 gene_symbols:
   - GmBS1
 gene_symbol_long: Big Seeds 1
-gene_model_pub_name: Glyma10g38970
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10g38970
+gene_model_pub_name: Glyma10G38970
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G38970
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - Downregulation of BS1 increases seed size, weight, and amino acid content.
 phenotype_synopsis: BS1 negatively regulates the size of seeds, seed pods, and leaves.
@@ -24,9 +25,9 @@ traits:
   - relation_name: negatively regulates
     relation: RO:0002212
 references:
-  - citation: Ge, Yu et. al., 2016
+  - citation: Ge, Yu et al., 2016
     doi: 10.1073/pnas.1611763113
     pmid: 27791139
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
