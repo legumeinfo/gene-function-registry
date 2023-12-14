@@ -2,7 +2,7 @@
 gene_symbols:
   - GmNFR1α
 gene_symbol_long: Nod Factor Receptor 1α
-gene_model_pub_name: Glyma02G270800
+gene_model_pub_name: Glyma.02G270800
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G270800
 confidence: 5
 curators:
@@ -20,17 +20,17 @@ traits:
   - relation_name: positively regulates
     relation: RO:0002213
 references:
-  - citation: Indrasumunar, Searle et. al., 2011
+  - citation: Indrasumunar, Searle et al., 2011
     doi: 10.1111/j.1365-313X.2010.04398.x
     pmid: 21175888
-  - citation: Yang, Lan et. al., 2022
+  - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
 ---
 gene_symbols:
   - GmNFR1β
 gene_symbol_long: Nod Factor Receptor 1β
-gene_model_pub_name: Glyma14G046200
+gene_model_pub_name: Glyma.14G046200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G046200
 confidence: 5
 curators:
@@ -47,9 +47,9 @@ traits:
   - entity_name: nodulation
     entity: GO:0009877
 references:
-  - citation: Indrasumunar, Searle et. al., 2011
+  - citation: Indrasumunar, Searle et al., 2011
     doi: 10.1111/j.1365-313X.2010.04398.x
     pmid: 21175888
-  - citation: Yang, Lan et. al., 2022
+  - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
