@@ -1,7 +1,7 @@
 ---
 gene_symbols:
-  - PHR1
-gene_symbol_long: PHosphate starvation Response 1
+  - GmPHR1
+gene_symbol_long: Phosphate Starvation Response 1
 gene_model_pub_name: Glyma01G009600
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G009600
 confidence: 4
@@ -35,8 +35,8 @@ references:
     pmid: 34962095
 ---
 gene_symbols:
-  - PHR4
-gene_symbol_long: PHosphate starvation Response 4
+  - GmPHR4
+gene_symbol_long: Phosphate Starvation Response 4
 gene_model_pub_name: Glyma02g108500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G108500
 confidence: 4
