@@ -12,10 +12,10 @@ curators:
 comments:
   - GmPHR1 is expressed throughout nodules and expression increases as nodules develop.
   - Transgenic overexpression increased nodule size and increased the concentration of N and P.
-  - GmPHR1 and GmPHR4 promote each other's expression.
-  - When phosphorus is abundant, overexpression of GmPHR1 represses GmPHT1-4.
-  - GmPHR1 positively regulates GmPAP12 (see Wang, Yang et al., 2020).
-phenotype_synopsis: GmPHR1 is a constitutively expressed transcription factor which induces expression of GmPHT1s to promote phosphate uptake. Together, GmPHRs and GmPHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
+  - PHR1 and GmPHR4 promote each other's expression.
+  - When phosphorus is abundant, overexpression of PHR1 represses GmPHT1-4.
+  - PHR1 positively regulates GmPAP12 (see Wang, Yang et al., 2020).
+phenotype_synopsis: GmPHR1 is a constitutively expressed transcription factor which induces expression of GmPHT1s to promote phosphate uptake. Together, PHRs and PHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -39,19 +39,19 @@ gene_symbols:
   - GmPHR4
   - PHR4
 gene_symbol_long: Phosphate Starvation Response 4
-gene_model_pub_name: Glyma02g108500
+gene_model_pub_name: Glyma.02G108500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G108500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - PHR4 is expressed in noninfected nodule tissues. Transgenic overexpression increased nodule size but decreased nodule number.
-  - PHR4 targets PHT1-1, PHT1-4, and PHT1-11.
-  - PHR4 and PHR1 promote each other's expression.
-  - When Pi is abundant, overexpression of PHR4 increases expression of PHT1-4.
+  - GmPHR4 is expressed in noninfected nodule tissues. Transgenic overexpression increased nodule size but decreased nodule number.
+  - PHR4 targets GmPHT1-1, GmPHT1-4, and GmPHT1-11.
+  - PHR4 and GmPHR1 promote each other's expression.
+  - When phosphorus is abundant, overexpression of PHR4 increases expression of PHT1-4.
   - Silencing of PHR4 had no effect on PHT1-4 expression.
-phenotype_synopsis: PHR4 is a constitutively expressed transcription factor which induces expression of PHT1s to promote phosphate uptake. Together, PHRs and PHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
+phenotype_synopsis: GmPHR4 is a constitutively expressed transcription factor which induces expression of GmPHT1s to promote phosphate uptake. Together, PHRs and PHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -63,19 +63,20 @@ references:
     pmid: 32680974
 ---
 gene_symbols:
+  - GmPHT1-1
   - PHT1-1
-gene_symbol_long: PHosphate Transporter 1-1
-gene_model_pub_name: Glyma10g33030
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10g33030
+gene_symbol_long: Phosphate Transporter 1-1
+gene_model_pub_name: Glyma10G33030
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G33030
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Expression is enhanced by PHR1 in N2-fixing regions.
-  - Expression is enhanced in non N2-fixing regions by both PHR1 and PHR4.
-  - Expression of PHT1-1 is positively correlated with nitrogen fixation.
-phenotype_synopsis: PHT1-1 is a target of PHR1 and PHR4. It encodes a plasma membrane phosphate transporter.
+  - Expression is enhanced by GmPHR1 in N2-fixing regions.
+  - Expression is enhanced in non N2-fixing regions by both PHR1 and GmPHR4.
+  - Expression of GmPHT1-1 is positively correlated with nitrogen fixation.
+phenotype_synopsis: GmPHT1-1 is a target of GmPHR1 and GmPHR4. It encodes a plasma membrane phosphate transporter.
 traits:
   - entity_name: inorganic phosphate transmembrane transporter activity
     entity: GO:0005315
