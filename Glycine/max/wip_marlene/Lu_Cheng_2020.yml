@@ -93,8 +93,9 @@ references:
     pmid: 34962095
 ---
 gene_symbols:
+  - GmPHT1-4
   - PHT1-4
-gene_symbol_long: PHosphate Transporter 1-4
+gene_symbol_long: Phosphate Transporter 1-4
 gene_model_pub_name: Glyma.10G036800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G036800
 confidence: 3
