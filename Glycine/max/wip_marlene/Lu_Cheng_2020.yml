@@ -103,11 +103,11 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - PHR1 and PHR4 enhance expression of PHT1-4 in non N2-fixing regions.
-  - When Pi concentration is low, PHR4 enhances PHT1-4 expression.
-  - When Pi is readily available, overexpression of PHR1 represses PHT1-4.
-  - Expression of PHT1-1 is positively correlated with nitrogen fixation.
-phenotype_synopsis: PHT1-4 is a target of PHR1 and PHR4. It encodes a plasma membrane phosphate transporter.
+  - GmPHR1 and GmPHR4 enhance expression of GmPHT1-4 in non N2-fixing regions.
+  - When phosphorus concentration is low, PHR4 enhances PHT1-4 expression.
+  - When phosphorus is readily available, overexpression of PHR1 represses PHT1-4.
+  - Expression of GmPHT1-1 is positively correlated with nitrogen fixation.
+phenotype_synopsis: GmPHT1-4 is a target of GmPHR1 and GmPHR4. It encodes a plasma membrane phosphate transporter.
 traits:
   - entity_name: inorganic phosphate transmembrane transporter activity
     entity: GO:0005315
@@ -124,8 +124,9 @@ references:
     pmid: 34962095
 ---
 gene_symbols:
+  - GmPHT1-11
   - PHT1-11
-gene_symbol_long: PHosphate Transporter 1-11
+gene_symbol_long: Phosphate Transporter 1-11
 gene_model_pub_name: Glyma.14G188000
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G188000
 confidence: 4
@@ -133,13 +134,13 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - PHT1-11 is expressed in noninfected nodule tissues.
+  - GmPHT1-11 is expressed in noninfected nodule tissues.
   - RNAi silencing of PHT1-11 increased nodule number but decreased nodule size and nitrogenase activity.
   - Transgenic overexpression of PHT1-11 enhanced nitrogenase activity.
-  - Expression of PHT1-11 is enhanced by PHR1, except in N2-fixing regions, where PHR1 represses PHT1-11.
-  - PHT1-11 is repressed by PHR4.
-  - Overexpression of PHT1-11 represses PHT1-4.
-phenotype_synopsis: PHT1-11 is targeted by PHR1 and PHR4. It encodes a plasma membrane phosphate transporter.
+  - Expression of PHT1-11 is enhanced by GmPHR1, except in N2-fixing regions, where PHR1 represses PHT1-11.
+  - PHT1-11 is repressed by GmPHR4.
+  - Overexpression of PHT1-11 represses GmPHT1-4.
+phenotype_synopsis: GmPHT1-11 is targeted by GmPHR1 and GmPHR4. It encodes a plasma membrane phosphate transporter.
 traits:
   - entity_name: inorganic phosphate transmembrane transporter activity
     entity: GO:0005315
