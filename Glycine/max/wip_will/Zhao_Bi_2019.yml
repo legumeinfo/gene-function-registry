@@ -46,8 +46,8 @@ classical_locus:
 gene_symbols:
   - GmDGAT1C
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1C
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma09g07520
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g07520.2
 confidence: 2
 curators:
   - William Hardison
@@ -67,12 +67,13 @@ classical_locus:
 gene_symbols:
   - GmDGAT2D
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma01g36010
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma01g36010.1
 confidence: 3
 curators:
   - William Hardison
 comments:
+  - The gene model full id I pieced together from Information I found so it is probably wrong. (Williams 82, Glycine_Max_v4.0)
   - soybean genome contains more DGAT genes -> duplicaiton events
 phenotype_synopsis: increased response to temperature stress
 traits:
@@ -84,4 +85,3 @@ references:
     pmid: 31437808
   - citation: Zhao, Jiangzhe, et al. 2019
     doi: https://doi.org/10.1016/j.jplph.2019.153019
-    pmid: null
