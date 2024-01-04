@@ -12,10 +12,10 @@ curators:
 comments:
   - GmPHR1 is expressed throughout nodules and expression increases as nodules develop.
   - Transgenic overexpression increased nodule size and increased the concentration of N and P.
-  - PHR1 and GmPHR4 promote each other's expression.
-  - When phosphorus is abundant, overexpression of PHR1 represses GmPHT1-4.
-  - PHR1 positively regulates GmPAP12 (see Wang, Yang et al., 2020).
-phenotype_synopsis: GmPHR1 is a constitutively expressed transcription factor which induces expression of GmPHT1s to promote phosphate uptake. Together, PHRs and PHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
+  - GmPHR1 and GmPHR4 promote each other's expression.
+  - When phosphorus is abundant, overexpression of GmPHR1 represses GmPHT1-4.
+  - GmPHR1 positively regulates GmPAP12 (see Wang, Yang et al., 2020).
+phenotype_synopsis: GmPHR1 is a constitutively expressed transcription factor which induces expression of GmPHT1s to promote phosphate uptake. Together, GmPHRs and GmPHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -51,7 +51,7 @@ comments:
   - PHR4 and GmPHR1 promote each other's expression.
   - When phosphorus is abundant, overexpression of PHR4 increases expression of PHT1-4.
   - Silencing of PHR4 had no effect on PHT1-4 expression.
-phenotype_synopsis: GmPHR4 is a constitutively expressed transcription factor which induces expression of GmPHT1s to promote phosphate uptake. Together, PHRs and PHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
+phenotype_synopsis: PHR4 is a constitutively expressed transcription factor which induces expression of PHT1s to promote phosphate uptake. Together, PHRs and PHT1s maintain inorganic phosphate (Pi) homeostasis in nodules.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
