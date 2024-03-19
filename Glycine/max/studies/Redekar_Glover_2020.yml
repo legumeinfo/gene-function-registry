@@ -1,8 +1,7 @@
 ---
 gene_symbols:
   - GmMIPS
-  - GmMIPS1
-gene_symbol_long: Myo-Inositol-3-Phosphate Synthase
+gene_symbol_long: Myo-Inositol-Phosphate Synthase
 gene_model_pub_name: Glyma.11G238800
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G238800
 confidence: 3
@@ -10,8 +9,8 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Silencing of MIPS in transgenic lines (with RNAi and antisense) reduces accumulation of phytic acid in seeds.
-phenotype_synopsis: MIPS codes for the rate-limiting enzyme in phytic acid biosynthesis. Supression of MIPS reduces the phytic acid concentration in seeds which improves their nutritional value, but also reduces their germination rate.
+  - Silencing of GmMIPS in transgenic lines (with RNAi and antisense) reduces accumulation of phytic acid in seeds.
+phenotype_synopsis: GmMIPS codes for the rate-limiting enzyme in phytic acid biosynthesis. Supression of MIPS reduces the phytic acid concentration in seeds which improves their nutritional value, but also reduces their germination rate.
 traits:
   - entity_name: biosynthetic process
     entity: GO:0009058
