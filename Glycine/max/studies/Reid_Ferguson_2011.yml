@@ -1,11 +1,13 @@
 ---
 gene_symbols:
-  - RIC1
   - GmRIC1
 gene_symbol_long: Rhizobia-Induced CLE
 gene_model_pub_name: Glyma13g36830
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G368300
 confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC1 is upregulated hours after injection.
   - Introduction of plasmids carrying an extra dose of RIC1 inhibited nodulation.
@@ -23,12 +25,14 @@ references:
     pmid: 21198362
 ---
 gene_symbols:
-  - RIC2
   - GmRIC2
 gene_symbol_long: Rhizobia-Induced CLE
 gene_model_pub_name: Glyma.13G292300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G292300
 confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC2 is upregulated a few days after injection.
   - Introduction of plasmids carrying an extra dose of RIC2 inhibited nodulation.
@@ -46,12 +50,14 @@ references:
     pmid: 21198362
 ---
 gene_symbols:
-  - NIC1
   - GmNIC1
 gene_symbol_long: Nitrate-Induced CLE
 gene_model_pub_name: Glyma12g33660
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g33660
 confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - RT-qPCR conducted on root tissue exposed to varying concentrations of nitrate showed that NIC1 expression is induced when roots are exposed to nitrate.
   - Introduction of plasmids carrying an extra dose of NIC1 inhibited nodulation.
