@@ -1,17 +1,17 @@
 ---
 gene_symbols:
   - GmRIC1
-gene_symbol_long: Rhizobia-Induced CLE
-gene_model_pub_name: Glyma13g36830
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G368300
+gene_symbol_long: Rhizobia-Induced CLE 1
+gene_model_pub_name: Glyma13G36830
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G292300
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that RIC1 is upregulated hours after injection.
+  - RT-qPCR studies conducted on tissue injected with Bradyrhizobium nodulation factor showed that GmRIC1 is upregulated hours after injection.
   - Introduction of plasmids carrying an extra dose of RIC1 inhibited nodulation.
-phenotype_synopsis: RIC1 reduces nodulation in Lotus japonicus and Medicago truncatula. It is induced by Bradyrhizobium nodulation factor.
+phenotype_synopsis: GmRIC1 reduces nodulation in Lotus japonicus and Medicago truncatula. It is induced by Bradyrhizobium nodulation factor.
 traits:
   - entity_name: plant organ growth and development trait
     entity: TO:0000927
@@ -26,7 +26,7 @@ references:
 ---
 gene_symbols:
   - GmRIC2
-gene_symbol_long: Rhizobia-Induced CLE
+gene_symbol_long: Rhizobia-Induced CLE 2
 gene_model_pub_name: Glyma.13G292300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G292300
 confidence: 5
@@ -51,7 +51,7 @@ references:
 ---
 gene_symbols:
   - GmNIC1
-gene_symbol_long: Nitrate-Induced CLE
+gene_symbol_long: Nitrate-Induced CLE 1
 gene_model_pub_name: Glyma12g33660
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g33660
 confidence: 5
