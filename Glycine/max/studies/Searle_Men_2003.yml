@@ -7,6 +7,7 @@ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G040000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - All these studies identified the implicated gene by comparing mutant strains to each other and to WT.
   - NARK is a negative regulator of miR172c, which affects the activity of nodulation gene NNC1 (see Wang, Wang et. al., 2014).
@@ -24,17 +25,17 @@ traits:
   - entity_name: root development
     entity: GO:0048364
 references:
-  - citation: Searle, Men et. al., 2003
+  - citation: Searle, Men et al., 2003
     doi: 10.1126/science.1077937
     pmid: 12411574
-  - citation: Kim, Van et. al., 2005
+  - citation: Kim, Van et al., 2005
     doi: 10.1007/s00122-004-1887-2
     pmid: 15731930
-  - citation: Meixner, Vegvari et. al., 2007
+  - citation: Meixner, Vegvari et al., 2007
     doi: 10.1111/j.1399-3054.2007.00903.x
-  - citation: Wang, Wang et. al., 2014
+  - citation: Wang, Wang et al., 2014
     doi: 10.1105/tpc.114.131607
     pmid: 25549672
-  - citation: Yang, Lan et. al., 2022
+  - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
