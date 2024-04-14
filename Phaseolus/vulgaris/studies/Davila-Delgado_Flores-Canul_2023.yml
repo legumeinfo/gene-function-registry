@@ -56,7 +56,7 @@ references:
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtDMI2
-gene_symbol_long: "Doesn't Make Infections"
+gene_symbol_long: Doesnt Make Infections
 gene_model_pub_name: Medtr5g030920
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g030920
 confidence: 5
