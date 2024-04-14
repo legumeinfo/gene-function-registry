@@ -1,7 +1,7 @@
-## DOCUMENT 1 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - ANS
+  - MtANS
 gene_symbol_long: Anthocyanidin synthase
 gene_model_pub_name: Medtr5g011250
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g011250
@@ -24,11 +24,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 2 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - bHLH1
+  - MtbHLH1
 gene_symbol_long: basic helix loop helix 1
 gene_model_pub_name: Medtr3g099620
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g099620
@@ -55,11 +54,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 3 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - CBF4
+  - MtCBF4
 gene_symbol_long: C-repeat binding factor 4
 gene_model_pub_name: Medtr1g101600
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g101600
@@ -84,11 +82,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 4 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - CDC16
+  - MtCDC16
 gene_symbol_long: cell division cycle 16
 gene_model_pub_name: Medtr8g058380
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g058380
@@ -117,11 +114,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 5 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - CDPK1
+  - MtCDPK1
 gene_symbol_long: calcium-dependent protein kinase 1
 gene_model_pub_name: Medtr5g022030
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g022030
@@ -150,11 +146,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 6 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - chitIII-3
+  - MtchitIII-3
 gene_symbol_long: class III chitinase
 gene_model_pub_name: Medtr8g055940
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g055940
@@ -173,11 +168,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 7 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - CPK3
+  - MtCPK3
 gene_symbol_long: calcium dependent protein kinase 3
 gene_model_pub_name: ABE72958.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g051770
@@ -200,11 +194,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 8 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - CYCLOPS
+  - MtCYCLOPS
 gene_model_pub_name: Medtr5g026850
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g026850
 confidence: 5
@@ -224,11 +217,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 9 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - cyp716A12
+  - Mtcyp716A12
 gene_symbol_long: cytochrome P450 monoxygenase
 gene_model_pub_name: Medtr3g021350
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g021350
@@ -249,11 +241,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 10 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - DMI1
+  - MtDMI1
 gene_symbol_long: doesn't make infections 1
 gene_model_pub_name: Medtr2g005870
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g005870
@@ -276,11 +267,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 11 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - DMI3
+  - MtDMI3
 gene_symbol_long: doesn't make infections 3
 gene_model_pub_name: Medtr8g043970
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g043970
@@ -303,11 +293,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 12 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - ENOD40
+  - MtENOD40
 gene_symbol_long: Abnormal tissue development
 gene_model_pub_name: CAD48198.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g034835
@@ -326,11 +315,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 13 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - FCL1
+  - MtFCL1
 gene_symbol_long: fused compound leaf 1
 gene_model_pub_name: Medtr6g071190
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g071190
@@ -357,11 +345,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 14 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - FLOT2
+  - MtFLOT2
 gene_symbol_long: Flotillin-like protein 2
 gene_model_pub_name: Medtr3g106420
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106420
@@ -392,11 +379,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 15 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - FLOT3
+  - MtFLOT3
 gene_symbol_long: Flotillin-like protein 3
 gene_model_pub_name: Medtr3g106480
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106480
@@ -419,11 +405,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 16 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - FLOT4
+  - MtFLOT4
 gene_symbol_long: Flotillin-like protein 4
 gene_model_pub_name: Medtr3g106430
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106430
@@ -448,9 +433,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 17 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FTa1
 gene_symbol_long: Delayed flowering
@@ -471,9 +455,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 18 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FTc
 gene_symbol_long: Flower development normal under long days
@@ -494,9 +477,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 19 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - GT3
   - UGT73F3
@@ -528,11 +510,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 20 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - HAP2.1
+  - MtHAP2.1
 gene_model_pub_name: Medtr1g056530
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
 confidence: 5
@@ -552,11 +533,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 21 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - LIN
+  - MtLIN
 gene_symbol_long: Lumpy infections
 gene_model_pub_name: Medtr1g090320
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g090320
@@ -575,11 +555,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 22 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - LYK3
+  - MtLYK3
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 3
 gene_model_pub_name: Medtr5g086130
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g086130
@@ -602,11 +581,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 23 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - LYK4
+  - MtLYK4
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 4
 gene_model_pub_name: Medtr5g086120
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g086120
@@ -629,9 +607,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 24 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtAOC
 gene_symbol_long: Allene-oxide cyclase
@@ -654,9 +631,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 25 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtCCD1
 gene_symbol_long: carotenoid cleavage dioxygenase 1
@@ -679,9 +655,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 26 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtCre1
 gene_symbol_long: Cytokinin Response1
@@ -712,9 +687,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 27 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtNAP1
 gene_symbol_long: Nick-associated protein 1
@@ -745,11 +719,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 28 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - NAM
+  - MtNAM
   - NAM-2
 gene_symbol_long: No Apical Meristem (weak allele)
 gene_model_pub_name: AFI56799.1
@@ -807,11 +780,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 29 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - NFP
+  - MtNFP
 gene_symbol_long: Nod Factor Perception
 gene_model_pub_name: Medtr5g019040
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g019040
@@ -830,11 +802,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 30 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - nork
+  - MtNORK
 gene_symbol_long: nodulation receptor kinase
 gene_model_pub_name: Medtr5g030920
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g030920
@@ -857,11 +828,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 31 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - PALM1
+  - MtPALM1
 gene_symbol_long: PALMATE-LIKE PENTAFOLIATA1
 gene_model_pub_name: Medtr5g014400
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g014400
@@ -888,11 +858,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 32 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - SGL1
+  - MtSGL1
 gene_symbol_long: single leaflet1
 gene_model_pub_name: Medtr3g098560
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g098560
@@ -919,11 +888,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 33 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - EIN2
+  - MtEIN2
   - Skl1
 gene_symbol_long: Ethylene Insensitive2
 gene_model_pub_name: Medtr7g101410
@@ -965,11 +933,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 34 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - SUNN
+  - MtSUNN
 gene_symbol_long: super numeric nodules
 gene_model_pub_name: Medtr4g070970
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g070970
@@ -996,11 +963,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 35 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - VPY
+  - MtVPY
 gene_symbol_long: Vapyrin
 gene_model_pub_name: ADC33495.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g027840
@@ -1023,11 +989,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 36 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - ERN1
+  - MtERN1
 gene_symbol_long: Ethylene Response Factor Required for Nodulation1
 gene_model_pub_name: EU038802
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g085810
@@ -1046,11 +1011,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 37 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - ERN2
+  - MtERN2
 gene_symbol_long: Ethylene Response Factor Required for Nodulation2
 gene_model_pub_name: EU038803
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g029180
@@ -1069,11 +1033,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 38 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - EXPA
+  - MtEXPA
 gene_symbol_long: EXPANSIN A7
 gene_model_pub_name: DQ899790
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g102450
@@ -1092,11 +1055,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 39 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - NIN
+  - MtNIN
 gene_symbol_long: Nodule Inception
 gene_model_pub_name: Medtr5g099060
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g099060
@@ -1115,11 +1077,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 40 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - NRT1.3
+  - MtNRT1.3
 gene_symbol_long: Nitrate Transporter 1.3
 gene_model_pub_name: GU966590
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g085850
@@ -1138,11 +1099,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 41 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - NSP1
+  - MtNSP1
 gene_symbol_long: Nodulation signaling pathway 1
 gene_model_pub_name: AJ972478
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g020840
@@ -1161,11 +1121,10 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 42 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
-  - RR4
+  - MtRR4
 gene_symbol_long: Response Regulator 4
 gene_model_pub_name: Medtr5g036480
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g036480
@@ -1180,5 +1139,4 @@ references:
   - citation: Vernie, Kim et al., 2015
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
-
 

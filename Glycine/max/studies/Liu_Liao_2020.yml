@@ -1,5 +1,5 @@
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmVTL1a
 gene_symbol_long: Vacuolar Iron Transporter Like 1A
@@ -20,7 +20,7 @@ references:
     doi: 10.1111/nph.16506
     pmid: 32119117
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmVTL1b
 gene_symbol_long: Vacuolar Iron Transporter Like 1B

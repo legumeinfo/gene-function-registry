@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmCIF1
 gene_symbol_long: Cell Wall Invertase Inhibitor
@@ -35,6 +36,7 @@ references:
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmC/VIF2
 gene_symbol_long: Cell Wall or Vacuolar Inhibitor of β-Fructosidase 2

@@ -1,7 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmVSPβ
-gene_symbol_long:
 gene_model_pub_name: Glyma08g21410.1
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g21410.1
 confidence: 3
@@ -19,10 +19,9 @@ references:
     pmid: null
 
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmN:IFR
-gene_symbol_long:
 gene_model_pub_name: Glyma01g37810.1
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g37810.1
 confidence: 3

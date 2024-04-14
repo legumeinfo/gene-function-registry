@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmCOL1a
 gene_symbol_long: CONSTANS-Like 1a
@@ -24,6 +25,7 @@ references:
     pmid: 35371153
 
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmCOL1b
 gene_symbol_long: CONSTANS-Like 1b

@@ -1,5 +1,5 @@
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmDGAT1A
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1A
@@ -19,7 +19,7 @@ references:
     doi: 10.1016/j.jplph.2019.153019
     pmid: 31437808
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmDGAT1B
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1B
@@ -42,7 +42,7 @@ references:
     pmid: 31437808
 
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmDGAT1C
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1C
@@ -63,7 +63,7 @@ references:
     pmid: 31437808
 
 ---
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
   - GmDGAT2D
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D

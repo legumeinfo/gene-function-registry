@@ -1,7 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFAD2-1A
-  - FAD2-1A
 gene_symbol_long: Fatty Acid Desaturase 2-1A
 gene_model_pub_name: Glyma.10G278000
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G278000
@@ -30,9 +30,9 @@ references:
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFAD2-1B
-  - FAD2-1B
 gene_symbol_long: Fatty Acid Desaturase 2-1B
 gene_model_pub_name: Glyma.20G111000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G111000

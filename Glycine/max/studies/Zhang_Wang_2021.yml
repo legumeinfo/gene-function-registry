@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmNNL1
 gene_symbol_long: Nodule Number Locus 1
@@ -28,6 +29,7 @@ references:
     doi: 10.1111/jipb.13207
     pmid: 34962095
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmRj2
 gene_symbol_long: Resistance j2

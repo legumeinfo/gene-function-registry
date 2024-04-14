@@ -1,8 +1,8 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - FT5a
-  - FTL4
   - GmFT5a
+  - GmFTL4
 gene_symbol_long: Flowering Locus T
 gene_model_pub_name: Glyma.16G044100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
@@ -49,11 +49,12 @@ references:
     pmid: 20864544
 
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - DT1
-  - TFL
-  - TFL1b
-  - TFL1.1
+  - GmDT1
+  - GmTFL
+  - GmTFL1b
+  - GmTFL1.1
   - GmTFL1b
 gene_symbol_long: Terminal Flower 1-Like
 gene_model_pub_name: Glyma.19G194300

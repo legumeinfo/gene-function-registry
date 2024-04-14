@@ -1,5 +1,6 @@
 ---
-gene_symbols:
+scientific_name: Vicia faba
+gene_symbols: VfCYP78A
 gene_model_pub_name: Vfaba.Hedin2.R1.4g051440.1
 gene_model_full_id: vicfa.Hedin2.gnm1.ann1.4g051440.1
 confidence: 4
@@ -14,6 +15,7 @@ references:
     doi: 10.1038/s41586-023-05791-5
     pmid: 36890232
 ---
+scientific_name: Vicia faba
 gene_symbols:
   - VfPPO-2
 gene_symbol_long: polyphenol oxidase 2

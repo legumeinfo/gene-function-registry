@@ -1,7 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmPHR1
-  - PHR1
 gene_symbol_long: Phosphate Starvation Response 1
 gene_model_pub_name: Glyma.01G009600
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G009600
@@ -35,9 +35,9 @@ references:
     doi: 10.1111/jipb.13207
     pmid: 34962095
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmPHR4
-  - PHR4
 gene_symbol_long: Phosphate Starvation Response 4
 gene_model_pub_name: Glyma.02G108500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G108500
@@ -62,9 +62,9 @@ references:
     doi: 10.1104/pp.19.01209
     pmid: 32680974
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmPHT1-1
-  - PHT1-1
 gene_symbol_long: Phosphate Transporter 1-1
 gene_model_pub_name: Glyma10G33030
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G33030
@@ -92,9 +92,9 @@ references:
     doi: 10.1111/jipb.13207
     pmid: 34962095
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmPHT1-4
-  - PHT1-4
 gene_symbol_long: Phosphate Transporter 1-4
 gene_model_pub_name: Glyma.10G036800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G036800
@@ -123,9 +123,9 @@ references:
     doi: 10.1111/jipb.13207
     pmid: 34962095
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmPHT1-11
-  - PHT1-11
 gene_symbol_long: Phosphate Transporter 1-11
 gene_model_pub_name: Glyma.14G188000
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G188000

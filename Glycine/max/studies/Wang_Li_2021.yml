@@ -1,6 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - GA2ox8A
+  - GmGA2ox8A
 gene_symbol_long: Gibberellin 2-Oxidase 8A
 gene_model_pub_name: Glyma.13G287600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G287600
@@ -23,8 +24,9 @@ references:
     pmid: 34245624
 
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - GA2ox8B
+  - GmGA2ox8B
 gene_symbol_long: Gibberellin 2-Oxidase 8B
 gene_model_pub_name: Glyma.13G288000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G288000

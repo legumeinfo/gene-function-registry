@@ -1,6 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - KASII-A
+  - GmKASII-A
 gene_symbol_long: beta-ketoacyl-ACP synthase II
 gene_model_pub_name: Glyma17g05200
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g05200
@@ -19,8 +20,9 @@ references:
     pmid: null
 
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - KASII-B
+  - GmKASII-B
 gene_symbol_long: plastid 3-keto-acyl-ACP synthase II-B
 gene_model_pub_name: Glyma13g17290
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g17290

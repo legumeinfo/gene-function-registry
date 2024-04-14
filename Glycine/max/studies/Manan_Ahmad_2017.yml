@@ -1,8 +1,8 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmLEC2a
   - GmLEC2
-  - LEC2
 gene_symbol_long: Leafy Cotyledon 2
 gene_model_pub_name: Glyma.20G035700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G035700

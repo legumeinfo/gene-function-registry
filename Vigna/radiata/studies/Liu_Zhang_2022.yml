@@ -1,6 +1,7 @@
 ---
+scientific_name: Vigna radiata
 gene_symbols:
-  - CCA1L26
+  - VrCCA1L26
 gene_symbol_long: Circadian Clock Assoicated 1 Like 26
 gene_model_pub_name: Vradi05g00310
 gene_model_full_id: vigra.VC1973A.gnm6.ann1.Vradi05g00310

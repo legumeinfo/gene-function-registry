@@ -1,6 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - Fg2
+  - GmFg2
   - GmF3G6R-b
   - GmF3G6_Rt-b
 gene_symbol_long: flavonol glycoside 2 mRNA for flavonol 3-O-glucoside (1->6) rhamnosyltransferase

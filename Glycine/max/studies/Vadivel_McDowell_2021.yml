@@ -1,6 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - MYB176
+  - GmMYB176
 gene_symbol_long: GmMYB176
 gene_model_pub_name: Glyma.05g032200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05g032200
@@ -23,8 +24,9 @@ references:
     doi: 10.1111/j.1365-313X.2010.04214.x
     pmid: 20345602
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - bzip5
+  - Gmbzip5
 gene_symbol_long: GmbZIP5
 gene_model_pub_name: Glyma.15g014800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15g014800

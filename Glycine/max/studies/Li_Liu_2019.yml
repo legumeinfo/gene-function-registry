@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 classical_locus: Gp11
 gene_symbols:
   - GmPRR3A
@@ -20,6 +21,7 @@ references:
     doi: 10.1093/pcp/pcy215
     pmid: 30418611
 ---
+scientific_name: Glycine max
 classical_locus: Gp12
 gene_symbols:
   - GmPRR3B

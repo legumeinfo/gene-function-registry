@@ -1,8 +1,9 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmSYP24
   - GmLEA2-96
-  - SYP24
+  - GmSYP24
 gene_symbol_long: Putative Syntaxin Gene
 gene_model_pub_name: Glyma.19G198600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G198600

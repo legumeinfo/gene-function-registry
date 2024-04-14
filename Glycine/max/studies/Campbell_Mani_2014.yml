@@ -1,6 +1,7 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - ChlI1a
+  - GmChlI1a
 gene_symbol_long: Mg-Chelatase Subunit Chl1a
 gene_model_pub_name: Glyma.13G232500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G232500
@@ -21,8 +22,9 @@ references:
     doi: 10.1534/g3.114.015255
     pmid: 25452420
 ---
+scientific_name: Glycine max
 gene_symbols:
-  - ChlI1b
+  - GmChlI1b
 gene_symbol_long: Mg-Chelatase Subunit Chl1b
 gene_model_pub_name: Glyma.15G080200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G080200

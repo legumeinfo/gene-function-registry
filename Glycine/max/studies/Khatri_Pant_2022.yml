@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmDMI1-3
 gene_symbol_long: Doesn't Make Infections 1-3
@@ -23,6 +24,7 @@ references:
     doi: 10.3389/fpls.2022.842597
     pmid: 35599880
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmDMI2-7
 gene_symbol_long: Doesn't Make Infections 2-7
@@ -49,6 +51,7 @@ references:
     doi: 10.3389/fpls.2022.842597
     pmid: 35599880
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmDMI3-2
 gene_symbol_long: Doesn't Make Infections 3-2

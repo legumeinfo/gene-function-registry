@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFLS2a
 gene_symbol_long: flagellin sensing 2
@@ -20,6 +21,7 @@ references:
     doi: 10.1016/j.plantsci.2019.110386
     pmid: 32005391
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFLS2b
 gene_symbol_long: flagellin sensing 2
