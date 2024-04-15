@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max  # Two-word binomial for the scientific name
 classical_locus: E9  # Name of locus if available from classical genetic studies
 gene_symbols:
   - GmFT2a  # Abbreviated name of gene symbol if available from literature
@@ -34,6 +35,7 @@ references:  # REQUIRED (at least citation and one doi or one pmid).
     pmid: 27422993
 
 ---
+scientific_name: XX
 classical_locus: XX
 gene_symbols:
   -
