@@ -1,5 +1,5 @@
 ---
-scientific_name: Glycine soja 
+scientific_name: Glycine soja
 gene_symbols:
   - GmCHX1
 gene_symbol_long: cation/H(+) antiporter 1
@@ -7,7 +7,7 @@ gene_model_pub_name: Glysoja01g005509
 gene_model_full_id: glyso.PI483463.gnm1.ann1.GlysoPI483463.03G135400
 confidence: 4
 comments:
-  - Gene Glysoja01g005509 is newly sequenced from Glycine soja W05 and is not in the annotation	glyso.W05.gnm1.ann1.
+  - Gene Glysoja01g005509 is newly sequenced from Glycine soja W05 and is not in the annotation glyso.W05.gnm1.ann1.
   - The newly named gene Glysoja01g005509 has a different format than others in that annotation, which have a dot, e.g. Glysoja.01G001001
   - The gene GmCHX1 is associated with salt tolerance in Glycine soja W05
   - The gene glyso.PI483463.gnm1.ann1.GlysoPI483463.03G135400 has a full-length 100% match with the reported Glysoja01g005509
