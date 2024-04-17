@@ -1,0 +1,28 @@
+---
+scientific_name: Glycine max
+classical_locus:
+gene_symbols:
+  - GmDT2
+gene_symbol_long: Determinacy 2
+gene_model_pub_name: SoyZH13_18G242900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G273600
+confidence: 5
+curators:
+  - Brandon Jordan
+phenotype_synopsis: In the presence of Dt1, Dt2 impacts determinacy, maturity, and branch number.
+comments:
+  - knockout of SoyZH13_18g242900 produces plants with increased branch number and delayed flowering and maturity relative to wildtype.
+traits:
+  - entity_name: shoot branching
+    entity: TO:0002639
+    relation_name: increased amount
+    relation: PATO:0000470
+references:
+  - citation: Liang, Chen, et al., 2022
+    doi: 10.1038/s41467-022-34153-4
+    pmid: 36307423
+  - citation: Ping, Liu, et al., 2014
+    doi: 10.1105/tpc.114.126938
+    pmid: 25005919
+
+

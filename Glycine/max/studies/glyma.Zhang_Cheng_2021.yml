@@ -1,0 +1,24 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBTB/POZ
+gene_symbol_long: Broad Complex Tramtrack Bric-a-brac Pox Virus and Zinc finger
+gene_model_pub_name: XP_006578952
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G244900
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+  - Steven Cannon
+comments:
+  - Overexpression of GmBTB/POZ increases resistance to Phytophthora sojae in GmLHP1 overexpressing plants.
+phenotype_synopsis: the product of GmBTB/POZ positively regulates the plant's response to Phytophthora sojae infection by marking the product of GmLHP1 for degradation, thus activating the transcription factor GmWRKY40.
+traits:
+  - entity_name: defence response to fungus
+    entity: GO:0050832
+references:
+  - citation: Zhang, Cheng et al., 2021
+    doi: 10.1038/s42003-021-01907-7
+    pmid: 33742112
+  - citation: Zhang, Gao et al., 2018
+    doi: 10.1111/mpp.12741
+    pmid: 30113770

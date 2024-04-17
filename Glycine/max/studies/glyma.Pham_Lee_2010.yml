@@ -1,0 +1,60 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFAD2-1A
+gene_symbol_long: Fatty Acid Desaturase 2-1A
+gene_model_pub_name: Glyma.10G278000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G278000
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - If GmFAD2-1A and GmFAD2-1B are both downregulated or have loss-of-function mutations, seeds will have high oleic acid content.
+  - Knockout studies confirm that functional FAD2-1A decreases accumulation of oleic acid in seeds.
+phenotype_synopsis: GmFAD2-1A converts the precursors of oleic acid into linoleic acid.
+traits:
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+references:
+  - citation: Pham, Lee et al., 2010
+    doi: 10.1186/1471-2229-10-195
+    pmid: 20828382
+  - citation: Combs, Bilyeu, 2019
+    doi: 10.1007/s11032-019-0972-9
+  - citation: Zuo, Ikram et al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFAD2-1B
+gene_symbol_long: Fatty Acid Desaturase 2-1B
+gene_model_pub_name: Glyma.20G111000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G111000
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - If GmFAD2-1A and GmFAD2-1B are both downregulated or have loss-of-function mutations, seeds will have high oleic acid content.
+  - FAD2-1B is more active at low temperatures.
+  - Knockout studies confirm that functional FAD2-1B decreases accumulation of oleic acid in seeds.
+phenotype_synopsis: Normal GmFAD2-1B converts the precursors of oleic acid into linoleic acid.
+traits:
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+references:
+  - citation: Pham, Lee et al., 2010
+    doi: 10.1186/1471-2229-10-195
+    pmid: 20828382
+  - citation: Combs, Bilyeu, 2019
+    doi: 10.1007/s11032-019-0972-9

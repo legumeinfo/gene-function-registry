@@ -1,0 +1,30 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSWEET39
+gene_symbol_long: Sugars Will Eventually be Exported Transporter 39
+gene_model_pub_name: Glyma.15G049200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G049200
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Expression positively correlates to seed oil content and negatively correlates to seed protein content.
+phenotype_synopsis: SWEET39 codes for a sucrose efflux transporter in the plasma membrane which produces a pleiotropic affect on seed protein and oil content.
+traits:
+  - entity_name: protein content
+    entity: TO:0000598
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+  - entity_name: efflux transmembrane transporter activity
+    entity: GO:0015562
+references:
+  - citation: Zhang, Goettel et. al., 2020
+    doi: 10.1371/journal.pgen.1009114
+    pmid: 33175845
+  - citation: Miao, Yang et. al., 2020
+    doi: 10.1111/nph.16250
+    pmid: 31596499
+  - citation: Zuo, Ikram et. al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726

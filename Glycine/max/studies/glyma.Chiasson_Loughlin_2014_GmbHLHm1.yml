@@ -1,0 +1,26 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmbHLHm1
+  - GmSAT1
+gene_symbol_long: bHLH transcription factor
+gene_model_pub_name: Glyma08g06880
+gene_model_full_id: glyma.gnm2.ann1.Glyma.07g184900
+confidence: 5
+phenotype_synopsis: GmbHLHm1 is important to the soybean rhizobium symbiosis because loss of activity results in a reduction of nodule fitness and growth. Transcriptional changes in nodules highlight downstream signaling pathways involving circadian clock regulation, nutrient transport, hormone signaling, and cell wall modification.
+comments:
+  - Established using mutation, expression, and related functional tests.
+  - Originally named GmSAT1 (Symbiotic Ammonium Transporter 1) by Kaiser et al., 1998, but does not encode an NH4+ transporter.
+traits:
+  - entity_name: plant organ growth and development trait
+    entity: TO:0000927
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Kaiser, Finnegan et al., 1998
+    doi: 10.1126/science.281.5380.1202
+    pmid: 9712587
+

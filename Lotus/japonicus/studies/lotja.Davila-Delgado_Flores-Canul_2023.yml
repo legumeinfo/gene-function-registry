@@ -1,0 +1,27 @@
+---
+scientific_name: Lotus japonicus
+gene_symbols:
+  - LjSYMRK
+gene_symbol_long: SYMbiosis Receptor-like Kinase
+gene_model_pub_name: Lj2g3v1467920
+gene_model_full_id: lotja.MG20.gnm3.ann1.Lj2g3v1467920
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - SYMRK is activated in root hairs by phosphorylation in response to the perception of NOD factors
+  - SYMRK-EGFP (enhanced green fluorescence protein) is endocytosed from the plasma membrane to intracellular puncta and affects the SYMRK signaling pathway
+  - SYMRK-suppressed mutants can't form infection threads and therefore can't form functional nodules, though they do form pseudo-nodules lacking symbiotic bacteria and fungi
+  - SYMRK overexpressing mutants form non-functional nodules without rhizobia
+phenotype_synopsis: SYMRK is necessary for nodule organogenesis.
+traits:
+  - entity_name: bioloical process involved in symbiotic interaction
+    entity: GO:0044403
+  - entity_name: kinase activity
+    entity: GO:0016301
+  - entity_name: positive regulation of receptor-mediated endocytosis
+    entity: GO:0048260
+references:
+  - citation: Dávila-Delgado, Flores-Canúl, et al., 2023
+    doi: 10.1007/s00425-023-04116-0
+    pmid: 36928335

@@ -1,0 +1,76 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEDS1a
+gene_symbol_long: enhanced disease susceptibility 1a
+gene_model_pub_name: Glyma04g34800
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g34800
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Silencing of GmEDS1a/b and GmPAD4 stopped accumulation of salicylic acid and increased the plant's suceptibility to Pseudomonas syringae pv glycinea and soybean mosaic virus infection. The phenotype is only altered if all three genes are silenced.
+phenotype_synopsis: responsible for basal and pathogen-inducible accumulation of salicylic acid, which helps the plant resist bacterial, oomycete, and viral infection. Gene activity is induced by infection.
+traits:
+  - entity_name: defense response to bacterium
+    entity: GO:0042742
+  - enitity_name: defense response to virus
+    entity: GO:0051607
+references:
+  - citation: Wang, Shine et al., 2014
+    doi: 10.1104/pp.114.242495
+    pmid: 24872380
+  - citation: Weirmer, Feys et al., 2005
+    doi: 10.1016/j.pbi.2005.05.010
+    pmid: 15939664
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEDS1b
+gene_symbol_long: enhanced disease suceptibility 1b
+gene_model_pub_name: Glyma06g19920
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g19920
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Silencing of GmEDS1a/b and GmPAD4 stopped accumulation of salicylic acid and increased the plant's suceptibility to Pseudomonas syringae pv glycinea and soybean mosaic virus infection. The phenotype is only altered if all three genes are silenced.
+phenotype_synopsis: responsible for basal and pathogen-inducible accumulation of salicylic acid, which helps the plant resist bacterial, oomycete, and viral infection. Gene activity is induced by infection.
+traits:
+  - entity_name: defense response to bacterium
+    entity: GO:0042742
+  - enitity_name: defense response to virus
+    entity: GO:0051607
+references:
+  - citation: Wang, Shine et al., 2014
+    doi: 10.1104/pp.114.242495
+    pmid: 24872380
+  - citation: Weirmer, Feys et al., 2005
+    doi: 10.1016/j.pbi.2005.05.010
+    pmid: 15939664
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPAD4
+gene_symbol_long: phytoalexin deficient 4
+gene_model_pub_name: Glyma08g00420
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g00420
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Silencing of GmEDS1a/b and GmPAD4 stopped accumulation of salicylic acid and increased the plant's suceptibility to Pseudomonas syringae pv glycinea and soybean mosaic virus infection. The phenotype is only altered if all three genes are silenced.
+phenotype_synopsis: responsible for basal and pathogen-inducible accumulation of salicylic acid, which helps the plant resist bacterial, oomycete, and viral infection. Gene activity is induced by infection.
+traits:
+  - entity_name: defense response to bacterium
+    entity: GO:0042742
+  - enitity_name: defense response to virus
+    entity: GO:0051607
+references:
+  - citation: Wang, Shine et al., 2014
+    doi: 10.1104/pp.114.242495
+    pmid: 24872380
+  - citation: Weirmer, Feys et al., 2005
+    doi: 10.1016/j.pbi.2005.05.010
+    pmid: 15939664
+

@@ -6,6 +6,7 @@
 # When you are done, compare your yml file to the Answer Key provided below.
 ---
 # BLANK TEMPLATE
+scientific_name:
 classical_locus:
 gene_symbols:
   -
@@ -30,6 +31,7 @@ references:
     pmid:
 ---
 # ANNOTATED TEMPLATE
+scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
 classical_locus:  # Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
 gene_symbols:
   -  # Abbreviated gene name as listed in the paper. It should be formatted like "GmNNC1."
@@ -67,6 +69,7 @@ references:  # REQUIRED; At least one citation with its doi or pmid. Ideally, in
     pmid:
 ---
 # ANSWER KEY
+scientific_name: Glycine max
 gene_symbols:
   - GmCIF1  # This paper discusses both GmCIF1 and GmC/VIF2 in detail, so there is a second version of this template below for GmC/VIF2.
 gene_symbol_long: Cell Wall Invertase Inhibitor
@@ -103,6 +106,7 @@ references:
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmC/VIF2
 gene_symbol_long: Cell Wall or Vacuolar Inhibitor of β-Fructosidase 2
