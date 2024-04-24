@@ -3,14 +3,20 @@ scientific_name: Glycine max
 gene_symbols:
   - GmSYP24
   - GmLEA2-96
-  - GmSYP24
-gene_symbol_long: Putative Syntaxin Gene
+gene_symbol_long: Syntaxin-24
 gene_model_pub_name: Glyma.19G198600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G198600
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_synopsis: Dehydration response
+  - Scott Kalberer
+comments:
+  - GmSYP24 was identified as a dehydration-responsive gene with the expressed protein located on the cell membrane.
+  - Overexpression of SYP24 in soybean and heteroexpression in Arabidopsis produced insensitivity to osmotic/drought stress and high salinity.
+  - SYP24-transgenic soybeans had greater water content and higher activities of peroxidase and superoxide dismutase compared with non-transgenic controls when exposed to abiotic stresses.
+  - Leaf stomatal density and opening were reduced in SYP24-transgenic Arabidopsis, and ABA-responsive genes were up-regulated.
+  - Sensitivity to ABA was decreased during seed germination of both SYP24-transgenic soybean and Arabidopsis.
+phenotype_synopsis:  GmSYP24 plays an important role in osmotic/drought response or salt tolerance as part of the ABA signaling pathway.
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
