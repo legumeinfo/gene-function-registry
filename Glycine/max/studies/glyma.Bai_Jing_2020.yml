@@ -2,13 +2,14 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmPLDγ
-gene_symbol_long: Phospholipase D
-gene_model_pub_name: Glyma.01g42420
-gene_model_full_id: Glyma.Wm82.gmn1.Glyma01g42420
+gene_symbol_long: Phospholipase D gamma
+gene_model_pub_name: Glyma.01G215100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G215100
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_summary: Overexpression of GmPLDγ from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
+  - Scott Kalberer
+phenotype_summary: Overexpression of GmPLDγ introduced from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
 traits:
   - entity_name: seed oil content
     entity: CO_336:0000048
@@ -25,7 +26,7 @@ traits:
   - relation_name: positively regulates
     relation: RO:0002213
 references:
-  - citation: Bai, Jing et al., 2021
+  - citation: Bai, Jing et al., 2020
     doi: 10.1016/j.plantsci.2019.110298
     pmid: 31779909
 
