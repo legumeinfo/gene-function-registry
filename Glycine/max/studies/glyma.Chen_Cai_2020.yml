@@ -2,16 +2,22 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmFT2b
-gene_symbol_long: Glycine max flowering locus T-like protein 2b
+gene_symbol_long: Flowering Locus T-like Protein 2b
 gene_model_pub_name: Glyma.16G151000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G151000
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_synopsis: Promotes flowering time under long-day conditions
+  - Scott Kalberer
+comments:
+  - Overexpression of GmFT2b upregulates expression of genes that are important in flowering time regulation.
+  - The major FT2b haplotype Hap3 is associated with significantly earlier flowering at higher latitudes.
+phenotype_synopsis: GmFT2b promotes flowering under long-day conditions
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
 references:
   - citation: Chen, Cai et al., 2020
     doi: 10.1111/pce.13695
