@@ -17,7 +17,7 @@ comments:
   - SYP24-transgenic soybeans showed altered expression of some aquaporins under osmotic/drought, salt, or ABA treatment.
   - Leaf stomatal density and opening were reduced in SYP24-transgenic Arabidopsis, and ABA-responsive genes were up-regulated.
   - Sensitivity to ABA was decreased during seed germination of both SYP24-transgenic soybean and Arabidopsis.
-phenotype_synopsis:  GmSYP24 plays an important role to enhance drought response and salt tolerance as part of the ABA signaling pathway.
+phenotype_synopsis: GmSYP24 plays an important role to enhance drought response and salt tolerance as part of the ABA signaling pathway.
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
