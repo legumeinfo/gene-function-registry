@@ -1,23 +1,28 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - KASI
-gene_symbol_long: beta-ketoacyl-ACP synthetase I
+  - GmKASI
+gene_symbol_long: Beta-Ketoacyl-Acyl Carrier Protein Synthase I
 gene_model_pub_name: Glyma.08G084300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G084300
 confidence: 4
 curators:
   - Greg Murrell
-phenotype_synopsis: Altered seed sucrose & oil content due to due to disruption of a core fatty acid synthase.
+  - Scott Kalberer
+comments:
+  - GmKASI is a fatty acid synthesis enzyme involved in the conversion of sucrose into oil during seed development via elongation of ACP-bound acyl species.
+phenotype_synopsis: Soybean seeds from a mutagenized plant exhibited doubled sucrose and halved oil content relative to wild type because of disruption to a Beta-Ketoacyl-Acyl Carrier Protein Synthase ortholog (GmKASI) by chromosomal translocation.
 traits:
   - entity_name: sucrose content
     entity: TO:0000328
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: fat & essential oil content
-    entity: TO:0000604
   - relation_name: negatively regulates
     relation: RO:0002212
+  - entity_name: fat & essential oil content
+    entity: TO:0000604
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: fatty acid biosynthetic process
+    entity: GO:0006633
 references:
   - citation: Dobbels, Michno et al., 2017
     doi: 10.1534/g3.116.038596
