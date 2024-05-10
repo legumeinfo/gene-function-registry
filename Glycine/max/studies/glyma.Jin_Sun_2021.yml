@@ -1,13 +1,15 @@
 ---
-scientific_name: Glycine max
+scientific_name: Glycine soja
 gene_symbols:
-  - GmERD15A
-gene_symbol_long: early responsive to dehydration 15B
+  - GsERD15B
+gene_symbol_long: Early Responsive to Dehydration 15B
 gene_model_pub_name: Glyma04g28560
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g28560
 confidence: 4
 curators:
-  - Greg Murrell, Steven Cannon
+  - Greg Murrell
+  - Steven Cannon
+  - Scott Kalberer
 phenotype_summary: Enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport.
 traits:
   - entity_name: salt tolerance
