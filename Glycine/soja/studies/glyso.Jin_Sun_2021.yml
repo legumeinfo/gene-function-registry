@@ -1,7 +1,7 @@
 ---
-scientific_name: Glycine max
+scientific_name: Glycine soja
 gene_symbols:
-  - GmERD15B
+  - GsERD15B
 gene_symbol_long: Early Responsive to Dehydration 15B
 gene_model_pub_name: Glyma04g28560
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g28560
