@@ -3,8 +3,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmERD15B
 gene_symbol_long: Early Responsive to Dehydration 15B
-gene_model_pub_name: Glyma04g28560
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g28560
+gene_model_pub_name: Glyma.11G149900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G149900
 confidence: 4
 curators:
   - Greg Murrell
