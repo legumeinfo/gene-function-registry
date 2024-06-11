@@ -1,0 +1,29 @@
+---
+scientific_name: Glycine soja
+gene_symbols:
+  - GsERD15B
+gene_symbol_long: Early Responsive to Dehydration 15B
+gene_model_pub_name: XP_028191281.1
+gene_model_full_id: glyso.PI483463.gnm1.ann1.GlysoPI483463.11G164100
+confidence: 4
+curators:
+  - Greg Murrell
+  - Steven Cannon
+  - Scott Kalberer
+comments:
+  - A seven-base pair deletion in the GsERD15B promoter was discovered in the majority (42) of the 48 wild Glycine soja accessions with enhanced salt tolerance.
+  - Increased expression of GsERD15B in response to salt stress was associated with up-regulation of two GmPAB genes (GmPAB-14G and GmPAB-17G) and known stress-related genes including ABA-related genes (GmABI1, GmABI2, GmbZIP1), a proline synthesis-related gene (GmP5CS), a catalase peroxidase gene (GmCAT4), water loss-related genes (GmPIP1:6, GmMYB84), and an ion exchanger encoding gene (GmSOS1).
+  - GsERD15B overexpression enhanced the promoter activities of GmABI2, GmP5CS and GmbZIP1 in tobacco leaf assays.
+  - GsERD15B encodes an ERD15 protein with transcriptional activation function.  The ERD15 contains a conserved PAM2 domain in the N-terminus that mediates its interaction with the PABC domain of poly(A)-binding (PAB) proteins.
+phenotype_summary: Gene overexpression in Glycine enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Jin, Sun et al., 2021
+    doi: 10.1111/pbi.13536
+    pmid: 33368860
+
+
