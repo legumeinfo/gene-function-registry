@@ -2,13 +2,16 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmDRR1
-gene_symbol_long: Disease Resistance-Responsive gene 1
-gene_model_pub_name: Glyma.11g150400
+gene_symbol_long: Disease Resistance-Responsive 1
+gene_model_pub_name: Glyma.11G150400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150400
 confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - The importance of GmDRR1 in nodule formation was established though overexpression (which increased the number of nodules). RNA interference had no effect on nodule number. GmDRR1 is homologous with GmDRR2 and GmDRR3.
-phenotype_synopsis: Induced by the presence of rhizobia and involved in establishing symbiotic relationship with rhizobia.
+  - The importance of GmDRR1 in nodule formation was established though its overexpression in soybean, which increased the number of nodules relative to the wild-type. RNA interference had no effect on nodule number. GmDRR1 is homologous with GmDRR2 and GmDRR3.
+phenotype_synopsis: GmDRR1 was induced in soybean roots by the presence of rhizobia and helped establish a symbiotic relationship that results in development of root nodules and nitrogen fixation.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -17,17 +20,20 @@ traits:
   - entity_name: disease resistance
     entity: TO:0000112
 references:
-  - citation: Shi, Zhang et. al., 2020
+  - citation: Shi, Zhang et al., 2020
     doi: 10.1094/MPMI-01-20-0017-R
     pmid: 32186464
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmDRR2
-gene_symbol_long: Disease Resistance-Responsive gene 2
-gene_model_pub_name: Glyma.11g150300
+gene_symbol_long: Disease Resistance-Responsive 2
+gene_model_pub_name: Glyma.11G150300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150300
 confidence: 3
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - GmDRR1 and GmDRR2 are homologous. The function of GmDRR1 may depend on dimerization with GmDRR2.
 phenotype_synopsis: Induced by the presence of rhizobia and involved in establishing symbiotic relationship with rhizobia.
@@ -39,8 +45,8 @@ traits:
   - entity_name: disease resistance
     entity: TO:0000112
 references:
-  - citation: Shi, Zhang et. al., 2020
+  - citation: Shi, Zhang et al., 2020
     doi: 10.1094/MPMI-01-20-0017-R
     pmid: 32186464
-  - citation: Yu, Zou et. al., 2021
+  - citation: Yu, Zou et al., 2021
     doi: https://doi.org/10.1016/j.cj.2021.08.009
