@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmDRR1
-gene_symbol_long: Disease Resistance-Responsive 1
+gene_symbol_long: Disease Resistance Responsive 1
 gene_model_pub_name: Glyma.11G150400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150400
 confidence: 3
@@ -10,24 +10,30 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - The importance of GmDRR1 in nodule formation was established though its overexpression in soybean, which increased the number of nodules relative to the wild-type. RNA interference had no effect on nodule number. GmDRR1 is homologous with GmDRR2 and GmDRR3.
-phenotype_synopsis: GmDRR1 was induced in soybean roots by the presence of rhizobia and helped establish a symbiotic relationship that results in development of root nodules and nitrogen fixation.
+  - The importance of GmDRR1 in nodule formation was established though its overexpression in soybean, which increased the number of nodules relative to the wild-type. RNA interference had no effect on nodule number.
+  - GmDRR1 is homologous with other dirigent proteins such as GmDRR2 and GmDRR3.
+  - The GmNAC1 transcription factor may bind to the GmDRR1 promoter to upregulate GmDRR1 expression and enhance Phytophthora sojae resistance.
+phenotype_synopsis: GmDRR1 was induced in soybean roots by the presence of rhizobia and helped establish a symbiotic relationship that results in development of root nodules and nitrogen fixation.  Additionally, DRR1 expression increases the resistance of soybean to Phytophthora sojae.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
   - entity_name: biological process involved in symbiotic interaction
     entity: GO:0044403
-  - entity_name: disease resistance
+  - entity_name: microbial disease response
     entity: TO:0000112
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
 references:
   - citation: Shi, Zhang et al., 2020
     doi: 10.1094/MPMI-01-20-0017-R
     pmid: 32186464
+  - citation: Yu, Zou et al., 2021
+    doi: https://doi.org/10.1016/j.cj.2021.08.009
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmDRR2
-gene_symbol_long: Disease Resistance-Responsive 2
+gene_symbol_long: Disease Resistance Responsive 2
 gene_model_pub_name: Glyma.11G150300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150300
 confidence: 3
@@ -35,14 +41,14 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmDRR1 and GmDRR2 are homologous. The function of GmDRR1 may depend on dimerization with GmDRR2.
-phenotype_synopsis: Induced by the presence of rhizobia and involved in establishing symbiotic relationship with rhizobia.
+  - GmDRR1 and GmDRR2 are homologous. The function of DRR1 may depend on dimer formation with DRR2.
+phenotype_synopsis: GmDRR2 promotes a symbiotic relationship that results in development of root nodules and nitrogen fixation in soybean.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
   - entity_name: biological process involved in symbiotic interaction
     entity: GO:0044403
-  - entity_name: disease resistance
+  - entity_name: microbial disease response
     entity: TO:0000112
 references:
   - citation: Shi, Zhang et al., 2020
