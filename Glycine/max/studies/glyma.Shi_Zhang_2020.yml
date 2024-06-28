@@ -42,8 +42,8 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmDRR1 and GmDRR2 are homologous proteins. The function of DRR1 may depend on dimer formation with DRR2.
-phenotype_synopsis: GmDRR2 promoted a symbiotic relationship with rhizobia that resulted in development of root nodules and nitrogen fixation in soybean.
+  - GmDRR1 and GmDRR2 are homologous dirigent proteins. The function of DRR1 may depend on dimer formation with DRR2.
+phenotype_synopsis: GmDRR2 promoted a symbiotic relationship with rhizobia that resulted in development of root nodules and nitrogen fixation in soybeans.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
