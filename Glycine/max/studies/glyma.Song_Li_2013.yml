@@ -3,15 +3,18 @@ scientific_name: Glycine max
 gene_symbols:
   - GmbZIP123
 gene_symbol_long: Basic Leucine Zipper 123
-gene_model_pub_name: Glyma06g01240
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g01240
+gene_model_pub_name: Glyma06G01240
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06G01240
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - The effect of bZIP123 was studied in transgenic Arabidopsis, not soy.
-  - Overexpression of bZIP123 increases lipid content in transgenic Arabidopsis as well as upregulating the genes that bZIP123 acts on.
-phenotype_synopsis: bZIP123 is a transcription factor which promotes expression of sucrose transporter and cell wall invertase genes.
+  - The effect of GmbZIP123 was studied in transgenic Arabidopsis thaliana rather than in Glycine max.
+  - Overexpression of bZIP123 increased lipid content in seeds of transgenic Arabidopsis.
+  - The transcription factor bZIP123 bound to the promoters and upregulated Arabidopis genes for two sucrose transporters (SUC1 and SUC5) and three cell-wall invertases (cwINV1, cwINV3, and cwINV6).
+  - Cell-wall invertase activity and sugar translocation were consequently boosted in Arabidopsis siliques. The result was greater levels of the sugars glucose, fructose, and sucrose within seeds.
+phenotype_synopsis: GmbZIP123 is a transcription factor which promotes expression of sucrose transporter and cell-wall invertase genes. Regulation of lipid accumulation in soybean seeds may be mediated by controlling transport of sugar into seeds from photoautotrophic tissues.
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
@@ -22,9 +25,9 @@ traits:
   - entity_name: seed development
     entity: GO:0048316
 references:
-  - citation: Song, Li et. al., 2013
+  - citation: Song, Li et al., 2013
     doi: 10.1093/jxb/ert238
     pmid: 23963672
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
