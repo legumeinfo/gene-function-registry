@@ -21,7 +21,7 @@ traits:
   - entity_name: nodulation
     entity: GO:0009877
 references:
-  - citation: Song, Montez-Luz et al., 2022
+  - citation: Song, Montes-Luz et al., 2022
     doi: 10.3389/fpls.2022.820348
     pmid: 35498680
   - citation: Hayashi, Gresshoff et al., 2014
@@ -58,7 +58,7 @@ traits:
   - entity_name: nodulation
     entity: GO:0009877
 references:
-  - citation: Song, Montez-Luz et al., 2022
+  - citation: Song, Montes-Luz et al., 2022
     doi: 10.3389/fpls.2022.820348
     pmid: 35498680
   - citation: Hayashi, Gresshoff et al., 2014
