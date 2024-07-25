@@ -10,8 +10,8 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmGA20ox a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) and expressed at the beginning and end of nodule development.
-  - Both over and underexpression of GA20ox can interfere with nodulation.
+  - GmGA20ox a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) in soybean root cortical cells during nodule primordia establishment.
+  - GA20ox a is expressed at the beginning of nodule development, with levels peaking at 12 hours after inoculation and then decreasing substantially by 48 hours post-inoculation.
 phenotype_synopsis: GmGA20ox a is a gibberellic acid biosynthesis gene.
 traits:
   - entity_name: gibberellin biosynthetic process
@@ -39,16 +39,16 @@ gene_symbols:
   - GmGA3ox 1a
 gene_symbol_long:
   - Gibberellic Acid 3-Oxidase 1a
-  - Gibberellic Acid 3β-hydroxylase
-gene_model_pub_name: Glyma15g01500
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma15g01500
+gene_model_pub_name: Glyma.15G012100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G012100
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmGA3ox 1a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) but its expression is not exclusive to nodule development.
-  - RNAi silencing of GA3ox 1a reduced nodulation.
+  - GmGA3ox 1a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) in soybean root cortical cells during nodule primordia establishment.
+  - GA3ox 1a expression is not exclusive to nodule development.
+  - Nodulation was reduced by RNAi silencing of GA3ox 1a in transgenic soybean hairy roots.
 phenotype_synopsis: GmGA3ox 1a is a gibberellic acid biosynthesis gene.
 traits:
   - entity_name: gibberellin biosynthetic process
