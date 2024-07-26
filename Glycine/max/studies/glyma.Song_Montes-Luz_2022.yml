@@ -10,9 +10,10 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmGA20ox a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) in soybean root cortical cells during nodule primordia establishment.
+  - GmGA20ox a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) in soybean root cortical cells during nodule primordia establishment. Mutant rhizobia (nodC-) that lack a chitin synthase gene, and thus cannot produce the Nod factor, don't induce nodulation and concomitant GA20ox a gene expression.
   - GA20ox a is expressed at the beginning of nodule development, with levels peaking at 12 hours after inoculation and then decreasing substantially by 48 hours post-inoculation.
-phenotype_synopsis: GmGA20ox a is a gibberellic acid biosynthesis gene.
+  - GA20ox a gene expression was substantially higher in newly-developing nodules than in other plant structures and is probably nodulation-specific.
+phenotype_synopsis: GmGA20ox a is a gibberellic acid biosynthesis gene that increases levels of gibberellin during early nodulation.
 traits:
   - entity_name: gibberellin biosynthetic process
     entity: GO:0009686
@@ -47,9 +48,10 @@ curators:
   - Scott Kalberer
 comments:
   - GmGA3ox 1a is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) in soybean root cortical cells during nodule primordia establishment.
-  - GA3ox 1a expression is not exclusive to nodule development.
+  - GA3ox 1a is expressed at the beginning of nodule development, with levels peaking at 12 hours after inoculation and then decreasing substantially by 48 hours post-inoculation.
+  - GA3ox 1a expression is not exclusive to nodule development, appearing in multiple tissues, and likely serves general roles.
   - Nodulation was reduced by RNAi silencing of GA3ox 1a in transgenic soybean hairy roots.
-phenotype_synopsis: GmGA3ox 1a is a gibberellic acid biosynthesis gene.
+phenotype_synopsis: GmGA3ox 1a is a gibberellic acid biosynthesis gene that increases levels of gibberellin during early nodulation.
 traits:
   - entity_name: gibberellin biosynthetic process
     entity: GO:0009686
