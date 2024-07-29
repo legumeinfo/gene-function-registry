@@ -42,7 +42,7 @@ gene_symbols:
 gene_symbol_long: Pigment slow darkening
 gene_model_pub_name: XX
 gene_model_full_id: XX
-confidence: XX
+confidence: 4
 curators:
   - Scott Kalberer
 comments:
@@ -52,13 +52,14 @@ comments:
   - The P gene in Phaseolus vulgaris is an ortholog of the bHLH transcription factor AtTT8 in Arabidopsis thaliana. Ectopic expression of P from regular darkening bean cultivar CDC Pintium in Arabidopsis tt8 mutants completely restored both the activity of Dihydroflavonol 4-Reductase (DFR) and Anthocyanidin Reductase (ANR) and the wild-type testa phenotype.  However, expression of Psd from slow darkening cultivar 1533-15 only partially restored the mutant phenotype.
 phenotype_synopsis: Pinto bean cultivars carrying the Psd allele of the Pigment gene have seed coats that darken more slowly following harvest.
 traits:
-  - entity_name: XX
-    entity: XX
+  - entity_name: seed coat color
+    entity: TO_0000190
+  - entity_name: regulation of proanthocyanidin biosynthetic process
+    entity: GO:2000029
+  - entity_name: bHLH transcription factor binding
+    entity: GO_0043425
 references:
   - citation: Islam, Bett et al., 2020
     doi: 10.1002/ppp3.10132
-    pmid: XX
-  - citation: XX
-    doi: XX
-    pmid: XX
+    pmid: 34268482
 
