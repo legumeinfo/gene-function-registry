@@ -36,24 +36,27 @@ references:  # REQUIRED (at least citation and one doi or one pmid).
 
 ---
 scientific_name: Phaseolus vulgaris
-classical_locus: XX
+classical_locus: Sd
 gene_symbols:
-  -
-gene_symbol_long: XX
+  - PvPsd
+gene_symbol_long: Pigment slow darkening
 gene_model_pub_name: XX
 gene_model_full_id: XX
 confidence: XX
 curators:
-  - XX
+  - Scott Kalberer
 comments:
-  - XX
-phenotype_synopsis: XX
+  - Postharvest seed coat darkening results in decreased consumer preference and lower economic value for the market class of Pinto beans. Rapid and fuller darkening after harvest of dry beans is caused by heavier accumulation of proanthocyanidins (PAs) and PA monomers (epicatechin and catechin) in developing seed coat tissues.
+  - Psd is a recessive allele candidate of the Pigment (P) gene responsible for the slow darkening seed coat in Pinto beans (Phaseolus vulgaris). Evidence provided to show Psd is the sought-for SLOW DARKENING (Sd) gene included genetic complementation, transcript abundance, metabolite analysis, and an inheritance study.
+  - The P gene encodes a basic helix-loop-helix transcription factor with one of its two transcript variants involved in PA biosynthesis. Two mutations in the Psd allele- an additional glutamate residue in the activation domain, and/or an arginine to histidine substitution in the bHLH domain- are likely responsible for reduced protein activity and PA accumulation. Flavonoid biosynthesis leading to proanthocyanidins is regulated by an MBW complex, highly conserved across plant species, consisting of members of the myeloblastosis (MYB), bHLH transcription factor, and WD40 repeat protein (WDR) families.
+  - The P gene in Phaseolus vulgaris is an ortholog of the bHLH transcription factor AtTT8 in Arabidopsis thaliana. Ectopic expression of P from regular darkening bean cultivar CDC Pintium in Arabidopsis tt8 mutants completely restored both the activity of Dihydroflavonol 4-Reductase (DFR) and Anthocyanidin Reductase (ANR) and the wild-type testa phenotype.  However, expression of Psd from slow darkening cultivar 1533-15 only partially restored the mutant phenotype.
+phenotype_synopsis: Pinto bean cultivars carrying the Psd allele of the Pigment gene have seed coats that darken more slowly following harvest.
 traits:
   - entity_name: XX
     entity: XX
 references:
-  - citation: XX
-    doi: XX
+  - citation: Islam, Bett et al., 2020
+    doi: 10.1002/ppp3.10132
     pmid: XX
   - citation: XX
     doi: XX
