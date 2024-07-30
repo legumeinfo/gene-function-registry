@@ -1,48 +1,12 @@
 ---
-scientific_name: Glycine max  # Two-word binomial for the scientific name
-classical_locus: E9  # Name of locus if available from classical genetic studies
-gene_symbols:
-  - GmFT2a  # Abbreviated name of gene symbol if available from literature
-  - Another  # Enter in yml list format, even if only one symbol.
-gene_symbol_long: Flowering Time 2a  # Descriptive name of gene symbol if available
-gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
-confidence: 5  # Value from 1 to 5 -- 5 being equivalent to complementation test
-curators:  # Name of curators who worked on this
-  -
-comments:
-  -  # Use if needed
-phenotype_synopsis:  # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
-traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
-    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
-  - quality_name: premature  # Optional; short descriptive name for accession quality term
-    quality:  # Optional; typically from generally from PATO, https://www.ebi.ac.uk/ols/ontologies/pato
-  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
-    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
-    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
-references:  # REQUIRED (at least citation and one doi or one pmid).
-  - citation: Kong, Liu et al., 2010  # Use the "LastName, LastName et al., YEAR" format
-    doi: 10.1104/pp.110.160796  # the bare doi (omit https://doi.org/)
-    pmid: 20864544  # The "get_citations.pl" script can fill in pmid from doi or vice versa (in a new document)
-  - citation: Kong, Nan et al., 2014
-    doi: 10.2135/cropsci2014.03.0228
-  - citation: Takeshima, Hayashi et al., 2016
-    doi: 10.1093/jxb/erw283
-    pmid: 27422993
-
----
 scientific_name: Phaseolus vulgaris
 classical_locus: Sd
 gene_symbols:
-  - PvPsd
-gene_symbol_long: Pigment slow darkening
-gene_model_pub_name: XX
-gene_model_full_id: XX
-confidence: 4
+  - PvP
+gene_symbol_long: Pigment
+gene_model_pub_name: Phvul.007G171333
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.007G171333
+confidence: 5
 curators:
   - Scott Kalberer
 comments:
@@ -50,10 +14,15 @@ comments:
   - Psd is a recessive allele candidate of the Pigment (P) gene responsible for the slow darkening seed coat in Pinto beans (Phaseolus vulgaris). Evidence provided to show Psd is the sought-for SLOW DARKENING (Sd) gene included genetic complementation, transcript abundance, metabolite analysis, and an inheritance study.
   - The P gene encodes a basic helix-loop-helix transcription factor with one of its two transcript variants involved in PA biosynthesis. Two mutations in the Psd allele- an additional glutamate residue in the activation domain, and/or an arginine to histidine substitution in the bHLH domain- are likely responsible for reduced protein activity and PA accumulation. Flavonoid biosynthesis leading to proanthocyanidins is regulated by an MBW complex, highly conserved across plant species, consisting of members of the myeloblastosis (MYB), bHLH transcription factor, and WD40 repeat protein (WDR) families.
   - The P gene in Phaseolus vulgaris is an ortholog of the bHLH transcription factor AtTT8 in Arabidopsis thaliana. Ectopic expression of P from regular darkening bean cultivar CDC Pintium in Arabidopsis tt8 mutants completely restored both the activity of Dihydroflavonol 4-Reductase (DFR) and Anthocyanidin Reductase (ANR) and the wild-type testa phenotype.  However, expression of Psd from slow darkening cultivar 1533-15 only partially restored the mutant phenotype.
+  - The gene model Phvul.007G171333 is the P gene and was previously annotated as a type of transcription factor known as TRANSPARENT TESTA 8 (TT8).
 phenotype_synopsis: Pinto bean cultivars carrying the Psd allele of the Pigment gene have seed coats that darken more slowly following harvest.
 traits:
   - entity_name: seed coat color
     entity: TO_0000190
+  - quality_name: brown
+    quality: PATO_0000952
+  - relation_name: positively regulates
+    relation: RO:0002213
   - entity_name: regulation of proanthocyanidin biosynthetic process
     entity: GO:2000029
   - entity_name: bHLH transcription factor binding
@@ -62,4 +31,7 @@ references:
   - citation: Islam, Bett et al., 2020
     doi: 10.1002/ppp3.10132
     pmid: 34268482
+  - citation: McClean, Bett et al., 2018
+    doi: 10.1111/nph.15259
+    pmid: 29897103
 
