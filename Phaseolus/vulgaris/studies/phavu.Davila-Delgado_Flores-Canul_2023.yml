@@ -10,10 +10,20 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - PvSYMRK is activated in root hairs by phosphorylation of the T589 residue in response to the perception of NOD factors produced by rhizobia.
-  - SYMRK labeled with EGFP (enhanced green fluorescence protein) is endocytosed from the plasma membrane to intracellular puncta in response to Rhizobium etli inoculation. The consequent redistribution affects the SYMRK signaling pathway.
-  - Deletion of the SYMRK endocytic sorting motif YKTL and application of endocytosis inhibitors reduced the prevalence of SYMRK-EGFP intracellular puncta. Endocytosis was also negatively impacted in phosphorylation-deficient (T589A) and kinase-inactivated (K618E) mutants of SYMRK.
-phenotype_synopsis: The PvSYMRK protein undergoes rhizobia-induced endocytosis and regulates a dependent kinase signal transduction cascade leading to rhizobial infection and nodule organogenesis.
+  - PvSYMRK is activated in root hairs by phosphorylation of the T589 residue in
+    response to the perception of NOD factors produced by rhizobia.
+  - SYMRK labeled with EGFP (enhanced green fluorescence protein) is endocytosed
+    from the plasma membrane to intracellular puncta in response to Rhizobium
+    etli inoculation. The consequent redistribution affects the SYMRK signaling
+    pathway.
+  - Deletion of the SYMRK endocytic sorting motif YKTL and application of
+    endocytosis inhibitors reduced the prevalence of SYMRK-EGFP intracellular
+    puncta. Endocytosis was also negatively impacted in
+    phosphorylation-deficient (T589A) and kinase-inactivated (K618E) mutants of
+    SYMRK.
+phenotype_synopsis: The PvSYMRK protein undergoes rhizobia-induced endocytosis
+  and regulates a dependent kinase signal transduction cascade leading to
+  rhizobial infection and nodule organogenesis.
 traits:
   - entity_name: biological process involved in symbiotic interaction
     entity: GO:0044403
@@ -27,3 +37,4 @@ references:
   - citation: Dávila-Delgado, Flores-Canúl et al., 2023
     doi: 10.1007/s00425-023-04116-0
     pmid: 36928335
+
