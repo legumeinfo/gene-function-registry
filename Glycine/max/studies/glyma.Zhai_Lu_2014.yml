@@ -1,0 +1,30 @@
+---
+classical_locus: E10
+gene_symbols:
+  - GmFT4
+gene_symbol_long: Earliness 10
+gene_model_pub_name: Glyma.08G363100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G363100
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Zhai, Lu et al., 2014
+    doi: 10.1371/journal.pone.0089030
+    pmid: 24586488
+  - citation: Samanfar, Molnar et al., 2017
+    doi: 10.1007/s00122-016-2819-7
+    pmid: 27832313
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664

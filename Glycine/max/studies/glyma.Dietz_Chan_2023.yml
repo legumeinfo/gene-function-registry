@@ -1,0 +1,98 @@
+---
+gene_symbols:
+  - GmPHYE1
+gene_symbol_long: Phytochrome E1
+gene_model_pub_name: Glyma.09G088500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G088500
+confidence: 3
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+---
+gene_symbols:
+  - GmTOC1
+gene_symbol_long: Timing of CAB Expression 1
+gene_model_pub_name: Glyma.06G196200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G196200
+confidence: 2
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+---
+gene_symbols:
+  - GmGA2OX5
+gene_symbol_long: Gibberellin 2 Oxidase 5
+gene_model_pub_name: Glyma.13G218200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G218200
+confidence: 2
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+---
+gene_symbols:
+  - GmGA2OX6
+gene_symbol_long: Gibberellin 2 Oxidase 6
+gene_model_pub_name: Glyma.13G259400
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G259400
+confidence: 2
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+---
+gene_symbols:
+  - GmMSI1
+gene_symbol_long: Multicopy Suppressor of IRA 1
+gene_model_pub_name: Glyma.05G131200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G131200
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Wu, Kang et al., 2019
+    doi: 10.3389/fpls.2019.01221
+    pmid: 31787988
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141

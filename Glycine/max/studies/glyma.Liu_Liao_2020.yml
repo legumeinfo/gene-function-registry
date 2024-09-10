@@ -4,7 +4,7 @@ gene_symbols:
   - GmVTL1a
 gene_symbol_long: Vacuolar Iron Transporter Like 1A
 gene_model_pub_name: Glyma.05G121600
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G121600.1
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G121600
 confidence: 3
 curators:
   - William Hardison
@@ -25,7 +25,7 @@ gene_symbols:
   - GmVTL1b
 gene_symbol_long: Vacuolar Iron Transporter Like 1B
 gene_model_pub_name: Glyma.08G076300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G076300.1
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G076300
 confidence: 3
 curators:
   - William Hardison

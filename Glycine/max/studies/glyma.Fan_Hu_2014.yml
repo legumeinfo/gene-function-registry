@@ -1,0 +1,108 @@
+---
+gene_symbols:
+  - GmFT2b
+gene_symbol_long: Flowering Time 2b
+gene_model_pub_name: Glyma.16G151000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G151000
+confidence: 5
+curators:
+  - Steven Cannon
+  - Greg Murrell
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Fan, Hu et al., 2014
+    doi: 10.1186/1471-2229-14-9
+    pmid: 24397545
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+  - citation: Chen, Cai et al., 2020
+    doi: 10.1111/pce.13695
+    pmid: 31981430
+---
+gene_symbols:
+  - GmFT3a
+gene_symbol_long: Flowering Time 3a
+gene_model_pub_name: Glyma.16G044200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G044200
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Fan, Hu et al., 2014
+    doi: 10.1186/1471-2229-14-9
+    pmid: 24397545
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+---
+gene_symbols:
+  - GmFT3b
+gene_symbol_long: Flowering Time 3b
+gene_model_pub_name: Glyma.19G108100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G108100
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Fan, Hu et al., 2014
+    doi: 10.1186/1471-2229-14-9
+    pmid: 24397545
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+---
+gene_symbols:
+  - GmFT5b
+gene_symbol_long: Flowering Time 5b
+gene_model_pub_name: Glyma.19G108200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G108200
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Fan, Hu et al., 2014
+    doi: 10.1186/1471-2229-14-9
+    pmid: 24397545
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664

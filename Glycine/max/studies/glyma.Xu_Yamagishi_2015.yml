@@ -1,0 +1,26 @@
+---
+gene_symbols:
+  - E1La
+gene_symbol_long: E1-like-a
+gene_model_pub_name: Glyma.04G156400
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G156400
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Xu, Yamagishi et al., 2015
+    doi: 10.1104/pp.15.00763
+    pmid: 26134161
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664

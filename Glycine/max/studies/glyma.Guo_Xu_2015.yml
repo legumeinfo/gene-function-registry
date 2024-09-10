@@ -1,0 +1,52 @@
+---
+gene_symbols:
+  - GmFT1a
+gene_symbol_long: Flowering Timne 1a
+gene_model_pub_name: Glyma.18G298900
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G298900
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Guo, Xu et al., 2015
+    doi: 10.1371/journal.pone.0136601
+    pmid: 26371882
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+---
+gene_symbols:
+  - GmFT1b
+gene_symbol_long: Flowering Time 1b
+gene_model_pub_name: Glyma.18G299000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G299000
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Guo, Xu et al., 2015
+    doi: 10.1371/journal.pone.0136601
+    pmid: 26371882
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664

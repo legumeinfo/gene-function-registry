@@ -4,7 +4,7 @@ gene_symbols:
   - GmDGAT1A
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1A
 gene_model_pub_name: Glyma13g16560
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g16560.2
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g16560
 confidence: 3
 curators:
   - William Hardison
@@ -24,7 +24,7 @@ gene_symbols:
   - GmDGAT1B
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1B
 gene_model_pub_name: Glyma17g06120
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g06120.1
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g06120
 confidence: 3
 curators:
   - William Hardison
@@ -47,7 +47,7 @@ gene_symbols:
   - GmDGAT1C
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1C
 gene_model_pub_name: Glyma09g07520
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g07520.2
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g07520
 confidence: 2
 curators:
   - William Hardison
@@ -68,7 +68,7 @@ gene_symbols:
   - GmDGAT2D
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D
 gene_model_pub_name: Glyma01g36010
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma01g36010.1
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma01g36010
 confidence: 3
 curators:
   - William Hardison

@@ -1,0 +1,27 @@
+---
+classical_locus: E4
+gene_symbols:
+  - GmphyA2
+gene_symbol_long: Earliness 4
+gene_model_pub_name: Glyma.20G090000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G090000
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Liu, Jiang et al., 2008
+    doi: 10.1111/nph.14884
+    pmid: 29120038
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
