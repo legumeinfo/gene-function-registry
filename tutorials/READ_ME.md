@@ -1,8 +1,14 @@
 ## Tutorials
 
-
-
 ### How to read and analysis research paper
+
+[Ten simple rules for reading a scientific paper](https://github.com/legumeinfo/gene-function-registry/blob/Tutorials/tutorials/Carery_Steiner_2020.pdf)
+
+[Art of reading a journal artile](https://github.com/legumeinfo/gene-function-registry/blob/Tutorials/tutorials/Subramanyam_2013.pdf)
+
+
+
+
 
 ### How to curate with GitHub
 1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)
