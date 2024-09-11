@@ -1,0 +1,168 @@
+---
+gene_symbols:
+  - MtCre1
+gene_symbol_long: Cytokinin Response1
+gene_model_pub_name: Medtr8g106150
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g106150
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, Mt RR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: cytokinin sensitivity
+    entity: TO:0000167
+  - entity_name: root number
+    entity: TO:0000084
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: lateral root
+    entity: PO:0020121
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - ERN1
+gene_symbol_long: Ethylene Response Factor Required for Nodulation1
+gene_model_pub_name: EU038802
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g085810
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - ERN2
+gene_symbol_long: Ethylene Response Factor Required for Nodulation2
+gene_model_pub_name: EU038803
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g029180
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - EXPA
+gene_symbol_long: EXPANSIN A7
+gene_model_pub_name: DQ899790
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g102450
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - NIN
+gene_symbol_long: Nodule Inception
+gene_model_pub_name: Medtr5g099060
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g099060
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - NRT1.3
+gene_symbol_long: Nitrate Transporter 1.3
+gene_model_pub_name: GU966590
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g085850
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - NSP1
+gene_symbol_long: Nodulation signaling pathway 1
+gene_model_pub_name: AJ972478
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g020840
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - RR4
+gene_symbol_long: Response Regulator 4
+gene_model_pub_name: Medtr5g036480
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g036480
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Control of symbiotic nitrogen fixation
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Vernie, Kim et al., 2015
+    doi: 10.1105/tpc.15.00461
+    pmid: 26672071
+

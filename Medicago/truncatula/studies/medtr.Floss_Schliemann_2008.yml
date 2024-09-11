@@ -1,0 +1,23 @@
+---
+gene_symbols:
+  - MtCCD1
+gene_symbol_long: carotenoid cleavage dioxygenase 1
+gene_model_pub_name: CAR57918.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g034835
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: RNA interference (RNAi) was used to repress a M. truncatula CCD1 gene in hairy roots colonized by the arbuscular mycorrhizal (AM) fungus Glomus intraradices.  The normal AM-mediated accumulation of apocarotenoids (C13 cyclohexenone and C14 mycorradicin derivatives) was reduced in repressed plants; mycorradicin derivatives were reduced to 3% to 6% of the controls and the cyclohexenone derivatives were reduced to 30% to 47%.  The RNAi roots turned a yellow-orange color because of C27 apocarotenoid accumulation (the probable substrate of the CCD1 enzyme).  More degenerating arbuscules was observed in RNAi roots.
+traits:
+  - entity_name: carotene content
+    entity: TO:0000289
+  - entity_name: root
+    entity: PO:0009005
+references:
+  - citation: Floss, Schliemann et al., 2008
+    doi: 10.1104/pp.108.125062
+    pmid: 18790999
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

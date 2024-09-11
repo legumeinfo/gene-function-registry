@@ -1,0 +1,21 @@
+---
+gene_symbols:
+  - chitIII-3
+gene_symbol_long: class III chitinase
+gene_model_pub_name: Medtr8g055940
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g055940
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Mtchit 3-3 expression (class III chitinase gene) is specifically induced by arbuscular mycorrhizal (AM) fungi in roots of the model legume Medicago truncatula.  Mtchit 3-3 expression was artificially induced with a CaMV 35S promoter in root cells; this stimulated spore germination of Glomus intraradices and Glomus constrictum, and in the case of G. intraradices resulted in a higher probability of root colonization and spore formation.  There was no measurable effect on the abundance of arbuscules within colonized roots.
+traits:
+  - entity_name: root system
+    entity: PO:0025025
+references:
+  - citation: Salzer, Bonanomi et al., 2000
+    doi: 10.1094/mpmi.2000.13.7.763
+    pmid: 10875337
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

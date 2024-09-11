@@ -1,0 +1,29 @@
+---
+gene_symbols:
+  - PALM1
+gene_symbol_long: PALMATE-LIKE PENTAFOLIATA1
+gene_model_pub_name: Medtr5g014400
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g014400
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Forms dissected leaves with five leaflets clustered at the tip (palmate-like pentafoliate in contrast to the trifoliate WT leaves).  The distal lateral leaflets developed in a manner morphologically/anatomically similar to terminal leaflets.  The length of the petiole increased and that of the rachis decreased.
+traits:
+  - entity_name: petiole length
+    entity: TO:0000766
+  - entity_name: TO:0000748
+    entity: TO:0000748
+  - entity_name: leaf
+    entity: PO:0025034
+  - entity_name: leaf rachis
+    entity: PO:0020055
+  - entity_name: petiole
+    entity: PO:0020038
+references:
+  - citation: Jiao, Wang et al., 2020
+    doi: 10.1186/s12870-020-02619-6
+    pmid: 32867687
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

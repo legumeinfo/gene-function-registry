@@ -1,0 +1,60 @@
+---
+gene_symbols:
+  - NAM
+  - NAM-2
+gene_symbol_long: No Apical Meristem (weak allele)
+gene_model_pub_name: AFI56799.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g078700
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: null
+traits:
+  - entity_name: shoot apical meristem development
+    entity: TO:0006020
+  - entity_name: carpel morphology trait
+    entity: TO:0006012
+  - entity_name: trichome morphology trait
+    entity: TO:0000911
+  - entity_name: cotyledon morphology trait
+    entity: TO:0000749
+  - entity_name: male sterility
+    entity: TO:0000437
+  - entity_name: vascular leaf morphology trait
+    entity: TO:0000419
+  - entity_name: female sterility
+    entity: TO:0000358
+  - entity_name: stamen morphology trait
+    entity: TO:0000215
+  - entity_name: embryo shape
+    entity: TO:0000193
+  - entity_name: carpel trichome
+    entity: PO:0025208
+  - entity_name: reproductive shoot system
+    entity: PO:0025082
+  - entity_name: leaflet
+    entity: PO:0020049
+  - entity_name: cotyledon
+    entity: PO:0020030
+  - entity_name: plant ovule
+    entity: PO:0020003
+  - entity_name: flower
+    entity: PO:0009046
+  - entity_name: carpel
+    entity: PO:0009030
+  - entity_name: stamen
+    entity: PO:0009029
+  - entity_name: plant embryo
+    entity: PO:0009009
+  - entity_name: fruit
+    entity: PO:0009001
+  - entity_name: juvenile vascular leaf
+    entity: PO:0006339
+references:
+  - citation: Cheng, Peng et al., 2012
+    doi: 10.1111/j.1469-8137.2012.04147.x
+    pmid: 22530598
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

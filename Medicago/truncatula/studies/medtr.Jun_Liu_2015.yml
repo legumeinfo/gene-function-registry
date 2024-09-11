@@ -1,0 +1,25 @@
+---
+gene_symbols:
+  - ANS
+gene_symbol_long: Anthocyanidin synthase
+gene_model_pub_name: Medtr5g011250
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g011250
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: MtANS (anthocyanidin synthase) gene expression was down-regulated in M. truncatula genotype R108 using an antisense construct.  Anthocyanin levels were strongly reduced in leaf tissues of antisense lines.  The presence of a red anthocyanin-rich circle at the base of the axial side of the leaflet and small red dots on the adaxial side results from anthocyanin deposition.  Six independent transgenic antisense MtANS lines lacked the red circle and spots and another 10 such lines had reduced levels of pigmentation.  There was a strong reduction in the levels of both soluble and insoluble PAs (Oligomeric proanthocyanidins) in seeds, consistent with involvement of ANS in PA biosynthesis.
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: leaf
+    entity: PO:0025034
+  - entity_name: seed
+    entity: PO:0009010
+references:
+  - citation: Jun, Liu et al., 2015
+    doi: 10.1105/tpc.15.00476
+    pmid: 26410301
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

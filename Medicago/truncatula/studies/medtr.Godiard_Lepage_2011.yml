@@ -1,0 +1,29 @@
+---
+gene_symbols:
+  - bHLH1
+gene_symbol_long: basic helix loop helix 1
+gene_model_pub_name: Medtr3g099620
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g099620
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Repressing MtbHLH1 (using Chimeric REpressor Silencing Technology) caused an assymetrical pattern of nodule vascular bundle development with variable angles of growth in inoculated roots.  The growth and vigor of aerial parts of the plant was impaired; the nodules were still able to fix atmospheric Nitrogen but the aboveground tissues could not benefit for whatever reason.  Nodules on repressed plants appeared later than in control plants and were smaller in size.
+traits:
+  - entity_name: vascular bundle development trait
+    entity: TO:0020109
+  - entity_name: plant organ growth and development trait
+    entity: TO:0000927
+  - entity_name: shoot system
+    entity: PO:0009006
+  - entity_name: vascular bundle
+    entity: PO:0005020
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Godiard, Lepage et al., 2011
+    doi: 10.1111/j.1469-8137.2011.03718.x
+    pmid: 21679315
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

@@ -1,0 +1,27 @@
+---
+gene_symbols:
+  - CBF4
+gene_symbol_long: C-repeat binding factor 4
+gene_model_pub_name: Medtr1g101600
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g101600
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: primary root
+    entity: PO:0020127
+  - entity_name: whole plant
+    entity: PO:0000003
+references:
+  - citation: Pecrix, Staton et al., 2018
+    doi: 10.1038/s41477-018-0286-7
+    pmid: 30397259
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

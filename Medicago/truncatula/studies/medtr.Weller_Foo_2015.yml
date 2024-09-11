@@ -1,0 +1,44 @@
+---
+gene_symbols:
+  - EIN2
+  - Skl1
+gene_symbol_long: Ethylene Insensitive2
+gene_model_pub_name: Medtr7g101410
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0264231
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Absence of discrete nodules, increased persistant rhizobila infection, radial swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both hypocotyl and root growth.  Reduced inhibition of root growth in response to application of exogenous cytokinin benzyl adenine.  Increased primary mycorrhizal infections by Glomus versiforme and Glomus intraradices.  Increased susceptability to damage caused by infection with R. solani necrotrophic fungus and P. medicaginis necrotrophic oomycete as well as larger numbers of P. medicaginis reproductive structures.  Reduced biphasic ethylene production after inoculation with P. medicaginis, reduced gene expression for one isoform of ACC oxidase transcripts, and reduced responsiveness of ethylene levels to exogenous ACC (all indicators of impaired autocatalytic ethylene production).
+traits:
+  - entity_name: gravity response trait
+    entity: TO:0002693
+  - entity_name: root hair length
+    entity: TO:0002665
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: TO:0000757
+    entity: TO:0000757
+  - entity_name: seedling cotyledon size
+    entity: TO:0000752
+  - entity_name: root development trait
+    entity: TO:0000656
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: hypocotyl
+    entity: PO:0020100
+  - entity_name: cotyledon
+    entity: PO:0020030
+  - entity_name: root
+    entity: PO:0009005
+  - entity_name: non-hair root epidermal cell
+    entity: PO:0000263
+  - entity_name: apical hook
+    entity: PO:0000012
+references:
+  - citation: Weller, Foo et al., 2015
+    doi: 10.1104/pp.15.00164
+    pmid: 25792252
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

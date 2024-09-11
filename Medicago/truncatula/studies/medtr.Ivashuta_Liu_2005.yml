@@ -1,0 +1,31 @@
+---
+gene_symbols:
+  - CDPK1
+gene_symbol_long: calcium-dependent protein kinase 1
+gene_model_pub_name: Medtr5g022030
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g022030
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Reduced root hair and root cell lengths; diminution of rhizobial and mycorrhizal symbiotic colonization
+traits:
+  - entity_name: root cortical cell length
+    entity: TO:0020108
+  - entity_name: root hair length
+    entity: TO:0002665
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+  - entity_name: root hair cell
+    entity: PO:0000256
+references:
+  - citation: Ivashuta, Liu et al., 2005
+    doi: 10.1105/tpc.105.035394
+    pmid: 16199614
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

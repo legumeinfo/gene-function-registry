@@ -1,0 +1,41 @@
+---
+gene_symbols:
+  - FTa1
+gene_symbol_long: Delayed flowering
+gene_model_pub_name: Medtr7g084970
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g084970
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Delayed flowering
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Laurie, Diwadkar et al., 2011
+    doi: 10.1104/pp.111.180182
+    pmid: 21685176
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - FTc
+gene_symbol_long: Flower development normal under long days
+gene_model_pub_name: Medtr7g085040
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g085040
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: null
+traits:
+  - entity_name: flower development trait
+    entity: TO:0000622
+references:
+  - citation: Laurie, Diwadkar et al., 2011
+    doi: 10.1104/pp.111.180182
+    pmid: 21685176
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

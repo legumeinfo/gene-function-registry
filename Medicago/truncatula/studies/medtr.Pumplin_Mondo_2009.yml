@@ -1,0 +1,25 @@
+---
+gene_symbols:
+  - VPY
+gene_symbol_long: Vapyrin
+gene_model_pub_name: ADC33495.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g027840
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: In Medicago truncatula, the Vapyrin (VPY) gene is essential for the establishment of the arbuscular mycorrhizal symbiosis. Analyses of mutants shows that the same VPYgene is also required for rhizobial colonization and nodulation.  Plants mutated in this gene have abnormal rhizobial infection threads and fewer nodules, and in the case of interactions with AM fungi, epidermal penetration defects and aborted arbuscule formation.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Pumplin, Mondo et al., 2009
+    doi: 10.1111/j.1365-313x.2009.04072.x
+    pmid: 19912567
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

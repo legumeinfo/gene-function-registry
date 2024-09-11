@@ -1,0 +1,29 @@
+---
+gene_symbols:
+  - SUNN
+gene_symbol_long: super numeric nodules
+gene_model_pub_name: Medtr4g070970
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g070970
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Shortened roots even in the absence of rhizobia.  A dramatic increase in the number of root nodules.  Nodulation occurred even under a high nitrogen regime.  Unlike wild type, both infection by rhizobia and nodulation occur randomly throughout the circumference of the developing root.  Nodulation is normally sensitive to ethylene, similar to wild type.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root
+    entity: PO:0009005
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Laffont, Huault et al., 2019
+    doi: 10.1104/pp.18.01588
+    pmid: 30782966
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

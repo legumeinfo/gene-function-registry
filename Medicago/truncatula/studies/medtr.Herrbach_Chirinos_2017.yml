@@ -1,0 +1,49 @@
+---
+gene_symbols:
+  - LYK3
+gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 3
+gene_model_pub_name: Medtr5g086130
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g086130
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Doesn't make nodules; infection thread aborts
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Herrbach, Chirinos et al., 2017
+    doi: 10.1093/jxb/erw474
+    pmid: 28073951
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - LYK4
+gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 4
+gene_model_pub_name: Medtr5g086120
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g086120
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Doesn't make nodules; infection thread aborts
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Herrbach, Chirinos et al., 2017
+    doi: 10.1093/jxb/erw474
+    pmid: 28073951
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

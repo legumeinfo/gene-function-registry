@@ -1,0 +1,22 @@
+---
+gene_symbols:
+  - CYCLOPS
+gene_model_pub_name: Medtr5g026850
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g026850
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Symbiotic infection of roots by rhizobia bacteria and arbuscular mycorrhiza fungi was inhibited or blocked, i.e. infection threads were not observed despite colonization of root hairs by rhizobia and AM fungal hyphae formed abnormal hyphal swellings with no arbuscles observed.  Nodule organogenesis was initiated but arrested prematurely at the level of primordia as an indirect consequence of the aborted infection.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root system
+    entity: PO:0025025
+references:
+  - citation: Liu, Breakspear et al., 2019
+    doi: 10.1104/pp.18.01572
+    pmid: null
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

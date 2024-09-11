@@ -1,0 +1,83 @@
+---
+gene_symbols:
+  - FLOT2
+gene_symbol_long: Flotillin-like protein 2
+gene_model_pub_name: Medtr3g106420
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106420
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in plants that form pink nodules. A decrease in primary root length and long primary lateral roots, reduced reduction of acetylene, and reduced number of infection events.
+traits:
+  - entity_name: lateral root length
+    entity: TO:0001012
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: seminal root length
+    entity: TO:0000586
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: primary root
+    entity: PO:0020127
+  - entity_name: lateral root
+    entity: PO:0020121
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Qiao, Pingault et al., 2016
+    doi: 10.3389/fpls.2016.00034
+    pmid: 26858743
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - FLOT3
+gene_symbol_long: Flotillin-like protein 3
+gene_model_pub_name: Medtr3g106480
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106480
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Shorter roots and reduced root weight.
+traits:
+  - entity_name: root weight
+    entity: TO:0000279
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: root
+    entity: PO:0009005
+references:
+  - citation: Qiao, Pingault et al., 2016
+    doi: 10.3389/fpls.2016.00034
+    pmid: 26858743
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+---
+gene_symbols:
+  - FLOT4
+gene_symbol_long: Flotillin-like protein 4
+gene_model_pub_name: Medtr3g106430
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106430
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Decrease in plants that form pink nodules and an increase in numbers of secondary lateral roots, reduced reduction of acetylene.  Weak association with reduction in nodule numbers.  Both decreased number of infection events and defective infection thread elongation.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root number
+    entity: TO:0000084
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Qiao, Pingault et al., 2016
+    doi: 10.3389/fpls.2016.00034
+    pmid: 26858743
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

@@ -1,0 +1,31 @@
+---
+gene_symbols:
+  - CDC16
+gene_symbol_long: cell division cycle 16
+gene_model_pub_name: Medtr8g058380
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g058380
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Partial suppression of the CDC16 gene homolog in Medicago truncatula leads to a decreased number of lateral roots, an increased number of nodules, and reduced auxin sensitivity.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: auxin sensitivity
+    entity: TO:0000163
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: lateral root
+    entity: PO:0020121
+  - entity_name: root
+    entity: PO:0009005
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Kuppusamy, Ivashuta et al., 2009
+    doi: 10.1104/pp.109.143024
+    pmid: 19789288
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+
