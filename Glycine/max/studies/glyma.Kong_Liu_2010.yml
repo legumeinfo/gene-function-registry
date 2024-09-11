@@ -40,8 +40,8 @@ references:
 gene_symbols:
   - GmFT5a
 gene_symbol_long: Flowering Time 5a
-gene_model_pub_name: Gyma.16G044100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Gyma.16G044100
+gene_model_pub_name: Glyma.16G044100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G044100
 confidence: 5
 curators:
   - Steven Cannon
