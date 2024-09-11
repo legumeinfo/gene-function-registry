@@ -11,7 +11,7 @@ phenotype_synopsis: Forms dissected leaves with five leaflets clustered at the t
 traits:
   - entity_name: petiole length
     entity: TO:0000766
-  - entity_name: TO:0000748
+  - entity_name: leaf morphology trait
     entity: TO:0000748
   - entity_name: leaf
     entity: PO:0025034
