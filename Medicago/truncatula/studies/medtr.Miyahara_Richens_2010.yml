@@ -1,0 +1,31 @@
+---
+gene_symbols:
+  - MtNAP1
+gene_symbol_long: Nick-associated protein 1
+gene_model_pub_name: Medtr4g084140
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g084140
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Reduced levels of nodulation, reduced acetylene reduction, and limited nodule development.  Aborted and deformed infection threads restricted to epidermal root hair cells.  The few nodules that did form had very low rhizobial colonization and nitrogenase activity.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+  - entity_name: root hair cell
+    entity: PO:0000256
+references:
+  - citation: Miyahara, Richens et al., 2010
+    doi: 10.1094/mpmi-06-10-0144
+    pmid: 20731530
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

@@ -1,0 +1,21 @@
+---
+gene_symbols:
+  - ENOD40
+gene_symbol_long: Abnormal tissue development
+gene_model_pub_name: CAD48198.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g034835
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Use of antisense constructs of Mtenod40 arrested callus growth of Medicago explants, while overexpressing Mtenod40 embryos developed into teratomas. Enod40 genes might have a role in plant development, acting as 'riboregulators'.
+traits:
+  - entity_name: plant tissue development trait
+    entity: TO:0006015
+references:
+  - citation: Campalans, Kondorosi et al., 2017
+    doi: 10.1105/tpc.019406
+    pmid: 15037734
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

@@ -1,0 +1,54 @@
+---
+gene_symbols:
+  - Tof11
+  - PRR3a
+gene_symbol_long: Time of Flowering 11
+gene_model_pub_name: SoyZH13_11G141200
+gene_model_full_id: glyma.Zh13.gnm1.ann1.SoyZH13_11G141200
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Lu, Dong et al., 2020
+    doi: 10.1038/s41588-020-0604-7
+    pmid: 32231277
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+---
+gene_symbols:
+  - Tof12
+  - PRR3b
+gene_symbol_long: Time of Flowering 12
+gene_model_pub_name: SoyZH13_12G067700
+gene_model_full_id: glyma.Zh13.gnm1.ann1.SoyZH13_12G067700
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Lu, Dong et al., 2020
+    doi: 10.1038/s41588-020-0604-7
+    pmid: 32231277
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664

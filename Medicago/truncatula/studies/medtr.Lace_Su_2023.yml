@@ -1,0 +1,21 @@
+---
+gene_symbols:
+  - LIN
+gene_symbol_long: Lumpy infections
+gene_model_pub_name: Medtr1g090320
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g090320
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Rhizobial infection was reduced in quantity and infections were not persistent, i.e. infection threads were arrested after very limited progression within root hair cells.  Nodule differentiation was arrested at an early primordial stage as an indirect result of the aborted infection.
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Lace, Su et al., 2023
+    doi: 10.7554/elife.80741
+    pmid: 36856086
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

@@ -1,0 +1,23 @@
+---
+gene_symbols:
+  - MtAOC
+gene_symbol_long: Allene-oxide cyclase
+gene_model_pub_name: CAI29046.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g417750
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: MtAOC (allene oxide cyclase) gene expression was partially suppressed in roots following transformation with cDNA in the antisense direction.  These roots exhibited lower jasmonic acid levels and delayed colonization by Glomus intraradices.  The number of arbuscles decreased and their development was delayed, yet their physical structure was unaltered.
+traits:
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root
+    entity: PO:0009005
+references:
+  - citation: Isayenkov, Mrosk et al., 2005
+    doi: 10.1104/pp.105.069054
+    pmid: 16244141
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

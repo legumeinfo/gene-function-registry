@@ -1,0 +1,21 @@
+---
+gene_symbols:
+  - NFP
+gene_symbol_long: Nod Factor Perception
+gene_model_pub_name: Medtr5g019040
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g019040
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Root nodules did not form and infection threads aborted during development.
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Rey, Nars et al., 2013
+    doi: 10.1111/nph.12198
+    pmid: 23432463
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

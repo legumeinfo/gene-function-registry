@@ -1,0 +1,25 @@
+---
+gene_symbols:
+  - nork
+gene_symbol_long: nodulation receptor kinase
+gene_model_pub_name: Medtr5g030920
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g030920
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Lacks symbiotic root responses in the presence of compatible Sinorhizobium meliloti or Nod factor, and resists mycorrhizal colonization
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Kevei, Lougnon et al., 2007
+    doi: 10.1105/tpc.107.053975
+    pmid: 18156218
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

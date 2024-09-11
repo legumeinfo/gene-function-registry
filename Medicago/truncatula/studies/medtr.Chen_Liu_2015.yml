@@ -1,0 +1,22 @@
+---
+gene_symbols:
+  - HAP2.1
+gene_model_pub_name: Medtr1g056530
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Small and nonfunctional nodules arrested in growth when both normally spliced and alternatively spliced variants repressed.  When only the alternative spliced form repressed the nodules are small but still fix nitrogen successfully.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Chen, Liu et al., 2015
+    doi: 10.3389/fpls.2015.00575
+    pmid: 26284091
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

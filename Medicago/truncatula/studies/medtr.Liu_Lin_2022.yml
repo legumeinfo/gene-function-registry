@@ -1,0 +1,25 @@
+---
+gene_symbols:
+  - DMI1
+gene_symbol_long: doesn't make infections 1
+gene_model_pub_name: Medtr2g005870
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g005870
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Doesn't make nodules; infection thread aborts
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root system
+    entity: PO:0025025
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Liu, Lin et al., 2022
+    doi: 10.1073/pnas.2205920119
+    pmid: 35972963
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

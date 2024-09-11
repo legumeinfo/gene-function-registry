@@ -1,0 +1,22 @@
+---
+gene_symbols:
+  - GmSWN
+gene_symbol_long: Swinger
+gene_model_pub_name: Glyma.03G224300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G224300
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Wu, Kang et al., 2019
+    doi: 10.3389/fpls.2019.01221
+    pmid: 31787988
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141

@@ -1,0 +1,67 @@
+---
+classical_locus: E9
+gene_symbols:
+  - GmFT2a
+gene_symbol_long: Flowering Time 2a
+gene_model_pub_name: Glyma.16g150700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Kong, Liu et al., 2010
+    doi: 10.1104/pp.110.160796
+    pmid: 20864544
+  - citation: Kong, Nan et al., 2014
+    doi: 10.2135/cropsci2014.03.0228
+  - citation: Takeshima, Hayashi et al., 2016
+    doi: 10.1093/jxb/erw283
+    pmid: 27422993
+  - citation: Zhao, Takeshima et al., 2016
+    doi: 10.1186/s12870-016-0704-9
+    pmid: 26786479
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+---
+gene_symbols:
+  - GmFT5a
+gene_symbol_long: Flowering Time 5a
+gene_model_pub_name: Glyma.16G044100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G044100
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Kong, Liu et al., 2010
+    doi: 10.1104/pp.110.160796
+    pmid: 20864544
+  - citation: Fan, Hu et al., 2014
+    doi: 10.1186/1471-2229-14-9
+    pmid: 24397545
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664

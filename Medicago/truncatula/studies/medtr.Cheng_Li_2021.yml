@@ -1,0 +1,29 @@
+---
+gene_symbols:
+  - SGL1
+gene_symbol_long: single leaflet1
+gene_model_pub_name: Medtr3g098560
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g098560
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is decreased. Defective, fused flowers
+traits:
+  - entity_name: petiole length
+    entity: TO:0000766
+  - entity_name: flower morphology trait
+    entity: TO:0000499
+  - entity_name: leaf shape
+    entity: TO:0000492
+  - entity_name: petiole
+    entity: PO:0020038
+  - entity_name: flower
+    entity: PO:0009046
+references:
+  - citation: Cheng, Li et al., 2021
+    doi: 10.1093/plphys/kiaa005
+    pmid: 33631796
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

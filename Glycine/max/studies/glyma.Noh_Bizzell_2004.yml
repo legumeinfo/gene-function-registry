@@ -1,0 +1,44 @@
+---
+gene_symbols:
+  - GmELF5
+gene_symbol_long: Early Flowering 5
+gene_model_pub_name: Glyma.05G031100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G031100
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Noh, Bizzell et al., 2004
+    doi: 10.1111/j.1365-313x.2004.02072.x
+    pmid: 15125772
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+---
+gene_symbols:
+  - GmTEM1a
+gene_symbol_long: Tempranillo 1a
+gene_model_pub_name: Glyma.20G186200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G186200
+confidence: 3
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
+references:
+  - citation: Noh, Bizzell et al., 2004
+    doi: 10.1111/j.1365-313x.2004.02072.x
+    pmid: 15125772
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141

@@ -1,0 +1,32 @@
+---
+gene_symbols:
+  - GT3
+  - UGT73F3
+gene_symbol_long: Glycosyltransferase 3
+gene_model_pub_name: Medtr2g035020
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g035020
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.
+traits:
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: germination rate
+    entity: TO:0000430
+  - entity_name: root branching
+    entity: TO:0000257
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: root
+    entity: PO:0009005
+  - entity_name: whole plant
+    entity: PO:0000003
+references:
+  - citation: Ribeiro, Lacchini et al., 2020
+    doi: 10.1105/tpc.19.00609
+    pmid: 32303662
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+

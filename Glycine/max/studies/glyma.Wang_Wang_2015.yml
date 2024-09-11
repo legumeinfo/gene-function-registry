@@ -2,8 +2,8 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmVSPβ
-gene_model_pub_name: Glyma08g21410.1
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g21410.1
+gene_model_pub_name: Glyma08g21410
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g21410
 confidence: 3
 curators:
   - William Hardison
@@ -22,8 +22,8 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmN:IFR
-gene_model_pub_name: Glyma01g37810.1
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g37810.1
+gene_model_pub_name: Glyma01g37810
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g37810
 confidence: 3
 curators:
   - William Hardison

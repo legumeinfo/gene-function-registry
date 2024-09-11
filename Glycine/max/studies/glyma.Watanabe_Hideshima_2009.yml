@@ -1,0 +1,27 @@
+---
+classical_locus: E3
+gene_symbols:
+  - GmphyA3
+gene_symbol_long: Earliness 3
+gene_model_pub_name: Glyma.19G224200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G224200
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Photoperiodic flowering time regulation
+traits:
+  - entity_name: flowering time
+    entity: TO:0002616
+    relation_name: negatively regulates
+    relation: RO:0002212
+  - entity_name: days to maturity
+    entity: TO:0000469
+    relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Watanabe, Hideshima et al., 2009
+    doi: 10.1534/genetics.108.098772
+    pmid: 19474204
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
