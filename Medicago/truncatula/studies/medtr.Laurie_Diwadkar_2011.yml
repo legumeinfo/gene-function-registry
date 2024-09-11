@@ -27,7 +27,7 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g085040
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: null
+phenotype_synopsis: Normal flower development
 traits:
   - entity_name: flower development trait
     entity: TO:0000622
