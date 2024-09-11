@@ -2,7 +2,7 @@
 gene_symbols:
   - EIN2
   - Skl1
-gene_symbol_long: Ethylene Insensitive2
+gene_symbol_long: Ethylene Insensitive 2
 gene_model_pub_name: Medtr7g101410
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0264231
 confidence: 5
@@ -16,7 +16,7 @@ traits:
     entity: TO:0002665
   - entity_name: root nodule number
     entity: TO:0000900
-  - entity_name: TO:0000757
+  - entity_name: hypocotyl morphology trait
     entity: TO:0000757
   - entity_name: seedling cotyledon size
     entity: TO:0000752
