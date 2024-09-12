@@ -1,0 +1,71 @@
+## DOCUMENT 1 ##
+---
+scientific_name: Phaseolus vulgaris
+gene_symbols:
+  - PvSYMRK
+gene_symbol_long: Symbiosis Receptor-like Kinase
+gene_model_pub_name: Phvul.002G143400
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.002G143400
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - PvSYMRK is activated in root hairs by phosphorylation of the T589 residue in response to the perception of NOD factors produced by rhizobia.
+  - SYMRK labeled with EGFP (enhanced green fluorescence protein) is endocytosed from the plasma membrane to intracellular puncta in response to Rhizobium etli inoculation. The consequent redistribution affects the SYMRK signaling pathway.
+  - Deletion of the SYMRK endocytic sorting motif YKTL and application of endocytosis inhibitors reduced the prevalence of SYMRK-EGFP intracellular puncta. Endocytosis was also negatively impacted in phosphorylation-deficient (T589A) and kinase-inactivated (K618E) mutants of SYMRK.
+phenotype_synopsis: The PvSYMRK protein undergoes rhizobia-induced endocytosis and regulates a dependent kinase signal transduction cascade leading to rhizobial infection and nodule organogenesis.
+traits:
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+  - entity_name: kinase activity
+    entity: GO:0016301
+  - entity_name: positive regulation of receptor-mediated endocytosis
+    entity: GO:0048260
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Dávila-Delgado, Flores-Canúl et al., 2023
+    doi: 10.1007/s00425-023-04116-0
+    pmid: 36928335
+
+
+## DOCUMENT 2 ##
+---
+scientific_name: Phaseolus vulgaris
+classical_locus: Sd
+gene_symbols:
+  - PvP
+gene_symbol_long: Pigment
+gene_model_pub_name: Phvul.007G171333
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.007G171333
+confidence: 5
+curators:
+  - Scott Kalberer
+comments:
+  - Postharvest seed coat darkening results in decreased consumer preference and lower economic value for the Common bean market class of Pintos. Rapid and saturated darkening after harvest of dry beans results from heavy accumulation of proanthocyanidins (PAs) and PA monomers (epicatechin and catechin) in developing seed coat tissues.
+  - Psd is a recessive allele of the Pigment (P) candidate gene responsible for the slow darkening seed coat in Pinto beans (Phaseolus vulgaris). Evidence provided in Islam, Bett et al. (2020) that shows Pigment (allele Psd) is the SLOW DARKENING (Sd) gene included genetic complementation, transcript abundance, metabolite analysis, and an inheritance study.
+  - The P gene encodes a basic helix-loop-helix transcription factor. One of its two transcript variants (P-1) is involved in proanthocyanidin (PA) biosynthesis and the other truncated variant (P-2) has either no or unknown function. Two mutations in the Psd allele- supplemental glutamate residue in the activation domain; arginine to histidine substitution in the bHLH domain- are likely responsible for reduced protein activity and PA accumulation in the slow-darkening (SD) cultivar. Flavonoid biosynthesis leading to PAs is regulated by an MBW complex consisting of members of the myeloblastosis (MYB), bHLH transcription factor, and WD40 repeat protein (WDR) families.
+  - The P gene is a functional ortholog of the bHLH transcription factor AtTT8 that regulates testa pigment biosynthesis in Arabidopsis thaliana. In genetic complementation tests, ectopic expression among Arabidopsis tt8 mutants of the P-1 allele from regular darkening (RD) bean cultivar CDC Pintium completely restored both the activity of Dihydroflavonol 4-Reductase (AtDFR) and Anthocyanidin Reductase (AtANR) as well as the wild-type testa phenotype with expected PA levels. Transgenic expression of the Psd-1 allele from SD cultivar 1533-15 only partially redeemed the mutant phenotype, whereas transformation with constructs containing P-2 (CDC Pintium) failed to recover the wild-type phenotype. Loss-of-function alleles of the P gene were shown to cause white seed coat color in common bean (McClean, Bett et al., 2018).
+  - The gene model Phvul.007G171333 corresponds to the P gene and was previously annotated as a transcription factor known as TRANSPARENT TESTA 8 (TT8). Evidence that P is Sd includes its gene expression being highest in seed coat tissue among the six candidate genes on chromosome 7 near markers Pvsd-1158 and Pvsd-1157 in both cultivars CDC Pintium and 1533-15.
+phenotype_synopsis: Pinto bean cultivars carrying the Psd allele of the Pigment gene have seed coats that darken more slowly following harvest.
+traits:
+  - entity_name: seed coat color
+    entity: TO:0000190
+  - quality_name: brown
+    quality: PATO:0000952
+  - relation_name: positively regulates
+    relation: RO:0002213
+  - entity_name: regulation of proanthocyanidin biosynthetic process
+    entity: GO:2000029
+  - entity_name: bHLH transcription factor binding
+    entity: GO:0043425
+references:
+  - citation: Islam, Bett et al., 2020
+    doi: 10.1002/ppp3.10132
+    pmid: 34268482
+  - citation: McClean, Bett et al., 2018
+    doi: 10.1111/nph.15259
+    pmid: 29897103
+
+
