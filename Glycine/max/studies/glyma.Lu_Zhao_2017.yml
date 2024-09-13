@@ -93,7 +93,7 @@ confidence: 5
 curators:
   - Steven Cannon
 phenotype_synopsis: Photoperiodic flowering time regulation
-comments: 
+comments:
   - Encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean
 traits:
   - entity_name: flowering time
