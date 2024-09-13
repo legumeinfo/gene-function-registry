@@ -19,7 +19,7 @@
 1. The manuscript should be selected from the Google Docs [tracking spreadsheet](https://docs.google.com/spreadsheets/d/1hjBq1RSRtmjMVbzEEuKSQ1ArI8ydmVFBBkiA9ymWDrg/edit?usp=sharing), and then note in the spreadsheet the status
     - Curator will note "WIP_Name" in the column called "doc status" (example: WIP_Steven)
 2. Using the Title, Author and Year or DOI a curator can find the research paper using any of these sites:
-    - [Goolge Scholar](https://scholar.google.com/)
+    - [Google Scholar](https://scholar.google.com/)
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
     - [PubAg / USDA National Ag Library](https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN&search_scope=pubag&tab=pubag)
 
