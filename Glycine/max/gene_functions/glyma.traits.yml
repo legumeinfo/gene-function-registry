@@ -2874,7 +2874,6 @@ comments:
   - ncbi says the locus for  gibberellin 2-beta-dioxygenase 8 [Glycine max] -> "LOCUS NP_001242439"
   - Cannot find plant trait ontology for trailing growth and shoot length -> "shoot height (related)" is for plant height
   - glyma.Wm82.gnm2.ann1.Glyma.13G287600.1 also works
-  - 
 phenotype_synopsis: Negatively correlated with shoot length and trailing growth
 traits:
   - entity_name: plant height
