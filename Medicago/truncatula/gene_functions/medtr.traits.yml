@@ -165,36 +165,6 @@ references:
 
 ## DOCUMENT 6 ##
 ---
-scientific_name: Medicago truncatula
-gene_symbols:
-  - MtDMI2
-gene_symbol_long: Doesnt Make Infections
-gene_model_pub_name: Medtr5g030920
-gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g030920
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-comments:
-  - SYMRK is activated in root hairs by phosphorylation in response to the perception of NOD factors
-  - SYMRK-EGFP (enhanced green fluorescence protein) is endocytosed from the plasma membrane to intracellular puncta and affects the SYMRK signaling pathway
-  - SYMRK-suppressed mutants can't form infection threads and therefore can't form functional nodules, though they do form pseudo-nodules lacking symbiotic bacteria and fungi
-  - SYMRK overexpressing mutants form non-functional nodules without rhizobia
-phenotype_synopsis: SYMRK is necessary for nodule organogenesis.
-traits:
-  - entity_name: bioloical process involved in symbiotic interaction
-    entity: GO:0044403
-  - entity_name: kinase activity
-    entity: GO:0016301
-  - entity_name: positive regulation of receptor-mediated endocytosis
-    entity: GO:0048260
-references:
-  - citation: Dávila-Delgado, Flores-Canúl, et al., 2023
-    doi: 10.1007/s00425-023-04116-0
-    pmid: 36928335
-
-
-## DOCUMENT 7 ##
----
 gene_symbols:
   - MtCCD1
 gene_symbol_long: carotenoid cleavage dioxygenase 1
@@ -218,7 +188,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 8 ##
+## DOCUMENT 7 ##
 ---
 gene_symbols:
   - CPK3
@@ -245,7 +215,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 9 ##
+## DOCUMENT 8 ##
 ---
 gene_symbols:
   - bHLH1
@@ -276,7 +246,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 10 ##
+## DOCUMENT 9 ##
 ---
 gene_symbols:
   - LYK3
@@ -303,7 +273,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 11 ##
+## DOCUMENT 10 ##
 ---
 gene_symbols:
   - LYK4
@@ -330,7 +300,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 12 ##
+## DOCUMENT 11 ##
 ---
 gene_symbols:
   - MtAOC
@@ -355,7 +325,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 13 ##
+## DOCUMENT 12 ##
 ---
 gene_symbols:
   - CDPK1
@@ -388,7 +358,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 14 ##
+## DOCUMENT 13 ##
 ---
 gene_symbols:
   - PALM1
@@ -419,7 +389,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 15 ##
+## DOCUMENT 14 ##
 ---
 gene_symbols:
   - ANS
@@ -446,7 +416,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 16 ##
+## DOCUMENT 15 ##
 ---
 gene_symbols:
   - nork
@@ -473,7 +443,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 17 ##
+## DOCUMENT 16 ##
 ---
 gene_symbols:
   - CDC16
@@ -506,7 +476,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 18 ##
+## DOCUMENT 17 ##
 ---
 gene_symbols:
   - LIN
@@ -529,7 +499,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 19 ##
+## DOCUMENT 18 ##
 ---
 gene_symbols:
   - SUNN
@@ -560,7 +530,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 20 ##
+## DOCUMENT 19 ##
 ---
 gene_symbols:
   - FTa1
@@ -583,7 +553,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 21 ##
+## DOCUMENT 20 ##
 ---
 gene_symbols:
   - FTc
@@ -606,7 +576,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 22 ##
+## DOCUMENT 21 ##
 ---
 gene_symbols:
   - CYCLOPS
@@ -630,7 +600,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 23 ##
+## DOCUMENT 22 ##
 ---
 gene_symbols:
   - DMI1
@@ -657,7 +627,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 24 ##
+## DOCUMENT 23 ##
 ---
 gene_symbols:
   - DMI3
@@ -684,7 +654,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 25 ##
+## DOCUMENT 24 ##
 ---
 gene_symbols:
   - MtNAP1
@@ -717,7 +687,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 26 ##
+## DOCUMENT 25 ##
 ---
 gene_symbols:
   - CBF4
@@ -746,7 +716,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 27 ##
+## DOCUMENT 26 ##
 ---
 gene_symbols:
   - FCL1
@@ -777,7 +747,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 28 ##
+## DOCUMENT 27 ##
 ---
 gene_symbols:
   - VPY
@@ -804,7 +774,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 29 ##
+## DOCUMENT 28 ##
 ---
 gene_symbols:
   - FLOT2
@@ -839,7 +809,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 30 ##
+## DOCUMENT 29 ##
 ---
 gene_symbols:
   - FLOT3
@@ -866,7 +836,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 31 ##
+## DOCUMENT 30 ##
 ---
 gene_symbols:
   - FLOT4
@@ -895,7 +865,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 32 ##
+## DOCUMENT 31 ##
 ---
 gene_symbols:
   - NFP
@@ -918,7 +888,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 33 ##
+## DOCUMENT 32 ##
 ---
 gene_symbols:
   - GT3
@@ -952,7 +922,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 34 ##
+## DOCUMENT 33 ##
 ---
 gene_symbols:
   - chitIII-3
@@ -975,7 +945,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 35 ##
+## DOCUMENT 34 ##
 ---
 gene_symbols:
   - MtCre1
@@ -1008,7 +978,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 36 ##
+## DOCUMENT 35 ##
 ---
 gene_symbols:
   - ERN1
@@ -1031,7 +1001,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 37 ##
+## DOCUMENT 36 ##
 ---
 gene_symbols:
   - ERN2
@@ -1054,7 +1024,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 38 ##
+## DOCUMENT 37 ##
 ---
 gene_symbols:
   - EXPA
@@ -1077,7 +1047,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 39 ##
+## DOCUMENT 38 ##
 ---
 gene_symbols:
   - NIN
@@ -1100,7 +1070,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 40 ##
+## DOCUMENT 39 ##
 ---
 gene_symbols:
   - NRT1.3
@@ -1123,7 +1093,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 41 ##
+## DOCUMENT 40 ##
 ---
 gene_symbols:
   - NSP1
@@ -1146,7 +1116,7 @@ references:
     pmid: 25774204
 
 
-## DOCUMENT 42 ##
+## DOCUMENT 41 ##
 ---
 gene_symbols:
   - RR4
@@ -1166,7 +1136,7 @@ references:
     pmid: 26672071
 
 
-## DOCUMENT 43 ##
+## DOCUMENT 42 ##
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
@@ -1190,7 +1160,7 @@ references:
     pmid: 33606812
 
 
-## DOCUMENT 44 ##
+## DOCUMENT 43 ##
 ---
 gene_symbols:
   - EIN2
@@ -1234,5 +1204,4 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
-
 

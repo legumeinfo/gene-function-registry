@@ -25,7 +25,7 @@ traits:
   - entity_name: nodulation
     entity: GO:0009877
 references:
-  - citation: Dávila-Delgado, Flores-Canúl et al., 2023
+  - citation: Davila-Delgado, Flores-Canul et al., 2023
     doi: 10.1007/s00425-023-04116-0
     pmid: 36928335
 
