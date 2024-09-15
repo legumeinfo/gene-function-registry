@@ -1475,7 +1475,7 @@ references:
   - citation: Lu, Cheng et al., 2020
     doi: 10.1104/pp.19.01209
     pmid: 32680974
-  - citation: Isidra-Arellano, Pozas-Rodríguez et al., 2020
+  - citation: Isidra-Arellano, Pozas-RodrÃ­guez et al., 2020
     doi: 10.1111/tpj.14789
     pmid: 32344464
   - citation: Wang, Yang et al., 2020
@@ -2443,7 +2443,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmGA3ox_1a
-gene_symbol_long: ARRAY(0x83213b6d8)
+gene_symbol_long: ARRAY(0x832e73060)
 gene_model_pub_name: Glyma.15G012100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G012100
 confidence: 4
@@ -2874,6 +2874,7 @@ comments:
   - ncbi says the locus for  gibberellin 2-beta-dioxygenase 8 [Glycine max] -> "LOCUS NP_001242439"
   - Cannot find plant trait ontology for trailing growth and shoot length -> "shoot height (related)" is for plant height
   - glyma.Wm82.gnm2.ann1.Glyma.13G287600.1 also works
+  - 
 phenotype_synopsis: Negatively correlated with shoot length and trailing growth
 traits:
   - entity_name: plant height
@@ -3091,7 +3092,7 @@ comments:
   - When PAP12 is silenced, nodule number and APase activity are reduced.
   - PAP12 is induced by low-P conditions.
   - PAP12 is induced by transcription factor PHR1 (see Lu, Cheng et. al., 2020).
-phenotype_synopsis: ARRAY(0x83237f2a0)
+phenotype_synopsis: ARRAY(0x833060eb8)
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -3586,7 +3587,7 @@ references:
 ## DOCUMENT 117 ##
 ---
 scientific_name: Glycine max
-classical_locus: ARRAY(0x8323f76f0)
+classical_locus: ARRAY(0x833126378)
 gene_symbols:
   - SACPD-C
 gene_symbol_long: delta-9-Stearoyl-Acyl Carrier Protein Desaturase-C
@@ -3727,7 +3728,7 @@ curators:
 comments:
   - Expression of B1 in transgenic plants negatively correlates with the accumuation of oil and positively correlates with the amount of bloom.
   - Overexpression of B1 reduced fatty acid content in seed pods and increased bloom on the seed coat.
-phenotype_synopsis: ARRAY(0x832513348)
+phenotype_synopsis: ARRAY(0x8331f3318)
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
