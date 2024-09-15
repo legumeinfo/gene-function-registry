@@ -6,6 +6,8 @@ use YAML::PP;
 use YAML::PP::Common qw/ :PRESERVE /;
 use JSON::Parse 'parse_json';
 use Getopt::Long;
+use utf8;
+use open qw( :std :encoding(UTF-8) );
 use feature "say";
 
 my $usage = <<EOS;
@@ -256,3 +258,4 @@ S. Cannon
 2023-05-03 Change grouping of ontology terms, adding e.g. entity_name to go with entity
 2023-06-22 Handle key-value pairs for which the value is an array: comments, curators, gene_symbols
 2023-06-23 Add doc_count as parameter
+2024-09-15 Specify input and output as utf-8
