@@ -4,6 +4,8 @@ use warnings;
 use strict;
 use Getopt::Long;
 use feature "say";
+use utf8;
+use open qw( :std :encoding(UTF-8) );
 
 my $usage = <<EOS;
   Synopsis: cat PMID_LIST | get_references.pl [options]
@@ -81,4 +83,4 @@ __END__
 
 S. Cannon
 2023-05-02 Initial version
-
+2024-09-15 Specify input and output as utf-8
