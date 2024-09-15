@@ -1,9 +1,13 @@
 ## DOCUMENT 1 ##
 ---
+scientific_name: Vicia faba
 gene_symbols:
+  - VfCYP78A
 gene_model_pub_name: Vfaba.Hedin2.R1.4g051440.1
 gene_model_full_id: vicfa.Hedin2.gnm1.ann1.4g051440.1
 confidence: 4
+curators:
+  - Steven Cannon
 comments:
   - Evidence based on GWAS, allele analysis, and homology to an Arabidopsis gene (CYP78A) involved in seed size regulation
 phenotype_synopsis: Seed size regulation
@@ -18,15 +22,18 @@ references:
 
 ## DOCUMENT 2 ##
 ---
+scientific_name: Vicia faba
 gene_symbols:
   - VfPPO-2
 gene_symbol_long: polyphenol oxidase 2
 gene_model_pub_name: Vfaba.Tiffany.R1.1g391400.1
 gene_model_full_id: vicfa.Tiffany.gnm1.ann1.1g391400.1
 confidence: 4
+curators:
+  - Steven Cannon
 comments:
   - Evidence based on association and allelic variant analysis, and homology to an orthologous locus in pea (gene Psat1g2063360) that controls hilum color.
-  - \[Evidence suggests that the] regulation of expression of VfPPO-2 controls hilum colour variation in faba bean.\
+  - Evidence suggests that the regulation of expression of VfPPO-2 controls hilum colour variation in faba bean.
 phenotype_synopsis: Control of hilum color
 traits:
   - entity_name: hilum color
