@@ -6,6 +6,9 @@
 
 [Art of reading a journal article](/student_tutorials/Subramanyam_2013.pdf)
 
+### Practice Material
+- Within the (practice)[https://github.com/legumeinfo/gene-function-registry/tree/main/student_tutorials/practice) folder is a reserach paper and curatation document. 
+
 ### General SoyBase / LegumeInfo curation information
 <details>
 
