@@ -6,26 +6,35 @@
 # When you are done, compare your yml file to the Answer Key provided below.
 ---
 # BLANK TEMPLATE
-scientific_name:
-classical_locus:
-gene_symbols:
-  -
+scientific_name: Glycine max
+classical_locus: 
+gene_symbols: 
+  - GmCIF1
 gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+gene_model_pub_name: Glyma.17G036300
+gene_model_full_id: 
+confidence: 5
 curators:
-  -
+  - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - exhibits inhibitory effects aginst cell wall invertase (CWI) and vacuolar invertase (VI) 
+  - expressed during drought, AbA signaling and senescence
+  - elevated GWCIF1 expression contributes to an increase in startch and protien production in mature soybeans
+  - expressed in maturing leaves and developing seeds
+phenotype_synopsis: GmCIF1 is a inhibitor of CWI and VI and inhibits the following:
 traits:
-  - entity_name:
-    entity:
+  - entity_name: starch content
+    entity: TO:0000696
+  - entity_name: Seed size
+    entity: GO:0080113
+  - entity_name: protien content
+    entity: TO:0000598
+  - entity_name: seed development 
+    entity: GO:0048316
 references:
-  - citation:
-    doi:
-    pmid:
+  - citation: Tang, Su et al.,2017
+    doi: 10.1093/jxb/erw425
+    pmid: 28204559
   - citation:
     doi:
     pmid:
