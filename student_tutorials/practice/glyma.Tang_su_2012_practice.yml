@@ -19,9 +19,9 @@ curators:
 comments:
   - exhibits inhibitory effects aginst cell wall invertase (CWI) and vacuolar invertase (VI) 
   - expressed during drought, AbA signaling and senescence
-  - elevated GWCIF1 expression contributes to an increase in startch and protien production in mature soybeans
+  - elevated CIF1 expression contributes to an increase in startch and protien production in mature soybeans
   - expressed in maturing leaves and developing seeds
-phenotype_synopsis: GmCIF1 is a inhibitor of CWI and VI and inhibits the following:
+phenotype_synopsis: CIF1 is a inhibitor of CWI and VI and inhibits the following:
 traits:
   - entity_name: starch content
     entity: TO:0000696
