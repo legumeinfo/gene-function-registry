@@ -7,21 +7,21 @@
 ---
 # BLANK TEMPLATE
 scientific_name: Glycine max
-classical_locus: 
-gene_symbols: 
+classical_locus:
+gene_symbols:
   - GmCIF1
 gene_symbol_long:
 gene_model_pub_name: Glyma.17G036300
-gene_model_full_id: 
+gene_model_full_id:
 confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - exhibits inhibitory effects aginst cell wall invertase (CWI) and vacuolar invertase (VI) 
+  - exhibits inhibitory effects aginst cell wall invertase (CWI) and vacuolar invertase (VI)
   - expressed during drought, AbA signaling and senescence
   - elevated CIF1 expression contributes to an increase in startch and protien production in mature soybeans
   - expressed in maturing leaves, flowers and developing seeds
-phenotype_synopsis: CIF1 is a inhibitor of CWI and VI and effects the following:
+phenotype_synopsis: CIF1 is a inhibitor of CWI and VI and effects the following
 traits:
   - entity_name: starch content
     entity: TO:0000696
@@ -29,7 +29,7 @@ traits:
     entity: GO:0080113
   - entity_name: protien content
     entity: TO:0000598
-  - entity_name: seed development 
+  - entity_name: seed development
     entity: GO:0048316
 references:
   - citation: Tang, Su et al.,2017
@@ -40,12 +40,12 @@ references:
     pmid:
 ---
 scientific_name: Glycine max
-classical_locus: 
-gene_symbols: 
+classical_locus:
+gene_symbols:
   - GMC/VIF2
 gene_symbol_long:
 gene_model_pub_name: Glyma.17G036400
-gene_model_full_id: 
+gene_model_full_id:
 confidence:
 curators:
   - Raegan Nelson
@@ -54,7 +54,7 @@ comments:
   - expressed during drought, AbA signaling and senescence
   - elevated expression contributes to an increase in startch and protien production in mature soybeans
   - expressed in roots, flowers and developing seeds
-phenotype_synopsis: VIF2 is a inhibitor of CWI and VI and effects the following:
+phenotype_synopsis: VIF2 is a inhibitor of CWI and VI and effects the following
 traits:
   - entity_name: starch content
     entity: TO:0000696
@@ -62,7 +62,7 @@ traits:
     entity: GO:0080113
   - entity_name: protien content
     entity: TO:0000598
-  - entity_name: seed development 
+  - entity_name: seed development
     entity: GO:0048316
 references:
   - citation: Tang, Su et al.,2017
