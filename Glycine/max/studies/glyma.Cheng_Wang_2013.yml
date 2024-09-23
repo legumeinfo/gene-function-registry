@@ -1,17 +1,15 @@
----
-#three genes 
+--- 
 scientific_name: Glycine max
-classical_locus:
 gene_symbols: IFS1
 
-gene_symbol_long:  isoflavone synthase 1
+gene_symbol_long: isoflavone synthase 1
 gene_model_pub_name: Glyma.07g202300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G202300
 confidence: 4
-curators: Ella Townsend 
-  -
+curators:
+  - Ella Townsend 
 comments:
-  -is a duplicate of IFS2 
+  - is a duplicate of IFS2 
 phenotype_synopsis: involved in producing soybean isoflavonoids, isoflavonoids involved in health benefits for soybean consumption, and more importantly, involved with soybean environmental stress response  
 traits: 
   - entity_name: Plant stress trait 
@@ -28,35 +26,27 @@ traits:
     entity: 0055114
 references:
   - citation: "Cheng, Wang, et al. 2013"
-    doi:
+    doi: 10.1371/journal.pone.0054154
     pmid: 23342093
-  - citation:
-    doi:
-    pmid:
-
-    
 ---
-
-
 scientific_name: Glycine Max
-classical_locus:
 gene_symbols: IFS2
 
 gene_symbol_long: isoflavone synthase 2
 gene_model_pub_name: Glyma.13g173500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G173500
 confidence: 4
-curators: Ella Townsend 
-  -
+curators:
+  - Ella Townsend
 comments: 
-  - is a duplicate of ISF1 
+  - is a duplicate of ISF1
 phenotype_synopsis: involved in producing soybean isoflavonoids, isoflavonoids involved in health benefits for soybean consumption, and more importantly, involved with soybean environmental stress response 
 traits: 
-  - entity_name: Plant stress trait 
+  - entity_name: Plant stress trait
     entity: TO:0000164
-  - entity_name: abiotic plant stress trait 
+  - entity_name: abiotic plant stress trait
     entity: TO:0000168
-  - entity_name: biotic plant stress trait 
+  - entity_name: biotic plant stress trait
     entity: TO:0000179
   - entity_name: isoflavonoid biosynthetic process 
     entity: GO:0009717
@@ -66,23 +56,22 @@ traits:
     entity: 0055114
 references:
   - citation: "Cheng, Wang, et al. 2013"
-    doi:
+    doi: 10.1371/journal.pone.0054154
     pmid: 23342093
 ---
-
 scientific_name: Glycine max 
-classical_locus:
 gene_symbols: F3H2
 
 gene_symbol_long: flavanone 3-hydroxylase 2 
 gene_model_pub_name: Glyma.02g048400
-#only shows F3H name not F3H2
+
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G048400
 confidence: 4
-curators: Ella Townsend
-  -
+curators:
+  - Ella Townsend
 comments: 
   - under more selective pressure than IFS1 & IFS2 
+  - only shows F3H name not F3H2
 phenotype_synopsis: involved in flavone 3-hydroxylase synthase and involved in environmental stress responses 
 traits:  
   - entity_name: Plant stress trait 
@@ -99,43 +88,6 @@ traits:
     entity: 0055114
 references:
   - citation: "Cheng, Wang, et al. 2013"
-    doi:
+    doi: 10.1371/journal.pone.0054154
     pmid: 23342093
 ---
-# ANNOTATED TEMPLATE
-scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
-classical_locus:  # Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
-gene_symbols:
-  -  # Abbreviated gene name as listed in the paper. It should be formatted like "GmNNC1."
-  -  # If there are multiple names for one gene, enter them on separate lines with the most common name listed first.
-  -  # If more than one gene is described in the same paper, paste another copy of this template at the bottom of your document and fill it in for the second gene.
-gene_symbol_long:  # The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1" (do not include the prefix Glycine max).
-gene_model_pub_name:  # REQUIRED; This should be listed in the publication, e.g., Glyma02g17170.2, SoyW82_02G152800.1, or Glyma.02G152800, depending on the annotation version.
-# If the paper has no gene model name (rather, has a gene symbol plus sequence) try one of the search methods described at the bottom of this document.
-gene_model_full_id:  # REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
-# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://www.legumeinfo.org/tools/search/gene.html
-confidence:  # A value from 1 to 5 showing how strong the evidence for the gene's function is.
-# See the bottom of the document for guidance on assigning a confidence level.
-curators:
-  -  # Put your name here
-comments:
-  -  # If the information is available, briefly describe the function of the gene, what genes it interacts with, and how it is regulated.
-  -  # If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interacting gene.
-  -  # E.g. "miR172c cleaves the protein product of NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle_Men_2003.yml)."
-phenotype_synopsis:  # Briefly describe the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
-traits:  # REQUIRED; at least one "entity" ontology accession describing the function of the gene. Find ontologies by searching this database: https://www.ebi.ac.uk/ols/ontologies
-  - entity_name:  # The name of the ontology accession, e.g. "nodulation"
-    entity:  # The ontology accession code, e.g. "TO:0000898", with "TO" indicating the Trait Ontology
-  - quality_name:  # Optional; quality ontologies can be used to describe properties of the trait, e.g. "premature."
-    quality:  # Quality ontology codes usually begin with "PATO"
-  - relation_name:  # Optional; Relations ontologies can be used to describe the effects of the trait, e.g. "negatively regulates."
-    relation:  # Relations ontology codes begin with "RO"
-  - entity_name:  # Additional ontologies can be added to describe other functions, e.g. "regulation of biological process involved in symbiotic interaction"
-    entity:  # Code of additional ontology.
-    # You can add more lines describing the qualities and relations of your additional ontology entities.
-references:  # REQUIRED; At least one citation with its doi or pmid. Ideally, include several citations.
-  - citation:  # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et al., 2014"    doi:  # the bare doi (omit https://doi.org/), e.g. "10.1105/tpc.114.131607," not "https://doi.org/10.1105/tpc.114.131607"
-    pmid:  # Either search for your paper on PubMed, or use the "get_citations.pl" script in a new document to find pmid based on doi (or vice versa!). E.g. "25549672."
-  - citation:  # Additional citation of a paper providing more information.
-    doi:
-    pmid:
