@@ -1,15 +1,15 @@
 --- 
 scientific_name: Glycine max
 gene_symbols: IFS1
-
 gene_symbol_long: isoflavone synthase 1
 gene_model_pub_name: Glyma.07g202300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G202300
 confidence: 4
 curators:
-  - Ella Townsend 
+  - Ella Townsend
+  - Jacqueline Campbell
 comments:
-  - is a duplicate of IFS2 
+  - Is a duplicate of IFS2
 phenotype_synopsis: involved in producing soybean isoflavonoids, isoflavonoids involved in health benefits for soybean consumption, and more importantly, involved with soybean environmental stress response  
 traits: 
   - entity_name: Plant stress trait 
@@ -20,7 +20,7 @@ traits:
     entity: TO:0000179
   - entity_name: isoflavonoid biosynthetic process 
     entity: GO:0009717
-  - entity_name: Secondary metabolite biosynthetic process 
+  - entity_name: Secondary metabolite biosynthetic process
     entity: 0044550
   - entity_name: Oxidation-reduction process
     entity: 0055114
@@ -31,13 +31,13 @@ references:
 ---
 scientific_name: Glycine Max
 gene_symbols: IFS2
-
 gene_symbol_long: isoflavone synthase 2
 gene_model_pub_name: Glyma.13g173500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G173500
 confidence: 4
 curators:
   - Ella Townsend
+  - Jacqueline Campbell
 comments: 
   - is a duplicate of ISF1
 phenotype_synopsis: involved in producing soybean isoflavonoids, isoflavonoids involved in health benefits for soybean consumption, and more importantly, involved with soybean environmental stress response 
@@ -61,10 +61,8 @@ references:
 ---
 scientific_name: Glycine max 
 gene_symbols: F3H2
-
 gene_symbol_long: flavanone 3-hydroxylase 2 
 gene_model_pub_name: Glyma.02g048400
-
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G048400
 confidence: 4
 curators:
