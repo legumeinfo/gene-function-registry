@@ -7,12 +7,11 @@
 ---
 # BLANK TEMPLATE
 scientific_name: Glycine max
-classical_locus:
 gene_symbols:
   - GmCIF1
-gene_symbol_long:
+gene_symbol_long: Cell wall Inhibitor
 gene_model_pub_name: Glyma.17G036300
-gene_model_full_id:
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036300
 confidence: 5
 curators:
   - Raegan Nelson
@@ -40,13 +39,12 @@ references:
     pmid:
 ---
 scientific_name: Glycine max
-classical_locus:
 gene_symbols:
   - GMC/VIF2
-gene_symbol_long:
+gene_symbol_long: Cell wall or vaculor inhibitor
 gene_model_pub_name: Glyma.17G036400
-gene_model_full_id:
-confidence:
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
+confidence: 4
 curators:
   - Raegan Nelson
 comments:
