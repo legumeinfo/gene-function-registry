@@ -1,0 +1,65 @@
+---
+
+scientific_name: Glycine_max
+gene_symbols: UF3GT
+  -
+gene_symbol_long:
+gene_model_pub_name: Glyma.20g196000
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20g196000
+confidence: 3
+curators: Ella Townsend
+  -
+comments:
+  - impacted by R2R3 MYB transcription factor to impact the production of pigment and hilum color
+  - involved in anthocyanin synthesis to produce hilum color
+phenotype_synopsis: very important in seed coat formation and seed color, and controls rates of anthocyanin
+traits:
+  - entity_name: seed coat color
+    entity: TO:0000890
+  - entity_name: hilum color
+    entity: TO:0000968
+  - entity_name: seed coat morphology trait
+    entity: TO:0000838
+  - entity_name:  metabolic process
+    entity: GO:0008152
+  - entity_name:  intracellular membrane-bounded organelle
+    entity: GO:0043231
+references:
+  - citation: Gillman, Tetlow, et al., 2011
+    doi: 10.1186/1471-2229-11-155
+    pmid: 22070454
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Glycine_max
+gene_symbols: R2R3 MYB
+  -
+gene_symbol_long:   #go to ncbi and blast after using the given gene name
+gene_model_pub_name: Glyma.09g235100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09g235100
+confidence: 3
+curators: Ella Townsend
+  -
+comments:
+  - involved in upregulating the UF3GT expression, leading to brown hilum color
+  - maybe involved in many other things as a transcription factor often serves multiple functions
+  - is part of one of the largest transcription factor families in plants, it is likely to have more impacts
+phenotype_synopsis: transcription factor that greatly impacts hilum color; as a transcription factor, it is involved with lots of color-controlling genes and genes in general to impact color. It plays and important role into the up regulation of the UF3GT gene to produce a brown hilum color.
+traits:
+  - entity_name: seed coat color
+    entity: TO:0000890
+  - entity_name: hilum color
+    entity: TO:0000968
+  - entity_name: seed coat morphology trait
+    entity: TO:0000838
+references:
+  - citation: Gillman, Tetlow, et al., 2011
+    doi: 10.1186/1471-2229-11-155
+    pmid: 22070454
+  - citation:
+    doi:
+    pmid:
+
+    ---
