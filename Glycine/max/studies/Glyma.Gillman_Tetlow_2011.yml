@@ -20,9 +20,9 @@ traits:
     entity: TO:0000968
   - entity_name: seed coat morphology trait
     entity: TO:0000838
-  - entity_name:  metabolic process
+  - entity_name: metabolic process
     entity: GO:0008152
-  - entity_name:  intracellular membrane-bounded organelle
+  - entity_name: intracellular membrane-bounded organelle
     entity: GO:0043231
 references:
   - citation: Gillman, Tetlow, et al., 2011
@@ -36,7 +36,7 @@ references:
 scientific_name: Glycine_max
 gene_symbols: R2R3 MYB
   -
-gene_symbol_long:   #go to ncbi and blast after using the given gene name
+gene_symbol_long: R2R3 myeloblastosis viral oncogene homolog Transcription Factor 
 gene_model_pub_name: Glyma.09g235100
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09g235100
 confidence: 3
@@ -54,6 +54,8 @@ traits:
     entity: TO:0000968
   - entity_name: seed coat morphology trait
     entity: TO:0000838
+  - entity_name: transcription factor Binding
+    entity: GO:0008134
 references:
   - citation: Gillman, Tetlow, et al., 2011
     doi: 10.1186/1471-2229-11-155
