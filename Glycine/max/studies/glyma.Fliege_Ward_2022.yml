@@ -1,27 +1,26 @@
 ---
-scientific_name:
-classical_locus:
+scientific_name: Glycine max
+classical_locus: cqSeed protein-003
 gene_symbols:
   -
 gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+gene_model_pub_name: Glyma.20g085100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G085100
+confidence: 4
 curators:
-  -
+  - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - silencing of the low protien version of Glyma.20g085100 increases seed protien concentration
+  - controls seed protien phenotype
+  - 321bp deletion determines high protien or low protien allele
+phenotype_synopsis: Glyma.20g085100 regulates seed protein content by being coincident with the causative polymorphism in cqSeed protein-003
 traits:
-  - entity_name:
-    entity:
+  - entity_name: seed protien content
+    entity: TO:0000490
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Fliege, Ward et al.,2022
+    doi: 10.1111/tpj.15658
+    pmid: 34978122
 ---
 # ANNOTATED TEMPLATE
 scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
