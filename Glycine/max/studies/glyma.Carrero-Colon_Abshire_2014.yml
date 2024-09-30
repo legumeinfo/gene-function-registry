@@ -1,3 +1,4 @@
+---
 scientific_name: Glycine_max
 gene_symbols: SACPD-C
   -
@@ -7,7 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14g121400
 confidence:4
 curators:
   -Ella Townsend
-  -Ja
+  -Jacquilene Campbell
 comments:
   - is one of three SACPD genes involved in delta 9 steryol-acyl carrier protiens
   - has homology with SACPD-A and SACPD-B which are also linked to roles in increased stearic acid
@@ -23,7 +24,7 @@ traits:
   - entity_name: Acyl carrier activity
     entity: GO:0000036
   - entity_name: unsaturated fatty acid biosynthesis process
-    entity:GO: 0006636
+    entity: GO:0006636
   - entity_name: sterol desaturase activity
     entity: GO:0070704
   - entity_name: seed
