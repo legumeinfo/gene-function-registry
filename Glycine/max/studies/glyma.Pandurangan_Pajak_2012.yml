@@ -1,34 +1,77 @@
 ---
-# DIRECTIONS
-# As your first curation assignment, read the paper Tang, Su et al., 2017 (doi: 10.1093/jxb/erw425).
-# Create your own yml file based on the blank and annotated templates below.
-# Name your new file "Tang_Su_2012_practice.yml."
-# When you are done, compare your yml file to the Answer Key provided below.
----
-# BLANK TEMPLATE
-scientific_name:
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
-  -
-gene_symbol_long:
+  - ASPGB1
+gene_symbol_long: asparaginase
 gene_model_pub_name:
 gene_model_full_id:
 confidence:
 curators:
-  -
+  - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - strongly expressed in the seed coat of high protien seeds
+  - strongly expressed during embryonic stages of the seed
+  - not as strongly expressed in the cotyledon of high protien plants
+  - ASPGB1a is primarily expressed compared to other paralougs of ASPGB1
+phenotype_synopsis: ASPGB1 codes for asparaginase 
 traits:
-  - entity_name:
+  - entity_name: regulates Asparaginase protien content in seed coat
+    entity:
+  - entity_name: 
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - ASPGB2
+gene_symbol_long: asparaginase
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - not as strongly expressed in the seed coat of high protien seeds
+  - strongly expressed during embryonic stages of the seed
+  - strongly expressed in the cotyledon of high protien plants
+phenotype_synopsis: ASPGB2 codes for asparaginase 
+traits:
+  - entity_name: regulates Asparaginase protien content in seed coat
+    entity:
+  - entity_name: 
+    entity:
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS1
+gene_symbol_long: asparagine sythesis 1
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat and cotyledon of high protien seeds
+  - strongly expressed during early embryonic stages of the seed
+  - three paralougs found in the soybean genome; As1a, As1b etc. 
+  - AS1c commonly expressed in seed coat
+phenotype_synopsis: ASPGB1a codes for asparaginase 
+traits:
+  - entity_name: regulates Asparaginase protien content in seed coat
+    entity:
+  - entity_name: 
+    entity:
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
 ---
 # ANNOTATED TEMPLATE
 scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
