@@ -5,10 +5,10 @@ gene_symbols: SACPD-C
 gene_symbol_long: delta-9-stearoyl-acyl-carrier protein desaturase C
 gene_model_pub_name: Glyma.14g121400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14g121400
-confidence:4
+confidence: 4
 curators:
-  -Ella Townsend
-  -Jacquilene Campbell
+  - Ella Townsend
+  - Jacquilene Campbell
 comments:
   - is one of three SACPD genes involved in delta 9 steryol-acyl carrier protiens
   - has homology with SACPD-A and SACPD-B which are also linked to roles in increased stearic acid
