@@ -1,7 +1,6 @@
 ---
 scientific_name: Glycine_max
 gene_symbols: SACPD-C
-  -
 gene_symbol_long: delta-9-stearoyl-acyl-carrier protein desaturase C
 gene_model_pub_name: Glyma.14g121400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14g121400
@@ -14,7 +13,6 @@ comments:
   - has homology with SACPD-A and SACPD-B which are also linked to roles in increased stearic acid
   - SACPD-B and SACPD-C are both shown to increase stearic acid content in the seed when a deletion occurs in the genes
   - SACPD-A has no evidence that mutations increased stearic acid seed content
-  
 phenotype_synopsis: SACPD-C encodes for the delta-9-stearoyl-acyl-carrier protein desaturase enzymeis an important gene involved in the conversion of steric acid into oleaic acid
 traits:
   - entity_name: oleic acid content
