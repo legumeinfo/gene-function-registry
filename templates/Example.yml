@@ -73,7 +73,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCIF1  # This paper discusses both GmCIF1 and GmC/VIF2 in detail, so there is a second version of this template below for GmC/VIF2.
 gene_symbol_long: Cell Wall Invertase Inhibitor
-gene_model_pub_name: Glyma17G036300
+gene_model_pub_name: Glyma.17G036300
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036300
 confidence: 4
 curators:
@@ -81,7 +81,7 @@ curators:
 comments:
   - Ectopic expression and RNAi silencing show that CIF1 has a role in suppressing extracellular invertases.
   - Silencing of CIF1 increases seed weight as well as protein and starch content.
-  - CIF1 is activated by ABA signaling, draught, and senescence.
+  - CIF1 is activated by ABA signaling, drought, and senescence.
   - CIF1 is strongly expressed in flowers, mature leaves, and developing seeds.
 phenotype_synopsis: CIF1 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
@@ -110,7 +110,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmC/VIF2
 gene_symbol_long: Cell Wall or Vacuolar Inhibitor of β-Fructosidase 2
-gene_model_pub_name: Glyma17G036400
+gene_model_pub_name: Glyma.17G036400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
 confidence: 4
 curators:
@@ -118,7 +118,7 @@ curators:
 comments:
   - Ectopic expression and RNAi silencing show that C/VIF2 has a role in suppressing extracellular invertases.
   - Silencing of C/VIF2 increases seed weight as well as protein and starch content.
-  - C/VIF2 is activated by ABA signaling, draught, and senescence but suppressed by fungal infections.
+  - C/VIF2 is activated by ABA signaling, drought, and senescence but suppressed by fungal infections.
   - It is most strongly expressed in flowers, roots, and developing seeds.
 phenotype_synopsis: C/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
