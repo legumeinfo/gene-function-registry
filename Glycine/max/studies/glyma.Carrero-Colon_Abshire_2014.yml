@@ -1,25 +1,31 @@
 ---
-scientific_name: Glycine_max
-gene_symbols: SACPD-C
-gene_symbol_long: delta-9-stearoyl-acyl-carrier protein desaturase C
-gene_model_pub_name: Glyma.14g121400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14g121400
+scientific_name: Glycine max
+gene_symbols: GmSACPD-C
+gene_symbol_long: Delta-9-Stearoyl-Acyl-Carrier Protein Desaturase C
+gene_model_pub_name: Glyma.14G121400
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G121400
 confidence: 4
 curators:
   - Ella Townsend
   - Jacqueline Campbell
+  - Scott Kalberer
 comments:
-  - is one of three SACPD genes involved in delta 9 steryol-acyl carrier protiens
-  - has homology with SACPD-A and SACPD-B which are also linked to roles in increased stearic acid
-  - SACPD-B and SACPD-C are both shown to increase stearic acid content in the seed when a deletion occurs in the genes
-  - SACPD-A has no evidence that mutations increased stearic acid seed content
-phenotype_synopsis: SACPD-C encodes for the delta-9-stearoyl-acyl-carrier protein desaturase enzymeis an important gene involved in the conversion of steric acid into oleaic acid
+  - GmSACPD-C is one of three SACPD genes involved in
+    delta-9-stearyol-acyl-carrier proteins.
+  - Has homology with SACPD-A and SACPD-B which are also linked to roles in
+    increased stearic acid.
+  - SACPD-B and SACPD-C are both shown to increase stearic acid content in the
+    seed when a deletion occurs in the genes.
+  - SACPD-A has no evidence that mutations increased stearic acid seed content.
+phenotype_synopsis: GmSACPD-C encodes for the delta-9-stearoyl-acyl-carrier
+  protein desaturase enzyme and is an important gene involved in the conversion
+  of stearic acid into oleic acid.
 traits:
   - entity_name: oleic acid content
     entity: TO:0005002
   - entity_name: stearic acid content
     entity: TO:0005003
-  - entity_name: Acyl carrier activity
+  - entity_name: acyl carrier activity
     entity: GO:0000036
   - entity_name: unsaturated fatty acid biosynthesis process
     entity: GO:0006636
@@ -28,7 +34,7 @@ traits:
   - entity_name: seed
     entity: PO:0009010
 references:
-  - citation: carrero-colon, abshire et al, 2014
+  - citation: Carrero-Colon, Abshire et al., 2014
     doi: 10.1371/journal.pone.0097891
     pmid: 24846334
 ---
