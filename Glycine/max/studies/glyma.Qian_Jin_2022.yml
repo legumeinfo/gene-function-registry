@@ -20,10 +20,10 @@ traits:
   - relation_name: positively regulates
     relation: RO:0002213
 references:
-  - citation: Qian, Linlin et. al.,
+  - citation: Qian, Jin et. al., 2022
     doi: 10.3390/ijms23084116
     pmid: 35456933
-  - citation: Juwattanasomran, R., et. al,
+  - citation: Juwattanasomran, Somta, et. al, 2011
     doi: 10.1007/s00122-010-1467-6
     pmid: 21046066
 
@@ -52,9 +52,11 @@ traits:
   - entity_name: oxidoreductase activity
     entity: GO:0016491
 references:
-  - citation: Shi, Yu-Xin et. al.
-    doi: 10.3724/SP.J.1006.2024.34056
-    pmid: null
-  - citation: Xie, Hongtao et. al.
+  - citation: Qian, Jin et. al., 2022
+    doi: 10.3390/ijms23084116
+    pmid: 35456933
+  - citation: Shi, Yang et. al., 2008
+    doi: 10.1007/s11032-008-9165-7
+  - citation: Xie, Song et. al., 2024
     doi: 10.1111/jipb.13631
-    pmid: null
+    pmid: 38390811
