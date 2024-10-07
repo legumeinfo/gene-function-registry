@@ -7,15 +7,12 @@
 [Art of reading a journal article](/student_tutorials/Subramanyam_2013.pdf)
 
 ### Practice Material
-- Within the (practice)[https://github.com/legumeinfo/gene-function-registry/tree/main/student_tutorials/practice) folder is a reserach paper and curatation document. 
+- Within the [practice](https://github.com/legumeinfo/gene-function-registry/tree/main/student_tutorials/practice) folder is a reserach paper and curatation document. 
 
-### General SoyBase / LegumeInfo curation information
+### General curation information
 <details>
-
 - We use a "Genus species" code for curation. We use the first three letters of the <b>gen</b>us and the first two letters of the <b>sp</b>ecies (Example: <i>Glycine max</i> == glyma)
 - Advanced gene function curation protocol can be found [here](https://github.com/legumeinfo/datastore-specifications/tree/main/PROTOCOLS/gene_functions)
-
-
 </details>
 
 ### Selecting and accessing research papers
@@ -28,14 +25,16 @@
 
 
 
-### How to curate with GitHub
+### Branch management using the Graphical User Interface (GUI) on GitHub
+<details>
 1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)
 2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
 3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and remain the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)
+</details>
 
-
-### Branch management with Git and GitHub
+### Branch management using Git on the terminal
+<details>
 - To start a brand new branch on your own computer first start within the correct directory.  Within the terminal use the command "git checkout -b gensp.Author_Author_YEAR" or "git branch (new_branch_name)" followed by "git switch (new_branch_name)".
 
 - To create a new branch on your local device that tracks a branch already present at https://github.com/legumeinfo/gene-function-registry, use the command "git checkout --track origin/(remote_branch_name)" in the terminal.
@@ -59,10 +58,9 @@
 - The record of "commits" and other changes within your git repository may be seen using "git log".  The command "git branch" allows you to see all the possible branches available in the directory and "git branch -a" shows the tracking branches at GitHub.  Shift from one branch to another using "git switch (different_branch_name)"
 
 - The “git push” command then takes the updates in local “.git”, which have been staged ready for the push by “git-commit”, and pushes (uploads) the staged files to a remote repository at github.com.  Requires a sign-in or permission to access and use “git-push” in the command line without specifying the files.
+</details>
 
 
-#### Challenges you may encounter while curatoring a paper
-- 
 
 ### How to find ontology terms
 - Head to the website "https://www.ebi.ac.uk/ols4" and search in the field under "Welcome to the EMBL-EBI Ontology Lookup Service".  Use keywords and likley trait names to search for ontology terms within their records and travel along the branches of the ontology trees to compare and contrast options.
@@ -72,12 +70,11 @@
 - There are ontologies specific to certain organisms that may also be included such as the Soybean Trait Ontology (SOY) "https://amigo.soybase.org/amigo/amigo/term/SOY:0000099" and the variety of Crop Ontologies (CO) "https://cropontology.org".
 
 
-#### Finding a GO, TO, PO term
-
-#### Finding a Soy Ontology term
-
 #### How do determine the 'Confindence Value'
 <details>
 - Short Answer: The confidence block is to have values 1 through 5.  This field indicates level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
 - Long Answer: The S-Tier level of 5, and to a lesser extent 4, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest.  A level of 3 would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation.  Levels 1 and 2 would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level 1 or 2 support.
 </details>
+
+#### FAQ about Git, GitHub and curation
+- 
