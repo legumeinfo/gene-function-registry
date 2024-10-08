@@ -8,7 +8,8 @@ curators:
 comments:
   - silencing of the low protien version of Glyma.20g085100 increases seed protien concentration
   - controls seed protien phenotype
-  - 321bp deletion found in PI 468916 determines high protien allele
+  - The allele in Williams 82 is 321 bases longer than the higher-protein version in PI 468916.
+  - The low-protein allele in Williams 82 is likely due to a transposon insertion in the low-protein ancestral lineage.
   - fine mapping of the cqSeed protein-003 shows that it is found between BARCSOYSSR_20_0670 and BARCSOYSSR_20_0674
 phenotype_synopsis: Glyma.20g085100 regulates seed protein content by being coincident with the causative polymorphism in cqSeed protein-003
 traits:
@@ -18,5 +19,3 @@ references:
   - citation: Fliege, Ward et al.,2022
     doi: 10.1111/tpj.15658
     pmid: 34978122
----
-
