@@ -3,17 +3,18 @@ scientific_name: Glycine max
 gene_symbols:
   - ASPGB1a
 gene_symbol_long: 
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma14g09510
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g09510
 confidence:
 curators:
   - Raegan Nelson
 comments:
-  - strongly expressed in the seed coat of high protien seeds
-  - strongly expressed during embryonic stages of the seed
-  - not as strongly expressed in the cotyledon of high protien plants
-  - ASPGB1a is primarily expressed compared to other paralougs of ASPGB1
-phenotype_synopsis: ASPGB1 codes for asparaginase 
+  - strongly expressed in the seed coat of developing seeds
+  - Lower transcription levels in the cotyledon compared to the seed coat
+  - very low levels of transcription of ASGB1 in embryo of developing seeds
+  - ASPGB1a is primarily expressed in seed coat compared to other paralougs of ASPGB1
+  - Transcription levels are more highly expressed in the high protien developing seed (AC Proteus)
+phenotype_synopsis: ASPGB1a codes for asparaginase 
 traits:
   - entity_name: regulates Asparaginase protien content in seed coat
     entity:
@@ -28,15 +29,16 @@ scientific_name: Glycine max
 gene_symbols:
   - ASPGB1b
 gene_symbol_long: asparaginase
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma17g35650
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g35650
 confidence:
 curators:
   - Raegan Nelson
 comments:
-  - not as strongly expressed in the seed coat of high protien seeds
-  - strongly expressed during embryonic stages of the seed
-  - strongly expressed in the cotyledon of high protien plants
+  - strongly expressed in the seed coat of developing seeds
+  - Lower transcription levels in the cotyledon compared to the seed coat
+  - very low levels of transcription of ASGB1 in embryo of developing seeds
+  - Transcription levels are more highly expressed in the high protien developing seed (AC Proteus)
 phenotype_synopsis: ASPGB2 codes for asparaginase 
 traits:
   - entity_name: regulates Asparaginase protien content in seed coat
@@ -52,19 +54,18 @@ scientific_name: Glycine max
 gene_symbols:
   - ASPGB2a
 gene_symbol_long: asparagine sythesis 1
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma04g04470
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g04470
 confidence:
 curators:
   - Raegan Nelson
 comments:
-  - strongly expressed in the seed coat and cotyledon of high protien seeds
-  - strongly expressed during early embryonic stages of the seed
-  - three paralougs found in the soybean genome; As1a, As1b etc. 
-  - AS1c commonly expressed in seed coat
-phenotype_synopsis: ASPGB1a codes for asparaginase 
+  - predominantly expressed in the cotyledon compared to other ASPG genes
+  - Transcription levels are more highly expressed in the low protien developing seed (Maple Arrow)
+  - low trancription of ASPGB2 paralougs may explain the higher free asparagine levels in the embryo of developing seeds
+phenotype_synopsis: ASPGB2a codes for asparagine 
 traits:
-  - entity_name: regulates Asparaginase protien content in seed coat
+  - entity_name: regulates Asparagine protien content in seed coat
     entity:
   - entity_name: 
     entity:
@@ -77,20 +78,19 @@ scientific_name: Glycine max
 gene_symbols:
   - ASPGB2b
 gene_symbol_long: asparagine sythesis 1
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma06g04590
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g04590
 confidence:
 curators:
   - Raegan Nelson
 comments:
-  - strongly expressed in the seed coat and cotyledon of high protien seeds
-  - strongly expressed during early embryonic stages of the seed
-  - three paralougs found in the soybean genome; As1a, As1b etc. 
-  - AS1c commonly expressed in seed coat
-phenotype_synopsis: ASPGB1a codes for asparaginase 
+  - predominantly expressed in the cotyledon
+  - Transcription levels are more highly expressed in the low protien developing seed (Maple Arrow)
+  - low trancription of ASPGB2 paralougs may explain the higher free asparagine levels in the embryo of developing seeds
+phenotype_synopsis: ASPGB1a codes for asparagine 
 traits:
-  - entity_name: regulates Asparaginase protien content in seed coat
-    entity:
+  - entity_name: 
+    entity: GO:0016787
   - entity_name: 
     entity:
 references:
@@ -108,10 +108,8 @@ confidence:
 curators:
   - Raegan Nelson
 comments:
-  - strongly expressed in the seed coat and cotyledon of high protien seeds
+  - strongly expressed in the seed coat and cotyledon of high protien developing seed (AC Proteus)
   - strongly expressed during early embryonic stages of the seed
-  - three paralougs found in the soybean genome; As1a, As1b etc. 
-  - AS1c commonly expressed in seed coat
 phenotype_synopsis: ASPGB1a codes for asparaginase 
 traits:
   - entity_name: regulates Asparaginase protien content in seed coat
@@ -180,7 +178,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - AS2a
-gene_symbol_long: asparagine sythesis 1
+gene_symbol_long: asparagine sythesis 2a
 gene_model_pub_name: Glyma02g39320
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g39320
 confidence:
@@ -207,9 +205,9 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - AS2b
-gene_symbol_long: asparagine sythesis 1
-gene_model_pub_name:
-gene_model_full_id:
+gene_symbol_long: asparagine sythesis 2b
+gene_model_pub_name: Glyma14g37440
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37440
 confidence:
 curators:
   - Raegan Nelson
@@ -220,10 +218,12 @@ comments:
   - AS1c commonly expressed in seed coat
 phenotype_synopsis: ASPGB1a codes for asparaginase 
 traits:
-  - entity_name: regulates Asparaginase protien content in seed coat
-    entity:
+  - entity_name:
+    entity: GO:0004066
   - entity_name: 
-    entity:
+    entity: GO:0006529
+  - entity_name: 
+    entity: GO:0008152
 references:
   - citation: Pandurangan_Pajak_2012
     doi: 10.1093/jxb/ers039
@@ -233,8 +233,8 @@ scientific_name: Glycine max
 gene_symbols:
   - AS3a
 gene_symbol_long: asparagine sythesis 1
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma11g38130
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g38130
 confidence:
 curators:
   - Raegan Nelson
@@ -258,8 +258,8 @@ scientific_name: Glycine max
 gene_symbols:
   - AS3b
 gene_symbol_long: asparagine sythesis 1
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma18g02060
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g02060
 confidence:
 curators:
   - Raegan Nelson
