@@ -1,0 +1,62 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBADH2
+gene_symbol_long: betaine aldehyde dehydrogenase 2
+gene_model_pub_name: Glyma05g01770
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma05g01770
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - Mutated GmBADH2 may be responsible for the aroma of three aromatic soybean
+    cultivars.
+  - A perfect association between the marker genotypes and aroma phenotypes
+    implied that GmBADH2 is a major aroma-conferring gene
+phenotype_synopsis: A Sequence Variation in GmBADH2 Enhances Soybean Aroma.
+traits:
+  - entity_name: 3-chloroallyl aldehyde dehydrogenase activity
+    entity: GO:0016491
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Qian, Jin et. al., 2022
+    doi: 10.3390/ijms23084116
+    pmid: 35456933
+  - citation: Juwattanasomran, Somta, et. al, 2011
+    doi: 10.1007/s00122-010-1467-6
+    pmid: 21046066
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBADH1
+gene_symbol_long: betaine aldehyde dehydrogenase 1
+gene_model_pub_name: Glyma06g19820
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g19820
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - GmBADH1 gene may mainly regulate the salt tolerance of seedling stage
+  - GmBADH2 expression level in the R6 stage seeds was significantly lower in
+    the aromatic soybean varieties (QX1 and XD) than in the non-aromatic soybean
+    variety (DBH), whereas there were no significant differences in the GmBADH1
+    expression levels
+  - Knockout of the soybean (Glycine max) betaine aldehyde dehydrogenase genes
+    GmBADH1 and GmBADH2 using CRISPR/Cas12i3 enhances the aroma of soybeans
+phenotype_synopsis: regulate the salt tolerance of seedling stage
+traits:
+  - entity_name: 3-chloroallyl aldehyde dehydrogenase activity
+    entity: GO:0004028
+  - entity_name: oxidoreductase activity
+    entity: GO:0016491
+references:
+  - citation: Qian, Jin et. al., 2022
+    doi: 10.3390/ijms23084116
+    pmid: 35456933
+  - citation: Shi, Yang et. al., 2008
+    doi: 10.1007/s11032-008-9165-7
+  - citation: Xie, Song et. al., 2024
+    doi: 10.1111/jipb.13631
+    pmid: 38390811
