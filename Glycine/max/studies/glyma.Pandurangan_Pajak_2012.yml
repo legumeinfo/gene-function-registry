@@ -120,7 +120,7 @@ traits:
     entity: GO:0008152
   - entity_name: asparagine biosynthetic process
     entity: GO:0006529
-  - entity_name:  asparagine synthase (glutamine-hydrolyzing) activity
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
     entity: GO:0004066
 references:
   - citation: Pandurangan_Pajak_2012
@@ -149,7 +149,7 @@ traits:
     entity: GO:0008152
   - entity_name: asparagine biosynthetic process
     entity: GO:0006529
-  - entity_name:  asparagine synthase (glutamine-hydrolyzing) activity
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
     entity: GO:0004066
 references:
   - citation: Pandurangan_Pajak_2012
@@ -171,7 +171,7 @@ comments:
   - relatively stable expression in embyro
   - more predomiently expressed in high protien seed (AC Proteus)
   - predomiently expressed in seed coat compared to other AS genes
-phenotype_synopsis: AS1c codes for asparaginase synthetase 
+phenotype_synopsis: AS1c codes for asparaginase synthetase
 traits:
   - entity_name: Seed protien content
     entity: TO:0000490
@@ -179,7 +179,7 @@ traits:
     entity: GO:0008152
   - entity_name: asparagine biosynthetic process
     entity: GO:0006529
-  - entity_name:  asparagine synthase (glutamine-hydrolyzing) activity
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
     entity: GO:0004066
 references:
   - citation: Pandurangan_Pajak_2012
@@ -236,7 +236,7 @@ traits:
     entity: GO:0008152
   - entity_name: asparagine biosynthetic process
     entity: GO:0006529
-  - entity_name:  asparagine synthase (glutamine-hydrolyzing) activity
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
     entity: GO:0004066
 references:
   - citation: Pandurangan_Pajak_2012
@@ -265,7 +265,7 @@ traits:
     entity: GO:0008152
   - entity_name: asparagine biosynthetic process
     entity: GO:0006529
-  - entity_name:  asparagine synthase (glutamine-hydrolyzing) activity
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
     entity: GO:0004066
 references:
   - citation: Pandurangan_Pajak_2012
