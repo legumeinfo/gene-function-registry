@@ -1,0 +1,273 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - ASPGB1a
+gene_symbol_long: asparaginase 1a
+gene_model_pub_name: Glyma14g09510
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g09510
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat of developing seeds
+  - Lower transcription levels in the cotyledon compared to the seed coat
+  - very low levels of transcription of ASGB1 in embryo of developing seeds
+  - ASPGB1a is primarily expressed in seed coat compared to other paralougs of ASPGB1
+  - Transcription levels are more highly expressed in the high protien developing seed (AC Proteus)
+phenotype_synopsis: ASPGB1a codes for asparaginase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: Hydrolase Activity
+    entity: GO:0016787
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - ASPGB1b
+gene_symbol_long: asparaginase 1b
+gene_model_pub_name: Glyma17g35650
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g35650
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat of developing seeds
+  - Lower transcription levels in the cotyledon compared to the seed coat
+  - very low levels of transcription of ASGB1 in embryo of developing seeds
+  - Transcription levels are more highly expressed in the high protien developing seed (AC Proteus)
+phenotype_synopsis: ASPGB1 codes for asparaginase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: Hydrolase Activity
+    entity: GO:0016787
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - ASPGB2a
+gene_symbol_long: asparaginase 2a
+gene_model_pub_name: Glyma04g04470
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g04470
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - predominantly expressed in the cotyledon compared to other ASPG genes
+  - Transcription levels are more highly expressed in the cotyledon of low protien seed (Maple Arrow)
+  - low trancription of ASPGB2 paralougs may explain the higher free asparagine levels in the embryo of developing seeds
+phenotype_synopsis: ASPGB2a codes for asparagine
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: Hydrolase Activity
+    entity: GO:0016787
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - ASPGB2b
+gene_symbol_long: asparaginase 2b
+gene_model_pub_name: Glyma06g04590
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g04590
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - predominantly expressed in the cotyledon
+  - Transcription levels are more highly expressed in the cotyledon of low protien seed (Maple Arrow)
+  - low trancription of ASPGB2 paralougs may explain the higher free asparagine levels in the embryo of developing seeds
+phenotype_synopsis: ASPGB2b codes for asparagine
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: Hydrolase Activity
+    entity: GO:0016787
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS1a
+gene_symbol_long: asparaginase synthetase 1a
+gene_model_pub_name: Glyma11g27480
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27480
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat during early seed development and decline steadily as seed weight increases
+  - AS genes are likely responsible for the high levels of free asparagine found in the embryo
+  - relatively stable expression in embyro
+  - more predomiently expressed in high protien seed (AC Proteus)
+phenotype_synopsis: AS1a codes for asparaginase synthetase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: metabolic process
+    entity: GO:0008152
+  - entity_name: asparagine biosynthetic process
+    entity: GO:0006529
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
+    entity: GO:0004066
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS1b
+gene_symbol_long: asparaginase synthetase 1b
+gene_model_pub_name: Glyma11g27720
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27720
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat during early seed development and decline steadily as seed weight increases
+  - AS genes are likely responsible for the high levels of free asparagine found in the embryo
+  - relatively stable expression in embyro
+  - more predomiently expressed in high protien seed (AC Proteus)
+phenotype_synopsis: AS1b codes for asparaginase synthetase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: metabolic process
+    entity: GO:0008152
+  - entity_name: asparagine biosynthetic process
+    entity: GO:0006529
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
+    entity: GO:0004066
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS1c
+gene_symbol_long: asparaginase synthetase 1c
+gene_model_pub_name: Glyma18g06840
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g06840
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat during early seed development and decline steadily as seed weight increases
+  - AS genes are likely responsible for the high levels of free asparagine found in the embryo
+  - relatively stable expression in embyro
+  - more predomiently expressed in high protien seed (AC Proteus)
+  - predomiently expressed in seed coat compared to other AS genes
+phenotype_synopsis: AS1c codes for asparaginase synthetase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: metabolic process
+    entity: GO:0008152
+  - entity_name: asparagine biosynthetic process
+    entity: GO:0006529
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
+    entity: GO:0004066
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS2b
+gene_symbol_long: asparaginase synthetase 2b
+gene_model_pub_name: Glyma14g37440
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37440
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat during early seed development and decline steadily as seed weight increases
+  - AS genes are likely responsible for the high levels of free asparagine found in the embryo
+  - relatively stable expression in embyro
+phenotype_synopsis: AS2b codes for asparaginase synthetase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
+    entity: GO:0004066
+  - entity_name: asparagine biosynthetic process
+    entity: GO:0006529
+  - entity_name: metabolic process
+    entity: GO:0008152
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS3a
+gene_symbol_long: asparaginase synthetase 3a
+gene_model_pub_name: Glyma11g38130
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g38130
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat during early seed development (50mg) and decline steadily as seed weight increases (150mg)
+  - AS genes are likely responsible for the high levels of free asparagine found in the embryo
+  - relatively stable expression in embyro
+  - predomiently expressed in cotyledon compared to other AS genes
+phenotype_synopsis: AS3a codes for asparaginase synthetase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: metabolic process
+    entity: GO:0008152
+  - entity_name: asparagine biosynthetic process
+    entity: GO:0006529
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
+    entity: GO:0004066
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
+---
+scientific_name: Glycine max
+gene_symbols:
+  - AS3b
+gene_symbol_long: asparaginase synthetase 3b
+gene_model_pub_name: Glyma18g02060
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g02060
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - strongly expressed in the seed coat during early seed development (50mg) and decline steadily as seed weight increases (150mg)
+  - AS genes are likely responsible for the high levels of free asparagine found in the embryo
+  - relatively stable expression in embyro
+  - predomiently expressed in cotyledon compared to other AS genes
+phenotype_synopsis: AS3b codes for asparaginase synthetase
+traits:
+  - entity_name: Seed protien content
+    entity: TO:0000490
+  - entity_name: metabolic process
+    entity: GO:0008152
+  - entity_name: asparagine biosynthetic process
+    entity: GO:0006529
+  - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
+    entity: GO:0004066
+references:
+  - citation: Pandurangan_Pajak_2012
+    doi: 10.1093/jxb/ers039
+    pmid: PMC3350928
