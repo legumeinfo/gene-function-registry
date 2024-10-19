@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: asparaginase 1a
 gene_model_pub_name: Glyma14g09510
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g09510
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -31,7 +31,7 @@ gene_symbols:
 gene_symbol_long: asparaginase 1b
 gene_model_pub_name: Glyma17g35650
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g35650
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -56,7 +56,7 @@ gene_symbols:
 gene_symbol_long: asparaginase 2a
 gene_model_pub_name: Glyma04g04470
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g04470
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -80,7 +80,7 @@ gene_symbols:
 gene_symbol_long: asparaginase 2b
 gene_model_pub_name: Glyma06g04590
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g04590
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -104,7 +104,7 @@ gene_symbols:
 gene_symbol_long: asparaginase synthetase 1a
 gene_model_pub_name: Glyma11g27480
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27480
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -133,7 +133,7 @@ gene_symbols:
 gene_symbol_long: asparaginase synthetase 1b
 gene_model_pub_name: Glyma11g27720
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27720
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -162,7 +162,7 @@ gene_symbols:
 gene_symbol_long: asparaginase synthetase 1c
 gene_model_pub_name: Glyma18g06840
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g06840
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -192,7 +192,7 @@ gene_symbols:
 gene_symbol_long: asparaginase synthetase 2b
 gene_model_pub_name: Glyma14g37440
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37440
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -220,7 +220,7 @@ gene_symbols:
 gene_symbol_long: asparaginase synthetase 3a
 gene_model_pub_name: Glyma11g38130
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g38130
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
@@ -249,7 +249,7 @@ gene_symbols:
 gene_symbol_long: asparaginase synthetase 3b
 gene_model_pub_name: Glyma18g02060
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g02060
-confidence:
+confidence: 2
 curators:
   - Raegan Nelson
 comments:
