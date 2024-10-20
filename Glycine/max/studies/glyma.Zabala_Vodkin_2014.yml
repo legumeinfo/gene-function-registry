@@ -1,4 +1,31 @@
 ---
+scientific_name: Glycine max
+gene_model_pub_name: Glyma09g36983
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g36983
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - Three different alleles RM55-r^m (variegated black-brown seed coat), RM30-R* (black seed coat), and RM38-r (brown seed coat)
+  - 13 kb CACTA transposable element (TgmR*) insertion found in intron 2 in RM55-r^m and RM30-R*
+  - “C”-nt deletion in Exon2 found in RM38-r
+  - TgmR* insertion slightly represses expression of Glyma09g36983
+  - r allele of brown seed coats is expresssed at a higher level then the R* allele
+  - R* allele Glyma09g36983 gene enhances expression/accumulation of ANS transcripts
+  - TgmR* is stabilized by an increase of methylation in the R* line compared to the r allele line
+  - TgmR* confirms the proposed existence of two subfamilies of CACTA transposons in soybean
+  - ANS genes are highly expressed during early seed development stages
+  - UGT78K1 gene may not be expressed in the seed coat but rather in the cotyledons
+phenotype_synopsis: Glyma09g36983 encodes seed coat color and expression of ANS pathway
+traits:
+  - entity_name: Seed coat color
+    entity: TO:0000190
+  - entity_name: Regulation of anthocyanin metabolic process
+    entity: GO:0031537
+references:
+  - citation: Zabala, Vodkin., 2014
+    doi: 10.1371/journal.pone.0111959
+    pmid: 25369033
 # ANNOTATED TEMPLATE
 scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
 classical_locus:  # Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
