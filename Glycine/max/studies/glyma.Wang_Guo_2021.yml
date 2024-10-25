@@ -3,18 +3,18 @@ scientific_name: Glycine max
 gene_symbols:
   - GmSTF3
 gene_symbol_long: Soybean TGACG-motif Binding Factor 3
-gene_model_pub_name: Glyma.14G088300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G088300
+gene_model_pub_name: Glyma.16G092700
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.16G092700
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Overexpression of GmSTF3 increased nodulation, whereas RNAi knockdown decreased nodulation.
-  - STF3 is induced by the blue light activated transcription factor CRY1 and expressed mainly in leaves.
-  - The protein product of STF3 migrates from shoots to roots.
-  - After migration, it is phosphorylated by calcium/calmodulin dependent protein kinase (CCaMK), which is activated by rhizobial infection.
-  - Phosphorylation causes GmSTF3 and GmFT2a to form a complex.
+  - Overexpression of GmSTF3 in transgenic soybeans increased nodulation, whereas RNAi knockdown decreased nodulation.
+  - STF3 is induced by the blue light activated transcription factor GmCRY1 and expressed mainly in leaves.
+  - The protein product of STF3 migrates from shoots to roots and signals nodule formation.
+  - After migration, STF3 is phosphorylated by calcium/calmodulin-dependent protein kinase (GmCCaMK), which is activated by rhizobial infection of the roots.
+  - Phosphorylation causes GmSTF3 and GmFT2a to form a complex that subsequently activates gene expression of nodulation signaling pathway 1 (GmNSP1), nodule inception (GmNIN) and nuclear factor Y (GmNF-YA1 and GmNF-YB1).
 phenotype_synopsis: GmSTF3 promotes nodulation by inducing expression of nodule signalling pathway 1 (NSP1), nodule inception (NIN), and nuclear factor Y (NFY) genes.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
