@@ -2,9 +2,36 @@
 scientific_name:
 classical_locus:
 gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
+  - rin1
+gene_symbol_long: reduced internode 1
+gene_model_pub_name: 
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - rin1 mutant is a potential resource for breeding both semi-dwarf and high-yield cultivars
+  - rin1 functions as a positive regulator of node number and internode length, which together determine soybean height
+  - rin1 may also have roles in flowering time and regional adaptation in soybean
+  - rin1 is strongly expressed in the shoot axillary meristems, trifoliate leaves, shoot apical meristem, and leaf primordia
+  - rin1 can interact directly with both STF1 and STF2 and promote degradation of STF1 and STF2, may also therefore control the expression of GA2ox7 genes to balance gibberellin levels
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+scientific_name:
+classical_locus:
+gene_symbols:
+  - HY5
+gene_symbol_long: ELONGATED HYPOCOTYL 5
+gene_model_pub_name: 
 gene_model_full_id:
 confidence:
 curators:
