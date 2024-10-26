@@ -1,5 +1,9 @@
 ---
 scientific_name: Glycine max
+classical_locus: R
+gene_symbols:
+  - GmR
+gene_symbol_long: Red
 gene_model_pub_name: Glyma09g36983
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g36983
 confidence: 5
