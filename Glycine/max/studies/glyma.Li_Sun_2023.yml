@@ -1,89 +1,128 @@
 ---
-scientific_name:
-classical_locus:
+scientific_name: Glycine
 gene_symbols:
   - rin1
 gene_symbol_long: reduced internode 1
 gene_model_pub_name: 
 gene_model_full_id:
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - A positive regulator of node number and internode length, which together determine soybean height
+  - rin1 may also have roles in flowering time and regional adaptation in soybean
+  - rin1 is strongly expressed in the shoot axillary meristems, trifoliate leaves, shoot apical meristem, and leaf primordia
+  - rin1 can interact directly with both STF1 and STF2 and promote degradation of STF1 and STF2
+  - Suppresses the expression of GA2ox7a and GA2ox7b, which promotes gibberellin catabolism in the shoot apical meristem
+  - rin1 improves soybean yield under high-density planting conditions compared to HN35
+  - RIN1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
+phenotype_synopsis: rin1 is a positive regulator of node number and internode length and has roles in flowering time
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: yield trait
+    entity: TO:0000371
+  - entity_name: Stem node number
+    entity: TO:0000634
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine
+gene_symbols:
+  - STF1
+gene_symbol_long:
+gene_model_pub_name: Glyma.18G117100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G117100
 confidence:
 curators:
   - Raegan Nelson
 comments:
-  - rin1 mutant is a potential resource for breeding both semi-dwarf and high-yield cultivars
-  - rin1 functions as a positive regulator of node number and internode length, which together determine soybean height
-  - rin1 may also have roles in flowering time and regional adaptation in soybean
-  - rin1 is strongly expressed in the shoot axillary meristems, trifoliate leaves, shoot apical meristem, and leaf primordia
-  - rin1 can interact directly with both STF1 and STF2 and promote degradation of STF1 and STF2, may also therefore control the expression of GA2ox7 genes to balance gibberellin levels
-phenotype_synopsis:
+  - soybean homoloug of Arabidopsis ELONGATED HYPOCOTYL 5 (HY5)
+  - Under normal blue light conditions, directly activates GA2ox expression, which suppress the elongation of soybean internodes
+  - Under poor blue light conditions, STF1 is down regulated which promotes elogation of soybean internodes
+  - rin1 can interact with STF1 and promote degregation
+  - rin1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
+phenotype_synopsis: STF2 controls internode elgonation by regulating transcription of GA2ox7 genes
 traits:
-  - entity_name:
-    entity:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
-scientific_name:
-classical_locus:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine
 gene_symbols:
-  - HY5
-gene_symbol_long: ELONGATED HYPOCOTYL 5
-gene_model_pub_name: 
-gene_model_full_id:
+  - STF2
+gene_symbol_long:
+gene_model_pub_name: Glyma.08G302500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G302500
 confidence:
 curators:
-  -
+  - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - soybean homoloug of Arabidopsis ELONGATED HYPOCOTYL 5 (HY5)
+  - Under normal blue light conditions, directly activates GA2ox expression, which suppress the elongation of soybean internodes
+  - Under poor blue light conditions, STF2 is down regulated which promotes elogation of soybean internodes
+  - rin1 can interact with STF2 and promote degregation
+  - rin1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
+phenotype_synopsis: STF2 controls internode elgonation by regulating transcription of GA2ox7 genes
 traits:
-  - entity_name:
-    entity:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
 ---
-# ANNOTATED TEMPLATE
-scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
-classical_locus:  # Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
+scientific_name: Glycine
 gene_symbols:
-  -  # Abbreviated gene name as listed in the paper. It should be formatted like "GmNNC1."
-  -  # If there are multiple names for one gene, enter them on separate lines with the most common name listed first.
-  -  # If more than one gene is described in the same paper, paste another copy of this template at the bottom of your document and fill it in for the second gene.
-gene_symbol_long:  # The long-hand version of the gene_symbol acronym, e.g. "Nodule Number Control 1" (do not include the prefix Glycine max).
-gene_model_pub_name:  # REQUIRED; This should be listed in the publication, e.g., Glyma02g17170.2, SoyW82_02G152800.1, or Glyma.02G152800, depending on the annotation version.
-# If the paper has no gene model name (rather, has a gene symbol plus sequence) try one of the search methods described at the bottom of this document.
-gene_model_full_id:  # REQUIRED; The gene name in Legume Information System. It looks like "glyma.Wm82.gnm2.ann1.Glyma.12G078000".
-# Find it by entering your gene_model_pub_name into the "Identifier" search box on this website: https://www.legumeinfo.org/tools/search/gene.html
-confidence:  # A value from 1 to 5 showing how strong the evidence for the gene's function is.
-# See the bottom of the document for guidance on assigning a confidence level.
+  - GA2ox7a
+gene_symbol_long: GA2 oxidase 7a
+gene_model_pub_name: Glyma.20G141200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G141200
+confidence: 5
 curators:
-  -  # Put your name here
+  - Raegan Nelson
 comments:
-  -  # If the information is available, briefly describe the function of the gene, what genes it interacts with, and how it is regulated.
-  -  # If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interacting gene.
-  -  # E.g. "miR172c cleaves the protein product of NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle_Men_2003.yml)."
-phenotype_synopsis:  # Briefly describe the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
-traits:  # REQUIRED; at least one "entity" ontology accession describing the function of the gene. Find ontologies by searching this database: https://www.ebi.ac.uk/ols/ontologies
-  - entity_name:  # The name of the ontology accession, e.g. "nodulation"
-    entity:  # The ontology accession code, e.g. "TO:0000898", with "TO" indicating the Trait Ontology
-  - quality_name:  # Optional; quality ontologies can be used to describe properties of the trait, e.g. "premature."
-    quality:  # Quality ontology codes usually begin with "PATO"
-  - relation_name:  # Optional; Relations ontologies can be used to describe the effects of the trait, e.g. "negatively regulates."
-    relation:  # Relations ontology codes begin with "RO"
-  - entity_name:  # Additional ontologies can be added to describe other functions, e.g. "regulation of biological process involved in symbiotic interaction"
-    entity:  # Code of additional ontology.
-    # You can add more lines describing the qualities and relations of your additional ontology entities.
-references:  # REQUIRED; At least one citation with its doi or pmid. Ideally, include several citations.
-  - citation:  # The primary paper you extracted information from. Use the "LastName, LastName et al., YEAR" format, e.g. "Wang, Wang et al., 2014"    doi:  # the bare doi (omit https://doi.org/), e.g. "10.1105/tpc.114.131607," not "https://doi.org/10.1105/tpc.114.131607"
-    pmid:  # Either search for your paper on PubMed, or use the "get_citations.pl" script in a new document to find pmid based on doi (or vice versa!). E.g. "25549672."
-  - citation:  # Additional citation of a paper providing more information.
-    doi:
-    pmid:
+  - plays a role in the CRY1–STF–gibberellin module to regulate low-blue-light-mediated plant height in soybean
+  - inhibits gibberellin catabolism in the shoot apical meristem
+  - rin1 represses expression in shoot apical meristems, STF1 and STF2 promote its expression
+phenotype_synopsis: GA2ox7a regulates low-blue-light-mediated plant height in soybeans
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: gibberellin catabolic process
+    entity: GO:0045487
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine
+gene_symbols:
+  - GA2ox7b
+gene_symbol_long: GA2 oxidase 7b
+gene_model_pub_name: Glyma.11G003200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G003200
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - plays a role in the CRY1–STF–gibberellin module to regulate low-blue-light-mediated plant height in soybean
+  - inhibits gibberellin catabolism in the shoot apical meristem
+  - rin1 represses expression in shoot apical meristems, STF1 and STF2 promote its expression
+phenotype_synopsis: GA2ox7b regulates low-blue-light-mediated plant height in soybeans
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: gibberellin catabolic process
+    entity: GO:0045487
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
