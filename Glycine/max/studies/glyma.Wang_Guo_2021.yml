@@ -10,12 +10,22 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Overexpression of GmSTF3 in transgenic soybeans increased nodulation, whereas RNAi knockdown decreased nodulation.
-  - STF3 is induced by the blue light activated transcription factor GmCRY1 and expressed mainly in leaves.
-  - The protein product of STF3 migrates from shoots to the roots and signals nodule formation.
-  - After migration, STF3 is phosphorylated by calcium/calmodulin-dependent protein kinase (GmCCaMK), which is activated by rhizobial infection of the roots.
-  - Phosphorylation causes GmSTF3 and GmFT2a to form a complex that subsequently activates gene expression of nodulation signaling pathway 1 (GmNSP1), nodule inception (GmNIN), and nuclear factor Y (GmNF-YA1 and GmNF-YB1).
-phenotype_synopsis: Soybean TGACG-motif Binding Factor 3 (GmSTF3) promotes nodulation in conjunction with Flowering Locus T2a (GmFT2a) by inducing expression of nodule signalling pathway 1 (NSP1), nodule inception (NIN), and nuclear factor Y (NFY) genes.
+  - Overexpression of GmSTF3 in transgenic soybeans increased nodulation,
+    whereas RNAi knockdown decreased nodulation.
+  - STF3 is induced by the blue light activated transcription factor GmCRY1 and
+    expressed mainly in leaves.
+  - The protein product of STF3 migrates from shoots to the roots and signals
+    nodule formation.
+  - After migration, STF3 is phosphorylated by calcium/calmodulin-dependent
+    protein kinase (GmCCaMK), which is activated by rhizobial infection of the
+    roots.
+  - Phosphorylation causes GmSTF3 and GmFT2a to form a complex that subsequently
+    activates gene expression of nodulation signaling pathway 1 (GmNSP1), nodule
+    inception (GmNIN), and nuclear factor Y (GmNF-YA1 and GmNF-YB1).
+phenotype_synopsis: Soybean TGACG-motif Binding Factor 3 (GmSTF3) promotes
+  nodulation in conjunction with Flowering Locus T2a (GmFT2a) by inducing
+  expression of nodule signalling pathway 1 (NSP1), nodule inception (NIN), and
+  nuclear factor Y (NFY) genes.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -65,11 +75,23 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Overexpression of GmFT2a in transgenic soybeans increased nodulation, whereas RNAi knockdown decreased nodulation.
-  - FT2a is induced by the blue light activated transcription factor GmCRY1, as well as the transcription factor CONSTANS when acting as a florigen in response to long-day photoperiods.
-  - FT2a is mainly expressed in leaves, and the translated product migrates from shoots to the roots in order to signal nodule formation.
-  - At the roots, the FT2a protein forms a complex with the phosphorylated product of GmSTF3, which subsequently activates gene expression of nodulation signaling pathway 1 (GmNSP1), nodule inception (GmNIN), and nuclear factor Y (GmNF-YA1 and GmNF-YB1).
-phenotype_synopsis: Flowering Locus T2a (GmFT2a) is known for stimulating flowering, but it also positively regulates nodule organogenesis. Together with Soybean TGACG-motif Binding Factor 3 (GmSTF3) and calcium/calmodulin-dependent protein kinase (GmCCaMK), GmFT2a signals the root system that adequate photosynthate is available to power the rhizobial symbiosis and nitrogen fixation.
+  - Overexpression of GmFT2a in transgenic soybeans increased nodulation,
+    whereas RNAi knockdown decreased nodulation.
+  - FT2a is induced by the blue light activated transcription factor GmCRY1, as
+    well as the transcription factor CONSTANS when acting as a florigen in
+    response to long-day photoperiods.
+  - FT2a is mainly expressed in leaves, and the translated product migrates from
+    shoots to the roots in order to signal nodule formation.
+  - At the roots, the FT2a protein forms a complex with the phosphorylated
+    product of GmSTF3, which subsequently activates gene expression of
+    nodulation signaling pathway 1 (GmNSP1), nodule inception (GmNIN), and
+    nuclear factor Y (GmNF-YA1 and GmNF-YB1).
+phenotype_synopsis: Flowering Locus T2a (GmFT2a) is known for stimulating
+  flowering, but it also positively regulates nodule organogenesis. Together
+  with Soybean TGACG-motif Binding Factor 3 (GmSTF3) and
+  calcium/calmodulin-dependent protein kinase (GmCCaMK), GmFT2a signals the root
+  system that adequate photosynthate is available to power the rhizobial
+  symbiosis and nitrogen fixation.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
