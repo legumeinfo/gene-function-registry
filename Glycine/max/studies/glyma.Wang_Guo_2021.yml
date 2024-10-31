@@ -56,7 +56,7 @@ references:
   - citation: Zhao, Takeshima et al., 2016
     doi: 10.1186/s12870-016-0704-9
     pmid: 26786479
-  - citation: Dietz, Chan et al., 2023
+  - citation: Dietz, Chan et al., 2022
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
   - citation: Lin, Liu et al., 2021
@@ -69,7 +69,7 @@ gene_symbols:
   - GmFT2a
 gene_symbol_long: Flowering Locus T2a
 gene_model_pub_name: Glyma.16G150700
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G150700
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.16G150700
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -124,7 +124,7 @@ references:
   - citation: Zhao, Takeshima et al., 2016
     doi: 10.1186/s12870-016-0704-9
     pmid: 26786479
-  - citation: Dietz, Chan et al., 2023
+  - citation: Dietz, Chan et al., 2022
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
   - citation: Lin, Liu et al., 2021
