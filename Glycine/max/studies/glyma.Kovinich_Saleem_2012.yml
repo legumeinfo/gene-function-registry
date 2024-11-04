@@ -39,8 +39,8 @@ comments:
   - expressed at low levels throughout all organs
 phenotype_synopsis: general anthocyanin reductase
 traits:
- - entity_name: flavonoid metabolic process
- - entity: GO:0009812
+  - entity_name: flavonoid metabolic process
+  - entity: GO:0009812
 references:
   - citation: Kovinish, Saleem et al., 2012
     doi: 10.1021/jf2033939
