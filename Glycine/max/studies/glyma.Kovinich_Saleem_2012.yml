@@ -1,0 +1,50 @@
+---
+scientific_name: Glycine max
+classical_locus: O
+gene_symbols: ANR1
+  -
+gene_symbol_long: Anthocyanidin Reductase 1
+gene_model_pub_name: Glyma08g06630
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g06630
+confidence: 4
+curators:
+  - Ella Townsend
+comments:
+  - 70% identical to Glyma08g06430
+  - highly expressed in the seed coat
+phenotype_synopsis: Glyma08g06630 is associated with red-brown seed coat color through the production of proanthocyanidins (PAs)
+traits:
+ - entity_name: Seed coat color
+    entity: TO:0000190
+ - entity_name: flavonoid metabolic process
+    entity: GO:0009812
+references:
+  - citation: Kovinish, Saleem et al., 2012
+    doi: 10.1021/jf2033939
+    pmid: 22107112
+  - citation: Palmer RG, Pfeiffer TW et al., 2004
+    doi: 10.2134/agronmonogr16.3ed.c5
+
+    ---
+scientific_name: Glycine max
+gene_symbols: ANR2
+  -
+gene_symbol_long: Anthocyanidin Reductase 1
+gene_model_pub_name: Glyma08g06640
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g06630
+confidence: 4
+curators:
+  - Ella Townsend
+comments:
+  - not highly expressed within the seed coat
+  - expressed at low levels throughout all organs
+phenotype_synopsis: general anthocyanin reductase
+traits:
+ - entity_name: Seed coat color
+    entity: TO:0000190
+ - entity_name: flavonoid metabolic process
+    entity: GO:0009812
+references:
+  - citation: Kovinish, Saleem et al., 2012
+    doi: 10.1021/jf2033939
+    pmid: 22107112
