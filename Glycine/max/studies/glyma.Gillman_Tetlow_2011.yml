@@ -4,12 +4,13 @@ classical_locus: R
 gene_symbols:
   - GmR
 gene_symbol_long: Black or brown seed coat color
-gene_model_pub_name: Glyma09g36990 
-# Mystry: can not find this gene model pub name.
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09g235100
+gene_model_pub_name: Glyma09g36990
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g36983
 confidence: 3
 curators:
   - Ella Townsend
+  - Jacqueline Campbell
+  - Steven Cannon
 comments:
   - involved in upregulating the UF3GT expression, leading to brown hilum color
   - maybe involved in many other things as a transcription factor often serves multiple functions
