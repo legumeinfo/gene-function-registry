@@ -14,17 +14,16 @@ comments:
   - highly expressed in the seed coat
 phenotype_synopsis: Glyma08g06630 is associated with red-brown seed coat color through the production of proanthocyanidins (PAs)
 traits:
- - entity_name: Seed coat color
-    entity: TO:0000190
- - entity_name: flavonoid metabolic process
-    entity: GO:0009812
+  - entity_name: Seed coat color
+  - entity: TO:0000190
+  - entity_name: flavonoid metabolic process
+  - entity: GO:0009812
 references:
   - citation: Kovinish, Saleem et al., 2012
     doi: 10.1021/jf2033939
     pmid: 22107112
   - citation: Palmer RG, Pfeiffer TW et al., 2004
     doi: 10.2134/agronmonogr16.3ed.c5
-
     ---
 scientific_name: Glycine max
 gene_symbols: ANR2
@@ -40,10 +39,8 @@ comments:
   - expressed at low levels throughout all organs
 phenotype_synopsis: general anthocyanin reductase
 traits:
- - entity_name: Seed coat color
-    entity: TO:0000190
  - entity_name: flavonoid metabolic process
-    entity: GO:0009812
+ - entity: GO:0009812
 references:
   - citation: Kovinish, Saleem et al., 2012
     doi: 10.1021/jf2033939
