@@ -1,1 +1,22 @@
-h
+---
+scientific_name: Glycine
+classical_locus: T
+gene_symbols:
+  - FT2a
+  - E9
+gene_symbol_long: Flowering time 2a
+gene_model_pub_name: Glyma.16g150700
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G150700
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhao_Takeshima_2016
+    doi: 10.1186/s12870-016-0704-9
+    pmid: PMC4719747
