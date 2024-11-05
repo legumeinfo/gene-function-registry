@@ -1,8 +1,8 @@
 ---
-scientific_name: Glycine
+scientific_name: Glycine max
 gene_symbols:
-  - RIN1
-  - SPA3a
+  - GmRIN1
+  - GmSPA3a
 gene_symbol_long: reduced internode 1
 gene_model_pub_name: Glyma.12G224600
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G224600
@@ -32,10 +32,10 @@ references:
     doi: 10.1038/s41467-023-42991-z
     pmid: 38040709
 ---
-scientific_name: Glycine
+scientific_name: Glycine max
 gene_symbols:
-  - STF1
-gene_symbol_long:
+  - GmSTF1
+gene_symbol_long: TGACG-motif binding factor 1
 gene_model_pub_name: Glyma.18G117100
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G117100
 confidence:
@@ -46,7 +46,7 @@ comments:
   - Directly activates GA2ox expression, which promotes the elongation of soybean internodes
   - RIN1 can interact with STF1 and promote degregation
   - RIN1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
-phenotype_synopsis: STF2 controls internode elgonation by regulating transcription of GA2ox7 genes
+phenotype_synopsis: STF1 controls internode elgonation by regulating transcription of GA2ox7 genes
 traits:
   - entity_name: stem internode morphology trait
     entity: TO:0000756
@@ -57,8 +57,8 @@ references:
 ---
 scientific_name: Glycine
 gene_symbols:
-  - STF2
-gene_symbol_long:
+  - GmSTF2
+gene_symbol_long: TGACG-motif binding factor 2
 gene_model_pub_name: Glyma.08G302500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G302500
 confidence:
@@ -82,8 +82,8 @@ references:
 ---
 scientific_name: Glycine
 gene_symbols:
-  - GA2ox7a
-gene_symbol_long: GA2 oxidase 7a
+  - GmGA2ox7a
+gene_symbol_long: gibberellin 2 oxidase 7a
 gene_model_pub_name: Glyma.20G141200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G141200
 confidence: 5
@@ -108,8 +108,8 @@ references:
 ---
 scientific_name: Glycine
 gene_symbols:
-  - GA2ox7b
-gene_symbol_long: GA2 oxidase 7b
+  - GmGA2ox7b
+gene_symbol_long: gibberellin 2 oxidase 7b
 gene_model_pub_name: Glyma.11G003200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G003200
 confidence: 5
