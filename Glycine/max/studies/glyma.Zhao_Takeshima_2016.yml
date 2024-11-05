@@ -14,13 +14,13 @@ comments:
   - SORE-1 only reduces FT2a by allele-specific transcriptional repression when highly methylated
   - E2 inhibits FT2a expression possibly through a pathway different from the E1–PHYA pathway
   - FT2a recessive allele ia a leaky allele and is still regulated by other genes involved in photoperiod response
-phenotype_synopsis: The homozygous ressecive allele of FT2a is involved in late flowering time
+phenotype_synopsis: FT2a plays a role in flowering time, as the recessive homozygous allele is associated with late flowering time
 traits:
   - entity_name: Flowering Time trait
     entity: TO:0002616
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
 references:
-  - citation: Zhao,Takeshima, et al. 2016
+  - citation: Zhao, Takeshima et al., 2016
     doi: 10.1186/s12870-016-0704-9
     pmid: 26786479
