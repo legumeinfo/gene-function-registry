@@ -1,9 +1,8 @@
 ---
 scientific_name: Glycine
-classical_locus: FT
+classical_locus: E9
 gene_symbols:
-  - FT2a
-  - E9
+  - GmFT2a
 gene_symbol_long: Flowering time 2a
 gene_model_pub_name: Glyma.16g150700
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G150700
@@ -15,14 +14,13 @@ comments:
   - SORE-1 only reduces FT2a by allele-specific transcriptional repression when highly methylated
   - E2 inhibits FT2a expression possibly through a pathway different from the E1–PHYA pathway
   - FT2a recessive allele ia a leaky allele and is still regulated by other genes involved in photoperiod response
-  - Further testing is needed to determine the functions of the two cis-elements or nearby unknown elements in the regulation of FT2a expression
-phenotype_synopsis: FT2a is involved in flowering time
+phenotype_synopsis: The homozygous ressecive allele of FT2a is involved in late flowering time
 traits:
   - entity_name: Flowering Time trait
     entity: TO:0002616
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
 references:
-  - citation: Zhao_Takeshima_2016
+  - citation: Zhao,Takeshima, et al. 2016
     doi: 10.1186/s12870-016-0704-9
     pmid: 26786479
