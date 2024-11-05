@@ -1,6 +1,6 @@
 ---
 scientific_name: Glycine
-classical_locus: T
+classical_locus: FT
 gene_symbols:
   - FT2a
   - E9
@@ -11,12 +11,18 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - FT2a recessive allele has a Ty1/copia–like retrotransposon (SORE-1) inserted in the first intron
+  - SORE-1 only reduces FT2a by allele-specific transcriptional repression when highly methylated
+  - E2 inhibits FT2a expression possibly through a pathway different from the E1–PHYA pathway
+  - FT2a recessive allele ia a leaky allele and is still regulated by other genes involved in photoperiod response
+  - Further testing is needed to determine the functions of the two cis-elements or nearby unknown elements in the regulation of FT2a expression
+phenotype_synopsis: FT2a is involved in flowering time
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Flowering Time trait
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
 references:
   - citation: Zhao_Takeshima_2016
     doi: 10.1186/s12870-016-0704-9
-    pmid: PMC4719747
+    pmid: 26786479
