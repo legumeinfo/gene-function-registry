@@ -1,0 +1,22 @@
+---
+scientific_name: Glycine max
+gene_symbols: RJ2
+  -
+gene_symbol_long:
+gene_model_pub_name: Glyma16g33780
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma16g33780
+confidence: 3
+curators:
+  - Ella Townsend
+comments:
+  - has a recessive and dominant alleles dominant RJ2 and rj2 
+phenotype_synopsis: a gene responsible for the immunity to or the formation of root nodules
+traits:
+  - entity_name: nodulation
+  - entity: GO:0009877
+  - entity_name: root hair
+  - entity: GO:0035618
+references:
+  - citation: Sugawara, Umehara et al, 2019
+    doi: 10.1371/journal.pone.0222469
+    pmid: 31518373
