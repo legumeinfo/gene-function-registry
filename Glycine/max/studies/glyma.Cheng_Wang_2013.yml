@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols: GmIFS1
 gene_symbol_long: Isoflavone Synthase 1
-gene_model_pub_name: Glyma.07G202300
+gene_model_pub_name: Glyma.07G202300  ### Needs to be from the paper. Look at Tables 1 and 2.
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G202300
 confidence: 4
 curators:
@@ -10,7 +10,7 @@ curators:
   - Jacqueline Campbell
   - Scott Kalberer
 comments:
-  - GmIFS1 is a duplicate of GmIFS2.
+  - GmIFS1 is a duplicate of GmIFS2.  ### What is meant by "duplicate" here?
 phenotype_synopsis: Involved in producing soybean isoflavonoids, isoflavonoids
   involved in health benefits for soybean consumption, and more importantly,
   involved with soybean environmental stress response.
@@ -43,7 +43,7 @@ curators:
   - Jacqueline Campbell
   - Scott Kalberer
 comments:
-  - GmIFS2 is a duplicate of GmISF1.
+  - GmIFS2 is a duplicate of GmISF1.  ### What is meant by "duplicate" here?
 phenotype_synopsis: Involved in producing soybean isoflavonoids, isoflavonoids
   involved in health benefits for soybean consumption, and more importantly,
   involved with soybean environmental stress response.
@@ -68,7 +68,7 @@ references:
 scientific_name: Glycine max
 gene_symbols: GmF3H2
 gene_symbol_long: Flavanone 3-Hydroxylase 2
-gene_model_pub_name: Glyma.02G048400
+gene_model_pub_name: Glyma.02G048400   ### Needs to be from the paper. Look at Tables 1 and 2.
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G048400
 confidence: 4
 curators:
@@ -76,7 +76,7 @@ curators:
   - Scott Kalberer
 comments:
   - GmF3H2 is under more selective pressure than GmIFS1 & GmIFS2.
-  - Only shows GmF3H name and not GmF3H2.
+  - Only shows GmF3H name and not GmF3H2.   ### Not sure what this means?
 phenotype_synopsis: Involved in flavone 3-hydroxylase synthase and involved in
   environmental stress responses.
 traits:
