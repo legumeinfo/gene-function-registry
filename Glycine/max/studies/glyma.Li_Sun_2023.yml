@@ -55,7 +55,7 @@ references:
     doi: 10.1038/s41467-023-42991-z
     pmid: 38040709
 ---
-scientific_name: Glycine
+scientific_name: Glycine max
 gene_symbols:
   - GmSTF2
 gene_symbol_long: TGACG-motif binding factor 2
@@ -80,7 +80,7 @@ references:
     doi: 10.1038/s41467-023-42991-z
     pmid: 38040709
 ---
-scientific_name: Glycine
+scientific_name: Glycine max
 gene_symbols:
   - GmGA2ox7a
 gene_symbol_long: gibberellin 2 oxidase 7a
@@ -106,7 +106,7 @@ references:
     doi: 10.1038/s41467-023-42991-z
     pmid: 38040709
 ---
-scientific_name: Glycine
+scientific_name: Glycine max
 gene_symbols:
   - GmGA2ox7b
 gene_symbol_long: gibberellin 2 oxidase 7b
