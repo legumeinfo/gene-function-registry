@@ -5,19 +5,32 @@ gene_symbols:
 gene_symbol_long: Anthocyanidin Reductase 1
 gene_model_pub_name: Glyma08g06630
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g06630
-confidence: 4
+confidence: 3
 curators:
   - Ella Townsend
+  - Scott Kalberer
 comments:
   - GmANR1 (Glyma08g06630) is 70% identical to GmANR2 (Glyma08g06640).
-  - ANR1 is highly and predominantly expressed in the soybean seed coat.
-  - Mutations in the ANR1 gene are associated with red-brown seed coat color as a result of reductions in soluble proanthocyanidin (PA) levels.
-phenotype_synopsis: GmANR1 (Glyma08g06630) is associated with brown seed coat color through the reduction of cyanidin (a reddish-purple anthocyanidin) to (-)-epicatechin, a monomer used to build flavonoid proanthocyanidins (PAs) along with catechin.
+  - ANR1 is highly and predominantly expressed in the seed coat.
+  - Lines associated with red-brown seed coat color showed strong decreases in
+    soluble proanthocyanidin (PA) levels and small increases in anthocyanins
+    relative to brown-pigmented lines.
+  - Spontaneous mutant and EMS-mutagenized lines with red-brown seed coats
+    exhibited reduced ANR1 gene expression in the testa and lower ANR1 activity
+    in vitro, respectively.
+  - ANR1 mutations that either impair gene expression or enzyme activity may
+    result in a red-brown seed coat phenotype and possibly redirect cyanidin
+    substrate towards enhanced anthocyanin biosynthesis.
+phenotype_synopsis: GmANR1 (Glyma08g06630) produces brown seed coat color
+  through the reduction of cyanidin (a reddish-purple anthocyanidin) to
+  (-)-epicatechin, a monomer used to build flavonoid proanthocyanidins.
 traits:
   - entity_name: Seed coat color
   - entity: TO:0000190
   - entity_name: Flavonoid metabolic process
   - entity: GO:0009812
+  - entity_name: Anthocyanidin reductase activity
+  - entity: GO:0033729
 references:
   - citation: Kovinich, Saleem et al., 2012
     doi: 10.1021/jf2033939
@@ -28,16 +41,17 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmANR2
-gene_symbol_long: Anthocyanidin Reductase 1
+gene_symbol_long: Anthocyanidin Reductase 2
 gene_model_pub_name: Glyma08g06640
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g06630
-confidence: 4
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g06640
+confidence: 2
 curators:
   - Ella Townsend
+  - Scott Kalberer
 comments:
   - GmANR2 is not highly expressed within the seed coat.
   - ANR2 is expressed at low levels throughout all organs.
-phenotype_synopsis: A general anthocyanidin reductase
+phenotype_synopsis: An anthocyanidin reductase found in many tissues of undetermined significance.
 traits:
   - entity_name: Flavonoid metabolic process
   - entity: GO:0009812
