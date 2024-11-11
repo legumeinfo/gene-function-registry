@@ -1,0 +1,27 @@
+---
+scientific_name: Glycine Max
+classical_locus: FT
+gene_symbols:
+  -GmFT3b
+gene_symbol_long: Flowering Time Locus 3b
+gene_model_pub_name: Glyma19g28390
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma19g28390
+confidence: 4
+curators:
+  - Ella Townsend
+comments:
+  - one of many FT homologs
+  - the role of Ft homologs is not fully understood since so many go into flowering time
+phenotype_synopsis: redundant flowering time locus that does not show any phenotype when knocked out or overexpressed
+#I am unsure how to phenotype it since it doesn't seem to have a phenotype
+traits: 
+  - entity_name: flowering time
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name:  photoperiodism, flowering
+    entity: GO:0048573
+references:
+  - citation: Su, Chen et al., 2022
+    doi: 10.3390/ijms23052497
+    pmid: 35269637
