@@ -11,26 +11,34 @@ curators:
   - Ella Townsend
   - Jacqueline Campbell
   - Steven Cannon
+  - Scott Kalberer
 comments:
-  - involved in upregulating the UF3GT expression, leading to brown hilum color
-  - maybe involved in many other things as a transcription factor often serves multiple functions
-  - is part of one of the largest transcription factor families in plants, it is likely to have more impacts
-phenotype_synopsis: transcription factor that greatly impacts hilum color; as a transcription factor, it is involved with lots of color-controlling genes and genes in general to impact color. It plays and important role into the up regulation of the UF3GT gene to produce a brown hilum color.
+  - The classical R locus is associated with brown coloration of seed coats and
+    hilums.
+  - A loss of function mutation altering the R2R3 MYB transcription factor gene
+    GmR (Glyma09g36990) was proposed as a candidate for the brown hilum
+    phenotype. Expression of this gene is specific to the seed coat.
+  - Gene expression of the functional GmR gene candidate was correlated with
+    expression of an UDP-glucose:flavonoid 3-O-glucosyltransferase (UF3GT) gene.
+    UF3GT is responsible for the final step in anthocyanin biosynthesis.
+    Conversely, gene expression of this functionless allele of Glyma09g36990 was
+    associated with a failure to upregulate the UF3GT gene.
+phenotype_synopsis: Gene expression of functional transcription factor GmR is
+  associated with up-regulation of the UF3GT gene and consequent anthocyanin
+  production.
 traits:
-  - entity_name: seed coat color
-    entity: TO:0000890
-  - entity_name: hilum color
+  - entity_name: Seed coat color
+    entity: TO:0000190
+  - entity_name: Hilum color
     entity: TO:0000968
-  - entity_name: seed coat morphology trait
-    entity: TO:0000838
-  - entity_name: transcription factor Binding
+  - entity_name: Transcription factor binding
     entity: GO:0008134
 references:
-  - citation: Gillman, Tetlow, et al., 2011
+  - citation: Gillman, Tetlow et al., 2011
     doi: 10.1186/1471-2229-11-155
     pmid: 22070454
-  - citation: Zabala, Vodkin., 2014
+  - citation: Zabala, Vodkin, 2014
     doi: 10.1371/journal.pone.0111959
     pmid: 25369033
-  - citation: Palmer RG, Pfeiffer TW et al., 2004
+  - citation: Palmer, Pfeiffer et al., 2004
     doi: 10.2134/agronmonogr16.3ed.c5
