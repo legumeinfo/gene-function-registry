@@ -6,15 +6,14 @@ gene_symbols:
 gene_symbol_long: Flowering Time Locus 3b
 gene_model_pub_name: Glyma19g28390
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma19g28390
-confidence: 4
+confidence: 3
 curators:
   - Ella Townsend
 comments:
   - one of many FT homologs
   - the role of Ft homologs is not fully understood since so many go into flowering time
 phenotype_synopsis: redundant flowering time locus that does not show any phenotype when knocked out or overexpressed
-#I am unsure how to phenotype it since it doesn't seem to have a phenotype
-traits: 
+traits:
   - entity_name: flowering time
     entity: TO:0002616
   - entity_name: photoperiod-sensitive flowering time trait
