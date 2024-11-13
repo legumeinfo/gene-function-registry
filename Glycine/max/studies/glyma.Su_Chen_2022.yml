@@ -18,7 +18,7 @@ traits:
     entity: TO:0002616
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
-  - entity_name:  photoperiodism, flowering
+  - entity_name: photoperiodism, flowering
     entity: GO:0048573
 references:
   - citation: Su, Chen et al., 2022
