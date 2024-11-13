@@ -1,5 +1,6 @@
 ---
 scientific_name: Glycine max
+classical_locus: O
 gene_symbols:
   - GmANR1
 gene_symbol_long: Anthocyanidin Reductase 1
@@ -10,6 +11,9 @@ curators:
   - Ella Townsend
   - Scott Kalberer
 comments:
+  - The seed-coat color phenotypes Brown (O) and red-brown (o) are controlled by
+    the O locus in an irT (brown) genetic background (alternative to iRT black
+    background).
   - GmANR1 (Glyma08g06630) is 70% identical to GmANR2 (Glyma08g06640).
   - ANR1 is highly and predominantly expressed in the seed coat.
   - Lines associated with red-brown seed coat color showed strong decreases in
