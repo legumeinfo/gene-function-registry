@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols: GmIFS1
 gene_symbol_long: Isoflavone Synthase 1
-gene_model_pub_name: Glyma.07G202300  ### Needs to be from the paper. Look at Tables 1 and 2.
+gene_model_pub_name: IFS1 
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G202300
 confidence: 4
 curators:
@@ -35,7 +35,7 @@ references:
 scientific_name: Glycine max
 gene_symbols: GmIFS2
 gene_symbol_long: Isoflavone Synthase 2
-gene_model_pub_name: Glyma.13G173500
+gene_model_pub_name: IFS2
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G173500
 confidence: 4
 curators:
@@ -68,7 +68,7 @@ references:
 scientific_name: Glycine max
 gene_symbols: GmF3H2
 gene_symbol_long: Flavanone 3-Hydroxylase 2
-gene_model_pub_name: Glyma.02G048400   ### Needs to be from the paper. Look at Tables 1 and 2.
+gene_model_pub_name: F3H2
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G048400
 confidence: 4
 curators:
@@ -96,4 +96,3 @@ references:
   - citation: Cheng, Wang, et al., 2013
     doi: 10.1371/journal.pone.0054154
     pmid: 23342093
----
