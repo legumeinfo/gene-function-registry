@@ -1,0 +1,44 @@
+---
+scientific_name: Glycine max
+classical_locus: R
+gene_symbols:
+  - GmR
+gene_symbol_long: Black or brown seed coat color
+gene_model_pub_name: Glyma09g36990
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G235100
+confidence: 3
+curators:
+  - Ella Townsend
+  - Jacqueline Campbell
+  - Steven Cannon
+  - Scott Kalberer
+comments:
+  - The classical R locus is associated with brown coloration of seed coats and
+    hilums.
+  - A loss of function mutation altering the R2R3 MYB transcription factor gene
+    GmR (Glyma09g36990) was proposed as a candidate for the brown hilum
+    phenotype. Expression of this gene is specific to the seed coat.
+  - Gene expression of the functional GmR gene candidate was correlated with
+    expression of an UDP-glucose:flavonoid 3-O-glucosyltransferase (UF3GT) gene.
+    UF3GT is responsible for the final step in anthocyanin biosynthesis.
+    Conversely, gene expression of this functionless allele of Glyma09g36990 was
+    associated with a failure to upregulate the UF3GT gene.
+phenotype_synopsis: Gene expression of functional transcription factor GmR is
+  associated with up-regulation of the UF3GT gene and consequent anthocyanin
+  production.
+traits:
+  - entity_name: Seed coat color
+    entity: TO:0000190
+  - entity_name: Hilum color
+    entity: TO:0000968
+  - entity_name: Transcription factor binding
+    entity: GO:0008134
+references:
+  - citation: Gillman, Tetlow et al., 2011
+    doi: 10.1186/1471-2229-11-155
+    pmid: 22070454
+  - citation: Zabala, Vodkin, 2014
+    doi: 10.1371/journal.pone.0111959
+    pmid: 25369033
+  - citation: Palmer, Pfeiffer et al., 2004
+    doi: 10.2134/agronmonogr16.3ed.c5
