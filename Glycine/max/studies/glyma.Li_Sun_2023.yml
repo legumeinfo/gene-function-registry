@@ -1,0 +1,133 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmRIN1
+  - GmSPA3a
+gene_symbol_long: reduced internode 1
+gene_model_pub_name: Glyma.12G224600
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G224600
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - A positive regulator of node number and internode length, which together determine soybean height
+  - RIN1 is strongly expressed in the shoot axillary meristems, trifoliate leaves and the leaf primordia
+  - High RIN1 expression in the shoot apical meristem at early phases of vegetative suggests the potential function in node number and size
+  - RIN1 can interact directly with both STF1 and STF2 and promote degradation of STF1 and STF2
+  - Suppresses the expression of GA2ox7a and GA2ox7b, which negatively regulates the shoot apical meristem development
+  - RIN1 improves soybean yield under high-density planting conditions compared to HN35 (Heinong 35) which is a popular cultivar known for its high yield
+  - RIN1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
+phenotype_synopsis: RIN1 is a positive regulator of node number and internode length and a negative regulator of the shoot apical meristem
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: yield trait
+    entity: TO:0000371
+  - entity_name: Stem node number
+    entity: TO:0000634
+  - entity_name: negative regulation of shoot apical meristem development
+    entity: GO:1902184
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSTF1
+gene_symbol_long: TGACG-motif binding factor 1
+gene_model_pub_name: Glyma.18G117100
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G117100
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - soybean homoloug of Arabidopsis ELONGATED HYPOCOTYL 5 (HY5)
+  - Directly activates GA2ox expression, which promotes the elongation of soybean internodes
+  - RIN1 can interact with STF1 and promote degregation
+  - RIN1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
+phenotype_synopsis: STF1 controls internode elgonation by regulating transcription of GA2ox7 genes
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSTF2
+gene_symbol_long: TGACG-motif binding factor 2
+gene_model_pub_name: Glyma.08G302500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G302500
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - soybean homoloug of Arabidopsis ELONGATED HYPOCOTYL 5 (HY5)
+  - Directly activates GA2ox expression, which promotes the elongation of soybean internodes
+  - RIN1 can interact with STF2 and promote degregation
+  - RIN1 functions might be upstream of STF1 and STF2 and partially depends on STF1 and STF2
+phenotype_synopsis: STF2 controls internode elgonation by regulating transcription of GA2ox7 genes
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: positive regulation of shoot apical meristem development
+    entity: GO:1902185
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmGA2ox7a
+gene_symbol_long: gibberellin 2 oxidase 7a
+gene_model_pub_name: Glyma.20G141200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G141200
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - plays a role in the CRY1–STF–gibberellin module to regulate low-blue-light-mediated plant height in soybean
+  - inhibits gibberellin catabolism in the shoot apical meristem
+  - RIN1 represses GA2ox7a expression in shoot apical meristems, STF1 and STF2 promote GA2ox7a expression
+phenotype_synopsis: GA2ox7a supresses gibberellin catabolism, which promotes shoot apical meristem development
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: positive regulation of shoot apical meristem development
+    entity: GO:1902185
+  - entity_name: gibberellin catabolic process
+    entity: GO:0045487
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmGA2ox7b
+gene_symbol_long: gibberellin 2 oxidase 7b
+gene_model_pub_name: Glyma.11G003200
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G003200
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - plays a role in the CRY1–STF–gibberellin module to regulate low-blue-light-mediated plant height in soybean
+  - inhibits gibberellin catabolism in the shoot apical meristem
+  - RIN1 represses GA2ox7b expression in shoot apical meristems, STF1 and STF2 promotes GA2ox7b expression
+phenotype_synopsis: GA2ox7b supresses gibberellin catabolism, which promotes shoot apical meristem development
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: positive regulation of shoot apical meristem development
+    entity: GO:1902185
+  - entity_name: gibberellin catabolic process
+    entity: GO:0045487
+references:
+  - citation: Li, Sun et al., 2023
+    doi: 10.1038/s41467-023-42991-z
+    pmid: 38040709
