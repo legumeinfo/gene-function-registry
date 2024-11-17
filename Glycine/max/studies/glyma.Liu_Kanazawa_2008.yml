@@ -1,0 +1,22 @@
+---
+scientific_name: Glycine max
+classical_locus: E4
+gene_symbols:
+  - GmphyA1
+  - GmphyA2
+gene_symbol_long: phytochrome A 1
+gene_model_pub_name: Glyma02g02200
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g02200
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Liu, Kanazawa et al., 2008
+    doi: h10.1534/genetics.108.092742
+    pmid:
