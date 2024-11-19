@@ -3,7 +3,6 @@ scientific_name: Glycine max
 classical_locus: E4
 gene_symbols:
   - GmphyA1
-  - GmphyA2
 gene_symbol_long: phytochrome A 1
 gene_model_pub_name: Glyma02g02200
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g02200
@@ -11,12 +10,37 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - Expressed in cotyledons, hypocotyls, and etiolated and green primary leaves
+  - Expressed in both E4 and e4 alleles
+phenotype_synopsis: GmphyA1 plays a role in photoperiod sensitivity 
 traits:
-  - entity_name:
-    entity:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+references:
+  - citation: Liu, Kanazawa et al., 2008
+    doi: 10.1534/genetics.108.092742
+    pmid: 18780733
+---
+scientific_name: Glycine max
+classical_locus: E4
+gene_symbols:
+  - GmphyA2
+gene_symbol_long: phytochrome A 2
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - GmphyA2 has 6238-bp Ty1/copia-like retrotransposon inserted in exon 1 in the e4 allele
+  - mRNA transcription of GmphyA2 is inhibited due to the retrotransposon element in e4
+  - The insertion in e4 GmphyA2 is causing photoperiod insensitivity
+  - Expressed in cotyledons, hypocotyls, and etiolated and green primary leaves
+phenotype_synopsis: GmphyA2 plays a role in photoperiod sensitivity
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
 references:
   - citation: Liu, Kanazawa et al., 2008
     doi: h10.1534/genetics.108.092742
-    pmid:
+    pmid: 18780733
