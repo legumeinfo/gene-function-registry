@@ -22,7 +22,7 @@ references:
   - citation:
     doi:
     pmid:
- ---
+---
 scientific_name: Glycine max
 classical_locus: Gm16
 gene_symbols:
@@ -46,7 +46,7 @@ references:
   - citation:
     doi:
     pmid:
-    ---
+---
 scientific_name: Glycine max
 classical_locus: Gm20
 gene_symbols:
