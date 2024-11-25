@@ -4,19 +4,23 @@ classical_locus: E4
 gene_symbols:
   - GmphyA1
 gene_symbol_long: phytochrome A 1
-gene_model_pub_name: Glyma02g02200
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g02200
+gene_model_pub_name: Glyma10g28170
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10g28170	
 confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - Expressed in cotyledons, hypocotyls, and etiolated and green primary leaves
   - Expressed in both E4 and e4 alleles
-phenotype_synopsis: GmphyA1 plays a role in photoperiod sensitivity 
+  - Involved in de-etiolation response
+  - Involved in early flowering under far red-enriched long day conditions
+phenotype_synopsis: GmphyA1 plays a role in photoperiod sensitivity under long day and far red light conditions
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
 references:
+  - citation: Tsubokura, Matsumura et al., 2013
+    doi: 10.3390/agronomy3010117
   - citation: Liu, Kanazawa et al., 2008
     doi: 10.1534/genetics.108.092742
     pmid: 18780733
@@ -26,8 +30,8 @@ classical_locus: E4
 gene_symbols:
   - GmphyA2
 gene_symbol_long: phytochrome A 2
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma.20G085500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G085500	
 confidence: 5
 curators:
   - Raegan Nelson
@@ -41,6 +45,8 @@ traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
 references:
+  - citation: Tsubokura, Matsumura et al., 2013
+    doi: 10.3390/agronomy3010117
   - citation: Liu, Kanazawa et al., 2008
     doi: h10.1534/genetics.108.092742
     pmid: 18780733
