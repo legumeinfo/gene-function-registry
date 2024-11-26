@@ -105,26 +105,6 @@ references:
     doi: 10.1101/2024.05.31.596837v1.full
 ---
 scientific_name: Pisum sativum
-classical_locus:
-gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
-curators:
-  -
-comments:
-  -
-phenotype_synopsis:
-traits:
-  - entity_name:
-    entity:
-references:
-  - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
----
-scientific_name: Pisum sativum
 classical_locus: P
 gene_symbols:
   - PsCLE41
