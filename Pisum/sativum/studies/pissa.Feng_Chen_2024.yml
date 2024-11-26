@@ -1,6 +1,6 @@
 ---
 scientific_name: Pisum sativum
-classical_locus:
+classical_locus: Gp
 gene_symbols:
   - PsChlG
 gene_symbol_long: Chlorophyll synthase
@@ -10,6 +10,7 @@ confidence:
 curators:
   -
 comments:
+  - 100kb deletion upstream of ChlG generates aberrant transcripts and confers the yellow pod phenotype
   -
 phenotype_synopsis:
 traits:
@@ -20,9 +21,73 @@ references:
     doi: 10.1101/2024.05.31.596837v1.full
 ---
 scientific_name: Pisum sativum
-classical_locus:
+classical_locus: R
 gene_symbols:
+  -PsSBE1
+gene_symbol_long: Starch Branching Enzyme 1
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
   -
+comments:
+  - The insertion of Ips-r, a 1021bp non-autonomous Ac- like transposable element, within exon 22 
+  - The single GWAS peak indicates that there is no genetic heterogeneity associated with this phenotype within the lines studied
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1101/2024.05.31.596837v1.full
+---
+scientific_name: Pisum sativum
+classical_locus: I
+gene_symbols:
+  - PsSGR
+gene_symbol_long: Stay green
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  - Two classes of i alleles i-1 and i-2
+  - SGR encodes Mg-dechelatase
+  - i-1 is caused by a insertion of a 5,696 nt TAR element (a Ty1-Copia LTR retrotransposon)
+  - i-2 is a novel 408 bp deletion in the promoter of the Mg-dechelatase gene
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1101/2024.05.31.596837v1.full
+---
+scientific_name: Pisum sativum
+classical_locus: A
+gene_symbols:
+  - PsbHLH
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1101/2024.05.31.596837v1.full
+---
+scientific_name: Pisum sativum
+classical_locus: Le
+gene_symbols:
+  - PsGA3OX1
 gene_symbol_long:
 gene_model_pub_name:
 gene_model_full_id:
@@ -60,9 +125,9 @@ references:
     doi: 10.1101/2024.05.31.596837v1.full
 ---
 scientific_name: Pisum sativum
-classical_locus:
+classical_locus: P
 gene_symbols:
-  -
+  - PsCLE41
 gene_symbol_long:
 gene_model_pub_name:
 gene_model_full_id:
@@ -80,69 +145,9 @@ references:
     doi: 10.1101/2024.05.31.596837v1.full
 ---
 scientific_name: Pisum sativum
-classical_locus:
+classical_locus: Fa
 gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
-curators:
-  -
-comments:
-  -
-phenotype_synopsis:
-traits:
-  - entity_name:
-    entity:
-references:
-  - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
----
-scientific_name: Pisum sativum
-classical_locus:
-gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
-curators:
-  -
-comments:
-  -
-phenotype_synopsis:
-traits:
-  - entity_name:
-    entity:
-references:
-  - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
----
-scientific_name: Pisum sativum
-classical_locus:
-gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
-curators:
-  -
-comments:
-  -
-phenotype_synopsis:
-traits:
-  - entity_name:
-    entity:
-references:
-  - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
----
-scientific_name: Pisum sativum
-classical_locus:
-gene_symbols:
-  -
+  - PsCIK1
 gene_symbol_long:
 gene_model_pub_name:
 gene_model_full_id:
