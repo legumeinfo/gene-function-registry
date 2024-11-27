@@ -4,7 +4,7 @@ gene_symbols:
   - GmSTF3
 gene_symbol_long: Soybean TGACG-motif Binding Factor 3
 gene_model_pub_name: Glyma.16G092700
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.16G092700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G092700
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -69,7 +69,7 @@ gene_symbols:
   - GmFT2a
 gene_symbol_long: Flowering Locus T2a
 gene_model_pub_name: Glyma.16G150700
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.16G150700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
