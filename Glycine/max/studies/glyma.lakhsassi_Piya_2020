@@ -1,0 +1,54 @@
+---
+scientific_name: Glycine max
+classical_locus: rhg1
+gene_symbols: GmSNAP18
+  -
+gene_symbol_long: Glycine Max Soluble NSF attachment proteins 18
+gene_model_pub_name: Glyma.18G022500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G022500
+confidence: 3
+curators:
+  - Ella Townsend
+comments:
+  - interactions with GmSHMT08 determine reaction specificity to SVN HG types
+  - increased expression in SCN (soybean Cis Nematode) infected root tissue
+  - molecular mechanism for SCN resistance by these two genes is not yet fully revealed
+phenotype_synopsis: response to soybean cis nematode infection as well as "Peking type" resistance
+traits:
+  - entity_name: Heterodera glycine response
+    entity: TO:0001111
+  - entity_name: Response to nematode
+    entity: GO:0009624
+  - entity_name: defense response to nematode
+    entity: GO:0002215
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+---
+scientific_name: Glycine max
+classical_locus: Rhg4
+gene_symbols: GmSHMT08
+  -
+gene_symbol_long:  Glycine Max serine hydroxymethyltransferase 8
+gene_model_pub_name: Glyma.08g108900
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08g108900
+confidence: 3
+curators:
+  - Ella Townsend
+comments:
+  - interactions with GmSHMT08 determine reaction specificity to SVN HG types
+  - functions downstream of the GmSNAP18 gene, its function requires a functional GmSNAP18 resistant allele for the GmSHMT08 resistant allele to be present
+  - molecular mechanism for SCN resistance by these two genes is not yet fully revealed
+phenotype_synopsis: response to soybean cis nematode infev=ction and  "Peking type" resistance
+traits:
+  - entity_name: Heterodera glycine response
+    entity: TO:0001111
+  - entity_name: Response to nematode
+    entity: GO:0009624
+  - entity_name: defense response to nematode
+    entity: GO:0002215
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
