@@ -6,7 +6,7 @@ gene_symbols:
 gene_symbol_long: Chlorophyll synthase
 gene_model_pub_name: Psat03G0413700
 gene_model_full_id:
-confidence:
+confidence: 4
 curators:
   - Raegan Nelson
 comments:
@@ -15,10 +15,10 @@ comments:
   - even the green leaves of gp lines have disturbed development of thylakoid membranes
   - 100kb deletion removes three entire genes, as well as part of exon5 and the whole of exon 6 from a gene encoding a TIR-NBS-LRR protein
   - the deletion upstream of ChlG in the gp lines generates a fused NLR-ChlG transcript, removing the fused NLR-ChlG transcript would restore the wild-type green pod color
-phenotype_synopsis:
+phenotype_synopsis: ChlG is involed in the process of making chlorophyll, which turns pea pods and other plant tissues green
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Chlorophyll content
+    entity: TO:0000495
 references:
   - citation: Feng, Chen et al., 2024
     doi: 10.1101/2024.05.31.596837v1.full
@@ -30,13 +30,13 @@ gene_symbols:
 gene_symbol_long: Starch Branching Enzyme 1
 gene_model_pub_name: Psat03G0136800
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - The insertion of Ips-r, a 1021bp non-autonomous Ac- like transposable element, within exon 22 
   - The single GWAS peak indicates that there is no genetic heterogeneity associated with this phenotype within the lines studied
-phenotype_synopsis:
+phenotype_synopsis: SBE1 is involved in seed coat texture, either round or wrinkly peas
 traits:
   - entity_name: Seed coat texture
     entity: TO:0000903
@@ -51,7 +51,7 @@ gene_symbols:
 gene_symbol_long: Stay green
 gene_model_pub_name: Psat02G0529500
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
@@ -59,7 +59,7 @@ comments:
   - SGR encodes Mg-dechelatase
   - i-1 is caused by a insertion of a 5,696 nt TAR element (a Ty1-Copia LTR retrotransposon)
   - i-2 is a novel 408 bp deletion in the promoter of the Mg-dechelatase gene
-phenotype_synopsis:
+phenotype_synopsis: SGR is involved in cotyledon color
 traits:
   - entity_name: Seedling cotyledon color
     entity: TO:0000750
@@ -71,16 +71,15 @@ scientific_name: Pisum sativum
 classical_locus: A
 gene_symbols:
   - PsbHLH
-gene_symbol_long:
 gene_model_pub_name: Psat06G0169800
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - bHLH transcription factor required for the expression of chalcone synthase in epidermal tissues which enables anthocyanin pigmentation
   - two most common a alleles had splice donor site variant (G to A) in Hap 5 or a additional ‘A’ nucleotide in exon 6 creating a premature stop codon in Hap 2
-phenotype_synopsis:
+phenotype_synopsis: bHLH is involed in flower pigment
 traits:
   - entity_name: Flower color
     entity: TO:0000537
@@ -95,13 +94,13 @@ gene_symbols:
 gene_symbol_long: GA 3-oxidase 1
 gene_model_pub_name: Psat03G0413700
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - reduced height le variants were exclusively found in haplotype 1, which carries the known G-A substitution at chr5:639901919
   - variation at other known loci involved in plant height, or internode length does not contribute significantly to natural phenotypic variation in this trait
-phenotype_synopsis:
+phenotype_synopsis: GA3OX1 is involved in stem internode length
 traits:
   - entity_name: Stem internode morphology trait
     entity: TO:0000756
@@ -113,19 +112,22 @@ scientific_name: Pisum sativum
 classical_locus: P
 gene_symbols:
   - PsCLE41
-gene_symbol_long: 
 gene_model_pub_name: Psat01G0420500
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - p allele has a in-frame premature stop codon (R79*) upstream of the TDIF motif
   - the TDIF peptide interacts with a PXY-like protein to specify pea pod sclerenchyma development
-phenotype_synopsis:
+  - the lack of a sclerenchyma layer in pea pods is conditioned by the recessive allele at either (or both) of the genes P and V
+  - the V gene was not explored in this article
+phenotype_synopsis: CLE41 is involved in pod shape by the absence of sclerenchyma layer in mutants
 traits:
-  - entity_name:
-    entity:
+  - entity_name: sclerenchyma
+    entity: PO:0005427
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
 references:
   - citation: Feng, Chen et al., 2024
     doi: 10.1101/2024.05.31.596837v1.full
@@ -137,15 +139,18 @@ gene_symbols:
 gene_symbol_long: CLAVATA3 INSENSITIVE RECEPTOR KINASES 1
 gene_model_pub_name: Psat04G0031700
 gene_model_full_id:
-confidence:
+confidence: 4
 curators:
   - Raegan Nelson
 comments:
   - fa mutant lines have a 5bp deletion in exon 2, on Hap 3, creating a frameshift and premature stop codon which would render the protein non-functional
-phenotype_synopsis:
+  - The bunched apical flowers of the mutant (fafa) are found on a wider stem with additional vascular strands derived from a broadened apical meristem
+phenotype_synopsis: CIK1 is involved in apical meristem can when mutated can cause fasciation
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Shoot apical meristem development
+    entity: TO:0006020
+  - entity_name: apical meristem
+    entity: PO:0020144
 references:
   - citation: Feng, Chen et al., 2024
     doi: 10.1101/2024.05.31.596837v1.full
