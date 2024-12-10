@@ -1,9 +1,8 @@
 ---
 scientific_name: Glycine max
-classical_locus: E4
 gene_symbols:
   - GmphyA1
-gene_symbol_long: phytochrome A 1
+gene_symbol_long: phytochrome A1
 gene_model_pub_name: Glyma10g28170
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10g28170
 confidence: 5
@@ -29,9 +28,9 @@ scientific_name: Glycine max
 classical_locus: E4
 gene_symbols:
   - GmphyA2
-gene_symbol_long: phytochrome A 2
-gene_model_pub_name: Glyma.20G085500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G085500
+gene_symbol_long: phytochrome A2
+gene_model_pub_name: Glyma20g22160
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma20g22160
 confidence: 5
 curators:
   - Raegan Nelson
