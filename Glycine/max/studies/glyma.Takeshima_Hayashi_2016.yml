@@ -1,0 +1,21 @@
+scientific_name: Glycine max
+classical_locus: T
+gene_symbols:
+  - GmFT5a
+gene_symbol_long: Flowering Time 5a
+gene_model_pub_name: Glyma.16G044100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - High FT5a expression is associated with early flowering time
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Takeshima, Hayashi et al., 2016
+    doi: 10.1093/jxb/erw283
+    pmid: 27422993
