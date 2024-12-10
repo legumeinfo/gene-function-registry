@@ -3,10 +3,9 @@ scientific_name: Glycine max
 classical_locus: E1
 gene_symbols:
   - GmE1
-  - Gme1
 gene_symbol_long: Flower Repressor 1
 gene_model_pub_name: Glyma06g23040
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.06G207800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G207800
 confidence: 5
 comments:
   - E1 transcripts negativly regulates the expression of GmFT2a and GmFT5a
@@ -20,35 +19,6 @@ traits:
   - entity_name: Flowering Time trait
     entity: TO:0002616
 references:
-  - citation: Xia, Watanabe et al., 2012
-    doi: 10.1073/pnas.1117982109
-    pmid: 22619331
----
-scientific_name: Glycine max
-classical_locus: E9
-gene_symbols:
-  - GmFT2a
-gene_symbol_long: Flowering time 2a
-gene_model_pub_name: Glyma.16g150700
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G150700
-confidence: 5
-curators:
-  - Raegan Nelson
-comments:
-  - FT2a recessive allele has a Ty1/copia–like retrotransposon (SORE-1) inserted in the first intron
-  - SORE-1 only reduces FT2a by allele-specific transcriptional repression when highly methylated
-  - E2 inhibits FT2a expression possibly through a pathway different from the E1–PHYA pathway
-  - FT2a recessive allele ia a leaky allele and is still regulated by other genes involved in photoperiod response
-phenotype_synopsis: FT2a plays a role in flowering time, as the recessive homozygous allele is associated with late flowering time
-traits:
-  - entity_name: Flowering Time trait
-    entity: TO:0002616
-  - entity_name: photoperiod-sensitive flowering time trait
-    entity: TO:0000934
-references:
-  - citation: Zhao, Takeshima et al., 2016
-    doi: 10.1186/s12870-016-0704-9
-    pmid: 26786479
   - citation: Xia, Watanabe et al., 2012
     doi: 10.1073/pnas.1117982109
     pmid: 22619331
