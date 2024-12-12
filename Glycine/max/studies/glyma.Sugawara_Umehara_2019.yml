@@ -2,16 +2,27 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmRj2
-gene_symbol_long: Restriction of nodulation 2
-gene_model_pub_name: Glyma16g33780
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma16g33780
-confidence: 4
+gene_symbol_long: Restriction of Nodulation 2
+gene_model_pub_name: Glyma16G33780
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G212300
+confidence: 5
 curators:
   - Greg Murrell
-phenotype_synopsis: Some alleles of Rj2 restrict nodulation to specific rhizobial strains.
+  - Ella Townsend
+comments:
+  - Cultivated soybean carrying the Rj2 allele restricts nodulation with
+    specific Bradyrhizobium strains via host immunity, mediated by rhizobial
+    type III secretory protein NopP and the host resistance protein Rj2.
+  - The Rj2 gene appears to have been maintained during the process of soybean
+    domestication to adapt to high rhizobial diversity.
+phenotype_synopsis: The Rj2 protein mediates nodulation compatibility with rhizobial strains.
 traits:
   - entity_name: root nodule
     entity: PO:0003023
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: root hair
+    entity: GO:0035618
 references:
   - citation: Sugawara, Umehara et al., 2019
     doi: 10.1371/journal.pone.0222469
