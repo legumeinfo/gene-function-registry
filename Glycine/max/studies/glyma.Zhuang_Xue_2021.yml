@@ -10,28 +10,32 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmSPX5 is most strongly expressed in root nodules. Overexpression of SPX5
-    enhanced nodule development particularly under phosphate-sufficient
-    conditions. whereas SPX5 suppression didn't cause any phenotypic
+  - GmSPX5 was most strongly expressed in soybean root nodules. Overexpression
+    of SPX5 enhanced nodule development particularly under phosphate-sufficient
+    conditions, whereas SPX5 suppression didn't cause any phenotypic
     differences.
   - Phosphorus concentration was unaffected in leaves, roots, and nodules of
-    both SPX5 overexpression and suppression lines; Nor was phosphate
+    both SPX5 overexpression and suppression lines; nor was phosphate
     transporter gene expression altered in SPX5-overexpressing nodules. These
-    facts contraindicate a role in phosphorus homeostasis as seen for other
-    homologous SPX proteins.
-  - Pi starvation typically inhibits nodulation in legumes. Phosphate deficiency
-    promotes expression of SPX5 in nodules but decreases SPX5 expression in
-    roots. Nitrogen deficiency decreased SPX5 expression in roots.
-  - SPX5 is upregulated by arbuscular mycorrhizal fungal infection in
-    phosphate-deficient conditions.
-  - SPX5 interacts with the transcription factor GmNF-YC4 and promotes its
-    binding to the promoter of asparagine synthetase-like gene GmASL6,
-    increasing expression of ASL6 during nodule development. However, nodule
-    overexpression of SPX5 did not impact asparagine accumulation.
-phenotype_synopsis: GmSPX5 upregulates GmASL genes to positively regulate nodule
-  number and adapt to phosphorus deficiencies. Unlike other SPX genes, SPX5 does
-  not interact with or affect expression of PHR genes involved in phosphorus
-  homeostasis.
+    facts contraindicate a role in phosphorus homeostasis as seen for homologous
+    SPX proteins.
+  - Phosphorus starvation typically inhibits nodulation in legumes. Yao, Tian et
+    al. (2014) found that phosphorus deficiency promoted expression of SPX5 in
+    roots and reduced expression in flowers and seeds. Conversely, SPX5
+    expression in roots was very low when phosphorus availability was high.
+    Nitrogen and potassium deficiencies resulted in decreased and increased SPX5
+    expression in roots, respectively.
+  - SPX5 expression was upregulated by arbuscular mycorrhizal fungal infection
+    in phosphorus-deficient conditions (Yao, Tian et al., 2014).
+  - SPX5 interacts with the transcription regulator Nuclear Factor Y Subunit C4
+    (GmNF-YC4) and promotes its binding to the promoter of Asparagine
+    Synthetase-like Gene 6 (GmASL6), thus increasing expression of ASL6 during
+    nodule development. However, nodule overexpression of SPX5 did not impact
+    asparagine accumulation.
+phenotype_synopsis: GmSPX5 functions alongside GmNF-YC4 to upregulate GmASL6,
+  positively regulate nodule number, and adapt to phosphorus deficiencies. SPX5
+  doesn't interact with or modulate expression of phosphate starvation response
+  (PHR) genes involved in phosphorus homeostasis.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -61,12 +65,13 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmNF-YC4 positively regulates nodule number and nitrogenase activity.
+  - Nuclear Factor Y Subunit C4 (GmNF-YC4) positively regulates nodule number
+    and nitrogenase activity.
   - Overexpression of either GmSPX5 or NF-YC4 leads to upregulation of
-    asparagine synthase-like genes ASL2,3,4,5,and 6.
+    Asparagine Synthetase-like Genes ASL2,3,4,5,and 6.
   - SPX5 promotes binding of NF-YC4 to the promoter of GmASL6, increasing
-    expression of ASL6 during nodule development and thus the asparagine
-    synthesis pathway.
+    expression of ASL6 during nodule development and functionality of the
+    asparagine synthesis pathway.
 phenotype_synopsis: GmNF-YC4 is a transcription factor which upregulates GmASL
   genes to positively regulate nodule number.
 traits:
