@@ -1,0 +1,33 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmB1
+gene_symbol_long: Bloom 1
+gene_model_pub_name: Glyma.13G241700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G241700
+confidence: 4
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - Seed coat bloom, which contains allergenic hydrophobic proteins, is synthesized within the endocarp of seed pods and then adheres to the surface of the seed coat.
+  - Expression of B1 in transgenic soybean plants negatively correlates with the accumulation of oil and positively correlates with the amount of bloom. Overexpression of B1 downregulates fatty acid biosynthesis in seed pods and increases deposition of bloom on the seed coat.
+  - During soybean domestication selection for the recessive mutant allele (Gmb1) gave rise to both the shiny no-bloom seed coat phenotype and elevated seed oil content. A single nucleotide point mutation from C to T in the coding sequence of Glyma.13G241700 caused an amino acid change from cysteine to arginine. The recessive b1 allele was expressed at significantly lower levels than the dominant B1 allele in developing pods.
+phenotype_synopsis:
+  - Bloom 1 (GmB1) encodes a transmembrane transporter-like protein that not only controls seed coat bloom but also exerts pleiotropic effects on seed oil content following up-regulated oil biosynthesis in pods.
+traite:
+  - entity_name: regulation of seed growth
+    entity: GO:0080113
+  - entity_name: seed development
+    entity: GO:0048316
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+  - entity_name: seed coat luster
+    entity: TO:0000888
+references:
+  - citation: Zhang, Sun et al., 2018
+    doi: 10.1038/s41477-017-0084-7
+    pmid: 29292374
+  - citation: Zuo, Ikram et al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
