@@ -10,11 +10,36 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Seed coat bloom, which contains allergenic hydrophobic proteins, is synthesized within the endocarp of seed pods and then adheres to the surface of the seed coat.
-  - Expression of B1 in transgenic soybean plants negatively correlates with the accumulation of oil and positively correlates with the amount of bloom. Overexpression of B1 downregulates fatty acid biosynthesis in seed pods and increases deposition of bloom on the seed coat.
-  - During soybean domestication selection for the recessive mutant allele (Gmb1) gave rise to both the shiny no-bloom seed coat phenotype and elevated seed oil content. A single nucleotide point mutation from C to T in the coding sequence of Glyma.13G241700 caused an amino acid change from cysteine to arginine. The recessive b1 allele was expressed at significantly lower levels than the dominant B1 allele in developing pods.
+  - Seed coat bloom, which contains allergenic hydrophobic proteins, is
+    synthesized within the endocarp of seed pods and then adheres to the surface
+    of the seed coat.
+  - During soybean domestication, selection for the recessive mutant allele
+    (Gmb1) gave rise to both the shiny no-bloom seed coat phenotype and elevated
+    seed oil content.
+  - A single nucleotide point mutation from C to T in the coding sequence of the
+    dominant allele Glyma.13G241700 (GmB1) caused an amino acid change from
+    cysteine to arginine resulting in a loss of helix protein structure.
+  - Gene expression levels of B1 were significantly higher than b1 in both
+    transgenic Williams82 and Arabidopsis thaliana; this finding suggests the C
+    to T polymorphism between B1/b1 impacts transcription.
+  - Gene expression levels of the transgenic allele B1 in developing pods, pod
+    endocarp, seeds, and seed coats were positively correlated to the amount of
+    seed coat bloom deposition. Additionally, the C to T polymorphism within B1
+    was perfectly associated with different seed coat bloom phenotypes among 62
+    accessions of GLycine soja and 240 accessions of Glycine max.
+  - High B1-allele expression in transgenic Williams82 soybean plants was
+    associated with reduced seed oil content relative to b1 controls.
+    Overexpression of B1 downregulated fatty acid biosynthesis in seed pods,
+    whereas b1-modulated upregulation of pod oil biosynthesis consequently
+    elevated oil accumulation.
+  - Genome-wide SNP data from 70 Bloom and 52 No-Bloom Glycine max accessions
+    revealed a previously discovered seed oil QTL associated with seed coat
+    bloom in the ~410 kb selective sweep region shaped by domestication,
+    suggesting the B1 locus may have a pleiotropic effect on seed oil content.
 phenotype_synopsis:
-  - Bloom 1 (GmB1) encodes a transmembrane transporter-like protein that not only controls seed coat bloom but also exerts pleiotropic effects on seed oil content following up-regulated oil biosynthesis in pods.
+  - Bloom 1 (GmB1) encodes a transmembrane transporter-like protein that not
+    only controls seed coat bloom but also exerts pleiotropic effects on seed
+    oil content following up-regulated oil biosynthesis in pods.
 traite:
   - entity_name: regulation of seed growth
     entity: GO:0080113
