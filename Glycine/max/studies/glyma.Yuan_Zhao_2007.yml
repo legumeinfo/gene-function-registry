@@ -1,0 +1,21 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMIPS1
+gene_symbol_long: d-myo-inositol 3-phosphate synthase gene 1
+gene_model_pub_name: 
+gene_model_full_id: glyma.Wm82.gnm5.ann1.Gm_Wm82_24847
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - Gm-lpa-TW-1 lpa (low phytic acid) mutation resulted from a 2 bp deletion in MIPS1
+  - 
+phenotype_synopsis: involved in the early stages of phytic acid synthesis
+traits:
+  - entity_name: myo-inositol hexakisphosphate metabolic process
+    entity: GO:0033517
+references:
+  - citation: Yuan, Zhao et al., 2007
+    doi: 10.1007/s00122-007-0621-2
+    pmid: 17701395
