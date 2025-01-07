@@ -1,12 +1,11 @@
 ---
 scientific_name: Glycine max
-classical locus: lpa
 gene_symbols:
   - GmMIPS1
 gene_symbol_long: d-myo-inositol 3-phosphate synthase gene 1
 gene_model_pub_name: DQ323904
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G238800.1
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
@@ -25,26 +24,34 @@ references:
   - citation: Yuan, Zhao et al., 2007
     doi: 10.1007/s00122-007-0621-2
     pmid: 17701395
+  - citation: DeMers, Raboy et al., 2021
+    doi: 10.3389/fpls.2021.708286
+    pmid: 34531883
 ---
 scientific_name: Glycine max
-classical locus: lpa
 gene_symbols:
-  - GmPalm1-2
-gene_symbol_long: palmitate content gene 1-2
-gene_model_pub_name: 
-gene_model_full_id:
-confidence: 2
+  - GmIPK1
+gene_symbol_long: inositol 1,3,4,5,6 pentakisphosphate 2-kinase 1
+gene_model_pub_name: Glyma14g07880
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g07880
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - the mutation in Gm-lpa-ZC-2 on LG B2 closely linked with Satt168 and Satt 416 which puts it in the area of the palmitate QTL
+  - Gm-lpa-ZC-2 has a G to A point mutation on the 5th exon of IPK1
   - the lpa mutation in Gm-lpa-ZC-2 does not affect seed emergence rate or seed yield
   - Gm-lpa-ZC-2 had a increase in inorganic phosphorus levels and a decrease in organic phosphorus levels compared to the WT
-phenotype_synopsis: involved in the palmitate content in soybeans
+  - The point mutation affected the pre-mRNA splicing and resulted in the exclusion of the fifth exon of IPK1. This disrupted the kinase and led to low phytic acid levels in Gm-lpa-ZC-2
+phenotype_synopsis: Involved in the conversion of InP5 into phytic acid
 traits:
+  - entity_name: inositol-1,3,4,5,6-pentakisphosphate 2-kinase activity
+    entity: GO:0035299
   - entity_name: phosphorus content
     entity: TO:0001024
 references:
   - citation: Yuan, Zhao et al., 2007
     doi: 10.1007/s00122-007-0621-2
     pmid: 17701395
+  - citation: Yuan, Zhu et al., 2012
+    doi: 10.1007/s00122-012-1922-7
+    pmid: 22733447
