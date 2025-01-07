@@ -1,20 +1,46 @@
 ---
 scientific_name: Glycine max
+classical locus: lpa
 gene_symbols:
   - GmMIPS1
 gene_symbol_long: d-myo-inositol 3-phosphate synthase gene 1
 gene_model_pub_name: 
-gene_model_full_id: glyma.Wm82.gnm5.ann1.Gm_Wm82_24847
+gene_model_full_id:
 confidence:
 curators:
   - Raegan Nelson
 comments:
   - Gm-lpa-TW-1 lpa (low phytic acid) mutation resulted from a 2 bp deletion in MIPS1
-  - 
+  - Gm-lpa-TW-1 had a significant increase in inorganic phosphorus levels and a decrease in organic phosphorus levels compared to the WT
 phenotype_synopsis: involved in the early stages of phytic acid synthesis
 traits:
   - entity_name: myo-inositol hexakisphosphate metabolic process
     entity: GO:0033517
+  - entity_name: phosphorus content
+    entity: TO:0001024
+references:
+  - citation: Yuan, Zhao et al., 2007
+    doi: 10.1007/s00122-007-0621-2
+    pmid: 17701395
+---
+scientific_name: Glycine max
+classical locus: lpa
+gene_symbols:
+  - GmPalm1-2
+gene_symbol_long: palmitate content gene 1-2
+gene_model_pub_name: 
+gene_model_full_id:
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - the mutation in Gm-lpa-ZC-2 on LG B2 closely linked with Satt168 and Satt 416 which puts it in the area of the palmitate QTL
+  - the lpa mutation in Gm-lpa-ZC-2 does not affect seed emergence rate or seed yield
+  - Gm-lpa-ZC-2 had a increase in inorganic phosphorus levels and a decrease in organic phosphorus levels compared to the WT
+phenotype_synopsis: involved in the palmitate content in soybeans
+traits:
+  - entity_name: phosphorus content
+    entity: TO:0001024
 references:
   - citation: Yuan, Zhao et al., 2007
     doi: 10.1007/s00122-007-0621-2
