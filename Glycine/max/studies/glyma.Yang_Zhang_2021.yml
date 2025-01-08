@@ -10,7 +10,7 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - GmIDD, a zinc finger transcription factor, was induced by short days in leaves and subject to circadian clock
+  - GmIDD, a zinc finger transcription factor, was induced by short days in soybean leaves and subject to circadian clock
     regulation.
   - Overexpression of IDD in transgenic wild-type Arabidopsis resulted in
     earlier flowering relative to control plants. Late-flowering idd mutants
@@ -18,7 +18,7 @@ comments:
     restored.
   - Gene binding sites for the IDD-encoded transcription factor were identified
     by chromatin immunoprecipitation sequencing assays with IDD-overexpressing
-    Arabidopsis. IDD might inhibit the transcriptional activity of the flower
+    Arabidopsis. IDD reduced gene expression of the flower
     repressor transcription factor, AGAMOUS-like 18 (AGL18) through binding to
     the TTTTGGTCC motif of its promoter.
   - Arabidopis IDD overexpression increased the transcription of flowering
