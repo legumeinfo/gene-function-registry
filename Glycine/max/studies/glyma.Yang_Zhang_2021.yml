@@ -23,13 +23,13 @@ comments:
     TTTTGGTCC motif of its promoter.
   - Arabidopis IDD overexpression increased the transcription of flowering
     time-related genes FLOWERING LOCUS T (FT), SUPPRESSOR OF OVEREXPRESSION OF
-    CONSTANS1 (SOC1), LEAFY (LFY) and APETALA1 (AP1).
+    CONSTANS1 (SOC1), LEAFY (LFY), and APETALA1 (AP1).
 phenotype_synopsis: GmIDD is induced by short days and promotes flowering in
   soybean and transgenic Arabidopsis.
 traits:
-  - entity_name: photoperiod sensitive flowering time
+  - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
-  - entity_name: flowering time
+  - entity_name: flowering time trait
     entity: TO:0002616
   - entity_name: short day length exposure
     entity: PECO:0007200
