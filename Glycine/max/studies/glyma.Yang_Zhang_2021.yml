@@ -2,19 +2,34 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmIDD
-gene_symbol_long: soybean indeterminate domain transcription factor
+gene_symbol_long: Indeterminate Domain Transcription Factor
 gene_model_pub_name: Glyma.14G095900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G095900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G095900
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - Comparisons between plants exposed to different day lengths indicated that GmIDD was induced by short days. Overexpression of GmIDD induces early flowering in WT Arabidopsis plants and restores normal flowering time to late-flowering Arabidopsis mutants. Genes acted on by the GmIDD-endcoded transcription factor identified by ChIP-Seq.
-phenotype_synopsis: GmIDD is induced by short days and promotes flowering in soy, maize, rice, and Arabidopsis.
+  - GmIDD, a zinc finger transcription factor, was induced by short days in
+    soybean leaves and subject to circadian clock regulation.
+  - Overexpression of IDD in transgenic wild-type Arabidopsis resulted in
+    earlier flowering relative to control plants. Late-flowering idd mutants
+    were rescued by overexpression of IDD and normal flowering times were
+    restored.
+  - Gene binding sites for the IDD-encoded transcription factor were identified
+    by chromatin immunoprecipitation sequencing assays with IDD-overexpressing
+    Arabidopsis. IDD reduced gene expression of the flower repressor
+    transcription factor, AGAMOUS-like 18 (AGL18) through binding to the
+    TTTTGGTCC motif of its promoter.
+  - Arabidopis IDD overexpression increased the transcription of flowering
+    time-related genes FLOWERING LOCUS T (FT), SUPPRESSOR OF OVEREXPRESSION OF
+    CONSTANS1 (SOC1), LEAFY (LFY), and APETALA1 (AP1).
+phenotype_synopsis: GmIDD is induced by short days and promotes flowering in
+  soybean and transgenic Arabidopsis.
 traits:
-  - entity_name: photoperiod sensitive flowering time
+  - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
-  - entity_name: flowering time
+  - entity_name: flowering time trait
     entity: TO:0002616
   - entity_name: short day length exposure
     entity: PECO:0007200
