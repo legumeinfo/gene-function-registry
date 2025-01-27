@@ -1,0 +1,48 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmZTL3
+gene_symbol_long: Zeitlupe 3
+gene_model_pub_name: glyma.15G174800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G174800
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - GmZTL3 expression remains constant regardless of short or long day conditions
+  - GmZTL3 is detectable in many different organs includeing roots, stem and pod wall
+  - Constitutive expression of GmZTL3 delayed flower time and produced more leaves in Arabidopsis
+phenotype_synopsis: GmZTL3 functions as a photoreceptor and plays a role in flowering time and leaf development
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Xue, Zhang et al., 2012
+    doi: 10.1007/s11033-011-0875-2
+    pmid: 21617948
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSOC1
+gene_symbol_long: 
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 
+curators:
+  - Raegan Nelson
+comments:
+  - 
+phenotype_synopsis: 
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Xue, Zhang et al., 2012
+    doi: 10.1007/s11033-011-0875-2
+    pmid: 21617948
