@@ -14,8 +14,10 @@ comments:
   - Constitutive expression of GmZTL3 delayed flower time and produced more leaves in Arabidopsis
 phenotype_synopsis: GmZTL3 functions as a photoreceptor and plays a role in flowering time and leaf development
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: leaf yeild trait
+    entity: TO:0000870
 references:
   - citation: Molinari, Fuganti-Pagliarini et al., 2021
     doi: 10.1590/1678-4685-GMB-2021-0016
@@ -27,22 +29,58 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmSOC1
-gene_symbol_long: 
-gene_model_pub_name: 
-gene_model_full_id: 
-confidence: 
+gene_symbol_long: Supressor of overexpression of constans 1
+gene_model_pub_name: Glyma18g45780.1 NM_001249448
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G224500.1
+confidence: 3
 curators:
   - Raegan Nelson
 comments:
-  - 
-phenotype_synopsis: 
+  - High expression of GmSOC1 was found in the shoot apex during the transition from vegetative growth to flowering
+  - GmFT2a may regulate the expression of GmSOC1 during flowering
+  - Expression of GmSOC1 in the shoot apex follows a circadian rhythm during SD conditions increaseing at night
+phenotype_synopsis: GmSOC1-like is a floral inducer
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: positive regulation of short-day photoperiodism, flowering
+    entity: GO:0048576
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
 references:
   - citation: Molinari, Fuganti-Pagliarini et al., 2021
     doi: 10.1590/1678-4685-GMB-2021-0016
     pmid: 34919115
-  - citation: Xue, Zhang et al., 2012
-    doi: 10.1007/s11033-011-0875-2
-    pmid: 21617948
+  - citation: Na, Jian et al., 2013
+    doi: 10.1007/s00299-013-1419-0
+    pmid: 23636663
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSOC1-like
+gene_symbol_long: Supressor of overexpression of constans like
+gene_model_pub_name: Glyma09g40230.1 XM_003534550
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G266200.6
+confidence: 3
+curators:
+  - Raegan Nelson
+comments:
+  - High expression of GmSOC1-like was found in the shoot apex during the transition from vegetative growth to flowering
+  - Regulatory function of GmSOC1-like may be diversified in various plant organs, but its main function might be the same as GmSOC1
+  - The up-regulation of GmFT5a is earlier than that of GmSOC1-like suggesting that it is apart of promotion of GmSOC1-like
+  - Expression of GmSOC1-like in the shoot apex follows a circadian rhythm during SD conditions increaseing at night
+phenotype_synopsis: GmSOC1-like is a floral inducer
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: positive regulation of short-day photoperiodism, flowering
+    entity: GO:0048576
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Na, Jian et al., 2013
+    doi: 10.1007/s00299-013-1419-0
+    pmid: 23636663
