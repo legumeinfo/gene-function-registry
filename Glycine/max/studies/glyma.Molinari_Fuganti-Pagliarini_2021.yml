@@ -84,3 +84,33 @@ references:
   - citation: Na, Jian et al., 2013
     doi: 10.1007/s00299-013-1419-0
     pmid: 23636663
+---
+scientific_name: Glycine max
+classical_locus: qFT12-2
+gene_symbols:
+  - GmPRR37
+gene_symbol_long: Pseudo response regulator 37
+gene_model_pub_name: Glyma.12G073900
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.12G073900
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - GmPRR37 is primarily expressed in unifoliate and trifoliolate leaves
+  - GmPRR37 showed diurnal expression that peaked in the afternoon ~8 h after the lights were turned on under both LD and SD conditions
+  - GmPRR37 promotes Ft1a and supressed Ft2a and FT5a expression under only LD conditions
+phenotype_synopsis: GmPRR37 delays flowering time
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: negative regulation of long-day photoperiodism, flowering
+    entity: GO:0048579
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:004857
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Wang, Sun et al., 2020
+    doi: 10.1111/pbi.13346
+    pmid: 31981443
