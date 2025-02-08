@@ -3,16 +3,20 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1a
 gene_symbol_long: CONSTANS-Like 1a
-gene_model_pub_name: Glyma08g28370
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g28370
+gene_model_pub_name: Glyma08G28370
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G255200
 confidence: 5
 curators:
   - William Hardison
+  - Scott Kalberer
 comments:
-  - Phylogenetic analysis of full-length amino acid sequences -> "Clade I, GmCOL1a, GmCOL1b, GmCOL2a
-    and GmCOL2b clustered together with Arabidopsis CO and rice CO (Hd1), well-characterized flowering inducers"
-  - gene_model_pub_name found in Awal Khan, Mohammad, et al., 2022 -> https://doi.org/10.3389/fpls.2022.817544
-phenotype_synopsis: late long day flowering and early short day flowering
+  - Phylogenetic analysis of full-length amino acid sequences -> "Clade I,
+    GmCOL1a, GmCOL1b, GmCOL2a and GmCOL2b clustered together with Arabidopsis CO
+    and rice CO (Hd1), well-characterized flowering inducers"
+  - gene_model_pub_name found in Awal Khan, Mohammad et al., 2022
+    (10.3389/fpls.2022.817544) and Supporting Table S1 of Wu, Price et al.,
+    2014.
+phenotype_synopsis: Late long day flowering and early short day flowering
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
@@ -20,7 +24,7 @@ references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Mohammad, et al., 2022
+  - citation: Awal Khan, Mohammad et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153
 
@@ -29,14 +33,17 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1b
 gene_symbol_long: CONSTANS-Like 1b
-gene_model_pub_name: Glyma18g51320
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g51320
+gene_model_pub_name: Glyma18G51320
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G278100
 confidence: 3
 curators:
   - William Hardison
+  - Scott Kalberer
 comments:
-  - gene_model_pub_name found in Awal Khan, Mohammad, et al., 2022 -> https://doi.org/10.3389/fpls.2022.817544
-phenotype_synopsis: late long day flowering and early short day flowering
+  - gene_model_pub_name found in Awal Khan, Mohammad et al., 2022
+    (10.3389/fpls.2022.817544) and Supporting Table S1 of Wu, Price et al.,
+    2014.
+phenotype_synopsis: Late long day flowering and early short day flowering
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
@@ -44,6 +51,6 @@ references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Mohammad, et al., 2022
+  - citation: Awal Khan, Mohammad et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153
