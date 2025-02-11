@@ -192,3 +192,60 @@ references:
   - citation: Nan, Cao et al., 2014
     doi: 10.1371/journal.pone.0097669
     pmid: 24845624
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCRY1a
+gene_symbol_long: Cryptochrome 1a
+gene_model_pub_name: DQ401046
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G101500
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmCRY1a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
+  - GmCRY1a promotes flowering by stimulating mRNA expression of the flowering time locus
+  - GmCRY1a has a circadian rhythm in long day and short day conditions
+  - GmCRY1a is associated with the latitudinal cline in photoperiodic flowering of soybean
+phenotype_synopsis: GmCRY1a is a positive regulator of floral initiation in soybean
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:004857
+  - entity_name: positive regulation of short-day photoperiodism, flowering
+    entity: GO:0048576
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Shang, Li et al., 2008
+    doi: 10.1073/pnas.0810585105
+    pmid: 19106300
+  ---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCRY2a
+gene_symbol_long: Cryptochrome 2a
+gene_model_pub_name: DQ401047
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G180600
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmCRY2a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
+  - GmCRY2a is follows a circadian rhythm in LD conditions, but is not in SD conditions
+  - GmCRY2a is degraded in response to blue light
+phenotype_synopsis: GmCRY2a a role in blue light inhibition of cell elongation 
+traits:
+  - entity_name: cell elongation trait
+    entity: TO:0002687
+  - entity_name: cellular response to blue light
+    entity: GO:0071483
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Shang, Li et al., 2008
+    doi: 10.1073/pnas.0810585105
+    pmid: 19106300
