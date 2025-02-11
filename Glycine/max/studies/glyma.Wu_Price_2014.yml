@@ -10,10 +10,20 @@ curators:
   - William Hardison
   - Scott Kalberer
 comments:
-  - Phylogenetic analysis of full-length amino acid sequences -> "Clade I,
-    GmCOL1a, GmCOL1b, GmCOL2a and GmCOL2b clustered together with Arabidopsis CO
-    and rice CO (Hd1), well-characterized flowering inducers"
-  - gene_model_pub_name found in Awal Khan, Mohammad et al., 2022
+  - Phylogenetic analysis of full-length amino acid sequences classified
+    CONSTANS homologs (GmCOLs) into three clades conserved among Angiosperms.
+  - Clade I contained two homeologous pairs (GmCOL1a, GmCOL1b and GmCOL2a,
+    GmCOL2b) that clustered together with the flowering inducers Arabidopsis
+    CONSTANS (CO) and rice CO (Hd1) based on sequence similiarity.
+  - Transcript abundance of GmCOL1a and GmCOL1b exhibited a strong diurnal
+    rhythm under flowering-inductive short days. Their mRNA levels reached a
+    peak at dawn and coincided with the rise of GmFT5a expression. In contrast,
+    the mRNA abundance of GmCOL2a and GmCOL2b was extremely low.
+  - Transgenic experiments showed that GmCOL1a, GmCOL1b, GmCOL2a and GmCOL2b
+    fully complemented the late flowering effect of the Arabidopsis co-1 mutant.
+  - Therefore, GmCOL1a and GmCOL1b are potential inducers of flowering in
+    soybean.
+  - The gene_model_pub_name was found in Awal Khan, Mohammad et al., 2022
     (10.3389/fpls.2022.817544) and Supporting Table S1 of Wu, Price et al.,
     2014.
 phenotype_synopsis: Late long day flowering and early short day flowering
