@@ -30,7 +30,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmSOC1
 gene_symbol_long: Supressor of overexpression of constans 1
-gene_model_pub_name: Glyma18g45780.1 NM_001249448
+gene_model_pub_name: NM_001249448
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G224500.1
 confidence: 3
 curators:
@@ -59,7 +59,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmSOC1-like
 gene_symbol_long: Supressor of overexpression of constans like
-gene_model_pub_name: Glyma09g40230.1 XM_003534550
+gene_model_pub_name: XM_003534550
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G266200.6
 confidence: 3
 curators:
@@ -268,8 +268,6 @@ phenotype_synopsis: GmVRN1 is involved in flowering regulation in soybeans
 traits:
   - entity_name: Flowering time trait
     entity: TO:0002616
-  - entity_name: positive regulation of vernalization response
-    entity: GO:0010220
 references:
   - citation: Molinari, Fuganti-Pagliarini et al., 2021
     doi: 10.1590/1678-4685-GMB-2021-0016
@@ -279,3 +277,31 @@ references:
     pmid: 26420429
   - citation: Suo, Lu et al., 2016
     doi: 10.1007/s11738-016-2136-4
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAP1
+gene_symbol_long: APETALA1
+gene_model_pub_name: Glyma16g13070
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma16g13070
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmAP1 transcription was detected in both the apical inflorescence meristem and lateral floral meristems
+  - GmAP1 is a nuclear-localized transcription activator
+  - Overexpression of GmAP1 in tobacco leads to early flowering phenotype and some flower morphology changes in the stamen 
+  - GmAP1 is a MADS-box transcription factor
+phenotype_synopsis: GmAP1 is involved in flowering time and morphology in soybeans
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: Flowering morphology trait
+    entity: TO:0000499
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Chi, Huang et al., 2011
+    doi: 10.1016/j.jplph.2011.08.007
+    pmid: 21963279
