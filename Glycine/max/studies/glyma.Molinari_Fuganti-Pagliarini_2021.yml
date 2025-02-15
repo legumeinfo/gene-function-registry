@@ -236,7 +236,7 @@ comments:
   - GmCRY2a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
   - GmCRY2a is follows a circadian rhythm in LD conditions, but is not in SD conditions
   - GmCRY2a is degraded in response to blue light
-phenotype_synopsis: GmCRY2a a role in blue light inhibition of cell elongation 
+phenotype_synopsis: GmCRY2a a role in blue light inhibition of cell elongation
 traits:
   - entity_name: cell elongation trait
     entity: TO:0002687
