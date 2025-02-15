@@ -222,7 +222,7 @@ references:
   - citation: Shang, Li et al., 2008
     doi: 10.1073/pnas.0810585105
     pmid: 19106300
-  ---
+---
 scientific_name: Glycine max
 gene_symbols:
   - GmCRY2a
@@ -290,7 +290,7 @@ curator:
 comments:
   - GmAP1 transcription was detected in both the apical inflorescence meristem and lateral floral meristems
   - GmAP1 is a nuclear-localized transcription activator
-  - Overexpression of GmAP1 in tobacco leads to early flowering phenotype and some flower morphology changes in the stamen 
+  - Overexpression of GmAP1 in tobacco leads to early flowering phenotype and some flower morphology changes in the stamen
   - GmAP1 is a MADS-box transcription factor
 phenotype_synopsis: GmAP1 is involved in flowering time and morphology in soybeans
 traits:
