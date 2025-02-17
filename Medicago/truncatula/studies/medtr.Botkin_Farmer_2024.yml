@@ -1,0 +1,43 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - Mtrnpm1
+gene_symbol_long: Resistance to the necrotroph Phoma medicaginis 1
+gene_model_pub_name: MtrunA17_Chr4g0009401
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -MYB, MADS-box, C2H2, TIR-NBS-LRR gene clusters and B3-domain transcription factors were identified in rnpm1
+  -Glutathione S-transferase (GST) and a B3-domain transcription factor as candidate genes for SBS disease resistance
+  -a frameshift resulted in a downstream premature stop codon in the HM078 homolog caused a loss-of-function in a TIR-NBS-LRR gene
+phenotype_synopsis: Mtrnpm1 regulates spring black stem and leaf spot disease resistance
+traits:
+  - entity_name: 
+    entity:
+references:
+  - citation: Botkin, Farmer,et al.2024
+    doi: 10.1186/s12864-024-10112-9
+    pmid: 38395768
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - Mtrnpm2
+gene_symbol_long: Resistance to the necrotroph Phoma medicaginis 2
+gene_model_pub_name: 
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - F-box protein interaction domain protein in rnpm2 contained several missense mutations as well as a frameshift variant causing a truncation in HM078
+  - could be acting as a negative regulator to unidentified plant disease resistance proteins
+phenotype_synopsis: Mtrnpm2 regulates spring black stem and leaf spot disease resistance
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Botkin, Farmer,et al.2024
+    doi: 10.1186/s12864-024-10112-9
+    pmid: 38395768
