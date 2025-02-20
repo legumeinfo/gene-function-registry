@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 classical_locus: J
 gene_symbols:
   - GmELF3
@@ -29,6 +30,7 @@ references:
     doi: 10.1111/jipb.13021
     pmid: 33090664
 ---
+scientific_name: Glycine max
 gene_symbols:
   - LHY1a
 gene_symbol_long: Leafy 1a
@@ -55,6 +57,7 @@ references:
     doi: 10.1111/jipb.13021
     pmid: 33090664
 ---
+scientific_name: Glycine max
 gene_symbols:
   - LHY1b
 gene_symbol_long: Leafy 1b
@@ -81,6 +84,7 @@ references:
     doi: 10.1111/jipb.13021
     pmid: 33090664
 ---
+scientific_name: Glycine max
 gene_symbols:
   - LHY2a
   - GmLHY2a
@@ -115,6 +119,7 @@ references:
     doi: 10.1111/pce.13695
     pmid: 31981430
 ---
+scientific_name: Glycine max
 gene_symbols:
   - LHY2b
 gene_symbol_long: Leafy 2b
