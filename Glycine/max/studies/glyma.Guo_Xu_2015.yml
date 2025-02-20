@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT1a
 gene_symbol_long: Flowering Time 1a
@@ -25,6 +26,7 @@ references:
     doi: 10.1111/jipb.13021
     pmid: 33090664
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT1b
 gene_symbol_long: Flowering Time 1b

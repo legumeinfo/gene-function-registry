@@ -12,7 +12,7 @@ curators:
   - Scott Kalberer
 comments:
   - Protein–protein interaction network analysis showed that five out of the top 10 potential interacting proteins of GmERD15B were GmPAB proteins. Two of the GmPAB genes, GmPAB-14G and GmPAB-17G, have annotations related to salt stress responses.
-phenotype_summary: Gene overexpression in Glycine enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport.
+phenotype_synopsis: Gene overexpression in Glycine enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001

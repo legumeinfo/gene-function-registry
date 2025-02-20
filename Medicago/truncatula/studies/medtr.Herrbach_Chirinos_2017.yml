@@ -1,4 +1,5 @@
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - LYK3
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 3
@@ -23,6 +24,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - LYK4
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 4

@@ -60,6 +60,8 @@ gene_symbol_long: Terminal Flower 1-Like
 gene_model_pub_name: Glyma.19G194300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G194300
 confidence: 5
+curators:
+  - Greg Murrell
 comments:
   - photoperiodic flowering time
 phenotype_synopsis: Modification of flowering time and determinacy

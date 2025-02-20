@@ -1,4 +1,5 @@
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtCre1
 gene_symbol_long: Cytokinin Response 1
@@ -29,6 +30,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - ERN1
 gene_symbol_long: Ethylene Response Factor Required for Nodulation 1
@@ -49,6 +51,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - ERN2
 gene_symbol_long: Ethylene Response Factor Required for Nodulation 2
@@ -69,6 +72,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - EXPA
 gene_symbol_long: EXPANSIN A7
@@ -89,6 +93,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NIN
 gene_symbol_long: Nodule Inception
@@ -109,6 +114,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NRT1.3
 gene_symbol_long: Nitrate Transporter 1.3
@@ -129,6 +135,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NSP1
 gene_symbol_long: Nodulation signaling pathway 1
@@ -149,6 +156,7 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - RR4
 gene_symbol_long: Response Regulator 4
