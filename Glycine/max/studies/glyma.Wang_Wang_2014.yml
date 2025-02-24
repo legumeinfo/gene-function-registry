@@ -3,8 +3,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNNC1
 gene_symbol_long: Nodule Number Control 1
-gene_model_pub_name: Glyma12g07800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G078000
+gene_model_pub_name: Glyma12G07800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073300
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -12,9 +12,10 @@ curators:
 comments:
   - Expression patterns of GmNNC1 were studied with GAL4/UAS, GUS, and GFP reporter systems.
   - Its function was confirmed with RNAi knockdown and transgenic overexpression studies.
-  - The activity of NNC1 is modulated by miR172c to fine-tune nodulation and symbiosis.
-  - miR172c cleaves the protein product of NNC1, allowing ENOD40 to be transcribed.
-  - miR172c is, in turn, negatively regulated by NARK (see Searle, Men et. al., 2003).
+  - The activity of NNC1 is modulated by miR172c to fine-tune nodulation and the Rhizobium-legume symbiosis.
+  - In the absence of rhizobia, NNC1 binds to the promoter of GmENOD40 and represses gene transcription. When rhizobia are present, NFRs recognize NFs and induce signaling that upregulates miR172c. 
+  - When the miR172c targets and cleaves the mRNA of NNC1, there is a resultant decrease in NNC1 gene expression. Consequently, the inhibition of ENOD40 transcription is curtailed, which futher leads to ENOD40 activation and ultimately to nodule organogenesis.
+  - miR172c is, in turn, negatively regulated by NARK (see Searle, Men et al., 2003).
 phenotype_synopsis: GmNNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40.
 traits:
   - entity_name: DNA-binding transcription factor activity
