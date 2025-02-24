@@ -8,12 +8,13 @@ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036300
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - Ectopic expression and RNAi silencing show that CIF1 has a role in suppressing extracellular invertases.
+  - Ectopic expression and RNAi silencing show that GmCIF1 has a role in suppressing extracellular invertases.
   - Silencing of CIF1 increases seed weight as well as protein and starch content.
   - CIF1 is strongly expressed in flowers, mature leaves, and developing seeds.
   - CIF1 is activated by ABA signaling, draught, and senescence.
-phenotype_synopsis: CIF1 is an invertase inhibitor which represses CWI (cell wall invertase).
+phenotype_synopsis: GmCIF1 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
@@ -26,13 +27,13 @@ traits:
   - entity_name: starch content
     entity: TO:0000696
 references:
-  - citation: Tang, Su et. al., 2017
+  - citation: Tang, Su et al., 2017
     doi: 10.1093/jxb/erw425
     pmid: 28204559
-  - citation: Su, Han et. al., 2018
+  - citation: Su, Han et al., 2018
     doi: 10.3390/ijms19082395
     pmid: 30110937
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 ---
@@ -45,12 +46,13 @@ gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - Ectopic expression and RNAi silencing show that C/VIF2 has a role in suppressing extracellular invertases.
+  - Ectopic expression and RNAi silencing show that GmC/VIF2 has a role in suppressing extracellular invertases.
   - Silencing of C/VIF2 increases seed weight as well as protein and starch content.
   - C/VIF2 is most strongly expressed in flowers, roots, and developing seeds.
   - C/VIF2 is activated by ABA signaling, draught, and senescence but suppressed by fungal infections.
-phenotype_synopsis: C/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase).
+phenotype_synopsis: GmC/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
@@ -63,9 +65,9 @@ traits:
   - entity_name: starch content
     entity: TO:0000696
 references:
-  - citation: Tang, Su et. al., 2017
+  - citation: Tang, Su et al., 2017
     doi: 10.1093/jxb/erw425
     pmid: 28204559
-  - citation: Su, Han et. al., 2018
+  - citation: Su, Han et al., 2018
     doi: 10.3390/ijms19082395
     pmid: 30110937
