@@ -1,0 +1,307 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmZTL3
+gene_symbol_long: Zeitlupe 3
+gene_model_pub_name: glyma.15G174800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G174800
+confidence: 2
+curators:
+  - Raegan Nelson
+comments:
+  - GmZTL3 expression remains constant regardless of short or long day conditions
+  - GmZTL3 is detectable in many different organs includeing roots, stem and pod wall
+  - Constitutive expression of GmZTL3 delayed flower time and produced more leaves in Arabidopsis
+phenotype_synopsis: GmZTL3 functions as a photoreceptor and plays a role in flowering time and leaf development
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: leaf yeild trait
+    entity: TO:0000870
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Xue, Zhang et al., 2012
+    doi: 10.1007/s11033-011-0875-2
+    pmid: 21617948
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSOC1
+gene_symbol_long: Supressor of overexpression of constans 1
+gene_model_pub_name: NM_001249448
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G224500
+confidence: 3
+curators:
+  - Raegan Nelson
+comments:
+  - High expression of GmSOC1 was found in the shoot apex during the transition from vegetative growth to flowering
+  - GmFT2a may regulate the expression of GmSOC1 during flowering
+  - Expression of GmSOC1 in the shoot apex follows a circadian rhythm during SD conditions increaseing at night
+phenotype_synopsis: GmSOC1-like is a floral inducer
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: positive regulation of short-day photoperiodism, flowering
+    entity: GO:0048576
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Na, Jian et al., 2013
+    doi: 10.1007/s00299-013-1419-0
+    pmid: 23636663
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSOC1-like
+gene_symbol_long: Supressor of overexpression of constans like
+gene_model_pub_name: XM_003534550
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G266200
+confidence: 3
+curators:
+  - Raegan Nelson
+comments:
+  - High expression of GmSOC1-like was found in the shoot apex during the transition from vegetative growth to flowering
+  - Regulatory function of GmSOC1-like may be diversified in various plant organs, but its main function might be the same as GmSOC1
+  - The up-regulation of GmFT5a is earlier than that of GmSOC1-like suggesting that it is apart of promotion of GmSOC1-like
+  - Expression of GmSOC1-like in the shoot apex follows a circadian rhythm during SD conditions increaseing at night
+phenotype_synopsis: GmSOC1-like is a floral inducer
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: positive regulation of short-day photoperiodism, flowering
+    entity: GO:0048576
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Na, Jian et al., 2013
+    doi: 10.1007/s00299-013-1419-0
+    pmid: 23636663
+---
+scientific_name: Glycine max
+classical_locus: qFT12-2
+gene_symbols:
+  - GmPRR37
+gene_symbol_long: Pseudo response regulator 37
+gene_model_pub_name: Glyma.12G073900
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.12G073900
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - GmPRR37 is primarily expressed in unifoliate and trifoliolate leaves
+  - GmPRR37 showed diurnal expression that peaked in the afternoon ~8 h after the lights were turned on under both LD and SD conditions
+  - GmPRR37 promotes Ft1a and supressed Ft2a and FT5a expression under only LD conditions
+phenotype_synopsis: GmPRR37 delays flowering time
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: negative regulation of long-day photoperiodism, flowering
+    entity: GO:0048579
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:004857
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Wang, Sun et al., 2020
+    doi: 10.1111/pbi.13346
+    pmid: 31981443
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSVP1
+gene_symbol_long: Short vegetative stage 1
+gene_model_pub_name: Glyma01g02880
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G023500
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmSVP1 is found in all floral organs
+  - GmSVP1 induces flowering
+  - GmSVP1 shows high expression in reaction to low temperature, wounding and salt treatments but low expression when reacting to heat stress
+phenotype_synopsis: GmSVP1 acts as a regulator for flowering
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: floral organ development
+    entity: GO:0048437
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Zhang, Yan et al., 2016
+    doi: 10.1007/s10725-016-0173-z
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSVP2
+gene_symbol_long: Short vegetative stage 2
+gene_model_pub_name: Glyma02g04710
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G041500
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmSVP2 is found in all floral organs
+  - GmSVP2 induces flowering
+  - GmSVP2 maintained relatively low expression levels to no change in expression when put under the four stressors
+phenotype_synopsis: GmSVP2 acts as a regulator for flowering
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: floral organ development
+    entity: GO:0048437
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Zhang, Yan et al., 2016
+    doi: 10.1007/s10725-016-0173-z
+---
+scientific_name: Glycine max
+classical locus: D
+gene_symbols:
+  - GmFDL19
+gene_symbol_long: Flower Locus D-like 19
+gene_model_pub_name: Glyma19g30230
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G122800
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - Overexpression of GmFDL19 causes early flowering
+  - GmFDL19 is required for GmFT2a- and GmFT5a-regulated flowering system
+  - GmFT2a promotes early flowering through both transcriptional upregulation of and physical interaction with GmFDL19 while GmFT5a only promotes flowering through physical interaction with the protien
+phenotype_synopsis: GmFDL19 promotes flowering in soybeans
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Nan, Cao et al., 2014
+    doi: 10.1371/journal.pone.0097669
+    pmid: 24845624
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCRY1a
+gene_symbol_long: Cryptochrome 1a
+gene_model_pub_name: DQ401046
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G101500
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmCRY1a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
+  - GmCRY1a promotes flowering by stimulating mRNA expression of the flowering time locus
+  - GmCRY1a has a circadian rhythm in long day and short day conditions
+  - GmCRY1a is associated with the latitudinal cline in photoperiodic flowering of soybean
+phenotype_synopsis: GmCRY1a is a positive regulator of floral initiation in soybean
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:004857
+  - entity_name: positive regulation of short-day photoperiodism, flowering
+    entity: GO:0048576
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Shang, Li et al., 2008
+    doi: 10.1073/pnas.0810585105
+    pmid: 19106300
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCRY2a
+gene_symbol_long: Cryptochrome 2a
+gene_model_pub_name: DQ401047
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G180600
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmCRY2a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
+  - GmCRY2a is follows a circadian rhythm in LD conditions, but is not in SD conditions
+  - GmCRY2a is degraded in response to blue light
+phenotype_synopsis: GmCRY2a a role in blue light inhibition of cell elongation
+traits:
+  - entity_name: cell elongation trait
+    entity: TO:0002687
+  - entity_name: cellular response to blue light
+    entity: GO:0071483
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Shang, Li et al., 2008
+    doi: 10.1073/pnas.0810585105
+    pmid: 19106300
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmVRN1-like
+gene_symbol_long: Vernalization 1-like
+gene_model_pub_name: Glyma11g13220
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G124200
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmVRN1-like is involved in the late flowering phenotype in soybeans
+  - GmVRN1-like may play a role in low temperature induced flowering in soybean
+  - GmVRN1-like is photoperiod responsive in soybean
+  - Ectopic expression of GmVRN1-like causes early flowering in Arabidopsis
+phenotype_synopsis: GmVRN1 is involved in flowering regulation in soybeans
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Li, Suo et al., 2015
+    doi: 10.1186/s12870-015-0602-6
+    pmid: 26420429
+  - citation: Suo, Lu et al., 2016
+    doi: 10.1007/s11738-016-2136-4
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAP1
+gene_symbol_long: APETALA1
+gene_model_pub_name: Glyma16g13070
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G091300
+confidence: 5
+curator:
+  - Raegan Nelson
+comments:
+  - GmAP1 transcription was detected in both the apical inflorescence meristem and lateral floral meristems
+  - GmAP1 is a nuclear-localized transcription activator
+  - Overexpression of GmAP1 in tobacco leads to early flowering phenotype and some flower morphology changes in the stamen
+  - GmAP1 is a MADS-box transcription factor
+phenotype_synopsis: GmAP1 is involved in flowering time and morphology in soybeans
+traits:
+  - entity_name: Flowering time trait
+    entity: TO:0002616
+  - entity_name: Flowering morphology trait
+    entity: TO:0000499
+references:
+  - citation: Molinari, Fuganti-Pagliarini et al., 2021
+    doi: 10.1590/1678-4685-GMB-2021-0016
+    pmid: 34919115
+  - citation: Chi, Huang et al., 2011
+    doi: 10.1016/j.jplph.2011.08.007
+    pmid: 21963279
