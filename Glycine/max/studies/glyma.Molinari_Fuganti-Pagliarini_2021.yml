@@ -31,7 +31,7 @@ gene_symbols:
   - GmSOC1
 gene_symbol_long: Supressor of overexpression of constans 1
 gene_model_pub_name: NM_001249448
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G224500.1
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G224500
 confidence: 3
 curators:
   - Raegan Nelson
@@ -60,7 +60,7 @@ gene_symbols:
   - GmSOC1-like
 gene_symbol_long: Supressor of overexpression of constans like
 gene_model_pub_name: XM_003534550
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G266200.6
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G266200
 confidence: 3
 curators:
   - Raegan Nelson
@@ -120,7 +120,7 @@ gene_symbols:
   - GmSVP1
 gene_symbol_long: Short vegetative stage 1
 gene_model_pub_name: Glyma01g02880
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g02880
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G023500
 confidence: 5
 curator:
   - Raegan Nelson
@@ -146,7 +146,7 @@ gene_symbols:
   - GmSVP2
 gene_symbol_long: Short vegetative stage 2
 gene_model_pub_name: Glyma02g04710
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g04710
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G041500
 confidence: 5
 curator:
   - Raegan Nelson
@@ -173,7 +173,7 @@ gene_symbols:
   - GmFDL19
 gene_symbol_long: Flower Locus D-like 19
 gene_model_pub_name: Glyma19g30230
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma19g30230
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G122800
 confidence: 5
 curator:
   - Raegan Nelson
@@ -255,7 +255,7 @@ gene_symbols:
   - GmVRN1-like
 gene_symbol_long: Vernalization 1-like
 gene_model_pub_name: Glyma11g13220
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g13220
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G124200
 confidence: 5
 curator:
   - Raegan Nelson
@@ -283,7 +283,7 @@ gene_symbols:
   - GmAP1
 gene_symbol_long: APETALA1
 gene_model_pub_name: Glyma16g13070
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma16g13070
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G091300
 confidence: 5
 curator:
   - Raegan Nelson
