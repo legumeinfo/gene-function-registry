@@ -38,7 +38,7 @@ curators:
 comments:
   -A single base pair insertion in the coding region of TIR-NBS-LRR resulted in a frame-shift mutation in the HM078 homolog that produced a downstream premature stop codon
   -This truncation likely causes a loss-of-function due to the absence of the LRR domain in the predicted peptide
-  -A loss-of-function in the TIR-NBS-LRR gene could alleviate sensitivity to a HST that has yet to be identified
+  -A loss-of-function in the TIR-NBS-LRR gene could alleviate sensitivity to a host sensitive toxin that has yet to be identified
   -Could be acting as a negative regulator of unidentified plant disease resistance protein
 phenotype_synopsis: TIR-NBS-LRR gene regulates Medicago defense response
 traits:
@@ -51,7 +51,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - MtB3
+  - 
 gene_symbol_long: B3-domain transcription factor
 gene_model_pub_name: MtrunA17_Chr4g0009491
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0009491
