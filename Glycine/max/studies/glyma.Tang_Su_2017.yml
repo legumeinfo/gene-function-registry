@@ -10,10 +10,10 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Ectopic expression and RNAi silencing show that GmCIF1 has a role in suppressing extracellular invertases.
+  - Ectopic expression and RNAi silencing show that the invertase inhibitor isoform GmCIF1 has a role in suppressing extracellular invertases.
   - Silencing of CIF1 increases seed weight as well as protein and starch content.
   - CIF1 is strongly expressed in flowers, mature leaves, and developing seeds.
-  - CIF1 is activated by ABA signaling, draught, and senescence.
+  - CIF1 is activated by ABA signaling, drought, and senescence.
 phenotype_synopsis: GmCIF1 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
   - entity_name: regulation of seed growth
@@ -48,10 +48,10 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Ectopic expression and RNAi silencing show that GmC/VIF2 has a role in suppressing extracellular invertases.
+  - Ectopic expression and RNAi silencing show that the invertase inhibitor isoform GmC/VIF2 has a role in suppressing extracellular invertases.
   - Silencing of C/VIF2 increases seed weight as well as protein and starch content.
   - C/VIF2 is most strongly expressed in flowers, roots, and developing seeds.
-  - C/VIF2 is activated by ABA signaling, draught, and senescence but suppressed by fungal infections.
+  - C/VIF2 is activated by ABA signaling, drought, and senescence but suppressed by fungal infections.
 phenotype_synopsis: GmC/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
   - entity_name: regulation of seed growth
