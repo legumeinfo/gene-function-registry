@@ -14,7 +14,7 @@ comments:
   -In HM078, the GST contained a 12 bp insertion in the 5’ UTR region, which is known to contain microRNA binding sites and structural features that regulate mRNA splicing and stability
 phenotype_synopsis: MtGST detoxifys toxic substances in plants and reduces oxidative stress in Medicago
 traits:
-  - entity_name: positive regulation of cellular response to oxidative stress 
+  - entity_name: positive regulation of cellular response to oxidative stress
     entity: GO:1900409
   - entity_name: xenobiotic detoxification by transmembrane export across the plasma membrane
     entity: GO:1990961
@@ -81,7 +81,7 @@ gene_symbols:
   - MtPHO2A
 gene_symbol_long: phosphate 2A
 gene_model_pub_name: MtrunA17_Chr4g0009054
-gene_model_full_id: N/A
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0046981
 confidence: 5
 curators:
   - Raegan Nelson
