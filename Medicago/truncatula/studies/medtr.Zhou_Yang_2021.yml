@@ -10,11 +10,19 @@ curators:
   - Raegan Nelson
 comments:
  - MIO1 encodes an F-box protein SMALL LEAF AND BUSHY1(SLB1) which was identified as a key regulator of organ size
- - 
-phenotype_synopsis: MIO1 plays a role in plant organ size regulation
+ - MIO1 is highly expressed in leaves, floral organs, and immature seeds
+ - MIO1 plays a crucial role during lateral organ morphogenesis
+ - MIO1 positively regulates organ size mainly by promoting the process of primary cell proliferation during plant development
+ - MIO1 is also necessary for robust pulvinus development and leaf movement
+ - MIO1/SLB1 could form part of SKP1/Cullin/F-box (SCF) E3 ubiquitin ligase complex to target MtBS1
+phenotype_synopsis: MIO1 plays a role in plant organ size regulation and leaf movement
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Pulvinus size
+    entity: TO:0001075
+  - entity_name: Floral organ size
+    entity: TO:0002600
+  - entity_name: Leaf size
+    entity: TO:0002637
 references:
   - citation: Zhou, Yang et al,. 2021
     doi: 10.1093/jxb/erab033
@@ -30,11 +38,16 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - 
-phenotype_synopsis:
+  - The stability of BS1 protein is negatively regulated by MIO1
+  - Loss of function BS1 caused enlarged lateral plant organs
+  - BS1 is a negative regulator of meristemoid proliferation and primary cell division
+  - BS1 is a ortholog of PPD (pea pod)
+phenotype_synopsis: MtBS1 is a repressor of primary cell cell division
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Floral organ size
+    entity: TO:0002600
+  - entity_name: Leaf size
+    entity: TO:0002637
 references:
   - citation: Zhou, Yang et al,. 2021
     doi: 10.1093/jxb/erab033
