@@ -1,0 +1,41 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtMIO1
+gene_symbol_long: Mini Organ 1
+gene_model_pub_name: Medtr5g097060
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g097060
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+ - MIO1 encodes an F-box protein SMALL LEAF AND BUSHY1(SLB1) which was identified as a key regulator of organ size
+ - 
+phenotype_synopsis: MIO1 plays a role in plant organ size regulation
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhou, Yang et al,. 2021
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtBS1
+gene_symbol_long: Big seed 1
+gene_model_pub_name: Medtr1g102900
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g102900
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhou, Yang et al,. 2021
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
