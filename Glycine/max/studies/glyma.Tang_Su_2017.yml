@@ -10,12 +10,31 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - The enzyme invertase may also be named β-fructosidase, β-fructofuranosidase, saccharase, glucosucrase, invertin, fructosylinvertase, alkaline invertase, and acid invertase.
-  - Ectopic expression and RNAi silencing show that the cell wall invertase inhibitor isoform GmCIF1 has a role in suppressing extracellular invertases.
-  - Silencing of CIF1 increases seed weight as well as protein and starch content.
-  - CIF1 is strongly expressed in flowers, mature leaves, and developing seeds.
-  - CIF1 is activated by ABA signaling, drought, and senescence.
-phenotype_synopsis: GmCIF1 is an invertase inhibitor which represses CWI (cell wall invertase).
+  - Invertase enzymes may also be named β-fructosidase, β-fructofuranosidase,
+    saccharase, glucosucrase, invertin, fructosylinvertase, alkaline invertase,
+    and acid invertase. The Cell Wall Invertase (GmCWI) and Vacuolar Invertase
+    (GmVI) are regulated in a post-translational manner by small inhibitory
+    proteins.
+  - Ectopic expression with fusions of fluorescent protein and RNAi silencing
+    show that the Cell Wall Inhibitor of β-Fructosidase 1 (GmCIF1) isoform has a
+    role in suppressing extracellular invertases.
+  - The maximum inhibitory effects of recombinant CIF1 were a depression of 95%
+    in CWI activity and 70% in VI activity. Both recombinant GmCIF1 and Cell
+    Wall or Vacuolar Inhibitor of β-Fructosidase 2 (GmC/VIF2) exhibited higher
+    inhibitory affinities to CWI than VI in vitro.
+  - RNAi silencing of CIF1 expression increases seed weight as well as protein,
+    starch, and hexose content in mature seeds. A marked elevation of CWI
+    activity was also seen.
+  - CIF1 is most strongly expressed in flowers, mature leaves, and developing
+    seeds. There was subcellular localization to the apoplast in tobacco
+    epidermis.
+  - CIF1 transcription is activated by ABA signaling, drought, and senescence.
+  - Co-expression of CIF1 with putative CWI genes provided evidence that the
+    CIF1 modulation of CWI impacting seed weight depends largely on
+    post-translational mechanisms.
+phenotype_synopsis: Cell Wall Inhibitor of β-Fructosidase 1 (GmCIF1) is a
+  protein that represses Cell Wall Invertase (GmCWI) and promotes seed
+  development through post-translational modulation.
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
@@ -49,12 +68,25 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - The enzyme invertase may also be named β-fructosidase, β-fructofuranosidase, saccharase, glucosucrase, invertin, fructosylinvertase, alkaline invertase, and acid invertase.
-  - Ectopic expression and RNAi silencing show that the the cell wall invertase inhibitor isoform GmC/VIF2 has a role in suppressing extracellular invertases.
-  - Silencing of C/VIF2 increases seed weight as well as protein and starch content.
+  - Invertase enzymes may also be named β-fructosidase, β-fructofuranosidase,
+    saccharase, glucosucrase, invertin, fructosylinvertase, alkaline invertase,
+    and acid invertase. The Cell Wall Invertase (GmCWI) and Vacuolar Invertase
+    (GmVI) are regulated in a post-translational manner by small inhibitory
+    proteins.
+  - Ectopic expression with fusions of fluorescent protein shows that the Cell
+    Wall or Vacuolar Inhibitor of β-Fructosidase 2 (GmC/VIF2) isoform has a role
+    in suppressing extracellular invertases.
+  - The maximum inhibitory effects of recombinant C/VIF2 were a depression of
+    80% in CWI activity and 75% in VI activity. Both recombinant Cell Wall
+    Inhibitor of β-Fructosidase 1 (GmCIF1) and GmC/VIF2 exhibited higher
+    inhibitory affinities to CWI than VI in vitro.
   - C/VIF2 is most strongly expressed in flowers, roots, and developing seeds.
-  - C/VIF2 is activated by ABA signaling, drought, and senescence but suppressed by fungal infections.
-phenotype_synopsis: GmC/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase).
+    There was subcellular localization to the apoplast in tobacco epidermis.
+  - C/VIF2 transcription is activated by ABA signaling, drought, and senescence
+    but suppressed by fungal infections.
+phenotype_synopsis: Cell Wall or Vacuolar Inhibitor of β-Fructosidase 2
+  (GmC/VIF2) is a protein that represses Cell Wall Invertase (GmCWI) and
+  promotes seed development through post-translational modulation.
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113
