@@ -13,7 +13,7 @@ comments:
   - MIO1(mini organ 1) can form a protein complex with MtKIX8
   - MtKIX8 is a negative regulator of leaf and seed size
   - MtKIX8 is expressed throughout early floral primorida, and highly expressed during anthers development
-  - MtKIX8 acts as a molecular adaptor to interact with BS1 and MtTPL
+  - MtKIX8 acts as a molecular adaptor to interact with BS1
 phenotype_synopsis: MtKIX8 negatively regulates plant organ size
 traits:
   - entity_name: Seed size
@@ -23,6 +23,9 @@ traits:
   - entity_name: anther development
     entity: GO:0048653
 references:
-  - citation: Mao, Zhou, et al. 2023
+  - citation: Mao, Zhou et al., 2023
     doi: https://doi.org/10.1111/ppl.14046
     pmid: 37882293
+  - citation: Zhou, Yang et al., 2023
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
