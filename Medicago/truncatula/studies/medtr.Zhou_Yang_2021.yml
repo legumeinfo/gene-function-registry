@@ -9,12 +9,12 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
- - MIO1 encodes an F-box protein SMALL LEAF AND BUSHY1(SLB1) which was identified as a key regulator of organ size
- - MIO1 is highly expressed in leaves, floral organs, and immature seeds
- - MIO1 plays a crucial role during lateral organ morphogenesis
- - MIO1 positively regulates organ size mainly by promoting the process of primary cell proliferation during plant development
- - MIO1 is also necessary for robust pulvinus development and leaf movement
- - MIO1/SLB1 could form part of SKP1/Cullin/F-box (SCF) E3 ubiquitin ligase complex to target MtBS1
+  - MIO1 encodes an F-box protein SMALL LEAF AND BUSHY1(SLB1) which was identified as a key regulator of organ size
+  - MIO1 is highly expressed in leaves, floral organs, and immature seeds
+  - MIO1 plays a crucial role during lateral organ morphogenesis
+  - MIO1 positively regulates organ size mainly by promoting the process of primary cell proliferation during plant development
+  - MIO1 is also necessary for robust pulvinus development and leaf movement
+  - MIO1/SLB1 could form part of SKP1/Cullin/F-box (SCF) E3 ubiquitin ligase complex to target MtBS1
 phenotype_synopsis: MIO1 plays a role in plant organ size regulation and leaf movement
 traits:
   - entity_name: Pulvinus size
