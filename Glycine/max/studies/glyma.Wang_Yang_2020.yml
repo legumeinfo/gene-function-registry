@@ -3,18 +3,19 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPAP12
 gene_symbol_long: Purple Acid Phosphatase 12
-gene_model_pub_name: Glyma06G170300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G170300
+gene_model_pub_name: Glyma.06G028200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G028200
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - When phosphate (P) is abuntant, overexpression of PAP12 increases nodule number, nitrogenase and phytase activity, and alkaline phosphatase (APase) activity.
+  - When phosphate (P) is abundant, overexpression of GmPAP12 increases nodule number, nitrogenase and phytase activity, and alkaline phosphatase (APase) activity.
   - When PAP12 is silenced, nodule number and APase activity are reduced.
   - PAP12 is induced by low-P conditions.
-  - PAP12 is induced by transcription factor PHR1 (see Lu, Cheng et. al., 2020).
+  - PAP12 is induced by transcription factor PHR1 (Lu, Cheng et al., 2020).
 phenotype_synopsis:
-  - PAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions by increasing the activity of APases.
+  - GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions by increasing the activity of APases.
   - It is also involved in nodulation and nitrogen fixation.
 traits:
   - entity_name: nodulation
@@ -24,12 +25,12 @@ traits:
   - entity_name: phosphate ion homeostasis
     entity: GO:0055062
 references:
-  - citation: Wang, Yang et. al., 2020
+  - citation: Wang, Yang et al., 2020
     doi: 10.3389/fpls.2020.00450
     pmid: 32499790
-  - citation: Yang, Lan et. al., 2022
+  - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
-  - citation: Lu, Cheng et. al., 2020
+  - citation: Lu, Cheng et al., 2020
     doi: 10.1104/pp.19.01209
     pmid: 32680974
