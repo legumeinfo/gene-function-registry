@@ -4,7 +4,7 @@ gene_symbols:
   - Gm-JAG1
 gene_symbol_long: JAGGEED 1
 gene_model_pub_name: Glyma20g25000
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma20g25000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G116200
 confidence: 5
 curators:
   - Wei Huang
