@@ -27,8 +27,6 @@ references:
     pmid: 30622544
 ---
 scientific_name: Medicago truncatula
-gene_symbols:
-  - Mt
 gene_symbol_long: TIR-NBS-LRR gene
 gene_model_pub_name: MtrunA17_Chr4g0009401
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0009401
@@ -50,8 +48,6 @@ references:
     pmid: 38395768
 ---
 scientific_name: Medicago truncatula
-gene_symbols:
-  - Mt
 gene_symbol_long: B3-domain transcription factor
 gene_model_pub_name: MtrunA17_Chr4g0009491
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0009491
