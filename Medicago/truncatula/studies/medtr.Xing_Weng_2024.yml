@@ -1,0 +1,47 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtbZIP60
+gene_symbol_long:
+gene_model_pub_name: Medtr4g070860
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g070860
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtbZIP60 expression level increases significantly as leaf ages
+  - MtbZIP60 exhibits relatively high-level expression in leafs and moderate-level expression in roots and stems
+  - MtbZIP60 inhibits leaf senescence through its interaction with MtWRKY40
+phenotype_synopsis: MtbZIP60 acts as a negative regulator of leaf senescence
+traits:
+  - entity_name: Leaf senescence duration
+    entity: TO:0012012
+  - entity_name: negative regulation of leaf senescence
+    entity: GO:1900056
+references:
+  - citation: Xing, Weng etal., 2024
+    doi: 10.3390/ijms251910410
+    pmid: 39408738
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtWRKY40
+gene_symbol_long:
+gene_model_pub_name: Medtr2g105060
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g105060
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtWRKY40 expression is significantly up-regulated in senescent leaves
+  - MtbZIP60 physically interacts with MtWRKY40
+phenotype_synopsis: MtWRKY40 positivly regulates leaf senescence
+traits:
+  - entity_name: Leaf senescence duration
+    entity: TO:0012012
+  - entity_name: positive regulation of leaf senescence
+    entity: GO:1900057
+references:
+  - citation: Xing, Weng etal., 2024
+    doi: 10.3390/ijms251910410
+    pmid: 39408738
