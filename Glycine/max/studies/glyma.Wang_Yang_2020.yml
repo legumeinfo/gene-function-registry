@@ -10,14 +10,13 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Biological nitrogen fixation within legume nodules necessitates large quantities of phosphorus to meet energy and carbon demands.
-  - Overexpression of Purple Acid Phosphatase 12 (GmPAP12) in transgenic hairy root nodules increases nodule number, nitrogenase and phytase activity, and alkaline phosphatase (APase) activity under P-deficient conditions.
-  - When PAP12 is silenced by RNAi in transgenic hairy root nodules, nodule number and APase activity are reduced under P-deficient conditions.
-  - PAP12 is induced by low-Phosphorus conditions.
+  - Biological nitrogen (N) fixation within legume nodules necessitates large quantities of phosphorus (P) to meet energy and carbon demands.
+  - Five GmPAP (purple acid phosphatase) genes showed up-regulated expression under P-deficient when compared to P-sufficient conditions. P-starvation contributed to increasing acid phosphatase (APase) and phytase activities in soybean mature nodules. Purple Acid Phosphatase 12 (GmPAP12) had the highest level of expression amongst the five PAPs, its transcription gradually increased during nodule development, and the PAP12 promoter was activated by low-P stress.
+ - Overexpression of PAP12 in transgenic hairy root nodules under P-deficient conditions increased total nodule number, shoot weight, nodule nitrogenase activity, nodule APase activity, N content, and P content relative to controls.
+  - When PAP12 was silenced by RNAi in transgenic hairy root nodules there was a reduction in total nodule number, shoot weight, nodule nitrogenase activity, nodule APase activity, N content, and P content under P-deficient conditions relative to controls.
   - PAP12 is induced by transcription factor GmPHR1 (Lu, Cheng et al., 2020).
 phenotype_synopsis:
-  - GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions by increasing the activity of APases.
-  - The enzyme is important for nodulation, nitrogen fixation, and the soybean symbiosis with rhizobia.
+  - PAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions. The enzyme is important for nodulation, nitrogen fixation, and the soybean symbiosis with rhizobia.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
