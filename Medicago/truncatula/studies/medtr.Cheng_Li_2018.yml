@@ -1,0 +1,80 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtFULc
+gene_symbol_long: Fruitfull
+gene_model_pub_name: Medtr7g016630
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g016630
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtTFL1
+gene_symbol_long:
+gene_model_pub_name: Medtr7g104460
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g104460
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSGL1
+gene_symbol_long: SINGLE LEAFLET 1
+gene_model_pub_name: Medtr8g066260
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g066260
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtAP1
+gene_symbol_long:
+gene_model_pub_name: Medtr3g098560
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g098560
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
