@@ -10,13 +10,34 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Biological nitrogen (N) fixation within legume nodules necessitates large quantities of phosphorus (P) to meet energy and carbon demands.
-  - Five GmPAP (purple acid phosphatase) genes showed up-regulated expression under P-deficient when compared to P-sufficient conditions. P-starvation contributed to increasing acid phosphatase (APase) and phytase activities in soybean mature nodules. Purple Acid Phosphatase 12 (GmPAP12) had the highest level of expression amongst the five PAPs, its transcription gradually increased during nodule development, and the PAP12 promoter was activated by low-P stress.
- - Overexpression of PAP12 in transgenic hairy root nodules under P-deficient conditions increased total nodule number, shoot weight, nodule nitrogenase activity, nodule APase activity, N content, and P content relative to controls.
-  - When PAP12 was silenced by RNAi in transgenic hairy root nodules there was a reduction in total nodule number, shoot weight, nodule nitrogenase activity, nodule APase activity, N content, and P content under P-deficient conditions relative to controls.
-  - PAP12 is induced by transcription factor GmPHR1 (Lu, Cheng et al., 2020).
+  - Biological nitrogen (N) fixation within legume nodules necessitates large
+    quantities of phosphorus (P) to meet energy and carbon demands.
+  - Five Purple Acid Phosphatase (GmPAP) genes showed up-regulated expression
+    under P-deficient as compared to P-sufficient conditions. P-starvation
+    contributed to increasing acid phosphatase (APase) and phytase activities in
+    soybean mature nodules. Purple Acid Phosphatase 12 (GmPAP12) had the highest
+    level of expression amongst the five PAPs, its transcription gradually
+    increased during nodule development, and the PAP12 promoter was activated by
+    low-P stress.
+  - Overexpression of PAP12 in transgenic hairy root nodules under P-deficient
+    conditions increased total nodule number, shoot weight, nodule nitrogenase
+    activity, nodule APase activity, N content, and P content relative to
+    controls.
+  - When PAP12 was silenced by RNAi in transgenic hairy root nodules there was a
+    reduction in total nodule number, shoot weight, nodule nitrogenase activity,
+    nodule APase activity, N content, and P content under P-deficient conditions
+    relative to controls.
+  - PAP12 expression is induced by the transcription factor Phosphate Starvation
+    Response Regulator 1 (GmPHR1), a member of the MYB transcription factor
+    family. P1BS cis-elements were found in the PAP12 promoter, and yeast
+    one-hybrid experiments showed that PHR1 bound to P1BS in the PAP12 promoter.
+    PHR1 overexpression and suppression in nodules resulted in highly increased
+    and decreased expression of PAP12, respectively. Therefore, PAP12 is
+    probably regulated by PHR1 in soybean nodules.
 phenotype_synopsis:
-  - PAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions. The enzyme is important for nodulation, nitrogen fixation, and the soybean symbiosis with rhizobia.
+  - GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in
+    nodules under low-P conditions. The enzyme thus contributes to nodulation,
+    nitrogen fixation, and symbiosis with rhizobia.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
