@@ -3,19 +3,41 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPAP12
 gene_symbol_long: Purple Acid Phosphatase 12
-gene_model_pub_name: Glyma06G170300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G170300
+gene_model_pub_name: Glyma.06G028200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G028200
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - When phosphate (P) is abuntant, overexpression of PAP12 increases nodule number, nitrogenase and phytase activity, and alkaline phosphatase (APase) activity.
-  - When PAP12 is silenced, nodule number and APase activity are reduced.
-  - PAP12 is induced by low-P conditions.
-  - PAP12 is induced by transcription factor PHR1 (see Lu, Cheng et. al., 2020).
+  - Biological nitrogen (N) fixation within legume nodules necessitates large
+    quantities of phosphorus (P) to meet energy and carbon demands.
+  - Five Purple Acid Phosphatase (GmPAP) genes showed up-regulated expression
+    under P-deficient as compared to P-sufficient conditions. P-starvation
+    contributed to increasing acid phosphatase (APase) and phytase activities in
+    soybean mature nodules. Purple Acid Phosphatase 12 (GmPAP12) had the highest
+    level of expression amongst the five PAPs, its transcription gradually
+    increased during nodule development, and the PAP12 promoter was activated by
+    low-P stress.
+  - Overexpression of PAP12 in transgenic hairy root nodules under P-deficient
+    conditions increased total nodule number, shoot weight, nodule nitrogenase
+    activity, nodule APase activity, N content, and P content relative to
+    controls.
+  - When PAP12 was silenced by RNAi in transgenic hairy root nodules there was a
+    reduction in total nodule number, shoot weight, nodule nitrogenase activity,
+    nodule APase activity, N content, and P content under P-deficient conditions
+    relative to controls.
+  - PAP12 expression is induced by the transcription factor Phosphate Starvation
+    Response Regulator 1 (GmPHR1), a member of the MYB transcription factor
+    family. P1BS cis-elements were found in the PAP12 promoter, and yeast
+    one-hybrid experiments showed that PHR1 bound to P1BS in the PAP12 promoter.
+    PHR1 overexpression and suppression in nodules resulted in highly increased
+    and decreased expression of PAP12, respectively. Therefore, PAP12 is
+    probably regulated by PHR1 in soybean nodules.
 phenotype_synopsis:
-  - PAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions by increasing the activity of APases.
-  - It is also involved in nodulation and nitrogen fixation.
+  - GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in
+    nodules under low-P conditions. The enzyme thus contributes to nodulation,
+    nitrogen fixation, and symbiosis with rhizobia.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -23,13 +45,17 @@ traits:
     entity: GO:0009399
   - entity_name: phosphate ion homeostasis
     entity: GO:0055062
+  - entity_name: relative phosphorus uptake
+    entity: TO:0000648
+  - entity_name: relative phosphorus utilization efficiency
+    entity: TO:0000627
 references:
-  - citation: Wang, Yang et. al., 2020
+  - citation: Wang, Yang et al., 2020
     doi: 10.3389/fpls.2020.00450
     pmid: 32499790
-  - citation: Yang, Lan et. al., 2022
+  - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
-  - citation: Lu, Cheng et. al., 2020
+  - citation: Lu, Cheng et al., 2020
     doi: 10.1104/pp.19.01209
     pmid: 32680974
