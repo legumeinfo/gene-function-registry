@@ -1,0 +1,45 @@
+---
+scientific_name: Phaseolus vulgaris
+classical_locus: V
+gene_symbols:
+  - PvPUR
+gene_symbol_long: Purple Mutation
+gene_model_pub_name: Phvul.006G018800
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.006G018800
+confidence: 5
+curators:
+  - Scott Kalberer
+comments:
+  - Purple mutants of snap beans (the common bean Phaseolus vulgaris) exhibit
+    purple cotyledons, hypocotyls, stems, leaf veins, flower and pod tissues.
+  - Levels of total anthocyanins, delphinidins, and malvidins in purple-mutant
+    pods were significantly higher than in wild-type plants.
+  - Phvul.006G018800, the candidate gene for Purple Mutation (PvPUR), is
+    localized to the 243.9-kb region of chromosome Pv06. The gene encodes the
+    enzyme Flavonoid 3',5'-hydroxylase (F3’5’H), a member of the cytochrome P450
+    family. F3’5’H converts the dihydroflavonols named dihydrokaempferol (DHK)
+    and dihydroquercetin (DHQ) to dihydromyricetin (DHM), a precursor of the
+    blue-to-red pH-sensitive plant pigment delphinidin and its anthocyanin
+    derivatives.
+  - Six single-base mutations within the coding region of PvPUR altered the
+    protein structure of F3’5’H resulting in the purple phenotype.
+  - To validate the candidate gene's function, Arabidopsis thaliana were
+    transformed using wild-type and purple-mutant common bean alleles. Compared
+    with the wild-type Arabidopsis, the leaf bases and internodes of plants
+    receiving the purple-mutant allele were purple, whereas the phenotypes of
+    Arabidopsis transformed with the wild-type allele remained unaffected.
+phenotype_synopsis: The gene Purple Mutation (PvPUR) impacts anthocyanin
+  biosynthesis in common bean and results in purple coloration of many tissues.
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+references:
+  - citation: McClean, Lee et al., 2022
+    doi: 10.3389/fpls.2022.869582
+    pmid: 35432409
+  - citation: Liu, Yang et al., 2023
+    doi: 10.1007/s11032-023-01362-8
+    pmid: 37313298
+  - citation: Liu, Yang et al., 2022
+    doi: 10.3390/ijms23031265
+    pmid: 35163188
