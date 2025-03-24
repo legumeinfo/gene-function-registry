@@ -8,6 +8,7 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g114900
 confidence: 5
 curators:
   - Raegan Nelson
+  - Jacqueline Campbell
 comments:
   - MtKIX8 is a homolog of Arabidopsis KIX8
   - MIO1(mini organ 1) can form a protein complex with MtKIX8
