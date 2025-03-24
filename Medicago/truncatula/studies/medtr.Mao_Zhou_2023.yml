@@ -24,7 +24,7 @@ traits:
     entity: GO:0048653
 references:
   - citation: Mao, Zhou et al., 2023
-    doi: https://doi.org/10.1111/ppl.14046
+    doi: 10.1111/ppl.14046
     pmid: 37882293
   - citation: Zhou, Yang et al., 2023
     doi: 10.1093/jxb/erab033
