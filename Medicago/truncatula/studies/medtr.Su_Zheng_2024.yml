@@ -1,0 +1,27 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtTCP18
+gene_symbol_long: TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR
+gene_model_pub_name: Medtr4g111935
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g111935
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - The expression pattern of MtTCP18 suggests that it may play a role in axillary bud development
+  - MtTCP18 is highly expressed in pods and axillary buds
+  - MtTCP18 encodes a nuclear protein functioning as transcriptional activator
+  - MtTCP18 likely supresses Auxin-related gene expression
+phenotype_synopsis: MtTCP18 regulates plant height, branch number and axillary bud synthesis
+traits:
+  - entity_name: Plant Height
+    entity: TO:0000207
+  - entity_name: Axillary bud morphology trait
+    entity: TO:0000790
+  - entity_name: Primary Branch number
+    entity: TO:0000547
+references:
+  - citation: Su, Zheng etal., 2024
+    doi: 10.3390/plants13071012
+    pmid: 38611541
