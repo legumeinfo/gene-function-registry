@@ -1,0 +1,32 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtKIX8
+gene_symbol_long: KINASE-INDUCIBLE DOMAIN INTERACTING 8
+gene_model_pub_name: Medtr4g114900
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g114900
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Jacqueline Campbell
+comments:
+  - MtKIX8 is a homolog of Arabidopsis KIX8
+  - MIO1(mini organ 1) can form a protein complex with MtKIX8
+  - MtKIX8 is a negative regulator of leaf and seed size
+  - MtKIX8 is expressed throughout early floral primorida, and highly expressed during anthers development
+  - MtKIX8 acts as a molecular adaptor to interact with BS1
+phenotype_synopsis: MtKIX8 negatively regulates plant organ size
+traits:
+  - entity_name: Seed size
+    entity: TO:0000391
+  - entity_name: Leaf size
+    entity: TO:0002637
+  - entity_name: anther development
+    entity: GO:0048653
+references:
+  - citation: Mao, Zhou et al., 2023
+    doi: 10.1111/ppl.14046
+    pmid: 37882293
+  - citation: Zhou, Yang et al., 2023
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
