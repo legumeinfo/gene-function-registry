@@ -65,6 +65,8 @@ phenotype_synopsis: MtSGL1 regulates compound leaf development
 traits:
   - entity_name: compound leaf morphology trait
     entity: TO:0001121
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
 references:
   - citation: Cheng, Li et al., 2018
     doi: 10.1242/dev.158766
@@ -87,8 +89,8 @@ phenotype_synopsis: MtAP1 regulates floral meristem identity
 traits:
   - entity_name: floral organ identity
     entity: TO:0006019
-  - entity_name: meristem identity
-    entity: TO:0006017
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
 references:
   - citation: Cheng, Li et al., 2018
     doi: 10.1242/dev.158766
