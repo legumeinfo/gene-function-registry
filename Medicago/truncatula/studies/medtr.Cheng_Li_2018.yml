@@ -61,7 +61,7 @@ comments:
   - MtSGL1 plays a synergistic role with MtAP1 in floral meristem identity
   - Mutated MtSGL1 exhibited simple leaves and cauliflower-like structures consisting of reiterated sepals and carpels
   - SGL1 expression was detected in the leaf primordia, floral meristems, and floral organ primordia
-phenotype_synopsis: MtSGL1 regulates compound leaf development
+phenotype_synopsis: MtSGL1 regulates floral meristem identity
 traits:
   - entity_name: compound leaf morphology trait
     entity: TO:0001121
