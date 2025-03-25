@@ -29,6 +29,7 @@ references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
     pmid: 25914592
+
 ---
 scientific_name: Glycine max
 gene_symbols:
@@ -59,6 +60,7 @@ references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
     pmid: 25914592
+
 ---
 scientific_name: Glycine max
 gene_symbols:
@@ -91,6 +93,7 @@ references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
     pmid: 25914592
+
 ---
 scientific_name: Glycine max
 gene_symbols:
@@ -102,7 +105,7 @@ confidence: 3
 curators:
   - Wei Huang
 comments: FAD3D (Glyma.11g27190) is one of the 4 homologs of FAD3 homologs
-phenotype_synopsis: null 
+phenotype_synopsis: null
 traits:
   - entity_name: lipid metabolic process
     entity: GO:0006629
