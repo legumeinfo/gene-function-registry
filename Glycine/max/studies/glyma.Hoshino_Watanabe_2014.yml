@@ -1,0 +1,117 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFAD3-2a
+gene_symbol_long: Omega-3 fatty acid desaturase 3 2a
+gene_model_pub_name: Glyma18g06950
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18g06950
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - Microsomal omega-3 fatty acid desaturase (FAD3) is responsible for the
+    synthesis of α-linolenic acid in the polyunsaturated fatty acid pathway.
+  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350
+    and Glyma18g06950) in the soybean genome.
+  - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and
+    GmFAD3-2a), soybean lines containing <2% α-linolenic acid in their seeds
+    were generated.
+  - GmFAD3-2a is also known as FAD3C.
+phenotype_synopsis: GmFAD3-2a mutant allele reduces α-linolenic acid content in soybean seed oil.
+traits:
+  - entity_name: omega-3 fatty acid desaturase
+    entity: GO:0042389
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: oxidation-reduction process
+    entity: GO:0055114
+references:
+  - citation: Hoshino, Watanabe et al., 2014
+    doi: 10.1270/jsbbs.64.371
+    pmid: 25914592
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFAD3-1a
+gene_symbol_long: Omega-3 fatty acid desaturase 3 1a
+gene_model_pub_name: Glyma02g39230
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02g39230
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - Microsomal omega-3 fatty acid desaturase (FAD3) is responsible for the
+    synthesis of α-linolenic acid in the polyunsaturated fatty acid pathway.
+  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350
+    and Glyma18g06950) in the soybean genome.
+  - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and
+    GmFAD3-2a), soybean lines containing <2% α-linolenic acid in their seeds
+    were generated.
+  - GmFAD3-1a is also known as FAD3B.
+phenotype_synopsis: Combining mutations within FAD3A with FAD3B and/or FAD3C
+  resulted in oil having <3 % linolenic acid.
+traits:
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: oxidation-reduction process
+    entity: GO:0055114
+references:
+  - citation: Hoshino, Watanabe et al., 2014
+    doi: 10.1270/jsbbs.64.371
+    pmid: 25914592
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFAD3-1b
+gene_symbol_long: Omega-3 fatty acid desaturase 3 1b
+gene_model_pub_name: Glyma14g37350
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma14g37350
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - Microsomal omega-3 fatty acid desaturase (FAD3) is responsible for the
+    synthesis of α-linolenic acid in the polyunsaturated fatty acid pathway.
+  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350
+    and Glyma18g06950) in the soybean genome.
+  - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and
+    GmFAD3-2a), soybean lines containing <2% α-linolenic acid in their seeds
+    were generated.
+  - GmFAD3-1b is lso known as FAD3A.
+phenotype_synopsis: Combining mutations within FAD3A with FAD3B and/or FAD3C
+  resulted in oil having <3 % linolenic acid.
+traits:
+  - entity_name: oxidoreductase activity
+    entity: GO:0016717
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: oxidation-reduction process
+    entity: GO:0055114
+references:
+  - citation: Hoshino, Watanabe et al., 2014
+    doi: 10.1270/jsbbs.64.371
+    pmid: 25914592
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - FAD3D
+gene_symbol_long: Omega-3 fatty acid desaturase 3 D
+gene_model_pub_name: Glyma.11g27190
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11g27190
+confidence: 3
+curators:
+  - Wei Huang
+comments: FAD3D (Glyma.11g27190) is one of the 4 homologs of FAD3 homologs
+phenotype_synopsis: null 
+traits:
+  - entity_name: lipid metabolic process
+    entity: GO:0006629
+  - entity_name: oxidation-reduction process
+    entity: GO:0055114
+references:
+  - citation: Hoshino, Watanabe et al., 2014
+    doi: 10.1270/jsbbs.64.371
+    pmid: 25914592
