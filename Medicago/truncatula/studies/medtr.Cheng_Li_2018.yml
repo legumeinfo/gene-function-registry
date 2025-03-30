@@ -2,7 +2,7 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtFULc
-gene_symbol_long: Fruitfull
+gene_symbol_long: FRUITFULL
 gene_model_pub_name: Medtr7g016630
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g016630
 confidence: 5
@@ -43,6 +43,8 @@ traits:
     entity: TO:0000052
   - entity_name: shoot meristem development
     entity: TO:0002638
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
 references:
   - citation: Cheng, Li et al., 2018
     doi: 10.1242/dev.158766
@@ -67,6 +69,8 @@ traits:
     entity: TO:0001121
   - entity_name: floral meristem determinacy
     entity: GO:0010582
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
 references:
   - citation: Cheng, Li et al., 2018
     doi: 10.1242/dev.158766
@@ -91,6 +95,8 @@ traits:
     entity: TO:0006019
   - entity_name: floral meristem determinacy
     entity: GO:0010582
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
 references:
   - citation: Cheng, Li et al., 2018
     doi: 10.1242/dev.158766
