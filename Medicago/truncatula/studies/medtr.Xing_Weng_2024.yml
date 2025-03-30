@@ -42,6 +42,12 @@ traits:
   - entity_name: positive regulation of leaf senescence
     entity: GO:1900057
 references:
-  - citation: Xing, Weng etal., 2024
+  - citation: Xing, Weng et al., 2024
     doi: 10.3390/ijms251910410
     pmid: 39408738
+  - citation: Chen, Lai et al., 2010
+    doi: 10.1186/1471-2229-10-281
+    pmid: 21167067
+  - citation: Zhao, Zhang et al., 2020
+    doi: 10.1111/plb.13155
+    pmid: 32609938
