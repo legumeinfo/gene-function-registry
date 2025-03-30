@@ -13,6 +13,7 @@ comments:
   - MtTCP18 is highly expressed in pods and axillary buds
   - MtTCP18 encodes a nuclear protein functioning as transcriptional activator
   - MtTCP18 likely supresses Auxin-related gene expression
+  - MtTcP18 is highly conserved with Arabidopsis gene BRC1 (BRANCHED1)
 phenotype_synopsis: MtTCP18 regulates plant height, branch number and axillary bud synthesis
 traits:
   - entity_name: Plant Height
