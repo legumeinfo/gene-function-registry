@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: NODULE ROOT 1
 gene_model_pub_name: Medtr7g090020
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g090020
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
