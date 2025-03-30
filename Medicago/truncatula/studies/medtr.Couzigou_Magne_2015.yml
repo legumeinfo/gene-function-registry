@@ -1,0 +1,26 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNOOT1
+gene_symbol_long: NODULE ROOT 1
+gene_model_pub_name: Medtr7g090020
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g090020
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  - MtNOOT1 is an ortholoug of  A. thaliana BLADE-ON-PETIOLE genes
+  - A homozygous noot genotype is linked with a petal abscission defect
+  - Petiole and fruit abscission defects are associated with a different cellular organization at the site of organ detachment in MtNOOt1 mutants
+  - MtNOOT1 is necessary for fruit abscission
+  - NOOT and BLADE-ON-PETIOLE promoter activites overlap in A. thaliana which strongly suggests a conservation of the transcriptional regulation between these genes
+phenotype_synopsis: MtNOOT1 is necessary for fruit abscission
+traits:
+  - entity_name: fruit abscission
+    entity: GO:0060867
+  - entity_name: floral organ abscission
+    entity: GO:0010227
+references:
+  - citation: Couzigou, Magne et al.,2015 
+    doi: 10.1111/nph.13634
+    pmid: 26390061
