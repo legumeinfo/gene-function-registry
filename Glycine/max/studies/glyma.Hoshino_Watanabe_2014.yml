@@ -29,7 +29,6 @@ traits:
     entity: GO:0006629
   - entity_name: oxidation-reduction process
     entity: GO:0055114
-
 references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
