@@ -12,15 +12,15 @@ comments:
   - MtCRA2 negatively regulates lateral root development
   - MtCRA2 positively regulates symbiotic nodule development
   - The root-dependent regulation of the lateral root number is independent of the shoot-regulation of the nodule number
-  - MtCRA2 encodes an LRR-RLK (Leucine-Rich Repeat–Receptor-Like Kinase) belonging to subfamily Xl
+  - MtCRA2 encodes an LRR-RLK (Leucine-Rich Repeat–Receptor-Like Kinase) belonging to subfamily xl
 phenotype_synopsis: MtCRA2 negatively regulates lateral root development and positively regulates symbiotic nodule development
 traits:
-  - entity_name: negative regulation of lateral root development
-    entity: GO:1901332
   - entity_name: root nodule number
     entity: TO:0000900
   - entity_name: root morphology trait
     entity: TO:0000043
+  - entity_name: negative regulation of lateral root development
+    entity: GO:1901332
 references:
   - citation: Huault, Laffont et al., 2014
     doi: 10.1371/journal.pgen.1004891
