@@ -21,6 +21,6 @@ traits:
   - entity_name: floral organ abscission
     entity: GO:0010227
 references:
-  - citation: Couzigou, Magne et al.,2015 
+  - citation: Couzigou, Magne et al., 2015
     doi: 10.1111/nph.13634
     pmid: 26390061
