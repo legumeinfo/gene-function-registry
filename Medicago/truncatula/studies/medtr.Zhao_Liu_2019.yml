@@ -1,0 +1,25 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtAGLF
+gene_symbol_long: AGAMOUS-LIKE FLOWER
+gene_model_pub_name: Medtr0007s0220
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr0007s0220
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtAGLF possesses a MYB-like DNA-binding domain which suggests transcriptional regulator in flower development
+  - MtAGLF is probably involved in the regulation of the class C gene
+  - Loss-of-function of MtAGLF leads to the dysregulation of ABC genes
+  - The knockout of MtAGLF leads to ectopic expression of MtAP1 and MtPI across the FM and to reduced MtAGa and MTAGb expression in the center
+phenotype_synopsis: MtAGLF regulates MtAGs which determine floral organ identity
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: floral organ development
+    entity: GO:0048437
+references:
+  - citation: Zhao, Liu et al., 2019
+    doi: 10.1073/pnas.1820468116 
+    pmid: 30782811
