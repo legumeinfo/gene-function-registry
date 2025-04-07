@@ -43,3 +43,30 @@ references:
   - citation: Crook, Schnabel etal., 2016
     doi: 10.1111/tpj.13234
     pmid: 27296908
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSUNN
+gene_symbol_long: SUPER NUMERIC NODULES
+gene_model_pub_name: AY769943
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0035451
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtSUNN is expressed in roots, flowers and shoots of medicago
+  - SUNN is concentrated in parts of the plasma membrane that are specifically associated with the plasmodesmata
+  - MtSUNN mutants display shortened roots and hypernodulation
+phenotype_synopsis: MtSUNN plays a role root nodule number and root length
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root length
+    entity: TO:0000227
+references:
+  - citation: Crook, Schnabel et al., 2016
+    doi: 10.1111/tpj.13234
+    pmid: 27296908
+  - citation: Schnabel Journet et al., 2005
+    doi: 10.1007/s11103-005-8102-y
+    pmid: 16240175
