@@ -19,6 +19,9 @@ comments:
   - The classical V (violet, purple) gene of Phaseolus vulgaris functions within
     a genetic network that controls seed coat and flower color and flavonoid
     content (McClean, Lee et al., 2022).
+  - Solely genotypes carrying the dominant V allele were found to produce the
+    anthocyanin named delphinidin 3-O-glucoside in seed coats. These color of
+    these lines were blue to black in color (Beninger and Hosfield, 2003).
   - The V locus was mapped to a narrow interval on chromosome Pv06. A candidate
     gene was selected based on flavonoid analysis and confirmed by
     recombinational mapping. Protein and domain modeling determined that V
@@ -38,16 +41,16 @@ comments:
     the two bean gene pools from a common ancestral gene (McClean, Lee et al.,
     2022).
   - Evidence that V encodes F3′5′H was provided by the discovery of the vlae
-  [M0056] white-flowering haplotype. M0056 was produced by a natural intragenic
-  recombination event between the vlae [MDRK] (pink flower) and v [Mex235]
-  (white flower) haplotypes. A deletion was introduced to the vlae [MDRK]
-  haplotype, resulting in a frame-shift stop codon that eliminated the essential
-  heme-binding and SRS6 regions. This recombination event is a natural
-  equivalent to gene editing in a species, P. vulgaris, in which such
-  complementation technologies have yet to be developed. When a section of the
-  candidate gene is deleted, and the resultant progeny shows a phenotypic
-  change, the candidate gene is revealed as the causative gene for the phenotype
-  (McClean, Lee et al., 2022).
+    [M0056] white-flowering haplotype. M0056 was produced by a natural
+    intragenic recombination event between the vlae [MDRK] (pink flower) and v
+    [Mex235] (white flower) haplotypes. A deletion was introduced to the vlae
+    [MDRK] haplotype, resulting in a frame-shift stop codon that eliminated the
+    essential heme-binding and SRS6 regions. This recombination event is a
+    natural equivalent to gene editing in a species, P. vulgaris, in which such
+    complementation technologies have yet to be developed. When a section of the
+    candidate gene is deleted, and the resultant progeny shows a phenotypic
+    change, the candidate gene is revealed as the causative gene for the
+    phenotype (McClean, Lee et al., 2022).
   - Six single-base mutations within the coding region of PvPUR altered the
     protein structure of F3’5’H resulting in the purple phenotype (Liu, Yang et
     al., 2023).
@@ -72,3 +75,9 @@ references:
   - citation: Liu, Yang et al., 2022
     doi: 10.3390/ijms23031265
     pmid: 35163188
+  - citation: Garcia-Fernandez, Campa et al., 2021
+    doi: 10.1007/s00122-021-03922-y
+    pmid: 34328529
+  - citation: Beninger, Hosfield, 2003
+    doi: 10.1021/jf0304324
+    pmid: 14690368
