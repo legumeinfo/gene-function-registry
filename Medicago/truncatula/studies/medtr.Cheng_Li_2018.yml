@@ -1,0 +1,103 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtFULc
+gene_symbol_long: FRUITFULL
+gene_model_pub_name: Medtr7g016630
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g016630
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtFULc is required for the secondary inflorescence identity
+  - MtFULc regulates secondary inflorescence meristem identity by repressing the expression of MtTFL1 and MtAP1
+  - MtFULc was highly expressed in secondary inflorescence meristems, but not detectable in primary inflorescence meristem or any other floral organs
+phenotype_synopsis: MtFULc regulates secondary inflorescence meristem identity
+traits:
+  - entity_name: secondary branching of inflorescence
+    entity: TO:0000142
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtTFL1
+gene_symbol_long: TERMINAL FLOWER 1
+gene_model_pub_name: Medtr7g104460
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g104460
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Mutated MtTFL1 changes the inflorescence branching pattern from monopodial to sympodial
+  - MtTFL1 is epistatic to MtFULc in the regulation of inflorescence development
+  - MtTFL1 is highly expressed in the central part of the primary inflorescence meristem, but was not detected in secondary inflorescence meristem and floral primordia
+  - MtTFL1 was also expressed in the center of axillary meristems
+phenotype_synopsis: MtTFL1 regulates primary inflorescence development
+traits:
+  - entity_name: primary branching of inflorescence
+    entity: TO:0000052
+  - entity_name: shoot meristem development
+    entity: TO:0002638
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSGL1
+gene_symbol_long: SINGLE LEAFLET 1
+gene_model_pub_name: Medtr8g066260
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g066260
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtSGL1 plays a synergistic role with MtAP1 in floral meristem identity
+  - Mutated MtSGL1 exhibited simple leaves and cauliflower-like structures consisting of reiterated sepals and carpels
+  - SGL1 expression was detected in the leaf primordia, floral meristems, and floral organ primordia
+phenotype_synopsis: MtSGL1 regulates floral meristem identity
+traits:
+  - entity_name: compound leaf morphology trait
+    entity: TO:0001121
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtAP1
+gene_symbol_long: APETALA 1
+gene_model_pub_name: Medtr3g098560
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g098560
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - The MtAP1 mutant developed proliferating mixtures of abnormal flowers, vegetative shoots or leaf-like structures at the end of pedicels instead of one or two flowers as seen on the WT
+  - MtAP1 was detectable in sepals and petals, but not in stamen primordia and carpel primordia. In lates stage floral development MtAP1 is only found in the petals
+  - MtAP1 represses MtTFL1 expression in floral meristems
+phenotype_synopsis: MtAP1 regulates floral meristem identity
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
