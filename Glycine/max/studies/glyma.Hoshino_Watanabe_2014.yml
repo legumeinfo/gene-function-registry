@@ -4,31 +4,28 @@ gene_symbols:
   - GmFAD3-2a
 gene_symbol_long: Omega-3 fatty acid desaturase 3 2a
 gene_model_pub_name: Glyma18g06950
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g06950
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18g06950
 confidence: 5
 curators:
   - Wei Huang
 comments:
-  - Microsomal omega-3 fatty acid desaturase (FAD3) is responsible for the
-    synthesis of α-linolenic acid in the polyunsaturated fatty acid pathway.
+  - Microsomal omega-3-fatty acid desaturase (FAD3) plays a role in synthesis of
+    α-linolenic acid (ALA) in the polyunsaturated fatty acid pathway.
   - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350
     and Glyma18g06950) in the soybean genome.
   - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and
     GmFAD3-2a), soybean lines containing < 2% α-linolenic acid in their seeds
     were generated.
-  - GmFAD3-2a is also known as FAD3C.
-phenotype_synopsis: GmFAD3-2a plays a critical role in the production of the seed oil α-linolenic acid and mutations within GmFAD3-2a reduces α-linolenic acid content.
+phenotype_synopsis: GmFAD3-2a plays a critical role in the production of the
+  seed oil α-linolenic acid, and mutations within GmFAD3-2a reduces α-linolenic
+  acid content.
 traits:
   - entity_name: alpha-linolenic acid content
-    entity: TO:0005005 
+    entity: TO:0005005
   - entity_name: omega-3 fatty acid content
-    entity: TO:0005004  
+    entity: TO:0005004
   - entity_name: omega-3 fatty acid desaturase
     entity: GO:0042389
-  - entity_name: lipid metabolic process
-    entity: GO:0006629
-  - entity_name: oxidation-reduction process
-    entity: GO:0055114
 references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
@@ -40,30 +37,30 @@ gene_symbols:
   - GmFAD3-1a
 gene_symbol_long: Omega-3 fatty acid desaturase 3 1a
 gene_model_pub_name: Glyma02g39230
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g39230
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02g39230
 confidence: 5
 curators:
   - Wei Huang
 comments:
-  - Microsomal omega-3 fatty acid desaturase (FAD3) is responsible for the
-    synthesis of α-linolenic acid in the polyunsaturated fatty acid pathway.
-  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350
-    and Glyma18g06950) in the soybean genome.
-  - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and
-    GmFAD3-2a), soybean lines containing < 2% α-linolenic acid in their seeds
-    were generated.
-  - GmFAD3-1a is also known as FAD3B.
-phenotype_synopsis: Combining mutations within FAD3A with FAD3B and/or FAD3C
-  resulted in oil having < 3 % linolenic acid.
+  - GmFAD3-1a (Glyma02g39230) is one of the FAD3 genes that, along with
+    GmFAD3-1b and GmFAD3-2a, are expressed in soybean seeds and control ALA
+    content in the seed oil.
+phenotype_synopsis: By combining non-functional alleles of GmFAD3-1a, GmFAD3-1b,
+  and GmFAD3-2a, soybean lines with reduced ALA content (<2%) in their seeds
+  were obtained.
 traits:
-  - entity_name: lipid metabolic process
-    entity: GO:0006629
-  - entity_name: oxidation-reduction process
-    entity: GO:0055114
+  - entity_name: alpha-linolenic acid content
+    entity: TO:0005005
+  - entity_name: omega-3 fatty acid content
+    entity: TO:0005004
+  - entity_name: omega-3 fatty acid desaturase
+    entity: GO:0042389
 references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
     pmid: 25914592
+  - citation: Anai, Yamada et al., 2005
+    doi: 10.1016/j.plantsci.2005.02.016
 
 ---
 scientific_name: Glycine max
@@ -71,32 +68,30 @@ gene_symbols:
   - GmFAD3-1b
 gene_symbol_long: Omega-3 fatty acid desaturase 3 1b
 gene_model_pub_name: Glyma14g37350
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37350
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma14g37350
 confidence: 5
 curators:
   - Wei Huang
 comments:
-  - Microsomal omega-3 fatty acid desaturase (FAD3) is responsible for the
-    synthesis of α-linolenic acid in the polyunsaturated fatty acid pathway.
-  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350
-    and Glyma18g06950) in the soybean genome.
-  - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and
-    GmFAD3-2a), soybean lines containing < 2% α-linolenic acid in their seeds
-    were generated.
-  - GmFAD3-1b is lso known as FAD3A.
-phenotype_synopsis: Combining mutations within FAD3A with FAD3B and/or FAD3C
-  resulted in oil having < 3 % linolenic acid.
+  - GmFAD3-1b (Glyma14g37350) is one of the FAD3 genes that, along with
+    GmFAD3-1a and GmFAD3-2a, are expressed in soybean seeds and control ALA
+    content in the seed oil.
+phenotype_synopsis: By combining non-functional alleles of GmFAD3-1a, GmFAD3-1b,
+  and GmFAD3-2a, soybean lines with reduced ALA content (<2%) in their seeds
+  were obtained.
 traits:
-  - entity_name: oxidoreductase activity
-    entity: GO:0016717
-  - entity_name: lipid metabolic process
-    entity: GO:0006629
-  - entity_name: oxidation-reduction process
-    entity: GO:0055114
+  - entity_name: alpha-linolenic acid content
+    entity: TO:0005005
+  - entity_name: omega-3 fatty acid content
+    entity: TO:0005004
+  - entity_name: omega-3 fatty acid desaturase
+    entity: GO:0042389
 references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
     pmid: 25914592
+  - citation: Anai, Yamada et al., 2005
+    doi: 10.1016/j.plantsci.2005.02.016
 
 ---
 scientific_name: Glycine max
@@ -109,13 +104,18 @@ confidence: 3
 curators:
   - Wei Huang
 comments: FAD3D (Glyma.11g27190) is one of the 4 homologs of FAD3 homologs
-phenotype_synopsis: null
+phenotype_synopsis: By combining non-functional alleles of GmFAD3-1a, GmFAD3-1b,
+  and GmFAD3-2a, soybean lines with reduced ALA content (<2%) in their seeds
+  were obtained.
 traits:
-  - entity_name: lipid metabolic process
-    entity: GO:0006629
-  - entity_name: oxidation-reduction process
-    entity: GO:0055114
+  - entity_name: alpha-linolenic acid content
+    entity: TO:0005005
+  - entity_name: omega-3 fatty acid content
+    entity: TO:0005004
+  - entity_name: omega-3 fatty acid desaturase
+    entity: GO:0042389
 references:
   - citation: Hoshino, Watanabe et al., 2014
     doi: 10.1270/jsbbs.64.371
     pmid: 25914592
+
