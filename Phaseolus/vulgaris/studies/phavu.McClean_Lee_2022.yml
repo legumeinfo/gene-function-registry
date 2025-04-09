@@ -10,32 +10,17 @@ confidence: 5
 curators:
   - Scott Kalberer
 comments:
-  - Purple mutants of snap beans (the common bean Phaseolus vulgaris) exhibit
-    purple cotyledons, hypocotyls, stems, leaf veins, flower and pod tissues
-    (Liu, Yang et al., 2023).
-  - Levels of total anthocyanins, delphinidins, and malvidins in purple-mutant
-    pods were significantly higher than in wild-type plants (Liu, Yang et al.,
-    2023).
-  - The classical V (violet, purple) gene of Phaseolus vulgaris functions within
-    a genetic network that controls seed coat and flower color and flavonoid
-    content (McClean, Lee et al., 2022).
-  - Solely genotypes carrying the dominant V allele were found to produce the
-    anthocyanin named delphinidin 3-O-glucoside in seed coats. These color of
-    these lines were blue to black in color (Beninger and Hosfield, 2003).
-  - The V locus was mapped to a narrow interval on chromosome Pv06. A candidate
-    gene was selected based on flavonoid analysis and confirmed by
-    recombinational mapping. Protein and domain modeling determined that V
-    encodes the enzyme flavonoid 3′5′ hydroxylase (F3′5′H), a P450 enzyme
-    required for the expression of dihydromyricetin-derived flavonoids in the
-    flavonoid pathway. F3′5′H evolved as a major target gene for the evolution
-    of flower and seed coat color in plants (McClean, Lee et al., 2022).
-  - Phvul.006G018800, the candidate gene for Purple Mutation (PvPUR), is
-    localized to the 243.9-kb region of chromosome Pv06. The gene encodes the
-    enzyme Flavonoid 3',5'-hydroxylase (F3’5’H), a member of the cytochrome P450
-    family. F3’5’H converts the dihydroflavonols named dihydrokaempferol (DHK)
-    and dihydroquercetin (DHQ) to dihydromyricetin (DHM), a precursor of the
-    blue-to-red pH-sensitive plant pigment delphinidin and its anthocyanin
-    derivatives (Liu, Yang et al., 2023).
+  - The classical V (violet, purple) locus of Phaseolus vulgaris functions
+    alongside other genes to control colors of seed coats and flowers as well as
+    flavonoid content (McClean, Lee et al., 2022).
+  - Solely those genotypes carrying the dominant V allele were found to produce
+    the anthocyanin named delphinidin 3-O-glucoside in seed coats. The colors of
+    these lines ranged from blue to black (Beninger and Hosfield, 2003).
+  - A candidate gene for the V locus, suggested by flavonoid analysis and
+    recombinational mapping, was found in a narrow interval on chromosome Pv06
+    (McClean, Lee et al., 2022). Another study found Phvul.006G018800, the
+    candidate gene for Purple Mutation (PvPUR), was localized to the 243.9-kb
+    region of chromosome Pv06 (Liu, Yang et al., 2023).
   - Eight recessive haplotypes of the V locus, defined by mutations of key
     functional domains required for P450 activities, evolved independently in
     the two bean gene pools from a common ancestral gene (McClean, Lee et al.,
@@ -43,23 +28,33 @@ comments:
   - Evidence that V encodes F3′5′H was provided by the discovery of the vlae
     [M0056] white-flowering haplotype. M0056 was produced by a natural
     intragenic recombination event between the vlae [MDRK] (pink flower) and v
-    [Mex235] (white flower) haplotypes. A deletion was introduced to the vlae
-    [MDRK] haplotype, resulting in a frame-shift stop codon that eliminated the
-    essential heme-binding and SRS6 regions. This recombination event is a
-    natural equivalent to gene editing in a species, P. vulgaris, in which such
-    complementation technologies have yet to be developed. When a section of the
-    candidate gene is deleted, and the resultant progeny shows a phenotypic
-    change, the candidate gene is revealed as the causative gene for the
-    phenotype (McClean, Lee et al., 2022).
-  - Six single-base mutations within the coding region of PvPUR altered the
-    protein structure of F3’5’H resulting in the purple phenotype (Liu, Yang et
-    al., 2023).
+    [Mex235] (white flower) haplotypes. A deletion introduced to the vlae [MDRK]
+    haplotype resulted in a frame-shift stop codon that eliminated the essential
+    heme-binding and SRS6 regions. This recombination event is a natural
+    equivalent to gene editing in a species, P. vulgaris, in which such
+    complementation technologies have yet to be developed (McClean, Lee et al.,
+    2022).
+  - Purple mutants of snap beans (Phaseolus vulgaris) exhibited purple
+    cotyledons, hypocotyls, stems, leaf veins, flower and pod tissues (Liu, Yang
+    et al., 2023). Levels of total anthocyanins, delphinidins, and malvidins in
+    purple-mutant pods were significantly higher than in wild-type plants (Liu,
+    Yang et al., 2023). Six single-base mutations within the coding region of
+    PvPUR altered the protein structure of F3’5’H resulting in the purple
+    phenotype (Liu, Yang et al., 2023).
   - To validate the candidate gene's function, Arabidopsis thaliana were
     transformed using wild-type and purple-mutant common bean alleles. Compared
     with the wild-type Arabidopsis, the leaf bases and internodes of plants
     receiving the purple-mutant allele were purple, whereas the phenotypes of
     Arabidopsis transformed with the wild-type allele remained unaffected (Liu,
     Yang et al., 2023).
+  - Protein and domain modeling determined the V gene encodes the enzyme
+    Flavonoid 3′,5′-hydroxylase (F3′5′H) (McClean, Lee et al., 2022). This
+    member of the cytochrome P450 family is required for the expression of
+    dihydromyricetin-derived flavonoids (McClean, Lee et al., 2022).
+    Specifically, F3’5’H converts the dihydroflavonols named dihydrokaempferol
+    (DHK) and dihydroquercetin (DHQ) to dihydromyricetin (DHM), a precursor of
+    the blue-to-red pH-sensitive plant pigment delphinidin and its anthocyanin
+    derivatives (Liu, Yang et al., 2023).
 phenotype_synopsis: The gene Purple Mutation (PvPUR) impacts anthocyanin
   biosynthesis in common bean and results in purple coloration of many tissues.
 traits:
