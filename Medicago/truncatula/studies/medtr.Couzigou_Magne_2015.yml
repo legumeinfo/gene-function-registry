@@ -21,8 +21,8 @@ phenotype_synopsis: MtNOOT1 is necessary for fruit abscission and primary root d
 traits:
   - entity_name: root development trait
     entity: TO:0000656
-  - entity_name: flower abscission zone morphology trait
-    entity: TO:0000861
+  - entity_name: fruit senescing quality trait
+    entity: TO:0002729
   - entity_name: fruit abscission
     entity: GO:0060867
   - entity_name: floral organ abscission
