@@ -18,6 +18,10 @@ comments:
   - MtLOG1 and MtLOG2 share 87.8% similarity
 phenotype_synopsis: MtLOG1 negatively regulates lateral root formation and nodule formation and produces cytokinins
 traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
   - entity_name: negative regulation of lateral root development
     entity: GO:1901332
   - entity_name: nodulation
@@ -44,6 +48,10 @@ comments:
   - MtLOG1 and MtLOG2 share 87.8% similarity
 phenotype_synopsis: MtLOG2 negatively regulates nodulation and produces cytokinins
 traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
   - entity_name: nodulation
     entity: GO:0009877
   - entity_name: cytokinin biosynthetic process
