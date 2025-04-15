@@ -5,21 +5,28 @@ gene_symbols:
 gene_symbol_long: CLAVATA 2
 gene_model_pub_name: Medtr7g079550
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g079550
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - MtCLV2 is found in the ER and the plasma membrane
   - MtCLV2 can form homomers with MtCRN and SUNN
   - MtCLV2 is trancribed in both the roots and shoots of Medicago
-phenotype_synopsis: MtCLV2 regulates root nodule number
+  - Inactivation of the PsClv2 causes hypernodulation of the roots
+  - PsClv2 mutants had shorter internode length between flowering nodes compared to the WT
+phenotype_synopsis: MtCLV2 regulates root nodule number and internode length
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
 references:
-  - citation: Crook, Schnabel etal., 2016
+  - citation: Crook, Schnabel et al., 2016
     doi: 10.1111/tpj.13234
     pmid: 27296908
+  - citation: Krusell, Sato et al., 2010
+    doi: 10.1111/j.1365-313X.2010.04474.x
+    pmid: 21276104
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
@@ -35,14 +42,25 @@ comments:
   - MtCRN is found in the ER and the plasma membrane
   - MtCLV2 can form homomers with MtCRN and SUNN
   - MtCRN is trancribed in both the roots and shoots of Medicago
-phenotype_synopsis: MtCRN regulates root nodule number
+  - AtCRN muntants increase the size of floral meristems and floral organ number compared to the WT
+  - CRN function is not required for root meristem development, it is involved in transmitting CLE signals that inhibit its activity
+phenotype_synopsis: MtCRN regulates root nodule number, floral organ number and root meristem activity
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
+  - entity_name: root meristem development
+    entity: TO:0002692
+  - entity_name: floral organ number
+    entity: TO:0006038
+  - entity_name: floral organ size
+    entity: TO:0002600
 references:
-  - citation: Crook, Schnabel etal., 2016
+  - citation: Crook, Schnabel et al., 2016
     doi: 10.1111/tpj.13234
     pmid: 27296908
+  - citation: Muller, Bleckmann et al., 2008
+    doi: 10.1105/tpc.107.057547
+    pmid: 18381924
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
