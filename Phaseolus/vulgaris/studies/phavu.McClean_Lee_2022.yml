@@ -54,12 +54,20 @@ comments:
     Specifically, F3’5’H converts the dihydroflavonols named dihydrokaempferol
     (DHK) and dihydroquercetin (DHQ) to dihydromyricetin (DHM), a precursor of
     the blue-to-red pH-sensitive plant pigment delphinidin and its anthocyanin
-    derivatives (Liu, Yang et al., 2023).
+    derivatives such as delphinidin 3-O-glucoside (Liu, Yang et al., 2023).
 phenotype_synopsis: The gene Purple Mutation (PvPUR) impacts anthocyanin
   biosynthesis in common bean and results in purple coloration of many tissues.
 traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
   - entity_name: anthocyanin content
     entity: TO:0000071
+  - entity_name: seed coat color
+    entity: TO:0000190
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: pericarp color
+    entity: TO:0000707
 references:
   - citation: McClean, Lee et al., 2022
     doi: 10.3389/fpls.2022.869582
