@@ -10,8 +10,7 @@ confidence: 5
 curators:
   - Wei Huang
 comments:
-  - 
-  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350 and Glyma18g06950) in the soybean genome with relatively little variation. 
+  - There are four FAD3 homologs (Glyma02g39230, Glyma11g27190, Glyma14g37350 and Glyma18g06950) in the soybean genome with relatively little variation.
   - Combining three non-functional alleles (GmFAD3-1a, GmFAD3-1b, and GmFAD3-2a), soybean lines containing < 2% α-linolenic acid in their seeds were generated.
 phenotype_synopsis: GmFAD3-2a plays a critical role in the production of the seed oil α-linolenic acid, and mutations within GmFAD3-2a reduces α-linolenic acid content.
 traits:
@@ -39,7 +38,7 @@ curators:
   - Wei Huang
 comments:
   - GmFAD3-1a (Glyma02g39230) is one of the FAD3 genes that, along with GmFAD3-1b and GmFAD3-2a, are expressed in soybean seeds and control ALA content in the seed oil.
-  - Non-functional alleles for both GmFAD3-1a and another homolog, GmFAD3-1b (Glyma14g37350), as contributing factors to the overall reduction of α-linolenic acid levels.  
+  - Non-functional alleles for both GmFAD3-1a and another homolog, GmFAD3-1b (Glyma14g37350), as contributing factors to the overall reduction of α-linolenic acid levels.
 phenotype_synopsis: By combining non-functional alleles of GmFAD3-1a, GmFAD3-1b, and GmFAD3-2a, soybean lines with reduced ALA content (<2%) in their seeds were obtained.
 traits:
   - entity_name: alpha-linolenic acid content
