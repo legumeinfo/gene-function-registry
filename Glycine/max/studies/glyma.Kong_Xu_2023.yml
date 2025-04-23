@@ -1,0 +1,30 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmVPS8a
+gene_symbol_long: Vacuolar Protein Sorting 8
+gene_model_pub_name: Glyma.07g049700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07g049700
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - GmVPS8a plays a conserved and essential role in plant leaf and shoot
+    development.
+  - Dysfunction of GmVPS8a mainly affects pathways on auxin signal transduction,
+    sugar transport and metabolism, and lipid metabolism.
+phenotype_synopsis: Dysfunction of GmVPS8a causes compact plant architecture in soybean.
+traits:
+  - entity_name: multi-tissue plant structure growth and development trait
+    entity: TO:0000926
+  - entity_name: protein content
+    entity: TO:0000598
+  - entity_name: intracellular protein transport
+    entity: GO:0006886
+  - entity_name: vesicle-mediated transport
+    entity: GO:0016192
+references:
+  - citation: Kong, Xu et al., 2023
+    doi: 10.1016/j.plantsci.2023.111677
+    pmid: 36931563
+
