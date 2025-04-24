@@ -12,17 +12,30 @@ curators:
 comments:
   - The classical V (violet, purple) locus of Phaseolus vulgaris functions
     alongside other genes to control colors of seed coats and flowers as well as
-    flavonoid content (McClean, Lee et al., 2022).
+    flavonoid content. Plants with the dominant V allele are purple-flowered
+    whereas homozygous recessive plants exhibit white (v) or pink (v-lae)
+    flowers. The dominant V allele is associated with black-seeded beans in the
+    presence of dominant B and G alleles, and recessive v alleles produce seeds
+    without dihydromyricetin-derived flavonoids (McClean, Lee et al., 2022).
   - Solely those genotypes carrying the dominant V allele were found to produce
     the anthocyanin named delphinidin 3-O-glucoside in seed coats. The colors of
     these lines ranged from blue to black (Beninger and Hosfield, 2003).
-  - Biochemical analysis of introgression lines, which shared a genetic
-    background but incorporated different recessive v alleles, showed that
-    dihydromyricetin-related compounds (e.g.,delphinidin) were greatly reduced
-    in seeds and flowers with recessive v alleles (McClean, Lee et al., 2022).
+  - Phytochemical analysis showed that dihydromyricetin-related compounds
+    (e.g.,delphinidin 3-glucoside and myricetin 3-glucoside) were absent in
+    flowers from introgression lines with recessive v alleles, greatly reduced
+    in seed coats of pink-flowered v-lae lines, and absent in the seed coats of
+    white-flowered v lines. The purple-flowered V dominant-allele lines had
+    flowers and seeds containing these compounds that were known to require the
+    active F3′5′H enzyme (McClean, Lee et al., 2022).
   - McClean, Lee et al. (2022) physically mapped the V locus to a narrow
     interval surrounding a F3′5′H candidate gene model (Phvul.006G018800) on
-    chromosome Pv06. Additionally, Garcia-Fernandez, Campa et al. (2021) mapped
+    chromosome Pv06. This low recombination heterochromoatic region of the
+    chromosome resisted fine-mapping and RAPD marker OD12-800 and 15 indels all
+    co-segregated with V. Knowing that the V locus was associated with the
+    F3′5′H enzyme, a search for gene models with the F3′5′H KEGG identifier
+    K13083 within the suspected Pv06 region of the reference Andean genome
+    G19833 revealed the gene model Phvul.006G018800.
+  - Additionally, Garcia-Fernandez, Campa et al. (2021) mapped
     a ‘TU’ × ‘Musica’ recombinant-inbred line (RIL) population and showed that
     one of two genes responsible for a black seed coat phenotype was localized
     to a region of Pv06 associated with classical locus V. They also proposed
@@ -30,14 +43,17 @@ comments:
     candidate V gene. Yet another study found Phvul.006G018800, now the
     candidate gene for Purple Mutation (PvPUR), was localized to the 243.9-kb
     region of Pv06 (Liu, Yang et al., 2023).
-  - Eight recessive haplotypes of the V locus, defined by mutations of key
-    functional domains required for P450 activities, evolved independently in
-    the two bean gene pools from a common ancestral gene (McClean, Lee et al.,
-    2022).
-  - Evidence that V encodes F3′5′H was provided by the discovery of the vlae
+  - Eight recessive haplotypes of the V locus that control pink or white flower
+    color, defined by mutations of key functional domains required for P450
+    activities, evolved independently in the two bean gene pools from a common
+    ancestral gene. The white v[Mex235] haplotype was discovered in both Andean
+    and Mesoamerican gene pools indicating its early appearance. The other
+    haplotypes were gene pool-specific, including the v-lae pink-flowered
+    haplotypes in the Andean gene pool (McClean, Lee et al., 2022).
+  - Evidence that V encodes F3′5′H was provided by the discovery of the v-lae
     [M0056] white-flowering haplotype. M0056 was produced by a natural
-    intragenic recombination event between the vlae [MDRK] (pink flower) and v
-    [Mex235] (white flower) haplotypes. A deletion introduced to the vlae [MDRK]
+    intragenic recombination event between the v-lae [MDRK] (pink flower) and v
+    [Mex235] (white flower) haplotypes. A deletion introduced to the v-lae [MDRK]
     haplotype resulted in a frame-shift stop codon that eliminated the essential
     heme-binding and SRS6 regions. This recombination event is a natural
     equivalent to gene editing in a species, P. vulgaris, in which such
@@ -62,8 +78,10 @@ comments:
     dihydromyricetin-derived flavonoids (McClean, Lee et al., 2022).
     Specifically, F3’5’H converts the dihydroflavonols named dihydrokaempferol
     (DHK) and dihydroquercetin (DHQ) to dihydromyricetin (DHM), a precursor of
-    the blue-to-red pH-sensitive plant pigment delphinidin, its methylated derivatives such as petunidin and malvidin, and its glycoside-containing anthocyanin
-    derivatives such as delphinidin 3-O-glucoside (Liu, Yang et al., 2023).
+    the blue-to-red pH-sensitive plant pigment delphinidin, its methylated
+    derivatives such as petunidin and malvidin, and its glycoside-containing
+    anthocyanin derivatives such as delphinidin 3-O-glucoside (Liu, Yang et al.,
+    2023).
 phenotype_synopsis: The gene Purple Mutation (PvPUR) impacts anthocyanin
   biosynthesis in common bean and results in purple coloration of many tissues.
 traits:
