@@ -43,13 +43,15 @@ comments:
     candidate V gene. Yet another study found Phvul.006G018800, now the
     candidate gene for Purple Mutation (PvPUR), was localized to the 243.9-kb
     region of Pv06 (Liu, Yang et al., 2023).
-  - Eight recessive haplotypes of the V locus that control pink or white flower
-    color, defined by mutations of key functional domains required for P450
-    activities, evolved independently in the two bean gene pools from a common
-    ancestral gene. The white v[Mex235] haplotype was discovered in both Andean
-    and Mesoamerican gene pools indicating its early appearance. The other
-    haplotypes were gene pool-specific, including the v-lae pink-flowered
-    haplotypes in the Andean gene pool (McClean, Lee et al., 2022).
+  - Nine total P. vulgaris F3′5′H CDS haplotypes were discovered among the
+    screened genotypes. Eight recessive haplotypes of the V locus that control
+    pink or white flower color, defined by mutations of key functional domains
+    required for P450 activities, evolved independently in the two bean gene
+    pools from a common ancestral gene. The white v[Mex235] haplotype was
+    discovered in both Andean and Mesoamerican gene pools indicating its early
+    appearance. The other haplotypes were gene pool-specific, including the
+    v-lae pink-flowered haplotypes in the Andean gene pool (McClean, Lee et al.,
+    2022).
   - Evidence that V encodes F3′5′H was provided by the discovery of the v-lae
     [M0056] white-flowering haplotype. M0056 was produced by a natural
     intragenic recombination event between the v-lae [MDRK] (pink flower) and v
@@ -73,15 +75,19 @@ comments:
     Arabidopsis transformed with the wild-type allele remained unaffected (Liu,
     Yang et al., 2023).
   - Protein and domain modeling determined the V gene encodes the enzyme
-    Flavonoid 3′,5′-hydroxylase (F3′5′H) (McClean, Lee et al., 2022). This
-    member of the cytochrome P450 family is required for the expression of
-    dihydromyricetin-derived flavonoids (McClean, Lee et al., 2022).
-    Specifically, F3’5’H converts the dihydroflavonols named dihydrokaempferol
-    (DHK) and dihydroquercetin (DHQ) to dihydromyricetin (DHM), a precursor of
-    the blue-to-red pH-sensitive plant pigment delphinidin, its methylated
-    derivatives such as petunidin and malvidin, and its glycoside-containing
-    anthocyanin derivatives such as delphinidin 3-O-glucoside (Liu, Yang et al.,
-    2023).
+    Flavonoid 3′,5′-hydroxylase (F3′5′H), a member of the cytochrome P450 family
+    (McClean, Lee et al., 2022). Sequence analysis of Phvul.006G018800 protein
+    identified six conserved substrate recognition sites (SRS) and the four
+    functional motifs typical of Cytochrome P enzymes. Almost all these domain
+    sequences were nearly the same as the functional F3′5′H domains of other
+    legumes.
+  - F3'5'H is is required for the expression of dihydromyricetin-derived
+    flavonoids (McClean, Lee et al., 2022). Specifically, F3’5’H converts the
+    dihydroflavonols named dihydrokaempferol (DHK) and dihydroquercetin (DHQ) to
+    dihydromyricetin (DHM), a precursor of the blue-to-red pH-sensitive plant
+    pigment delphinidin, its methylated derivatives such as petunidin and
+    malvidin, and its glycoside-containing anthocyanin derivatives such as
+    delphinidin 3-O-glucoside (Liu, Yang et al., 2023).
 phenotype_synopsis: The gene Purple Mutation (PvPUR) impacts anthocyanin
   biosynthesis in common bean and results in purple coloration of many tissues.
 traits:
