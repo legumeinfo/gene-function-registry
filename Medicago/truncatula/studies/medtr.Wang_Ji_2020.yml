@@ -1,0 +1,40 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRH1
+gene_symbol_long: RED HEART 1
+gene_model_pub_name: XP_013442258
+gene_model_full_id:	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis: MtRH1 is a anthocyanin biosynthesis activator
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Wang, Li et al., 2020
+    doi: 10.1111/nph.17097
+    pmid: 33222243
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRH2
+gene_symbol_long: RED HEART 2
+gene_model_pub_name: XP_013442390
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229131
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Wang, Li et al., 2020
+    doi: 10.1111/nph.17097
+    pmid: 33222243
