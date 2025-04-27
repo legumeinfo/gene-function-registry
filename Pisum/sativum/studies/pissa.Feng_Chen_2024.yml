@@ -5,7 +5,7 @@ gene_symbols:
   - PsChlG
 gene_symbol_long: Chlorophyll synthase
 gene_model_pub_name: Psat03G0413700
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g126440
 confidence: 4
 curators:
   - Raegan Nelson
@@ -29,7 +29,7 @@ gene_symbols:
   -PsSBE1
 gene_symbol_long: Starch Branching Enzyme 1
 gene_model_pub_name: Psat03G0136800
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g034640
 confidence: 5
 curators:
   - Raegan Nelson
@@ -50,7 +50,7 @@ gene_symbols:
   - PsSGR
 gene_symbol_long: Stay green
 gene_model_pub_name: Psat02G0529500
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat2g181040
 confidence: 5
 curators:
   - Raegan Nelson
@@ -72,7 +72,7 @@ classical_locus: A
 gene_symbols:
   - PsbHLH
 gene_model_pub_name: Psat06G0169800
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat6g060480
 confidence: 5
 curators:
   - Raegan Nelson
@@ -93,7 +93,7 @@ gene_symbols:
   - PsGA3OX1
 gene_symbol_long: GA 3-oxidase 1
 gene_model_pub_name: Psat03G0413700
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g126440
 confidence: 5
 curators:
   - Raegan Nelson
@@ -113,7 +113,7 @@ classical_locus: P
 gene_symbols:
   - PsCLE41
 gene_model_pub_name: Psat01G0420500
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat1g151160
 confidence: 5
 curators:
   - Raegan Nelson
@@ -138,7 +138,7 @@ gene_symbols:
   - PsCIK1
 gene_symbol_long: CLAVATA3 INSENSITIVE RECEPTOR KINASES 1
 gene_model_pub_name: Psat04G0031700
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat0s2289g0040
 confidence: 4
 curators:
   - Raegan Nelson
