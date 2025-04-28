@@ -9,9 +9,9 @@ confidence: 5
 curators:
   - Wei Huang
 comments:
-  - GmVPS8a plays a conserved and essential role in plant leaf and shoot development.
-  - Dysfunction of GmVPS8a mainly affects pathways on auxin signal transduction, sugar transport and metabolism, and lipid metabolism.
-phenotype_synopsis: Mutation in the gene causes shorter plant height, shorter petiole length and uneven leaf width.
+  - GmVPS8a plays a conserved and essential role in controlling plant architecture. 
+  - This study revealed that GmVPS8a influences key pathways involved in auxin signaling, sugar transport, and lipid metabolism, which collectively modulate plant growth and development.
+phenotype_synopsis: Mutation of GmVPS8a leads to a compact plant architecture characterized by shorter plant height, reduced leaf petiole length, and altered leaf shape.
 traits:
   - entity_name: plant height
     entity: TO:0000207
