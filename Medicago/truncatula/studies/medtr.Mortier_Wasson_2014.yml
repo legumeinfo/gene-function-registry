@@ -3,14 +3,14 @@ scientific_name: Medicago truncatula
 gene_symbols:
   - MtLOG1
 gene_symbol_long: LONELY GUY 1
-gene_model_pub_name: Medtr0041s0100
-gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr0041s0100
+gene_model_pub_name: Medtr7g101290
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g101290
 confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - MtLOG1 expression depends on CRE1 (a gene that is essential for nodule organ formation)
-  - MtLOG1 expression does not require CRE1 in the lateral root primordia
+  - MtLOG1 expression depends on MtCRE1 (a gene that is essential for nodule organ formation)
+  - MtLOG1 expression does not require MtCRE1 in the lateral root primordia
   - Overexpression of MtLOG1 leads to larger lateral root density and expansion of vascular tissue
   - Overexpression of MtLOG1 leads to a reduced number of nodules
   - MtLOG1 could be involved in MtCLE13 expression during nodulation
@@ -43,7 +43,7 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - MtLOG2 expression depends on CRE1 (a gene that is essential for nodule organ formation)
+  - MtLOG2 expression depends on MtCRE1 (a gene that is essential for nodule organ formation)
   - MtLOG2 is involved in cytokinin production
   - MtLOG1 and MtLOG2 share 87.8% similarity
 phenotype_synopsis: MtLOG2 negatively regulates nodulation and produces cytokinins
