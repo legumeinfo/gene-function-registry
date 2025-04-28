@@ -13,12 +13,17 @@ comments:
     development.
   - Dysfunction of GmVPS8a mainly affects pathways on auxin signal transduction,
     sugar transport and metabolism, and lipid metabolism.
-phenotype_synopsis: Dysfunction of GmVPS8a causes compact plant architecture in soybean.
+phenotype_synopsis: Mutation in the gene causes shorter plant height, shorter
+  petiole length and uneven leaf width.
 traits:
-  - entity_name: multi-tissue plant structure growth and development trait
-    entity: TO:0000926
-  - entity_name: protein content
-    entity: TO:0000598
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: petiole length
+    entity: TO:0000766
+  - entity_name: leaf width
+    entity: TO:0000370
+  - entity_name: protein binding
+    entity: GO:0005515
   - entity_name: intracellular protein transport
     entity: GO:0006886
   - entity_name: vesicle-mediated transport
@@ -27,4 +32,3 @@ references:
   - citation: Kong, Xu et al., 2023
     doi: 10.1016/j.plantsci.2023.111677
     pmid: 36931563
-
