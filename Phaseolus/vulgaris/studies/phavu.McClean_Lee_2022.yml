@@ -2,8 +2,9 @@
 scientific_name: Phaseolus vulgaris
 classical_locus: V
 gene_symbols:
+  - PvV
   - PvPUR
-gene_symbol_long: Purple Mutation
+gene_symbol_long: Violet
 gene_model_pub_name: Phvul.006G018800
 gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.006G018800
 confidence: 5
@@ -47,20 +48,25 @@ comments:
     screened genotypes. Eight recessive haplotypes of the V locus that control
     pink or white flower color, defined by mutations of key functional domains
     required for P450 activities, evolved independently in the two bean gene
-    pools from a common ancestral gene. The white v[Mex235] haplotype was
-    discovered in both Andean and Mesoamerican gene pools indicating its early
-    appearance. The other haplotypes were gene pool-specific, including the
-    v-lae pink-flowered haplotypes in the Andean gene pool (McClean, Lee et al.,
-    2022).
-  - Evidence that V encodes F3′5′H was provided by the discovery of the v-lae
-    [M0056] white-flowering haplotype. M0056 was produced by a natural
-    intragenic recombination event between the v-lae [MDRK] (pink flower) and v
-    [Mex235] (white flower) haplotypes. A deletion introduced to the v-lae [MDRK]
-    haplotype resulted in a frame-shift stop codon that eliminated the essential
-    heme-binding and SRS6 regions. This recombination event is a natural
-    equivalent to gene editing in a species, P. vulgaris, in which such
-    complementation technologies have yet to be developed (McClean, Lee et al.,
-    2022).
+    pools from a common ancestral dominant haplotype V-[5-593]. V-[5-593]
+    expression caused purple flowers in both Middle American and Andean gene
+    pools. The white v-[Mex235] haplotype was discovered in both Andean and
+    Mesoamerican gene pools indicating its early appearance. The other
+    haplotypes were gene pool-specific, including the v-lae pink-flowered
+    haplotypes in the Andean gene pool (McClean, Lee et al., 2022).
+  - Definitive evidence that V encodes F3′5′H was provided by the discovery of
+    the v-[M0056] white-flowering haplotype. This v-[M0056] was produced by a
+    natural intragenic crossover event between the v-lae[MDRK] (pink flower) and
+    v-[Mex235] (white flower) haplotypes. The 14-nt deletion within the
+    v-[Mex235] chromosome resulted in a frame-shift stop codon that eliminated
+    the heme-binding domain and SRS6 regions of F3'5'H. The v-[M0056]
+    recombinant haplotype contains the 5′-end of v-lae[MDRK] alongside the
+    3′-end of v-[Mex235] that removed F3'5'H functionality. Experimentally, if a
+    section of a candidate gene were to be deleted and a phenotypic change
+    observed, one would conclude that the candidate gene was validated. This
+    recombination event is a natural equivalent to gene editing in a species, P.
+    vulgaris, in which complementation technologies have yet to be developed
+    (McClean, Lee et al., 2022).
   - Purple mutants of snap beans (Phaseolus vulgaris) exhibited purple
     cotyledons, hypocotyls, stems, leaf veins, flower and pod tissues (Liu, Yang
     et al., 2023). Levels of total anthocyanins, delphinidins, and malvidins in
