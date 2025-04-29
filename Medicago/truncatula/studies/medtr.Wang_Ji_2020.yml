@@ -39,7 +39,7 @@ comments:
   - MtRH2 does not activate anthocyanin biosynthetic genes
   - MtRH2 and MtRH1 are paralogs
   - MtRH2 negatively regulates leaf anthocyanin markings by competing with RH1 in the MBW regulatory complex
-phenotype_synopsis: MtRH2 negatively regulates MtRH1 
+phenotype_synopsis: MtRH2 negatively regulates MtRH1
 traits:
   - entity_name: anthocyanin content
     entity: TO:0000071
