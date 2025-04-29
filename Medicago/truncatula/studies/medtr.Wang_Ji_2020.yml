@@ -4,7 +4,7 @@ gene_symbols:
   - MtRH1
 gene_symbol_long: RED HEART 1
 gene_model_pub_name: XP_013442258
-gene_model_full_id:	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
 confidence: 5
 curators:
   - Raegan Nelson
