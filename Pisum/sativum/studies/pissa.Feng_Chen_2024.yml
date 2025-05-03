@@ -21,7 +21,8 @@ traits:
     entity: TO:0000495
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
 ---
 scientific_name: Pisum sativum
 classical_locus: R
@@ -42,7 +43,8 @@ traits:
     entity: TO:0000903
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
 ---
 scientific_name: Pisum sativum
 classical_locus: I
@@ -65,7 +67,8 @@ traits:
     entity: TO:0000750
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
 ---
 scientific_name: Pisum sativum
 classical_locus: A
@@ -85,7 +88,8 @@ traits:
     entity: TO:0000537
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
 ---
 scientific_name: Pisum sativum
 classical_locus: Le
@@ -106,7 +110,8 @@ traits:
     entity: TO:0000756
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
 ---
 scientific_name: Pisum sativum
 classical_locus: P
@@ -130,7 +135,8 @@ traits:
     entity: TO:0000928
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
 ---
 scientific_name: Pisum sativum
 classical_locus: Fa
@@ -153,4 +159,5 @@ traits:
     entity: PO:0020144
 references:
   - citation: Feng, Chen et al., 2024
-    doi: 10.1101/2024.05.31.596837v1.full
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
