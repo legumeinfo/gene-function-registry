@@ -1,0 +1,31 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtDNF2
+gene_symbol_long: DEFECTIVE NITROGEN FIXATION 2
+gene_model_pub_name: Medtr4g085800
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g085800 
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtDNF2 knockouts were smaller than WT plants and displayed chlorosis and anthocyanin accumulation, all of which are associated with nitrogen deficiency
+  - MtDNF2 mutants also displayed more root nodules thatn WT, but they were also smaller then WT nodules
+  - At least five splice variants exist for the primary MtDNF2 transcript
+  - MtDNF2 is expressed specifically in nodules in the invasion zone and interzone II–III
+  - The senescence zone appeared earlier in mutant MtDNF2 nodules than in the WT
+  - MtDNF2 is required to produce differentiated bacteroids and to prevent bacterial cell death in infected nodule cells
+phenotype_synopsis: MtDNF2 is required for nitrogen fixation
+traits:
+  - entity_name: nitrogen content
+    entity: TO:0020093
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: host bacteroid-containing symbiosome
+    entity: GO:0043663
+references:
+  - citation: Bourcy, Brocard et al., 2012
+    doi: 10.1111/nph.12091
+    pmid: 23278348
