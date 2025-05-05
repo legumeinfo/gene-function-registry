@@ -4,7 +4,7 @@ gene_symbols:
   - MtDNF2
 gene_symbol_long: DEFECTIVE NITROGEN FIXATION 2
 gene_model_pub_name: Medtr4g085800
-gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g085800 
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g085800
 confidence: 5
 curators:
   - Raegan Nelson
