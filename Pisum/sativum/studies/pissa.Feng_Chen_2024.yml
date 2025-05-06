@@ -96,8 +96,8 @@ classical_locus: Le
 gene_symbols:
   - PsGA3OX1
 gene_symbol_long: GA 3-oxidase 1
-gene_model_pub_name: Psat03G0413700
-gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g126440
+gene_model_pub_name: Psat05G0825300
+gene_model_full_id:
 confidence: 5
 curators:
   - Raegan Nelson
@@ -157,6 +157,27 @@ traits:
     entity: TO:0006020
   - entity_name: apical meristem
     entity: PO:0020144
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: V
+gene_symbols:
+  - Ps
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - 
+phenotype_synopsis: 
+traits:
+  - entity_name:
+    entity:
 references:
   - citation: Feng, Chen et al., 2024
     doi: 10.1038/s41586-025-08891-6
