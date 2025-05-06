@@ -1,0 +1,51 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRH1
+gene_symbol_long: RED HEART 1
+gene_model_pub_name: XP_013442258
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Upregulation of MtRH1 leads to enhanced leaf marking
+  - MtRH1 activates anthocyanin biosynthetic genes
+  - MtRH1 expression is primarily confinded to the red markings on the leaves
+  - MtRH1 expression is mediated by binding to specific promoter regions and competes with MtRH2
+  - MtRH2 and MtRH1 are paralogs
+phenotype_synopsis: MtRH1 is a positive regulator of anthocyanin biosynthesis
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: positive regulation of anthocyanin biosynthetic process
+    entity: GO:0031542
+references:
+  - citation: Wang, Li et al., 2020
+    doi: 10.1111/nph.17097
+    pmid: 33222243
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRH2
+gene_symbol_long: RED HEART 2
+gene_model_pub_name: XP_013442390
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229131
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtRH2 negativly regulates leaf markings
+  - MtRH2 does not activate anthocyanin biosynthetic genes
+  - MtRH2 and MtRH1 are paralogs
+  - MtRH2 negatively regulates leaf anthocyanin markings by competing with RH1 in the MBW regulatory complex
+phenotype_synopsis: MtRH2 negatively regulates MtRH1
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: negative regulation of anthocyanin biosynthetic process
+    entity: GO:0031541
+references:
+  - citation: Wang, Li et al., 2020
+    doi: 10.1111/nph.17097
+    pmid: 33222243
