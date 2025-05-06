@@ -1,0 +1,55 @@
+---
+scientific_name: Medicago Truncatula
+gene_symbols:
+  - MtAGa
+gene_symbol_long: AGAMOUS a
+gene_model_pub_name: KF159804
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr2g0284911
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtAGa transcripts were detected throughout the floral meristem including the petal and sepal primordia
+  - MtAGa and MtAGb are largely restricted to devloping the male and female floral organs in the early stages of flower development
+  - MtAGa overexpression causes the conversion of sepals and petals into carpels and stamens
+  - The transcription factor LFY activates MtAGa
+phenotype_synopsis: MtAGa controls stamen and carpel development
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: stamen development
+    entity: GO:0048443
+  - entity_name: carpel development
+    entity: GO:0048440
+references:
+  - citation: Serwatowska, Roque et al., 2014
+    doi: 10.1371/journal.pone.0103770
+    pmid: 25105497
+---
+scientific_name: Medicago Truncatula
+gene_symbols:
+  - MtAGb
+gene_symbol_long: AGAMOUS b
+gene_model_pub_name: KF159805
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr8g0380021
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtAGb transcripts accumulate in the centre of the floral primordia before migrating to the common primordia which will give rise to the stamens and the central part of the floral apex where the carpel is developing
+  - MtAGa and MtAGb are largely restricted to devloping the male and female floral organs in the early stages of flower development
+  - MtAGb overexpression causes the conversion of sepals and petals into carpels and stamens
+  - MTAGb is more efficent at at inducing reproductive organ fate when overexpressed compared to MTAGa
+  - The transcription factor LFY activates MtAGb
+phenotype_synopsis: MtAGb controls stamen and carpel development
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: stamen development
+    entity: GO:0048443
+  - entity_name: carpel development
+    entity: GO:0048440
+references:
+  - citation: Serwatowska, Roque et al., 2014
+    doi: 10.1371/journal.pone.0103770
+    pmid: 25105497
