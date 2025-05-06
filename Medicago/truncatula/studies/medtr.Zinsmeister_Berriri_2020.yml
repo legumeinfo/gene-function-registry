@@ -4,8 +4,8 @@ gene_symbols:
   - MtHSFA9
 gene_symbol_long: HEAT SHOCK FACTOR A 9
 gene_model_pub_name: Medtr4g126070
-gene_model_full_id:
-confidence:
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g126070
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
@@ -13,11 +13,13 @@ comments:
   - A moderate level of MtHSFA9 transcripts were found in stocks that were in severe drought
   - The absence of MtHSFA9 doubled the mean germenation time
   - MtHSFA9 plays a role in thermotolerance during wet storage
-  - MtHSFA9 regulates the depth of seed dormancy during late maturation
-phenotype_synopsis:
+  - MtHSFA9 regulates the depth of seed dormancy during late maturation by ABA signaling
+phenotype_synopsis: MtHSFA9 regulates seed dormancy and plays a role in thermotolerance
 traits:
-  - entity_name:
-    entity:
+  - entity_name: seed dormancy
+    entity: TO:0000253
+  - entity_name: seed dormancy process
+    entity: GO:0010162
 references:
   - citation: Zinsmeister, Berriri et al., 2020
     doi: 10.1111/pce.13853
