@@ -2,8 +2,8 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtGS2b
-gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE b
-gene_model_pub_name: Medtr2g021242
+gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE 2 b
+gene_model_pub_name: Medtr2g026360.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g021242
 confidence: 4
 curators:
@@ -27,8 +27,8 @@ references:
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtGS2a
-gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE a
-gene_model_pub_name: Medtr2g021255
+gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE 2 a
+gene_model_pub_name: Medtr2g026390.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g021255
 confidence: 5
 curators:
