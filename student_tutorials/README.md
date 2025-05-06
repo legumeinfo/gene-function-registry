@@ -2,19 +2,18 @@
 
 ### How to read and analyze a research paper
 
-[Ten simple rules for reading a scientific paper](/student_tutorials/Carery_Steiner_2020.pdf)
+[Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 
-[Art of reading a journal article](/student_tutorials/Subramanyam_2013.pdf)
+[Art of reading a journal article](https://journals.lww.com/jpat/fulltext/2013/17010/art_of_reading_a_journal_article__methodically_and.14.aspx)
 
 ### Practice Material
-- Within the (practice)[https://github.com/legumeinfo/gene-function-registry/tree/main/student_tutorials/practice) folder is a reserach paper and curatation document. 
+- Within the [practice](./practice) folder is a [reference to a scientific paper](https://academic.oup.com/jxb/article/68/3/469/2645555) and an example curatation document. 
 
 ### General SoyBase / LegumeInfo curation information
 <details>
 
 - We use a "Genus species" code for curation. We use the first three letters of the <b>gen</b>us and the first two letters of the <b>sp</b>ecies (Example: <i>Glycine max</i> == glyma)
 - Advanced gene function curation protocol can be found [here](https://github.com/legumeinfo/datastore-specifications/tree/main/PROTOCOLS/gene_functions)
-
 
 </details>
 
@@ -25,7 +24,6 @@
     - [Google Scholar](https://scholar.google.com/)
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
     - [PubAg / USDA National Ag Library](https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN&search_scope=pubag&tab=pubag)
-
 
 
 ### How to curate with GitHub
@@ -81,3 +79,4 @@
 - Short Answer: The confidence block is to have values 1 through 5.  This field indicates level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
 - Long Answer: The S-Tier level of 5, and to a lesser extent 4, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest.  A level of 3 would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation.  Levels 1 and 2 would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level 1 or 2 support.
 </details>
+
