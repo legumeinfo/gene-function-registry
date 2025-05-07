@@ -122,7 +122,7 @@ gene_symbol_long: Short vegetative stage 1
 gene_model_pub_name: Glyma01g02880
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G023500
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - GmSVP1 is found in all floral organs
@@ -148,7 +148,7 @@ gene_symbol_long: Short vegetative stage 2
 gene_model_pub_name: Glyma02g04710
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G041500
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - GmSVP2 is found in all floral organs
@@ -168,14 +168,14 @@ references:
     doi: 10.1007/s10725-016-0173-z
 ---
 scientific_name: Glycine max
-classical locus: D
+classical_locus: D
 gene_symbols:
   - GmFDL19
 gene_symbol_long: Flower Locus D-like 19
 gene_model_pub_name: Glyma19g30230
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G122800
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - Overexpression of GmFDL19 causes early flowering
@@ -200,7 +200,7 @@ gene_symbol_long: Cryptochrome 1a
 gene_model_pub_name: DQ401046
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G101500
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - GmCRY1a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
@@ -230,7 +230,7 @@ gene_symbol_long: Cryptochrome 2a
 gene_model_pub_name: DQ401047
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G180600
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - GmCRY2a is found in the nuclei of soybean leaf tissues and expressed throughout soybean development
@@ -257,7 +257,7 @@ gene_symbol_long: Vernalization 1-like
 gene_model_pub_name: Glyma11g13220
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G124200
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - GmVRN1-like is involved in the late flowering phenotype in soybeans
@@ -285,7 +285,7 @@ gene_symbol_long: APETALA1
 gene_model_pub_name: Glyma16g13070
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G091300
 confidence: 5
-curator:
+curators:
   - Raegan Nelson
 comments:
   - GmAP1 transcription was detected in both the apical inflorescence meristem and lateral floral meristems
