@@ -6,6 +6,8 @@ use YAML::PP;
 use YAML::PP::Common qw/ :PRESERVE /;
 use JSON::Parse 'parse_json';
 use Getopt::Long;
+use Text::Wrap;
+#use Data::Dumper;
 use utf8;
 use open qw( :std :encoding(UTF-8) );
 use feature "say";
@@ -21,15 +23,14 @@ my $usage = <<EOS;
 
   Required:
     -traits    Filename of yaml-format traits file (required).
-    -cit_out   Name of file file to hold doi, pmid, pmcid, and citation (required).
+    -cit_out   Name of file file to hold doi, pmid, and citation (required).
 
   Options:
-    -in_cit    Filename of four-column file with PubMed citation handles: 
-                 doi  pmid   pmcid  citation[author, author et al., year]
+    -in_cit    Filename of three-column file with PubMed citation handles: 
+                 doi  pmid   citation[author, author et al., year]
                If citations in the traits file are found in this file, the citation handles
                will be drawn from this file; otherwise, from the PubMed idconv citation service.
     -yml_out   Filename of yaml-format traits to write, filling in doi and/or pmid.
-    -doc_count Starting number for document count (comment at top of each yaml document). Default 1.
     -overwrite To overwrite the yml_out and cit_out files, if they exist already (boolean).
     -verbose   Write some status info to stderr.
     -help      This message (boolean).
@@ -37,8 +38,10 @@ EOS
 
 my ($traits, $help, $verbose, $yml_out, $cit_out, $in_cit);
 my $doc_count = 1;
-my $lookup_url = 'https://api.fatcat.wiki/v0/release/lookup';
+my $apibase = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
 my $overwrite=0;
+my $sleepytime=2;
+my $width = 80;  # Wrap at this number of characters
 
 GetOptions (
   "traits=s" =>   \$traits,  # required
@@ -75,22 +78,19 @@ if ($in_cit){
   while (<$CIT_IN_FH>){
     chomp;
     next unless /^(.*?)\t\s*/; 
-    my ($doi, $pmid, $pmcid, $cit_str) = split(/\t/, $_);
+    my ($doi, $pmid, $cit_str) = split(/\t/, $_);
     unless ( $doi eq "null" ){ $seen_doi{$doi}++ }
     unless ( $pmid eq "null" ){ $seen_pmid{$pmid}++ }
-    $cit_doi_HoA{$doi} = [$doi, $pmid, $pmcid, $cit_str];
-    $cit_pmid_HoA{$pmid} = [$doi, $pmid, $pmcid, $cit_str];
-    #print "$doi, $pmid, $pmcid, $cit_str\n";
+    $cit_doi_HoA{$doi} = [$doi, $pmid, $cit_str];
+    $cit_pmid_HoA{$pmid} = [$doi, $pmid, $cit_str];
+    #print "$doi, $pmid, $cit_str\n";
   }
 }
-
 
 my $yp = YAML::PP->new( preserve => YAML::PP::Common->PRESERVE_ORDER );
 my @yaml = $yp->load_file( $traits );
 
 for my $doc_ref ( @yaml ){
-  &printstr_yml( "## DOCUMENT $doc_count ##" );
-  if ($verbose){ warn "\nProcessing document $doc_count\n"; }
   &printstr_yml( "---" );
   while (my ($key, $value) = each (%{$doc_ref})){
     if ($key =~ /references/){
@@ -111,20 +111,21 @@ for my $doc_ref ( @yaml ){
         ## citation ##
         my $citation = $cit_elts[0];
         
-        #say "  == AA: ", join(", ", @cit_elts);
+        say "  == AA: ", join(", ", @cit_elts);
 
         ## other components: doi & pmid ##
         my ($doi, $pmid) = ( $cit_elts[1], $cit_elts[2] );
-        if ( $doi !~ /null|~/ ){ # get pmid (and all PubMed IDs) from doi
-          #say "CHECK: get_ids for doi $doi";
-          @pubmed_components = &get_ids("doi", $doi);
-        }
-        elsif ( $pmid !~ /null|~/ ){ # get doi (PubMed IDs) from pmid
-          #say "CHECK: get_ids for pmid $pmid";
+        if ( $pmid !~ /null|~/ ){ # get doi (PubMed IDs) from pmid
+          # say "CHECK: get_ids for pmid $pmid";
           @pubmed_components = &get_ids("pmid", $pmid);
         }
+        elsif ( $doi !~ /null|~/ ){ # get pmid (and all PubMed IDs) from doi
+          # say "CHECK: get_ids for doi $doi";
+          @pubmed_components = &get_ids("doi", $doi);
+        }
 
-        #say "  == BB: ", join(", ", @pubmed_components);
+        # say "  == BB: ", join(", ", @pubmed_components);
+        say "";
         $doi = $pubmed_components[0];
         $pmid = $pubmed_components[1];
         &printstr_yml( "  - citation: $citation" );
@@ -183,10 +184,13 @@ for my $doi (keys %cit_doi_HoA){
     if ($verbose){ warn "  == Retrieving and printing citation for $pmid\n"; }
     my $pubmed_request = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed/?format=citation&contenttype=json&id=$pmid";
     my $result_json = qx{curl --silent "$pubmed_request"};
+    sleep($sleepytime);
 
     # Parse the json result by converting it to a perl hash of hashes; then pull out the "nlm" "format" element.
     my $result_perl = parse_json ($result_json);
+    #say "\n", Dumper($result_perl), "\n";
     while ( my ($k, $v) = each %{$result_perl} ){
+      #say "\nCHECK: for $k: $v";
       if ($k =~ /nlm/){
         while ( my ($k2, $v2) = each %{$v} ){
           if ($k2 =~ /format/) { $nlm_cite = $v2 }
@@ -194,15 +198,30 @@ for my $doi (keys %cit_doi_HoA){
       }
     }
     
-    #say "$pmid:  \"$nlm_cite\"";
     say $CIT_OUT_FH join("\t", @{$cit_doi_HoA{$doi}}), "\t\"", $nlm_cite, "\"";
   }
-
 }
 
 #####################
 sub printstr_yml {
   my $str_to_print = shift;
+  my $wrapped;
+  $Text::Wrap::columns=$width;
+  if ($str_to_print =~ /^(\s+- )(\S+.+)/){
+    my $initial = $1;          # leading space-indent and dash
+    my $string_first_line= $2; # portion of string that is on the line of the key
+    my $subsequent = " "x(length($initial)); # spaces for indented lines
+    $wrapped = fill(" ", $subsequent, "$initial$string_first_line");
+    $str_to_print = $wrapped;
+  }
+  elsif ($str_to_print =~ /^(\S+): (\S+.+)/){
+    my $key = $1; 
+    my $val = $2; 
+    my $initial = "";      # No indent for first-level key 
+    my $subsequent = "  "; # two-space indent for wrapped text of first-level keys
+    $wrapped = fill("", $subsequent, "$key: $val");
+    $str_to_print = $wrapped;
+  }
   if ($YML_FH) {
     say $YML_FH $str_to_print;
   }
@@ -214,39 +233,43 @@ sub printstr_yml {
 sub get_ids {
   my $cit_type = shift;
   my $cit_id = shift;
-  my ($doi_str, $pmid_str, $pmcid_str, $citation) = qw(null null null null);
+  my ($doi_str, $pmid_str, $citation) = qw(null null null null);
   if ($cit_doi_HoA{$cit_id}){
-    ($doi_str, $pmid_str, $pmcid_str, $citation) = @{$cit_doi_HoA{$cit_id}};
-    if ($verbose){ warn "  == Filling in from cit_doi_HoA: $doi_str, $pmid_str, $pmcid_str, $citation\n"; }
+    ($doi_str, $pmid_str, $citation) = @{$cit_doi_HoA{$cit_id}};
+    if ($verbose){ warn "  == Filling in from cit_doi_HoA: $doi_str, $pmid_str, $citation\n"; }
   }
   elsif ($cit_pmid_HoA{$cit_id}){
-    ($doi_str, $pmid_str, $pmcid_str, $citation) = @{$cit_pmid_HoA{$cit_id}};
-    if ($verbose){ warn "  == Filling in from cit_pmid_HoA: $cit_id, $pmid_str, $pmcid_str, $citation\n"; }
+    ($doi_str, $pmid_str, $citation) = @{$cit_pmid_HoA{$cit_id}};
+    if ($verbose){ warn "  == Filling in from cit_pmid_HoA: $cit_id, $pmid_str, $citation\n"; }
   }
-  else { # get citation components from the fatcat citation service
+  else { # get citation components from the service
     if ($verbose){ warn "  == Retrieving PubMed ID components for type $cit_type, ID $cit_id\n" }
-    my $id_request;
+    my ($crossref_base, $ncbi_base, $curl_string);
     if ($cit_type =~ /doi/){
-      $id_request = "curl --silent $lookup_url\?doi\=$cit_id";
-      #say "  == EE: Lookup doi $cit_id: $id_request";
+      $crossref_base = "https://api.crossref.org/works";
+      $curl_string = "curl --silent \"$crossref_base/works/$cit_id\"";
+      say "  == EE: Lookup doi $cit_id: $curl_string";
     }
     elsif ($cit_type =~ /pmid/){
-      $id_request = "curl --silent $lookup_url\?pmid\=$cit_id";
-      #say "  == FF: Lookup pmid $cit_id: $id_request";
+      $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
+      $curl_string = "curl --silent \"$ncbi_base/?format=citation&id=$cit_id\""; 
+      say "  == FF: Lookup pmid $cit_id: $curl_string";
     }
     else {
       die "Unexpected ID type: [$cit_id].\n";
     }
-    #say "  == GG: $id_request";
-    my $json_response = `$id_request`;
-    #say "=====\n$json_response=====";
-    if ($json_response =~ /"ext_ids":[^}]+"doi":"([^"]+)"/){ $doi_str = $1; }
-    if ($json_response =~ /"ext_ids":[^}]+"pmid":"([^"]+)"/){ $pmid_str = $1; }
-    if ($json_response =~ /"ext_ids":[^}]+"pmcid":"([^"]+)"/){ $pmcid_str = $1; }
-    sleep(3);
+    my $json_response = `$curl_string`;
+    # say "=====\n$json_response=====";
+     
+    if ($json_response =~ /\"DOI\":\"([^"]+)\"/i || $json_response =~ /doi:([^"]+)\"/i){ $doi_str = $1; }
+    # say "  == GG: DOI: $doi_str";
+    
+    if ($json_response =~ /pmid:(\d+)/i || $json_response =~ /PMID: (\d+)/i){ $pmid_str = $1; }
+    # say "  == HH: PMID: $pmid_str";
+    
+    sleep($sleepytime);
   }
-  my @components = ($doi_str, $pmid_str, $pmcid_str);
-  #say "  == HH: ", join(", ", @components);
+  my @components = ($doi_str, $pmid_str);
   return (@components);
 }
 
@@ -259,3 +282,5 @@ S. Cannon
 2023-06-22 Handle key-value pairs for which the value is an array: comments, curators, gene_symbols
 2023-06-23 Add doc_count as parameter
 2024-09-15 Specify input and output as utf-8
+2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov
+
