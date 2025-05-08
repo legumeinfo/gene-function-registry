@@ -41,7 +41,7 @@ my $doc_count = 1;
 my $apibase = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
 my $overwrite=0;
 my $sleepytime=2;
-my $width = 80;  # Wrap at this number of characters
+my $width = 100;  # Wrap at this number of characters
 
 GetOptions (
   "traits=s" =>   \$traits,  # required
@@ -168,7 +168,7 @@ for my $doc_ref ( @yaml ){
     }
   }
   $doc_count++;
-  &printstr_yml("\n");
+  &printstr_yml("");
 }
 
 if ($verbose){ warn "\nPrinting table of identifiers and citations\n"}
@@ -210,7 +210,7 @@ sub printstr_yml {
   if ($str_to_print =~ /^(\s+- )(\S+.+)/){
     my $initial = $1;          # leading space-indent and dash
     my $string_first_line= $2; # portion of string that is on the line of the key
-    my $subsequent = " "x(length($initial)); # spaces for indented lines
+    my $subsequent = " "x(length($initial)+2); # spaces for indented lines
     $wrapped = fill(" ", $subsequent, "$initial$string_first_line");
     $str_to_print = $wrapped;
   }
@@ -282,5 +282,5 @@ S. Cannon
 2023-06-22 Handle key-value pairs for which the value is an array: comments, curators, gene_symbols
 2023-06-23 Add doc_count as parameter
 2024-09-15 Specify input and output as utf-8
-2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov
+2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov. Wrap long lines in yml
 
