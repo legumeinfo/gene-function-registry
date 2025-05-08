@@ -1,6 +1,7 @@
 ---
 scientific_name: Glycine max
-gene_symbols: GmIFS1
+gene_symbols:
+  - GmIFS1
 gene_symbol_long: Isoflavone Synthase 1
 gene_model_pub_name: EU391460.1
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G202300
@@ -37,7 +38,8 @@ references:
     pmid: 10657130
 ---
 scientific_name: Glycine max
-gene_symbols: GmIFS2
+gene_symbols:
+  - GmIFS2
 gene_symbol_long: Isoflavone Synthase 2
 gene_model_pub_name: EU391493.1
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G173500
@@ -75,7 +77,8 @@ references:
     pmid: 10657130
 ---
 scientific_name: Glycine max
-gene_symbols: GmF3H2
+gene_symbols:
+  - GmF3H2
 gene_symbol_long: Flavanone 3-Hydroxylase 2
 gene_model_pub_name: EU391427.1
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G048600

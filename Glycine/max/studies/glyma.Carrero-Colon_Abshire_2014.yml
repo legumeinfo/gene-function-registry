@@ -1,6 +1,7 @@
 ---
 scientific_name: Glycine max
-gene_symbols: GmSACPD-C
+gene_symbols:
+  - GmSACPD-C
 gene_symbol_long: Delta-9-Stearoyl-Acyl-Carrier Protein Desaturase C
 gene_model_pub_name: Glyma.14G121400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G121400
