@@ -1,7 +1,7 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
-  -GmFT3b
+  - GmFT3b
 gene_symbol_long: Flowering Locus Time 3b
 gene_model_pub_name: Glyma19G28390
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108100
