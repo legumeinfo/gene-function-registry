@@ -18,7 +18,7 @@ my $usage = <<EOS;
 
   Required:
     one or more PubMedIDs on stdin, e.g. \"echo 15471541 | get_references.pl\"
-    OR a tabular citation file with PubMedIDs in a specified field (default column 2)..
+    OR a tabular citation file with PubMedIDs in a specified field (default column 2).
        doi  pmid   pmcid  citation[author, author et al., year]
 
   Options:
