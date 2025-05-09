@@ -1,0 +1,835 @@
+##### PUB RECORD #####
+## 10.1021/jf0304324  14690368  Beninger, Hosfield, 2003  "Beninger CW, Hosfield GL. Antioxidant activity of extracts, condensed tannin fractions, and pure flavonoids from Phaseolus vulgaris L. seed coat color genotypes. J Agric Food Chem. 2003 Dec 31;51(27):7879-83. doi: 10.1021/jf0304324. PMID: 14690368." ##
+
+PMID- 14690368
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040305
+LR  - 20220317
+IS  - 0021-8561 (Print)
+IS  - 0021-8561 (Linking)
+VI  - 51
+IP  - 27
+DP  - 2003 Dec 31
+TI  - Antioxidant activity of extracts, condensed tannin fractions, and pure flavonoids 
+      from Phaseolus vulgaris L. seed coat color genotypes.
+PG  - 7879-83
+AB  - Twelve different seed coat color genotypes of Phaseolus vulgaris L. were 
+      extracted and pure flavonoids isolated from 10 of these. The seed coat methanol 
+      extracts, tannin fractions, and pure flavonoids all displayed antioxidant 
+      activity in a fluorescence-based liposome assay. The relatively high activity of 
+      the condensed tannin (proanthocyanidin) fractions indicates that these may play 
+      an important role in the overall activity of the extracts. This activity also 
+      indicates that although these polyphenols cause problems in digestibility, they 
+      may be important dietary supplements with beneficial health effects. The pure 
+      anthocyanins delphinidin 3-O-glucoside (1), petunidin 3-O-glucoside (2), and 
+      malvidin 3-O-glucoside (3) and the flavonol quercetin 3-O-glucoside (4) isolated 
+      from seed coats also had significantly higher antioxidant activity than the 
+      Fe(2+) control. The activity of kaempferol 3-O-glucoside (5) was not different 
+      from that of the Fe(2+) control. These findings suggest that variously colored 
+      dry beans may be an important source of dietary antioxidants.
+FAU - Beninger, Clifford W
+AU  - Beninger CW
+AD  - Agricultural Research Service, U.S. Department of Agriculture, Plant and Soil 
+      Science Building, Michigan State University, East Lansing, Michigan 48824, USA. 
+      cbeninge@uoguelph.ca
+FAU - Hosfield, George L
+AU  - Hosfield GL
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - J Agric Food Chem
+JT  - Journal of agricultural and food chemistry
+JID - 0374755
+RN  - 0 (Antioxidants)
+RN  - 0 (Flavonoids)
+RN  - 0 (Hydrolyzable Tannins)
+RN  - 0 (Pigments, Biological)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Antioxidants/*analysis
+MH  - Color
+MH  - Flavonoids/*analysis
+MH  - Genotype
+MH  - Hydrolyzable Tannins/*analysis
+MH  - Phaseolus/*chemistry/genetics
+MH  - Pigments, Biological/genetics
+MH  - Plant Extracts/*analysis
+MH  - Seeds/*chemistry
+EDAT- 2003/12/24 05:00
+MHDA- 2004/03/06 05:00
+CRDT- 2003/12/24 05:00
+PHST- 2003/12/24 05:00 [pubmed]
+PHST- 2004/03/06 05:00 [medline]
+PHST- 2003/12/24 05:00 [entrez]
+AID - 10.1021/jf0304324 [doi]
+PST - ppublish
+SO  - J Agric Food Chem. 2003 Dec 31;51(27):7879-83. doi: 10.1021/jf0304324.
+
+
+##### PUB RECORD #####
+## 10.1007/s00425-023-04116-0  36928335  Davila-Delgado, Flores-Canul et al., 2023  "Dávila-Delgado R, Flores-Canúl K, Juárez-Verdayes MA, Sánchez-López R. Rhizobia induce SYMRK endocytosis in Phaseolus vulgaris root hair cells. Planta. 2023 Mar 16;257(4):83. doi: 10.1007/s00425-023-04116-0. PMID: 36928335; PMCID: PMC10020325." ##
+
+PMID- 36928335
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230321
+LR  - 20230328
+IS  - 1432-2048 (Electronic)
+IS  - 0032-0935 (Print)
+IS  - 0032-0935 (Linking)
+VI  - 257
+IP  - 4
+DP  - 2023 Mar 16
+TI  - Rhizobia induce SYMRK endocytosis in Phaseolus vulgaris root hair cells.
+PG  - 83
+LID - 10.1007/s00425-023-04116-0 [doi]
+LID - 83
+AB  - PvSYMRK-EGFP undergoes constitutive and rhizobia-induced endocytosis, which rely 
+      on the phosphorylation status of T589, the endocytic YXXO motif and the kinase 
+      activity of the receptor. Legume-rhizobia nodulation is a complex developmental 
+      process. It initiates when the rhizobia-produced Nod factors are perceived by 
+      specific LysM receptors present in the root hair apical membrane. Consequently, 
+      SYMRK (Symbiosis Receptor-like Kinase) becomes active in the root hair and 
+      triggers an extensive signaling network essential for the infection process and 
+      nodule organogenesis. Despite its relevant functions, the underlying cellular 
+      mechanisms involved in SYMRK signaling activity remain poorly characterized. In 
+      this study, we demonstrated that PvSYMRK-EGFP undergoes constitutive and 
+      rhizobia-induced endocytosis. We found that in uninoculated roots, PvSYMRK-EGFP 
+      is mainly associated with the plasma membrane, although intracellular puncta 
+      labelled with PvSymRK-EGFP were also observed in root hair and nonhair-epidermal 
+      cells. Inoculation with Rhizobium etli producing Nod factors induces in the root 
+      hair a redistribution of PvSYMRK-EGFP from the plasma membrane to intracellular 
+      puncta. In accordance, deletion of the endocytic motif YXXO (YKTL) and treatment 
+      with the endocytosis inhibitors ikarugamycin (IKA) and tyrphostin A23 (TyrA23), 
+      as well as brefeldin A (BFA), drastically reduced the density of intracellular 
+      PvSYMRK-EGFP puncta. A similar effect was observed in the 
+      phosphorylation-deficient (T589A) and kinase-dead (K618E) mutants of 
+      PvSYMRK-EGFP, implying these structural features are positive regulators of 
+      PvSYMRK-EGFP endocytosis. Our findings lead us to postulate that rhizobia-induced 
+      endocytosis of SYMRK modulates the duration and amplitude of the SYMRK-dependent 
+      signaling pathway.
+CI  - (c) 2023. The Author(s).
+FAU - Davila-Delgado, Raul
+AU  - Davila-Delgado R
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+FAU - Flores-Canul, Karen
+AU  - Flores-Canul K
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+FAU - Juarez-Verdayes, Marco Adan
+AU  - Juarez-Verdayes MA
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+FAU - Sanchez-Lopez, Rosana
+AU  - Sanchez-Lopez R
+AUID- ORCID: 0000-0002-1628-7240
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico. rosana.sanchez@ibt.unam.mx.
+LA  - eng
+GR  - PAPIIT/UNAM IN207215/Programa de Apoyo a Proyectos de Investigacion e Innovacion 
+      Tecnologica/UNAM/
+GR  - IN206118/Programa de Apoyo a Proyectos de Investigacion e Innovacion 
+      Tecnologica/UNAM/
+GR  - IN204721/Programa de Apoyo a Proyectos de Investigacion e Innovacion 
+      Tecnologica/UNAM/
+GR  - PhD fellowship number 288601/Consejo Nacional de Ciencia y Tecnologia (CONACYT)/
+GR  - post-doctoral fellowship CVU 174751)/Consejo Nacional de Ciencia y Tecnologia 
+      (CONACYT)/
+PT  - Journal Article
+DEP - 20230316
+PL  - Germany
+TA  - Planta
+JT  - Planta
+JID - 1250576
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Root Nodules, Plant/metabolism
+MH  - *Phaseolus/metabolism
+MH  - Plant Root Nodulation
+MH  - *Rhizobium/physiology
+MH  - Symbiosis
+MH  - Carrier Proteins/metabolism
+MH  - Endocytosis
+MH  - Plant Roots/metabolism
+MH  - Plant Proteins/metabolism
+PMC - PMC10020325
+OTO - NOTNLM
+OT  - Brefeldin A
+OT  - Phaseolus vulgaris
+OT  - Root hair
+OT  - SYMRK
+OT  - Symbiosis
+OT  - Tyrphostin A23
+OT  - YXXO
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2023/03/18 06:00
+MHDA- 2023/03/22 06:00
+PMCR- 2023/03/16
+CRDT- 2023/03/17 09:04
+PHST- 2022/08/15 00:00 [received]
+PHST- 2023/03/06 00:00 [accepted]
+PHST- 2023/03/17 09:04 [entrez]
+PHST- 2023/03/18 06:00 [pubmed]
+PHST- 2023/03/22 06:00 [medline]
+PHST- 2023/03/16 00:00 [pmc-release]
+AID - 10.1007/s00425-023-04116-0 [pii]
+AID - 4116 [pii]
+AID - 10.1007/s00425-023-04116-0 [doi]
+PST - epublish
+SO  - Planta. 2023 Mar 16;257(4):83. doi: 10.1007/s00425-023-04116-0.
+
+
+##### PUB RECORD #####
+## 10.1093/jhered/93.2.148  12140276  McClean, Lee et al., 2002  "McClean PE, Lee RK, Otto C, Gepts P, Bassett MJ. Molecular and phenotypic mapping of genes controlling seed coat pattern and color in common bean (Phaseolus vulgaris L.). J Hered. 2002 Mar-Apr;93(2):148-52. doi: 10.1093/jhered/93.2.148. PMID: 12140276." ##
+
+PMID- 12140276
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030115
+LR  - 20220317
+IS  - 0022-1503 (Print)
+IS  - 0022-1503 (Linking)
+VI  - 93
+IP  - 2
+DP  - 2002 Mar-Apr
+TI  - Molecular and phenotypic mapping of genes controlling seed coat pattern and color 
+      in common bean (Phaseolus vulgaris L.).
+PG  - 148-52
+AB  - Common bean (Phaseolus vulgaris L.) exhibits a wide variety of seed coat patterns 
+      and colors. From a historical perspective, extensive genetic analyses have 
+      identified specific genes that control seed coat pattern (T, Z, L, J, Bip, and 
+      Ana) and color (P, C, R, J, D, G, B, V, and Rk). Many of these genes exhibit 
+      epistatic interactions with other genes, interactions that define the many seed 
+      coat patterns and colors observed within the species. To better understand these 
+      complex interactions, we began a molecular marker discovery program that 
+      previously identified random amplified polymorphic DNA (RAPD) markers linked to 
+      many of these genes. We report here the discovery of RAPD markers linked to three 
+      additional genes-C, G, and V. These markers, and five RAPD markers we previously 
+      discovered linked to other seed coat pattern and color genes, were converted into 
+      easily scorable sequence tagged site (STS) markers. We next placed these markers 
+      onto a common molecular map shared by the Phaseolus research community and 
+      demonstrated a generally wide distribution of the genes throughout the common 
+      bean genome. A few previously unrecognized linkages were discovered. The probable 
+      existence of multiple genes controlling growth habit in common bean is discussed. 
+      Our approach demonstrates the usefulness and feasibility of marker discovery in 
+      one population followed by accurate mapping of that marker onto a core, 
+      community-wide map.
+FAU - McClean, P E
+AU  - McClean PE
+AD  - North Dakota State University, Department of Plant Sciences, Fargo, ND 58105, 
+      USA. phillip.mcclean@ndsu.nodak.edu
+FAU - Lee, R K
+AU  - Lee RK
+FAU - Otto, C
+AU  - Otto C
+FAU - Gepts, P
+AU  - Gepts P
+FAU - Bassett, M J
+AU  - Bassett MJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Hered
+JT  - The Journal of heredity
+JID - 0375373
+RN  - 0 (Genetic Markers)
+SB  - IM
+MH  - *Chromosome Mapping
+MH  - Genetic Markers
+MH  - Phaseolus/*genetics
+MH  - Random Amplified Polymorphic DNA Technique
+MH  - Seeds/*genetics
+EDAT- 2002/07/26 10:00
+MHDA- 2003/01/16 04:00
+CRDT- 2002/07/26 10:00
+PHST- 2002/07/26 10:00 [pubmed]
+PHST- 2003/01/16 04:00 [medline]
+PHST- 2002/07/26 10:00 [entrez]
+AID - 10.1093/jhered/93.2.148 [doi]
+PST - ppublish
+SO  - J Hered. 2002 Mar-Apr;93(2):148-52. doi: 10.1093/jhered/93.2.148.
+
+
+##### PUB RECORD #####
+## 10.1007/s11032-023-01362-8  37313298  Liu, Yang et al., 2023  "Liu C, Yang X, He Y, Chen Q, Huang Y, Yan Z, Liu D, Feng G. Fine mapping and characterisation of a <i>PV-PUR</i> mediating anthocyanin synthesis in snap bean (<i>Phaseolus vulgaris</i> L.). Mol Breed. 2023 Mar 1;43(3):15. doi: 10.1007/s11032-023-01362-8. PMID: 37313298; PMCID: PMC10248652." ##
+
+PMID- 37313298
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240302
+IS  - 1572-9788 (Electronic)
+IS  - 1380-3743 (Print)
+IS  - 1380-3743 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2023 Mar
+TI  - Fine mapping and characterisation of a PV-PUR mediating anthocyanin synthesis in 
+      snap bean (Phaseolus vulgaris L.).
+PG  - 15
+LID - 10.1007/s11032-023-01362-8 [doi]
+LID - 15
+AB  - Anthocyanin makes snap bean (Phaseolus vulgaris L.) pods purple, which helps seed 
+      dispersal and protects against environmental stress. In this study, we 
+      characterised the snap bean purple mutant pv-pur, which has purple cotyledon, 
+      hypocotyl, stem, leaf vein, flower and pod tissues. Total anthocyanin, 
+      delphinidin and malvidin levels in mutant pods were significantly higher than in 
+      wild-type plants. We constructed two populations for fine mapping of the PV-PUR 
+      purple mutation gene, located in the 243.9-kb region of chromosome 06. We 
+      identified Phvul.006g018800.3, encoding F3'5'H, as a candidate gene for PV-PUR. 
+      Six single-base mutations occurred in the coding region of this gene, altering 
+      protein structure. PV-PUR and pv-pur genes were transferred into Arabidopsis, 
+      respectively. Compared with the wild-type, the leaf base and internode of 
+      T-PV-PUR plant were purple, and the phenotype of T-pv-pur plant remained 
+      unchanged, which verified the function of the mutant gene. The results 
+      demonstrated that PV-PUR is a crucial gene for anthocyanin biosynthesis in snap 
+      bean, resulting in purple colouration. The findings lay a foundation for future 
+      breeding and improvement of snap bean. SUPPLEMENTARY INFORMATION: The online 
+      version contains supplementary material available at 10.1007/s11032-023-01362-8.
+CI  - (c) The Author(s), under exclusive licence to Springer Nature B.V. 2023. Springer 
+      Nature or its licensor (e.g. a society or other partner) holds exclusive rights 
+      to this article under a publishing agreement with the author(s) or other 
+      rightsholder(s); author self-archiving of the accepted manuscript version of this 
+      article is solely governed by the terms of such publishing agreement and 
+      applicable law.
+FAU - Liu, Chang
+AU  - Liu C
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - Yang, Xiaoxu
+AU  - Yang X
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - He, Yongheng
+AU  - He Y
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - Chen, Qifu
+AU  - Chen Q
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - Huang, Yucheng
+AU  - Huang Y
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - Yan, Zhishan
+AU  - Yan Z
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - Liu, Dajun
+AU  - Liu D
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+FAU - Feng, Guojun
+AU  - Feng G
+AD  - Horticulture Department, College of Advanced Agriculture and Ecological 
+      Environment, Heilongjiang University, 74 Xuefu Road, Harbin, Heilongjiang, 150000 
+      China. GRID: grid.412067.6. ISNI: 0000 0004 1760 1291
+LA  - eng
+PT  - Journal Article
+DEP - 20230301
+PL  - Netherlands
+TA  - Mol Breed
+JT  - Molecular breeding : new strategies in plant improvement
+JID - 9506703
+PMC - PMC10248652
+OTO - NOTNLM
+OT  - Anthocyanin
+OT  - Fine mapping
+OT  - Mutant
+OT  - PV-PUR
+OT  - Snap bean
+COIS- Competing interestsThe authors declare no competing interests.
+EDAT- 2023/06/14 06:42
+MHDA- 2023/06/14 06:43
+PMCR- 2024/03/01
+CRDT- 2023/06/14 03:54
+PHST- 2022/09/13 00:00 [received]
+PHST- 2023/02/18 00:00 [accepted]
+PHST- 2023/06/14 06:43 [medline]
+PHST- 2023/06/14 06:42 [pubmed]
+PHST- 2023/06/14 03:54 [entrez]
+PHST- 2024/03/01 00:00 [pmc-release]
+AID - 1362 [pii]
+AID - 10.1007/s11032-023-01362-8 [doi]
+PST - epublish
+SO  - Mol Breed. 2023 Mar 1;43(3):15. doi: 10.1007/s11032-023-01362-8. eCollection 2023 
+      Mar.
+
+
+##### PUB RECORD #####
+## 10.1007/s00122-021-03922-y  34328529  Garcia-Fernandez, Campa et al., 2021  "García-Fernández C, Campa A, Ferreira JJ. Dissecting the genetic control of seed coat color in a RIL population of common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. Epub 2021 Jul 30. PMID: 34328529." ##
+
+PMID- 34328529
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211028
+LR  - 20220427
+IS  - 1432-2242 (Electronic)
+IS  - 0040-5752 (Linking)
+VI  - 134
+IP  - 11
+DP  - 2021 Nov
+TI  - Dissecting the genetic control of seed coat color in a RIL population of common 
+      bean (Phaseolus vulgaris L.).
+PG  - 3687-3698
+LID - 10.1007/s00122-021-03922-y [doi]
+AB  - Three genes associated with the seed coat color in a TU/Musica RIL population 
+      were located on a genetic map, and two candidate genes proposed to control black 
+      seed coat in the TU genotype were characterized. Seed coat color is an important 
+      characteristic of common bean (Phaseolus vulgaris L.) associated with the 
+      marketability of dry bean cultivars, quality and nutritional characteristics of 
+      seed, as well as response to pathogens. In this study, the genetic control of 
+      seed coat color in a recombinant inbred line population (175 lines) obtained from 
+      the cross 'TU' x 'Musica' was investigated. Phenotypic segregation fitted 1:1 for 
+      white vs. nonwhite, and 3:1 for brown versus black, indicating the involvement of 
+      three independent genes, one controlling white color and two (with epistatic 
+      interaction) controlling black color. Using a genetic map built with 842 SNPs, 
+      the gene responsible for the white seed coat was mapped on the linkage group 
+      Pv07, in the position previously described for the P gene. For the black seed 
+      coat phenotype, two genes were mapped to the beginning of chromosomes Pv06 and 
+      Pv08, in the positions estimated for the V gene and the complex C locus, 
+      respectively, by classical studies. The involvement of these two genomic regions 
+      was verified through two crosses between three selected RILs exhibiting 
+      complementary and dominant inheritance, in which the TU alleles for both genes 
+      resulted in a black phenotype. Two genes involved in the anthocyanin biosynthesis 
+      pathway were proposed as candidate genes: Phvul.006G018800 encoding a flavonoid 
+      3'5'hydroxylase and Phvul.008G038400 encoding MYB113 transcription factor. These 
+      findings add knowledge to the complex network of genes controlling seed coat 
+      color in common bean as well as providing genetic markers to be used in future 
+      genetic analysis or plant breeding.
+CI  - (c) 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Garcia-Fernandez, Carmen
+AU  - Garcia-Fernandez C
+AUID- ORCID: 0000-0002-0664-796X
+AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
+      (SERIDA), 33300, Villaviciosa, Asturias, Spain. cgarcia@serida.org.
+FAU - Campa, Ana
+AU  - Campa A
+AUID- ORCID: 0000-0003-3970-9079
+AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
+      (SERIDA), 33300, Villaviciosa, Asturias, Spain.
+FAU - Ferreira, Juan Jose
+AU  - Ferreira JJ
+AUID- ORCID: 0000-0002-8782-8868
+AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
+      (SERIDA), 33300, Villaviciosa, Asturias, Spain.
+LA  - eng
+GR  - AGL2017-87050-R/Ministerio de Economia, Industria y Competitividad, Gobierno de 
+      Espana/
+GR  - 774244-BRESOV/European Metrology Programme for Innovation and Research/
+PT  - Journal Article
+DEP - 20210730
+PL  - Germany
+TA  - Theor Appl Genet
+JT  - TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik
+JID - 0145600
+SB  - IM
+MH  - Alleles
+MH  - Chromosome Mapping
+MH  - Color
+MH  - Crosses, Genetic
+MH  - Genes, Plant
+MH  - Genetic Linkage
+MH  - Genotype
+MH  - Phaseolus/*genetics
+MH  - Phenotype
+MH  - Pigmentation/*genetics
+MH  - Polymorphism, Single Nucleotide
+MH  - *Seeds
+EDAT- 2021/07/31 06:00
+MHDA- 2021/10/29 06:00
+CRDT- 2021/07/30 12:20
+PHST- 2021/04/06 00:00 [received]
+PHST- 2021/07/20 00:00 [accepted]
+PHST- 2021/07/31 06:00 [pubmed]
+PHST- 2021/10/29 06:00 [medline]
+PHST- 2021/07/30 12:20 [entrez]
+AID - 10.1007/s00122-021-03922-y [pii]
+AID - 10.1007/s00122-021-03922-y [doi]
+PST - ppublish
+SO  - Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. 
+      Epub 2021 Jul 30.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2022.869582  35432409  McClean, Lee et al., 2022  "McClean PE, Lee R, Howe K, Osborne C, Grimwood J, Levy S, Haugrud AP, Plott C, Robinson M, Skiba RM, Tanha T, Zamani M, Thannhauser TW, Glahn RP, Schmutz J, Osorno JM, Miklas PN. The Common Bean <i>V</i> Gene Encodes Flavonoid 3'5' Hydroxylase: A Major Mutational Target for Flavonoid Diversity in Angiosperms. Front Plant Sci. 2022 Mar 31;13:869582. doi: 10.3389/fpls.2022.869582. PMID: 35432409; PMCID: PMC9009181." ##
+
+PMID- 35432409
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240927
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 13
+DP  - 2022
+TI  - The Common Bean V Gene Encodes Flavonoid 3'5' Hydroxylase: A Major Mutational 
+      Target for Flavonoid Diversity in Angiosperms.
+PG  - 869582
+LID - 10.3389/fpls.2022.869582 [doi]
+LID - 869582
+AB  - The classic V (violet, purple) gene of common bean (Phaseolus vulgaris) functions 
+      in a complex genetic network that controls seed coat and flower color and 
+      flavonoid content. V was cloned to understand its role in the network and the 
+      evolution of its orthologs in the Viridiplantae. V mapped genetically to a narrow 
+      interval on chromosome Pv06. A candidate gene was selected based on flavonoid 
+      analysis and confirmed by recombinational mapping. Protein and domain modeling 
+      determined V encodes flavonoid 3'5' hydroxylase (F3'5'H), a P450 enzyme required 
+      for the expression of dihydromyricetin-derived flavonoids in the flavonoid 
+      pathway. Eight recessive haplotypes, defined by mutations of key functional 
+      domains required for P450 activities, evolved independently in the two bean gene 
+      pools from a common ancestral gene. V homologs were identified in Viridiplantae 
+      orders by functional domain searches. A phylogenetic analysis determined F3'5'H 
+      first appeared in the Streptophyta and is present in only 41% of Angiosperm 
+      reference genomes. The evolutionarily related flavonoid pathway gene flavonoid 3' 
+      hydroxylase (F3'H) is found nearly universally in all Angiosperms. F3'H may be 
+      conserved because of its role in abiotic stress, while F3'5'H evolved as a major 
+      target gene for the evolution of flower and seed coat color in plants.
+CI  - Copyright (c) 2022 McClean, Lee, Howe, Osborne, Grimwood, Levy, Haugrud, Plott, 
+      Robinson, Skiba, Tanha, Zamani, Thannhauser, Glahn, Schmutz, Osorno and Miklas.
+FAU - McClean, Phillip E
+AU  - McClean PE
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, United 
+      States.
+AD  - Genomics, Phenomics, and Bioinformatic Program, North Dakota State University, 
+      Fargo, ND, United States.
+FAU - Lee, Rian
+AU  - Lee R
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, United 
+      States.
+FAU - Howe, Kevin
+AU  - Howe K
+AD  - USDA-ARS, Robert W. Holley Center for Agriculture and Health, Cornell University, 
+      Ithaca, NY, United States.
+FAU - Osborne, Caroline
+AU  - Osborne C
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, United 
+      States.
+FAU - Grimwood, Jane
+AU  - Grimwood J
+AD  - Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 
+      AL, United States.
+FAU - Levy, Shawn
+AU  - Levy S
+AD  - Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 
+      AL, United States.
+FAU - Haugrud, Amanda Peters
+AU  - Haugrud AP
+AD  - Genomics, Phenomics, and Bioinformatic Program, North Dakota State University, 
+      Fargo, ND, United States.
+FAU - Plott, Chris
+AU  - Plott C
+AD  - Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 
+      AL, United States.
+FAU - Robinson, Melanie
+AU  - Robinson M
+AD  - Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 
+      AL, United States.
+FAU - Skiba, Ryan M
+AU  - Skiba RM
+AD  - Genomics, Phenomics, and Bioinformatic Program, North Dakota State University, 
+      Fargo, ND, United States.
+FAU - Tanha, Tabassum
+AU  - Tanha T
+AD  - Genomics, Phenomics, and Bioinformatic Program, North Dakota State University, 
+      Fargo, ND, United States.
+FAU - Zamani, Mariam
+AU  - Zamani M
+AD  - Genomics, Phenomics, and Bioinformatic Program, North Dakota State University, 
+      Fargo, ND, United States.
+FAU - Thannhauser, Theodore W
+AU  - Thannhauser TW
+AD  - USDA-ARS, Robert W. Holley Center for Agriculture and Health, Cornell University, 
+      Ithaca, NY, United States.
+FAU - Glahn, Raymond P
+AU  - Glahn RP
+AD  - USDA-ARS, Robert W. Holley Center for Agriculture and Health, Cornell University, 
+      Ithaca, NY, United States.
+FAU - Schmutz, Jeremy
+AU  - Schmutz J
+AD  - Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 
+      AL, United States.
+FAU - Osorno, Juan M
+AU  - Osorno JM
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, United 
+      States.
+FAU - Miklas, Phillip N
+AU  - Miklas PN
+AD  - USDA-ARS, Grain Legumes Genetics and Physiology Research Unit, Prosser, WA, 
+      United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20220331
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC9009181
+OTO - NOTNLM
+OT  - F3'5' hydroxylase
+OT  - common bean
+OT  - flavonoid biosynthesis
+OT  - flavonoid composition
+OT  - legumes
+OT  - mutational targets
+OT  - protein modeling
+OT  - recombination mapping
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/04/19 06:00
+MHDA- 2022/04/19 06:01
+PMCR- 2022/01/01
+CRDT- 2022/04/18 06:34
+PHST- 2022/02/04 00:00 [received]
+PHST- 2022/03/15 00:00 [accepted]
+PHST- 2022/04/18 06:34 [entrez]
+PHST- 2022/04/19 06:00 [pubmed]
+PHST- 2022/04/19 06:01 [medline]
+PHST- 2022/01/01 00:00 [pmc-release]
+AID - 10.3389/fpls.2022.869582 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2022 Mar 31;13:869582. doi: 10.3389/fpls.2022.869582. 
+      eCollection 2022.
+
+
+##### PUB RECORD #####
+## 10.1002/ppp3.10132  34268482  Islam, Bett et al., 2020  "Islam NS, Bett KE, Pauls KP, Marsolais F, Dhaubhadel S. Postharvest seed coat darkening in pinto bean (<i>Phaseolus vulgaris</i>) is regulated by <i>Psd</i> , an allele of the basic helix-loop-helix transcription factor <i>P</i>. Plants People Planet. 2020 Nov;2(6):663-677. doi: 10.1002/ppp3.10132. Epub 2020 Aug 19. PMID: 34268482; PMCID: PMC8262261." ##
+
+PMID- 34268482
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240402
+IS  - 2572-2611 (Electronic)
+IS  - 2572-2611 (Linking)
+VI  - 2
+IP  - 6
+DP  - 2020 Nov
+TI  - Postharvest seed coat darkening in pinto bean (Phaseolus vulgaris) is regulated 
+      by P(sd) , an allele of the basic helix-loop-helix transcription factor P.
+PG  - 663-677
+LID - 10.1002/ppp3.10132 [doi]
+AB  - Pinto bean (Phaseolus vulgaris) is one of the leading market classes of dry beans 
+      that is most affected by postharvest seed coat darkening. The process of seed 
+      darkening poses a challenge for bean producers and vendors as they encounter 
+      significant losses in crop value due to decreased consumer preference for darker 
+      beans. Here, we identified a novel allele of the P gene, P(sd) , responsible for 
+      the slow darkening seed coat in pintos, and identified trait-specific sequence 
+      polymorphisms which are utilized for the development of new gene-specific 
+      molecular markers for breeding. These tools can be deployed to help tackle this 
+      economically important issue for bean producers. SUMMARY: Postharvest seed coat 
+      darkening in pinto bean is an undesirable trait that reduces the market value of 
+      the stored crop. Regular darkening (RD) pintos darken faster after harvest and 
+      accumulate higher level of proanthocyanidins (PAs) compared to slow darkening 
+      (SD) cultivars. Although the markers cosegregating with the SD trait have been 
+      known for some time, the SLOW DARKENING (Sd) gene identity had not been 
+      proven.Here, we identified P(sd) as a candidate for controlling the trait. 
+      Genetic complementation, transcript abundance, metabolite analysis, and 
+      inheritance study confirmed that P(sd) is the Sd gene. P(sd) is another allele of 
+      the P (Pigment) gene, whose loss-of-function alleles result in a white seed coat. 
+      P(sd) encodes a bHLH transcription factor with two transcript variants but only 
+      one is involved in PA biosynthesis. An additional glutamate residue in the 
+      activation domain, and/or an arginine to histidine substitution in the bHLH 
+      domain of the P(sd)-1 transcript in the SD cultivar is likely responsible for the 
+      reduced activity of this allele compared to the allele in a RD cultivar, leading 
+      to reduced PA accumulation.Overall, we demonstrate that a novel allele of P, 
+      P(sd) , is responsible for the SD phenotype, and describe the development of new, 
+      gene-specific, markers that could be utilized in breeding to resolve an 
+      economically important issue for bean producers.
+CI  - (c) 2020 Her Majesty the Queen in Right of Canada. Plants, People, Planet published 
+      by John Wiley & Sons Ltd on behalf of New Phytologist Trust. Reproduced with the 
+      permission of Minister of Agriculture and Agri-Food Canada.
+FAU - Islam, Nishat S
+AU  - Islam NS
+AD  - London Research and Development Centre Agriculture and Agri-Food Canada London ON 
+      Canada.
+AD  - Department of Biology University of Western Ontario London ON Canada.
+FAU - Bett, Kirstin E
+AU  - Bett KE
+AUID- ORCID: 0000-0001-7959-6959
+AD  - Department of Plant Sciences University of Saskatchewan Saskatoon SK Canada.
+FAU - Pauls, K Peter
+AU  - Pauls KP
+AD  - Department of Plant Agriculture University of Guelph Guelph ON Canada.
+FAU - Marsolais, Frederic
+AU  - Marsolais F
+AD  - London Research and Development Centre Agriculture and Agri-Food Canada London ON 
+      Canada.
+AD  - Department of Biology University of Western Ontario London ON Canada.
+FAU - Dhaubhadel, Sangeeta
+AU  - Dhaubhadel S
+AUID- ORCID: 0000-0003-2582-5503
+AD  - London Research and Development Centre Agriculture and Agri-Food Canada London ON 
+      Canada.
+AD  - Department of Biology University of Western Ontario London ON Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20200819
+PL  - United States
+TA  - Plants People Planet
+JT  - Plants, people, planet
+JID - 9918227264106676
+PMC - PMC8262261
+OTO - NOTNLM
+OT  - Basic helix-loop-helix transcription factor
+OT  - genetic complementation
+OT  - gene-specific marker
+OT  - pinto bean
+OT  - postharvest seed coat darkening
+OT  - proanthocyanidins
+OT  - transparent testa
+EDAT- 2021/07/17 06:00
+MHDA- 2021/07/17 06:01
+PMCR- 2021/07/07
+CRDT- 2021/07/16 06:43
+PHST- 2020/03/11 00:00 [received]
+PHST- 2020/06/18 00:00 [revised]
+PHST- 2020/06/19 00:00 [accepted]
+PHST- 2021/07/16 06:43 [entrez]
+PHST- 2021/07/17 06:00 [pubmed]
+PHST- 2021/07/17 06:01 [medline]
+PHST- 2021/07/07 00:00 [pmc-release]
+AID - PPP310132 [pii]
+AID - 10.1002/ppp3.10132 [doi]
+PST - ppublish
+SO  - Plants People Planet. 2020 Nov;2(6):663-677. doi: 10.1002/ppp3.10132. Epub 2020 
+      Aug 19.
+
+
+##### PUB RECORD #####
+## 10.1111/nph.15259  29897103  McClean, Bett et al., 2018  "McClean PE, Bett KE, Stonehouse R, Lee R, Pflieger S, Moghaddam SM, Geffroy V, Miklas P, Mamidi S. White seed color in common bean (Phaseolus vulgaris) results from convergent evolution in the P (pigment) gene. New Phytol. 2018 Aug;219(3):1112-1123. doi: 10.1111/nph.15259. Epub 2018 Jun 13. PMID: 29897103." ##
+
+PMID- 29897103
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190927
+LR  - 20200930
+IS  - 1469-8137 (Electronic)
+IS  - 0028-646X (Linking)
+VI  - 219
+IP  - 3
+DP  - 2018 Aug
+TI  - White seed color in common bean (Phaseolus vulgaris) results from convergent 
+      evolution in the P (pigment) gene.
+PG  - 1112-1123
+LID - 10.1111/nph.15259 [doi]
+AB  - The presence of seed color in common bean (Phaseolus vulgaris) requires the 
+      dominant-acting P (pigment) gene, and white seed is a recessive phenotype in all 
+      domesticated races of the species. P was classically associated with seed size, 
+      thus describing it as the first genetic marker for a quantitative trait. The 
+      molecular structure of P was characterized to understand the selection of white 
+      seeds during bean diversification and the relationship of P to seed weight. P was 
+      identified by homology searches, a genome-wide association study (GWAS) and gene 
+      remodeling, and confirmed by gene silencing. Allelic variation was assessed by a 
+      combination of resequencing and marker development, and the relationship between 
+      P and seed weight was assessed by a GWAS study. P is a member of clade B of 
+      subclass IIIf of plant basic helix-loop-helix (bHLH) proteins. Ten race-specific 
+      P alleles conditioned the white seed phenotype, and each causative mutation 
+      affected at least one bHLH domain required for color expression. GWAS analysis 
+      confirmed the classic association of P with seed weight. In common bean, white 
+      seeds are the result of convergent evolution and, among plant species, 
+      orthologous convergence on a single transcription factor gene was observed.
+CI  - (c) 2018 The Authors. New Phytologist (c) 2018 New Phytologist Trust.
+FAU - McClean, Phillip E
+AU  - McClean PE
+AUID- ORCID: 0000-0002-4809-0864
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, 58108, 
+      USA.
+AD  - Genomics and Bioinformatics Program, North Dakota State University, Fargo, ND, 
+      58108, USA.
+FAU - Bett, Kirstin E
+AU  - Bett KE
+AD  - Department of Plant Sciences, University of Saskatchewan, Saskatoon, SK, S7N 5A8, 
+      Canada.
+FAU - Stonehouse, Robert
+AU  - Stonehouse R
+AD  - Department of Plant Sciences, University of Saskatchewan, Saskatoon, SK, S7N 5A8, 
+      Canada.
+FAU - Lee, Rian
+AU  - Lee R
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, 58108, 
+      USA.
+FAU - Pflieger, Stephanie
+AU  - Pflieger S
+AD  - Institute of Plant Sciences Paris Saclay IPS2, CNRS, INRA, Universite Paris-Sud, 
+      Universite Evry, Universite Paris-Saclay, Batiment 630, Orsay, 91405, France.
+AD  - Institute of Plant Sciences Paris-Saclay IPS2, Paris Diderot, Sorbonne 
+      Paris-Cite, Batiment 630, Orsay, 91405, France.
+FAU - Moghaddam, Samira Mafi
+AU  - Moghaddam SM
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, 58108, 
+      USA.
+FAU - Geffroy, Valerie
+AU  - Geffroy V
+AD  - Institute of Plant Sciences Paris Saclay IPS2, CNRS, INRA, Universite Paris-Sud, 
+      Universite Evry, Universite Paris-Saclay, Batiment 630, Orsay, 91405, France.
+AD  - Institute of Plant Sciences Paris-Saclay IPS2, Paris Diderot, Sorbonne 
+      Paris-Cite, Batiment 630, Orsay, 91405, France.
+FAU - Miklas, Phil
+AU  - Miklas P
+AD  - USDA-ARS, Grain Legumes Genetics and Physiology Research Unit, Prosser, WA, 
+      99350, USA.
+FAU - Mamidi, Sujan
+AU  - Mamidi S
+AUID- ORCID: 0000-0002-3837-6121
+AD  - Department of Plant Sciences, North Dakota State University, Fargo, ND, 58108, 
+      USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180613
+PL  - England
+TA  - New Phytol
+JT  - The New phytologist
+JID - 9882884
+SB  - IM
+MH  - Alleles
+MH  - Chromosome Mapping
+MH  - *Evolution, Molecular
+MH  - Gene Regulatory Networks
+MH  - Gene Silencing
+MH  - *Genes, Plant
+MH  - Genome-Wide Association Study
+MH  - Haplotypes/genetics
+MH  - Phaseolus/*genetics/*physiology
+MH  - Phylogeny
+MH  - Pigmentation/*genetics
+MH  - Quantitative Trait Loci/genetics
+MH  - Seeds/*genetics
+OTO - NOTNLM
+OT  - Phaseolus vulgaris
+OT  - basic helix-loop-helix (bHLH)
+OT  - convergent evolution
+OT  - diversification
+OT  - domestication
+OT  - flavonoid biosynthesis
+EDAT- 2018/06/14 06:00
+MHDA- 2019/09/29 06:00
+CRDT- 2018/06/14 06:00
+PHST- 2018/01/11 00:00 [received]
+PHST- 2018/04/20 00:00 [accepted]
+PHST- 2018/06/14 06:00 [pubmed]
+PHST- 2019/09/29 06:00 [medline]
+PHST- 2018/06/14 06:00 [entrez]
+AID - 10.1111/nph.15259 [doi]
+PST - ppublish
+SO  - New Phytol. 2018 Aug;219(3):1112-1123. doi: 10.1111/nph.15259. Epub 2018 Jun 13.
+
+

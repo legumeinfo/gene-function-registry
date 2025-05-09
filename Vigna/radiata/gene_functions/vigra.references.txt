@@ -1,0 +1,112 @@
+##### PUB RECORD #####
+## 10.1186/s12864-022-08620-7  35581536  Liu, Zhang, et. al., 2022  "Liu C, Zhang Q, Dong J, Cai C, Zhu H, Li S. Genome-wide identification and characterization of mungbean CIRCADIAN CLOCK ASSOCIATED 1 like genes reveals an important role of VrCCA1L26 in flowering time regulation. BMC Genomics. 2022 May 17;23(1):374. doi: 10.1186/s12864-022-08620-7. PMID: 35581536; PMCID: PMC9115955." ##
+
+PMID- 35581536
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220519
+LR  - 20220716
+IS  - 1471-2164 (Electronic)
+IS  - 1471-2164 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2022 May 17
+TI  - Genome-wide identification and characterization of mungbean CIRCADIAN CLOCK 
+      ASSOCIATED 1 like genes reveals an important role of VrCCA1L26 in flowering time 
+      regulation.
+PG  - 374
+LID - 10.1186/s12864-022-08620-7 [doi]
+LID - 374
+AB  - BACKGROUND: CIRCADIAN CLOCK ASSOCIATED 1 like (CCA1L) proteins are important 
+      components that participate in plant growth and development, and now have been 
+      characterized in multiple plant species. However, information on mungbean CCA1L 
+      genes is limited. RESULTS: In this study, we identified 27 VrCCA1L genes from the 
+      mungbean genome. VrCCA1L genes were unevenly distributed on 10 of the 11 
+      chromosomes and showed one tandem and two interchromosomal duplication events. 
+      Two distinct kinds of conserved MYB domains, MYB 1 and MYB 2, were found, and the 
+      conserved SHAQK(Y/F) F sequence was found at the C terminus of each MYB 2 domain. 
+      The VrCCA1Ls displayed a variety of exon-intron organizations, and 24 distinct 
+      motifs were found among these genes. Based on phylogenetic analysis, VrCCA1L 
+      proteins were classified into five groups; group I contained the most members, 
+      with 11 VrCCA1Ls. VrCCA1L promoters contained different types and numbers of 
+      cis-acting elements, and VrCCA1Ls showed different expression levels in different 
+      tissues. The VrCCA1Ls also displayed distinct expression patterns under different 
+      photoperiod conditions throughout the day in leaves. VrCCA1L26 shared greatest 
+      homology to Arabidopsis CCA1 and LATE ELONGATED HYPOCOTYL (LHY). It delayed the 
+      flowering time in Arabidopsis by affecting the expression levels of CONSTANS 
+      (CO), FLOWERING LOCUS T (FT), and SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 
+      (SOC1). CONCLUSION: We identified and characterized 27 VrCCA1L genes from 
+      mungbean genome, and investigated their spatio-temporal expression patterns. 
+      Further analysis revealed that VrCCA1L26 delayed flowering time in transgenic 
+      Arabidopsis plants. Our results provide useful information for further functional 
+      characterization of the VrCCA1L genes.
+CI  - (c) 2022. The Author(s).
+FAU - Liu, Chenyang
+AU  - Liu C
+AD  - College of Life Sciences, Key Lab of Plant Biotechnology in Universities of 
+      Shandong Province, Qingdao Agricultural University, Qingdao, 266109, China.
+FAU - Zhang, Qianqian
+AU  - Zhang Q
+AD  - College of Life Sciences, Key Lab of Plant Biotechnology in Universities of 
+      Shandong Province, Qingdao Agricultural University, Qingdao, 266109, China.
+FAU - Dong, Jing
+AU  - Dong J
+AD  - College of Life Sciences, Key Lab of Plant Biotechnology in Universities of 
+      Shandong Province, Qingdao Agricultural University, Qingdao, 266109, China.
+FAU - Cai, Chunmei
+AU  - Cai C
+AD  - College of Life Sciences, Key Lab of Plant Biotechnology in Universities of 
+      Shandong Province, Qingdao Agricultural University, Qingdao, 266109, China.
+FAU - Zhu, Hong
+AU  - Zhu H
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, China. 
+      zhuhong198812@126.com.
+FAU - Li, Shuai
+AU  - Li S
+AD  - College of Life Sciences, Key Lab of Plant Biotechnology in Universities of 
+      Shandong Province, Qingdao Agricultural University, Qingdao, 266109, China. 
+      li2014shuai@qau.edu.cn.
+LA  - eng
+GR  - 31971898, 32171979/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20220517
+PL  - England
+TA  - BMC Genomics
+JT  - BMC genomics
+JID - 100965258
+RN  - 0 (Arabidopsis Proteins)
+SB  - IM
+MH  - *Arabidopsis/metabolism
+MH  - *Arabidopsis Proteins/genetics
+MH  - *Circadian Clocks/genetics
+MH  - Circadian Rhythm/genetics
+MH  - Flowers
+MH  - Gene Expression Regulation, Plant
+MH  - Photoperiod
+MH  - Phylogeny
+MH  - *Vigna/genetics
+PMC - PMC9115955
+OTO - NOTNLM
+OT  - CCA1
+OT  - Flowering time
+OT  - Mungbean
+OT  - Photoperiod
+OT  - VrCCA1L26
+COIS- The authors declare that they have no competing interests.
+EDAT- 2022/05/18 06:00
+MHDA- 2022/05/20 06:00
+PMCR- 2022/05/17
+CRDT- 2022/05/17 23:35
+PHST- 2022/01/06 00:00 [received]
+PHST- 2022/05/11 00:00 [accepted]
+PHST- 2022/05/17 23:35 [entrez]
+PHST- 2022/05/18 06:00 [pubmed]
+PHST- 2022/05/20 06:00 [medline]
+PHST- 2022/05/17 00:00 [pmc-release]
+AID - 10.1186/s12864-022-08620-7 [pii]
+AID - 8620 [pii]
+AID - 10.1186/s12864-022-08620-7 [doi]
+PST - epublish
+SO  - BMC Genomics. 2022 May 17;23(1):374. doi: 10.1186/s12864-022-08620-7.
+
+

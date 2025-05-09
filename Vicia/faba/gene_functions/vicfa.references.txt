@@ -1,0 +1,347 @@
+##### PUB RECORD #####
+## 10.1038/s41586-023-05791-5  36890232  Jayakodi, Golicz et al., 2023  "Jayakodi M, Golicz AA, Kreplak J, Fechete LI, Angra D, Bednář P, Bornhofen E, Zhang H, Boussageon R, Kaur S, Cheung K, Čížková J, Gundlach H, Hallab A, Imbert B, Keeble-Gagnère G, Koblížková A, Kobrlová L, Krejčí P, Mouritzen TW, Neumann P, Nadzieja M, Nielsen LK, Novák P, Orabi J, Padmarasu S, Robertson-Shersby-Harvie T, Robledillo LÁ, Schiemann A, Tanskanen J, Törönen P, Warsame AO, Wittenberg AHJ, Himmelbach A, Aubert G, Courty PE, Doležel J, Holm LU, Janss LL, Khazaei H, Macas J, Mascher M, Smýkal P, Snowdon RJ, Stein N, Stoddard FL, Stougaard J, Tayeh N, Torres AM, Usadel B, Schubert I, O'Sullivan DM, Schulman AH, Andersen SU. The giant diploid faba genome unlocks variation in a global protein crop. Nature. 2023 Mar;615(7953):652-659. doi: 10.1038/s41586-023-05791-5. Epub 2023 Mar 8. PMID: 36890232; PMCID: PMC10033403." ##
+
+PMID- 36890232
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230331
+LR  - 20231125
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Print)
+IS  - 0028-0836 (Linking)
+VI  - 615
+IP  - 7953
+DP  - 2023 Mar
+TI  - The giant diploid faba genome unlocks variation in a global protein crop.
+PG  - 652-659
+LID - 10.1038/s41586-023-05791-5 [doi]
+AB  - Increasing the proportion of locally produced plant protein in currently 
+      meat-rich diets could substantially reduce greenhouse gas emissions and loss of 
+      biodiversity(1). However, plant protein production is hampered by the lack of a 
+      cool-season legume equivalent to soybean in agronomic value(2). Faba bean (Vicia 
+      faba L.) has a high yield potential and is well suited for cultivation in 
+      temperate regions, but genomic resources are scarce. Here, we report a 
+      high-quality chromosome-scale assembly of the faba bean genome and show that it 
+      has expanded to a massive 13 Gb in size through an imbalance between the rates of 
+      amplification and elimination of retrotransposons and satellite repeats. Genes 
+      and recombination events are evenly dispersed across chromosomes and the gene 
+      space is remarkably compact considering the genome size, although with 
+      substantial copy number variation driven by tandem duplication. Demonstrating 
+      practical application of the genome sequence, we develop a targeted genotyping 
+      assay and use high-resolution genome-wide association analysis to dissect the 
+      genetic basis of seed size and hilum colour. The resources presented constitute a 
+      genomics-based breeding platform for faba bean, enabling breeders and geneticists 
+      to accelerate the improvement of sustainable protein production across 
+      the Mediterranean, subtropical and northern temperate agroecological zones.
+CI  - (c) 2023. The Author(s).
+FAU - Jayakodi, Murukarthick
+AU  - Jayakodi M
+AUID- ORCID: 0000-0003-2951-0541
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+FAU - Golicz, Agnieszka A
+AU  - Golicz AA
+AUID- ORCID: 0000-0002-9711-4826
+AD  - Department of Plant Breeding, Justus Liebig University Giessen, Giessen, Germany.
+FAU - Kreplak, Jonathan
+AU  - Kreplak J
+AD  - Agroecologie, INRAE, Institut Agro, University Bourgogne, University Bourgogne 
+      Franche-Comte, Dijon, France.
+FAU - Fechete, Lavinia I
+AU  - Fechete LI
+AUID- ORCID: 0000-0002-8502-9210
+AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus C, 
+      Denmark.
+FAU - Angra, Deepti
+AU  - Angra D
+AD  - School of Agriculture, Policy and Development, University of Reading, Reading, 
+      UK.
+FAU - Bednar, Petr
+AU  - Bednar P
+AUID- ORCID: 0000-0001-7070-6015
+AD  - Department of Analytical Chemistry, Faculty of Science, Palacky University, 
+      Olomouc, Czech Republic.
+FAU - Bornhofen, Elesandro
+AU  - Bornhofen E
+AUID- ORCID: 0000-0002-7447-6226
+AD  - Center for Quantitative Genetics and Genomics, Aarhus University, Aarhus C, 
+      Denmark.
+FAU - Zhang, Hailin
+AU  - Zhang H
+AUID- ORCID: 0000-0001-8757-9905
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+FAU - Boussageon, Raphael
+AU  - Boussageon R
+AUID- ORCID: 0000-0002-5858-8105
+AD  - Agroecologie, INRAE, Institut Agro, University Bourgogne, University Bourgogne 
+      Franche-Comte, Dijon, France.
+FAU - Kaur, Sukhjiwan
+AU  - Kaur S
+AUID- ORCID: 0000-0003-3972-7058
+AD  - Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, Victoria, 
+      Australia.
+FAU - Cheung, Kwok
+AU  - Cheung K
+AUID- ORCID: 0000-0002-3418-3840
+AD  - School of Agriculture, Policy and Development, University of Reading, Reading, 
+      UK.
+FAU - Cizkova, Jana
+AU  - Cizkova J
+AUID- ORCID: 0000-0001-7787-1849
+AD  - Institute of Experimental Botany of the Czech Academy of Sciences, Centre of the 
+      Region Hana for Biotechnological and Agricultural Research, Olomouc, Czech 
+      Republic.
+FAU - Gundlach, Heidrun
+AU  - Gundlach H
+AUID- ORCID: 0000-0002-6757-0943
+AD  - Plant Genome and Systems Biology (PGSB), Helmholtz Center Munich, German Research 
+      Center for Environmental Health, Neuherberg, Germany.
+FAU - Hallab, Asis
+AU  - Hallab A
+AD  - IBG-4 Bioinformatics Forschungszentrum Julich, Julich, Germany.
+AD  - Bingen Technical University of Applied Sciences, Bingen, Germany.
+FAU - Imbert, Baptiste
+AU  - Imbert B
+AUID- ORCID: 0000-0002-8229-8693
+AD  - Agroecologie, INRAE, Institut Agro, University Bourgogne, University Bourgogne 
+      Franche-Comte, Dijon, France.
+FAU - Keeble-Gagnere, Gabriel
+AU  - Keeble-Gagnere G
+AD  - Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, Victoria, 
+      Australia.
+FAU - Koblizkova, Andrea
+AU  - Koblizkova A
+AD  - Biology Centre, Czech Academy of Sciences, Institute of Plant Molecular Biology, 
+      Ceske Budejovice, Czech Republic.
+FAU - Kobrlova, Lucie
+AU  - Kobrlova L
+AUID- ORCID: 0000-0001-9024-7717
+AD  - Department of Botany, Faculty of Science, Palacky University, Olomouc, Czech 
+      Republic.
+FAU - Krejci, Petra
+AU  - Krejci P
+AUID- ORCID: 0000-0002-4653-1195
+AD  - Department of Analytical Chemistry, Faculty of Science, Palacky University, 
+      Olomouc, Czech Republic.
+FAU - Mouritzen, Troels W
+AU  - Mouritzen TW
+AUID- ORCID: 0000-0003-0558-1425
+AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus C, 
+      Denmark.
+FAU - Neumann, Pavel
+AU  - Neumann P
+AUID- ORCID: 0000-0001-6711-6639
+AD  - Biology Centre, Czech Academy of Sciences, Institute of Plant Molecular Biology, 
+      Ceske Budejovice, Czech Republic.
+FAU - Nadzieja, Marcin
+AU  - Nadzieja M
+AUID- ORCID: 0000-0002-6643-8019
+AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus C, 
+      Denmark.
+FAU - Nielsen, Linda Kaergaard
+AU  - Nielsen LK
+AUID- ORCID: 0000-0003-3215-9481
+AD  - Sejet Planteforaedling, Horsens, Denmark.
+FAU - Novak, Petr
+AU  - Novak P
+AUID- ORCID: 0000-0002-5068-9681
+AD  - Biology Centre, Czech Academy of Sciences, Institute of Plant Molecular Biology, 
+      Ceske Budejovice, Czech Republic.
+FAU - Orabi, Jihad
+AU  - Orabi J
+AD  - Nordic Seed, Odder, Denmark.
+FAU - Padmarasu, Sudharsan
+AU  - Padmarasu S
+AUID- ORCID: 0000-0003-3125-3695
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+FAU - Robertson-Shersby-Harvie, Tom
+AU  - Robertson-Shersby-Harvie T
+AD  - School of Agriculture, Policy and Development, University of Reading, Reading, 
+      UK.
+FAU - Robledillo, Laura Avila
+AU  - Robledillo LA
+AD  - Biology Centre, Czech Academy of Sciences, Institute of Plant Molecular Biology, 
+      Ceske Budejovice, Czech Republic.
+FAU - Schiemann, Andrea
+AU  - Schiemann A
+AD  - Nordic Seed, Odder, Denmark.
+FAU - Tanskanen, Jaakko
+AU  - Tanskanen J
+AD  - Natural Resources Institute Finland (Luke), Helsinki, Finland.
+FAU - Toronen, Petri
+AU  - Toronen P
+AD  - Institute of Biotechnology, University of Helsinki, Helsinki, Finland.
+FAU - Warsame, Ahmed O
+AU  - Warsame AO
+AUID- ORCID: 0000-0002-9281-0443
+AD  - School of Agriculture, Policy and Development, University of Reading, Reading, 
+      UK.
+FAU - Wittenberg, Alexander H J
+AU  - Wittenberg AHJ
+AUID- ORCID: 0000-0002-0482-2592
+AD  - KeyGene, Wageningen, The Netherlands.
+FAU - Himmelbach, Axel
+AU  - Himmelbach A
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+FAU - Aubert, Gregoire
+AU  - Aubert G
+AUID- ORCID: 0000-0002-1867-5730
+AD  - Agroecologie, INRAE, Institut Agro, University Bourgogne, University Bourgogne 
+      Franche-Comte, Dijon, France.
+FAU - Courty, Pierre-Emmanuel
+AU  - Courty PE
+AD  - Agroecologie, INRAE, Institut Agro, University Bourgogne, University Bourgogne 
+      Franche-Comte, Dijon, France.
+FAU - Dolezel, Jaroslav
+AU  - Dolezel J
+AUID- ORCID: 0000-0002-6263-0492
+AD  - Institute of Experimental Botany of the Czech Academy of Sciences, Centre of the 
+      Region Hana for Biotechnological and Agricultural Research, Olomouc, Czech 
+      Republic.
+FAU - Holm, Liisa U
+AU  - Holm LU
+AUID- ORCID: 0000-0002-7807-2966
+AD  - Institute of Biotechnology, University of Helsinki, Helsinki, Finland.
+FAU - Janss, Luc L
+AU  - Janss LL
+AUID- ORCID: 0000-0001-9804-1529
+AD  - Center for Quantitative Genetics and Genomics, Aarhus University, Aarhus C, 
+      Denmark.
+FAU - Khazaei, Hamid
+AU  - Khazaei H
+AUID- ORCID: 0000-0002-5202-8764
+AD  - Natural Resources Institute Finland (Luke), Helsinki, Finland.
+FAU - Macas, Jiri
+AU  - Macas J
+AUID- ORCID: 0000-0003-0829-1570
+AD  - Biology Centre, Czech Academy of Sciences, Institute of Plant Molecular Biology, 
+      Ceske Budejovice, Czech Republic.
+FAU - Mascher, Martin
+AU  - Mascher M
+AUID- ORCID: 0000-0001-6373-6013
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+AD  - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, 
+      Leipzig, Germany.
+FAU - Smykal, Petr
+AU  - Smykal P
+AUID- ORCID: 0000-0002-6117-8510
+AD  - Department of Botany, Faculty of Science, Palacky University, Olomouc, Czech 
+      Republic.
+FAU - Snowdon, Rod J
+AU  - Snowdon RJ
+AUID- ORCID: 0000-0001-5577-7616
+AD  - Department of Plant Breeding, Justus Liebig University Giessen, Giessen, Germany.
+FAU - Stein, Nils
+AU  - Stein N
+AUID- ORCID: 0000-0003-3011-8731
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+AD  - Center of Integrated Breeding Research (CiBreed), Georg-August-University, 
+      Gottingen, Germany.
+FAU - Stoddard, Frederick L
+AU  - Stoddard FL
+AUID- ORCID: 0000-0002-8097-5750
+AD  - Department of Agricultural Sciences, University of Helsinki, Helsinki, Finland.
+AD  - Viikki Plant Science Centre, University of Helsinki, Helsinki, Finland, Cordoba, 
+      Spain.
+FAU - Stougaard, Jens
+AU  - Stougaard J
+AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus C, 
+      Denmark.
+FAU - Tayeh, Nadim
+AU  - Tayeh N
+AD  - Agroecologie, INRAE, Institut Agro, University Bourgogne, University Bourgogne 
+      Franche-Comte, Dijon, France.
+FAU - Torres, Ana M
+AU  - Torres AM
+AUID- ORCID: 0000-0002-2907-4287
+AD  - Instituto Andaluz de Investigacion y Formacion Agraria, Pesquera, Alimentaria y 
+      de la Produccion Ecologica (IFAPA), Area de Mejora y Biotecnologia, Centro 
+      Alameda del Obispo, Cordoba, Spain.
+FAU - Usadel, Bjorn
+AU  - Usadel B
+AUID- ORCID: 0000-0003-0921-8041
+AD  - IBG-4 Bioinformatics Forschungszentrum Julich, Julich, Germany.
+AD  - Institute for Biological Data Science, CEPLAS, Heinrich Heine University 
+      Dusseldorf, Dusseldorf, Germany.
+FAU - Schubert, Ingo
+AU  - Schubert I
+AD  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, 
+      Seeland, Germany.
+FAU - O'Sullivan, Donal Martin
+AU  - O'Sullivan DM
+AUID- ORCID: 0000-0003-4889-056X
+AD  - School of Agriculture, Policy and Development, University of Reading, Reading, 
+      UK. d.m.osullivan@reading.ac.uk.
+FAU - Schulman, Alan H
+AU  - Schulman AH
+AUID- ORCID: 0000-0002-4126-6177
+AD  - Natural Resources Institute Finland (Luke), Helsinki, Finland. 
+      alan.schulman@helsinki.fi.
+AD  - Institute of Biotechnology, University of Helsinki, Helsinki, Finland. 
+      alan.schulman@helsinki.fi.
+AD  - Viikki Plant Science Centre, University of Helsinki, Helsinki, Finland, Cordoba, 
+      Spain. alan.schulman@helsinki.fi.
+FAU - Andersen, Stig Uggerhoj
+AU  - Andersen SU
+AUID- ORCID: 0000-0002-1096-1468
+AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus C, 
+      Denmark. sua@mbg.au.dk.
+LA  - eng
+GR  - BB/P023509/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230308
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (DNA, Satellite)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Retroelements)
+SB  - IM
+CIN - Nature. 2023 Mar;615(7953):587-588. doi: 10.1038/d41586-023-00461-y. PMID: 
+      36890309
+MH  - Chromosomes, Plant/genetics
+MH  - *Crops, Agricultural/genetics/metabolism
+MH  - *Diploidy
+MH  - DNA Copy Number Variations/genetics
+MH  - DNA, Satellite/genetics
+MH  - Gene Amplification/genetics
+MH  - Genes, Plant/genetics
+MH  - *Genetic Variation/genetics
+MH  - *Genome, Plant/genetics
+MH  - Genome-Wide Association Study
+MH  - *Genomics
+MH  - Geography
+MH  - *Plant Breeding/methods
+MH  - *Plant Proteins/genetics/metabolism
+MH  - Recombination, Genetic
+MH  - Retroelements/genetics
+MH  - Seeds/anatomy & histology/genetics
+MH  - *Vicia faba/anatomy & histology/genetics/metabolism
+PMC - PMC10033403
+COIS- The authors declare no competing interests.
+EDAT- 2023/03/09 06:00
+MHDA- 2023/03/25 06:00
+PMCR- 2023/03/08
+CRDT- 2023/03/08 23:18
+PHST- 2022/09/23 00:00 [received]
+PHST- 2023/02/03 00:00 [accepted]
+PHST- 2023/03/09 06:00 [pubmed]
+PHST- 2023/03/25 06:00 [medline]
+PHST- 2023/03/08 23:18 [entrez]
+PHST- 2023/03/08 00:00 [pmc-release]
+AID - 10.1038/s41586-023-05791-5 [pii]
+AID - 5791 [pii]
+AID - 10.1038/s41586-023-05791-5 [doi]
+PST - ppublish
+SO  - Nature. 2023 Mar;615(7953):652-659. doi: 10.1038/s41586-023-05791-5. Epub 2023 
+      Mar 8.
+
+

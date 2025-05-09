@@ -1,4 +1,3 @@
-## DOCUMENT 1 ##
 ---
 scientific_name: Pisum sativum
 classical_locus: I
@@ -12,8 +11,15 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Complementation test confirms that PsSGR is the Mendelian I locus. SGR is a positive regulator of pathways involved in breakdown of chlorophyll via translational or post-translational regulation of chlorophyll degrading enzymes. The products of SGR are required to separate chlorophyll from the photosynthetic complex, allowing chlorophyll degrading enzymes access to their substrate. The sgr loss-of-function mutation is due to lower expression of the SGR gene and a small insertion that disrupts SGR protein fuction.
-phenotype_synopsis: The recessive phenotype sgr retains a high chlorophyll content during senescence, causing cotyledons to stay green as they mature and leaves to stay green as they die. PsSGR is a cosmetic stay-green mutant and does not retain the ability to photosynthesize.
+  - Complementation test confirms that PsSGR is the Mendelian I locus. SGR is a positive regulator
+      of pathways involved in breakdown of chlorophyll via translational or post-translational
+      regulation of chlorophyll degrading enzymes. The products of SGR are required to separate
+      chlorophyll from the photosynthetic complex, allowing chlorophyll degrading enzymes access to
+      their substrate. The sgr loss-of-function mutation is due to lower expression of the SGR gene
+      and a small insertion that disrupts SGR protein fuction.
+phenotype_synopsis: The recessive phenotype sgr retains a high chlorophyll content during
+  senescence, causing cotyledons to stay green as they mature and leaves to stay green as they die.
+  PsSGR is a cosmetic stay-green mutant and does not retain the ability to photosynthesize.
 traits:
   - entity_name: chlorophyll catabolic process
     entity: GO:0015996
@@ -36,5 +42,4 @@ references:
   - citation: Hortensteiner, 2009
     doi: 10.1016/j.tplants.2009.01.002
     pmid: 19237309
-
 

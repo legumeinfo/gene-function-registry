@@ -1,5 +1,115 @@
-## DOCUMENT 1 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbol_long: glutathione S-transferase
+gene_model_pub_name: MtrunA17_Chr4g0008781
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0008781
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Glutathione S-transferase (GST) is a candidate gene for SBS disease resistance in rpm1
+  - GSTs participate in detoxification of xenobiotic toxins, reduction of oxidative stress, and are
+      receptors of salicylic acid
+  - In HM078, the GST contained a 12 bp insertion in the 5’ UTR region, which is known to contain
+      microRNA binding sites and structural features that regulate mRNA splicing and stability
+phenotype_synopsis: MtGST detoxifys toxic substances in plants and reduces oxidative stress in
+  Medicago
+traits:
+  - entity_name: positive regulation of cellular response to oxidative stress
+    entity: GO:1900409
+  - entity_name: xenobiotic detoxification by transmembrane export across the plasma membrane
+    entity: GO:1990961
+references:
+  - citation: Botkin, Farmer,et al.2024
+    doi: 10.1186/s12864-024-10112-9
+    pmid: 38395768
+  - citation: Gullner, Komives,et al.2018
+    doi: 10.3389/fpls.2018.01836
+    pmid: 30622544
+
+---
+scientific_name: Medicago truncatula
+gene_symbol_long: TIR-NBS-LRR gene
+gene_model_pub_name: MtrunA17_Chr4g0009401
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0009401
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - A single base pair insertion in the coding region of TIR-NBS-LRR resulted in a frame-shift
+      mutation in the HM078 homolog that produced a downstream premature stop codon
+  - This truncation likely causes a loss-of-function due to the absence of the LRR domain in the
+      predicted peptide
+  - A loss-of-function in the TIR-NBS-LRR gene could alleviate sensitivity to a host sensitive
+      toxin that has yet to be identified
+  - Could be acting as a negative regulator of unidentified plant disease resistance protein
+phenotype_synopsis: TIR-NBS-LRR gene regulates Medicago defense response
+traits:
+  - entity_name: defense response
+    entity: GO:0006952
+references:
+  - citation: Botkin, Farmer,et al.2024
+    doi: 10.1186/s12864-024-10112-9
+    pmid: 38395768
+
+---
+scientific_name: Medicago truncatula
+gene_symbol_long: B3-domain transcription factor
+gene_model_pub_name: MtrunA17_Chr4g0009491
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0009491
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - B3-domain transcription factor has a single base pair deletion and a two base pair insertion in
+      the HM078 homolog caused a 98 amino acid deletion and truncation of a B3 domain
+  - B3-domain transcription factor is a candidate gene for SBS disease resistance found in rpm1
+  - B3-domain transcription factors are co-expressed during secondary cell walls biosynthesis and
+      lignin formation
+phenotype_synopsis: B3-domain transcription factors regulate lignin and cell wall biosynthesis
+traits:
+  - entity_name: lignin biosynthetic process
+    entity: GO:0009809
+  - entity_name: plant-type secondary cell wall biogenesis
+    entity: GO:0009834
+references:
+  - citation: Botkin, Farmer,et al.2024
+    doi: 10.1186/s12864-024-10112-9
+    pmid: 38395768
+  - citation: Wei, Li,et al.2023
+    doi: 10.3389/fpls.2023.1193065
+    pmid: 37324718
+
+---
+scientific_name: Medicago truncatula
+gene_symbol_long: phosphate 2A
+gene_model_pub_name: MtrunA17_Chr4g0009054
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0009061
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - A 10.85 kbp insertion in the second coding sequence of PHO2A causes a loss-of-function in
+      HM078s
+  - In M. truncatula, PHO2A was shown to have very low expression compared to the PHO2B and PHO2C
+      paralogs, which have roles in symbiotic nitrogen fixation and Pi homeostasis
+  - PHO2A had the highest expression in shoot tissue during phosphate starvation
+phenotype_synopsis: MtPHO2A regulates Pi homeostatsis and expression in shoot tissue
+traits:
+  - entity_name: cellular response to phosphate starvation
+    entity: GO:0016036
+  - entity_name: phosphate ion homeostasis
+    entity: GO:0055062
+references:
+  - citation: Botkin, Farmer,et al.2024
+    doi: 10.1186/s12864-024-10112-9
+    pmid: 38395768
+  - citation: Huertas, Torres-Jerez,et al.2023
+    doi: 10.3389/fpls.2023.1211107
+    pmid: 37409286
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - ENOD40
 gene_symbol_long: Abnormal tissue development
@@ -8,7 +118,9 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g034835
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Use of antisense constructs of Mtenod40 arrested callus growth of Medicago explants, while overexpressing Mtenod40 embryos developed into teratomas. Enod40 genes might have a role in plant development, acting as 'riboregulators'.
+phenotype_synopsis: Use of antisense constructs of Mtenod40 arrested callus growth of Medicago
+  explants, while overexpressing Mtenod40 embryos developed into teratomas. Enod40 genes might have
+  a role in plant development, acting as 'riboregulators'.
 traits:
   - entity_name: plant tissue development trait
     entity: TO:0006015
@@ -20,9 +132,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 2 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - cyp716A12
 gene_symbol_long: cytochrome P450 monoxygenase
@@ -31,7 +142,14 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g021350
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: A cytochrome P450 gene (CYP716A12) is involved in an early step in saponin biosynthesis and is found in most tissues.  CYP716A12 loss-of-function mutants do not produce hemolytic saponins and only synthetize soyasaponins, and were thus named lacking hemolytic activity (lha).  CYP716A12 catalyzes the oxidation of _-amyrin and erythrodiol at the C-28 position, yielding oleanolic acid. Transcriptome changes in the lha mutant showed a modulation in the main steps of the triterpenic saponin biosynthetic pathway, which includes squalene cyclization, _-amyrin oxidation, and glycosylation.  Growth of homozygous lha/lha plants was stunted.
+phenotype_synopsis: A cytochrome P450 gene (CYP716A12) is involved in an early step in saponin
+  biosynthesis and is found in most tissues. CYP716A12 loss-of-function mutants do not produce
+  hemolytic saponins and only synthetize soyasaponins, and were thus named lacking hemolytic
+  activity (lha). CYP716A12 catalyzes the oxidation of _-amyrin and erythrodiol at the C-28
+  position, yielding oleanolic acid. Transcriptome changes in the lha mutant showed a modulation in
+  the main steps of the triterpenic saponin biosynthetic pathway, which includes squalene
+  cyclization, _-amyrin oxidation, and glycosylation. Growth of homozygous lha/lha plants was
+  stunted.
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
@@ -45,9 +163,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 3 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - HAP2.1
 gene_model_pub_name: Medtr1g056530
@@ -55,7 +172,9 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Small and nonfunctional nodules arrested in growth when both normally spliced and alternatively spliced variants repressed.  When only the alternative spliced form repressed the nodules are small but still fix nitrogen successfully.
+phenotype_synopsis: Small and nonfunctional nodules arrested in growth when both normally spliced
+  and alternatively spliced variants repressed. When only the alternative spliced form repressed
+  the nodules are small but still fix nitrogen successfully.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -69,9 +188,122 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 4 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtFULc
+gene_symbol_long: FRUITFULL
+gene_model_pub_name: Medtr7g016630
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g016630
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtFULc is required for the secondary inflorescence identity
+  - MtFULc regulates secondary inflorescence meristem identity by repressing the expression of
+      MtTFL1 and MtAP1
+  - MtFULc was highly expressed in secondary inflorescence meristems, but not detectable in primary
+      inflorescence meristem or any other floral organs
+phenotype_synopsis: MtFULc regulates secondary inflorescence meristem identity
+traits:
+  - entity_name: secondary branching of inflorescence
+    entity: TO:0000142
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtTFL1
+gene_symbol_long: TERMINAL FLOWER 1
+gene_model_pub_name: Medtr7g104460
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g104460
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Mutated MtTFL1 changes the inflorescence branching pattern from monopodial to sympodial
+  - MtTFL1 is epistatic to MtFULc in the regulation of inflorescence development
+  - MtTFL1 is highly expressed in the central part of the primary inflorescence meristem, but was
+      not detected in secondary inflorescence meristem and floral primordia
+  - MtTFL1 was also expressed in the center of axillary meristems
+phenotype_synopsis: MtTFL1 regulates primary inflorescence development
+traits:
+  - entity_name: primary branching of inflorescence
+    entity: TO:0000052
+  - entity_name: shoot meristem development
+    entity: TO:0002638
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSGL1
+gene_symbol_long: SINGLE LEAFLET 1
+gene_model_pub_name: Medtr8g066260
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g066260
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtSGL1 plays a synergistic role with MtAP1 in floral meristem identity
+  - Mutated MtSGL1 exhibited simple leaves and cauliflower-like structures consisting of reiterated
+      sepals and carpels
+  - SGL1 expression was detected in the leaf primordia, floral meristems, and floral organ
+      primordia
+phenotype_synopsis: MtSGL1 regulates floral meristem identity
+traits:
+  - entity_name: compound leaf morphology trait
+    entity: TO:0001121
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtAP1
+gene_symbol_long: APETALA 1
+gene_model_pub_name: Medtr3g098560
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g098560
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - The MtAP1 mutant developed proliferating mixtures of abnormal flowers, vegetative shoots or
+      leaf-like structures at the end of pedicels instead of one or two flowers as seen on the WT
+  - MtAP1 was detectable in sepals and petals, but not in stamen primordia and carpel primordia. In
+      lates stage floral development MtAP1 is only found in the petals
+  - MtAP1 represses MtTFL1 expression in floral meristems
+phenotype_synopsis: MtAP1 regulates floral meristem identity
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
+  - entity_name: inflorescence morphology trait
+    entity: TO:0000373
+references:
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - SGL1
 gene_symbol_long: single leaflet1
@@ -80,7 +312,8 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g098560
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is decreased. Defective, fused flowers
+phenotype_synopsis: Mutant displays simple, unifoliate (not compound) leaves. Petiole length is
+  decreased. Defective, fused flowers
 traits:
   - entity_name: petiole length
     entity: TO:0000766
@@ -100,9 +333,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 5 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NAM
   - NAM-2
@@ -162,9 +394,149 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 6 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNOOT1
+gene_symbol_long: NODULE ROOT 1
+gene_model_pub_name: Medtr7g090020
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g090020
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtNOOT1 is an ortholoug of A. thaliana BLADE-ON-PETIOLE genes
+  - A homozygous noot genotype is linked with a petal abscission defect
+  - Petiole and fruit abscission defects are associated with a different cellular organization at
+      the site of organ detachment in MtNOOt1 mutants
+  - NOOT and BLADE-ON-PETIOLE promoter activites overlap in A. thaliana which strongly suggests a
+      conservation of the transcriptional regulation between these genes
+  - MtNOOT1 is expressed in the transition zone and root vasculature
+  - MtNOOT1 is required for the coordinated development of the primary root in medicago
+  - MtNOOT1 mutants have thinner roots then compared to the WT
+  - MtNOOT1 mutants have delayed root radical growth which correlates with the growth defects seen
+      in its vasculature
+phenotype_synopsis: MtNOOT1 is necessary for fruit abscission and primary root development
+traits:
+  - entity_name: root development trait
+    entity: TO:0000656
+  - entity_name: fruit senescing quality trait
+    entity: TO:0002729
+  - entity_name: fruit abscission
+    entity: GO:0060867
+  - entity_name: floral organ abscission
+    entity: GO:0010227
+  - entity_name: root radial pattern formation
+    entity: GO:0090057
+  - entity_name: primary root development
+    entity: GO:0080022
+references:
+  - citation: Couzigou, Magne et al., 2015
+    doi: 10.1111/nph.13634
+    pmid: 26390061
+  - citation: Shen, Kulikova et al., 2019
+    doi: 10.1186/s12870-019-2194-z
+    pmid: 31856724
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtCLV2
+gene_symbol_long: CLAVATA 2
+gene_model_pub_name: Medtr7g079550
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g079550
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtCLV2 is found in the ER and the plasma membrane
+  - MtCLV2 can form homomers with MtCRN and SUNN
+  - MtCLV2 is trancribed in both the roots and shoots of Medicago
+  - Inactivation of the PsCLV2 (Pisum sativum) causes hypernodulation of the roots
+  - PsCLV2 mutants had shorter internode length between flowering nodes compared to the WT
+phenotype_synopsis: MtCLV2 regulates root nodule number and internode length
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+references:
+  - citation: Crook, Schnabel et al., 2016
+    doi: 10.1111/tpj.13234
+    pmid: 27296908
+  - citation: Krusell, Sato et al., 2010
+    doi: 10.1111/j.1365-313X.2010.04474.x
+    pmid: 21276104
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtCRN
+gene_symbol_long: CORYNE
+gene_model_pub_name: Medtr7g020850
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g020850
+confidence: null
+curators:
+  - Raegan Nelson
+comments:
+  - MtCRN mutants showed a three-fold increase in nodule number compared to wild type
+  - MtCRN is found in the ER and the plasma membrane
+  - MtCLV2 can form homomers with MtCRN and SUNN
+  - MtCRN is trancribed in both the roots and shoots of Medicago
+  - AtCRN (Arabidopsis thaliana) muntants increase the size of floral meristems and floral organ
+      number compared to the WT
+  - CRN function is not required for root meristem development, it is involved in transmitting CLE
+      signals that inhibit its activity
+phenotype_synopsis: MtCRN regulates root nodule number, floral organ number and root meristem
+  activity
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root meristem development
+    entity: TO:0002692
+  - entity_name: floral organ number
+    entity: TO:0006038
+  - entity_name: floral organ size
+    entity: TO:0002600
+references:
+  - citation: Crook, Schnabel et al., 2016
+    doi: 10.1111/tpj.13234
+    pmid: 27296908
+  - citation: Muller, Bleckmann et al., 2008
+    doi: 10.1105/tpc.107.057547
+    pmid: 18381924
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSUNN
+gene_symbol_long: SUPER NUMERIC NODULES
+gene_model_pub_name: AY769943
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0035451
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtSUNN is expressed in roots, flowers and shoots of medicago
+  - SUNN is concentrated in parts of the plasma membrane that are specifically associated with the
+      plasmodesmata
+  - MtSUNN mutants display shortened roots and hypernodulation
+phenotype_synopsis: MtSUNN plays a role root nodule number and root length
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root length
+    entity: TO:0000227
+references:
+  - citation: Crook, Schnabel et al., 2016
+    doi: 10.1111/tpj.13234
+    pmid: 27296908
+  - citation: Schnabel Journet et al., 2005
+    doi: 10.1007/s11103-005-8102-y
+    pmid: 16240175
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtCCD1
 gene_symbol_long: carotenoid cleavage dioxygenase 1
@@ -173,7 +545,13 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g034835
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: RNA interference (RNAi) was used to repress a M. truncatula CCD1 gene in hairy roots colonized by the arbuscular mycorrhizal (AM) fungus Glomus intraradices.  The normal AM-mediated accumulation of apocarotenoids (C13 cyclohexenone and C14 mycorradicin derivatives) was reduced in repressed plants; mycorradicin derivatives were reduced to 3% to 6% of the controls and the cyclohexenone derivatives were reduced to 30% to 47%.  The RNAi roots turned a yellow-orange color because of C27 apocarotenoid accumulation (the probable substrate of the CCD1 enzyme).  More degenerating arbuscules was observed in RNAi roots.
+phenotype_synopsis: RNA interference (RNAi) was used to repress a M. truncatula CCD1 gene in hairy
+  roots colonized by the arbuscular mycorrhizal (AM) fungus Glomus intraradices. The normal
+  AM-mediated accumulation of apocarotenoids (C13 cyclohexenone and C14 mycorradicin derivatives)
+  was reduced in repressed plants; mycorradicin derivatives were reduced to 3% to 6% of the
+  controls and the cyclohexenone derivatives were reduced to 30% to 47%. The RNAi roots turned a
+  yellow-orange color because of C27 apocarotenoid accumulation (the probable substrate of the CCD1
+  enzyme). More degenerating arbuscules was observed in RNAi roots.
 traits:
   - entity_name: carotene content
     entity: TO:0000289
@@ -187,9 +565,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 7 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - CPK3
 gene_symbol_long: calcium dependent protein kinase 3
@@ -198,7 +575,9 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g051770
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Expression of MtCPK3 in Medicago truncatula is regulated during nodulation.  RNAi silenced CPK3 in transformed roots but no major phenotype was detected.  When infected with rhizobia the nodule number was twice as high as the controls.
+phenotype_synopsis: Expression of MtCPK3 in Medicago truncatula is regulated during nodulation.
+  RNAi silenced CPK3 in transformed roots but no major phenotype was detected. When infected with
+  rhizobia the nodule number was twice as high as the controls.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -208,15 +587,14 @@ traits:
     entity: PO:0003023
 references:
   - citation: Gargantini, Gonzalez-Rizzo et al., 2006
-    doi: 10.1111/j.1365-313x.2006.02910.x
+    doi: 10.1111/j.1365-313X.2006.02910.x
     pmid: 17132148
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 8 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - bHLH1
 gene_symbol_long: basic helix loop helix 1
@@ -225,7 +603,12 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g099620
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Repressing MtbHLH1 (using Chimeric REpressor Silencing Technology) caused an assymetrical pattern of nodule vascular bundle development with variable angles of growth in inoculated roots.  The growth and vigor of aerial parts of the plant was impaired; the nodules were still able to fix atmospheric Nitrogen but the aboveground tissues could not benefit for whatever reason.  Nodules on repressed plants appeared later than in control plants and were smaller in size.
+phenotype_synopsis: Repressing MtbHLH1 (using Chimeric REpressor Silencing Technology) caused an
+  assymetrical pattern of nodule vascular bundle development with variable angles of growth in
+  inoculated roots. The growth and vigor of aerial parts of the plant was impaired; the nodules
+  were still able to fix atmospheric Nitrogen but the aboveground tissues could not benefit for
+  whatever reason. Nodules on repressed plants appeared later than in control plants and were
+  smaller in size.
 traits:
   - entity_name: vascular bundle development trait
     entity: TO:0020109
@@ -245,9 +628,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 9 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - LYK3
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 3
@@ -272,9 +654,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 10 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - LYK4
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 4
@@ -299,9 +680,38 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 11 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtCRA2
+gene_symbol_long: compact root architecture 2
+gene_model_pub_name: MtrunA17_Chr3g0140861
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr3g0140861
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtCRA2 negatively regulates lateral root development
+  - MtCRA2 positively regulates symbiotic nodule development
+  - The root-dependent regulation of the lateral root number is independent of the shoot-regulation
+      of the nodule number
+  - MtCRA2 encodes an LRR-RLK (Leucine-Rich Repeat–Receptor-Like Kinase) belonging to subfamily XI
+phenotype_synopsis: MtCRA2 negatively regulates lateral root development and positively regulates
+  symbiotic nodule development
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root morphology trait
+    entity: TO:0000043
+  - entity_name: negative regulation of lateral root development
+    entity: GO:1901332
+references:
+  - citation: Huault, Laffont et al., 2014
+    doi: 10.1371/journal.pgen.1004891
+    pmid: 25521478
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtAOC
 gene_symbol_long: Allene-oxide cyclase
@@ -310,7 +720,10 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g417750
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: MtAOC (allene oxide cyclase) gene expression was partially suppressed in roots following transformation with cDNA in the antisense direction.  These roots exhibited lower jasmonic acid levels and delayed colonization by Glomus intraradices.  The number of arbuscles decreased and their development was delayed, yet their physical structure was unaltered.
+phenotype_synopsis: MtAOC (allene oxide cyclase) gene expression was partially suppressed in roots
+  following transformation with cDNA in the antisense direction. These roots exhibited lower
+  jasmonic acid levels and delayed colonization by Glomus intraradices. The number of arbuscles
+  decreased and their development was delayed, yet their physical structure was unaltered.
 traits:
   - entity_name: root system
     entity: PO:0025025
@@ -324,9 +737,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 12 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - CDPK1
 gene_symbol_long: calcium-dependent protein kinase 1
@@ -335,7 +747,8 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g022030
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Reduced root hair and root cell lengths; diminution of rhizobial and mycorrhizal symbiotic colonization
+phenotype_synopsis: Reduced root hair and root cell lengths; diminution of rhizobial and
+  mycorrhizal symbiotic colonization
 traits:
   - entity_name: root cortical cell length
     entity: TO:0020108
@@ -357,9 +770,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 13 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - PALM1
 gene_symbol_long: PALMATE-LIKE PENTAFOLIATA1
@@ -368,7 +780,10 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g014400
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Forms dissected leaves with five leaflets clustered at the tip (palmate-like pentafoliate in contrast to the trifoliate WT leaves).  The distal lateral leaflets developed in a manner morphologically/anatomically similar to terminal leaflets.  The length of the petiole increased and that of the rachis decreased.
+phenotype_synopsis: Forms dissected leaves with five leaflets clustered at the tip (palmate-like
+  pentafoliate in contrast to the trifoliate WT leaves). The distal lateral leaflets developed in a
+  manner morphologically/anatomically similar to terminal leaflets. The length of the petiole
+  increased and that of the rachis decreased.
 traits:
   - entity_name: petiole length
     entity: TO:0000766
@@ -388,9 +803,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 14 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - ANS
 gene_symbol_long: Anthocyanidin synthase
@@ -399,7 +813,14 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g011250
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: MtANS (anthocyanidin synthase) gene expression was down-regulated in M. truncatula genotype R108 using an antisense construct.  Anthocyanin levels were strongly reduced in leaf tissues of antisense lines.  The presence of a red anthocyanin-rich circle at the base of the axial side of the leaflet and small red dots on the adaxial side results from anthocyanin deposition.  Six independent transgenic antisense MtANS lines lacked the red circle and spots and another 10 such lines had reduced levels of pigmentation.  There was a strong reduction in the levels of both soluble and insoluble PAs (Oligomeric proanthocyanidins) in seeds, consistent with involvement of ANS in PA biosynthesis.
+phenotype_synopsis: MtANS (anthocyanidin synthase) gene expression was down-regulated in M.
+  truncatula genotype R108 using an antisense construct. Anthocyanin levels were strongly reduced
+  in leaf tissues of antisense lines. The presence of a red anthocyanin-rich circle at the base of
+  the axial side of the leaflet and small red dots on the adaxial side results from anthocyanin
+  deposition. Six independent transgenic antisense MtANS lines lacked the red circle and spots and
+  another 10 such lines had reduced levels of pigmentation. There was a strong reduction in the
+  levels of both soluble and insoluble PAs (Oligomeric proanthocyanidins) in seeds, consistent with
+  involvement of ANS in PA biosynthesis.
 traits:
   - entity_name: anthocyanin content
     entity: TO:0000071
@@ -415,9 +836,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 15 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - nork
 gene_symbol_long: nodulation receptor kinase
@@ -426,7 +846,8 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g030920
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Lacks symbiotic root responses in the presence of compatible Sinorhizobium meliloti or Nod factor, and resists mycorrhizal colonization
+phenotype_synopsis: Lacks symbiotic root responses in the presence of compatible Sinorhizobium
+  meliloti or Nod factor, and resists mycorrhizal colonization
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -442,9 +863,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 16 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - CDC16
 gene_symbol_long: cell division cycle 16
@@ -453,7 +873,8 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g058380
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Partial suppression of the CDC16 gene homolog in Medicago truncatula leads to a decreased number of lateral roots, an increased number of nodules, and reduced auxin sensitivity.
+phenotype_synopsis: Partial suppression of the CDC16 gene homolog in Medicago truncatula leads to a
+  decreased number of lateral roots, an increased number of nodules, and reduced auxin sensitivity.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -475,9 +896,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 17 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - LIN
 gene_symbol_long: Lumpy infections
@@ -486,21 +906,23 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g090320
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Rhizobial infection was reduced in quantity and infections were not persistent, i.e. infection threads were arrested after very limited progression within root hair cells.  Nodule differentiation was arrested at an early primordial stage as an indirect result of the aborted infection.
+phenotype_synopsis: Rhizobial infection was reduced in quantity and infections were not persistent,
+  i.e. infection threads were arrested after very limited progression within root hair cells.
+  Nodule differentiation was arrested at an early primordial stage as an indirect result of the
+  aborted infection.
 traits:
   - entity_name: root nodule
     entity: PO:0003023
 references:
   - citation: Lace, Su et al., 2023
-    doi: 10.7554/elife.80741
+    doi: 10.7554/eLife.80741
     pmid: 36856086
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 18 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - SUNN
 gene_symbol_long: super numeric nodules
@@ -509,7 +931,10 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g070970
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Shortened roots even in the absence of rhizobia.  A dramatic increase in the number of root nodules.  Nodulation occurred even under a high nitrogen regime.  Unlike wild type, both infection by rhizobia and nodulation occur randomly throughout the circumference of the developing root.  Nodulation is normally sensitive to ethylene, similar to wild type.
+phenotype_synopsis: Shortened roots even in the absence of rhizobia. A dramatic increase in the
+  number of root nodules. Nodulation occurred even under a high nitrogen regime. Unlike wild type,
+  both infection by rhizobia and nodulation occur randomly throughout the circumference of the
+  developing root. Nodulation is normally sensitive to ethylene, similar to wild type.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -529,9 +954,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 19 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FTa1
 gene_symbol_long: Delayed flowering
@@ -552,9 +976,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 20 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FTc
 gene_symbol_long: Flower development normal under long days
@@ -575,9 +998,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 21 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - CYCLOPS
 gene_model_pub_name: Medtr5g026850
@@ -585,7 +1007,11 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g026850
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Symbiotic infection of roots by rhizobia bacteria and arbuscular mycorrhiza fungi was inhibited or blocked, i.e. infection threads were not observed despite colonization of root hairs by rhizobia and AM fungal hyphae formed abnormal hyphal swellings with no arbuscles observed.  Nodule organogenesis was initiated but arrested prematurely at the level of primordia as an indirect consequence of the aborted infection.
+phenotype_synopsis: Symbiotic infection of roots by rhizobia bacteria and arbuscular mycorrhiza
+  fungi was inhibited or blocked, i.e. infection threads were not observed despite colonization of
+  root hairs by rhizobia and AM fungal hyphae formed abnormal hyphal swellings with no arbuscles
+  observed. Nodule organogenesis was initiated but arrested prematurely at the level of primordia
+  as an indirect consequence of the aborted infection.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -594,14 +1020,13 @@ traits:
 references:
   - citation: Liu, Breakspear et al., 2019
     doi: 10.1104/pp.18.01572
-    pmid: null
+    pmid: 30710053
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 22 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - DMI1
 gene_symbol_long: doesn't make infections 1
@@ -626,9 +1051,42 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 23 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtKIX8
+gene_symbol_long: KINASE-INDUCIBLE DOMAIN INTERACTING 8
+gene_model_pub_name: Medtr4g114900
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g114900
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Jacqueline Campbell
+comments:
+  - MtKIX8 is a homolog of Arabidopsis KIX8
+  - MIO1(mini organ 1) can form a protein complex with MtKIX8
+  - MtKIX8 is a negative regulator of leaf and seed size
+  - MtKIX8 is expressed throughout early floral primorida, and highly expressed during anthers
+      development
+  - MtKIX8 acts as a molecular adaptor to interact with BS1
+phenotype_synopsis: MtKIX8 negatively regulates plant organ size
+traits:
+  - entity_name: Seed size
+    entity: TO:0000391
+  - entity_name: Leaf size
+    entity: TO:0002637
+  - entity_name: anther development
+    entity: GO:0048653
+references:
+  - citation: Mao, Zhou et al., 2023
+    doi: 10.1111/ppl.14046
+    pmid: 37882293
+  - citation: Zhou, Yang et al., 2023
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - DMI3
 gene_symbol_long: doesn't make infections 3
@@ -653,9 +1111,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 24 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtNAP1
 gene_symbol_long: Nick-associated protein 1
@@ -664,7 +1121,9 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g084140
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Reduced levels of nodulation, reduced acetylene reduction, and limited nodule development.  Aborted and deformed infection threads restricted to epidermal root hair cells.  The few nodules that did form had very low rhizobial colonization and nitrogenase activity.
+phenotype_synopsis: Reduced levels of nodulation, reduced acetylene reduction, and limited nodule
+  development. Aborted and deformed infection threads restricted to epidermal root hair cells. The
+  few nodules that did form had very low rhizobial colonization and nitrogenase activity.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -680,15 +1139,79 @@ traits:
     entity: PO:0000256
 references:
   - citation: Miyahara, Richens et al., 2010
-    doi: 10.1094/mpmi-06-10-0144
+    doi: 10.1094/MPMI-06-10-0144
     pmid: 20731530
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 25 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtLOG1
+gene_symbol_long: LONELY GUY 1
+gene_model_pub_name: Medtr7g101290
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g101290
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtLOG1 expression depends on MtCRE1 (a gene that is essential for nodule organ formation)
+  - MtLOG1 expression does not require MtCRE1 in the lateral root primordia
+  - Overexpression of MtLOG1 leads to larger lateral root density and expansion of vascular tissue
+  - Overexpression of MtLOG1 leads to a reduced number of nodules
+  - MtLOG1 could be involved in MtCLE13 expression during nodulation
+  - MtLOG1 is involved in cytokinin production
+  - MtLOG1 and MtLOG2 share 87.8% similarity
+phenotype_synopsis: MtLOG1 negatively regulates lateral root formation and nodule formation and
+  produces cytokinins
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: negative regulation of lateral root development
+    entity: GO:1901332
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: cytokinin biosynthetic process
+    entity: GO:0009691
+references:
+  - citation: Mortier, Wasson et al., 2014
+    doi: 10.1111/nph.12681
+    pmid: 24443934
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtLOG2
+gene_symbol_long: LONELY GUY 2
+gene_model_pub_name: Medtr1g064260
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g064260
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtLOG2 expression depends on MtCRE1 (a gene that is essential for nodule organ formation)
+  - MtLOG2 is involved in cytokinin production
+  - MtLOG1 and MtLOG2 share 87.8% similarity
+phenotype_synopsis: MtLOG2 negatively regulates nodulation and produces cytokinins
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: cytokinin biosynthetic process
+    entity: GO:0009691
+references:
+  - citation: Mortier, Wasson et al., 2014
+    doi: 10.1111/nph.12681
+    pmid: 24443934
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - CBF4
 gene_symbol_long: C-repeat binding factor 4
@@ -697,7 +1220,13 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g101600
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress.
+phenotype_synopsis: Expression of MtCBF4 (transcription factor) in M. truncatula was induced by
+  most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting
+  crosstalk between these abiotic stresses. Upon exposure to a salt medium the primary root growth
+  in the MtCBF4-overexpressing lines was greater than that of the control plants. MtCAS31 belongs
+  to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of
+  MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls. To summarize,
+  over-expression of MtCBF4 enhanced tolerance to salt stress.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -715,9 +1244,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 26 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FCL1
 gene_symbol_long: fused compound leaf 1
@@ -726,7 +1254,8 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g071190
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Leaflets fused or partially fused, rachis between leaflets is absent, petiole is foreshortened.
+phenotype_synopsis: Leaflets fused or partially fused, rachis between leaflets is absent, petiole
+  is foreshortened.
 traits:
   - entity_name: petiole length
     entity: TO:0000766
@@ -746,9 +1275,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 27 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - VPY
 gene_symbol_long: Vapyrin
@@ -757,7 +1285,11 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g027840
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: In Medicago truncatula, the Vapyrin (VPY) gene is essential for the establishment of the arbuscular mycorrhizal symbiosis. Analyses of mutants shows that the same VPYgene is also required for rhizobial colonization and nodulation.  Plants mutated in this gene have abnormal rhizobial infection threads and fewer nodules, and in the case of interactions with AM fungi, epidermal penetration defects and aborted arbuscule formation.
+phenotype_synopsis: In Medicago truncatula, the Vapyrin (VPY) gene is essential for the
+  establishment of the arbuscular mycorrhizal symbiosis. Analyses of mutants shows that the same
+  VPYgene is also required for rhizobial colonization and nodulation. Plants mutated in this gene
+  have abnormal rhizobial infection threads and fewer nodules, and in the case of interactions with
+  AM fungi, epidermal penetration defects and aborted arbuscule formation.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -767,15 +1299,14 @@ traits:
     entity: PO:0003023
 references:
   - citation: Pumplin, Mondo et al., 2009
-    doi: 10.1111/j.1365-313x.2009.04072.x
+    doi: 10.1111/j.1365-313X.2009.04072.x
     pmid: 19912567
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 28 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FLOT2
 gene_symbol_long: Flotillin-like protein 2
@@ -784,7 +1315,9 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106420
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in plants that form pink nodules. A decrease in primary root length and long primary lateral roots, reduced reduction of acetylene, and reduced number of infection events.
+phenotype_synopsis: Fewer nodules per plant, an increase in no-nodule plants, and a decrease in
+  plants that form pink nodules. A decrease in primary root length and long primary lateral roots,
+  reduced reduction of acetylene, and reduced number of infection events.
 traits:
   - entity_name: lateral root length
     entity: TO:0001012
@@ -808,9 +1341,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 29 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FLOT3
 gene_symbol_long: Flotillin-like protein 3
@@ -835,9 +1367,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 30 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - FLOT4
 gene_symbol_long: Flotillin-like protein 4
@@ -846,7 +1377,10 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g106430
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Decrease in plants that form pink nodules and an increase in numbers of secondary lateral roots, reduced reduction of acetylene.  Weak association with reduction in nodule numbers.  Both decreased number of infection events and defective infection thread elongation.
+phenotype_synopsis: Decrease in plants that form pink nodules and an increase in numbers of
+  secondary lateral roots, reduced reduction of acetylene. Weak association with reduction in
+  nodule numbers. Both decreased number of infection events and defective infection thread
+  elongation.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -864,9 +1398,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 31 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NFP
 gene_symbol_long: Nod Factor Perception
@@ -887,9 +1420,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 32 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - GT3
   - UGT73F3
@@ -899,7 +1431,18 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g035020
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.
+phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity
+  for multiple sapogenins and functions in saponin biosynthesis. Homozygous plants were retarded in
+  growth relative to normal plants, whereas heterozygous plants did not show dwarfism. Homozygous
+  plants could flower and produce a few pods. The seeds did not show visible morphological changes
+  but took an unusually long time to germinate (at least 3 weeks). Roots in homozygous lines were
+  very short and less branched compared with the wild type. Leaf saponin levels did not differ
+  between controls and mutants. Levels of 5 different saponins were lower in mutant lines (approx.
+  3-fold) compared with controls, while only one saponin was higher in the mutants. The large
+  (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests
+  that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated
+  sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in
+  UGT73F3 knockouts.
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
@@ -921,9 +1464,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 33 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - chitIII-3
 gene_symbol_long: class III chitinase
@@ -932,21 +1474,171 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g055940
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Mtchit 3-3 expression (class III chitinase gene) is specifically induced by arbuscular mycorrhizal (AM) fungi in roots of the model legume Medicago truncatula.  Mtchit 3-3 expression was artificially induced with a CaMV 35S promoter in root cells; this stimulated spore germination of Glomus intraradices and Glomus constrictum, and in the case of G. intraradices resulted in a higher probability of root colonization and spore formation.  There was no measurable effect on the abundance of arbuscules within colonized roots.
+phenotype_synopsis: Mtchit 3-3 expression (class III chitinase gene) is specifically induced by
+  arbuscular mycorrhizal (AM) fungi in roots of the model legume Medicago truncatula. Mtchit 3-3
+  expression was artificially induced with a CaMV 35S promoter in root cells; this stimulated spore
+  germination of Glomus intraradices and Glomus constrictum, and in the case of G. intraradices
+  resulted in a higher probability of root colonization and spore formation. There was no
+  measurable effect on the abundance of arbuscules within colonized roots.
 traits:
   - entity_name: root system
     entity: PO:0025025
 references:
   - citation: Salzer, Bonanomi et al., 2000
-    doi: 10.1094/mpmi.2000.13.7.763
+    doi: 10.1094/MPMI.2000.13.7.763
     pmid: 10875337
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 34 ##
 ---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtGS2b
+gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE 2 b
+gene_model_pub_name: Medtr2g026360.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g021242
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - MtGS2b transcripts were detected exculsivly in developing seeds and seed pods
+  - MtGS2a has a high degree of homology with MtGS2b
+  - MtGS2b plays a role in seed metabloism
+  - The stronger and specific expression of MtGS2b during seed filling suggests that the enzyme
+      plays a role in seed specific role related to reserve accumulation
+phenotype_synopsis: MtGS2b plays a role in seed metabloism and seed storage
+traits:
+  - entity_name: seed maturation
+    entity: TO:0002661
+  - entity_name: glutamine catabolic process
+    entity: GO:0006543
+references:
+  - citation: Seabra, Vieria et al., 2010
+    doi: 10.1186/1471-2229-10-183
+    pmid: 20723225
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtGS2a
+gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE 2 a
+gene_model_pub_name: Medtr2g026390.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g021255
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtGS2a transcripts were detected in almost all organs of the plant, being generally more highly
+      expressed in leaves, stems and cotyledon
+  - MtGS2a transcripts remain constant from 3-14 DAP but are absent at 20 DAP
+  - MtGS2a has a high degree of homology with MtGS2b
+  - MtGSba plays a role in seed metabloism
+phenotype_synopsis: MtGSa plays a role in seed metabloism
+traits:
+  - entity_name: seed maturation
+    entity: TO:0002661
+  - entity_name: glutamine catabolic process
+    entity: GO:0006543
+references:
+  - citation: Seabra, Vieria et al., 2010
+    doi: 10.1186/1471-2229-10-183
+    pmid: 20723225
+
+---
+scientific_name: Medicago Truncatula
+gene_symbols:
+  - MtAGa
+gene_symbol_long: AGAMOUS a
+gene_model_pub_name: KF159804
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr2g0284911
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtAGa transcripts were detected throughout the floral meristem including the petal and sepal
+      primordia
+  - MtAGa and MtAGb are largely restricted to devloping the male and female floral organs in the
+      early stages of flower development
+  - MtAGa overexpression causes the conversion of sepals and petals into carpels and stamens
+  - The transcription factor LFY activates MtAGa
+phenotype_synopsis: MtAGa controls stamen and carpel development
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: stamen development
+    entity: GO:0048443
+  - entity_name: carpel development
+    entity: GO:0048440
+references:
+  - citation: Serwatowska, Roque et al., 2014
+    doi: 10.1371/journal.pone.0103770
+    pmid: 25105497
+
+---
+scientific_name: Medicago Truncatula
+gene_symbols:
+  - MtAGb
+gene_symbol_long: AGAMOUS b
+gene_model_pub_name: KF159805
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr8g0380021
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtAGb transcripts accumulate in the centre of the floral primordia before migrating to the
+      common primordia which will give rise to the stamens and the central part of the floral apex
+      where the carpel is developing
+  - MtAGa and MtAGb are largely restricted to devloping the male and female floral organs in the
+      early stages of flower development
+  - MtAGb overexpression causes the conversion of sepals and petals into carpels and stamens
+  - MTAGb is more efficent at at inducing reproductive organ fate when overexpressed compared to
+      MTAGa
+  - The transcription factor LFY activates MtAGb
+phenotype_synopsis: MtAGb controls stamen and carpel development
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: stamen development
+    entity: GO:0048443
+  - entity_name: carpel development
+    entity: GO:0048440
+references:
+  - citation: Serwatowska, Roque et al., 2014
+    doi: 10.1371/journal.pone.0103770
+    pmid: 25105497
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtTCP18
+gene_symbol_long: TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR
+gene_model_pub_name: Medtr4g111935
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g111935
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - The expression pattern of MtTCP18 suggests that it may play a role in axillary bud development
+  - MtTCP18 is highly expressed in pods and axillary buds
+  - MtTCP18 encodes a nuclear protein functioning as transcriptional activator
+  - MtTCP18 likely supresses Auxin-related gene expression
+  - MtTcP18 is highly conserved with Arabidopsis gene BRC1 (BRANCHED1)
+phenotype_synopsis: MtTCP18 regulates plant height, branch number and axillary bud synthesis
+traits:
+  - entity_name: Plant Height
+    entity: TO:0000207
+  - entity_name: Axillary bud morphology trait
+    entity: TO:0000790
+  - entity_name: Primary Branch number
+    entity: TO:0000547
+references:
+  - citation: Su, Zheng etal., 2024
+    doi: 10.3390/plants13071012
+    pmid: 38611541
+
+---
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtCre1
 gene_symbol_long: Cytokinin Response 1
@@ -955,7 +1647,12 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g106150
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, MtRR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi.
+phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application. Expression
+  of the primary cytokinin response gene, MtRR4, was not induced by cytokinins. Plants had an
+  increased number of lateral roots (higher lateral root density) and a strong reduction in numbers
+  of root nodules. The development of infection threads was inhibited and early nodule primordia
+  development was also impaired. Expression of early nodulation genes was reduced in plants in
+  which expression of MtCre1 was interfered with by RNAi.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -977,9 +1674,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 35 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - ERN1
 gene_symbol_long: Ethylene Response Factor Required for Nodulation 1
@@ -1000,9 +1696,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 36 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - ERN2
 gene_symbol_long: Ethylene Response Factor Required for Nodulation 2
@@ -1023,9 +1718,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 37 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - EXPA
 gene_symbol_long: EXPANSIN A7
@@ -1046,9 +1740,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 38 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NIN
 gene_symbol_long: Nodule Inception
@@ -1069,9 +1762,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 39 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NRT1.3
 gene_symbol_long: Nitrate Transporter 1.3
@@ -1092,9 +1784,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 40 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - NSP1
 gene_symbol_long: Nodulation signaling pathway 1
@@ -1115,9 +1806,8 @@ references:
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
 
-
-## DOCUMENT 41 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - RR4
 gene_symbol_long: Response Regulator 4
@@ -1135,8 +1825,60 @@ references:
     doi: 10.1105/tpc.15.00461
     pmid: 26672071
 
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRH1
+gene_symbol_long: RED HEART 1
+gene_model_pub_name: XP_013442258
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Upregulation of MtRH1 leads to enhanced leaf marking
+  - MtRH1 activates anthocyanin biosynthetic genes
+  - MtRH1 expression is primarily confinded to the red markings on the leaves
+  - MtRH1 expression is mediated by binding to specific promoter regions and competes with MtRH2
+  - MtRH2 and MtRH1 are paralogs
+phenotype_synopsis: MtRH1 is a positive regulator of anthocyanin biosynthesis
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: positive regulation of anthocyanin biosynthetic process
+    entity: GO:0031542
+references:
+  - citation: Wang, Li et al., 2020
+    doi: 10.1111/nph.17097
+    pmid: 33222243
 
-## DOCUMENT 42 ##
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRH2
+gene_symbol_long: RED HEART 2
+gene_model_pub_name: XP_013442390
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229131
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtRH2 negativly regulates leaf markings
+  - MtRH2 does not activate anthocyanin biosynthetic genes
+  - MtRH2 and MtRH1 are paralogs
+  - MtRH2 negatively regulates leaf anthocyanin markings by competing with RH1 in the MBW
+      regulatory complex
+phenotype_synopsis: MtRH2 negatively regulates MtRH1
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: negative regulation of anthocyanin biosynthetic process
+    entity: GO:0031541
+references:
+  - citation: Wang, Li et al., 2020
+    doi: 10.1111/nph.17097
+    pmid: 33222243
+
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
@@ -1147,7 +1889,10 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g064700
 confidence: 5
 curators:
   - Wei Huang
-phenotype_synopsis: MtGSTF7, a homolog of AtTT19, is essential for anthocyanin accumulation but not required for PA accumulation in Medicago truncatula. MtGSTF7 was induced by the anthocyanin regulator LEGUME ANTHOCYANIN PRODUCTION 1 (LAP1), and its tissue expression pattern correlated with anthocyanin deposition in M. truncatula.
+phenotype_synopsis: MtGSTF7, a homolog of AtTT19, is essential for anthocyanin accumulation but not
+  required for PA accumulation in Medicago truncatula. MtGSTF7 was induced by the anthocyanin
+  regulator LEGUME ANTHOCYANIN PRODUCTION 1 (LAP1), and its tissue expression pattern correlated
+  with anthocyanin deposition in M. truncatula.
 traits:
   - entity_name: anthocyanin accumulation
     entity: NCIT:C16641
@@ -1159,9 +1904,8 @@ references:
     doi: 10.1371/journal.pone.0247170
     pmid: 33606812
 
-
-## DOCUMENT 43 ##
 ---
+scientific_name: Medicago truncatula
 gene_symbols:
   - EIN2
   - Skl1
@@ -1171,7 +1915,17 @@ gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0264231
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Absence of discrete nodules, increased persistant rhizobila infection, radial swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both hypocotyl and root growth.  Reduced inhibition of root growth in response to application of exogenous cytokinin benzyl adenine.  Increased primary mycorrhizal infections by Glomus versiforme and Glomus intraradices.  Increased susceptability to damage caused by infection with R. solani necrotrophic fungus and P. medicaginis necrotrophic oomycete as well as larger numbers of P. medicaginis reproductive structures.  Reduced biphasic ethylene production after inoculation with P. medicaginis, reduced gene expression for one isoform of ACC oxidase transcripts, and reduced responsiveness of ethylene levels to exogenous ACC (all indicators of impaired autocatalytic ethylene production).
+phenotype_synopsis: Absence of discrete nodules, increased persistant rhizobila infection, radial
+  swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced
+  develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both
+  hypocotyl and root growth. Reduced inhibition of root growth in response to application of
+  exogenous cytokinin benzyl adenine. Increased primary mycorrhizal infections by Glomus versiforme
+  and Glomus intraradices. Increased susceptability to damage caused by infection with R. solani
+  necrotrophic fungus and P. medicaginis necrotrophic oomycete as well as larger numbers of P.
+  medicaginis reproductive structures. Reduced biphasic ethylene production after inoculation with
+  P. medicaginis, reduced gene expression for one isoform of ACC oxidase transcripts, and reduced
+  responsiveness of ethylene levels to exogenous ACC (all indicators of impaired autocatalytic
+  ethylene production).
 traits:
   - entity_name: gravity response trait
     entity: TO:0002693
@@ -1204,4 +1958,120 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtbZIP60
+gene_symbol_long: basic leucine zipper 60
+gene_model_pub_name: Medtr4g070860
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g070860
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtbZIP60 expression level increases significantly as leaf ages
+  - MtbZIP60 exhibits relatively high-level expression in leafs and moderate-level expression in
+      roots and stems
+  - MtbZIP60 inhibits leaf senescence through its interaction with MtWRKY40
+phenotype_synopsis: MtbZIP60 acts as a negative regulator of leaf senescence
+traits:
+  - entity_name: Leaf senescence duration
+    entity: TO:0012012
+  - entity_name: negative regulation of leaf senescence
+    entity: GO:1900056
+references:
+  - citation: Xing, Weng etal., 2024
+    doi: 10.3390/ijms251910410
+    pmid: 39408738
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtAGLF
+gene_symbol_long: AGAMOUS-LIKE FLOWER
+gene_model_pub_name: Medtr0007s0220
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr0007s0220
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtAGLF possesses a MYB-like DNA-binding domain which suggests transcriptional regulator in
+      flower development
+  - MtAGLF is probably involved in the regulation of the class C gene
+  - Loss-of-function of MtAGLF leads to the dysregulation of ABC genes
+  - The knockout of MtAGLF leads to ectopic expression of MtAP1 and MtPI across the FM and to
+      reduced MtAGa and MTAGb expression in the center
+phenotype_synopsis: MtAGLF regulates MtAGs which determine floral organ identity
+traits:
+  - entity_name: floral organ identity
+    entity: TO:0006019
+  - entity_name: floral organ development
+    entity: GO:0048437
+references:
+  - citation: Zhao, Liu et al., 2019
+    doi: 10.1073/pnas.1820468116
+    pmid: 30782811
+  - citation: Serwatowska, Roque et al., 2014
+    doi: 10.1371/journal.pone.0103770
+    pmid: 25105497
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtMIO1
+gene_symbol_long: Mini Organ 1
+gene_model_pub_name: Medtr5g097060
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g097060
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MIO1 encodes an F-box protein SMALL LEAF AND BUSHY1(SLB1) which was identified as a key
+      regulator of organ size
+  - MIO1 is highly expressed in leaves, floral organs, and immature seeds
+  - MIO1 plays a crucial role during lateral organ morphogenesis
+  - MIO1 positively regulates organ size mainly by promoting the process of primary cell
+      proliferation during plant development
+  - MIO1 is also necessary for robust pulvinus development and leaf movement
+  - MIO1/SLB1 could form part of SKP1/Cullin/F-box (SCF) E3 ubiquitin ligase complex to target
+      MtBS1
+phenotype_synopsis: MIO1 plays a role in plant organ size regulation and leaf movement
+traits:
+  - entity_name: Pulvinus size
+    entity: TO:0001075
+  - entity_name: Floral organ size
+    entity: TO:0002600
+  - entity_name: Leaf size
+    entity: TO:0002637
+references:
+  - citation: Zhou, Yang et al,. 2021
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtBS1
+gene_symbol_long: Big seed 1
+gene_model_pub_name: Medtr1g102900
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g102900
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - The stability of BS1 protein is negatively regulated by MIO1
+  - Loss of function BS1 caused enlarged lateral plant organs
+  - BS1 is a negative regulator of meristemoid proliferation and primary cell division
+  - BS1 is a ortholog of PPD (pea pod)
+phenotype_synopsis: MtBS1 is a repressor of primary cell cell division
+traits:
+  - entity_name: Floral organ size
+    entity: TO:0002600
+  - entity_name: Leaf size
+    entity: TO:0002637
+references:
+  - citation: Zhou, Yang et al,. 2021
+    doi: 10.1093/jxb/erab033
+    pmid: 33506247
 
