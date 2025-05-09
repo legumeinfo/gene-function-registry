@@ -13,22 +13,22 @@ use open qw( :std :encoding(UTF-8) );
 use feature "say";
 
 my $usage = <<EOS;
-  Synopsis: get_citations.pl -traits gensp.traits.yml -cit_out gensp.citations.txt
+  Synopsis: get_citations.pl -cit_out gensp.citations.txt FILE[s].yml
 
-  This script uses information in a yaml-format traits file to evaluate and fill in 
-  missing citation values (pmid from doi or doi from pmid), and to generate 
+  This script uses information in one or more yaml-format traits files to evaluate and 
+  fill in missing citation values (pmid from doi or doi from pmid), and to generate 
   a citations file that can be used for additional work.
   Citation elements are filled in, if null, from a citation file (-in_cit) if provided,
   or otherwise from the PubMed idconv citation service.
 
   Required:
-    -traits    Filename of yaml-format traits file (required).
-    -cit_out   Name of file file to hold doi, pmid, and citation (required).
+    (on ARGV)  One or more filenames of yaml-format traits files
+    -cit_out   Name of file file to hold doi, pmid, and citation
 
   Options:
     -in_cit    Filename of three-column file with PubMed citation handles: 
                  doi  pmid   citation[author, author et al., year]
-               If citations in the traits file are found in this file, the citation handles
+               If citations in the traits file(s) are found in this file, the citation handles
                will be drawn from this file; otherwise, from the PubMed idconv citation service.
     -yml_out   Filename of yaml-format traits to write, filling in doi and/or pmid.
     -overwrite To overwrite the yml_out and cit_out files, if they exist already (boolean).
@@ -36,25 +36,26 @@ my $usage = <<EOS;
     -help      This message (boolean).
 EOS
 
-my ($traits, $help, $verbose, $yml_out, $cit_out, $in_cit);
-my $doc_count = 1;
+my ($help, $verbose, $yml_out, $cit_out, $in_cit);
 my $apibase = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
 my $overwrite=0;
 my $sleepytime=2;
 my $width = 100;  # Wrap at this number of characters
 
 GetOptions (
-  "traits=s" =>   \$traits,  # required
   "cit_out=s" =>  \$cit_out, # retuired
   "yml_out:s" =>  \$yml_out,
   "in_cit:s" =>   \$in_cit,
-  "doc_count:i" => \$doc_count,
   "overwrite" =>  \$overwrite,
   "verbose" =>    \$verbose,
   "help" =>       \$help,
 );
 
-die "$usage" unless (defined($traits) && defined($cit_out));
+if (scalar(@ARGV)==0){
+  print "\n$usage\n";
+  die "Please provide one or more TRAIT.yml files as the first argument.\n\n";
+}
+die "$usage" unless defined($cit_out);
 die "$usage" if ($help);
 
 if ( defined($yml_out) && -e $yml_out){ die "File $yml_out exists already.\n" unless ($overwrite) }
@@ -87,9 +88,19 @@ if ($in_cit){
   }
 }
 
-my $yp = YAML::PP->new( preserve => YAML::PP::Common->PRESERVE_ORDER );
-my @yaml = $yp->load_file( $traits );
+# Read all yaml files from @ARGV and combine into one variable.
+my $combined_content;
+foreach my $filename (@ARGV) {
+  open my $fh, '<', $filename or die "Could not open file '$filename': $!";
+  local $/ = undef; # Slurp mode: read the whole file at once
+  $combined_content .= <$fh>;
+  close $fh;
+}
 
+my $yp = YAML::PP->new( preserve => YAML::PP::Common->PRESERVE_ORDER );
+my @yaml = $yp->load_string( $combined_content );
+
+my %remembered_components;
 for my $doc_ref ( @yaml ){
   &printstr_yml( "---" );
   while (my ($key, $value) = each (%{$doc_ref})){
@@ -111,17 +122,33 @@ for my $doc_ref ( @yaml ){
         ## citation ##
         my $citation = $cit_elts[0];
         
-        say "  == AA: ", join(", ", @cit_elts);
+        if ($verbose){ say "  == AA: ", join(", ", @cit_elts) }
 
         ## other components: doi & pmid ##
         my ($doi, $pmid) = ( $cit_elts[1], $cit_elts[2] );
         if ( $pmid !~ /null|~/ ){ # get doi (PubMed IDs) from pmid
-          # say "CHECK: get_ids for pmid $pmid";
-          @pubmed_components = &get_ids("pmid", $pmid);
+          if ( ! $seen_pmid{$pmid} ){
+            # say "CHECK: get_ids for pmid $pmid";
+            @pubmed_components = &get_ids("pmid", $pmid);
+            $remembered_components{$pmid} = \@pubmed_components;
+            $seen_pmid{$pmid}++;
+          }
+          else {
+            @pubmed_components = @{$remembered_components{$pmid}};
+            #print "YY: ", join(", ", $pmid, @pubmed_components), "\n";
+          }
         }
         elsif ( $doi !~ /null|~/ ){ # get pmid (and all PubMed IDs) from doi
-          # say "CHECK: get_ids for doi $doi";
-          @pubmed_components = &get_ids("doi", $doi);
+          if ( ! $seen_doi{$doi} ){
+            # say "CHECK: get_ids for doi $doi";
+            @pubmed_components = &get_ids("doi", $doi);
+            $remembered_components{$doi} = \@pubmed_components;
+            $seen_doi{$doi}++;
+          }
+          else {
+            @pubmed_components = @{$remembered_components{$doi}};
+            #print "ZZ: ", join(", ", $doi, @pubmed_components), "\n";
+          }
         }
 
         # say "  == BB: ", join(", ", @pubmed_components);
@@ -133,11 +160,11 @@ for my $doc_ref ( @yaml ){
         &printstr_yml( "    pmid: $pmid" );
 
         if ( $seen_doi{$doi} ){
-          #say "  == CC: ", join(", ", @pubmed_components, $citation);
+          # say "  == CC: ", join(", ", @pubmed_components, $citation);
           next;
         }
         else {
-          #say "  == DD: ", join(", ", @pubmed_components, $citation);
+          # say "  == DD: ", join(", ", @pubmed_components, $citation);
           $cit_doi_HoA{$doi} = [@pubmed_components, $citation];
           $seen_doi{$doi}++; 
         }
@@ -167,7 +194,6 @@ for my $doc_ref ( @yaml ){
       else { &printstr_yml( "$key: null" ) }
     }
   }
-  $doc_count++;
   &printstr_yml("");
 }
 
@@ -249,11 +275,13 @@ sub get_ids {
       $crossref_base = "https://api.crossref.org/works";
       $curl_string = "curl --silent \"$crossref_base/works/$cit_id\"";
       say "  == EE: Lookup doi $cit_id: $curl_string";
+      sleep($sleepytime);
     }
     elsif ($cit_type =~ /pmid/){
       $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
       $curl_string = "curl --silent \"$ncbi_base/?format=citation&id=$cit_id\""; 
-      say "  == FF: Lookup pmid $cit_id: $curl_string";
+      if ($verbose){ say "  == FF: Lookup pmid $cit_id: $curl_string" }
+      sleep($sleepytime);
     }
     else {
       die "Unexpected ID type: [$cit_id].\n";
@@ -261,13 +289,12 @@ sub get_ids {
     my $json_response = `$curl_string`;
     # say "=====\n$json_response=====";
      
-    if ($json_response =~ /\"DOI\":\"([^"]+)\"/i || $json_response =~ /doi:([^"]+)\"/i){ $doi_str = $1; }
+    if ($json_response =~ /\"DOI\":\"([^"]+)\"/i || $json_response =~ /doi:([\S]+)\"/){ $doi_str = $1; }
     # say "  == GG: DOI: $doi_str";
     
     if ($json_response =~ /pmid:(\d+)/i || $json_response =~ /PMID: (\d+)/i){ $pmid_str = $1; }
     # say "  == HH: PMID: $pmid_str";
     
-    sleep($sleepytime);
   }
   my @components = ($doi_str, $pmid_str);
   return (@components);
@@ -280,7 +307,7 @@ S. Cannon
 2023-05-01 Switch to fatcat biblio lookup service
 2023-05-03 Change grouping of ontology terms, adding e.g. entity_name to go with entity
 2023-06-22 Handle key-value pairs for which the value is an array: comments, curators, gene_symbols
-2023-06-23 Add doc_count as parameter
 2024-09-15 Specify input and output as utf-8
-2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov. Wrap long lines in yml
+2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov. Wrap long lines in yml.
+2025-05-09 Remember doi and pmid components to avoid looking them up repeatedly
 
