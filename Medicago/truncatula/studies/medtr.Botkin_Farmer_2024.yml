@@ -7,9 +7,9 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -Glutathione S-transferase (GST) is a candidate gene for SBS disease resistance in rpm1
-  -GSTs participate in detoxification of xenobiotic toxins, reduction of oxidative stress, and are receptors of salicylic acid
-  -In HM078, the GST contained a 12 bp insertion in the 5’ UTR region, which is known to contain microRNA binding sites and structural features that regulate mRNA splicing and stability
+  - Glutathione S-transferase (GST) is a candidate gene for SBS disease resistance in rpm1
+  - GSTs participate in detoxification of xenobiotic toxins, reduction of oxidative stress, and are receptors of salicylic acid
+  - In HM078, the GST contained a 12 bp insertion in the 5’ UTR region, which is known to contain microRNA binding sites and structural features that regulate mRNA splicing and stability
 phenotype_synopsis: MtGST detoxifys toxic substances in plants and reduces oxidative stress in Medicago
 traits:
   - entity_name: positive regulation of cellular response to oxidative stress
@@ -32,10 +32,10 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -A single base pair insertion in the coding region of TIR-NBS-LRR resulted in a frame-shift mutation in the HM078 homolog that produced a downstream premature stop codon
-  -This truncation likely causes a loss-of-function due to the absence of the LRR domain in the predicted peptide
-  -A loss-of-function in the TIR-NBS-LRR gene could alleviate sensitivity to a host sensitive toxin that has yet to be identified
-  -Could be acting as a negative regulator of unidentified plant disease resistance protein
+  - A single base pair insertion in the coding region of TIR-NBS-LRR resulted in a frame-shift mutation in the HM078 homolog that produced a downstream premature stop codon
+  - This truncation likely causes a loss-of-function due to the absence of the LRR domain in the predicted peptide
+  - A loss-of-function in the TIR-NBS-LRR gene could alleviate sensitivity to a host sensitive toxin that has yet to be identified
+  - Could be acting as a negative regulator of unidentified plant disease resistance protein
 phenotype_synopsis: TIR-NBS-LRR gene regulates Medicago defense response
 traits:
   - entity_name: defense response
@@ -53,9 +53,9 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -B3-domain transcription factor has a single base pair deletion and a two base pair insertion in the HM078 homolog caused a 98 amino acid deletion and truncation of a B3 domain
-  -B3-domain transcription factor is a candidate gene for SBS disease resistance found in rpm1
-  -B3-domain transcription factors are co-expressed during secondary cell walls biosynthesis and lignin formation
+  - B3-domain transcription factor has a single base pair deletion and a two base pair insertion in the HM078 homolog caused a 98 amino acid deletion and truncation of a B3 domain
+  - B3-domain transcription factor is a candidate gene for SBS disease resistance found in rpm1
+  - B3-domain transcription factors are co-expressed during secondary cell walls biosynthesis and lignin formation
 phenotype_synopsis: B3-domain transcription factors regulate lignin and cell wall biosynthesis
 traits:
   - entity_name: lignin biosynthetic process
