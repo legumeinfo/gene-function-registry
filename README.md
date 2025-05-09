@@ -97,4 +97,47 @@ The **references** block is required. It contains one or more blocks of citation
   LastName, LastName et al., YEAR
 ```
 
+## Updating gene_functions/ files: gensp.traits.yml, gensp.citations.txt, gensp.references.txt
+The information in the gene function registry documents gets incorporated into a Mine instance for some species when the `gensp.traits.yml` file
+is generated and copied to the `gene_functions` section of the public data store. This is a step that some curator has to initiate.
+These files are generated with two scripts, like so (assuming the scripts have been added to the user's PATH):
+```
+  get_citations.pl -cit_out Glycine/max/gene_functions/glyma.citations.txt --yml_out Glycine/max/gene_functions/glyma.traits.yml -over Glycine/max/studies/*yml
+  get_references.pl -out Glycine/max/gene_functions/glyma.references.txt Glycine/max/gene_functions/glyma.citations.txt
+```
 
+<details>
+<summary>To run these scripts for all species, call them in a loop, driven by a file with the genus, species, and gensp names:</summary>
+
+```
+cat templates/genus_species.tsv
+  Glycine max glyma
+  Glycine soja glyso
+  Lotus japonicus lotja
+  Medicago truncatula medtr
+  Phaseolus vulgaris phavu
+  Pisum sativum pissa
+  Vicia faba vicfa
+  Vigna radiata vigra
+
+
+cat templates/genus_species.tsv | while read -r line; do
+  genus=`echo $line | awk '{print $1}'`
+  species=`echo $line | awk '{print $2}'`
+  gensp=`echo $line | awk '{print $3}'`
+  echo "$genus $species $gensp"
+
+  get_citations.pl -cit_out $genus/$species/gene_functions/$gensp.citations.txt \
+                   -yml_out $genus/$species/gene_functions/$gensp.traits.yml \
+                   -verbose -over \
+                      $genus/$species/studies/*yml
+
+  get_references.pl -out $genus/$species/gene_functions/$gensp.references.txt $genus/$species/gene_functions/$gensp.citations.txt
+
+done
+```
+
+Once the files have been updated in each `$genus/$species/gene_functions`, then copy those files over to the main datastore, 
+and also update the `datastore_metadata` GitHub repository.
+
+</details>
