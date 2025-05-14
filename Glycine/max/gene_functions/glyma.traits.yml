@@ -757,8 +757,9 @@ references:
     pmid: 35574141
 
 ---
+scientific_name: Glycine max
 gene_symbols:
-scientific_name: Glycine max - GmMSI1
+  - GmMSI1
 gene_symbol_long: Multicopy Suppressor of IRA 1
 gene_model_pub_name: Glyma.05G131200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G131200
@@ -1782,7 +1783,7 @@ gene_symbols:
 gene_symbol_long: TGACG-motif binding factor 1
 gene_model_pub_name: Glyma.18G117100
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G117100
-confidence: null
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
@@ -1806,7 +1807,7 @@ gene_symbols:
 gene_symbol_long: TGACG-motif binding factor 2
 gene_model_pub_name: Glyma.08G302500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G302500
-confidence: null
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
@@ -3500,7 +3501,8 @@ comments:
   - The leaflets of the Gm-jag1 mutants were longer and narrower than those of the wild-type
       plants.
   - Soybean Ln gene pleiotropically controls leaflet shape and NSP.
-phenotype_synopsis: null
+phenotype_synopsis: Gm-JAG1 is a transcription factor in soybean that controls the size of flowers,
+  number of seeds, and shape of leaves.
 traits:
   - entity_name: C2H2 and C2HC zinc fingers superfamily protein
     entity: GO:0046872
@@ -3724,7 +3726,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmGA3ox_1a
-gene_symbol_long: ARRAY(0x11ff29fa8)
+gene_symbol_long: Gibberellic Acid 3-Oxidase 1a
 gene_model_pub_name: Glyma.15G012100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G012100
 confidence: 4
@@ -4495,7 +4497,9 @@ comments:
       PAP12 promoter. PHR1 overexpression and suppression in nodules resulted in highly increased
       and decreased expression of PAP12, respectively. Therefore, PAP12 is probably regulated by
       PHR1 in soybean nodules.
-phenotype_synopsis: ARRAY(0x1030a3560)
+phenotype_synopsis: GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in
+  nodules under low-P conditions. The enzyme thus contributes to nodulation, nitrogen fixation, and
+  symbiosis with rhizobia.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -5162,7 +5166,7 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: ARRAY(0x10316f098)
+classical_locus: ARRAY(0x12dce9b68)
 gene_symbols:
   - SACPD-C
 gene_symbol_long: delta-9-Stearoyl-Acyl Carrier Protein Desaturase-C
@@ -5334,7 +5338,9 @@ comments:
       biosynthesis in soybean seeds. Overexpression of B1 was associated with reductions in gene
       expression for all four transcription factors in developing pods and pod endocarp, but didn't
       impact transcription or fatty acid biosynthesis in developing seed coat and seeds.
-phenotype_synopsis: ARRAY(0x1031c8c70)
+phenotype_synopsis: Bloom 1 (GmB1) encodes a transmembrane transporter-like protein that not only
+  controls seed coat bloom but also exerts pleiotropic effects on seed oil content following
+  up-regulated oil biosynthesis in pods.
 traits:
   - entity_name: regulation of seed growth
     entity: GO:0080113

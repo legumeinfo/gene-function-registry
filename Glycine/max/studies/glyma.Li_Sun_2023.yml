@@ -38,7 +38,7 @@ gene_symbols:
 gene_symbol_long: TGACG-motif binding factor 1
 gene_model_pub_name: Glyma.18G117100
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G117100
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
@@ -61,7 +61,7 @@ gene_symbols:
 gene_symbol_long: TGACG-motif binding factor 2
 gene_model_pub_name: Glyma.08G302500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G302500
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
