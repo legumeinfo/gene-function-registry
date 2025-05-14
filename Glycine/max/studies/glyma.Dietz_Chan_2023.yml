@@ -79,8 +79,8 @@ references:
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
 ---
-gene_symbols:
 scientific_name: Glycine max
+gene_symbols:
   - GmMSI1
 gene_symbol_long: Multicopy Suppressor of IRA 1
 gene_model_pub_name: Glyma.05G131200

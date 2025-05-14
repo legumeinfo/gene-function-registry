@@ -34,10 +34,7 @@ comments:
     PHR1 overexpression and suppression in nodules resulted in highly increased
     and decreased expression of PAP12, respectively. Therefore, PAP12 is
     probably regulated by PHR1 in soybean nodules.
-phenotype_synopsis:
-  - GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in
-    nodules under low-P conditions. The enzyme thus contributes to nodulation,
-    nitrogen fixation, and symbiosis with rhizobia.
+phenotype_synopsis: GmPAP12 promotes P uptake, efficient P usage, and maintains P homeostasis in nodules under low-P conditions. The enzyme thus contributes to nodulation, nitrogen fixation, and symbiosis with rhizobia.
 traits:
   - entity_name: nodulation
     entity: GO:0009877

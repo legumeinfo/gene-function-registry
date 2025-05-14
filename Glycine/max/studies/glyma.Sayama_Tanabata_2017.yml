@@ -15,7 +15,7 @@ comments:
   - The leaflets of the Gm-jag1 mutants were longer and narrower than those of
     the wild-type plants.
   - Soybean Ln gene pleiotropically controls leaflet shape and NSP.
-phenotype_synopsis: null
+phenotype_synopsis: Gm-JAG1 is a transcription factor in soybean that controls the size of flowers, number of seeds, and shape of leaves.
 traits:
   - entity_name: C2H2 and C2HC zinc fingers superfamily protein
     entity: GO:0046872
