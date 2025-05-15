@@ -234,7 +234,8 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g078700
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: null
+phenotype_synopsis: The mtnam mutants display unique simplified floral organ phenotypes in addition
+  to the common fused-cotyledon and leaflet phenotypes shared with other cuc/nam mutants.
 traits:
   - entity_name: shoot apical meristem development
     entity: TO:0006020
@@ -365,7 +366,7 @@ gene_symbols:
 gene_symbol_long: CORYNE
 gene_model_pub_name: Medtr7g020850
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g020850
-confidence: null
+confidence: 5
 curators:
   - Raegan Nelson
 comments:

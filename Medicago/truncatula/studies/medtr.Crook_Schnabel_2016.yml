@@ -34,7 +34,7 @@ gene_symbols:
 gene_symbol_long: CORYNE
 gene_model_pub_name: Medtr7g020850
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g020850
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
