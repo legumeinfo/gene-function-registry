@@ -126,8 +126,7 @@ comments:
   - p allele has a in-frame premature stop codon (R79*) upstream of the TDIF motif
   - the TDIF peptide interacts with a PXY-like protein to specify pea pod sclerenchyma development
   - the lack of a sclerenchyma layer in pea pods is conditioned by the recessive allele at either (or both) of the genes P and V
-  - the V gene was not explored in this article
-phenotype_synopsis: CLE41 is involved in pod shape by the absence of sclerenchyma layer in mutants
+phenotype_synopsis: CLE41 in involved in the development of the sclerenchyma layer, which changes pod shape
 traits:
   - entity_name: sclerenchyma
     entity: PO:0005427
@@ -151,7 +150,7 @@ curators:
 comments:
   - fa mutant lines have a 5bp deletion in exon 2, on Hap 3, creating a frameshift and premature stop codon which would render the protein non-functional
   - The bunched apical flowers of the mutant (fafa) are found on a wider stem with additional vascular strands derived from a broadened apical meristem
-phenotype_synopsis: CIK1 is involved in apical meristem can when mutated can cause fasciation
+phenotype_synopsis: CIK1 is involved in apical meristem development which can change fasciation
 traits:
   - entity_name: Shoot apical meristem development
     entity: TO:0006020
@@ -165,19 +164,24 @@ references:
 scientific_name: Pisum sativum
 classical_locus: V
 gene_symbols:
-  - Ps
-gene_symbol_long:
-gene_model_pub_name:
+  -  PsMYB26
+gene_symbol_long: MYB 26
+gene_model_pub_name: Psat05G0804500
 gene_model_full_id:
 confidence: 4
 curators:
   - Raegan Nelson
 comments:
-  - 
-phenotype_synopsis: 
+  - PsMYB26 exhibits tissue-specific expression in the pod endocarp
+  - A 23 kb Ogre-type LTR retrotransposon insertion, located upstream of PsMYB26 is correlated with the lack of sclerenchyma formation
+  - The gene MYB26 is required for sclerenchyma formation in legume pods
+  - P and V have an episatic relationship that controls the development of the sclerenchyma layer in pea pods
+phenotype_synopsis: PsMYB26 in involved in the development of the sclerenchyma layer, which changes pod shape
 traits:
-  - entity_name:
-    entity:
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: sclerenchyma
+    entity: PO:0005427
 references:
   - citation: Feng, Chen et al., 2024
     doi: 10.1038/s41586-025-08891-6
