@@ -167,7 +167,7 @@ gene_symbols:
   -  PsMYB26
 gene_symbol_long: MYB 26
 gene_model_pub_name: Psat05G0804500
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat5g291560
 confidence: 4
 curators:
   - Raegan Nelson
