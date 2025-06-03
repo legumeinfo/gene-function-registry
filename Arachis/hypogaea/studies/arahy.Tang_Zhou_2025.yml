@@ -2,23 +2,23 @@
 scientific_name: Arachis hypogaea
 classical_locus:
 gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
+  - AhRt3
+gene_symbol_long: Red Testa 3
+gene_model_pub_name: W8TDEC
+gene_model_full_id: arahy.Tifrunner.gnm2.ann1.W8TDEC
 confidence:
 curators:
   - Scott Kalberer
 comments:
   -
-phenotype_synopsis:
+phenotype_synopsis: The gene AhRt3 codes for an anthocyanidin reductase (ANR) that catalyzes the conversion of anthocyanidins into flavan-3-ols (catechins and epicatechins), ultimately leading to the production of proanthocyanidins (condensed tannins).
 traits:
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
+  - citation: Tang, Zhou et al., 2025
+    doi: 10.1007/s00122-025-04903-1
+    pmid: 40358622
   - citation:
     doi:
     pmid:
