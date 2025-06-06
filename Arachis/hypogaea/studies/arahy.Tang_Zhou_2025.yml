@@ -9,9 +9,29 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  - The dominant gene AhRt3 codes for an anthocyanidin reductase enzyme (ANR) that catalyzes the conversion of anthocyanidins into flavan-3-ols (catechins and epicatechins). These flavan-3-ol precursors ultimately drive the production of proanthocyanidins (condensed tannins) that control red seed-coat color.
-  - Bulked Segregant Analysis sequencing first mapped AhRt3 to the chromosome A03. Map-based cloning narrowed down the genomic location to a 125.30 kb region containing 12 potential candidate genes. These fine-mapped options were subjected to transcriptome and other analyses to reveal the candidate gene Arahy.W8TDEC.
-phenotype_synopsis: Expression of Red Testa 3 (AhRt3) in peanut, encoding anthocyanidin reductase (ANR), increases proanthocyanidin contents of seed testas and consequently deeper red coloration.
+  - The Arachis hypogaea cultivar YH91 (pink testa) was crossed with JHT1 (red
+    testa) to produce an F2 population. Genetic analysis showed the red testa
+    trait was controlled by a single dominant gene named AhRt3 (Arachis hypogaea
+    Red Testa 3).
+  - Bulked Segregant Analysis sequencing first localized AhRt3 to the chromosome
+    A03. Map-based cloning narrowed down the genomic location to a fine-mapped
+    125.30 kb region containing 12 potential candidate genes.
+  - Transcriptome (RNA-seq) analysis revealed that, although 4,880 of the genes
+    in the seed coat were differentially expressed, only candidate gene
+    Arahy.W8TDEC displayed higher expression levels in JHT1 than in YH91.
+    Additional research into sequence variation, functional annotation, and
+    expression profiling increased the evidence in favor of Arahy.W8TDEC.
+  - AhRt3 codes for an anthocyanidin reductase enzyme (ANR) that catalyzes the
+    conversion of anthocyanidins into flavan-3-ols (catechins and epicatechins).
+    These flavan-3-ol precursors ultimately drive the production of
+    proanthocyanidins (condensed tannins) that control red seed-coat color and
+    provide antioxidant nutrition.
+  - An inversion between the sixth exon and the 3’UTR for Arahy.W8TDEC resulted
+    in an altered amino acid sequence closely associated with the red testa
+    phenotype.
+phenotype_synopsis: Expression of Red Testa 3 (AhRt3) in Arachis hypogaea,
+  encoding anthocyanidin reductase (ANR), increases proanthocyanidin contents of
+  seed testas and consequently deeper red coloration.
 traits:
   - entity_name: seed coat color
     entity: TO:0000190
@@ -25,6 +45,3 @@ references:
   - citation: Tang, Zhou et al., 2025
     doi: 10.1007/s00122-025-04903-1
     pmid: 40358622
-  - citation:
-    doi:
-    pmid:
