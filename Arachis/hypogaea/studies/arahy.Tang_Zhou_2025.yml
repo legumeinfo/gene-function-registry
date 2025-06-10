@@ -9,11 +9,18 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  - The Arachis hypogaea cultivar YH91 (pink testa) was crossed with JHT1 (red
-    testa) to produce an F2 population. Genetic analysis showed the red testa
-    trait was controlled by a single dominant gene named AhRt3 (Arachis hypogaea
-    Red Testa 3).
-  - Bulked Segregant Analysis sequencing first localized AhRt3 to the chromosome
+  - The Arachis hypogaea cultivar Yuhua 91 (YH91 female parent, pink-colored
+    testa typical of most peanuts) was crossed with Jihuatian 1 (JHT1 male
+    parent, red-colored testa indicative of higher flavonoid content) to produce
+    F1, F2, and F3 populations. Genetic analysis showed the red testa trait was
+    controlled by a single dominant gene named AhRt3 (Arachis hypogaea Red Testa
+    3).
+  - Peanut seed coats at multiple developmental stages were frozen, pulverized,
+    and then soluble and insoluble proanthocyanidins were sequentially extracted
+    with methanol. Absorbance of red light (643 nm) was measured using the
+    p-dimethylaminocinnamaldehyde (DMACA) method to estimate proanthocyanidin
+    concentrations.
+  - Bulked Segregant Analysis sequencing (BSA-seq) first localized AhRt3 to the chromosome
     A03. Map-based cloning narrowed down the genomic location to a fine-mapped
     125.30 kb region containing 12 potential candidate genes.
   - Transcriptome (RNA-seq) analysis revealed that, although 4,880 of the genes
