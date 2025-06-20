@@ -20,9 +20,19 @@ comments:
     with methanol. Absorbance of red light (643 nm) was measured using the
     p-dimethylaminocinnamaldehyde (DMACA) method to estimate proanthocyanidin
     concentrations.
-  - Bulked Segregant Analysis sequencing (BSA-seq) first localized AhRt3 to the chromosome
-    A03. Map-based cloning narrowed down the genomic location to a fine-mapped
-    125.30 kb region containing 12 potential candidate genes.
+  - Genomic DNA extracted from young leaves of F3 pink-pool, F3 red-pool, and
+    parental YH91 and JHT1 lines was used to develop and sequence DNA libraries.
+    High-quality filtered DNA reads were mapped to genomic sequences of
+    cultivated peanut Tifrunner (Tifrunner.gnm2.ann1.4K0L) using the
+    Burrows-Wheeler Aligner and they called and filtered single-nucleotide
+    polymorphisms (SNPs) and insertion/deletions (InDels). Genomic regions with
+    a statistically significant ΔSNP-index were considered associated candidates
+    controlling testa color. YH91 and JHT1 parental variations were used to
+    develop 35 InDels and 45 SNPs to then validate the BSA-seq results and
+    narrow down the candidate region.
+  - Bulked Segregant Analysis sequencing (BSA-seq) first localized AhRt3 to the
+    chromosome A03. Map-based cloning narrowed down the genomic location to a
+    fine-mapped 125.30 kb region containing 12 potential candidate genes.
   - Transcriptome (RNA-seq) analysis revealed that, although 4,880 of the genes
     in the seed coat were differentially expressed, only candidate gene
     Arahy.W8TDEC displayed higher expression levels in JHT1 than in YH91.
