@@ -29,7 +29,15 @@ comments:
     a statistically significant ΔSNP-index were considered associated candidates
     controlling testa color. YH91 and JHT1 parental variations were used to
     develop 35 InDels and 45 SNPs to then validate the BSA-seq results and
-    narrow down the candidate region.
+    narrow down the candidate region. PCR products of polymorphic markers were
+    used to construct a genetic linkage map on chromosome Arahy.03 and QTLs for
+    testa color were analyzed using inclusive composite interval mapping of
+    additives.
+  - Candidate gene sequences were predicted within the identified region based
+    on cultivated peanut reference genome sequences. RNA-seq datasets for 22
+    different tissues of A. hypogaea cv. Tifrunner were taken from the
+    PeanutBase.org gene expression atlas in order to study candidate gene
+    transcription in the seed coat.
   - Bulked Segregant Analysis sequencing (BSA-seq) first localized AhRt3 to the
     chromosome A03. Map-based cloning narrowed down the genomic location to a
     fine-mapped 125.30 kb region containing 12 potential candidate genes.
