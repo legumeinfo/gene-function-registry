@@ -1,0 +1,188 @@
+---
+scientific_name: Pisum sativum
+classical_locus: Gp
+gene_symbols:
+  - PsChlG
+gene_symbol_long: Chlorophyll synthase
+gene_model_pub_name: Psat03G0413700
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g126440
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - 100kb deletion upstream of ChlG generates aberrant transcripts and confers the yellow pod phenotype
+  - yellow pods are not the only feature of gp mutants, yellow tissues are seen in the petiole, rachis, tendrils and leaflet midribs of young leaves, and also in the pedicel, peduncle and sepals
+  - even the green leaves of gp lines have disturbed development of thylakoid membranes
+  - 100kb deletion removes three entire genes, as well as part of exon5 and the whole of exon 6 from a gene encoding a TIR-NBS-LRR protein
+  - the deletion upstream of ChlG in the gp lines generates a fused NLR-ChlG transcript, removing the fused NLR-ChlG transcript would restore the wild-type green pod color
+phenotype_synopsis: ChlG is involed in the process of making chlorophyll, which turns pea pods and other plant tissues green
+traits:
+  - entity_name: Chlorophyll content
+    entity: TO:0000495
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: R
+gene_symbols:
+  -PsSBE1
+gene_symbol_long: Starch Branching Enzyme 1
+gene_model_pub_name: Psat03G0136800
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g034640
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - The insertion of Ips-r, a 1021bp non-autonomous Ac- like transposable element, within exon 22
+  - The single GWAS peak indicates that there is no genetic heterogeneity associated with this phenotype within the lines studied
+phenotype_synopsis: SBE1 is involved in seed coat texture, either round or wrinkly peas
+traits:
+  - entity_name: Seed coat texture
+    entity: TO:0000903
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: I
+gene_symbols:
+  - PsSGR
+gene_symbol_long: Stay green
+gene_model_pub_name: Psat02G0529500
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat2g181040
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Two classes of i alleles i-1 and i-2
+  - SGR encodes Mg-dechelatase
+  - i-1 is caused by a insertion of a 5,696 nt TAR element (a Ty1-Copia LTR retrotransposon)
+  - i-2 is a novel 408 bp deletion in the promoter of the Mg-dechelatase gene
+phenotype_synopsis: SGR is involved in cotyledon color
+traits:
+  - entity_name: Seedling cotyledon color
+    entity: TO:0000750
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: A
+gene_symbols:
+  - PsbHLH
+gene_model_pub_name: Psat06G0169800
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat6g060480
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - bHLH transcription factor required for the expression of chalcone synthase in epidermal tissues which enables anthocyanin pigmentation
+  - two most common a alleles had splice donor site variant (G to A) in Hap 5 or a additional ‘A’ nucleotide in exon 6 creating a premature stop codon in Hap 2
+phenotype_synopsis: bHLH is involed in flower pigment
+traits:
+  - entity_name: Flower color
+    entity: TO:0000537
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: Le
+gene_symbols:
+  - PsGA3OX1
+gene_symbol_long: GA 3-oxidase 1
+gene_model_pub_name: Psat05G0825300
+gene_model_full_id:
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - reduced height le variants were exclusively found in haplotype 1, which carries the known G-A substitution at chr5:639901919
+  - variation at other known loci involved in plant height, or internode length does not contribute significantly to natural phenotypic variation in this trait
+phenotype_synopsis: GA3OX1 is involved in stem internode length
+traits:
+  - entity_name: Stem internode morphology trait
+    entity: TO:0000756
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: P
+gene_symbols:
+  - PsCLE41
+gene_model_pub_name: Psat01G0420500
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat1g151160
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - p allele has a in-frame premature stop codon (R79*) upstream of the TDIF motif
+  - the TDIF peptide interacts with a PXY-like protein to specify pea pod sclerenchyma development
+  - the lack of a sclerenchyma layer in pea pods is conditioned by the recessive allele at either (or both) of the genes P and V
+phenotype_synopsis: CLE41 in involved in the development of the sclerenchyma layer, which changes pod shape
+traits:
+  - entity_name: sclerenchyma
+    entity: PO:0005427
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: Fa
+gene_symbols:
+  - PsCIK1
+gene_symbol_long: CLAVATA3 INSENSITIVE RECEPTOR KINASES 1
+gene_model_pub_name: Psat04G0031700
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat0s2289g0040
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - fa mutant lines have a 5bp deletion in exon 2, on Hap 3, creating a frameshift and premature stop codon which would render the protein non-functional
+  - The bunched apical flowers of the mutant (fafa) are found on a wider stem with additional vascular strands derived from a broadened apical meristem
+phenotype_synopsis: CIK1 is involved in apical meristem development which can change fasciation
+traits:
+  - entity_name: Shoot apical meristem development
+    entity: TO:0006020
+  - entity_name: apical meristem
+    entity: PO:0020144
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
+---
+scientific_name: Pisum sativum
+classical_locus: V
+gene_symbols:
+  - PsMYB26
+gene_symbol_long: MYB 26
+gene_model_pub_name: Psat05G0804500
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat5g291560
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - PsMYB26 exhibits tissue-specific expression in the pod endocarp
+  - A 23 kb Ogre-type LTR retrotransposon insertion, located upstream of PsMYB26 is correlated with the lack of sclerenchyma formation
+  - The gene MYB26 is required for sclerenchyma formation in legume pods
+  - P and V have an episatic relationship that controls the development of the sclerenchyma layer in pea pods
+phenotype_synopsis: PsMYB26 in involved in the development of the sclerenchyma layer, which changes pod shape
+traits:
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: sclerenchyma
+    entity: PO:0005427
+references:
+  - citation: Feng, Chen et al., 2024
+    doi: 10.1038/s41586-025-08891-6
+    pmid: 40269167
