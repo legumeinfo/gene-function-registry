@@ -3,7 +3,7 @@
 use warnings;
 use strict;
 use YAML::PP;
-use YAML::PP::Common qw/ :PRESERVE /;
+use YAML::PP::Common;
 use JSON::Parse 'parse_json';
 use Getopt::Long;
 use Text::Wrap;
@@ -88,7 +88,8 @@ if ($in_cit){
   }
 }
 
-# Read all yaml files from @ARGV and combine into one variable.
+warn "\n==========\n";
+warn "Reading all yaml files from \@ARGV and combining into one variable.\n";
 my $combined_content;
 foreach my $filename (@ARGV) {
   open my $fh, '<', $filename or die "Could not open file '$filename': $!";
@@ -100,6 +101,8 @@ foreach my $filename (@ARGV) {
 my $yp = YAML::PP->new( preserve => YAML::PP::Common->PRESERVE_ORDER );
 my @yaml = $yp->load_string( $combined_content );
 
+warn "\n==========\n";
+warn "Processing combined yaml and retrieving citations into a data structure. To see details, call with \"-v\"\n";
 my %remembered_components;
 for my $doc_ref ( @yaml ){
   &printstr_yml( "---" );
@@ -152,7 +155,6 @@ for my $doc_ref ( @yaml ){
         }
 
         # say "  == BB: ", join(", ", @pubmed_components);
-        say "";
         $doi = $pubmed_components[0];
         $pmid = $pubmed_components[1];
         &printstr_yml( "  - citation: $citation" );
@@ -197,17 +199,18 @@ for my $doc_ref ( @yaml ){
   &printstr_yml("");
 }
 
-if ($verbose){ warn "\nPrinting table of identifiers and citations\n"}
+warn "\n==========\n";
+warn "Printing table of identifiers and citations\n";
 # Print table of citations
-for my $doi (keys %cit_doi_HoA){
+for my $doi (sort keys %cit_doi_HoA){
   my $pmid = @{$cit_doi_HoA{$doi}}[1];
   my $nlm_cite;
   if ($pmid =~ /null/){
     $nlm_cite = "Reference not retrieved, as the pubmed ID is null."
   }
   else {
-    #say "  == JJ: PMID is $pmid";
-    if ($verbose){ warn "  == Retrieving and printing citation for $pmid\n"; }
+    say "  == JJ: PMID is $pmid";
+    if ($verbose){ warn "\n  == Retrieving and printing citation for $pmid\n"; }
     my $pubmed_request = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed/?format=citation&contenttype=json&id=$pmid";
     my $result_json = qx{curl --silent "$pubmed_request"};
     sleep($sleepytime);
@@ -269,18 +272,18 @@ sub get_ids {
     if ($verbose){ warn "  == Filling in from cit_pmid_HoA: $cit_id, $pmid_str, $citation\n"; }
   }
   else { # get citation components from the service
-    if ($verbose){ warn "  == Retrieving PubMed ID components for type $cit_type, ID $cit_id\n" }
+    if ($verbose){ warn "\n  == Retrieving PubMed ID components for type $cit_type, ID $cit_id\n" }
     my ($crossref_base, $ncbi_base, $curl_string);
     if ($cit_type =~ /doi/){
       $crossref_base = "https://api.crossref.org/works";
       $curl_string = "curl --silent \"$crossref_base/works/$cit_id\"";
-      say "  == EE: Lookup doi $cit_id: $curl_string";
+      if ($verbose){ say "  == EE: Lookup doi $cit_id: $curl_string" }
       sleep($sleepytime);
     }
     elsif ($cit_type =~ /pmid/){
       $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
       $curl_string = "curl --silent \"$ncbi_base/?format=citation&id=$cit_id\""; 
-      if ($verbose){ say "  == FF: Lookup pmid $cit_id: $curl_string" }
+      if ($verbose){ say "  == FF: Lookup pmid $cit_id: $curl_string\n" }
       sleep($sleepytime);
     }
     else {
@@ -310,4 +313,5 @@ S. Cannon
 2024-09-15 Specify input and output as utf-8
 2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov. Wrap long lines in yml.
 2025-05-09 Remember doi and pmid components to avoid looking them up repeatedly
+2025-07-01 Print citations sorted by doi
 
