@@ -1,8 +1,6 @@
 ---
 scientific_name: Glycine max
-classical_locus:
-  - fas
-  - st
+classical_locus: fas
 gene_symbols:
   - SACPD-C
 gene_symbol_long: delta-9-Stearoyl-Acyl Carrier Protein Desaturase-C
