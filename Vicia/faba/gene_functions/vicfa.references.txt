@@ -5,7 +5,7 @@ PMID- 36890232
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20230331
-LR  - 20231125
+LR  - 20250530
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Print)
 IS  - 0028-0836 (Linking)
@@ -292,8 +292,6 @@ AUID- ORCID: 0000-0002-1096-1468
 AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus C, 
       Denmark. sua@mbg.au.dk.
 LA  - eng
-GR  - BB/P023509/1/BB_/Biotechnology and Biological Sciences Research Council/United 
-      Kingdom
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 DEP - 20230308

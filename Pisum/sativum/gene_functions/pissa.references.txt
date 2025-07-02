@@ -79,100 +79,6 @@ SO  - Plant Mol Biol. 2008 Jun;67(3):243-56. doi: 10.1007/s11103-008-9314-8.
 
 
 ##### PUB RECORD #####
-## 10.1126/science.1132912  17204643  Armstead, Donnison et al., 2007  "Armstead I, Donnison I, Aubry S, Harper J, Hörtensteiner S, James C, Mani J, Moffet M, Ougham H, Roberts L, Thomas A, Weeden N, Thomas H, King I. Cross-species identification of Mendel's I locus. Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912. PMID: 17204643." ##
-
-PMID- 17204643
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20070116
-LR  - 20240109
-IS  - 1095-9203 (Electronic)
-IS  - 0036-8075 (Linking)
-VI  - 315
-IP  - 5808
-DP  - 2007 Jan 5
-TI  - Cross-species identification of Mendel's I locus.
-PG  - 73
-AB  - A key gene involved in plant senescence, mutations of which partially disable 
-      chlorophyll catabolism and confer stay-green leaf and cotyledon phenotypes, has 
-      been identified in Pisum sativum, Arabidopsis thaliana, and Festuca pratensis by 
-      using classical and molecular genetics and comparative genomics. A stay-green 
-      locus in F. pratensis is syntenically equivalent to a similar stay-green locus on 
-      rice chromosome 9. Functional testing in Arabidopsis of a homolog of the rice 
-      candidate gene revealed (i) senescence-associated gene expression and (ii) a 
-      stay-green phenotype after RNA interference silencing. Genetic mapping in pea 
-      demonstrated cosegregation with the yellow/green cotyledon polymorphism (I/i) 
-      first reported by Gregor Mendel in 1866.
-FAU - Armstead, Ian
-AU  - Armstead I
-AD  - Institute of Grassland and Environmental Research, Aberystwyth SY23 3EB, UK. 
-      ian.armstead@bbsrc.ac.uk
-FAU - Donnison, Iain
-AU  - Donnison I
-FAU - Aubry, Sylvain
-AU  - Aubry S
-FAU - Harper, John
-AU  - Harper J
-FAU - Hortensteiner, Stefan
-AU  - Hortensteiner S
-FAU - James, Caron
-AU  - James C
-FAU - Mani, Jan
-AU  - Mani J
-FAU - Moffet, Matt
-AU  - Moffet M
-FAU - Ougham, Helen
-AU  - Ougham H
-FAU - Roberts, Luned
-AU  - Roberts L
-FAU - Thomas, Ann
-AU  - Thomas A
-FAU - Weeden, Norman
-AU  - Weeden N
-FAU - Thomas, Howard
-AU  - Thomas H
-FAU - King, Ian
-AU  - King I
-LA  - eng
-GR  - BBS/E/G/00003001/BB_/Biotechnology and Biological Sciences Research 
-      Council/United Kingdom
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-PL  - United States
-TA  - Science
-JT  - Science (New York, N.Y.)
-JID - 0404511
-RN  - 0 (Arabidopsis Proteins)
-RN  - 1406-65-1 (Chlorophyll)
-SB  - IM
-MH  - Amino Acid Sequence
-MH  - Arabidopsis/*genetics/physiology
-MH  - Arabidopsis Proteins/genetics
-MH  - Chlorophyll/analysis/*metabolism
-MH  - Chromosome Mapping
-MH  - Cotyledon/physiology
-MH  - Festuca/*genetics/physiology
-MH  - Gene Expression Regulation, Plant
-MH  - *Genes, Plant
-MH  - Molecular Sequence Data
-MH  - Pisum sativum/*genetics/physiology
-MH  - Phenotype
-MH  - Plant Leaves/physiology
-MH  - RNA Interference
-EDAT- 2007/01/06 09:00
-MHDA- 2007/01/17 09:00
-CRDT- 2007/01/06 09:00
-PHST- 2007/01/06 09:00 [pubmed]
-PHST- 2007/01/17 09:00 [medline]
-PHST- 2007/01/06 09:00 [entrez]
-AID - 315/5808/73 [pii]
-AID - 10.1126/science.1132912 [doi]
-PST - ppublish
-SO  - Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912.
-
-
-##### PUB RECORD #####
 ## 10.1016/j.tplants.2009.01.002  19237309  Hortensteiner, 2009  "Hörtensteiner S. Stay-green regulates chlorophyll and chlorophyll-binding protein degradation during senescence. Trends Plant Sci. 2009 Mar;14(3):155-62. doi: 10.1016/j.tplants.2009.01.002. Epub 2009 Feb 23. PMID: 19237309." ##
 
 PMID- 19237309
@@ -239,6 +145,286 @@ AID - 10.1016/j.tplants.2009.01.002 [doi]
 PST - ppublish
 SO  - Trends Plant Sci. 2009 Mar;14(3):155-62. doi: 10.1016/j.tplants.2009.01.002. Epub 
       2009 Feb 23.
+
+
+##### PUB RECORD #####
+## 10.1038/s41586-025-08891-6  40269167  Feng, Chen et al., 2024  "Feng C, Chen B, Hofer J, Shi Y, Jiang M, Song B, Cheng H, Lu L, Wang L, Howard A, Bendahmane A, Fouchal A, Moreau C, Sawada C, LeSignor C, Zhang C, Vikeli E, Tsanakas G, Zhao H, Cheema J, Barclay JE, Hou J, Sayers L, Wingen L, Vigouroux M, Vickers M, Ambrose M, Dalmais M, Higuera-Poveda P, Li P, Yuan Q, Spanner R, Horler R, Wouters R, Chundakkad S, Wu T, Zhao X, Li X, Sun Y, Huang Z, Wu Z, Deng XW, Steuernagel B, Domoney C, Ellis N, Chayut N, Cheng S. Genomic and genetic insights into Mendel's pea genes. Nature. 2025 Apr 23. doi: 10.1038/s41586-025-08891-6. Epub ahead of print. PMID: 40269167." ##
+
+PMID- 40269167
+OWN - NLM
+STAT- Publisher
+LR  - 20250603
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2025 Apr 23
+TI  - Genomic and genetic insights into Mendel's pea genes.
+LID - 10.1038/s41586-025-08891-6 [doi]
+AB  - Mendel(1) studied in detail seven pairs of contrasting traits in pea (Pisum 
+      sativum), establishing the foundational principles of genetic inheritance. Here 
+      we investigate the genetic architecture that underlies these traits and uncover 
+      previously undescribed alleles for the four characterized Mendelian genes(2-7), 
+      including a rare revertant of Mendel's white-flowered a allele. Primarily, we 
+      focus on the three remaining uncharacterized traits and find that (1) an 
+      approximately 100-kb genomic deletion upstream of the Chlorophyll synthase (ChlG) 
+      gene disrupts chlorophyll biosynthesis through the generation of intergenic 
+      transcriptional fusion products, conferring the yellow pod phenotype of gp 
+      mutants; (2) a MYB gene with an upstream Ogre element insertion and a CLE 
+      peptide-encoding gene with an in-frame premature stop codon explain the v and p 
+      alleles, which disrupt secondary cell wall thickening and lignification, 
+      resulting in the parchmentless, edible-pod phenotype; and (3) a 5-bp exonic 
+      deletion in a CIK-like co-receptor kinase gene, in combination with a genetic 
+      modifier locus, is associated with the fasciated stem (fa) phenotype. 
+      Furthermore, we characterize genes and alleles associated with diverse agronomic 
+      traits, such as axil ring anthocyanin pigmentation, seed size and the 
+      'semi-leafless' form. This study establishes a foundation for fundamental 
+      research, education in biology and genetics, and pea breeding practices.
+CI  - (c) 2025. The Author(s).
+FAU - Feng, Cong
+AU  - Feng C
+AUID- ORCID: 0009-0004-5453-6879
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Chen, Baizhi
+AU  - Chen B
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Hofer, Julie
+AU  - Hofer J
+AUID- ORCID: 0000-0002-0158-7574
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Shi, Yan
+AU  - Shi Y
+AUID- ORCID: 0000-0003-0320-3244
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Jiang, Mei
+AU  - Jiang M
+AUID- ORCID: 0009-0006-2751-7124
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Song, Bo
+AU  - Song B
+AUID- ORCID: 0000-0003-1102-2814
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Cheng, Hong
+AU  - Cheng H
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Lu, Lu
+AU  - Lu L
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Wang, Luyao
+AU  - Wang L
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Howard, Alex
+AU  - Howard A
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Bendahmane, Abdel
+AU  - Bendahmane A
+AUID- ORCID: 0000-0003-3246-868X
+AD  - INRAE UMR 1403, Institute of Plant Sciences Paris-Saclay, Gif-sur-Yvette, France.
+FAU - Fouchal, Anissa
+AU  - Fouchal A
+AD  - INRAE UMR 1403, Institute of Plant Sciences Paris-Saclay, Gif-sur-Yvette, France.
+FAU - Moreau, Carol
+AU  - Moreau C
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+AD  - Paleogenomics Laboratory, INRAE Clermont-Auvergne-Rhone-Alpes, CS 60032, 
+      Clermont-Ferrand, France.
+FAU - Sawada, Chie
+AU  - Sawada C
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - LeSignor, Christine
+AU  - LeSignor C
+AUID- ORCID: 0000-0002-3204-3537
+AD  - INRAE UMR1347-Agroecologie pole GEAPSI, DIJON Cedex, France.
+FAU - Zhang, Cuijun
+AU  - Zhang C
+AUID- ORCID: 0000-0002-3286-6912
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Vikeli, Eleni
+AU  - Vikeli E
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Tsanakas, Georgios
+AU  - Tsanakas G
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Zhao, Hang
+AU  - Zhao H
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Cheema, Jitender
+AU  - Cheema J
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+AD  - EMBL-EBI, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, 
+      UK.
+FAU - Barclay, J Elaine
+AU  - Barclay JE
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Hou, Junliang
+AU  - Hou J
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Sayers, Liz
+AU  - Sayers L
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Wingen, Luzie
+AU  - Wingen L
+AUID- ORCID: 0000-0002-4682-4764
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Vigouroux, Marielle
+AU  - Vigouroux M
+AUID- ORCID: 0000-0003-1659-2728
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Vickers, Martin
+AU  - Vickers M
+AUID- ORCID: 0000-0002-1543-4827
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Ambrose, Mike
+AU  - Ambrose M
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Dalmais, Marion
+AU  - Dalmais M
+AD  - INRAE UMR 1403, Institute of Plant Sciences Paris-Saclay, Gif-sur-Yvette, France.
+FAU - Higuera-Poveda, Paola
+AU  - Higuera-Poveda P
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Li, Pengfeng
+AU  - Li P
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Yuan, Quan
+AU  - Yuan Q
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Spanner, Rebecca
+AU  - Spanner R
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+AD  - Department of Plant Pathology, University of Minnesota, St Paul, MN, USA.
+FAU - Horler, Richard
+AU  - Horler R
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Wouters, Roland
+AU  - Wouters R
+AUID- ORCID: 0000-0002-2380-4875
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Chundakkad, Smitha
+AU  - Chundakkad S
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Wu, Tian
+AU  - Wu T
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Zhao, Xiaoxiao
+AU  - Zhao X
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Li, Xiuli
+AU  - Li X
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Sun, Yuchen
+AU  - Sun Y
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Huang, Zejian
+AU  - Huang Z
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Wu, Zhen
+AU  - Wu Z
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China.
+FAU - Deng, Xing Wang
+AU  - Deng XW
+AUID- ORCID: 0000-0001-8709-1467
+AD  - State Key Laboratory of Wheat Improvement, School of Advanced Agricultural 
+      Sciences and School of Life Sciences, Peking-Tsinghua Center for Life Sciences, 
+      Peking University, Beijing, China.
+FAU - Steuernagel, Burkhard
+AU  - Steuernagel B
+AUID- ORCID: 0000-0002-8284-7728
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Domoney, Claire
+AU  - Domoney C
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK.
+FAU - Ellis, Noel
+AU  - Ellis N
+AUID- ORCID: 0000-0001-6726-9950
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK. Noel.Ellis2@jic.ac.uk.
+FAU - Chayut, Noam
+AU  - Chayut N
+AUID- ORCID: 0000-0002-2695-5521
+AD  - John Innes Centre, Norwich Research Park, Norwich, UK. Noam.Chayut@jic.ac.uk.
+FAU - Cheng, Shifeng
+AU  - Cheng S
+AUID- ORCID: 0000-0003-1617-1747
+AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key 
+      Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, 
+      Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural 
+      Sciences, Shenzhen, China. chengshifeng@caas.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250423
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/04/24 06:26
+MHDA- 2025/04/24 06:26
+CRDT- 2025/04/24 00:08
+PHST- 2024/05/31 00:00 [received]
+PHST- 2025/03/12 00:00 [accepted]
+PHST- 2025/04/24 06:26 [pubmed]
+PHST- 2025/04/24 06:26 [medline]
+PHST- 2025/04/24 00:08 [entrez]
+AID - 10.1038/s41586-025-08891-6 [pii]
+AID - 10.1038/s41586-025-08891-6 [doi]
+PST - aheadofprint
+SO  - Nature. 2025 Apr 23. doi: 10.1038/s41586-025-08891-6.
 
 
 ##### PUB RECORD #####
@@ -343,5 +529,99 @@ AID - 10.1073/pnas.0705521104 [doi]
 PST - ppublish
 SO  - Proc Natl Acad Sci U S A. 2007 Aug 28;104(35):14169-74. doi: 
       10.1073/pnas.0705521104. Epub 2007 Aug 20.
+
+
+##### PUB RECORD #####
+## 10.1126/science.1132912  17204643  Armstead, Donnison et al., 2007  "Armstead I, Donnison I, Aubry S, Harper J, Hörtensteiner S, James C, Mani J, Moffet M, Ougham H, Roberts L, Thomas A, Weeden N, Thomas H, King I. Cross-species identification of Mendel's I locus. Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912. PMID: 17204643." ##
+
+PMID- 17204643
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070116
+LR  - 20250529
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 315
+IP  - 5808
+DP  - 2007 Jan 5
+TI  - Cross-species identification of Mendel's I locus.
+PG  - 73
+AB  - A key gene involved in plant senescence, mutations of which partially disable 
+      chlorophyll catabolism and confer stay-green leaf and cotyledon phenotypes, has 
+      been identified in Pisum sativum, Arabidopsis thaliana, and Festuca pratensis by 
+      using classical and molecular genetics and comparative genomics. A stay-green 
+      locus in F. pratensis is syntenically equivalent to a similar stay-green locus on 
+      rice chromosome 9. Functional testing in Arabidopsis of a homolog of the rice 
+      candidate gene revealed (i) senescence-associated gene expression and (ii) a 
+      stay-green phenotype after RNA interference silencing. Genetic mapping in pea 
+      demonstrated cosegregation with the yellow/green cotyledon polymorphism (I/i) 
+      first reported by Gregor Mendel in 1866.
+FAU - Armstead, Ian
+AU  - Armstead I
+AD  - Institute of Grassland and Environmental Research, Aberystwyth SY23 3EB, UK. 
+      ian.armstead@bbsrc.ac.uk
+FAU - Donnison, Iain
+AU  - Donnison I
+FAU - Aubry, Sylvain
+AU  - Aubry S
+FAU - Harper, John
+AU  - Harper J
+FAU - Hortensteiner, Stefan
+AU  - Hortensteiner S
+FAU - James, Caron
+AU  - James C
+FAU - Mani, Jan
+AU  - Mani J
+FAU - Moffet, Matt
+AU  - Moffet M
+FAU - Ougham, Helen
+AU  - Ougham H
+FAU - Roberts, Luned
+AU  - Roberts L
+FAU - Thomas, Ann
+AU  - Thomas A
+FAU - Weeden, Norman
+AU  - Weeden N
+FAU - Thomas, Howard
+AU  - Thomas H
+FAU - King, Ian
+AU  - King I
+LA  - eng
+GR  - BBS/E/G/00003001/BB_/Biotechnology and Biological Sciences Research 
+      Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - 0 (Arabidopsis Proteins)
+RN  - 1406-65-1 (Chlorophyll)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Arabidopsis/*genetics/physiology
+MH  - Arabidopsis Proteins/genetics
+MH  - Chlorophyll/analysis/*metabolism
+MH  - Chromosome Mapping
+MH  - Cotyledon/physiology
+MH  - Festuca/*genetics/physiology
+MH  - Gene Expression Regulation, Plant
+MH  - *Genes, Plant
+MH  - Molecular Sequence Data
+MH  - Pisum sativum/*genetics/physiology
+MH  - Phenotype
+MH  - Plant Leaves/physiology
+MH  - RNA Interference
+EDAT- 2007/01/06 09:00
+MHDA- 2007/01/17 09:00
+CRDT- 2007/01/06 09:00
+PHST- 2007/01/06 09:00 [pubmed]
+PHST- 2007/01/17 09:00 [medline]
+PHST- 2007/01/06 09:00 [entrez]
+AID - 315/5808/73 [pii]
+AID - 10.1126/science.1132912 [doi]
+PST - ppublish
+SO  - Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912.
 
 
