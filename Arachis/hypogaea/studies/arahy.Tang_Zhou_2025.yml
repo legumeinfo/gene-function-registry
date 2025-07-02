@@ -35,13 +35,16 @@ comments:
     with a statistically significant ΔSNP-index were likely associated with
     testa color, and they syggested a positive peak on chromosome Arahy.03
     between 126.0–137.4 Mb.
-  - Map-based cloning narrowed down the genomic location to a fine-mapped 125.30
-    kb region containing 12 potential candidate genes. YH91 and JHT1 parental
-    variations were used to develop 35 InDels and 45 SNPs to validate the
-    BSA-seq results and narrow down the candidate region. PCR products of
-    polymorphic markers were composed into a genetic linkage map on chromosome
-    Arahy.03 and QTLs for testa color were analyzed using inclusive composite
-    interval mapping.
+  - YH91 and JHT1 parental variations were used to develop 35 InDels and 45 SNPs
+    to validate the BSA-seq results and narrow down the candidate region. PCR
+    products of polymorphic markers were formed into a genetic linkage map on
+    chromosome Arahy.03 and QTLs for testa color analyzed using inclusive
+    composite interval mapping. Genotype characterization of pink individuals
+    within the F2 segregating population revealed one QTL in the 7.68 Mb region
+    between ZF16 to ZF28 that explained 32.03% of the phenotypic variance in
+    testa color. SNP development and identification of recombinants narrowed
+    down the genomic location of AhRt3 to a fine-mapped 125.30 kb region between
+    SNP43 and SNP44_2 containing 12 potential candidate genes.
   - Candidate gene sequences were predicted within the identified region based
     on the cultivated peanut reference genome. RNA-seq datasets for 22 different
     tissues of A. hypogaea cv. Tifrunner were taken from the PeanutBase.org gene
