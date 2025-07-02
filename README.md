@@ -116,7 +116,7 @@ These files are generated with two scripts, like so (assuming the scripts have b
 ```
 
 <details>
-<summary>To run these scripts for all species, call them in a loop, driven by a file with the genus, species, and gensp names:</summary>
+<summary>MORE: To run these scripts for all species, call them in a loop, driven by a file with the genus, species, and gensp names:</summary>
 
 ```
 cat templates/genus_species.tsv
@@ -145,8 +145,23 @@ cat templates/genus_species.tsv | while read -r line; do
 
 done
 ```
+</details>
 
 Once the files have been updated in each `$genus/$species/gene_functions`, then copy those files over to the main datastore, 
 and also update the `datastore_metadata` GitHub repository.
 
+<details>
+<summary>MORE: To copy files for each species to the datastore, again call them in a loop:</summary>
+
+```
+cat templates/genus_species.tsv | while read -r line; do
+  genus=`echo $line | awk '{print $1}'`
+  species=`echo $line | awk '{print $2}'`
+  gensp=`echo $line | awk '{print $3}'`
+  echo "$genus $species $gensp"
+
+  cp $genus/$species/gene_functions/*.* /project/legume_project/datastore/v2/$genus/$species/gene_functions/
+done
+```
 </details>
+
