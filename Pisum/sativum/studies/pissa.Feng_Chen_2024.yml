@@ -27,7 +27,7 @@ references:
 scientific_name: Pisum sativum
 classical_locus: R
 gene_symbols:
-  -PsSBE1
+  - PsSBE1
 gene_symbol_long: Starch Branching Enzyme 1
 gene_model_pub_name: Psat03G0136800
 gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat3g034640
