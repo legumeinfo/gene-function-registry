@@ -102,8 +102,17 @@ The information in the gene function registry documents gets incorporated into a
 is generated and copied to the `gene_functions` section of the public data store. This is a step that some curator has to initiate.
 These files are generated with two scripts, like so (assuming the scripts have been added to the user's PATH):
 ```
-  get_citations.pl -cit_out Glycine/max/gene_functions/glyma.citations.txt --yml_out Glycine/max/gene_functions/glyma.traits.yml -over Glycine/max/studies/*yml
-  get_references.pl -out Glycine/max/gene_functions/glyma.references.txt Glycine/max/gene_functions/glyma.citations.txt
+  salloc --account=legume_project
+  ml miniconda
+  source activate ds-curate
+
+  get_citations.pl -cit_out Glycine/max/gene_functions/glyma.citations.txt \
+                   -yml_out Glycine/max/gene_functions/glyma.traits.yml \
+                   -verbose -over \
+                   Glycine/max/studies/*yml
+
+  get_references.pl -out Glycine/max/gene_functions/glyma.references.txt \
+                    Glycine/max/gene_functions/glyma.citations.txt
 ```
 
 <details>
