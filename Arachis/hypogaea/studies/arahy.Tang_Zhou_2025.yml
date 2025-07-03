@@ -44,32 +44,40 @@ comments:
     between ZF16 to ZF28 that explained 32.03% of the phenotypic variance in
     testa color. SNP development and identification of recombinants narrowed
     down the genomic location of AhRt3 to a fine-mapped 125.30 kb region between
-    SNP43 and SNP44_2 containing 12 potential candidate genes.
-  - Candidate gene sequences were predicted within the identified region based
-    on the cultivated peanut reference genome. RNA-seq datasets for 22 different
-    tissues of A. hypogaea cv. Tifrunner were taken from the PeanutBase.org gene
-    expression atlas in order to study candidate gene transcription in the seed
-    coat. Transcriptome analysis involved extraction of total RNA from
-    developing peanut testa 60 days after pegging, synthesis of first-strand
-    cDNAs, and construction and sequencing of an RNA-seq library. Raw reads and
-    functional annotations were aligned to the reference genome of A. hypogaea
-    cv. Tifrunner.
-  - Transcriptome (RNA-seq) analysis revealed that, although 4,880 of the genes
-    in the seed coat were differentially expressed, only candidate gene
-    Arahy.W8TDEC displayed higher expression levels in JHT1 than in YH91.
-    Additional research into sequence variation, functional annotation, and
-    expression profiling increased the evidence in favor of Arahy.W8TDEC.
-  - AhRt3 codes for an anthocyanidin reductase enzyme (ANR) that catalyzes the
-    conversion of anthocyanidins into flavan-3-ols (catechins and epicatechins).
-    These flavan-3-ol precursors ultimately drive the production of
-    proanthocyanidins (condensed tannins) that control red seed-coat color and
-    provide antioxidant nutrition.
-  - An inversion between the sixth exon and the 3’UTR for Arahy.W8TDEC resulted
-    in an altered amino acid sequence closely associated with the red testa
-    phenotype.
+    SNP43 and SNP44_2.
+  - Twelve annotated candidate gene sequences were predicted within the
+    identified region based on the cultivated peanut reference genome. They
+    analyzed genomic variations in the resequencing data for 12 candidate genes
+    and found 34 effective SNPs/InDels between the parents. An inversion
+    discovered between the sixth exon and the 3’UTR for Arahy.W8TDEC
+    (126,104,725–126,104,948) resulted in a structural variation observed in the
+    JHT1 parent. The consequence was an altered amino acid sequence closely
+    associated with the red testa phenotype. The GeneID - The spatiotemporal
+    transcription patterns of AhRt3 were assessed using RNA-seq datasets for 22
+    different tissues of A. hypogaea cv. Tifrunner.  This data was taken from
+    the PeanutBase.org gene expression atlas to study 12 candidate genes.
+    Arahy.13LU1X and Arahy.W8TDEC showed greater expression than the other
+    candidates, and Arahy.W8TDEC had high expression in seed pat.6 relative to
+    the other tissues, indicating Arahy.W8TDEC was related to seed coat
+    development and pigmentation. - Transcriptome analysis involved extraction
+    of total RNA from developing peanut testa 60 days after pegging, synthesis
+    of first-strand cDNAs, and construction and sequencing of an RNA-seq
+    library. Raw reads and functional annotations were aligned to the reference
+    genome of A. hypogaea cv. Tifrunner. A total of 4,880 genes in the seed coat
+    were differentially expressed, and 30 genes involved in flavonoid
+    biosynthesis were significantly upregulated in the JHT1 plants.
+    Nevertheless, only candidate gene Arahy.W8TDEC displayed higher expression
+    levels in JHT1 than in YH91. Arahy.W8TDEC encodes an anthocyanidin reductase
+    involved in flavonoid biosynthesis. - AhRt3 (Arahy.W8TDEC) produces an
+    anthocyanidin reductase enzyme (ANR) that catalyzes the conversion of
+    anthocyanidins into flavan-3-ols (catechins and epicatechins). These
+    flavan-3-ol precursors ultimately drive the production of proanthocyanidins
+    (condensed tannins) that control red seed-coat color and provide antioxidant
+    nutrition.
 phenotype_synopsis: Expression of Red Testa 3 (AhRt3) in Arachis hypogaea,
   encoding anthocyanidin reductase (ANR), increases proanthocyanidin contents of
-  seed testas and consequently deeper red coloration.
+  seed testas and consequently deeper red coloration. The candidate gene model
+  for AhRt3 is likely Arahy.W8TDEC.
 traits:
   - entity_name: seed coat color
     entity: TO:0000190
