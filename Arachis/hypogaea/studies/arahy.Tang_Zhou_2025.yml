@@ -9,31 +9,28 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  - The Arachis hypogaea cultivar Yuhua 91 (YH91 female parent, typical pink
-    testa) was crossed with Jihuatian 1 (JHT1 male parent, red testa darkening
-    earlier) to produce F1, F2, and F3 populations. All F1 seeds exhibited the
+  - Arachis hypogaea cultivar Yuhua 91 (YH91, female parent, pink
+    testa) was crossed with Jihuatian 1 (JHT1, male parent, red testa). All F1 seeds had the
     red testa characteristic of JHT1. Among the 721 F2 plants the observed ratio
-    of red and pink seed coats conformed to a 3:1 Mendelian distribution. The
-    conclusion was that red color testa trait was controlled by a single
+    of red and pink seed coats fit a 3:1 distribution. Red color testa trait was controlled by a single
     completely dominant gene named AhRt3 (Arachis hypogaea Red Testa 3).
   - Intensity of red color in peanut seed coats is associated with higher
-    concentrations of flavonoids (proanthocyanidins). Peanut seed coats at
+    concentrations of the flavonoids called proanthocyanidins (PAs). Testas at
     multiple developmental stages were frozen, pulverized, and soluble and
-    insoluble proanthocyanidins (PAs) were sequentially extracted. Absorbance of
+    then insoluble PAs were extracted. Absorbance of
     red light (643 nm) was measured using the p-dimethylaminocinnamaldehyde
     (DMACA) method to estimate PA concentrations. JHT1 red testas contained
     greater soluble and nonsoluble PA levels than the pink YH91 testas, and
     soluble and nonsoluble PA testa contents increased as seeds matured.
-  - The F3 population was used for Bulked Segregant Analysis sequencing
+  - F3 population was used for Bulked Segregant Analysis sequencing
     (BSA-seq) to map AhRt3 candidate genes. Genomic DNAs extracted from young
     leaves of F3 pink-pool, F3 red-pool, and parental YH91 and JHT1 lines were
-    used to develop and sequence DNA libraries. High-quality filtered DNA reads
-    were mapped to genomic sequences of cultivated peanut Tifrunner
-    (Tifrunner.gnm2.ann1.4K0L) and they called and filtered single-nucleotide
+    used to create DNA libraries. They mapped high-quality filtered DNA reads to genomic sequences of Tifrunner
+    (Tifrunner.gnm2.ann1.4K0L) and then called and filtered single-nucleotide
     polymorphisms (SNPs) and insertion/deletions (InDels). There were 247,752
-    markers distributed uniformly throughout the peanut genome. Genomic regions
-    with a statistically significant ΔSNP-index were likely associated with
-    testa color, and they syggested a positive peak on chromosome Arahy.03
+    markers distributed uniformly throughout the genome. Genomic regions
+    with a statistically significant ΔSNP-index were associated with
+    testa color, suggesting a positive peak on chromosome Arahy.03
     between 126.0–137.4 Mb.
   - YH91 and JHT1 parental variations were used to develop 35 InDels and 45 SNPs
     to validate the BSA-seq results and narrow down the candidate region. PCR
