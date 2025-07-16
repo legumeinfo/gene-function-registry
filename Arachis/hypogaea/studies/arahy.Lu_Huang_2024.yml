@@ -1,0 +1,28 @@
+scientific_name: Arachis hypogaea
+classical_locus:
+gene_symbols:
+  - AhBSK1
+gene_symbol_long:
+gene_model_pub_name: Ahy_B03g068305
+gene_model_full_id:
+confidence: 4
+curators:
+  - Scott Kalberer
+comments:
+  - AhBSK1,a member of the brassinosteroid-signaling kinase family, encodes for a serine/threonine-protein kinase.  This candidate gene was associated with branching habits of the peanut shoot.
+  - The candidate gene for AhBSK1 was located between 140740474 and 140775860 on chromosome B03 of the Fuhuasheng reference genome. The most significant associated SNP was positioned at 140,774,302 base pairs.
+  - The candidate gene in the reference genome for Tifrunner would be Ah13g064900 on chromosome 13.
+phenotype_synopsis: AhBSK1, belonging to the brassinosteroid-signaling kinase family, is a candidate gene helping to regulate shott branching habits in cultivated peanut.
+traits:
+  - entity_name: shoot branching
+    entity: TO:0002639
+  - entity_name: brassinosteroid mediated signaling pathway
+    entity: GO:0009742
+references:
+  - citation: Lu, Huang et al., 2024
+    doi: 10.1038/s41588-024-01660-7
+    pmid: 38378864
+  - citation: Wang, Zhang et al., 2022
+    doi: 10.7717/peerj.12965
+    pmid: 35251782
+
