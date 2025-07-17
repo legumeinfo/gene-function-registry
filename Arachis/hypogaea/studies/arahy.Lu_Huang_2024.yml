@@ -9,6 +9,7 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
+  - Resequenced 390 peanut accessions found worldwide, including 261 from northern and southern China, to evaluate genome-wide diversity of landraces and breeding lines. Sequencing data were aligned to the Arachis hypogaea cv. Fuhuasheng reference genome and then 8,803,668 single-nucleotide polymorphisms (SNPs) were identified along with 2,137,963 insertions and deletions (InDels). The GWAS was conducted and 28 agronomic traits were discovered.
   - AhBSK1,a member of the brassinosteroid-signaling kinase family, encodes for a serine/threonine-protein kinase.  This candidate gene was associated with branching habits of the peanut shoot.
   - The candidate gene for AhBSK1 was located between 140740474 and 140775860 on chromosome B03 of the Fuhuasheng reference genome. The most significant associated SNP was positioned at 140,774,302 base pairs.
   - The candidate gene in the reference genome for Tifrunner would be Ah13g064900 on chromosome 13.
