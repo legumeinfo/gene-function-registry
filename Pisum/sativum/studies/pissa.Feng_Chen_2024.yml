@@ -97,7 +97,7 @@ gene_symbols:
   - PsGA3OX1
 gene_symbol_long: GA 3-oxidase 1
 gene_model_pub_name: Psat05G0825300
-gene_model_full_id:
+gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat5g299720
 confidence: 5
 curators:
   - Raegan Nelson
