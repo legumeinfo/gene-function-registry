@@ -10,23 +10,27 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Ectopic expression of Nodule Inception (LjNIN) produces nodule-like structures from the roots
-      regardless of lack of rhizobia. Constitutive expression of NIN eventually leads to
-      suppression of native NIN transcription in untransformed roots of the plant via effects on
-      HAR1 receptor protein. The result is reduced nodulation and down-regulation of CLE-RS signal
-      peptide expression.
-  - NIN codes for a transcription factor containing the RWP-RK domain that induces nodule primordia
-      formation by promoting cortical cell division.
-  - NIN activates genes coding for the NIN-repressing signal proteins, Clavata3/Endosperm
-      Surrounding Region Root Signal 1 (CLE-RS1) and CLE-RS2, that are expressed in the roots and
-      travel long-distance to ultimately stop nodulation. They are perceived in the shoot by
+  - Ectopic expression of Nodule Inception (LjNIN) produces nodule-like
+      structures from the roots regardless of lack of rhizobia. Constitutive
+      expression of NIN eventually leads to suppression of native NIN
+      transcription in untransformed roots of the plant via effects on HAR1
+      receptor protein. The result is reduced nodulation and down-regulation of
+      CLE-RS signal peptide expression.
+  - NIN codes for a transcription factor containing the RWP-RK domain that
+      induces nodule primordia formation by promoting cortical cell division.
+  - NIN activates genes coding for the NIN-repressing signal proteins,
+      Clavata3/Endosperm Surrounding Region Root Signal 1 (CLE-RS1) and
+      CLE-RS2, that are expressed in the roots and travel long-distance to
+      ultimately stop nodulation. They are perceived in the shoot by
       Hypernodulation Aberrant Root Formation 1 (HAR1) receptor proteins.
-phenotype_synopsis: LjNIN is part of an autoregulatory negative feedback loop in Lotus japonicus
-  that maintains healthy numbers of nodules containing nitrogen-fixing rhizobia. NIN positively
-  regulates rhizobium infection by inducing the genes necessary to establish the symbiosis when
-  nitrate is limited.
+phenotype_synopsis: LjNIN is part of an autoregulatory negative feedback loop
+  in Lotus japonicus that maintains healthy numbers of nodules containing
+  nitrogen-fixing rhizobia. NIN positively regulates rhizobium infection by
+  inducing the genes necessary to establish the symbiosis when nitrate is
+  limited.
 traits:
-  - entity_name: regulation of biological process involved in symbiotic interaction
+  - entity_name: regulation of biological process involved in symbiotic
+      interaction
     entity: GO:0043903
   - relation_name: negatively regulates
     relation: RO:0002212

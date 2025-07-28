@@ -7,7 +7,7 @@ use YAML::PP::Common;
 use JSON::Parse 'parse_json';
 use Getopt::Long;
 use Text::Wrap;
-#use Data::Dumper;
+use Data::Dumper;
 use utf8;
 use open qw( :std :encoding(UTF-8) );
 use feature "say";
@@ -18,8 +18,14 @@ my $usage = <<EOS;
   This script uses information in one or more yaml-format traits files to evaluate and 
   fill in missing citation values (pmid from doi or doi from pmid), and to generate 
   a citations file that can be used for additional work.
+
   Citation elements are filled in, if null, from a citation file (-in_cit) if provided,
-  or otherwise from the PubMed idconv citation service.
+  or otherwise from the PubMed idconv citation service if a PMID is available
+  or from the crossref service if only the DOI is available.
+
+  Unless "-trust" is indicated, the PMID and DOI values will be updated from the
+  indicated services if there are differences in either between the provided yaml file(s)
+  and the values from the services.
 
   Required:
     (on ARGV)  One or more filenames of yaml-format traits files
@@ -32,22 +38,26 @@ my $usage = <<EOS;
                will be drawn from this file; otherwise, from the PubMed idconv citation service.
     -yml_out   Filename of yaml-format traits to write, filling in doi and/or pmid.
     -overwrite To overwrite the yml_out and cit_out files, if they exist already (boolean).
-    -verbose   Write some status info to stderr.
+    -trust     Trust the DOI and PMID as given in the input yaml; otherwise, check both
+                 against crossref and update if there is a discrepancy -- for example, in
+                 the capitalization in the DOI string.
+    -verbose   Write some status info to stderr. Call twice for even more info.
     -help      This message (boolean).
 EOS
 
-my ($help, $verbose, $yml_out, $cit_out, $in_cit);
+my ($help, $yml_out, $cit_out, $in_cit);
 my $apibase = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
-my $overwrite=0;
-my $sleepytime=2;
-my $width = 100;  # Wrap at this number of characters
+my ($overwrite, $trust, $verbose) = (0, 0, 0);
+my $sleepytime=2; # Wait time
+my $width = 80;   # Wrap yaml strings at this number of characters
 
 GetOptions (
   "cit_out=s" =>  \$cit_out, # retuired
   "yml_out:s" =>  \$yml_out,
   "in_cit:s" =>   \$in_cit,
   "overwrite" =>  \$overwrite,
-  "verbose" =>    \$verbose,
+  "trust" =>      \$trust,
+  "verbose+" =>   \$verbose,
   "help" =>       \$help,
 );
 
@@ -70,8 +80,9 @@ if ($cit_out){
   open ($CIT_OUT_FH, ">", $cit_out) or die "can't open out cit_out, $cit_out: $!";
 }
 
+# If a table of citations has been provided (via -in_cit), read it into a hash of arrays
 my (%seen_doi, %seen_pmid);
-my (%cit_doi_HoA, %cit_pmid_HoA); # Key one hash on the doi and one on the pmid, to allow later checks on these.
+my (%cit_elts_HoA); # Key hash on the doi if present, else pmid, to allow later checks on these.
 if ( defined($in_cit) && -e $in_cit){ die "File $in_cit exists already.\n" unless ($overwrite) }
 my $CIT_IN_FH;
 if ($in_cit){
@@ -80,16 +91,26 @@ if ($in_cit){
     chomp;
     next unless /^(.*?)\t\s*/; 
     my ($doi, $pmid, $cit_str) = split(/\t/, $_);
-    unless ( $doi eq "null" ){ $seen_doi{$doi}++ }
+    my $cit_id;
+    if ( $doi ne "null" ){
+      $cit_elts_HoA{$pmid} = [$doi, $pmid, $cit_str];
+      $cit_id = $doi;
+    }
+    elsif ( $doi eq "null" && $pmid ne "null" ){
+      $cit_elts_HoA{$doi} = [$doi, $pmid, $cit_str];
+      $cit_id = $pmid;
+    }
+    else {
+      die "At least one of the DOI or PMID must be provided.\n";
+    }
     unless ( $pmid eq "null" ){ $seen_pmid{$pmid}++ }
-    $cit_doi_HoA{$doi} = [$doi, $pmid, $cit_str];
-    $cit_pmid_HoA{$pmid} = [$doi, $pmid, $cit_str];
-    #print "$doi, $pmid, $cit_str\n";
+    unless ( $doi eq "null" ){ $seen_doi{$doi}++ }
+    print "$doi, $pmid, $cit_str\n";
   }
 }
 
-warn "\n==========\n";
-warn "Reading all yaml files from \@ARGV and combining into one variable.\n";
+print "\n==========\n";
+print "Reading all yaml files from \@ARGV and combining into one variable.\n";
 my $combined_content;
 foreach my $filename (@ARGV) {
   open my $fh, '<', $filename or die "Could not open file '$filename': $!";
@@ -101,18 +122,17 @@ foreach my $filename (@ARGV) {
 my $yp = YAML::PP->new( preserve => YAML::PP::Common->PRESERVE_ORDER );
 my @yaml = $yp->load_string( $combined_content );
 
-warn "\n==========\n";
-warn "Processing combined yaml and retrieving citations into a data structure. To see details, call with \"-v\"\n";
-my %remembered_components;
+say "\n==========";
+say "Process combined yaml and retrieve citations. To see details, call with \"-v\" or \"-v -v\"\n";
 for my $doc_ref ( @yaml ){
   &printstr_yml( "---" );
   while (my ($key, $value) = each (%{$doc_ref})){
     if ($key =~ /references/){
       &printstr_yml( "references:" );
       foreach my $cit ( @{ $value } ){
-
-        # Put the four elements of the citation into an ordered array
-        my @pubmed_components;
+        
+        # Put the three elements of the citation (auth-auth-year, doi, pmid) into an ordered array
+        my @pubmed_components; # will hold $doi, $pmid
         my @cit_elts = qw(null null null);
         my @updated_cit = qw(null null null); 
         while (my ($k, $v) = each (%{$cit})){
@@ -123,53 +143,62 @@ for my $doc_ref ( @yaml ){
         }
 
         ## citation ##
-        my $citation = $cit_elts[0];
+        my $cit_str = $cit_elts[0];
         
-        if ($verbose){ say "  == AA: ", join(", ", @cit_elts) }
+        if ($verbose){ say "    >> AA: ", join(", ", @cit_elts) }
 
         ## other components: doi & pmid ##
         my ($doi, $pmid) = ( $cit_elts[1], $cit_elts[2] );
-        if ( $pmid !~ /null|~/ ){ # get doi (PubMed IDs) from pmid
+
+        # CASE: Both doi and pmid are present; CHECK BOTH AGAINST CROSSREF
+        if ( $doi !~ /null|~/ && $pmid !~ /null|~/ ){ 
+          if ($verbose>1){ say "     CHECK: both doi and pmid are present; $doi, $pmid"; }
+          if (not $trust){ # Default is to recheck the DOI and PMID against crossref
+            @pubmed_components = &check_doi_and_pmid($doi, $pmid);
+            $cit_elts_HoA{$doi} = [@pubmed_components, $cit_str];
+          }
+          else { #trust that the DOI and PMID are correct as provided
+            @pubmed_components = ($doi, $pmid);
+            $cit_elts_HoA{$doi} = [@pubmed_components, $cit_str];
+          }
+          if ( ! $seen_doi{$doi} ){
+            $seen_doi{$doi}++;
+          }
           if ( ! $seen_pmid{$pmid} ){
-            # say "CHECK: get_ids for pmid $pmid";
-            @pubmed_components = &get_ids("pmid", $pmid);
-            $remembered_components{$pmid} = \@pubmed_components;
             $seen_pmid{$pmid}++;
           }
-          else {
-            @pubmed_components = @{$remembered_components{$pmid}};
-            #print "YY: ", join(", ", $pmid, @pubmed_components), "\n";
-          }
         }
-        elsif ( $doi !~ /null|~/ ){ # get pmid (and all PubMed IDs) from doi
+        # CASE: doi is present but pmid is not; GET THE PMID, GIVEN THE DOI
+        elsif ( $doi !~ /null|~/ && $pmid =~ /null|~/ ){ 
           if ( ! $seen_doi{$doi} ){
-            # say "CHECK: get_ids for doi $doi";
-            @pubmed_components = &get_ids("doi", $doi);
-            $remembered_components{$doi} = \@pubmed_components;
+            if ($verbose>1){ say "     CHECK: doi is present but pmid is not; GET THE PMID, GIVEN THE DOI"; }
+            @pubmed_components = &get_pmid_given_doi($doi);
+            $cit_elts_HoA{$doi} = [@pubmed_components, $cit_str];
             $seen_doi{$doi}++;
           }
           else {
-            @pubmed_components = @{$remembered_components{$doi}};
-            #print "ZZ: ", join(", ", $doi, @pubmed_components), "\n";
+            @pubmed_components = ($doi, $pmid);
+          }
+        }
+        # CASE: pmid is present but doi is not; GET THE DOI, GIVEN THE PMID
+        elsif ( $doi =~ /null|~/ && $pmid !~ /null|~/ ){ 
+          if ( ! $seen_pmid{$pmid} ){
+            if ($verbose>1){ say "     CHECK: pmid is present but doi is not; GET THE DOI, GIVEN THE PMID"; }
+            @pubmed_components = &get_doi_given_pmid($pmid);
+            $cit_elts_HoA{$pmid} = [@pubmed_components, $cit_str];
+            $seen_pmid{$pmid}++;
+          }
+          else {
+            @pubmed_components = ($doi, $pmid);
           }
         }
 
-        # say "  == BB: ", join(", ", @pubmed_components);
+        if ($verbose){ say "    >> BB: ", join(", ", @pubmed_components); }
         $doi = $pubmed_components[0];
         $pmid = $pubmed_components[1];
-        &printstr_yml( "  - citation: $citation" );
+        &printstr_yml( "  - citation: $cit_str" );
         &printstr_yml( "    doi: $doi" );
         &printstr_yml( "    pmid: $pmid" );
-
-        if ( $seen_doi{$doi} ){
-          # say "  == CC: ", join(", ", @pubmed_components, $citation);
-          next;
-        }
-        else {
-          # say "  == DD: ", join(", ", @pubmed_components, $citation);
-          $cit_doi_HoA{$doi} = [@pubmed_components, $citation];
-          $seen_doi{$doi}++; 
-        }
       }
     }
     elsif ($key =~ /traits/){
@@ -190,6 +219,9 @@ for my $doc_ref ( @yaml ){
       foreach my $val (@{ $value }){
         &printstr_yml( "  - $val" );
       }
+      if ($key =~ /gene_symbols/){
+        say "  == Processing record for symbols ", join(", ", @{ $value });
+      }
     }
     else {
       if ( defined $value && $value !~ /null|~/ ){ &printstr_yml( "$key: $value" ) }
@@ -199,35 +231,89 @@ for my $doc_ref ( @yaml ){
   &printstr_yml("");
 }
 
-warn "\n==========\n";
-warn "Printing table of identifiers and citations\n";
-# Print table of citations
-for my $doi (sort keys %cit_doi_HoA){
-  my $pmid = @{$cit_doi_HoA{$doi}}[1];
-  my $nlm_cite;
-  if ($pmid =~ /null/){
-    $nlm_cite = "Reference not retrieved, as the pubmed ID is null."
-  }
-  else {
-    say "  == JJ: PMID is $pmid";
-    if ($verbose){ warn "\n  == Retrieving and printing citation for $pmid\n"; }
+say "\n==========";
+say "Merge citation elements where possible, keying on citation";
+my (%cit_elts_by_cit_HoA, %prev_doi, %prev_pmid);
+for my $cit_id (sort keys %cit_elts_HoA){
+  my $doi = @{$cit_elts_HoA{$cit_id}}[0];
+  my $pmid = @{$cit_elts_HoA{$cit_id}}[1];
+  my $cite_str = @{$cit_elts_HoA{$cit_id}}[2];
+
+  if ($prev_doi{$cite_str}){$doi = $prev_doi{$cite_str}}
+  if ($prev_pmid{$cite_str}){$pmid = $prev_pmid{$cite_str}}
+  $cit_elts_by_cit_HoA{$cite_str} = [$doi, $pmid, $cite_str];
+
+  $prev_doi{$cite_str}  = $doi unless $doi  eq "null";
+  $prev_pmid{$cite_str} = $pmid unless $pmid eq "null";
+}
+
+say "\n==========";
+say "Print table of identifiers and citations\n";
+for my $cit_id (sort keys %cit_elts_by_cit_HoA){
+  my $doi     = @{$cit_elts_by_cit_HoA{$cit_id}}[0];
+  my $pmid    = @{$cit_elts_by_cit_HoA{$cit_id}}[1];
+  my $cit_str = @{$cit_elts_by_cit_HoA{$cit_id}}[2];
+
+  say "  == $doi, $pmid, $cit_str";
+  my ($nlm_cite, $title_str);
+  if ($pmid !~ /null|~/){ 
+    if ($verbose){ say "    >> First choice: use PMID to retrieve citation"; }
+    if ($verbose){ say "    >> KK: PMID is $pmid"; }
+    if ($verbose){ print "\n  == Retrieving and printing citation for $pmid\n"; }
     my $pubmed_request = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed/?format=citation&contenttype=json&id=$pmid";
-    my $result_json = qx{curl --silent "$pubmed_request"};
+    my $json_response = qx{curl --silent "$pubmed_request"};
     sleep($sleepytime);
 
     # Parse the json result by converting it to a perl hash of hashes; then pull out the "nlm" "format" element.
-    my $result_perl = parse_json ($result_json);
+    my $result_perl = parse_json ($json_response);
     #say "\n", Dumper($result_perl), "\n";
     while ( my ($k, $v) = each %{$result_perl} ){
-      #say "\nCHECK: for $k: $v";
+      #say "\n     CHECK: for $k: $v";
       if ($k =~ /nlm/){
         while ( my ($k2, $v2) = each %{$v} ){
-          if ($k2 =~ /format/) { $nlm_cite = $v2 }
+          if ($k2 =~ /format/) { 
+            $nlm_cite = $v2;
+            if ($verbose>1){ say "    >> ZZ1: nlm_cite is $nlm_cite"; }
+          }
         }
       }
     }
-    
-    say $CIT_OUT_FH join("\t", @{$cit_doi_HoA{$doi}}), "\t\"", $nlm_cite, "\"";
+    say $CIT_OUT_FH join("\t", $doi, $pmid, $cit_str, $nlm_cite);
+  }
+  elsif ($doi !~ /null|~/){ 
+    if ($verbose){ say "    >> Second choice: use DOI. Note that the citation won't be reported."; }
+    if ($verbose){ say "    >> LL: DOI is $doi"; }
+    if ($verbose){ print "\n    >> Retrieving and printing citation for $doi\n"; }
+
+    my ($crossref_base, $ncbi_base, $curl_string);
+    $crossref_base = "https://api.crossref.org/works";
+    $curl_string = "curl --silent \"$crossref_base/works/$doi\"";
+    if ($verbose){ say "    >> EE2: Lookup doi $doi: $curl_string" }
+
+    my $json_response = `$curl_string`;
+    # say "=====\nJSON:\n$json_response\n=====";
+
+    sleep($sleepytime);
+
+    # Parse the json result by converting it to a perl hash of hashes; then pull out the "nlm" "format" element.
+    my $result_perl = parse_json ($json_response);
+    #say "\n", Dumper($result_perl), "\n";
+    while ( my ($k, $v) = each %{$result_perl} ){
+      #say "\n     CHECK: for $k: $v";
+      if ($k eq "message"){
+        while ( my ($k2, $v2) = each %{$v} ){
+          if ($k2 eq "title") { 
+            $title_str = $v2->[0];
+            if ($verbose>1){ say "    >> ZZ2: title is: $title_str"; }
+          }
+        }
+      }
+    }
+    my $warn_str = "WARNING Citation not reported, given DOI only. Title:";
+    say $CIT_OUT_FH join("\t", $doi, $pmid, $cit_str, "$warn_str $title_str");
+  }
+  else {
+    die "WARNING: It appears that both doi and pmid are null. Please provide at least one; pmid preferred.\n";
   }
 }
 
@@ -259,46 +345,161 @@ sub printstr_yml {
   }
 }
 
-sub get_ids {
-  my $cit_type = shift;
-  my $cit_id = shift;
-  my ($doi_str, $pmid_str, $citation) = qw(null null null null);
-  if ($cit_doi_HoA{$cit_id}){
-    ($doi_str, $pmid_str, $citation) = @{$cit_doi_HoA{$cit_id}};
-    if ($verbose){ warn "  == Filling in from cit_doi_HoA: $doi_str, $pmid_str, $citation\n"; }
+#####
+sub check_doi_and_pmid {
+  my $doi_str = shift;
+  my $pmid_str = shift;
+  my $cit_str;
+  if ($cit_elts_HoA{$doi_str}){ # If citation components were provided via -in_cit, use them (from doi)
+    ($doi_str, $pmid_str, $cit_str) = @{$cit_elts_HoA{$doi_str}};
+    if ($verbose){ print "    >> Filling in from cit_elts_HoA: $doi_str, $pmid_str, $cit_str\n"; }
   }
-  elsif ($cit_pmid_HoA{$cit_id}){
-    ($doi_str, $pmid_str, $citation) = @{$cit_pmid_HoA{$cit_id}};
-    if ($verbose){ warn "  == Filling in from cit_pmid_HoA: $cit_id, $pmid_str, $citation\n"; }
+  else { # check elements against the service
+    if ($verbose){ print "\n  == Retrieving PMID and DOI components, given DOI $doi_str\n" }
+    my ($crossref_base, $curl_string);
+
+    $crossref_base = "https://api.crossref.org/works";
+    $curl_string = "curl --silent \"$crossref_base/works/$doi_str\"";
+    if ($verbose){ say "    >> GG: Lookup $doi_str: $curl_string" }
+    sleep($sleepytime);
+
+    my $json_response = `$curl_string`;
+    # say "=====\n$json_response\n=====";
+     
+    # Parse the json result by converting it to a perl hash of hashes; then pull out the DOI element.
+    my $result_perl = parse_json ($json_response);
+    #say "\n", Dumper($result_perl), "\n";
+    while ( my ($k, $v) = each %{$result_perl} ){
+      if ($k eq "message"){
+        while ( my ($k2, $v2) = each %{$v} ){
+          if ($k2 =~ /pmid/i){
+            if ($v2 ne $pmid_str){
+              if ($verbose){ say "     PMID in curation != PMID in crossref: $pmid_str, $v2"; }
+              $pmid_str = $v2;
+            }
+            if ($verbose){ say "    >> HH1: PMID: $pmid_str"; }
+          }
+          if ($k2 =~ /DOI/i){
+            if ($v2 ne $doi_str){
+              if ($verbose){ say "     DOI in curation != DOI in crossref: $doi_str, $v2"; }
+              $doi_str = $v2;
+            }
+            if ($verbose){ say "    >> HH2: DOI: $doi_str"; }
+          }
+        }
+      }
+    }
+    unless (defined $pmid_str && length $pmid_str) {
+      warn "     No PMID was found for DOI $doi_str\n";
+      $pmid_str = "null";
+    }
+  }
+
+  my @components = ($doi_str, $pmid_str);
+  return (@components);
+}
+#####
+
+sub get_pmid_given_doi {
+  my $doi_str = shift;
+  my ($pmid_str, $cit_str);
+  if ($cit_elts_HoA{$doi_str}){ # If citation components were provided via -in_cit, use them (from doi)
+    ($doi_str, $pmid_str, $cit_str) = @{$cit_elts_HoA{$doi_str}};
+    if ($verbose){ print "    >> Filling in from cit_elts_HoA: $doi_str, $pmid_str, $cit_str\n"; }
   }
   else { # get citation components from the service
-    if ($verbose){ warn "\n  == Retrieving PubMed ID components for type $cit_type, ID $cit_id\n" }
-    my ($crossref_base, $ncbi_base, $curl_string);
-    if ($cit_type =~ /doi/){
-      $crossref_base = "https://api.crossref.org/works";
-      $curl_string = "curl --silent \"$crossref_base/works/$cit_id\"";
-      if ($verbose){ say "  == EE: Lookup doi $cit_id: $curl_string" }
-      sleep($sleepytime);
-    }
-    elsif ($cit_type =~ /pmid/){
-      $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
-      $curl_string = "curl --silent \"$ncbi_base/?format=citation&id=$cit_id\""; 
-      if ($verbose){ say "  == FF: Lookup pmid $cit_id: $curl_string\n" }
-      sleep($sleepytime);
-    }
-    else {
-      die "Unexpected ID type: [$cit_id].\n";
-    }
+    if ($verbose){ print "\n  == Retrieving PubMed ID components, given DOI $doi_str\n" }
+    my ($crossref_base, $curl_string);
+
+    $crossref_base = "https://api.crossref.org/works";
+    $curl_string = "curl --silent \"$crossref_base/works/$doi_str\"";
+    if ($verbose){ say "    >> GG: Lookup $doi_str: $curl_string" }
+    sleep($sleepytime);
+
     my $json_response = `$curl_string`;
-    # say "=====\n$json_response=====";
+    # say "=====\n$json_response\n=====";
      
-    if ($json_response =~ /\"DOI\":\"([^"]+)\"/i || $json_response =~ /doi:([\S]+)\"/){ $doi_str = $1; }
-    # say "  == GG: DOI: $doi_str";
-    
-    if ($json_response =~ /pmid:(\d+)/i || $json_response =~ /PMID: (\d+)/i){ $pmid_str = $1; }
-    # say "  == HH: PMID: $pmid_str";
-    
+    # Get the PMID, and handle it if missing
+    # Parse the json result by converting it to a perl hash of hashes; then pull out the DOI element.
+    my $result_perl = parse_json ($json_response);
+    #say "\n", Dumper($result_perl), "\n";
+    while ( my ($k, $v) = each %{$result_perl} ){
+      if ($k eq "message"){
+        while ( my ($k2, $v2) = each %{$v} ){
+          if ($k2 =~ /pmid/i){
+            $pmid_str = $v2;
+            if ($verbose){ say "    >> HH1: PMID: $pmid_str"; }
+          }
+          if ($k2 =~ /DOI/i){
+            if ($v2 ne $doi_str){
+              warn "     DOI in curation != DOI in crossref: $doi_str, $v2; swapping";
+              $doi_str = $v2;
+            }
+            if ($verbose){ say "    >> HH2: DOI: $doi_str"; }
+          }
+        }
+      }
+    }
+    unless (defined $pmid_str && length $pmid_str) {
+      warn "     No PMID was found for DOI $doi_str\n";
+      $pmid_str = "null";
+    }
   }
+
+  my @components = ($doi_str, $pmid_str);
+  return (@components);
+}
+
+sub get_doi_given_pmid {
+  my $pmid_str = shift;
+  my ($doi_str, $cit_str, $nlm_cite);
+  if ($cit_elts_HoA{$pmid_str}){ # If citation components were provided via -in_cit, use them (from doi)
+    ($doi_str, $pmid_str, $cit_str) = @{$cit_elts_HoA{$pmid_str}};
+    if ($verbose){ print "    >> Filling in from cit_elts_HoA: $doi_str, $pmid_str, $cit_str\n"; }
+  }
+  else { # get citation components from the service
+    if ($verbose){ print "\n  == Retrieving PubMed ID components, given PMID $pmid_str\n" }
+    my ($ncbi_base, $curl_string);
+
+    $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
+
+    $curl_string = "curl --silent \"$ncbi_base/?format=citation&id=$pmid_str\""; 
+    if ($verbose){ say "    >> II: Lookup $pmid_str: $curl_string\n" }
+    sleep($sleepytime);
+
+    my $json_response = `$curl_string`;
+    # say "=====\nJSON:\n$json_response\n=====";
+
+    # Parse the json result by converting it to a perl hash of hashes; then pull out the "nlm" "format" element.
+    my $result_perl = parse_json ($json_response);
+    #say "\n", Dumper($result_perl), "\n";
+    while ( my ($k, $v) = each %{$result_perl} ){
+      #say "\nCHECK: for $k: $v";
+      if ($k =~ /nlm/){
+        while ( my ($k2, $v2) = each %{$v} ){
+          #say "YY: $k2, $v2";
+          if ($k2 =~ /format/) { $nlm_cite = $v2 }
+        }
+      }
+    }
+
+    if ($nlm_cite =~ /.+ doi: (\S+) .+/i){ $doi_str = $1; }
+    $doi_str =~ s/\.$//; # strip trailing period
+
+    my $new_pmid_str;
+    if ($nlm_cite =~ /.+ PMID: (\d+)/i){ $new_pmid_str = $1; }
+    if ($new_pmid_str ne $pmid_str){
+      warn "     PMID in curation != PMID in PubMed: $pmid_str, $new_pmid_str; swapping\n";
+      $pmid_str = $new_pmid_str;
+    }
+
+    if ($verbose){ say "    >> JJ: DOI: $doi_str"; }
+    unless (defined $doi_str && length $doi_str) {
+      warn "     No DOI was found for PMID $pmid_str\n";
+      $doi_str = "null";
+    }
+  }
+
   my @components = ($doi_str, $pmid_str);
   return (@components);
 }
@@ -314,4 +515,7 @@ S. Cannon
 2025-05-07 Change from api.fatcat.wiki to api.ncbi.nlm.nih.gov. Wrap long lines in yml.
 2025-05-09 Remember doi and pmid components to avoid looking them up repeatedly
 2025-07-01 Print citations sorted by doi
+2025-07-28 Script overhaul to better extract DOI and PMID strings from the PubMed and Crossref services, and
+            to merge elements relative to unique citations.
 
+get_citations.pl -cit_out test.citations.txt -yml_out test.traits.yml -v -over test_in.yml

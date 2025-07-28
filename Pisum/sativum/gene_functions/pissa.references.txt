@@ -1,5 +1,99 @@
 ##### PUB RECORD #####
-## 10.1007/s11103-008-9314-8  18301989  Aubry, Mani et al., 2008  "Aubry S, Mani J, Hörtensteiner S. Stay-green protein, defective in Mendel's green cotyledon mutant, acts independent and upstream of pheophorbide a oxygenase in the chlorophyll catabolic pathway. Plant Mol Biol. 2008 Jun;67(3):243-56. doi: 10.1007/s11103-008-9314-8. PMID: 18301989." ##
+## 10.1126/science.1132912  17204643  Armstead, Donnison et al., 2007  Armstead I, Donnison I, Aubry S, Harper J, Hörtensteiner S, James C, Mani J, Moffet M, Ougham H, Roberts L, Thomas A, Weeden N, Thomas H, King I. Cross-species identification of Mendel's I locus. Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912. PMID: 17204643. ##
+
+PMID- 17204643
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070116
+LR  - 20250529
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 315
+IP  - 5808
+DP  - 2007 Jan 5
+TI  - Cross-species identification of Mendel's I locus.
+PG  - 73
+AB  - A key gene involved in plant senescence, mutations of which partially disable 
+      chlorophyll catabolism and confer stay-green leaf and cotyledon phenotypes, has 
+      been identified in Pisum sativum, Arabidopsis thaliana, and Festuca pratensis by 
+      using classical and molecular genetics and comparative genomics. A stay-green 
+      locus in F. pratensis is syntenically equivalent to a similar stay-green locus on 
+      rice chromosome 9. Functional testing in Arabidopsis of a homolog of the rice 
+      candidate gene revealed (i) senescence-associated gene expression and (ii) a 
+      stay-green phenotype after RNA interference silencing. Genetic mapping in pea 
+      demonstrated cosegregation with the yellow/green cotyledon polymorphism (I/i) 
+      first reported by Gregor Mendel in 1866.
+FAU - Armstead, Ian
+AU  - Armstead I
+AD  - Institute of Grassland and Environmental Research, Aberystwyth SY23 3EB, UK. 
+      ian.armstead@bbsrc.ac.uk
+FAU - Donnison, Iain
+AU  - Donnison I
+FAU - Aubry, Sylvain
+AU  - Aubry S
+FAU - Harper, John
+AU  - Harper J
+FAU - Hortensteiner, Stefan
+AU  - Hortensteiner S
+FAU - James, Caron
+AU  - James C
+FAU - Mani, Jan
+AU  - Mani J
+FAU - Moffet, Matt
+AU  - Moffet M
+FAU - Ougham, Helen
+AU  - Ougham H
+FAU - Roberts, Luned
+AU  - Roberts L
+FAU - Thomas, Ann
+AU  - Thomas A
+FAU - Weeden, Norman
+AU  - Weeden N
+FAU - Thomas, Howard
+AU  - Thomas H
+FAU - King, Ian
+AU  - King I
+LA  - eng
+GR  - BBS/E/G/00003001/BB_/Biotechnology and Biological Sciences Research 
+      Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - 0 (Arabidopsis Proteins)
+RN  - 1406-65-1 (Chlorophyll)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Arabidopsis/*genetics/physiology
+MH  - Arabidopsis Proteins/genetics
+MH  - Chlorophyll/analysis/*metabolism
+MH  - Chromosome Mapping
+MH  - Cotyledon/physiology
+MH  - Festuca/*genetics/physiology
+MH  - Gene Expression Regulation, Plant
+MH  - *Genes, Plant
+MH  - Molecular Sequence Data
+MH  - Pisum sativum/*genetics/physiology
+MH  - Phenotype
+MH  - Plant Leaves/physiology
+MH  - RNA Interference
+EDAT- 2007/01/06 09:00
+MHDA- 2007/01/17 09:00
+CRDT- 2007/01/06 09:00
+PHST- 2007/01/06 09:00 [pubmed]
+PHST- 2007/01/17 09:00 [medline]
+PHST- 2007/01/06 09:00 [entrez]
+AID - 315/5808/73 [pii]
+AID - 10.1126/science.1132912 [doi]
+PST - ppublish
+SO  - Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912.
+
+
+##### PUB RECORD #####
+## 10.1007/s11103-008-9314-8  18301989  Aubry, Mani et al., 2008  Aubry S, Mani J, Hörtensteiner S. Stay-green protein, defective in Mendel's green cotyledon mutant, acts independent and upstream of pheophorbide a oxygenase in the chlorophyll catabolic pathway. Plant Mol Biol. 2008 Jun;67(3):243-56. doi: 10.1007/s11103-008-9314-8. PMID: 18301989. ##
 
 PMID- 18301989
 OWN - NLM
@@ -79,85 +173,21 @@ SO  - Plant Mol Biol. 2008 Jun;67(3):243-56. doi: 10.1007/s11103-008-9314-8.
 
 
 ##### PUB RECORD #####
-## 10.1016/j.tplants.2009.01.002  19237309  Hortensteiner, 2009  "Hörtensteiner S. Stay-green regulates chlorophyll and chlorophyll-binding protein degradation during senescence. Trends Plant Sci. 2009 Mar;14(3):155-62. doi: 10.1016/j.tplants.2009.01.002. Epub 2009 Feb 23. PMID: 19237309." ##
-
-PMID- 19237309
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20090729
-LR  - 20240109
-IS  - 1360-1385 (Print)
-IS  - 1360-1385 (Linking)
-VI  - 14
-IP  - 3
-DP  - 2009 Mar
-TI  - Stay-green regulates chlorophyll and chlorophyll-binding protein degradation 
-      during senescence.
-PG  - 155-62
-LID - 10.1016/j.tplants.2009.01.002 [doi]
-AB  - Stay-green mutants are delayed in leaf senescence and have been identified from 
-      different plant species, including many crops. Functional stay-greens have the 
-      potential to increase plant productivity. In cosmetic stay-greens, however, 
-      retention of chlorophyll during senescence is uncoupled from a decline of 
-      photosynthetic capacity in these mutants. For many cosmetic stay-green mutants, 
-      including Gregor Mendel's famous green cotyledon pea variety, molecular defects 
-      were recently identified in orthologous stay-green genes. Stay-green genes encode 
-      members of a new family of chloroplast-located proteins, which are likely to 
-      function in dismantling of photosynthetic chlorophyll-apoprotein complexes. Their 
-      activity is considered as a prerequisite for both chlorophyll and apoprotein 
-      degradation during senescence.
-FAU - Hortensteiner, Stefan
-AU  - Hortensteiner S
-AD  - Zurich-Basel Plant Science Center, Institute of Plant Biology, University of 
-      Zurich, CH-8008 Zurich, Switzerland. shorten@botinst.uzh.ch
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20090223
-PL  - England
-TA  - Trends Plant Sci
-JT  - Trends in plant science
-JID - 9890299
-RN  - 0 (Light-Harvesting Protein Complexes)
-RN  - 0 (Plant Proteins)
-RN  - 1406-65-1 (Chlorophyll)
-SB  - IM
-MH  - Amino Acid Sequence
-MH  - *Cellular Senescence
-MH  - Chlorophyll/*metabolism
-MH  - Light-Harvesting Protein Complexes/*metabolism
-MH  - Molecular Sequence Data
-MH  - Mutation/genetics
-MH  - Plant Proteins/chemistry/genetics/*metabolism
-MH  - *Protein Processing, Post-Translational
-RF  - 80
-EDAT- 2009/02/25 09:00
-MHDA- 2009/07/30 09:00
-CRDT- 2009/02/25 09:00
-PHST- 2008/11/07 00:00 [received]
-PHST- 2009/01/06 00:00 [revised]
-PHST- 2009/01/08 00:00 [accepted]
-PHST- 2009/02/25 09:00 [entrez]
-PHST- 2009/02/25 09:00 [pubmed]
-PHST- 2009/07/30 09:00 [medline]
-AID - S1360-1385(09)00049-1 [pii]
-AID - 10.1016/j.tplants.2009.01.002 [doi]
-PST - ppublish
-SO  - Trends Plant Sci. 2009 Mar;14(3):155-62. doi: 10.1016/j.tplants.2009.01.002. Epub 
-      2009 Feb 23.
-
-
-##### PUB RECORD #####
-## 10.1038/s41586-025-08891-6  40269167  Feng, Chen et al., 2024  "Feng C, Chen B, Hofer J, Shi Y, Jiang M, Song B, Cheng H, Lu L, Wang L, Howard A, Bendahmane A, Fouchal A, Moreau C, Sawada C, LeSignor C, Zhang C, Vikeli E, Tsanakas G, Zhao H, Cheema J, Barclay JE, Hou J, Sayers L, Wingen L, Vigouroux M, Vickers M, Ambrose M, Dalmais M, Higuera-Poveda P, Li P, Yuan Q, Spanner R, Horler R, Wouters R, Chundakkad S, Wu T, Zhao X, Li X, Sun Y, Huang Z, Wu Z, Deng XW, Steuernagel B, Domoney C, Ellis N, Chayut N, Cheng S. Genomic and genetic insights into Mendel's pea genes. Nature. 2025 Apr 23. doi: 10.1038/s41586-025-08891-6. Epub ahead of print. PMID: 40269167." ##
+## 10.1038/s41586-025-08891-6  40269167  Feng, Chen et al., 2024  Feng C, Chen B, Hofer J, Shi Y, Jiang M, Song B, Cheng H, Lu L, Wang L, Howard A, Bendahmane A, Fouchal A, Moreau C, Sawada C, LeSignor C, Zhang C, Vikeli E, Tsanakas G, Zhao H, Cheema J, Barclay JE, Hou J, Sayers L, Wingen L, Vigouroux M, Vickers M, Ambrose M, Dalmais M, Higuera-Poveda P, Li P, Yuan Q, Spanner R, Horler R, Wouters R, Chundakkad S, Wu T, Zhao X, Li X, Sun Y, Huang Z, Wu Z, Deng XW, Steuernagel B, Domoney C, Ellis N, Chayut N, Cheng S. Genomic and genetic insights into Mendel's pea genes. Nature. 2025 Jun;642(8069):980-989. doi: 10.1038/s41586-025-08891-6. Epub 2025 Apr 23. PMID: 40269167; PMCID: PMC12221995. ##
 
 PMID- 40269167
 OWN - NLM
-STAT- Publisher
-LR  - 20250603
+STAT- MEDLINE
+DCOM- 20250703
+LR  - 20250715
 IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Print)
 IS  - 0028-0836 (Linking)
-DP  - 2025 Apr 23
+VI  - 642
+IP  - 8069
+DP  - 2025 Jun
 TI  - Genomic and genetic insights into Mendel's pea genes.
+PG  - 980-989
 LID - 10.1038/s41586-025-08891-6 [doi]
 AB  - Mendel(1) studied in detail seven pairs of contrasting traits in pea (Pisum 
       sativum), establishing the foundational principles of genetic inheritance. Here 
@@ -411,24 +441,110 @@ PL  - England
 TA  - Nature
 JT  - Nature
 JID - 0410462
+RN  - 1406-65-1 (Chlorophyll)
 SB  - IM
+MH  - *Pisum sativum/genetics/anatomy & histology/metabolism
+MH  - Alleles
+MH  - Phenotype
+MH  - *Genes, Plant/genetics
+MH  - *Genomics
+MH  - Chlorophyll/biosynthesis
+MH  - *Genome, Plant/genetics
+MH  - Cell Wall/metabolism/genetics
+MH  - Pigmentation/genetics
+MH  - Plant Stems/genetics/anatomy & histology
+MH  - Flowers/genetics
+PMC - PMC12221995
 COIS- Competing interests: The authors declare no competing interests.
 EDAT- 2025/04/24 06:26
-MHDA- 2025/04/24 06:26
+MHDA- 2025/07/03 06:27
+PMCR- 2025/04/23
 CRDT- 2025/04/24 00:08
 PHST- 2024/05/31 00:00 [received]
 PHST- 2025/03/12 00:00 [accepted]
+PHST- 2025/07/03 06:27 [medline]
 PHST- 2025/04/24 06:26 [pubmed]
-PHST- 2025/04/24 06:26 [medline]
 PHST- 2025/04/24 00:08 [entrez]
+PHST- 2025/04/23 00:00 [pmc-release]
 AID - 10.1038/s41586-025-08891-6 [pii]
+AID - 8891 [pii]
 AID - 10.1038/s41586-025-08891-6 [doi]
-PST - aheadofprint
-SO  - Nature. 2025 Apr 23. doi: 10.1038/s41586-025-08891-6.
+PST - ppublish
+SO  - Nature. 2025 Jun;642(8069):980-989. doi: 10.1038/s41586-025-08891-6. Epub 2025 
+      Apr 23.
 
 
 ##### PUB RECORD #####
-## 10.1073/pnas.0705521104  17709752  Sato, Morita et al., 2007  "Sato Y, Morita R, Nishimura M, Yamaguchi H, Kusaba M. Mendel's green cotyledon gene encodes a positive regulator of the chlorophyll-degrading pathway. Proc Natl Acad Sci U S A. 2007 Aug 28;104(35):14169-74. doi: 10.1073/pnas.0705521104. Epub 2007 Aug 20. PMID: 17709752; PMCID: PMC1955798." ##
+## 10.1016/j.tplants.2009.01.002  19237309  Hortensteiner, 2009  Hörtensteiner S. Stay-green regulates chlorophyll and chlorophyll-binding protein degradation during senescence. Trends Plant Sci. 2009 Mar;14(3):155-62. doi: 10.1016/j.tplants.2009.01.002. Epub 2009 Feb 23. PMID: 19237309. ##
+
+PMID- 19237309
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090729
+LR  - 20240109
+IS  - 1360-1385 (Print)
+IS  - 1360-1385 (Linking)
+VI  - 14
+IP  - 3
+DP  - 2009 Mar
+TI  - Stay-green regulates chlorophyll and chlorophyll-binding protein degradation 
+      during senescence.
+PG  - 155-62
+LID - 10.1016/j.tplants.2009.01.002 [doi]
+AB  - Stay-green mutants are delayed in leaf senescence and have been identified from 
+      different plant species, including many crops. Functional stay-greens have the 
+      potential to increase plant productivity. In cosmetic stay-greens, however, 
+      retention of chlorophyll during senescence is uncoupled from a decline of 
+      photosynthetic capacity in these mutants. For many cosmetic stay-green mutants, 
+      including Gregor Mendel's famous green cotyledon pea variety, molecular defects 
+      were recently identified in orthologous stay-green genes. Stay-green genes encode 
+      members of a new family of chloroplast-located proteins, which are likely to 
+      function in dismantling of photosynthetic chlorophyll-apoprotein complexes. Their 
+      activity is considered as a prerequisite for both chlorophyll and apoprotein 
+      degradation during senescence.
+FAU - Hortensteiner, Stefan
+AU  - Hortensteiner S
+AD  - Zurich-Basel Plant Science Center, Institute of Plant Biology, University of 
+      Zurich, CH-8008 Zurich, Switzerland. shorten@botinst.uzh.ch
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20090223
+PL  - England
+TA  - Trends Plant Sci
+JT  - Trends in plant science
+JID - 9890299
+RN  - 0 (Light-Harvesting Protein Complexes)
+RN  - 0 (Plant Proteins)
+RN  - 1406-65-1 (Chlorophyll)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - *Cellular Senescence
+MH  - Chlorophyll/*metabolism
+MH  - Light-Harvesting Protein Complexes/*metabolism
+MH  - Molecular Sequence Data
+MH  - Mutation/genetics
+MH  - Plant Proteins/chemistry/genetics/*metabolism
+MH  - *Protein Processing, Post-Translational
+RF  - 80
+EDAT- 2009/02/25 09:00
+MHDA- 2009/07/30 09:00
+CRDT- 2009/02/25 09:00
+PHST- 2008/11/07 00:00 [received]
+PHST- 2009/01/06 00:00 [revised]
+PHST- 2009/01/08 00:00 [accepted]
+PHST- 2009/02/25 09:00 [entrez]
+PHST- 2009/02/25 09:00 [pubmed]
+PHST- 2009/07/30 09:00 [medline]
+AID - S1360-1385(09)00049-1 [pii]
+AID - 10.1016/j.tplants.2009.01.002 [doi]
+PST - ppublish
+SO  - Trends Plant Sci. 2009 Mar;14(3):155-62. doi: 10.1016/j.tplants.2009.01.002. Epub 
+      2009 Feb 23.
+
+
+##### PUB RECORD #####
+## 10.1073/pnas.0705521104  17709752  Sato, Morita et al., 2007  Sato Y, Morita R, Nishimura M, Yamaguchi H, Kusaba M. Mendel's green cotyledon gene encodes a positive regulator of the chlorophyll-degrading pathway. Proc Natl Acad Sci U S A. 2007 Aug 28;104(35):14169-74. doi: 10.1073/pnas.0705521104. Epub 2007 Aug 20. PMID: 17709752; PMCID: PMC1955798. ##
 
 PMID- 17709752
 OWN - NLM
@@ -529,99 +645,5 @@ AID - 10.1073/pnas.0705521104 [doi]
 PST - ppublish
 SO  - Proc Natl Acad Sci U S A. 2007 Aug 28;104(35):14169-74. doi: 
       10.1073/pnas.0705521104. Epub 2007 Aug 20.
-
-
-##### PUB RECORD #####
-## 10.1126/science.1132912  17204643  Armstead, Donnison et al., 2007  "Armstead I, Donnison I, Aubry S, Harper J, Hörtensteiner S, James C, Mani J, Moffet M, Ougham H, Roberts L, Thomas A, Weeden N, Thomas H, King I. Cross-species identification of Mendel's I locus. Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912. PMID: 17204643." ##
-
-PMID- 17204643
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20070116
-LR  - 20250529
-IS  - 1095-9203 (Electronic)
-IS  - 0036-8075 (Linking)
-VI  - 315
-IP  - 5808
-DP  - 2007 Jan 5
-TI  - Cross-species identification of Mendel's I locus.
-PG  - 73
-AB  - A key gene involved in plant senescence, mutations of which partially disable 
-      chlorophyll catabolism and confer stay-green leaf and cotyledon phenotypes, has 
-      been identified in Pisum sativum, Arabidopsis thaliana, and Festuca pratensis by 
-      using classical and molecular genetics and comparative genomics. A stay-green 
-      locus in F. pratensis is syntenically equivalent to a similar stay-green locus on 
-      rice chromosome 9. Functional testing in Arabidopsis of a homolog of the rice 
-      candidate gene revealed (i) senescence-associated gene expression and (ii) a 
-      stay-green phenotype after RNA interference silencing. Genetic mapping in pea 
-      demonstrated cosegregation with the yellow/green cotyledon polymorphism (I/i) 
-      first reported by Gregor Mendel in 1866.
-FAU - Armstead, Ian
-AU  - Armstead I
-AD  - Institute of Grassland and Environmental Research, Aberystwyth SY23 3EB, UK. 
-      ian.armstead@bbsrc.ac.uk
-FAU - Donnison, Iain
-AU  - Donnison I
-FAU - Aubry, Sylvain
-AU  - Aubry S
-FAU - Harper, John
-AU  - Harper J
-FAU - Hortensteiner, Stefan
-AU  - Hortensteiner S
-FAU - James, Caron
-AU  - James C
-FAU - Mani, Jan
-AU  - Mani J
-FAU - Moffet, Matt
-AU  - Moffet M
-FAU - Ougham, Helen
-AU  - Ougham H
-FAU - Roberts, Luned
-AU  - Roberts L
-FAU - Thomas, Ann
-AU  - Thomas A
-FAU - Weeden, Norman
-AU  - Weeden N
-FAU - Thomas, Howard
-AU  - Thomas H
-FAU - King, Ian
-AU  - King I
-LA  - eng
-GR  - BBS/E/G/00003001/BB_/Biotechnology and Biological Sciences Research 
-      Council/United Kingdom
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-PL  - United States
-TA  - Science
-JT  - Science (New York, N.Y.)
-JID - 0404511
-RN  - 0 (Arabidopsis Proteins)
-RN  - 1406-65-1 (Chlorophyll)
-SB  - IM
-MH  - Amino Acid Sequence
-MH  - Arabidopsis/*genetics/physiology
-MH  - Arabidopsis Proteins/genetics
-MH  - Chlorophyll/analysis/*metabolism
-MH  - Chromosome Mapping
-MH  - Cotyledon/physiology
-MH  - Festuca/*genetics/physiology
-MH  - Gene Expression Regulation, Plant
-MH  - *Genes, Plant
-MH  - Molecular Sequence Data
-MH  - Pisum sativum/*genetics/physiology
-MH  - Phenotype
-MH  - Plant Leaves/physiology
-MH  - RNA Interference
-EDAT- 2007/01/06 09:00
-MHDA- 2007/01/17 09:00
-CRDT- 2007/01/06 09:00
-PHST- 2007/01/06 09:00 [pubmed]
-PHST- 2007/01/17 09:00 [medline]
-PHST- 2007/01/06 09:00 [entrez]
-AID - 315/5808/73 [pii]
-AID - 10.1126/science.1132912 [doi]
-PST - ppublish
-SO  - Science. 2007 Jan 5;315(5808):73. doi: 10.1126/science.1132912.
 
 

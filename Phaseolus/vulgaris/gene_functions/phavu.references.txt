@@ -1,5 +1,292 @@
 ##### PUB RECORD #####
-## 10.1002/ppp3.10132  34268482  Islam, Bett et al., 2020  "Islam NS, Bett KE, Pauls KP, Marsolais F, Dhaubhadel S. Postharvest seed coat darkening in pinto bean (<i>Phaseolus vulgaris</i>) is regulated by <i>Psd</i> , an allele of the basic helix-loop-helix transcription factor <i>P</i>. Plants People Planet. 2020 Nov;2(6):663-677. doi: 10.1002/ppp3.10132. Epub 2020 Aug 19. PMID: 34268482; PMCID: PMC8262261." ##
+## 10.1021/jf0304324  14690368  Beninger, Hosfield, 2003  Beninger CW, Hosfield GL. Antioxidant activity of extracts, condensed tannin fractions, and pure flavonoids from Phaseolus vulgaris L. seed coat color genotypes. J Agric Food Chem. 2003 Dec 31;51(27):7879-83. doi: 10.1021/jf0304324. PMID: 14690368. ##
+
+PMID- 14690368
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040305
+LR  - 20220317
+IS  - 0021-8561 (Print)
+IS  - 0021-8561 (Linking)
+VI  - 51
+IP  - 27
+DP  - 2003 Dec 31
+TI  - Antioxidant activity of extracts, condensed tannin fractions, and pure flavonoids 
+      from Phaseolus vulgaris L. seed coat color genotypes.
+PG  - 7879-83
+AB  - Twelve different seed coat color genotypes of Phaseolus vulgaris L. were 
+      extracted and pure flavonoids isolated from 10 of these. The seed coat methanol 
+      extracts, tannin fractions, and pure flavonoids all displayed antioxidant 
+      activity in a fluorescence-based liposome assay. The relatively high activity of 
+      the condensed tannin (proanthocyanidin) fractions indicates that these may play 
+      an important role in the overall activity of the extracts. This activity also 
+      indicates that although these polyphenols cause problems in digestibility, they 
+      may be important dietary supplements with beneficial health effects. The pure 
+      anthocyanins delphinidin 3-O-glucoside (1), petunidin 3-O-glucoside (2), and 
+      malvidin 3-O-glucoside (3) and the flavonol quercetin 3-O-glucoside (4) isolated 
+      from seed coats also had significantly higher antioxidant activity than the 
+      Fe(2+) control. The activity of kaempferol 3-O-glucoside (5) was not different 
+      from that of the Fe(2+) control. These findings suggest that variously colored 
+      dry beans may be an important source of dietary antioxidants.
+FAU - Beninger, Clifford W
+AU  - Beninger CW
+AD  - Agricultural Research Service, U.S. Department of Agriculture, Plant and Soil 
+      Science Building, Michigan State University, East Lansing, Michigan 48824, USA. 
+      cbeninge@uoguelph.ca
+FAU - Hosfield, George L
+AU  - Hosfield GL
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - J Agric Food Chem
+JT  - Journal of agricultural and food chemistry
+JID - 0374755
+RN  - 0 (Antioxidants)
+RN  - 0 (Flavonoids)
+RN  - 0 (Hydrolyzable Tannins)
+RN  - 0 (Pigments, Biological)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Antioxidants/*analysis
+MH  - Color
+MH  - Flavonoids/*analysis
+MH  - Genotype
+MH  - Hydrolyzable Tannins/*analysis
+MH  - Phaseolus/*chemistry/genetics
+MH  - Pigments, Biological/genetics
+MH  - Plant Extracts/*analysis
+MH  - Seeds/*chemistry
+EDAT- 2003/12/24 05:00
+MHDA- 2004/03/06 05:00
+CRDT- 2003/12/24 05:00
+PHST- 2003/12/24 05:00 [pubmed]
+PHST- 2004/03/06 05:00 [medline]
+PHST- 2003/12/24 05:00 [entrez]
+AID - 10.1021/jf0304324 [doi]
+PST - ppublish
+SO  - J Agric Food Chem. 2003 Dec 31;51(27):7879-83. doi: 10.1021/jf0304324.
+
+
+##### PUB RECORD #####
+## 10.1007/s00425-023-04116-0  36928335  Davila-Delgado, Flores-Canul et al., 2023  Dávila-Delgado R, Flores-Canúl K, Juárez-Verdayes MA, Sánchez-López R. Rhizobia induce SYMRK endocytosis in Phaseolus vulgaris root hair cells. Planta. 2023 Mar 16;257(4):83. doi: 10.1007/s00425-023-04116-0. PMID: 36928335; PMCID: PMC10020325. ##
+
+PMID- 36928335
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230321
+LR  - 20230328
+IS  - 1432-2048 (Electronic)
+IS  - 0032-0935 (Print)
+IS  - 0032-0935 (Linking)
+VI  - 257
+IP  - 4
+DP  - 2023 Mar 16
+TI  - Rhizobia induce SYMRK endocytosis in Phaseolus vulgaris root hair cells.
+PG  - 83
+LID - 10.1007/s00425-023-04116-0 [doi]
+LID - 83
+AB  - PvSYMRK-EGFP undergoes constitutive and rhizobia-induced endocytosis, which rely 
+      on the phosphorylation status of T589, the endocytic YXXO motif and the kinase 
+      activity of the receptor. Legume-rhizobia nodulation is a complex developmental 
+      process. It initiates when the rhizobia-produced Nod factors are perceived by 
+      specific LysM receptors present in the root hair apical membrane. Consequently, 
+      SYMRK (Symbiosis Receptor-like Kinase) becomes active in the root hair and 
+      triggers an extensive signaling network essential for the infection process and 
+      nodule organogenesis. Despite its relevant functions, the underlying cellular 
+      mechanisms involved in SYMRK signaling activity remain poorly characterized. In 
+      this study, we demonstrated that PvSYMRK-EGFP undergoes constitutive and 
+      rhizobia-induced endocytosis. We found that in uninoculated roots, PvSYMRK-EGFP 
+      is mainly associated with the plasma membrane, although intracellular puncta 
+      labelled with PvSymRK-EGFP were also observed in root hair and nonhair-epidermal 
+      cells. Inoculation with Rhizobium etli producing Nod factors induces in the root 
+      hair a redistribution of PvSYMRK-EGFP from the plasma membrane to intracellular 
+      puncta. In accordance, deletion of the endocytic motif YXXO (YKTL) and treatment 
+      with the endocytosis inhibitors ikarugamycin (IKA) and tyrphostin A23 (TyrA23), 
+      as well as brefeldin A (BFA), drastically reduced the density of intracellular 
+      PvSYMRK-EGFP puncta. A similar effect was observed in the 
+      phosphorylation-deficient (T589A) and kinase-dead (K618E) mutants of 
+      PvSYMRK-EGFP, implying these structural features are positive regulators of 
+      PvSYMRK-EGFP endocytosis. Our findings lead us to postulate that rhizobia-induced 
+      endocytosis of SYMRK modulates the duration and amplitude of the SYMRK-dependent 
+      signaling pathway.
+CI  - (c) 2023. The Author(s).
+FAU - Davila-Delgado, Raul
+AU  - Davila-Delgado R
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+FAU - Flores-Canul, Karen
+AU  - Flores-Canul K
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+FAU - Juarez-Verdayes, Marco Adan
+AU  - Juarez-Verdayes MA
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+FAU - Sanchez-Lopez, Rosana
+AU  - Sanchez-Lopez R
+AUID- ORCID: 0000-0002-1628-7240
+AD  - Departamento de Biologia Molecular de Plantas, Instituto de Biotecnologia, 
+      Universidad Nacional Autonoma de Mexico, Avenida Universidad 2001, Colonia 
+      Chamilpa, 62210, Cuernavaca, Morelos, Mexico. rosana.sanchez@ibt.unam.mx.
+LA  - eng
+GR  - PAPIIT/UNAM IN207215/Programa de Apoyo a Proyectos de Investigacion e Innovacion 
+      Tecnologica/UNAM/
+GR  - IN206118/Programa de Apoyo a Proyectos de Investigacion e Innovacion 
+      Tecnologica/UNAM/
+GR  - IN204721/Programa de Apoyo a Proyectos de Investigacion e Innovacion 
+      Tecnologica/UNAM/
+GR  - PhD fellowship number 288601/Consejo Nacional de Ciencia y Tecnologia (CONACYT)/
+GR  - post-doctoral fellowship CVU 174751)/Consejo Nacional de Ciencia y Tecnologia 
+      (CONACYT)/
+PT  - Journal Article
+DEP - 20230316
+PL  - Germany
+TA  - Planta
+JT  - Planta
+JID - 1250576
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Root Nodules, Plant/metabolism
+MH  - *Phaseolus/metabolism
+MH  - Plant Root Nodulation
+MH  - *Rhizobium/physiology
+MH  - Symbiosis
+MH  - Carrier Proteins/metabolism
+MH  - Endocytosis
+MH  - Plant Roots/metabolism
+MH  - Plant Proteins/metabolism
+PMC - PMC10020325
+OTO - NOTNLM
+OT  - Brefeldin A
+OT  - Phaseolus vulgaris
+OT  - Root hair
+OT  - SYMRK
+OT  - Symbiosis
+OT  - Tyrphostin A23
+OT  - YXXO
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2023/03/18 06:00
+MHDA- 2023/03/22 06:00
+PMCR- 2023/03/16
+CRDT- 2023/03/17 09:04
+PHST- 2022/08/15 00:00 [received]
+PHST- 2023/03/06 00:00 [accepted]
+PHST- 2023/03/17 09:04 [entrez]
+PHST- 2023/03/18 06:00 [pubmed]
+PHST- 2023/03/22 06:00 [medline]
+PHST- 2023/03/16 00:00 [pmc-release]
+AID - 10.1007/s00425-023-04116-0 [pii]
+AID - 4116 [pii]
+AID - 10.1007/s00425-023-04116-0 [doi]
+PST - epublish
+SO  - Planta. 2023 Mar 16;257(4):83. doi: 10.1007/s00425-023-04116-0.
+
+
+##### PUB RECORD #####
+## 10.1007/s00122-021-03922-y  34328529  Garcia-Fernandez, Campa et al., 2021  García-Fernández C, Campa A, Ferreira JJ. Dissecting the genetic control of seed coat color in a RIL population of common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. Epub 2021 Jul 30. PMID: 34328529. ##
+
+PMID- 34328529
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211028
+LR  - 20220427
+IS  - 1432-2242 (Electronic)
+IS  - 0040-5752 (Linking)
+VI  - 134
+IP  - 11
+DP  - 2021 Nov
+TI  - Dissecting the genetic control of seed coat color in a RIL population of common 
+      bean (Phaseolus vulgaris L.).
+PG  - 3687-3698
+LID - 10.1007/s00122-021-03922-y [doi]
+AB  - Three genes associated with the seed coat color in a TU/Musica RIL population 
+      were located on a genetic map, and two candidate genes proposed to control black 
+      seed coat in the TU genotype were characterized. Seed coat color is an important 
+      characteristic of common bean (Phaseolus vulgaris L.) associated with the 
+      marketability of dry bean cultivars, quality and nutritional characteristics of 
+      seed, as well as response to pathogens. In this study, the genetic control of 
+      seed coat color in a recombinant inbred line population (175 lines) obtained from 
+      the cross 'TU' x 'Musica' was investigated. Phenotypic segregation fitted 1:1 for 
+      white vs. nonwhite, and 3:1 for brown versus black, indicating the involvement of 
+      three independent genes, one controlling white color and two (with epistatic 
+      interaction) controlling black color. Using a genetic map built with 842 SNPs, 
+      the gene responsible for the white seed coat was mapped on the linkage group 
+      Pv07, in the position previously described for the P gene. For the black seed 
+      coat phenotype, two genes were mapped to the beginning of chromosomes Pv06 and 
+      Pv08, in the positions estimated for the V gene and the complex C locus, 
+      respectively, by classical studies. The involvement of these two genomic regions 
+      was verified through two crosses between three selected RILs exhibiting 
+      complementary and dominant inheritance, in which the TU alleles for both genes 
+      resulted in a black phenotype. Two genes involved in the anthocyanin biosynthesis 
+      pathway were proposed as candidate genes: Phvul.006G018800 encoding a flavonoid 
+      3'5'hydroxylase and Phvul.008G038400 encoding MYB113 transcription factor. These 
+      findings add knowledge to the complex network of genes controlling seed coat 
+      color in common bean as well as providing genetic markers to be used in future 
+      genetic analysis or plant breeding.
+CI  - (c) 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Garcia-Fernandez, Carmen
+AU  - Garcia-Fernandez C
+AUID- ORCID: 0000-0002-0664-796X
+AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
+      (SERIDA), 33300, Villaviciosa, Asturias, Spain. cgarcia@serida.org.
+FAU - Campa, Ana
+AU  - Campa A
+AUID- ORCID: 0000-0003-3970-9079
+AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
+      (SERIDA), 33300, Villaviciosa, Asturias, Spain.
+FAU - Ferreira, Juan Jose
+AU  - Ferreira JJ
+AUID- ORCID: 0000-0002-8782-8868
+AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
+      (SERIDA), 33300, Villaviciosa, Asturias, Spain.
+LA  - eng
+GR  - AGL2017-87050-R/Ministerio de Economia, Industria y Competitividad, Gobierno de 
+      Espana/
+GR  - 774244-BRESOV/European Metrology Programme for Innovation and Research/
+PT  - Journal Article
+DEP - 20210730
+PL  - Germany
+TA  - Theor Appl Genet
+JT  - TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik
+JID - 0145600
+SB  - IM
+MH  - Alleles
+MH  - Chromosome Mapping
+MH  - Color
+MH  - Crosses, Genetic
+MH  - Genes, Plant
+MH  - Genetic Linkage
+MH  - Genotype
+MH  - Phaseolus/*genetics
+MH  - Phenotype
+MH  - Pigmentation/*genetics
+MH  - Polymorphism, Single Nucleotide
+MH  - *Seeds
+EDAT- 2021/07/31 06:00
+MHDA- 2021/10/29 06:00
+CRDT- 2021/07/30 12:20
+PHST- 2021/04/06 00:00 [received]
+PHST- 2021/07/20 00:00 [accepted]
+PHST- 2021/07/31 06:00 [pubmed]
+PHST- 2021/10/29 06:00 [medline]
+PHST- 2021/07/30 12:20 [entrez]
+AID - 10.1007/s00122-021-03922-y [pii]
+AID - 10.1007/s00122-021-03922-y [doi]
+PST - ppublish
+SO  - Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. 
+      Epub 2021 Jul 30.
+
+
+##### PUB RECORD #####
+## 10.1002/ppp3.10132  34268482  Islam, Bett et al., 2020  Islam NS, Bett KE, Pauls KP, Marsolais F, Dhaubhadel S. Postharvest seed coat darkening in pinto bean (<i>Phaseolus vulgaris</i>) is regulated by <i>Psd</i> , an allele of the basic helix-loop-helix transcription factor <i>P</i>. Plants People Planet. 2020 Nov;2(6):663-677. doi: 10.1002/ppp3.10132. Epub 2020 Aug 19. PMID: 34268482; PMCID: PMC8262261. ##
 
 PMID- 34268482
 OWN - NLM
@@ -102,108 +389,7 @@ SO  - Plants People Planet. 2020 Nov;2(6):663-677. doi: 10.1002/ppp3.10132. Epub
 
 
 ##### PUB RECORD #####
-## 10.1007/s00122-021-03922-y  34328529  Garcia-Fernandez, Campa et al., 2021  "García-Fernández C, Campa A, Ferreira JJ. Dissecting the genetic control of seed coat color in a RIL population of common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. Epub 2021 Jul 30. PMID: 34328529." ##
-
-PMID- 34328529
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20211028
-LR  - 20220427
-IS  - 1432-2242 (Electronic)
-IS  - 0040-5752 (Linking)
-VI  - 134
-IP  - 11
-DP  - 2021 Nov
-TI  - Dissecting the genetic control of seed coat color in a RIL population of common 
-      bean (Phaseolus vulgaris L.).
-PG  - 3687-3698
-LID - 10.1007/s00122-021-03922-y [doi]
-AB  - Three genes associated with the seed coat color in a TU/Musica RIL population 
-      were located on a genetic map, and two candidate genes proposed to control black 
-      seed coat in the TU genotype were characterized. Seed coat color is an important 
-      characteristic of common bean (Phaseolus vulgaris L.) associated with the 
-      marketability of dry bean cultivars, quality and nutritional characteristics of 
-      seed, as well as response to pathogens. In this study, the genetic control of 
-      seed coat color in a recombinant inbred line population (175 lines) obtained from 
-      the cross 'TU' x 'Musica' was investigated. Phenotypic segregation fitted 1:1 for 
-      white vs. nonwhite, and 3:1 for brown versus black, indicating the involvement of 
-      three independent genes, one controlling white color and two (with epistatic 
-      interaction) controlling black color. Using a genetic map built with 842 SNPs, 
-      the gene responsible for the white seed coat was mapped on the linkage group 
-      Pv07, in the position previously described for the P gene. For the black seed 
-      coat phenotype, two genes were mapped to the beginning of chromosomes Pv06 and 
-      Pv08, in the positions estimated for the V gene and the complex C locus, 
-      respectively, by classical studies. The involvement of these two genomic regions 
-      was verified through two crosses between three selected RILs exhibiting 
-      complementary and dominant inheritance, in which the TU alleles for both genes 
-      resulted in a black phenotype. Two genes involved in the anthocyanin biosynthesis 
-      pathway were proposed as candidate genes: Phvul.006G018800 encoding a flavonoid 
-      3'5'hydroxylase and Phvul.008G038400 encoding MYB113 transcription factor. These 
-      findings add knowledge to the complex network of genes controlling seed coat 
-      color in common bean as well as providing genetic markers to be used in future 
-      genetic analysis or plant breeding.
-CI  - (c) 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
-      part of Springer Nature.
-FAU - Garcia-Fernandez, Carmen
-AU  - Garcia-Fernandez C
-AUID- ORCID: 0000-0002-0664-796X
-AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
-      (SERIDA), 33300, Villaviciosa, Asturias, Spain. cgarcia@serida.org.
-FAU - Campa, Ana
-AU  - Campa A
-AUID- ORCID: 0000-0003-3970-9079
-AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
-      (SERIDA), 33300, Villaviciosa, Asturias, Spain.
-FAU - Ferreira, Juan Jose
-AU  - Ferreira JJ
-AUID- ORCID: 0000-0002-8782-8868
-AD  - Plant Genetic Group, Regional Service for Agrofood Research and Development 
-      (SERIDA), 33300, Villaviciosa, Asturias, Spain.
-LA  - eng
-GR  - AGL2017-87050-R/Ministerio de Economia, Industria y Competitividad, Gobierno de 
-      Espana/
-GR  - 774244-BRESOV/European Metrology Programme for Innovation and Research/
-PT  - Journal Article
-DEP - 20210730
-PL  - Germany
-TA  - Theor Appl Genet
-JT  - TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik
-JID - 0145600
-SB  - IM
-MH  - Alleles
-MH  - Chromosome Mapping
-MH  - Color
-MH  - Crosses, Genetic
-MH  - Genes, Plant
-MH  - Genetic Linkage
-MH  - Genotype
-MH  - Phaseolus/*genetics
-MH  - Phenotype
-MH  - Pigmentation/*genetics
-MH  - Polymorphism, Single Nucleotide
-MH  - *Seeds
-EDAT- 2021/07/31 06:00
-MHDA- 2021/10/29 06:00
-CRDT- 2021/07/30 12:20
-PHST- 2021/04/06 00:00 [received]
-PHST- 2021/07/20 00:00 [accepted]
-PHST- 2021/07/31 06:00 [pubmed]
-PHST- 2021/10/29 06:00 [medline]
-PHST- 2021/07/30 12:20 [entrez]
-AID - 10.1007/s00122-021-03922-y [pii]
-AID - 10.1007/s00122-021-03922-y [doi]
-PST - ppublish
-SO  - Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. 
-      Epub 2021 Jul 30.
-
-
-##### PUB RECORD #####
-## 10.1007/s00425-023-04116-0  36928335  Davila-Delgado, Flores-Canul et al., 2023  "Dávila-Delgado R, Flores-Canúl K, Juárez-Verdayes MA, Sánchez-López R. Rhizobia induce SYMRK endocytosis in Phaseolus vulgaris root hair cells. Planta. 2023 Mar 16;257(4):83. doi: 10.1007/s00425-023-04116-0. PMID: 36928335; PMCID: PMC10020325." ##
-{"error":"API rate limit exceeded","api-key":"199.245.99.8","count":"4","limit":"3"}
-
-
-##### PUB RECORD #####
-## 10.1007/s11032-023-01362-8  37313298  Liu, Yang et al., 2023  "Liu C, Yang X, He Y, Chen Q, Huang Y, Yan Z, Liu D, Feng G. Fine mapping and characterisation of a <i>PV-PUR</i> mediating anthocyanin synthesis in snap bean (<i>Phaseolus vulgaris</i> L.). Mol Breed. 2023 Mar 1;43(3):15. doi: 10.1007/s11032-023-01362-8. PMID: 37313298; PMCID: PMC10248652." ##
+## 10.1007/s11032-023-01362-8  37313298  Liu, Yang et al., 2023  Liu C, Yang X, He Y, Chen Q, Huang Y, Yan Z, Liu D, Feng G. Fine mapping and characterisation of a <i>PV-PUR</i> mediating anthocyanin synthesis in snap bean (<i>Phaseolus vulgaris</i> L.). Mol Breed. 2023 Mar 1;43(3):15. doi: 10.1007/s11032-023-01362-8. PMID: 37313298; PMCID: PMC10248652. ##
 
 PMID- 37313298
 OWN - NLM
@@ -316,148 +502,7 @@ SO  - Mol Breed. 2023 Mar 1;43(3):15. doi: 10.1007/s11032-023-01362-8. eCollecti
 
 
 ##### PUB RECORD #####
-## 10.1021/jf0304324  14690368  Beninger, Hosfield, 2003  "Beninger CW, Hosfield GL. Antioxidant activity of extracts, condensed tannin fractions, and pure flavonoids from Phaseolus vulgaris L. seed coat color genotypes. J Agric Food Chem. 2003 Dec 31;51(27):7879-83. doi: 10.1021/jf0304324. PMID: 14690368." ##
-
-PMID- 14690368
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20040305
-LR  - 20220317
-IS  - 0021-8561 (Print)
-IS  - 0021-8561 (Linking)
-VI  - 51
-IP  - 27
-DP  - 2003 Dec 31
-TI  - Antioxidant activity of extracts, condensed tannin fractions, and pure flavonoids 
-      from Phaseolus vulgaris L. seed coat color genotypes.
-PG  - 7879-83
-AB  - Twelve different seed coat color genotypes of Phaseolus vulgaris L. were 
-      extracted and pure flavonoids isolated from 10 of these. The seed coat methanol 
-      extracts, tannin fractions, and pure flavonoids all displayed antioxidant 
-      activity in a fluorescence-based liposome assay. The relatively high activity of 
-      the condensed tannin (proanthocyanidin) fractions indicates that these may play 
-      an important role in the overall activity of the extracts. This activity also 
-      indicates that although these polyphenols cause problems in digestibility, they 
-      may be important dietary supplements with beneficial health effects. The pure 
-      anthocyanins delphinidin 3-O-glucoside (1), petunidin 3-O-glucoside (2), and 
-      malvidin 3-O-glucoside (3) and the flavonol quercetin 3-O-glucoside (4) isolated 
-      from seed coats also had significantly higher antioxidant activity than the 
-      Fe(2+) control. The activity of kaempferol 3-O-glucoside (5) was not different 
-      from that of the Fe(2+) control. These findings suggest that variously colored 
-      dry beans may be an important source of dietary antioxidants.
-FAU - Beninger, Clifford W
-AU  - Beninger CW
-AD  - Agricultural Research Service, U.S. Department of Agriculture, Plant and Soil 
-      Science Building, Michigan State University, East Lansing, Michigan 48824, USA. 
-      cbeninge@uoguelph.ca
-FAU - Hosfield, George L
-AU  - Hosfield GL
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-PL  - United States
-TA  - J Agric Food Chem
-JT  - Journal of agricultural and food chemistry
-JID - 0374755
-RN  - 0 (Antioxidants)
-RN  - 0 (Flavonoids)
-RN  - 0 (Hydrolyzable Tannins)
-RN  - 0 (Pigments, Biological)
-RN  - 0 (Plant Extracts)
-SB  - IM
-MH  - Antioxidants/*analysis
-MH  - Color
-MH  - Flavonoids/*analysis
-MH  - Genotype
-MH  - Hydrolyzable Tannins/*analysis
-MH  - Phaseolus/*chemistry/genetics
-MH  - Pigments, Biological/genetics
-MH  - Plant Extracts/*analysis
-MH  - Seeds/*chemistry
-EDAT- 2003/12/24 05:00
-MHDA- 2004/03/06 05:00
-CRDT- 2003/12/24 05:00
-PHST- 2003/12/24 05:00 [pubmed]
-PHST- 2004/03/06 05:00 [medline]
-PHST- 2003/12/24 05:00 [entrez]
-AID - 10.1021/jf0304324 [doi]
-PST - ppublish
-SO  - J Agric Food Chem. 2003 Dec 31;51(27):7879-83. doi: 10.1021/jf0304324.
-
-
-##### PUB RECORD #####
-## 10.1093/jhered/93.2.148  12140276  McClean, Lee et al., 2002  "McClean PE, Lee RK, Otto C, Gepts P, Bassett MJ. Molecular and phenotypic mapping of genes controlling seed coat pattern and color in common bean (Phaseolus vulgaris L.). J Hered. 2002 Mar-Apr;93(2):148-52. doi: 10.1093/jhered/93.2.148. PMID: 12140276." ##
-
-PMID- 12140276
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20030115
-LR  - 20220317
-IS  - 0022-1503 (Print)
-IS  - 0022-1503 (Linking)
-VI  - 93
-IP  - 2
-DP  - 2002 Mar-Apr
-TI  - Molecular and phenotypic mapping of genes controlling seed coat pattern and color 
-      in common bean (Phaseolus vulgaris L.).
-PG  - 148-52
-AB  - Common bean (Phaseolus vulgaris L.) exhibits a wide variety of seed coat patterns 
-      and colors. From a historical perspective, extensive genetic analyses have 
-      identified specific genes that control seed coat pattern (T, Z, L, J, Bip, and 
-      Ana) and color (P, C, R, J, D, G, B, V, and Rk). Many of these genes exhibit 
-      epistatic interactions with other genes, interactions that define the many seed 
-      coat patterns and colors observed within the species. To better understand these 
-      complex interactions, we began a molecular marker discovery program that 
-      previously identified random amplified polymorphic DNA (RAPD) markers linked to 
-      many of these genes. We report here the discovery of RAPD markers linked to three 
-      additional genes-C, G, and V. These markers, and five RAPD markers we previously 
-      discovered linked to other seed coat pattern and color genes, were converted into 
-      easily scorable sequence tagged site (STS) markers. We next placed these markers 
-      onto a common molecular map shared by the Phaseolus research community and 
-      demonstrated a generally wide distribution of the genes throughout the common 
-      bean genome. A few previously unrecognized linkages were discovered. The probable 
-      existence of multiple genes controlling growth habit in common bean is discussed. 
-      Our approach demonstrates the usefulness and feasibility of marker discovery in 
-      one population followed by accurate mapping of that marker onto a core, 
-      community-wide map.
-FAU - McClean, P E
-AU  - McClean PE
-AD  - North Dakota State University, Department of Plant Sciences, Fargo, ND 58105, 
-      USA. phillip.mcclean@ndsu.nodak.edu
-FAU - Lee, R K
-AU  - Lee RK
-FAU - Otto, C
-AU  - Otto C
-FAU - Gepts, P
-AU  - Gepts P
-FAU - Bassett, M J
-AU  - Bassett MJ
-LA  - eng
-PT  - Journal Article
-PL  - United States
-TA  - J Hered
-JT  - The Journal of heredity
-JID - 0375373
-RN  - 0 (Genetic Markers)
-SB  - IM
-MH  - *Chromosome Mapping
-MH  - Genetic Markers
-MH  - Phaseolus/*genetics
-MH  - Random Amplified Polymorphic DNA Technique
-MH  - Seeds/*genetics
-EDAT- 2002/07/26 10:00
-MHDA- 2003/01/16 04:00
-CRDT- 2002/07/26 10:00
-PHST- 2002/07/26 10:00 [pubmed]
-PHST- 2003/01/16 04:00 [medline]
-PHST- 2002/07/26 10:00 [entrez]
-AID - 10.1093/jhered/93.2.148 [doi]
-PST - ppublish
-SO  - J Hered. 2002 Mar-Apr;93(2):148-52. doi: 10.1093/jhered/93.2.148.
-
-
-##### PUB RECORD #####
-## 10.1111/nph.15259  29897103  McClean, Bett et al., 2018  "McClean PE, Bett KE, Stonehouse R, Lee R, Pflieger S, Moghaddam SM, Geffroy V, Miklas P, Mamidi S. White seed color in common bean (Phaseolus vulgaris) results from convergent evolution in the P (pigment) gene. New Phytol. 2018 Aug;219(3):1112-1123. doi: 10.1111/nph.15259. Epub 2018 Jun 13. PMID: 29897103." ##
+## 10.1111/nph.15259  29897103  McClean, Bett et al., 2018  McClean PE, Bett KE, Stonehouse R, Lee R, Pflieger S, Moghaddam SM, Geffroy V, Miklas P, Mamidi S. White seed color in common bean (Phaseolus vulgaris) results from convergent evolution in the P (pigment) gene. New Phytol. 2018 Aug;219(3):1112-1123. doi: 10.1111/nph.15259. Epub 2018 Jun 13. PMID: 29897103. ##
 
 PMID- 29897103
 OWN - NLM
@@ -576,7 +621,78 @@ SO  - New Phytol. 2018 Aug;219(3):1112-1123. doi: 10.1111/nph.15259. Epub 2018 J
 
 
 ##### PUB RECORD #####
-## 10.3389/fpls.2022.869582  35432409  McClean, Lee et al., 2022  "McClean PE, Lee R, Howe K, Osborne C, Grimwood J, Levy S, Haugrud AP, Plott C, Robinson M, Skiba RM, Tanha T, Zamani M, Thannhauser TW, Glahn RP, Schmutz J, Osorno JM, Miklas PN. The Common Bean <i>V</i> Gene Encodes Flavonoid 3'5' Hydroxylase: A Major Mutational Target for Flavonoid Diversity in Angiosperms. Front Plant Sci. 2022 Mar 31;13:869582. doi: 10.3389/fpls.2022.869582. PMID: 35432409; PMCID: PMC9009181." ##
+## 10.1093/jhered/93.2.148  12140276  McClean, Lee et al., 2002  McClean PE, Lee RK, Otto C, Gepts P, Bassett MJ. Molecular and phenotypic mapping of genes controlling seed coat pattern and color in common bean (Phaseolus vulgaris L.). J Hered. 2002 Mar-Apr;93(2):148-52. doi: 10.1093/jhered/93.2.148. PMID: 12140276. ##
+
+PMID- 12140276
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030115
+LR  - 20220317
+IS  - 0022-1503 (Print)
+IS  - 0022-1503 (Linking)
+VI  - 93
+IP  - 2
+DP  - 2002 Mar-Apr
+TI  - Molecular and phenotypic mapping of genes controlling seed coat pattern and color 
+      in common bean (Phaseolus vulgaris L.).
+PG  - 148-52
+AB  - Common bean (Phaseolus vulgaris L.) exhibits a wide variety of seed coat patterns 
+      and colors. From a historical perspective, extensive genetic analyses have 
+      identified specific genes that control seed coat pattern (T, Z, L, J, Bip, and 
+      Ana) and color (P, C, R, J, D, G, B, V, and Rk). Many of these genes exhibit 
+      epistatic interactions with other genes, interactions that define the many seed 
+      coat patterns and colors observed within the species. To better understand these 
+      complex interactions, we began a molecular marker discovery program that 
+      previously identified random amplified polymorphic DNA (RAPD) markers linked to 
+      many of these genes. We report here the discovery of RAPD markers linked to three 
+      additional genes-C, G, and V. These markers, and five RAPD markers we previously 
+      discovered linked to other seed coat pattern and color genes, were converted into 
+      easily scorable sequence tagged site (STS) markers. We next placed these markers 
+      onto a common molecular map shared by the Phaseolus research community and 
+      demonstrated a generally wide distribution of the genes throughout the common 
+      bean genome. A few previously unrecognized linkages were discovered. The probable 
+      existence of multiple genes controlling growth habit in common bean is discussed. 
+      Our approach demonstrates the usefulness and feasibility of marker discovery in 
+      one population followed by accurate mapping of that marker onto a core, 
+      community-wide map.
+FAU - McClean, P E
+AU  - McClean PE
+AD  - North Dakota State University, Department of Plant Sciences, Fargo, ND 58105, 
+      USA. phillip.mcclean@ndsu.nodak.edu
+FAU - Lee, R K
+AU  - Lee RK
+FAU - Otto, C
+AU  - Otto C
+FAU - Gepts, P
+AU  - Gepts P
+FAU - Bassett, M J
+AU  - Bassett MJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Hered
+JT  - The Journal of heredity
+JID - 0375373
+RN  - 0 (Genetic Markers)
+SB  - IM
+MH  - *Chromosome Mapping
+MH  - Genetic Markers
+MH  - Phaseolus/*genetics
+MH  - Random Amplified Polymorphic DNA Technique
+MH  - Seeds/*genetics
+EDAT- 2002/07/26 10:00
+MHDA- 2003/01/16 04:00
+CRDT- 2002/07/26 10:00
+PHST- 2002/07/26 10:00 [pubmed]
+PHST- 2003/01/16 04:00 [medline]
+PHST- 2002/07/26 10:00 [entrez]
+AID - 10.1093/jhered/93.2.148 [doi]
+PST - ppublish
+SO  - J Hered. 2002 Mar-Apr;93(2):148-52. doi: 10.1093/jhered/93.2.148.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2022.869582  35432409  McClean, Lee et al., 2022  McClean PE, Lee R, Howe K, Osborne C, Grimwood J, Levy S, Haugrud AP, Plott C, Robinson M, Skiba RM, Tanha T, Zamani M, Thannhauser TW, Glahn RP, Schmutz J, Osorno JM, Miklas PN. The Common Bean <i>V</i> Gene Encodes Flavonoid 3'5' Hydroxylase: A Major Mutational Target for Flavonoid Diversity in Angiosperms. Front Plant Sci. 2022 Mar 31;13:869582. doi: 10.3389/fpls.2022.869582. PMID: 35432409; PMCID: PMC9009181. ##
 
 PMID- 35432409
 OWN - NLM
