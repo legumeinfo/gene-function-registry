@@ -1,0 +1,141 @@
+##### PUB RECORD #####
+## 10.1007/s00122-025-04903-1  40358622  Tang, Zhou et al., 2025  Tang Y, Zhou X, Li X, Zhou C, Wang W, Zhou M, Hu Z, Li X, Zhang K, Wang S, Zhang Z, Chen H, Wang J, Qiao L. Genetic analysis and fine mapping reveal that AhRt3, which encodes an anthocyanin reductase, is responsible for red testa in cultivated peanuts. Theor Appl Genet. 2025 May 13;138(6):117. doi: 10.1007/s00122-025-04903-1. PMID: 40358622. ##
+
+PMID- 40358622
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250513
+LR  - 20250615
+IS  - 1432-2242 (Electronic)
+IS  - 0040-5752 (Linking)
+VI  - 138
+IP  - 6
+DP  - 2025 May 13
+TI  - Genetic analysis and fine mapping reveal that AhRt3, which encodes an anthocyanin 
+      reductase, is responsible for red testa in cultivated peanuts.
+PG  - 117
+LID - 10.1007/s00122-025-04903-1 [doi]
+AB  - AhRt3, which governs the red testa of peanut, was narrowed down to a 125.30 kb 
+      region, and one gene encoding anthocyanin reductase was identified as the 
+      putative candidate gene. Testa color is a special characteristic of peanuts 
+      (Arachis hypogaea L.), and those with dark testa have been focused on recent 
+      years owing to their high-anthocyanin content and increased antioxidant 
+      nutritional value. However, the genetic mechanisms underlying this trait remain 
+      limited. To identify the gene responsible for the red testa color in peanuts, an 
+      F(2) population was constructed by crossing YH91 (pink testa) with JHT1 (red 
+      testa). Genetic analysis revealed that the red testa was controlled by a single 
+      dominant gene named AhRt3 (Arachis hypogaea Red Testa 3). Through bulked 
+      segregant analysis sequencing, AhRt3 was preliminarily mapped to the chromosome 
+      Arahy.03 and subsequently narrowed to a 125.30 kb genomic region containing 12 
+      potential candidate genes. RNA-seq analysis revealed that 4,880 genes were 
+      differentially expressed in the seed testa, with only the candidate gene 
+      Arahy.W8TDEC exhibiting higher expression levels in JHT1 than in YH91. 
+      Additionally, sequence variation, functional annotation, and expression profiling 
+      confirmed that Arahy.W8TDEC, which encodes an anthocyanin reductase, may be a 
+      candidate gene for AhRt3. The structural variation involving an inversion between 
+      the sixth exon and the 3'UTR of Arahy.W8TDEC resulted in altered amino acids 
+      closely associated with the red testa phenotype in peanuts. In conclusion, this 
+      study highlights the role of a novel gene in regulating red testa and contributes 
+      valuable insights into the genetic basis of seed testa in peanuts.
+CI  - (c) 2025. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Tang, Yanyan
+AU  - Tang Y
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Zhou, Xiantao
+AU  - Zhou X
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Li, Xin
+AU  - Li X
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Zhou, Cai
+AU  - Zhou C
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Wang, Wenlin
+AU  - Wang W
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Zhou, Mo
+AU  - Zhou M
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Hu, Zhicheng
+AU  - Hu Z
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Li, Xiaobei
+AU  - Li X
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Zhang, Kaiyuan
+AU  - Zhang K
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Wang, Siming
+AU  - Wang S
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Zhang, Zhihao
+AU  - Zhang Z
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Chen, Hao
+AU  - Chen H
+AD  - Institute of Crop Sciences, Fujian Research Station of Crop Gene Resource & 
+      Germplasm Enhancement, Fujian Academy of Agricultural Sciences, Fuzhou, China.
+FAU - Wang, Jingshan
+AU  - Wang J
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China.
+FAU - Qiao, Lixian
+AU  - Qiao L
+AUID- ORCID: 0000-0002-8231-7911
+AD  - College of Agronomy, Qingdao Agricultural University, Qingdao, 266109, Shandong, 
+      China. lxqiao73@163.com.
+LA  - eng
+GR  - SDAIT-29-03/Salt-Alkali Agriculture Industry System of Shandong Province/
+GR  - 23-1-3-8-zyyd-nsh/Qingdao Science & Technology Key Projects/
+GR  - 2021LZGC026-07/Shandong Province Key Research and Development Program/
+GR  - S202410435023/Shandong Province College Students'innovation and entrepreneurship 
+      training program/
+GR  - D23014/Innovation Intellectual Program for Higher Education Disciplines/
+PT  - Journal Article
+DEP - 20250513
+PL  - Germany
+TA  - Theor Appl Genet
+JT  - TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik
+JID - 0145600
+RN  - 0 (Anthocyanins)
+RN  - EC 1.- (Oxidoreductases)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Arachis/genetics/enzymology
+MH  - Chromosome Mapping
+MH  - *Anthocyanins/metabolism
+MH  - *Oxidoreductases/genetics/metabolism
+MH  - *Plant Proteins/genetics/metabolism
+MH  - Phenotype
+MH  - *Pigmentation/genetics
+MH  - Genes, Plant
+MH  - Gene Expression Regulation, Plant
+MH  - Chromosomes, Plant/genetics
+COIS- Declarations. Conflict of interest: The authors declare that they have no 
+      conflict of interest.
+EDAT- 2025/05/13 13:50
+MHDA- 2025/05/13 13:51
+CRDT- 2025/05/13 11:02
+PHST- 2024/11/11 00:00 [received]
+PHST- 2025/04/09 00:00 [accepted]
+PHST- 2025/05/13 13:51 [medline]
+PHST- 2025/05/13 13:50 [pubmed]
+PHST- 2025/05/13 11:02 [entrez]
+AID - 10.1007/s00122-025-04903-1 [pii]
+AID - 10.1007/s00122-025-04903-1 [doi]
+PST - epublish
+SO  - Theor Appl Genet. 2025 May 13;138(6):117. doi: 10.1007/s00122-025-04903-1.
+
+
