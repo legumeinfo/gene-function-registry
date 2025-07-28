@@ -1,5 +1,136 @@
 ##### PUB RECORD #####
-## 10.1038/ncomms5340  25004933  Qi, Li et al., 2014  "Qi X, Li MW, Xie M, Liu X, Ni M, Shao G, Song C, Kay-Yuen Yim A, Tao Y, Wong FL, Isobe S, Wong CF, Wong KS, Xu C, Li C, Wang Y, Guan R, Sun F, Fan G, Xiao Z, Zhou F, Phang TH, Liu X, Tong SW, Chan TF, Yiu SM, Tabata S, Wang J, Xu X, Lam HM. Identification of a novel salt tolerance gene in wild soybean by whole-genome sequencing. Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340. PMID: 25004933; PMCID: PMC4104456." ##
+## 10.1111/pbi.13536  33368860  Jin, Sun et al., 2021  Jin T, Sun Y, Shan Z, He J, Wang N, Gai J, Li Y. Natural variation in the promoter of GsERD15B affects salt tolerance in soybean. Plant Biotechnol J. 2021 Jun;19(6):1155-1169. doi: 10.1111/pbi.13536. Epub 2021 Jan 19. PMID: 33368860; PMCID: PMC8196659. ##
+
+PMID- 33368860
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210628
+LR  - 20231213
+IS  - 1467-7652 (Electronic)
+IS  - 1467-7644 (Print)
+IS  - 1467-7644 (Linking)
+VI  - 19
+IP  - 6
+DP  - 2021 Jun
+TI  - Natural variation in the promoter of GsERD15B affects salt tolerance in soybean.
+PG  - 1155-1169
+LID - 10.1111/pbi.13536 [doi]
+AB  - Salt stress has detrimental effects on crop growth and yield, and the area of 
+      salt-affected land is increasing. Soybean is a major source of vegetable protein, 
+      oil and feed, but considered as a salt-sensitive crop. Cultivated soybean 
+      (Glycine max) is domesticated from wild soybean (G. soja) but lost considerable 
+      amount of genetic diversity during the artificial selection. Therefore, it is 
+      important to exploit the gene pool of wild soybean. In this study, we identified 
+      34 salt-tolerant accessions from wild soybean germplasm and found that a 7-bp 
+      insertion/deletion (InDel) in the promoter of GsERD15B (early responsive to 
+      dehydration 15B) significantly affects the salt tolerance of soybean. GsERD15B 
+      encodes a protein with transcriptional activation function and contains a PAM2 
+      domain to mediate its interaction with poly(A)-binding (PAB) proteins. The 7-bp 
+      deletion in GsERD15B promoter enhanced the salt tolerance of soybean, with 
+      increased up-regulation of GsERD15B, two GmPAB genes, the known stress-related 
+      genes including GmABI1, GmABI2, GmbZIP1, GmP5CS, GmCAT4, GmPIP1:6, GmMYB84 and 
+      GmSOS1 in response to salt stress. We propose that natural variation in GsERD15B 
+      promoter affects soybean salt tolerance, and overexpression of GsERD15B enhanced 
+      salt tolerance probably by increasing the expression levels of genes related to 
+      ABA-signalling, proline content, catalase peroxidase, dehydration response and 
+      cation transport.
+CI  - (c) 2020 The Authors. Plant Biotechnology Journal published by Society for 
+      Experimental Biology and The Association of Applied Biologists and John Wiley & 
+      Sons Ltd.
+FAU - Jin, Ting
+AU  - Jin T
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+FAU - Sun, Yangyang
+AU  - Sun Y
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+FAU - Shan, Zhong
+AU  - Shan Z
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+FAU - He, Jianbo
+AU  - He J
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+FAU - Wang, Ning
+AU  - Wang N
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+FAU - Gai, Junyi
+AU  - Gai J
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+FAU - Li, Yan
+AU  - Li Y
+AUID- ORCID: 0000-0002-1627-7763
+AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
+      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
+      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
+      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
+      Nanjing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210119
+PL  - England
+TA  - Plant Biotechnol J
+JT  - Plant biotechnology journal
+JID - 101201889
+SB  - IM
+MH  - *Fabaceae
+MH  - Gene Expression Regulation, Plant/genetics
+MH  - Plants, Genetically Modified/genetics
+MH  - Promoter Regions, Genetic/genetics
+MH  - Salt Tolerance/genetics
+MH  - *Glycine max/genetics
+PMC - PMC8196659
+OTO - NOTNLM
+OT  - GsERD15B
+OT  - GWAS
+OT  - InDel
+OT  - haplotype
+OT  - salt stress
+OT  - soybean
+COIS- The authors have patents pending related to this work.
+EDAT- 2020/12/29 06:00
+MHDA- 2021/06/29 06:00
+PMCR- 2021/01/19
+CRDT- 2020/12/28 12:36
+PHST- 2020/12/11 00:00 [revised]
+PHST- 2019/10/09 00:00 [received]
+PHST- 2020/12/16 00:00 [accepted]
+PHST- 2020/12/29 06:00 [pubmed]
+PHST- 2021/06/29 06:00 [medline]
+PHST- 2020/12/28 12:36 [entrez]
+PHST- 2021/01/19 00:00 [pmc-release]
+AID - PBI13536 [pii]
+AID - 10.1111/pbi.13536 [doi]
+PST - ppublish
+SO  - Plant Biotechnol J. 2021 Jun;19(6):1155-1169. doi: 10.1111/pbi.13536. Epub 2021 
+      Jan 19.
+
+
+##### PUB RECORD #####
+## 10.1038/ncomms5340  25004933  Qi, Li et al., 2014  Qi X, Li MW, Xie M, Liu X, Ni M, Shao G, Song C, Kay-Yuen Yim A, Tao Y, Wong FL, Isobe S, Wong CF, Wong KS, Xu C, Li C, Wang Y, Guan R, Sun F, Fan G, Xiao Z, Zhou F, Phang TH, Liu X, Tong SW, Chan TF, Yiu SM, Tabata S, Wang J, Xu X, Lam HM. Identification of a novel salt tolerance gene in wild soybean by whole-genome sequencing. Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340. PMID: 25004933; PMCID: PMC4104456. ##
 
 PMID- 25004933
 OWN - NLM
@@ -195,136 +326,5 @@ AID - ncomms5340 [pii]
 AID - 10.1038/ncomms5340 [doi]
 PST - epublish
 SO  - Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340.
-
-
-##### PUB RECORD #####
-## 10.1111/pbi.13536  33368860  Jin, Sun et al., 2021  "Jin T, Sun Y, Shan Z, He J, Wang N, Gai J, Li Y. Natural variation in the promoter of GsERD15B affects salt tolerance in soybean. Plant Biotechnol J. 2021 Jun;19(6):1155-1169. doi: 10.1111/pbi.13536. Epub 2021 Jan 19. PMID: 33368860; PMCID: PMC8196659." ##
-
-PMID- 33368860
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210628
-LR  - 20231213
-IS  - 1467-7652 (Electronic)
-IS  - 1467-7644 (Print)
-IS  - 1467-7644 (Linking)
-VI  - 19
-IP  - 6
-DP  - 2021 Jun
-TI  - Natural variation in the promoter of GsERD15B affects salt tolerance in soybean.
-PG  - 1155-1169
-LID - 10.1111/pbi.13536 [doi]
-AB  - Salt stress has detrimental effects on crop growth and yield, and the area of 
-      salt-affected land is increasing. Soybean is a major source of vegetable protein, 
-      oil and feed, but considered as a salt-sensitive crop. Cultivated soybean 
-      (Glycine max) is domesticated from wild soybean (G. soja) but lost considerable 
-      amount of genetic diversity during the artificial selection. Therefore, it is 
-      important to exploit the gene pool of wild soybean. In this study, we identified 
-      34 salt-tolerant accessions from wild soybean germplasm and found that a 7-bp 
-      insertion/deletion (InDel) in the promoter of GsERD15B (early responsive to 
-      dehydration 15B) significantly affects the salt tolerance of soybean. GsERD15B 
-      encodes a protein with transcriptional activation function and contains a PAM2 
-      domain to mediate its interaction with poly(A)-binding (PAB) proteins. The 7-bp 
-      deletion in GsERD15B promoter enhanced the salt tolerance of soybean, with 
-      increased up-regulation of GsERD15B, two GmPAB genes, the known stress-related 
-      genes including GmABI1, GmABI2, GmbZIP1, GmP5CS, GmCAT4, GmPIP1:6, GmMYB84 and 
-      GmSOS1 in response to salt stress. We propose that natural variation in GsERD15B 
-      promoter affects soybean salt tolerance, and overexpression of GsERD15B enhanced 
-      salt tolerance probably by increasing the expression levels of genes related to 
-      ABA-signalling, proline content, catalase peroxidase, dehydration response and 
-      cation transport.
-CI  - (c) 2020 The Authors. Plant Biotechnology Journal published by Society for 
-      Experimental Biology and The Association of Applied Biologists and John Wiley & 
-      Sons Ltd.
-FAU - Jin, Ting
-AU  - Jin T
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-FAU - Sun, Yangyang
-AU  - Sun Y
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-FAU - Shan, Zhong
-AU  - Shan Z
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-FAU - He, Jianbo
-AU  - He J
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-FAU - Wang, Ning
-AU  - Wang N
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-FAU - Gai, Junyi
-AU  - Gai J
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-FAU - Li, Yan
-AU  - Li Y
-AUID- ORCID: 0000-0002-1627-7763
-AD  - National Key Laboratory of Crop Genetics and Germplasm Enhancement, National 
-      Center for Soybean Improvement, Key Laboratory for Biology and Genetic 
-      Improvement of Soybean (General, Ministry of Agriculture), Jiangsu Collaborative 
-      Innovation Center for Modern Crop Production, Nanjing Agricultural University, 
-      Nanjing, China.
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-DEP - 20210119
-PL  - England
-TA  - Plant Biotechnol J
-JT  - Plant biotechnology journal
-JID - 101201889
-SB  - IM
-MH  - *Fabaceae
-MH  - Gene Expression Regulation, Plant/genetics
-MH  - Plants, Genetically Modified/genetics
-MH  - Promoter Regions, Genetic/genetics
-MH  - Salt Tolerance/genetics
-MH  - *Glycine max/genetics
-PMC - PMC8196659
-OTO - NOTNLM
-OT  - GsERD15B
-OT  - GWAS
-OT  - InDel
-OT  - haplotype
-OT  - salt stress
-OT  - soybean
-COIS- The authors have patents pending related to this work.
-EDAT- 2020/12/29 06:00
-MHDA- 2021/06/29 06:00
-PMCR- 2021/01/19
-CRDT- 2020/12/28 12:36
-PHST- 2020/12/11 00:00 [revised]
-PHST- 2019/10/09 00:00 [received]
-PHST- 2020/12/16 00:00 [accepted]
-PHST- 2020/12/29 06:00 [pubmed]
-PHST- 2021/06/29 06:00 [medline]
-PHST- 2020/12/28 12:36 [entrez]
-PHST- 2021/01/19 00:00 [pmc-release]
-AID - PBI13536 [pii]
-AID - 10.1111/pbi.13536 [doi]
-PST - ppublish
-SO  - Plant Biotechnol J. 2021 Jun;19(6):1155-1169. doi: 10.1111/pbi.13536. Epub 2021 
-      Jan 19.
 
 

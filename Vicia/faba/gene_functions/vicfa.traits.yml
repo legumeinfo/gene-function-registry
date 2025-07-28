@@ -8,8 +8,8 @@ confidence: 4
 curators:
   - Steven Cannon
 comments:
-  - Evidence based on GWAS, allele analysis, and homology to an Arabidopsis gene (CYP78A) involved
-      in seed size regulation
+  - Evidence based on GWAS, allele analysis, and homology to an Arabidopsis
+      gene (CYP78A) involved in seed size regulation
 phenotype_synopsis: Seed size regulation
 traits:
   - entity_name: seed size
@@ -30,10 +30,11 @@ confidence: 4
 curators:
   - Steven Cannon
 comments:
-  - Evidence based on association and allelic variant analysis, and homology to an orthologous
-      locus in pea (gene Psat1g2063360) that controls hilum color.
-  - Evidence suggests that the regulation of expression of VfPPO-2 controls hilum colour variation
-      in faba bean.
+  - Evidence based on association and allelic variant analysis, and homology to
+      an orthologous locus in pea (gene Psat1g2063360) that controls hilum
+      color.
+  - Evidence suggests that the regulation of expression of VfPPO-2 controls
+      hilum colour variation in faba bean.
 phenotype_synopsis: Control of hilum color
 traits:
   - entity_name: hilum color
