@@ -4,17 +4,25 @@ gene_symbols:
 gene_symbol_long: Smooth seedpod 1
 gene_model_pub_name: Medtr4g039430
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g039430
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
   - MtSSp1 mutants show no seedpod spine formation
-  - MtSSP1 mutants also had twisted stem and petiole, curly leaves, and were shorter then WT
+  - MtSSP1 mutants also had twisted stem and petiole, curly leaves, and were shorter then wild type
   - MtSSP1 is a homologous gene of Arabidopsis TWD1
 phenotype_synopsis: MtSSP1 is involved in seedpod spine development 
 traits:
-  - entity_name:
-    entity:
+  - entity_name: petiole shape
+    entity: TO:0000767
+  - entity_name: stem shape
+    entity: TO:0000893
+  - entity_name: stem length
+    entity: TO:0000576
+  - entity_name: leaf shape
+    entity: TO:0000492
+  - entity_name: seedpod
+    entity: BTO:0005886
 references:
   - citation: Zhao,Chai et al., 2021
     doi: 10.1093/jxb/erab359
