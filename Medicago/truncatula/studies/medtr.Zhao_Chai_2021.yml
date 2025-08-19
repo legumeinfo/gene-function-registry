@@ -1,3 +1,4 @@
+---
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtSSP1
@@ -21,7 +22,7 @@ traits:
     entity: TO:0000893
   - entity_name: stem length
     entity: TO:0000576
- - entity_name: auxin transport
+  - entity_name: auxin transport
     entity: GO:0060918
   - entity_name: seedpod
     entity: BTO:0005886
