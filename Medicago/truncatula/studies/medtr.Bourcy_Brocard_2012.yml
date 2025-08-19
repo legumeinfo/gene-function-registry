@@ -15,7 +15,7 @@ comments:
   - MtDNF2 is expressed specifically in nodules in the invasion zone and interzone II–III
   - The senescence zone appeared earlier in mutant MtDNF2 nodules than in the WT
   - MtDNF2 is required to produce differentiated bacteroids and to prevent bacterial cell death in infected nodule cells
-phenotype_synopsis: MtDNF2 is required for nitrogen fixation
+phenotype_synopsis: MtDNF2 is required for nitrogen fixation and plays a role in root nodule number determination
 traits:
   - entity_name: nitrogen content
     entity: TO:0020093
