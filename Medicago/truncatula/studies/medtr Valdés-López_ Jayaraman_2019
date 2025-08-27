@@ -1,0 +1,29 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtEPP1
+gene_symbol_long: Early Phosphorylated Protein 1
+gene_model_pub_name: Medtr3g099200
+gene_model_full_id:
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtEPP1 shows high expression in roots, roots hairs and nodules, and a weak expression in leaves and flowers
+  - MtEPP1 expression is up-regulated in root hairs when treated with Nod factors (NF) which are lipo-chitooligosaccharides with specific chemical decorations
+  - MtEPP1 is required to induce NF-induced root hair branching and nodule formation and is required to activate the early stages of legume–rhizobia symbiosis
+  - MtEPP1 is required to induce the calcium spiking triggered by NF
+  - MtEPP1 expression is induced in rhizobia-induced curled root hairs
+  - Down-regulation of MtEPP1 negatively affects nodule development
+phenotype_synopsis: MtEPP1 is required to induce early root nodule formation and root hair branching
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: root hair
+    entity: GO:0035618
+references:
+  - citation: Valdés-López, Jayaraman et al., 2019
+    doi: 10.1038/s41598-019-38876-1
+    pmid: 30476329
