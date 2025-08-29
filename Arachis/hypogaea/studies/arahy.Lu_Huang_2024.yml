@@ -58,13 +58,16 @@ classical_locus:
 gene_symbols:
   - AhANT
 gene_symbol_long:
-gene_model_pub_name:
+gene_model_pub_name: Ahy_B06g085890
 gene_model_full_id:
 confidence:
 curators:
-  -
+  - Scott Kalberer
 comments:
-  -
+  - AhANT, located on chromosome B06, was associated with the seed and pod weight traits.
+  - AhANT in peanut is homologous to ANT (At4g37750) in Arabidopsis thaliana. This gene regulates the hormone-signaling pathway controlling the size and cellular division in organs of Arabidopsis such as seeds, as well as the ABA-signal-mediated drought resistance of seeds.
+  - The AhANT protein structure includes two YRG elements and one RAYD element that are important conserved elements in the AP2 domain.
+  - A nonsynonymous SNP (C/A) resulted in a shift from the amino acid proline to threonine. Consequentially, the pod- and seed-related trait values were substantially higher for plants with the CC genotype than the AA genotype.
 phenotype_synopsis:
 traits:
   - entity_name:
