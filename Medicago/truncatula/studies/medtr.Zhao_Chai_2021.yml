@@ -22,10 +22,10 @@ traits:
     entity: TO:0000893
   - entity_name: stem length
     entity: TO:0000576
+  - entity_name: exocarp texture
+    entity: TO:0002624
   - entity_name: auxin transport
     entity: GO:0060918
-  - entity_name: seedpod
-    entity: BTO:0005886
 references:
   - citation: Zhao,Chai et al., 2021
     doi: 10.1093/jxb/erab359
