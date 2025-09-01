@@ -14,10 +14,10 @@ comments:
   - MtMSD1 has two homologs, MtGA20ox7 and MtGA20ox8, which together regulate shoot length and leaf development
 phenotype_synopsis: MtMSD1 regulates the biosythesis of gibberellin oxidases which control plant height
 traits:
-  - entity_name: gibberellin biosynthetic process
-    entity: GO:0009686
   - entity_name: stem internode morphology trait
     entity: TO:0000756
+  - entity_name: gibberellin biosynthetic process
+    entity: GO:0009686
 references:
   - citation: Wanying, Qingxia et al., 2021
     doi: 10.3389/fpls.2021.709625
