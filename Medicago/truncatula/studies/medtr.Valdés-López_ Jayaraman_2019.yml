@@ -4,7 +4,7 @@ gene_symbols:
   - MtEPP1
 gene_symbol_long: Early Phosphorylated Protein 1
 gene_model_pub_name: Medtr3g099200
-gene_model_full_id:
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g099200
 confidence: 5
 curators:
   - Raegan Nelson
