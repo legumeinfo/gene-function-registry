@@ -31,26 +31,23 @@ references:
 scientific_name: Arachis hypogaea
 classical_locus:
 gene_symbols:
-  -
+  - AhWRI1
 gene_symbol_long:
-gene_model_pub_name:
+gene_model_pub_name: Ahy_A08g040760
 gene_model_full_id:
 confidence:
 curators:
-  -
+  - Scott Kalberer
 comments:
   -
 phenotype_synopsis:
 traits:
-  - entity_name:
-    entity:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
 references:
   - citation: Lu, Huang et al., 2024
     doi: 10.1038/s41588-024-01660-7
     pmid: 38378864
-  - citation:
-    doi:
-    pmid:
 
 ---
 scientific_name: Arachis hypogaea
