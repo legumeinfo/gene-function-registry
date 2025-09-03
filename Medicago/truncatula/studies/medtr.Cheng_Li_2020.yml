@@ -44,7 +44,7 @@ comments:
   - MtFTa1 mutant flowers late and double mutant MtFDa and MtFTA1 blocks floral transition and does not flower at all
   - MtFTa1 mutant has delayed floral transition to the primary inflorescence and delays the flowering of lateral branches, but has no effect on secondary inflorescence development
   - MtFDa and MtFTa1 are required for the upregulation of inflorescence and floral meristem identity genes
-phenotype_synopsis:  MtFDa is required for floral transition and upregulation of secondary inflorescence development and floral meristem identity
+phenotype_synopsis: MtFDa is required for floral transition and upregulation of secondary inflorescence development and floral meristem identity
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
