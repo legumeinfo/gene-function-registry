@@ -1,0 +1,20 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtYSL3
+gene_symbol_long:  Yellow Stripe1-Like 3
+gene_model_pub_name: Medtr3g092090
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g092090
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Castro-Rodríguez, Abreu et al., 2020
+    doi: 10.1093/jxb/eraa390
+    pmid: 32841350
