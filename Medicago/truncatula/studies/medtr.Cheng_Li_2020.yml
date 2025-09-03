@@ -3,7 +3,7 @@ scientific_name: Medicago truncatula
 classical locus: FD
 gene_symbols:
   - MtFDa
-gene_symbol_long:
+gene_symbol_long: FLOWERING LOCUS D a
 gene_model_pub_name: Medtr5g022870
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g022870
 confidence: 5
@@ -33,7 +33,7 @@ scientific_name: Medicago truncatula
 classical locus: FT
 gene_symbols:
   - MtFTa1
-gene_symbol_long:
+gene_symbol_long: FLOWERING LOCUS T a1
 gene_model_pub_name: Medtr7g084970
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g084970
 confidence: 5
@@ -58,6 +58,3 @@ references:
   - citation: Cheng, Li et al., 2020
     doi: 10.1093/plphys/kiaa005
     pmid: 33631796
-  - citation: Cheng, Li et al., 2018
-    doi: 10.1242/dev.158766
-    pmid: 29361570
