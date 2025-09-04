@@ -26,6 +26,9 @@ references:
   - citation: Wang, Zhang et al., 2022
     doi: 10.7717/peerj.12965
     pmid: 35251782
+  - citation: Chen, Lu et al., 2019
+    doi: 10.1016/j.molp.2019.03.005
+    pmid: 30902685
 
 ---
 scientific_name: Arachis hypogaea
@@ -39,7 +42,7 @@ confidence:
 curators:
   - Scott Kalberer
 comments:
-  -
+  - Phylogenetic analysis showed that AhWRI1 was homologous to Wrinkled1 genes in oil crops such as soybean (Glycine max), rapeseed (Brassica napus), and maize (Zea mays).
 phenotype_synopsis:
 traits:
   - entity_name: fat and essential oil content
