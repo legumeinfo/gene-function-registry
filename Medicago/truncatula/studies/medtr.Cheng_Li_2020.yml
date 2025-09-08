@@ -14,6 +14,8 @@ comments:
   - MtFDa mutant flowers late and double mutant MtFDa and MtFTA1 blocks floral transition and does not flower at all
   - MtFDa is required for secondary inflorescence identity and development
   - MtFDa and MtFTa1 are required for the upregulation of inflorescence and floral meristem identity genes
+  - MtFDa is epistatic to MtTFL1 in regulating inflorescence development
+  - MtFDa is epistatic to MtFULc in promoting flower development
 phenotype_synopsis: MtFDa is required for floral transition and upregulation of secondary inflorescence development and floral meristem identity
 traits:
   - entity_name: flowering time trait
@@ -28,6 +30,9 @@ references:
   - citation: Cheng, Li et al., 2020
     doi: 10.1093/plphys/kiaa005
     pmid: 33631796
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
 ---
 scientific_name: Medicago truncatula
 classical locus: FT
