@@ -5,16 +5,31 @@ gene_symbols:
 gene_symbol_long: PETIOLULE-LIKE PULVINUS
 gene_model_pub_name: JN412594
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr3g0117121
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - MtPLP is required for pulvinus development
+  - MtPLP mutants have leaflet and petiole abscission defects which increases breakstrength of of the leaflet and petiole
+  - MtPLP mutants had their leaflet pulvini altered into petiolule-like structures and the petiole pulvini into petiole-like structures
+  - MtPLP is highly expressed in vegetative buds and nodules and has low levels of expression in the seed and leaf
+  - MtPLP mutants lack abscission zone formation
+  - MtPLP mutants have no leaflet and petiole abscission zone differentiation
+  - MtPLP modulates genes involved in hormonal homeostasis, cell wall remodelling and degradation
+phenotype_synopsis: MtPLP is required for pulvinus development and plays a important role in leaflet and petiole abscission zone differentiation
 traits:
-  - entity_name:
-    entity:
+  - entity_name: leaf shattering
+    entity: TO:0000108
+  - entity_name: cardinal organ part morphology trait
+    entity: TO:0000754
+  - entity_name: leaf abscission
+    entity: GO:0060866
+  - entity_name: leaf abscission zone
+    entity: PO:0006501
 references:
   - citation: Du, Lu et al., 2020
     doi: 10.1111/pbi.13469
     pmid: 32816361
+  - citation: Zhou, Han et al., 2012
+    doi: 10.1111/j.1469-8137.2012.04268.x
+    pmid: 22891817
