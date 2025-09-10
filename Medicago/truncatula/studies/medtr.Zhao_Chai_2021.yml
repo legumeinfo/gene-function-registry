@@ -13,7 +13,7 @@ comments:
   - MtSSP1 mutants have twisted stem and petiole, curly leaves, and are shorter then wild type
   - MtSSP1 is a homologous gene of Arabidopsis TWD1 and has conserved function in plant growth and development
   - MtSSP1 could control seedpod spine and plant organ development by regulating auxin distribution
-  - MtSSP1 encodes immunophilin-like FK506-binding protein which is linked to the auxin trnasport pathway
+  - MtSSP1 encodes immunophilin-like FK506-binding protein which is linked to the auxin transport pathway
 phenotype_synopsis: MtSSP1 is involved in seedpod spine, leaf petiole, and stem development
 traits:
   - entity_name: petiole shape
