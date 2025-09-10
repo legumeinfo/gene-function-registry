@@ -1,0 +1,20 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPLP
+gene_symbol_long: PETIOLULE-LIKE PULVINUS
+gene_model_pub_name: JN412594
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr3g0117121
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Du, Lu et al., 2020
+    doi: 10.1111/pbi.13469
+    pmid: 32816361
