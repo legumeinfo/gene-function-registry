@@ -24,6 +24,6 @@ traits:
   - entity_name: root hair
     entity: GO:0035618
 references:
-  - citation: Valdés-López,Jayaraman et al., 2019
+  - citation: Valdés-López, Jayaraman et al., 2019
     doi: 10.1038/s41598-019-38876-1
     pmid: 30476329
