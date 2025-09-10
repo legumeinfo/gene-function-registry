@@ -2,7 +2,7 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtEPP1
-gene_symbol_long: Early Phosphorylated Protein 1
+gene_symbol_long: EARLY PHOSPHORYLATED PROTIEN 1
 gene_model_pub_name: Medtr3g099200
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g099200
 confidence: 5
@@ -24,6 +24,6 @@ traits:
   - entity_name: root hair
     entity: GO:0035618
 references:
-  - citation: Valdés-López, Jayaraman et al., 2019
+  - citation: Valdés-López,Jayaraman et al., 2019
     doi: 10.1038/s41598-019-38876-1
     pmid: 30476329
