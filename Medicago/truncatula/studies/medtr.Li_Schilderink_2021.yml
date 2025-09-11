@@ -1,0 +1,60 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHDT1
+gene_symbol_long:
+gene_model_pub_name: Medtr4g055440
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Li, Schilderink et al., 2021
+    doi: 10.1093/plphys/kiab140
+    pmid: 33744928
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHDT2
+gene_symbol_long:
+gene_model_pub_name: Medtr2g084815
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Li, Schilderink et al., 2021
+    doi: 10.1093/plphys/kiab140
+    pmid: 33744928
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHDT3
+gene_symbol_long:
+gene_model_pub_name: Medtr8g069135
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Li, Schilderink et al., 2021
+    doi: 10.1093/plphys/kiab140
+    pmid: 33744928
