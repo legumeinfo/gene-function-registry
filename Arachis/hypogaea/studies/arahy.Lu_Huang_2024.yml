@@ -42,11 +42,24 @@ confidence:
 curators:
   - Scott Kalberer
 comments:
-  - Phylogenetic analysis showed that AhWRI1 was homologous to Wrinkled1 genes in oil crops such as soybean (Glycine max), rapeseed (Brassica napus), and maize (Zea mays).
+  - Phylogenetic analysis showed that AhWRI1 was homologous to Wrinkled1 genes
+    in oil crops such as soybean (Glycine max), rapeseed (Brassica napus), and
+    maize (Zea mays).
+  - An alteration in a SNP from G to T within AhWRI1 resulted in an amino acid
+    change from arginine to methionine. The GG genotype in varieties such as
+    CY1016 was associated with an increased overall Oil content, decreased
+    levels of Linoleic acid and Palmitic acid, and possibly increased Oleic acid
+    as well.
 phenotype_synopsis:
 traits:
   - entity_name: fat and essential oil content
     entity: TO:0000604
+    entity_name: oleic acid content
+    entity: TO:0005002
+    entity_name: linoleic acid content
+    entity: TO:0005001
+    entity_name: palmitic acid content
+    entity: TO:1000075
 references:
   - citation: Lu, Huang et al., 2024
     doi: 10.1038/s41588-024-01660-7
