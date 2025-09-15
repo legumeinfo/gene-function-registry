@@ -17,6 +17,8 @@ phenotype_synopsis: MtYSL3 plays a role in symbiotic nitrogen fixation and could
 traits:
   - entity_name: root nitrogen content
     entity: TO:0003074
+  - entity_name: root system iron content
+    entity: TO:1000034
   - entity_name: nitrogen fixation
     entity: GO:0009399
 references:
