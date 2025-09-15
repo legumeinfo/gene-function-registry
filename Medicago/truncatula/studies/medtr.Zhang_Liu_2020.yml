@@ -1,0 +1,40 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPIN1
+gene_symbol_long: Pin Formed 1
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhang, Liu et al., 2020
+    doi: 10.3390/ijms21228742
+    pmid: 33228084
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPIN3
+gene_symbol_long: Pin Formed 3
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhang, Liu et al., 2020
+    doi: 10.3390/ijms21228742
+    pmid: 33228084
