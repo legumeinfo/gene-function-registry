@@ -20,6 +20,8 @@ phenotype_synopsis: MtFDa is required for floral transition and upregulation of 
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
+  - entity_name: days to flowering trait
+    entity: TO:0000344
   - entity_name: secondary branching of inflorescence
     entity: TO:0000142
   - entity_name: floral meristem determinacy
@@ -53,10 +55,12 @@ phenotype_synopsis: MtFDa is required for floral transition and upregulation of 
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
-  - entity_name: primary branching of inflorescence
-    entity: TO:0000052
-  - entity_name: floral meristem determinacy
-    entity: GO:0010582
+ - entity_name: days to flowering trait
+    entity: TO:0000344
+  - entity_name:  vernalization response
+    entity: TO:0002616
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
   - entity_name: inflorescence development
     entity: GO:0010229
 references:
