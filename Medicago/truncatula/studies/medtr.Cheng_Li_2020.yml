@@ -57,7 +57,7 @@ traits:
     entity: TO:0002616
   - entity_name: days to flowering trait
     entity: TO:0000344
-  - entity_name:  vernalization response
+  - entity_name: vernalization response
     entity: TO:0002616
   - entity_name: positive regulation of long-day photoperiodism, flowering
     entity: GO:0048578
