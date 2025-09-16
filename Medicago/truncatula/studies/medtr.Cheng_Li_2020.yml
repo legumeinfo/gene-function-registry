@@ -55,7 +55,7 @@ phenotype_synopsis: MtFDa is required for floral transition and upregulation of 
 traits:
   - entity_name: flowering time trait
     entity: TO:0002616
- - entity_name: days to flowering trait
+  - entity_name: days to flowering trait
     entity: TO:0000344
   - entity_name:  vernalization response
     entity: TO:0002616
