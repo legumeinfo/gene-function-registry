@@ -4,7 +4,7 @@ gene_symbols:
   - MtPIN1
 gene_symbol_long: Pin Formed 1
 gene_model_pub_name: MTR_4g084870
-gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0044181
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g084870
 confidence: 4
 curators:
   - Raegan Nelson
@@ -39,7 +39,7 @@ gene_symbols:
   - MtPIN3
 gene_symbol_long: Pin Formed 3
 gene_model_pub_name: MTR_1g030890
-gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0160461
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g030890
 confidence: 4
 curators:
   - Raegan Nelson
@@ -48,7 +48,7 @@ comments:
   - MtPIN3 works with MtPIN1 to regulate the development of leaf size and petiole length
   - Double mutant MtPIN1 and MtPIN3 showed increased auxin levels in leaves and petiole and increased auxin responsiveness.
   - MtPIN3 could play a role in auxin transport
-  - Double mutant MtPIN1 and MtPIN3 had longer petioles, longer internodes, and higher chlorophyll content under normal growth conditions, which is consistent with the constitutive shadeavoidance responses phenotype
+  - Double mutant MtPIN1 and MtPIN3 had longer petioles, longer internodes, and higher chlorophyll content under normal growth conditions, which is consistent with the constitutive shade avoidance responses phenotype
 phenotype_synopsis: MtPIN3 plays a role in the development of leaf size and petiole length and could play a role in auxin transport
 traits:
   - entity_name: petiole length
