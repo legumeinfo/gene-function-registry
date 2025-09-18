@@ -24,8 +24,6 @@ traits:
     entity: TO:0000754
   - entity_name: leaf abscission
     entity: GO:0060866
-  - entity_name: leaf abscission zone
-    entity: PO:0006501
 references:
   - citation: Du, Lu et al., 2020
     doi: 10.1111/pbi.13469
