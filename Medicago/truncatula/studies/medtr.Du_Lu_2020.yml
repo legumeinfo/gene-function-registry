@@ -15,7 +15,7 @@ comments:
   - MtPLP is highly expressed in vegetative buds and nodules and has low levels of expression in the seed and leaf
   - MtPLP mutants lack abscission zone formation
   - MtPLP mutants have no leaflet and petiole abscission zone differentiation
-  - MtPLP modulates genes involved in hormonal homeostasis, cell wall remodelling and degradation
+  - MtPLP regulates genes involved in hormonal homeostasis, cell wall remodelling and degradation
 phenotype_synopsis: MtPLP is required for pulvinus development and plays a important role in leaflet and petiole abscission zone differentiation
 traits:
   - entity_name: leaf shattering
