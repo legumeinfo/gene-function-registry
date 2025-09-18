@@ -13,7 +13,7 @@ comments:
   - MtPIN1 works with MtPIN3 to regulate the development of leaf size and petiole length
   - Double mutant MtPIN1 and MtPIN3 showed increased auxin levels in leaves and petiole and increased auxin responsiveness
   - MtPIN1 could play a role in auxin transport
-  - Double mutant MtPIN1 and MtPIN3 had longer petioles, smaller leaves, and higher chlorophyll content under normal growth conditions, which is consistent with the constitutive shadeavoidance responses phenotype
+  - Double mutant MtPIN1 and MtPIN3 had longer petioles, smaller leaves, and higher chlorophyll content under normal growth conditions, which is consistent with the constitutive shade avoidance responses phenotype
 phenotype_synopsis: MtPIN1 plays a role in the development of leaf size and petiole length and could play a role in auxin transport
 traits:
   - entity_name: petiole length
