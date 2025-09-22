@@ -9,11 +9,19 @@ confidence:
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - MtHDt1 is expressed in the root tips of Medicago
+  - There is high homology between Arabidopsis and Medicago HDTs
+  - MtHDT1 mutants had reduced nodule meristem size, nodule number and had low rhizobial colonization in cells derived from the root meristem
+  - Knockdown of MtHDT1 inhibits nodule primordia development
+  - MtHDT1 could control nodule development by regulating the expression level of MtHMGR1
+phenotype_synopsis: MtHDT1 plays a role in root development, nodule primordia initiation and development, rhizobial colonization, and nodule meristem size
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: root meristem development
+    entity: TO:0002692
 references:
   - citation: Li, Schilderink et al., 2021
     doi: 10.1093/plphys/kiab140
@@ -29,11 +37,20 @@ confidence:
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - There is high homology between Arabidopsis and Medicago HDTs
+  - MtHDT2 plays a similar role in root development as AtHDT1 and AtHDT2
+  - MtHDT2 mutants had reduced nodule meristem size, nodule number and had low rhizobial colonization in cells derived from the root meristem
+  - MtHDT2 could control meristem activity, rhizobial release, and intracellular accommodation of rhizobia
+  - Knockdown of MtHDT2 inhibits nodule primordia development
+  - MtHDT2 could control nodule development by regulating the expression level of MtHMGR1
+phenotype_synopsis: MtHDT2 plays a role in root development, nodule primordia initiation and development, rhizobial colonization, and nodule meristem size
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: root meristem development
+    entity: TO:0002692
 references:
   - citation: Li, Schilderink et al., 2021
     doi: 10.1093/plphys/kiab140
@@ -49,11 +66,19 @@ confidence:
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+   - MtHDt3 is expressed in the root tips of Medicago
+  - There is high homology between Arabidopsis and Medicago HDTs
+  - MtHDT3 mutants had reduced nodule meristem size, nodule number and had low rhizobial colonization in cells derived from the root meristem
+  - Knockdown of MtHDT3 inhibits nodule primordia development
+  - MtHDT3 could control nodule development by regulating the expression level of MtHMGR1
+phenotype_synopsis: MtHDT3 plays a role in root development, nodule primordia initiation and development, rhizobial colonization, and nodule meristem size
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: root meristem development
+    entity: TO:0002692
 references:
   - citation: Li, Schilderink et al., 2021
     doi: 10.1093/plphys/kiab140
