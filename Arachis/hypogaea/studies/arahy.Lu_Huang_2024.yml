@@ -16,21 +16,26 @@ comments:
     deletions (InDels). The GWAS was conducted over 4 seasons in Guangzhou,
     China, leading to 28 agronomic traits being discovered with 22,309
     associations with loci.
-  - AhBSK1,a member of the brassinosteroid-signaling kinase family, encodes for
-    a serine/threonine-protein kinase.  This candidate gene was associated with
-    branching habits of the peanut shoot.
-  - The candidate gene for AhBSK1 was located between 140740474 and 140775860 on
-    chromosome B03 of the Fuhuasheng reference genome. The most significant
-    associated SNP was positioned at 140,774,302 base pairs.
-  - The publication provided the candidate gene name of Ahy_B03g068305. The
-    candidate gene in the reference genome for Tifrunner would be Ah13g064900 on
+  - The candidate gene for AhBSK1 was located in a linkage disequilibrium block
+    between 140,740,474 and 140,775,860 base pairs on chromosome B03. The most
+    significant associated SNP for plant lateral branch dispersion was
+    positioned at 140,774,302 base pairs.
+  - AhBSK1, which gene annotation indicates to be a member of the
+    brassinosteroid-signaling kinase family, encodes for a
+    serine/threonine-protein kinase similar to Arabidopsis thaliana At5G41260.
+    This candidate gene was associated with lateral branch dispersion of the
+    peanut shoot system and runner vs erect growth habits.
+  - The publication provided the candidate gene name of Ahy_B03G068305. The
+    candidate gene in the reference genome for Tifrunner would be Ah13G064900 on
     chromosome 13.
 phenotype_synopsis: AhBSK1, belonging to the brassinosteroid-signaling kinase
-  family, is a candidate gene helping to regulate shott branching habits in
+  family, is a candidate gene helping to regulate shoot branching habits in
   cultivated peanut.
 traits:
   - entity_name: shoot branching
     entity: TO:0002639
+  - entity_name: plant width
+    entity: TO:0006062
   - entity_name: brassinosteroid mediated signaling pathway
     entity: GO:0009742
 references:
@@ -49,12 +54,20 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhWRI1
 gene_symbol_long: Wrinkled 1
-gene_model_pub_name: Ahy_A08g040760
+gene_model_pub_name: Ahy_A08G040760
 gene_model_full_id:
 confidence: 4
 curators:
   - Scott Kalberer
 comments:
+  - Resequenced 390 peanut accessions found worldwide, including 261 from
+    northern and southern China, to evaluate genome-wide diversity of landraces
+    and breeding lines. Sequencing data were aligned to the Arachis hypogaea cv.
+    Fuhuasheng reference genome and then 8,803,668 single-nucleotide
+    polymorphisms (SNPs) were identified along with 2,137,963 insertions and
+    deletions (InDels). The GWAS was conducted over 4 seasons in Guangzhou,
+    China, leading to 28 agronomic traits being discovered with 22,309
+    associations with loci.
   - Phylogenetic analysis showed that AhWRI1 was homologous to Wrinkled1 genes
     in oil crops such as soybean (Glycine max), rapeseed (Brassica napus), and
     maize (Zea mays).
@@ -63,7 +76,7 @@ comments:
     CY1016 was associated with an increased overall oil content, decreased
     levels of Linoleic acid and Palmitic acid, and possibly increased Oleic acid
     as well.
-  - The publication provided the candidate gene name of Ahy_A08g040760.
+  - The publication provided the candidate gene name of Ahy_A08G040760.
 phenotype_synopsis: AhWRI1 is associated with oil content and composition in peanut.
 traits:
   - entity_name: fat and essential oil content
@@ -90,6 +103,14 @@ confidence: 3
 curators:
   - Scott Kalberer
 comments:
+  - Resequenced 390 peanut accessions found worldwide, including 261 from
+    northern and southern China, to evaluate genome-wide diversity of landraces
+    and breeding lines. Sequencing data were aligned to the Arachis hypogaea cv.
+    Fuhuasheng reference genome and then 8,803,668 single-nucleotide
+    polymorphisms (SNPs) were identified along with 2,137,963 insertions and
+    deletions (InDels). The GWAS was conducted over 4 seasons in Guangzhou,
+    China, leading to 28 agronomic traits being discovered with 22,309
+    associations with loci.
   - AhANT, located on the end of chromosome B06, was associated with the seed
     and pod weight and seed and pod size traits. GWAS analysis found that five
     SNPs on B06 associated with pod size were located in an 886.7-kb LD block
@@ -105,12 +126,12 @@ comments:
   - A nonsynonymous SNP (C/A) resulted in a shift from the amino acid proline to
     threonine. Consequentially, the pod- and seed-related trait values were
     substantially higher for plants with the CC genotype than the AA genotype.
-  - The publication provided the candidate gene name of Ahy_B06g085890; however,
+  - The publication provided the candidate gene name of Ahy_B06G085890; however,
     there was no associated sequence except for a non-downloadable one from
     Supplementary figure 14. The homologous Arabidopsis thaliana sequence
-    At4g37750 was used to locate a broad potential region on Arachis hypogaea
+    At4G37750 was used to locate a broad potential region on Arachis hypogaea
     cv. Fuhuasheng identified as arahy.Fuhuasheng.gnm1.chr16 CM014330.1 in
-    GenBank. A BLAST of At4g37750 on the Arachis hypogaea Tifrunner.gnm2.J5K5
+    GenBank. A BLAST of At4G37750 on the Arachis hypogaea Tifrunner.gnm2.J5K5
     genome located Ah16G512200 in
     arahy.Tifrunner.gnm2.chr16:147,880,368..147,885,613.
 phenotype_synopsis: The transcription factor AhANT is affiliated with weights
