@@ -24,7 +24,29 @@ comments:
     brassinosteroid-signaling kinase family, encodes for a
     serine/threonine-protein kinase similar to Arabidopsis thaliana At5G41260.
     This candidate gene was associated with lateral branch dispersion of the
-    peanut shoot system and runner vs erect growth habits.
+    peanut shoot system and regulation of runner vs erect peanut-branching architecture.
+  - AhBSK1, which gene annotation indicates to be a member of the
+    brassinosteroid-signaling kinase family, encodes for a
+    serine/threonine-protein kinase similar to Arabidopsis thaliana At5G41260.
+    This candidate gene was associated with lateral branch dispersion of the
+    peanut shoot system and regulation of runner vs erect peanut-branching
+    architecture.
+  - AhBSK1 contains one SNP polymorphism (C/G) that results in the conversion of
+    amino acid cysteine to tryptophan. The GG genotype was associated with
+    accessions exhibiting a larger plant lateral branch dispersions than in CC
+    genotypes.
+  - Gene expression of AhBSK1 was high in the pod, leaf, and stem tissues (Chen,
+    Lu et al., 2019), and also was expressed more prodigiously in runner-type
+    varieties (GG) than in erect-type (CC) plants.
+  - Metabolites related to the brassinosteroid-metabolic pathway showed
+    differences among various tissues when comparing the runner-type PF
+    accession (GG genotype) and erect-type ZL accession (CC genotype).
+  - Overexpression in transgenic Arabidopsis of AhBSK1 (GG genotype) resulted in
+    earlier flowering, increased biomass, taller plant height, greater branch
+    number, longer branch length, and slightly smaller pods relative to the wild
+    type. Similar overexpression of AhBSK1 (GG genotype) in Rice (Oryza sativa
+    spp. Japonica cv. Nipponbare) increased flag leaf angle, seed size, and
+    length of panicles.
   - The publication provided the candidate gene name of Ahy_B03G068305. The
     candidate gene in the reference genome for Tifrunner would be Ah13G064900 on
     chromosome 13.
