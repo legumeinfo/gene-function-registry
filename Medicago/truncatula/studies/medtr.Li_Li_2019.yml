@@ -1,0 +1,25 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRGF3
+gene_symbol_long: Root Meristem Growth Factor 3
+gene_model_pub_name: Medtr4g116360
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g116360
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtRGF3 expression was strongly induced after inoculation of rhizobia
+  - MtRGF3 is highly expressed in the root meristem, nodule primordia, young root nodules and the apical zones of mature root nodules
+  - Exogenous application of synthetic MtRGF3 peptide suppresses nodulation
+  - Overexpression of MtRGF3 causes fewer nodules to be induced by rhizobia
+phenotype_synopsis: MtRGF3 suppresses nodulation in Medicago truncatula
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Li, Li et al., 2019
+    doi: 10.1016/j.bbrc.2019.12.017
+    pmid: 31831172
