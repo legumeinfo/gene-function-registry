@@ -1,0 +1,35 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPLP
+gene_symbol_long: PETIOLULE-LIKE PULVINUS
+gene_model_pub_name: JN412594
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g077240
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtPLP is required for pulvinus development
+  - MtPLP mutants have leaflet and petiole abscission defects which increase the breakstrength of the leaflet and petiole
+  - MtPLP mutants had their leaflet pulvini altered into petiolule-like structures and the petiole pulvini into petiole-like structures
+  - MtPLP is highly expressed in vegetative buds and nodules and has low levels of expression in the seed and leaf
+  - MtPLP mutants lack abscission zone formation
+  - MtPLP mutants have no leaflet and petiole abscission zone differentiation
+  - MtPLP regulates genes involved in hormonal homeostasis, cell wall remodeling, and degradation
+phenotype_synopsis: MtPLP is required for pulvinus development and plays an important role in leaflet and petiole abscission zone differentiation
+traits:
+  - entity_name: leaf shattering
+    entity: TO:0000108
+  - entity_name: leaf abscission
+    entity: GO:0060866
+  - entity_name: pulvinus
+    entity: PO:0009000
+  - entity_name: leaf abscission zone
+    entity: PO:0006501
+references:
+  - citation: Du, Lu et al., 2020
+    doi: 10.1111/pbi.13469
+    pmid: 32816361
+  - citation: Zhou, Han et al., 2012
+    doi: 10.1111/j.1469-8137.2012.04268.x
+    pmid: 22891817
