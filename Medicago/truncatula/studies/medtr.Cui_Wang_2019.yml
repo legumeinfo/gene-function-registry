@@ -9,11 +9,18 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - MtBZR1 is highly expressed in root tissue and moderately expressed in stem and leaf
+  - MtBZR1 is induced in nodules following inoculation with S. meliloti
+  - There were no obivious developmental phenotype differences between MtBZR1 mutant and the wild type
+  - MtBZR1 mutant nodules are significantly smaller and lighter then wild type nodules
+  - The number of nodules was similar between the MtBZR1 mutant and the wild type
+  - There was a downregulation of differentially expressed genes involved in flavonoid and isoflavonoid pathways in MtBZR1 mutant
+phenotype_synopsis: MtBZR1 plays a role in nodule development in Medicago truncatula
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: nodulation
+    entity: GO:0009877
 references:
   - citation: Cui, Wang et al., 2019
     doi: 10.3390/ijms20122941
