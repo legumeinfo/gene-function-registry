@@ -1,0 +1,20 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtBZR1
+gene_symbol_long: Brassinasole Resistant 1
+gene_model_pub_name: Medtr3g111680
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g111680
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Cui, Wang et al., 2019
+    doi: 10.3390/ijms20122941
+    pmid: 31208116
