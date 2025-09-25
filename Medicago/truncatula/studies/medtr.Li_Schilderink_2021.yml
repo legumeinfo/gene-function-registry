@@ -18,8 +18,6 @@ phenotype_synopsis: MtHDT1 plays a role in root development, nodule primordia in
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
-  - entity_name: root nodule weight
-    entity: TO:0000899
   - entity_name: root meristem development
     entity: TO:0002692
   - entity_name: nodulation
@@ -50,8 +48,6 @@ phenotype_synopsis: MtHDT2 plays a role in root development, nodule primordia in
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
-  - entity_name: root nodule weight
-    entity: TO:0000899
   - entity_name: root meristem development
     entity: TO:0002692
   - entity_name: nodulation
@@ -71,7 +67,7 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - MtHDt3 is expressed in the root tips of Medicago
+  - MtHDT3 is expressed in the root tips of Medicago
   - There is high homology between Arabidopsis and Medicago HDTs
   - MtHDT3 mutants had reduced nodule meristem size, nodule number and had low rhizobial colonization in cells derived from the root meristem
   - Knockdown of MtHDT3 inhibits nodule primordia development
@@ -80,8 +76,6 @@ phenotype_synopsis: MtHDT3 plays a role in root development, nodule primordia in
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
-  - entity_name: root nodule weight
-    entity: TO:0000899
   - entity_name: root meristem development
     entity: TO:0002692
   - entity_name: nodulation
