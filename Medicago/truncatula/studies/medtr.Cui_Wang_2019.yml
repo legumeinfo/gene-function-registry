@@ -19,6 +19,8 @@ phenotype_synopsis: MtBZR1 plays a role in nodule development in Medicago trunca
 traits:
   - entity_name: root nodule weight
     entity: TO:0000899
+  - entity_name: plant dry weight
+    entity: TO:0000352
   - entity_name: nodulation
     entity: GO:0009877
 references:
