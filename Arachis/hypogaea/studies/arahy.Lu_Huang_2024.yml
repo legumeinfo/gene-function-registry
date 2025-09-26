@@ -1,3 +1,4 @@
+---
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhBSK1
@@ -24,11 +25,6 @@ comments:
     brassinosteroid-signaling kinase family, encodes for a
     serine/threonine-protein kinase similar to Arabidopsis thaliana At5G41260.
     This candidate gene was associated with lateral branch dispersion of the
-    peanut shoot system and regulation of runner vs erect peanut-branching architecture.
-  - AhBSK1, which gene annotation indicates to be a member of the
-    brassinosteroid-signaling kinase family, encodes for a
-    serine/threonine-protein kinase similar to Arabidopsis thaliana At5G41260.
-    This candidate gene was associated with lateral branch dispersion of the
     peanut shoot system and regulation of runner vs erect peanut-branching
     architecture.
   - AhBSK1 contains one SNP polymorphism (C/G) that results in the conversion of
@@ -49,7 +45,11 @@ comments:
     length of panicles.
   - The publication provided the candidate gene name of Ahy_B03G068305. The
     candidate gene in the reference genome for Tifrunner would be Ah13G064900 on
-    chromosome 13.
+    chromosome 13. The gene identifier in Tifrunner was located using the
+    sequence of an InDel within AhBSK1 provided by Figure 5F (Lu, Huang et al.,
+    2024) that mapped to 5599717-5599814 on arahy.Tifrunner.gnm1.Arahy.13. Among
+    nearby annotated gene models found at ArachisMine the  Ah13g064900  Protein
+    kinase superfamily protein
 phenotype_synopsis: AhBSK1, belonging to the brassinosteroid-signaling kinase
   family, is a candidate gene helping to regulate shoot branching habits in
   cultivated peanut.
@@ -77,7 +77,7 @@ gene_symbols:
   - AhWRI1
 gene_symbol_long: Wrinkled 1
 gene_model_pub_name: Ahy_A08G040760
-gene_model_full_id:
+gene_model_full_id: null
 confidence: 4
 curators:
   - Scott Kalberer
@@ -90,24 +90,42 @@ comments:
     deletions (InDels). The GWAS was conducted over 4 seasons in Guangzhou,
     China, leading to 28 agronomic traits being discovered with 22,309
     associations with loci.
+  - On chromosome A08, GWAS showed that one pleiotropic SNP (44,514,436 bp) was
+    associated with linoleic acid, oleic acid, and oil content, whereas another
+    SNP (44,411,216 bp) was associated with palmitic acid.
+  - The candidate gene for AhWRI1 was located in a linkage disequilibrium block
+    between 44,466,905–44,541,087 base pairs on chromosome A08; there were six
+    candidates and three of them exhibited nonsynonymous SNPs.
   - Phylogenetic analysis showed that AhWRI1 was homologous to Wrinkled1 genes
-    in oil crops such as soybean (Glycine max), rapeseed (Brassica napus), and
-    maize (Zea mays).
+    associated with oil biosynthesis in crops such as soybean (Glycine max),
+    rapeseed (Brassica napus), and maize (Zea mays).
   - An alteration in a SNP from G to T within AhWRI1 resulted in an amino acid
     change from arginine to methionine. The GG genotype in varieties such as
     CY1016 was associated with an increased overall oil content, decreased
     levels of Linoleic acid and Palmitic acid, and possibly increased Oleic acid
     as well.
+  - Gene expression of AhWRI1 in seed was similar to genes involved in fatty
+    acid and triacylglycerol synthesis. Transcription of AhWRI1 was high in pods
+    and seeds and was more copious in high-oil-content varieties such as CY1016
+    (GG genotype) than in low-oil-content varieties such as GH4238 (TT
+    genotype). The expression of AhWRI1 increased over the course of seed
+    development with the highest expression levels during seed-filling.
+  - Overexpression in transgenic Arabidopsis of AhWRI1 (GG genotype) resulted in
+    larger rosette leaves, earlier flowering, larger legume pods, longer seeds,
+    and enhanced seed oil levels relative to the wild type. Additionally, the
+    AhWRI1-overexpressor Arabidopsis showed an altered fatty acid composition
+    with higher unsaturated fatty acids levels, lower oil body density, and
+    greater oil body volume compared to the wild type.
   - The publication provided the candidate gene name of Ahy_A08G040760.
 phenotype_synopsis: AhWRI1 is associated with oil content and composition in peanut.
 traits:
   - entity_name: fat and essential oil content
     entity: TO:0000604
-    entity_name: oleic acid content
+  - entity_name: oleic acid content
     entity: TO:0005002
-    entity_name: linoleic acid content
+  - entity_name: linoleic acid content
     entity: TO:0005001
-    entity_name: palmitic acid content
+  - entity_name: palmitic acid content
     entity: TO:1000075
 references:
   - citation: Lu, Huang et al., 2024
