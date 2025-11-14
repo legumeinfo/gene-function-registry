@@ -3,8 +3,8 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhBSK1
 gene_symbol_long: Brassinosteroid Signaling Kinase 1
-gene_model_pub_name: Ah13G064900
-gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah13G064900
+gene_model_pub_name: Ah13g064900
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah13g064900
 confidence: 4
 curators:
   - Scott Kalberer
@@ -43,7 +43,7 @@ comments:
     spp. Japonica cv. Nipponbare) increased flag leaf angle, seed size, and
     length of panicles.
   - Lu, Huang et al. (2024) provided the gene model name of Ahy_B03G068305. The
-    candidate gene in the reference genome for Tifrunner would be Ah13G064900 on
+    candidate gene in the reference genome for Tifrunner would be Ah13g064900 on
     chromosome 13. The gene identifier in Tifrunner was located using the InDel
     sequence within AhBSK1 provided by Figure 5F that mapped to 5599717-5599814
     BP on arahy.Tifrunner.gnm1.Arahy.13. Among nearby annotated gene models was
@@ -74,8 +74,8 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhWRI1
 gene_symbol_long: Wrinkled 1
-gene_model_pub_name: Ah08G309800
-gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08G309800
+gene_model_pub_name: Ah08g309800
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08g309800
 confidence: 4
 curators:
   - Scott Kalberer
@@ -122,7 +122,7 @@ comments:
     was BLASTed against the Arachis hypogaea Tifrunner V02 genome and a 97%
     identity match was found for arahy.Tifrunner.gnm2.chr08 from BP 45710252 to
     45716737. This sequence was an annotated gene model found at ArachisMine
-    named Ah08G309800 with the annotation of AP2-like ethylene-responsive
+    named Ah08g309800 with the annotation of AP2-like ethylene-responsive
     transcription factor ANT-like.
 phenotype_synopsis: AhWRI1, an ethylene-responsive transcription factor, is
   highly expressed in seeds and pods and is associated with oil content and
@@ -146,8 +146,8 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhANT
 gene_symbol_long: Aintegumenta
-gene_model_pub_name: Ah16G512200
-gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16G512200
+gene_model_pub_name: Ah16g512200
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16g512200
 confidence: 3
 curators:
   - Scott Kalberer
@@ -181,7 +181,7 @@ comments:
     Supplementary figure 14. The homologous Arabidopsis sequence At4G37750 was
     used to locate a potential region on Arachis hypogaea cv. Fuhuasheng
     identified as arahy.Fuhuasheng.gnm1.chr16 CM014330.1 in GenBank. A BLAST of
-    At4G37750 on the Tifrunner.gnm2.J5K5 genome located Ah16G512200 in
+    At4G37750 on the Tifrunner.gnm2.J5K5 genome located Ah16g512200 in
     arahy.Tifrunner.gnm2.chr16:147,880,368..147,885,613.
 phenotype_synopsis: The transcription factor AhANT is affiliated with weights
   and dimensions of seeds and pods in peanut, with trait values impacted by
