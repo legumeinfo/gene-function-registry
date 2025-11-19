@@ -1,0 +1,20 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNAD1
+gene_symbol_long: Nodules with activated defense 1
+gene_model_pub_name: 
+gene_model_full_id:
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Wang, Yu et al., 2016
+    doi: 10.1111/nph.14017
+    pmid: 27245091
