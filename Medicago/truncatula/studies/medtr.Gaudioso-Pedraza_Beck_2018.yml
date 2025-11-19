@@ -1,0 +1,28 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtBG2
+gene_symbol_long: Beta Glucanase 2
+gene_model_pub_name: Medtr3g083580
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g083580
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtBG2 is localized to plasmodesmata in root tissues
+  - Rizobia inoculation induces expression of MtBG2 
+  - Overexpression of MtBG2 increases root nodule number
+  - Suppression of MtBG2 causes defective root nodulation
+  - Expression of MtBG2 increases cell to cell conectivity
+  - MtBG2 increases callose degregation during root nodulation
+  - MtBG2 is essential for the activation of transcription factors NIN and NF-YA1
+phenotype_synopsis: MtBG2 plays a role in root nodulation and callose degregation
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Gaudioso-Pedraza, Beck, et al., 2018
+    doi: 10.1016/j.cub.2018.09.031
+    pmid: 30416059
