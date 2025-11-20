@@ -10,7 +10,7 @@ curators:
   - Raegan Nelson
 comments:
   - MtBG2 is localized to plasmodesmata in root tissues
-  - Rizobia inoculation induces expression of MtBG2 
+  - Rizobia inoculation induces expression of MtBG2
   - Overexpression of MtBG2 increases root nodule number
   - Suppression of MtBG2 causes defective root nodulation
   - Expression of MtBG2 increases cell to cell conectivity
@@ -18,8 +18,8 @@ comments:
   - MtBG2 is essential for the activation of transcription factors NIN and NF-YA1
 phenotype_synopsis: MtBG2 plays a role in root nodulation and callose degregation
 traits:
-  - entity_name: root nodule morphology trait
-    entity: TO:0000898
+  - entity_name: root nodule number
+    entity: TO:0000900
   - entity_name: nodulation
     entity: GO:0009877
 references:
