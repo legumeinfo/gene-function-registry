@@ -20,6 +20,8 @@ phenotype_synopsis: MtBG2 plays a role in root nodulation, root nodule number, a
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
+  - entity_name: root development
+    entity: GO:0048364
   - entity_name: nodulation
     entity: GO:0009877
 references:
