@@ -22,6 +22,8 @@ traits:
     entity: TO:0000900
   - entity_name: root development
     entity: GO:0048364
+  - entity_name: cell wall modification
+    entity: GO:0042545
   - entity_name: nodulation
     entity: GO:0009877
 references:
