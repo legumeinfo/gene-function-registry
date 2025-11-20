@@ -3,17 +3,27 @@ scientific_name: Medicago truncatula
 gene_symbols:
   - MtNAD1
 gene_symbol_long: Nodules with activated defense 1
-gene_model_pub_name: 
-gene_model_full_id:
+gene_model_pub_name: KX034079
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0222521
 confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - MtNAD1 is required for root nodule development and symbiotic nitrogen fixation
+  - MtNAD1 is required for rhizobial colonization in root nodules
+  - MtNAD1 is important for supressing plant immune system during nodulation
+  - MtNAD1 is not required for the early symbiosis stage
+  - MtNAd1 could be associated with ER stress signaling
+phenotype_synopsis: MtNAD1 plays a role in root nodule development and rhizobial colonization in root nodules
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogen content
+    entity: TO:0020093
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
 references:
   - citation: Wang, Yu et al., 2016
     doi: 10.1111/nph.14017
