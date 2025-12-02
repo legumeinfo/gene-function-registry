@@ -9,7 +9,7 @@ confidence: 5
 curators:
   - Greg Murrell
   - Scott Kalberer
-phenotype_summary: Overexpression of GmPLDγ introduced from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
+phenotype_synopsis: Overexpression of GmPLDγ introduced from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
 traits:
   - entity_name: seed oil content
     entity: CO_336:0000048

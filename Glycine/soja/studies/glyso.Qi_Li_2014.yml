@@ -62,7 +62,7 @@ comments:
     NGITSSLLVIQDRYFINSNESNLVKTSRAESTVIKDAIEEL
 curators:
   - Greg Murrell, Steven Cannon
-phenotype_summary: Raises salt tolerance.
+phenotype_synopsis: Raises salt tolerance.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001

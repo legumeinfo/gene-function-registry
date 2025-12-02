@@ -3,24 +3,40 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1a
 gene_symbol_long: CONSTANS-Like 1a
-gene_model_pub_name: Glyma08g28370
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g28370
+gene_model_pub_name: Glyma08G28370
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G255200
 confidence: 5
 curators:
   - William Hardison
+  - Scott Kalberer
 comments:
-  - Phylogenetic analysis of full-length amino acid sequences -> "Clade I, GmCOL1a, GmCOL1b, GmCOL2a
-    and GmCOL2b clustered together with Arabidopsis CO and rice CO (Hd1), well-characterized flowering inducers"
-  - gene_model_pub_name found in Awal Khan, Mohammad, et al., 2022 -> https://doi.org/10.3389/fpls.2022.817544
-phenotype_synopsis: late long day flowering and early short day flowering
+  - Phylogenetic analysis of full-length amino acid sequences classified
+    CONSTANS homologs (GmCOLs) into three clades conserved among Angiosperms.
+  - Clade I contained two soybean homeologous pairs (GmCOL1a, GmCOL1b and
+    GmCOL2a, GmCOL2b) that clustered together with the flowering inducers
+    Arabidopsis CONSTANS (CO) and rice HEADING DATE 1 (Hd1) based on sequence
+    similiarity.
+  - Transcript abundance of COL1a and COL1b exhibited a strong diurnal rhythm
+    under flowering-inductive short days. Their mRNA levels reached a peak at
+    dawn and coincided with the rise of GmFT5a expression. In contrast, the mRNA
+    abundance of COL2a and COL2b was extremely low.
+  - Transgenic experiments showed that COL1a, COL1b, COL2a and COL2b fully
+    complemented the late flowering effect of the Arabidopsis co-1 mutant.
+  - The gene_model_pub_name was found in Awal Khan, Zhang et al., 2022 and
+    Supporting Table S1 of Wu, Price et al., 2014.
+phenotype_synopsis: GmCOL1a and GmCOL1b are potential inducers of short-day
+  photoperiodic flowering in soybean. A rapid regulatory divergence between
+  GmCOL1a/GmCOL1b and GmCOL2a/GmCOL2b was also suggested.
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
+  - entity_name: short-day photoperiodism
+    entity: GO:0048572
 references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Mohammad, et al., 2022
+  - citation: Awal Khan, Zhang et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153
 
@@ -29,21 +45,39 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1b
 gene_symbol_long: CONSTANS-Like 1b
-gene_model_pub_name: Glyma18g51320
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g51320
+gene_model_pub_name: Glyma18G51320
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G278100
 confidence: 3
 curators:
   - William Hardison
+  - Scott Kalberer
 comments:
-  - gene_model_pub_name found in Awal Khan, Mohammad, et al., 2022 -> https://doi.org/10.3389/fpls.2022.817544
-phenotype_synopsis: late long day flowering and early short day flowering
+  - Phylogenetic analysis of full-length amino acid sequences classified
+    CONSTANS homologs (GmCOLs) into three clades conserved among Angiosperms.
+  - Clade I contained two soybean homeologous pairs (GmCOL1a, GmCOL1b and
+    GmCOL2a, GmCOL2b) that clustered together with the flowering inducers
+    Arabidopsis CONSTANS (CO) and rice HEADING DATE 1 (Hd1) based on sequence
+    similiarity.
+  - Transcript abundance of COL1a and COL1b exhibited a strong diurnal rhythm
+    under flowering-inductive short days. Their mRNA levels reached a peak at
+    dawn and coincided with the rise of GmFT5a expression. In contrast, the mRNA
+    abundance of COL2a and COL2b was extremely low.
+  - Transgenic experiments showed that COL1a, COL1b, COL2a and COL2b fully
+    complemented the late flowering effect of the Arabidopsis co-1 mutant.
+  - The gene_model_pub_name was found in Awal Khan, Zhang et al., 2022 and
+    Supporting Table S1 of Wu, Price et al., 2014.
+phenotype_synopsis: GmCOL1a and GmCOL1b are potential inducers of short-day
+  photoperiodic flowering in soybean. A rapid regulatory divergence between
+  GmCOL1a/GmCOL1b and GmCOL2a/GmCOL2b was also suggested.
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
+  - entity_name: short-day photoperiodism
+    entity: GO:0048572
 references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Mohammad, et al., 2022
+  - citation: Awal Khan, Zhang et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153

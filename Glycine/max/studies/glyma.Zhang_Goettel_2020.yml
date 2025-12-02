@@ -4,13 +4,32 @@ gene_symbols:
   - GmSWEET39
 gene_symbol_long: Sugars Will Eventually be Exported Transporter 39
 gene_model_pub_name: Glyma.15G049200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G049200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G049200
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - Expression positively correlates to seed oil content and negatively correlates to seed protein content.
-phenotype_synopsis: SWEET39 codes for a sucrose efflux transporter in the plasma membrane which produces a pleiotropic affect on seed protein and oil content.
+  - GmSWEET39 is strongly expressed in soybean seed-coat parenchyma and
+    integuments. This gene encodes a plasma membrane-localized sucrose efflux
+    transporter.
+  - Expression of SWEET39 positively correlates to seed oil content. There is a
+    negative correlation between seed protein and seed oil content.
+  - A two-nucleotide CC deletion resulted in a truncated C-terminus of SWEET39.
+    This allele (CC-) was strongly associated with high seed oil and low seed
+    protein.
+  - SWEET39 may regulate oil and protein accumulation by affecting levels of
+    sugar delivery from maternal seed coat to the filial embryo.
+  - A CC deletion (CC-) haplotype H1 has been selected during domestication so
+    as to produce high seed oil content alongside low protein; H1 is prominent
+    worldwide and became fixed in North American cultivars. The protein-favored
+    (CC+) haplotype H3 also underwent selection to enhance seed protein content
+    alongside reduced oil amounts. There were more dramatic differences in both
+    oil and protein content between CC- and CC+ accessions for cultivars than
+    for landraces.
+phenotype_synopsis: GmSWEET39 codes for a sucrose efflux transporter in the
+  plasma membrane that produces a pleiotropic effect on seed protein and oil
+  content.
 traits:
   - entity_name: protein content
     entity: TO:0000598
@@ -19,12 +38,12 @@ traits:
   - entity_name: efflux transmembrane transporter activity
     entity: GO:0015562
 references:
-  - citation: Zhang, Goettel et. al., 2020
+  - citation: Zhang, Goettel et al., 2020
     doi: 10.1371/journal.pgen.1009114
     pmid: 33175845
-  - citation: Miao, Yang et. al., 2020
+  - citation: Miao, Yang et al., 2020
     doi: 10.1111/nph.16250
     pmid: 31596499
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726

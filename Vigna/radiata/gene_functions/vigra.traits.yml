@@ -1,4 +1,3 @@
-## DOCUMENT 1 ##
 ---
 scientific_name: Vigna radiata
 gene_symbols:
@@ -11,10 +10,17 @@ curators:
   - Marlene Dorneich-Hayes
 comments:
   - VrCCA1L26 shares homology with AtCCA1, AtLHY, and GmLCL genes.
-  - In transgenic Arabidopsis, VrCCA1L26 delays flowering time by supressing Constans (CO), Flowering locus T (FT), Supressor of Overexpression of Constans 1 (SOC1), and Timing of Cab Expression 1 (TOC1).
-  - VrCCA1L26 expression is affected by photoperiod and is supressed by expression of TOC1.
-  - VrCCA1L26 may play a role in isoflavonoid synthesis, stress response, hypocotyl growth, seed germination, and leaf senescence. This has not been experimentally validated.
-phenotype_synopsis: VrCCA1L26 delays flowering time in transgenic Arabidopsis thaliana, but its function in Vigna radiata has not been experimentally validated.
+  - In transgenic Arabidopsis, VrCCA1L26 delays flowering time by supressing
+      Constans (CO), Flowering locus T (FT), Supressor of Overexpression of
+      Constans 1 (SOC1), and Timing of Cab Expression 1 (TOC1).
+  - VrCCA1L26 expression is affected by photoperiod and is supressed by
+      expression of TOC1.
+  - VrCCA1L26 may play a role in isoflavonoid synthesis, stress response,
+      hypocotyl growth, seed germination, and leaf senescence. This has not
+      been experimentally validated.
+phenotype_synopsis: VrCCA1L26 delays flowering time in transgenic Arabidopsis
+  thaliana, but its function in Vigna radiata has not been experimentally
+  validated.
 traits:
   - entity_name: transcription factor binding
     entity: GO:0008134
@@ -24,5 +30,4 @@ references:
   - citation: Liu, Zhang, et. al., 2022
     doi: 10.1186/s12864-022-08620-7
     pmid: 35581536
-
 

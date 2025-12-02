@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmPHYE1
 gene_symbol_long: Phytochrome E1
@@ -18,6 +19,7 @@ references:
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmTOC1
 gene_symbol_long: Timing of CAB Expression 1
@@ -37,6 +39,7 @@ references:
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmGA2OX5
 gene_symbol_long: Gibberellin 2 Oxidase 5
@@ -56,6 +59,7 @@ references:
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmGA2OX6
 gene_symbol_long: Gibberellin 2 Oxidase 6
@@ -75,6 +79,7 @@ references:
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmMSI1
 gene_symbol_long: Multicopy Suppressor of IRA 1

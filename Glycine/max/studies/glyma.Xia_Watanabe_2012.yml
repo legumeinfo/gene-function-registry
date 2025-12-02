@@ -1,0 +1,26 @@
+---
+scientific_name: Glycine max
+classical_locus: E1
+gene_symbols:
+  - GmE1
+gene_symbol_long: Flower Repressor 1
+gene_model_pub_name: Glyma06g23040
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G207800
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - E1 transcripts negativly regulates the expression of GmFT2a and GmFT5a
+  - High levels of expression in cotyledons, fully expanded leaves and mature leaves
+  - E1 expression shows a bimodel pattern under long day conditions (16h light, 8h dark), transcription slows in the dark, reaching its minimmum at dawn
+  - high level of E1 expression requires long-day conditions and functional photoreceptor genes (E3 and E4)
+  - E1 inhibits GmFT2a/GmFT5a expression during long day conditions
+  - Supression of E1 leads to early flowering
+phenotype_synopsis: E1 transcripts negativly regulates the expression of GmFT2a and GmFT5a to control flowering time
+traits:
+  - entity_name: Flowering Time trait
+    entity: TO:0002616
+references:
+  - citation: Xia, Watanabe et al., 2012
+    doi: 10.1073/pnas.1117982109
+    pmid: 22619331

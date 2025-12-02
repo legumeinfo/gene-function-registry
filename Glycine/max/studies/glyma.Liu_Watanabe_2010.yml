@@ -16,6 +16,6 @@ traits:
     relation: PATO:0002476
 references:
   - citation: Liu, Watanabe et al., 2010
-    doi: doi.org/10.1104/pp.109.150607
+    doi: 10.1104/pp.109.150607
     pmid: 20219831
 

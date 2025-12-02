@@ -1,0 +1,51 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmphyA1
+gene_symbol_long: phytochrome A1
+gene_model_pub_name: Glyma10g28170
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G141400
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - Expressed in cotyledons, hypocotyls, and etiolated and green primary leaves
+  - Expressed in both E4 and e4 alleles
+  - Involved in de-etiolation response
+  - Involved in early flowering under far red-enriched long day conditions
+phenotype_synopsis: GmphyA1 plays a role in photoperiod sensitivity under long day and far red light conditions
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+references:
+  - citation: Tsubokura, Matsumura et al., 2013
+    doi: 10.3390/agronomy3010117
+  - citation: Liu, Kanazawa et al., 2008
+    doi: 10.1534/genetics.108.092742
+    pmid: 18780733
+---
+scientific_name: Glycine max
+classical_locus: E4
+gene_symbols:
+  - GmphyA2
+gene_symbol_long: phytochrome A2
+gene_model_pub_name: Glyma20g22160
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G090000
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - GmphyA2 has 6238-bp Ty1/copia-like retrotransposon inserted in exon 1 in the e4 allele
+  - mRNA transcription of GmphyA2 is inhibited due to the retrotransposon element in e4
+  - The insertion in e4 GmphyA2 is causing photoperiod insensitivity
+  - Expressed in cotyledons, hypocotyls, and etiolated and green primary leaves
+phenotype_synopsis: GmphyA2 plays a role in photoperiod sensitivity
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+references:
+  - citation: Tsubokura, Matsumura et al., 2013
+    doi: 10.3390/agronomy3010117
+  - citation: Liu, Kanazawa et al., 2008
+    doi: 10.1534/genetics.108.092742
+    pmid: 18780733

@@ -1,0 +1,124 @@
+---
+scientific_name: Phaseolus vulgaris
+classical_locus: V
+gene_symbols:
+  - PvV
+  - PvPUR
+gene_symbol_long: Violet
+gene_model_pub_name: Phvul.006G018800
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.006G018800
+confidence: 5
+curators:
+  - Scott Kalberer
+comments:
+  - The classical V (Violet, Purple) locus of Phaseolus vulgaris affects the
+    colors of seed coats and flowers. Plants with the dominant V allele are
+    purple-flowered whereas homozygous recessive plants exhibit white (v) or
+    pink (v-lae) flowers. The dominant V allele is associated with black-seeded
+    beans, even as recessive v alleles produce seeds without
+    dihydromyricetin-derived flavonoids (McClean, Lee et al., 2022).
+  - Solely genotypes carrying the dominant V allele produced the anthocyanin
+    named delphinidin 3-O-glucoside in seed coats. The colors of these lines
+    ranged from blue to black (Beninger and Hosfield, 2003).
+  - Phytochemical analysis showed that dihydromyricetin-related compounds
+    (e.g.,delphinidin 3-glucoside, myricetin 3-glucoside) were absent in flowers
+    from introgression lines with recessive v alleles, greatly reduced in seed
+    coats of pink-flowered v-lae lines, and absent in the seed coats of
+    white-flowered v lines. The purple-flowered V dominant-allele lines had
+    flowers and seeds containing these compounds (McClean, Lee et al., 2022).
+  - McClean, Lee et al. (2022) physically mapped the V locus to a narrow
+    interval surrounding a Flavonoid 3′5’Hydroxylase (F3′5′H) candidate gene
+    model (Phvul.006G018800) on chromosome Pv06. This low recombination
+    heterochromoatic region resisted fine-mapping and the RAPD marker OD12-800
+    and 15 indels all co-segregated with V. Knowing the V locus to be associated
+    with F3′5′H, a search for gene models including the F3′5′H KEGG identifier
+    K13083 within the suspected Pv06 region of the reference genome G19833
+    revealed the gene model Phvul.006G018800.
+  - Garcia-Fernandez, Campa et al. (2021) mapped a ‘TU’ × ‘Musica’ RIL
+    population and showed that one of two genes responsible for a black seed
+    coat phenotype was localized to a Pv06 region associated with locus V. They
+    also proposed Phvul.006G018800 as the candidate V gene. Yet another study
+    found Phvul.006G018800, the candidate gene for a Purple Mutation (PvPUR),
+    was localized to the 243.9-kb region of Pv06 (Liu, Yang et al., 2023).
+  - Protein and domain modeling determined the V gene encodes the enzyme
+    Flavonoid 3′,5′-Hydroxylase (F3′5′H), a member of the Cytochrome P450 family
+    (McClean, Lee et al., 2022). Sequence analysis of Phvul.006G018800 protein
+    identified six conserved substrate recognition sites (SRS) and four
+    functional motifs typical of Cytochrome P enzymes. Almost all these domain
+    sequences were nearly the same as the functional F3′5′H domains of other
+    legumes.
+  - Active F3'5'H is required for biosynthesis of dihydromyricetin-derived
+    flavonoids (McClean, Lee et al., 2022). Specifically, F3’5’H converts the
+    dihydroflavonols named dihydrokaempferol (DHK) and dihydroquercetin (DHQ) to
+    dihydromyricetin (DHM), a precursor of the blue-to-red pH-sensitive plant
+    pigment delphinidin, its methylated derivatives such as petunidin and
+    malvidin, and its glycoside-containing anthocyanin derivatives such as
+    delphinidin 3-O-glucoside (Liu, Yang et al., 2023).
+  - Nine total F3′5′H CDS haplotypes were discovered among the screened
+    genotypes. Eight recessive haplotypes that control pink or white flower
+    color, defined by mutations of functional domains required for P450
+    activities, evolved independently in the two bean gene pools from a common
+    ancestral haplotype V-[5-593]. Dominant V-[5-593] expression was connected
+    to purple flowers in Mesoamerican and Andean gene pools. The white
+    v-[Mex235] haplotype was discovered in both gene pools indicating its early
+    emergence. Other haplotypes were gene pool-specific, including the v-lae
+    pink-flowered haplotypes in the Andean gene pool (McClean, Lee et al.,
+    2022).
+  - Definitive evidence that V encodes F3′5′H was provided by discovery of the
+    v-[M0056] white-flowering haplotype. This v-[M0056] was produced by a
+    natural intragenic crossover event between the v-lae[MDRK] (pink flower) and
+    v-[Mex235] (white flower) haplotypes. The 14-nt deletion within the
+    v-[Mex235] chromosome resulted in a frame-shift stop codon that eliminated
+    the heme-binding domain and SRS6 functional regions of F3'5'H. The v-[M0056]
+    recombinant haplotype contains the 5′-end of v-lae[MDRK] alongside the
+    3′-end of v-[Mex235]. Experimentally, if a section of a candidate gene were
+    to be deleted and a phenotypic change observed, one would conclude the
+    candidate gene was validated. This recombination event is a natural
+    equivalent to gene editing in a species, P. vulgaris, in which
+    complementation technologies have yet to be developed (McClean, Lee et al.,
+    2022).
+  - Purple mutants of P. vulgaris exhibited purple cotyledons, hypocotyls,
+    stems, leaf veins, flower and pod tissues (Liu, Yang et al., 2023). Levels
+    of total anthocyanins, delphinidins, and malvidins in purple-mutant pods
+    were significantly higher than in wild-type plants (Liu, Yang et al., 2023).
+    Six single-base mutations within the coding region of PvPUR altered the
+    protein structure of F3’5’H resulting in the purple phenotype (Liu, Yang et
+    al., 2023).
+  - To validate the candidate gene's function, Arabidopsis thaliana were
+    transformed using wild-type and purple-mutant common bean alleles. Compared
+    with the wild-type Arabidopsis, the leaf bases and internodes of plants
+    receiving the purple-mutant allele were purple, whereas the phenotypes of
+    Arabidopsis transformed with the wild-type allele remained unaffected (Liu,
+    Yang et al., 2023).
+phenotype_synopsis: The Violet (V) gene in Phaseolus vulgaris encodes the
+  cytochrome P450 enzyme Flavonoid 3′,5′-Hydroxylase (F3′5′H). Functional V
+  expression is needed for the biosynthesis of dihydromyricetin-derived
+  flavonoids and affects the coloration of flowers, seed coats, and many other
+  tissues.
+traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: seed coat color
+    entity: TO:0000190
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: pericarp color
+    entity: TO:0000707
+references:
+  - citation: McClean, Lee et al., 2022
+    doi: 10.3389/fpls.2022.869582
+    pmid: 35432409
+  - citation: Liu, Yang et al., 2023
+    doi: 10.1007/s11032-023-01362-8
+    pmid: 37313298
+  - citation: Garcia-Fernandez, Campa et al., 2021
+    doi: 10.1007/s00122-021-03922-y
+    pmid: 34328529
+  - citation: Beninger, Hosfield, 2003
+    doi: 10.1021/jf0304324
+    pmid: 14690368
+  - citation: McClean, Lee et al., 2002
+    doi: 10.1093/jhered/93.2.148
+    pmid: 12140276

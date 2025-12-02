@@ -36,6 +36,7 @@ There are ten top-level keys - four of which contain an array of key-value pairs
 
 ```
 ---
+scientific_name: Glycine max
 classical_locus: E2
 gene_symbols:
   - GmGI
@@ -43,6 +44,8 @@ gene_symbol_long: Earliness 2
 gene_model_pub_name: Glyma.10G221500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G221500
 confidence: 5
+curators:
+  - Steven Cannon
 comments: 
   - Mutational and association analysis relative to classical locus.
 phenotype_synopsis: GmGI modulates flowering time, delaying expression of GmFT2a under long days.
@@ -67,7 +70,9 @@ references:
     pmid: 33090664
 ```
 
-The ***classical_locus*** block is optional. It holds the name of a locus that has been defined in literature about this species, typically naming a mapped phenotype. For example, in soybean, the "E2" locus is one of several named "earliness" loci. In pea, the "I" locus was used by Mendel to name the yellow-or-green seed-color locus ("I" indicating  yellow and "i" indicating green). This block holds a single value.
+The **scientific_name** block is required. It holds the genus and species epithet, e.g. Glycine max
+
+The **classical_locus** block is optional. It holds the name of a locus that has been defined in literature about this species, typically naming a mapped phenotype. For example, in soybean, the "E2" locus is one of several named "earliness" loci. In pea, the "I" locus was used by Mendel to name the yellow-or-green seed-color locus ("I" indicating  yellow and "i" indicating green). This block holds a single value.
 
 The ***gene_symbols*** block is optional. It holds the name of a locus as described in literature about a mapped trait. This block may hold multiple values, since it is not uncommon for different publications to use different locus names. The first listed name will be considered "preferred."
 
@@ -77,19 +82,86 @@ The ***gene_model_pub_names)*** block is required. It holds the name of a gene a
 
 The ***gene_model_full_ID*** block is required. It holds the fully-qualified gene ID, with components "gensp.Accession.gnm#.ann#.gene_ID". The "gene_ID" may be the same as ***gene_model_pub_name***, but may be different if a corresponding and preferable gene model is available from another assembly and/or annotation. The purpose of this ID is to enable linking this gene to other resources at SoyBase/LIS/PeanutBase.
 
-The ***confidece*** block is to have values [1-5]. This field indicates level of experimental support, with 5 being the strongest -- typically consisting of evidence at the level of a genetic complementation test, or otherwise observed as a mutant phenotype (experimental evidence code IMP) associated with the mutated form of the indicated gene. A level of 3 would be strong associational support, but lacking experimental lab validation such as genetic complementation. Levels 1 and 2 would be high-throughput evidence, and generally will NOT be collected in the SoyBase/LIS/PeanutBase projects. Papers that report lists of "candidate genes" in the vicinity of a GWAS or QTL region would be level 1 or 2 support, and should generally not be collected here.
+The **confidence** block is required. It is to have values [1-5]. This field indicates level of experimental support, with 5 being the strongest -- typically consisting of evidence at the level of a genetic complementation test, or otherwise observed as a mutant phenotype (experimental evidence code IMP) associated with the mutated form of the indicated gene. A level of 3 would be strong associational support, but lacking experimental lab validation such as genetic complementation. Levels 1 and 2 would be high-throughput evidence, and generally will NOT be collected in the SoyBase/LIS/PeanutBase projects. Papers that report lists of "candidate genes" in the vicinity of a GWAS or QTL region would be level 1 or 2 support, and should generally not be collected here.
 
-The ***comments*** block is for unstructured text, if needed for curatorial comments or other purposes. Comments must be entered as an array - i.e. with leading spaces and dash before each comment string.
+The **comments** block is optional. It is for unstructured text, if needed for curatorial comments or other purposes. Comments must be entered as an array - i.e. with leading spaces and dash before each comment string.
 
-The ***phenotype synopsis*** block is for unstructured text, to give a brief human-readable description of the main phenotype associated with this gene (either through its wildtype or mutant form, but inferred relative to the mutant phenotype).
+The **phenotype_synopsis** block is required. It is for unstructured text, to give a brief human-readable description of the main phenotype associated with this gene (either through its wildtype or mutant form, but inferred relative to the mutant phenotype).
 
-The ***traits*** block must contain at least one "entity" key with a valid ontology accession. Trait or Plant ontologies (TO and PO) are preferred where possible. Optionally (and generally discouraged due to the complexity and difficulty of getting this right), a modifying ontology term may be added to a trait block, in association with (listed underneath) an entity term. A modifier could be a "quality" or a "relation" key with a relation ontology may be associated with the entity ontology. Quality terms typically come from the Phenotype And Trait Ontology, <a href="https://www.ebi.ac.uk/ols4/ontologies/pato" target="_blank">(PATO)</a>, and relation terms typically come from the Relations Ontology, <a href="https://www.ebi.ac.uk/ols4/ontologies/ro" target="_blank">(RO)</a>. The association between entity and relation ontology terms is established by proximity: entity and term followed by relation and term. **However, to reiterate: focus on the primary entities, from TO or PO, and don't get bogged down with selecting modifiers.**
+The **traits** block is required. It must contain at least one "entity" key with a valid ontology accession. Trait or Plant ontologies (TO and PO) are preferred where possible. Optionally (and generally discouraged due to the complexity and difficulty of getting this right), a modifying ontology term may be added to a trait block, in association with (listed underneath) an entity term. A modifier could be a "quality" or a "relation" key with a relation ontology may be associated with the entity ontology. Quality terms typically come from the Phenotype And Trait Ontology, [https://www.ebi.ac.uk/ols4/ontologies/pato](PATO) , and relation terms typically come from the Relations Ontology, [RP](https://www.ebi.ac.uk/ols4/ontologies/ro) The association between entity and relation ontology terms is established by proximity: entity and term followed by relation and term. However, to reiterate: focus on the primary entities, from TO or PO, and don't get bogged down with selecting modifiers.
 
-The ***references*** block contains one or more blocks of citations, each containing three key-value pairs: "citation", "doi", and "pmid". Of these, the doi is required (some publications lack a pmid, but all should have a doi). The pmid should be provided if available (the **get_citations.pl** will do this if the curator does not). The citation should be in one of the following forms (depending on whether there are one, two, or three-or-more authors):  
+The **references** block is required. It contains one or more blocks of citations, each containing three key-value pairs: "citation", "doi", and "pmid". Of these, the doi is required (some publications lack a pmid, but all should have a doi). The pmid should be provided if available (the **get_citations.pl** will do this if the curator does not). The citation should be in one of the following forms (depending on whether there are one, two, or three-or-more authors):  
 ```
   LastName, YEAR
   LastName, LastName, YEAR
   LastName, LastName et al., YEAR
 ```
 
+## Updating gene_functions/ files: gensp.traits.yml, gensp.citations.txt, gensp.references.txt
+The information in the gene function registry documents gets incorporated into a Mine instance for some species when the `gensp.traits.yml` file
+is generated and copied to the `gene_functions` section of the public data store. This is a step that some curator has to initiate.
+These files are generated with two scripts, like so (assuming the scripts have been added to the user's PATH):
+```
+  salloc --account=legume_project
+  ml miniconda
+  source activate ds-curate
+
+  get_citations.pl -cit_out Glycine/max/gene_functions/glyma.citations.txt \
+                   -yml_out Glycine/max/gene_functions/glyma.traits.yml \
+                   -verbose -over \
+                   Glycine/max/studies/*yml
+
+  get_references.pl -out Glycine/max/gene_functions/glyma.references.txt \
+                    Glycine/max/gene_functions/glyma.citations.txt
+```
+
+<details>
+<summary>MORE: To run these scripts for all species, call them in a loop, driven by a file with the genus, species, and gensp names:</summary>
+
+```
+cat templates/genus_species.tsv
+  Glycine max glyma
+  Glycine soja glyso
+  Lotus japonicus lotja
+  Medicago truncatula medtr
+  Phaseolus vulgaris phavu
+  Pisum sativum pissa
+  Vicia faba vicfa
+  Vigna radiata vigra
+
+
+cat templates/genus_species.tsv | while read -r line; do
+  genus=`echo $line | awk '{print $1}'`
+  species=`echo $line | awk '{print $2}'`
+  gensp=`echo $line | awk '{print $3}'`
+  echo "$genus $species $gensp"
+
+  get_citations.pl -cit_out $genus/$species/gene_functions/$gensp.citations.txt \
+                   -yml_out $genus/$species/gene_functions/$gensp.traits.yml \
+                   -verbose -over \
+                      $genus/$species/studies/*yml
+
+  get_references.pl -out $genus/$species/gene_functions/$gensp.references.txt $genus/$species/gene_functions/$gensp.citations.txt
+
+done
+```
+</details>
+
+Once the files have been updated in each `$genus/$species/gene_functions`, then copy those files over to the main datastore, 
+and also update the `datastore_metadata` GitHub repository.
+
+<details>
+<summary>MORE: To copy files for each species to the datastore, again call them in a loop:</summary>
+
+```
+cat templates/genus_species.tsv | while read -r line; do
+  genus=`echo $line | awk '{print $1}'`
+  species=`echo $line | awk '{print $2}'`
+  gensp=`echo $line | awk '{print $3}'`
+  echo "$genus $species $gensp"
+
+  cp $genus/$species/gene_functions/*.* /project/legume_project/datastore/v2/$genus/$species/gene_functions/
+done
+```
+</details>
 

@@ -2,17 +2,18 @@
 
 ### How to read and analyze a research paper
 
-[Ten simple rules for reading a scientific paper](/student_tutorials/Carery_Steiner_2020.pdf)
+[Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 
-[Art of reading a journal article](/student_tutorials/Subramanyam_2013.pdf)
+[Art of reading a journal article](https://journals.lww.com/jpat/fulltext/2013/17010/art_of_reading_a_journal_article__methodically_and.14.aspx)
 
 ### Practice Material
-- Within the [practice](https://github.com/legumeinfo/gene-function-registry/tree/main/student_tutorials/practice) folder is a reserach paper and curatation document. 
+- Within the [practice](./practice) folder is a [reference to a scientific paper](https://academic.oup.com/jxb/article/68/3/469/2645555) and an example curatation document. 
 
 ### General curation information
 <details>
 - We use a "Genus species" code for curation. We use the first three letters of the <b>gen</b>us and the first two letters of the <b>sp</b>ecies (Example: <i>Glycine max</i> == glyma)
 - Advanced gene function curation protocol can be found [here](https://github.com/legumeinfo/datastore-specifications/tree/main/PROTOCOLS/gene_functions)
+
 </details>
 
 ### Selecting and accessing research papers
@@ -24,8 +25,7 @@
     - [PubAg / USDA National Ag Library](https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN&search_scope=pubag&tab=pubag)
 
 
-### Branch management using the Graphical User Interface (GUI) on GitHub
-<details>
+### How to curate with GitHub
 1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)
 2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
@@ -75,5 +75,3 @@
 - Long Answer: The S-Tier level of 5, and to a lesser extent 4, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest.  A level of 3 would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation.  Levels 1 and 2 would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level 1 or 2 support.
 </details>
 
-#### FAQ about Git, GitHub and curation
-- 

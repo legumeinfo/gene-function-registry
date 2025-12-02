@@ -1,0 +1,27 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtYSL3
+gene_symbol_long: YELLOW STRIPE1-LIKE 3
+gene_model_pub_name: Medtr3g092090
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g092090
+confidence: 3
+curators:
+  - Raegan Nelson
+comments:
+  - MtYSL3 is highly expressed in root nodules and was found in the endodermis and inner vascular layers
+  - MtYSL3 mutants has reduced growth compared to the WT, but nodule development was not affected
+  - MtYSL3 mutants has roughly 60% nitrogenase activity of the WT which could be the result of reduced iron content in nodules
+  - There was no difference between WT and MtYSL3 mutant under non-symbiotic conditions
+phenotype_synopsis: MtYSL3 plays a role in symbiotic nitrogen fixation and could be involved in transition metal delivery to nitrogen fixing nodules
+traits:
+  - entity_name: root nitrogen content
+    entity: TO:0003074
+  - entity_name: root system iron content
+    entity: TO:1000034
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+references:
+  - citation: Castro-Rodríguez, Abreu et al., 2020
+    doi: 10.1093/jxb/eraa390
+    pmid: 32841350

@@ -1,0 +1,62 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtLOG1
+gene_symbol_long: LONELY GUY 1
+gene_model_pub_name: Medtr7g101290
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g101290
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtLOG1 expression depends on MtCRE1 (a gene that is essential for nodule organ formation)
+  - MtLOG1 expression does not require MtCRE1 in the lateral root primordia
+  - Overexpression of MtLOG1 leads to larger lateral root density and expansion of vascular tissue
+  - Overexpression of MtLOG1 leads to a reduced number of nodules
+  - MtLOG1 could be involved in MtCLE13 expression during nodulation
+  - MtLOG1 is involved in cytokinin production
+  - MtLOG1 and MtLOG2 share 87.8% similarity
+phenotype_synopsis: MtLOG1 negatively regulates lateral root formation and nodule formation and produces cytokinins
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: negative regulation of lateral root development
+    entity: GO:1901332
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: cytokinin biosynthetic process
+    entity: GO:0009691
+references:
+  - citation: Mortier, Wasson et al., 2014
+    doi: 10.1111/nph.12681
+    pmid: 24443934
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtLOG2
+gene_symbol_long: LONELY GUY 2
+gene_model_pub_name: Medtr1g064260
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g064260
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtLOG2 expression depends on MtCRE1 (a gene that is essential for nodule organ formation)
+  - MtLOG2 is involved in cytokinin production
+  - MtLOG1 and MtLOG2 share 87.8% similarity
+phenotype_synopsis: MtLOG2 negatively regulates nodulation and produces cytokinins
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: cytokinin biosynthetic process
+    entity: GO:0009691
+references:
+  - citation: Mortier, Wasson et al., 2014
+    doi: 10.1111/nph.12681
+    pmid: 24443934

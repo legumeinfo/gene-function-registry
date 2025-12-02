@@ -1,0 +1,30 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtMSD1
+gene_symbol_long: MAIN STEM DWARF 1
+gene_model_pub_name: Medtr1g102070
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g102070
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtMSD1 is a candidate gene for a GA 20-oxidase enzyme expressed predominantly in the main shoot apex that catalyzes the synthesis of bioactive gibberelins from a C20-GA substrate
+  - MtMSD1 is expressed in flowers, axillary buds, stem, root, pods, leaf, and shoot apices
+  - MtMSD1 has two homologs, MtGA20ox7 and MtGA20ox8, which together regulate shoot length and leaf development
+phenotype_synopsis: MtMSD1 regulates the biosythesis of gibberellin oxidases which control plant height
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: stem elongation
+    entity: TO:0006036
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: plant cell length
+    entity: TO:0020107
+  - entity_name: gibberellin biosynthetic process
+    entity: GO:0009686
+references:
+  - citation: Li, Ma et al., 2021
+    doi: 10.3389/fpls.2021.709625
+    pmid: 34421956

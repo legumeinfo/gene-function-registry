@@ -1,0 +1,74 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmRhg1
+  - GmSNAP18
+gene_symbol_long: Soluble NSF Attachment Protein 18
+gene_model_pub_name: Glyma.18G022500
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G022500
+confidence: 5
+curators:
+  - Ella Townsend
+  - Scott Kalberer
+comments:
+  - GmSNAP18 interactions with alleles of GmSHMT08 proteins determine reaction specificity to SCN (soybean cyst nematode) HG types.
+  - Increased GmSNAP18 expression was observed in SCN-infected root tissue.
+  - Molecular mechanism for SCN resistance by these two genes is not yet fully revealed.
+phenotype_synopsis: Response to soybean cyst nematode infection as well as "Peking-type" resistance.
+traits:
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+  - entity_name: Response to nematode
+    entity: GO:0009624
+  - entity_name: Defense response to nematode
+    entity: GO:0002215
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: Chaiprom, Miraeiz et al., 2024
+    doi: 10.1093/g3journal/jkae226
+    pmid: 39295536
+  - citation: Guo, Zhang et al., 2019
+    doi: 10.1111/mpp.12753
+    pmid: 30264924
+  - citation: Butler, Chen et al., 2019
+    doi: 10.1094/PHYTO-07-19-0225-R
+    pmid: 31403912
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmRhg4
+  - GmSHMT08
+gene_symbol_long: Serine Hydroxymethyltransferase 8
+gene_model_pub_name: Glyma.08g108900
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08g108900
+confidence: 5
+curators:
+  - Ella Townsend
+  - Scott Kalberer
+comments:
+  - GmSHMT08 interactions with alleles of GmSNAP18 proteins determine reaction specificity to SCN (soybean cyst nematode) HG types.
+  - GmSHMT08 functions downstream of the GmSNAP18 gene and its induction requires the presence of both functional GmSNAP18 resistant and GmSHMT08 resistant alleles.
+  - Molecular mechanism for SCN resistance by these two genes is not yet fully revealed.
+phenotype_synopsis: Response to soybean cyst nematode infection and "Peking-type" resistance.
+traits:
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+  - entity_name: Response to nematode
+    entity: GO:0009624
+  - entity_name: Defense response to nematode
+    entity: GO:0002215
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: Chaiprom, Miraeiz et al., 2024
+    doi: 10.1093/g3journal/jkae226
+    pmid: 39295536
+  - citation: Guo, Zhang et al., 2019
+    doi: 10.1111/mpp.12753
+    pmid: 30264924
+  - citation: Butler, Chen et al., 2019
+    doi: 10.1094/PHYTO-07-19-0225-R
+    pmid: 31403912

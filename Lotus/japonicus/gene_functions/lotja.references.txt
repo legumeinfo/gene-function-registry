@@ -1,0 +1,455 @@
+##### PUB RECORD #####
+## 10.1093/plcell/koab103  33826745  Nishida, Nosaki et al., 2021  Nishida H, Nosaki S, Suzuki T, Ito M, Miyakawa T, Nomoto M, Tada Y, Miura K, Tanokura M, Kawaguchi M, Suzaki T. Different DNA-binding specificities of NLP and NIN transcription factors underlie nitrate-induced control of root nodulation. Plant Cell. 2021 Aug 13;33(7):2340-2359. doi: 10.1093/plcell/koab103. PMID: 33826745; PMCID: PMC8364233. ##
+
+PMID- 33826745
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211227
+LR  - 20220503
+IS  - 1532-298X (Electronic)
+IS  - 1040-4651 (Print)
+IS  - 1040-4651 (Linking)
+VI  - 33
+IP  - 7
+DP  - 2021 Aug 13
+TI  - Different DNA-binding specificities of NLP and NIN transcription factors underlie 
+      nitrate-induced control of root nodulation.
+PG  - 2340-2359
+LID - 10.1093/plcell/koab103 [doi]
+AB  - Leguminous plants produce nodules for nitrogen fixation; however, nodule 
+      production incurs an energy cost. Therefore, as an adaptive strategy, leguminous 
+      plants halt root nodule development when sufficient amounts of nitrogen 
+      nutrients, such as nitrate, are present in the environment. Although legume 
+      NODULE INCEPTION (NIN)-LIKE PROTEIN (NLP) transcription factors have recently 
+      been identified, understanding how nodulation is controlled by nitrate, a 
+      fundamental question for nitrate-mediated transcriptional regulation of symbiotic 
+      genes, remains elusive. Here, we show that two Lotus japonicus NLPs, NITRATE 
+      UNRESPONSIVE SYMBIOSIS 1 (NRSYM1)/LjNLP4 and NRSYM2/LjNLP1, have overlapping 
+      functions in the nitrate-induced control of nodulation and act as master 
+      regulators for nitrate-dependent gene expression. We further identify candidate 
+      target genes of LjNLP4 by combining transcriptome analysis with a DNA affinity 
+      purification-seq approach. We then demonstrate that LjNLP4 and LjNIN, a key 
+      nodulation-specific regulator and paralog of LjNLP4, have different DNA-binding 
+      specificities. Moreover, LjNLP4-LjNIN dimerization underlies LjNLP4-mediated 
+      bifunctional transcriptional regulation. These data provide a basic principle for 
+      how nitrate controls nodulation through positive and negative regulation of 
+      symbiotic genes.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of American 
+      Society of Plant Biologists.
+FAU - Nishida, Hanna
+AU  - Nishida H
+AUID- ORCID: 0000-0003-3701-4011
+AD  - Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+FAU - Nosaki, Shohei
+AU  - Nosaki S
+AUID- ORCID: 0000-0001-8493-1299
+AD  - Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+AD  - Graduate School of Agricultural and Life Sciences, The University of Tokyo, 
+      Tokyo, Japan.
+AD  - Tsukuba Plant-Innovation Research Center, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+FAU - Suzuki, Takamasa
+AU  - Suzuki T
+AUID- ORCID: 0000-0002-1977-0510
+AD  - College of Bioscience and Biotechnology, Chubu University, Kasugai, Aichi, Japan.
+FAU - Ito, Momoyo
+AU  - Ito M
+AUID- ORCID: 0000-0003-2704-9034
+AD  - Tsukuba Plant-Innovation Research Center, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+FAU - Miyakawa, Takuya
+AU  - Miyakawa T
+AUID- ORCID: 0000-0001-5957-3549
+AD  - Graduate School of Agricultural and Life Sciences, The University of Tokyo, 
+      Tokyo, Japan.
+FAU - Nomoto, Mika
+AU  - Nomoto M
+AUID- ORCID: 0000-0002-0544-2321
+AD  - Center for Gene Research, Nagoya University, Nagoya, Aichi, Japan.
+FAU - Tada, Yasuomi
+AU  - Tada Y
+AUID- ORCID: 0000-0001-9900-069X
+AD  - Center for Gene Research, Nagoya University, Nagoya, Aichi, Japan.
+FAU - Miura, Kenji
+AU  - Miura K
+AUID- ORCID: 0000-0003-1262-2176
+AD  - Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+AD  - Tsukuba Plant-Innovation Research Center, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+FAU - Tanokura, Masaru
+AU  - Tanokura M
+AUID- ORCID: 0000-0001-5072-2480
+AD  - Graduate School of Agricultural and Life Sciences, The University of Tokyo, 
+      Tokyo, Japan.
+FAU - Kawaguchi, Masayoshi
+AU  - Kawaguchi M
+AUID- ORCID: 0000-0002-1032-6261
+AD  - National Institute for Basic Biology, Okazaki, Aichi, Japan.
+AD  - School of Life Science, Graduate University for Advanced Studies, Okazaki, Aichi, 
+      Japan.
+FAU - Suzaki, Takuya
+AU  - Suzaki T
+AUID- ORCID: 0000-0001-9646-0279
+AD  - Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+AD  - Tsukuba Plant-Innovation Research Center, University of Tsukuba, Tsukuba, 
+      Ibaraki, Japan.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Plant Cell
+JT  - The Plant cell
+JID - 9208688
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+CIN - Plant Cell. 2021 Aug 13;33(7):2101-2103. doi: 10.1093/plcell/koab108. PMID: 
+      35233600
+MH  - Gene Expression Regulation, Plant
+MH  - Lotus/genetics/metabolism
+MH  - Plant Proteins/genetics/metabolism
+MH  - Plant Root Nodulation/genetics/physiology
+MH  - Root Nodules, Plant/genetics/metabolism
+MH  - Symbiosis/genetics/physiology
+MH  - Transcription Factors/genetics/*metabolism
+PMC - PMC8364233
+EDAT- 2021/04/08 06:00
+MHDA- 2021/12/28 06:00
+PMCR- 2021/04/07
+CRDT- 2021/04/07 17:33
+PHST- 2020/09/08 00:00 [received]
+PHST- 2021/04/03 00:00 [accepted]
+PHST- 2021/04/08 06:00 [pubmed]
+PHST- 2021/12/28 06:00 [medline]
+PHST- 2021/04/07 17:33 [entrez]
+PHST- 2021/04/07 00:00 [pmc-release]
+AID - 6214494 [pii]
+AID - koab103 [pii]
+AID - 10.1093/plcell/koab103 [doi]
+PST - ppublish
+SO  - Plant Cell. 2021 Aug 13;33(7):2340-2359. doi: 10.1093/plcell/koab103.
+
+
+##### PUB RECORD #####
+## 10.1073/pnas.1412716111  25246578  Soyano, Hirakawa et al., 2014  Soyano T, Hirakawa H, Sato S, Hayashi M, Kawaguchi M. Nodule Inception creates a long-distance negative feedback loop involved in homeostatic regulation of nodule organ production. Proc Natl Acad Sci U S A. 2014 Oct 7;111(40):14607-12. doi: 10.1073/pnas.1412716111. Epub 2014 Sep 22. PMID: 25246578; PMCID: PMC4210044. ##
+
+PMID- 25246578
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150430
+LR  - 20211021
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 111
+IP  - 40
+DP  - 2014 Oct 7
+TI  - Nodule Inception creates a long-distance negative feedback loop involved in 
+      homeostatic regulation of nodule organ production.
+PG  - 14607-12
+LID - 10.1073/pnas.1412716111 [doi]
+AB  - Autoregulatory negative-feedback loops play important roles in fine-balancing 
+      tissue and organ development. Such loops are composed of short-range 
+      intercellular signaling pathways via cell-cell communications. On the other hand, 
+      leguminous plants use a long-distance negative-feedback system involving 
+      root-shoot communication to control the number of root nodules, root lateral 
+      organs that harbor symbiotic nitrogen-fixing bacteria known as rhizobia. This 
+      feedback system, known as autoregulation of nodulation (AON), consists of two 
+      long-distance mobile signals: root-derived and shoot-derived signals. Two Lotus 
+      japonicus CLAVATA3/endosperm surrounding region (CLE)-related small peptides, CLE 
+      root signal1 (CLE-RS1) and CLE-RS2, function as root-derived signals and are 
+      perceived by a shoot-acting AON factor, the hypernodulation aberrant root 
+      formation1 (HAR1) receptor protein, an ortholog of Arabidopsis CLAVATA1, which is 
+      responsible for shoot apical meristem homeostasis. This peptide-receptor 
+      interaction is necessary for systemic suppression of nodulation. How the onset of 
+      nodulation activates AON and how optimal nodule numbers are maintained remain 
+      unknown, however. Here we show that an RWP-RK-containing transcription factor, 
+      nodule inception (NIN), which induces nodule-like structures without rhizobial 
+      infection when expressed ectopically, directly targets CLE-RS1 and CLE-RS2. Roots 
+      constitutively expressing NIN systemically repress activation of endogenous NIN 
+      expression in untransformed roots of the same plant in a HAR1-dependent manner, 
+      leading to systemic suppression of nodulation and down-regulation of CLE 
+      expression. Our findings provide, to our knowledge, the first molecular evidence 
+      of a long-distance autoregulatory negative-feedback loop that homeostatically 
+      regulates nodule organ formation.
+FAU - Soyano, Takashi
+AU  - Soyano T
+AD  - National Institute for Basic Biology, Okazaki, Aichi 444-8585, Japan; National 
+      Institute of Agrobiological Sciences, Tsukuba, Ibaraki 305-8602, Japan;
+FAU - Hirakawa, Hideki
+AU  - Hirakawa H
+AD  - Kazusa DNA Research Institute, Kisarazu, Chiba 292-0818, Japan; and.
+FAU - Sato, Shusei
+AU  - Sato S
+AD  - Kazusa DNA Research Institute, Kisarazu, Chiba 292-0818, Japan; and Graduate 
+      School of Life Sciences, Tohoku University, Aoba-ku, Sendai 980-8577, Japan.
+FAU - Hayashi, Makoto
+AU  - Hayashi M
+AD  - National Institute of Agrobiological Sciences, Tsukuba, Ibaraki 305-8602, Japan; 
+      makotoh@affrc.go.jp masayosi@nibb.ac.jp.
+FAU - Kawaguchi, Masayoshi
+AU  - Kawaguchi M
+AD  - National Institute for Basic Biology, Okazaki, Aichi 444-8585, Japan; 
+      makotoh@affrc.go.jp masayosi@nibb.ac.jp.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140922
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Plant Proteins)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+SB  - IM
+MH  - Feedback, Physiological
+MH  - Gene Expression Regulation, Plant
+MH  - Green Fluorescent Proteins/genetics/metabolism
+MH  - Host-Pathogen Interactions
+MH  - Lotus/genetics/microbiology
+MH  - Mutation
+MH  - Plant Proteins/*genetics
+MH  - Plant Root Nodulation/*genetics
+MH  - Plant Roots/genetics/microbiology
+MH  - Plant Shoots/genetics/microbiology
+MH  - Plants, Genetically Modified
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Rhizobium/physiology
+MH  - Root Nodules, Plant/*genetics/microbiology
+MH  - Signal Transduction/*genetics
+MH  - Symbiosis
+PMC - PMC4210044
+COIS- The authors declare no conflict of interest.
+EDAT- 2014/09/24 06:00
+MHDA- 2015/05/01 06:00
+PMCR- 2015/04/07
+CRDT- 2014/09/24 06:00
+PHST- 2014/09/24 06:00 [entrez]
+PHST- 2014/09/24 06:00 [pubmed]
+PHST- 2015/05/01 06:00 [medline]
+PHST- 2015/04/07 00:00 [pmc-release]
+AID - 1412716111 [pii]
+AID - 201412716 [pii]
+AID - 10.1073/pnas.1412716111 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2014 Oct 7;111(40):14607-12. doi: 
+      10.1073/pnas.1412716111. Epub 2014 Sep 22.
+
+
+##### PUB RECORD #####
+## 10.1093/pcp/pcu168  25416287  Soyano, Shimoda et al., 2015  Soyano T, Shimoda Y, Hayashi M. NODULE INCEPTION antagonistically regulates gene expression with nitrate in Lotus japonicus. Plant Cell Physiol. 2015 Feb;56(2):368-76. doi: 10.1093/pcp/pcu168. Epub 2014 Nov 20. PMID: 25416287. ##
+
+PMID- 25416287
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151105
+LR  - 20181202
+IS  - 1471-9053 (Electronic)
+IS  - 0032-0781 (Linking)
+VI  - 56
+IP  - 2
+DP  - 2015 Feb
+TI  - NODULE INCEPTION antagonistically regulates gene expression with nitrate in Lotus 
+      japonicus.
+PG  - 368-76
+LID - 10.1093/pcp/pcu168 [doi]
+AB  - Legumes produce root nodules as symbiotic organs where nitrogen-fixing bacteria 
+      are accommodated. Lotus japonicus NODULE INCEPTION (NIN) is an essential factor 
+      that specifically and positively regulates nodulation processes, and has evolved 
+      from a member of the NIN-like proteins, of which Arabidopsis homologs target 
+      nitrate-responsive elements (NREs), and activate gene expression in response to 
+      nitrate. It is therefore assumed that the NIN-mediated transcriptional network 
+      overlaps with those regulated by NLPs, because of their common DNA-binding RWP-RK 
+      domains. However, nodulation is inhibited in the presence of nitrate, and 
+      involvement of NIN in nitrate responses has remained largely unknown. Here we 
+      determined a consensus of NIN-binding nucleotide sequences (NBSs) by in vitro 
+      experiments, and revealed that the sequence pattern was very similar to those of 
+      NREs. Chromatin immunoprecitiation (ChIP)-PCR analyses showed that NIN targeted 
+      NREs in L. japonicus nitrate-inducible gene promoters, including LjNIR1, LjNRT2.1 
+      and LjNRT2.2. Affinities of NIN binding to the NREs were comparable with that to 
+      NBS-yB1a, an NBS on the symbiotic LjNF-YB1 promoter, indicating that NREs are 
+      potential targets of NIN. However, rhizobial infection did not activate LjNIR1, 
+      LjNRT2.1 and LjNRT2.2. NIN ectopic expression interfered with nitrate-dependent 
+      activation of these genes. Nitrate treatment followed by NIN activation 
+      down-regulated expression of symbiotic NIN target genes. Our results showed that 
+      NIN and nitrate antagonistically regulate expression of genes that are activated 
+      by nitrate and NIN, respectively. We propose that this antagonistic relationship 
+      prevents inappropriate activation of genes in response to nitrate and rhizobial 
+      infection.
+CI  - (c) The Author 2014. Published by Oxford University Press on behalf of Japanese 
+      Society of Plant Physiologists. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Soyano, Takashi
+AU  - Soyano T
+AD  - National Institute of Agrobiological Sciences, Tsukuba, Ibaraki, 305-8602 Japan. 
+      Present address: National Institute for Basic Biology, Okazaki, Aichi, 444-8585 
+      Japan.
+FAU - Shimoda, Yoshikazu
+AU  - Shimoda Y
+AD  - National Institute of Agrobiological Sciences, Tsukuba, Ibaraki, 305-8602 Japan.
+FAU - Hayashi, Makoto
+AU  - Hayashi M
+AD  - National Institute of Agrobiological Sciences, Tsukuba, Ibaraki, 305-8602 Japan. 
+      Present address: RIKEN Center for Sustainable Resource Science, Yokohama, 
+      Kanagawa, 230-0045 Japan. makotoh@affrc.go.jp.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141120
+PL  - Japan
+TA  - Plant Cell Physiol
+JT  - Plant & cell physiology
+JID - 9430925
+RN  - 0 (Nitrates)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Base Sequence
+MH  - Consensus Sequence/genetics
+MH  - Gene Expression Regulation, Plant/*drug effects
+MH  - Genes, Plant
+MH  - Lotus/drug effects/*genetics/microbiology
+MH  - Molecular Sequence Data
+MH  - Nitrates/*pharmacology
+MH  - Plant Proteins/*metabolism
+MH  - Promoter Regions, Genetic
+MH  - Protein Binding/drug effects
+MH  - Rhizobium/drug effects/physiology
+MH  - Transcription, Genetic/drug effects
+OTO - NOTNLM
+OT  - Lotus japonicus
+OT  - NIN-binding nucleotide sequence
+OT  - NIN-like protein
+OT  - NODULE INCEPTION
+OT  - Nitrate
+OT  - Nitrate-responsive element
+OT  - Root nodule symbiosis
+EDAT- 2014/11/25 06:00
+MHDA- 2015/11/06 06:00
+CRDT- 2014/11/23 06:00
+PHST- 2014/11/23 06:00 [entrez]
+PHST- 2014/11/25 06:00 [pubmed]
+PHST- 2015/11/06 06:00 [medline]
+AID - pcu168 [pii]
+AID - 10.1093/pcp/pcu168 [doi]
+PST - ppublish
+SO  - Plant Cell Physiol. 2015 Feb;56(2):368-76. doi: 10.1093/pcp/pcu168. Epub 2014 Nov 
+      20.
+
+
+##### PUB RECORD #####
+## 10.1104/pp.113.233379  24722550  Yoro, Suzaki et al., 2014  Yoro E, Suzaki T, Toyokura K, Miyazawa H, Fukaki H, Kawaguchi M. A Positive Regulator of Nodule Organogenesis, NODULE INCEPTION, Acts as a Negative Regulator of Rhizobial Infection in Lotus japonicus. Plant Physiol. 2014 Jun;165(2):747-758. doi: 10.1104/pp.113.233379. Epub 2014 Apr 10. PMID: 24722550; PMCID: PMC4043699. ##
+
+PMID- 24722550
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211021
+IS  - 1532-2548 (Electronic)
+IS  - 0032-0889 (Print)
+IS  - 0032-0889 (Linking)
+VI  - 165
+IP  - 2
+DP  - 2014 Jun
+TI  - A Positive Regulator of Nodule Organogenesis, NODULE INCEPTION, Acts as a 
+      Negative Regulator of Rhizobial Infection in Lotus japonicus.
+PG  - 747-758
+AB  - Legume-rhizobium symbiosis occurs in specialized root organs called nodules. To 
+      establish the symbiosis, two major genetically controlled events, rhizobial 
+      infection and organogenesis, must occur. For a successful symbiosis, it is 
+      essential that the two phenomena proceed simultaneously in different root 
+      tissues. Although several symbiotic genes have been identified during genetic 
+      screenings of nonsymbiotic mutants, most of the mutants harbor defects in both 
+      infection and organogenesis pathways, leading to experimental difficulty in 
+      investigating the molecular genetic relationships between the pathways. In this 
+      study, we isolated a novel nonnodulation mutant, daphne, in Lotus japonicus that 
+      shows complete loss of nodulation but a dramatically increased numbers of 
+      infection threads. Characterization of the locus responsible for these phenotypes 
+      revealed a chromosomal translocation upstream of NODULE INCEPTION (NIN) in 
+      daphne. Genetic analysis using a known nin mutant revealed that daphne is a novel 
+      nin mutant allele. Although the daphne mutant showed reduced induction of NIN 
+      after rhizobial infection, the spatial expression pattern of NIN in epidermal 
+      cells was broader than that in the wild type. Overexpression of NIN strongly 
+      suppressed hyperinfection in daphne, and daphne phenotypes were partially rescued 
+      by cortical expression of NIN. These observations suggested that the daphne 
+      mutation enhanced the role of NIN in the infection pathway due to a specific loss 
+      of the role of NIN in nodule organogenesis. Based on these results, we provide 
+      evidence that the bifunctional transcription factor NIN negatively regulates 
+      infection but positively regulates nodule organogenesis during the course of the 
+      symbiosis.
+CI  - (c) 2014 American Society of Plant Biologists. All Rights Reserved.
+FAU - Yoro, Emiko
+AU  - Yoro E
+AD  - Division of Symbiotic Systems, National Institute for Basic Biology, Okazaki, 
+      Aichi 444-8585, Japan (E.Y., T.S., M.K.);Department of Basic Biology, School of 
+      Life Science, Graduate University for Advanced Studies, Okazaki, Aichi 444-8585, 
+      Japan (E.Y., T.S., M.K.);Department of Biology, Graduate School of Science, Kobe 
+      University, Kobe 657-8501, Japan (K.T., H.F.); andResearch Faculty of 
+      Agriculture, Hokkaido University, Sapporo 060-8589, Japan (H.M.).
+FAU - Suzaki, Takuya
+AU  - Suzaki T
+AD  - Division of Symbiotic Systems, National Institute for Basic Biology, Okazaki, 
+      Aichi 444-8585, Japan (E.Y., T.S., M.K.);Department of Basic Biology, School of 
+      Life Science, Graduate University for Advanced Studies, Okazaki, Aichi 444-8585, 
+      Japan (E.Y., T.S., M.K.);Department of Biology, Graduate School of Science, Kobe 
+      University, Kobe 657-8501, Japan (K.T., H.F.); andResearch Faculty of 
+      Agriculture, Hokkaido University, Sapporo 060-8589, Japan (H.M.).
+FAU - Toyokura, Koichi
+AU  - Toyokura K
+AD  - Division of Symbiotic Systems, National Institute for Basic Biology, Okazaki, 
+      Aichi 444-8585, Japan (E.Y., T.S., M.K.);Department of Basic Biology, School of 
+      Life Science, Graduate University for Advanced Studies, Okazaki, Aichi 444-8585, 
+      Japan (E.Y., T.S., M.K.);Department of Biology, Graduate School of Science, Kobe 
+      University, Kobe 657-8501, Japan (K.T., H.F.); andResearch Faculty of 
+      Agriculture, Hokkaido University, Sapporo 060-8589, Japan (H.M.).
+FAU - Miyazawa, Hikota
+AU  - Miyazawa H
+AD  - Division of Symbiotic Systems, National Institute for Basic Biology, Okazaki, 
+      Aichi 444-8585, Japan (E.Y., T.S., M.K.);Department of Basic Biology, School of 
+      Life Science, Graduate University for Advanced Studies, Okazaki, Aichi 444-8585, 
+      Japan (E.Y., T.S., M.K.);Department of Biology, Graduate School of Science, Kobe 
+      University, Kobe 657-8501, Japan (K.T., H.F.); andResearch Faculty of 
+      Agriculture, Hokkaido University, Sapporo 060-8589, Japan (H.M.).
+FAU - Fukaki, Hidehiro
+AU  - Fukaki H
+AD  - Division of Symbiotic Systems, National Institute for Basic Biology, Okazaki, 
+      Aichi 444-8585, Japan (E.Y., T.S., M.K.);Department of Basic Biology, School of 
+      Life Science, Graduate University for Advanced Studies, Okazaki, Aichi 444-8585, 
+      Japan (E.Y., T.S., M.K.);Department of Biology, Graduate School of Science, Kobe 
+      University, Kobe 657-8501, Japan (K.T., H.F.); andResearch Faculty of 
+      Agriculture, Hokkaido University, Sapporo 060-8589, Japan (H.M.).
+FAU - Kawaguchi, Masayoshi
+AU  - Kawaguchi M
+AD  - Division of Symbiotic Systems, National Institute for Basic Biology, Okazaki, 
+      Aichi 444-8585, Japan (E.Y., T.S., M.K.);Department of Basic Biology, School of 
+      Life Science, Graduate University for Advanced Studies, Okazaki, Aichi 444-8585, 
+      Japan (E.Y., T.S., M.K.);Department of Biology, Graduate School of Science, Kobe 
+      University, Kobe 657-8501, Japan (K.T., H.F.); andResearch Faculty of 
+      Agriculture, Hokkaido University, Sapporo 060-8589, Japan (H.M.) 
+      masayosi@nibb.ac.jp.
+LA  - eng
+PT  - Journal Article
+DEP - 20140410
+PL  - United States
+TA  - Plant Physiol
+JT  - Plant physiology
+JID - 0401224
+PMC - PMC4043699
+EDAT- 2014/04/12 06:00
+MHDA- 2014/04/12 06:01
+PMCR- 2015/06/01
+CRDT- 2014/04/12 06:00
+PHST- 2014/04/12 06:00 [entrez]
+PHST- 2014/04/12 06:00 [pubmed]
+PHST- 2014/04/12 06:01 [medline]
+PHST- 2015/06/01 00:00 [pmc-release]
+AID - pp.113.233379 [pii]
+AID - 233379 [pii]
+AID - 10.1104/pp.113.233379 [doi]
+PST - ppublish
+SO  - Plant Physiol. 2014 Jun;165(2):747-758. doi: 10.1104/pp.113.233379. Epub 2014 Apr 
+      10.
+
+

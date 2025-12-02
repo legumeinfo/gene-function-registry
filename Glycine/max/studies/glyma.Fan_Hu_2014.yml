@@ -1,4 +1,5 @@
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT2b
 gene_symbol_long: Flowering Time 2b
@@ -29,6 +30,7 @@ references:
     doi: 10.1111/pce.13695
     pmid: 31981430
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT3a
 gene_symbol_long: Flowering Time 3a
@@ -55,6 +57,7 @@ references:
     doi: 10.1111/jipb.13021
     pmid: 33090664
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT3b
 gene_symbol_long: Flowering Time 3b
@@ -81,6 +84,7 @@ references:
     doi: 10.1111/jipb.13021
     pmid: 33090664
 ---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT5b
 gene_symbol_long: Flowering Time 5b

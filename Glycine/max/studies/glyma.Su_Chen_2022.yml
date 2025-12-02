@@ -1,0 +1,32 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFT3b
+gene_symbol_long: Flowering Locus Time 3b
+gene_model_pub_name: Glyma19G28390
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108100
+confidence: 3
+curators:
+  - Ella Townsend
+  - Scott Kalberer
+comments:
+  - GmFT3b expression was induced by photoperiod and circadian rhythm and was
+    more responsive to long-day (LD) conditions, but there were no significant
+    differences in flowering time between the wild-type, the GmFT3b
+    overexpressors, and the ft3b knockouts under natural long-day, short-day, or
+    LD conditions.
+  - GmFT3b acts redundantly in flowering time regulation and may be compensated
+    by other FT homologs in soybean.
+phenotype_synopsis: A flowering time locus, orthologous to Arabidopsis FLOWERING
+  LOCUS T (FT), but apparently redundant with other FT loci in soybean.
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: photoperiodism, flowering
+    entity: GO:0048573
+references:
+  - citation: Su, Chen et al., 2022
+    doi: 10.3390/ijms23052497
+    pmid: 35269637

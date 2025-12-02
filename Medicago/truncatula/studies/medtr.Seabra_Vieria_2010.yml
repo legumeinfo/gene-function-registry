@@ -1,0 +1,50 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtGS2b
+gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE 2 b
+gene_model_pub_name: Medtr2g026360.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g021242
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - MtGS2b transcripts were detected exculsivly in developing seeds and seed pods
+  - MtGS2a has a high degree of homology with MtGS2b
+  - MtGS2b plays a role in seed metabloism
+  - The stronger and specific expression of MtGS2b during seed filling suggests that the enzyme plays a role in seed specific role related to reserve accumulation
+phenotype_synopsis: MtGS2b plays a role in seed metabloism and seed storage
+traits:
+  - entity_name: seed maturation
+    entity: TO:0002661
+  - entity_name: glutamine catabolic process
+    entity: GO:0006543
+references:
+  - citation: Seabra, Vieria et al., 2010
+    doi: 10.1186/1471-2229-10-183
+    pmid: 20723225
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtGS2a
+gene_symbol_long: PLASTID GLUTAMINE SYNTHETASE 2 a
+gene_model_pub_name: Medtr2g026390.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g021255
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtGS2a transcripts were detected in almost all organs of the plant, being generally more highly expressed in leaves, stems and cotyledon
+  - MtGS2a transcripts remain constant from 3-14 DAP but are absent at 20 DAP
+  - MtGS2a has a high degree of homology with MtGS2b
+  - MtGSba plays a role in seed metabloism
+phenotype_synopsis: MtGSa plays a role in seed metabloism
+traits:
+  - entity_name: seed maturation
+    entity: TO:0002661
+  - entity_name: glutamine catabolic process
+    entity: GO:0006543
+references:
+  - citation: Seabra, Vieria et al., 2010
+    doi: 10.1186/1471-2229-10-183
+    pmid: 20723225
