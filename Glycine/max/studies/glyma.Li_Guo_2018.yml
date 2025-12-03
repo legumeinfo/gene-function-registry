@@ -1,13 +1,13 @@
-scientific_name:
+scientific_name: Glycine max
 classical_locus:
 gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+  - GmDW1
+gene_symbol_long: Dwarf 1
+gene_model_pub_name: Glyma.08G163900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G163900
+confidence: 4
 curators:
-  -
+  - Scott Kalberer
 comments:
   -
 phenotype_synopsis:
@@ -15,9 +15,6 @@ traits:
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Li, Guo et al., 2018
+    doi: 10.1007/s00122-017-3044-8
+    pmid: 29550969
