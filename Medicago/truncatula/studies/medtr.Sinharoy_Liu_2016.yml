@@ -17,7 +17,7 @@ comments:
   - MtCBS1 acts downstream of nodulation factor signaling
   - MtCBS1 expression during symbiosis is dependent on Nodule Inception (NIN)
   - MtCBS1 could play a role in the formation of the infection thread cell wall
-phenotype_synopsis: MtCBS1 plays a role in root nodule development, propagation of infection threads, bacterial endocytosis
+phenotype_synopsis: MtCBS1 plays a role in root nodule development, propagation of infection threads and bacterial endocytosis
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
