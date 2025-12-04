@@ -6,29 +6,29 @@
 # When you are done, compare your yml file to the Answer Key provided below.
 ---
 # BLANK TEMPLATE
-scientific_name:
-classical_locus:
-gene_symbols:
+scientific_name: Glycene max
+classical_locus: 
+gene_symbols: GmCIF1
   -
-gene_symbol_long:
-gene_model_pub_name:
+gene_symbol_long: 
+gene_model_pub_name: Glyma.07G237300
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
-  -
+  - Molly Hardacre
 comments:
-  -
+  - 
 phenotype_synopsis:
-traits:
+traits: 
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Albacete, Cantero-Navarro, et. al., 2014
+    doi: 10.1093/jxb/eru448
+    pmid: 25392479
+  - citation: Bagnaresi, Moschella, et. al., 2008
+    doi: 10.1186/1471-2164-9-176
+    pmid: 18416834
 ---
 # ANNOTATED TEMPLATE
 scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
