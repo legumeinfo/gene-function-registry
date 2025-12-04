@@ -5,15 +5,27 @@ gene_symbols:
 gene_symbol_long:  Nodule-Specific PLAT Domain 1
 gene_model_pub_name: Medtr2g103303
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g103303
-confidence:
+confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - MtNPD1 mutants have small, underdeveloped nodules
+  - MtNPD1 is strongly expressed during root nodule development
+  - MtNPD1 is critical for rhizobia maintenance in nodules
+  - MtNPD1 supports the bactierial differentiation into bacteriods in nodules
+  - MtNPD1 mutants had incomplete bacterial differentiation
+  - MtNPD1 could be a modulator of plant immunity during nodulation
+  - MtNPD1 is apart of a group of five nodule-specific PLAT genes
+phenotype_synopsis: MtNPD1 in involved in root nodule development, rhizobia maintenance in nodules and bacterial differentiation in nodules
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: bacteroid-containing symbiosome
+    entity: GO:0043660
 references:
   - citation: Pislariu, Sinharoy et al., 2019
     doi: 10.1104/pp.18.01613
