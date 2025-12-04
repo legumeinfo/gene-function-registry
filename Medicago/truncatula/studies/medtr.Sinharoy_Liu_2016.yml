@@ -9,11 +9,24 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  -
-phenotype_synopsis:
+  - MtCBS1 mutants produced small nodules and were unable to fix nitrogen
+  - MtCBS1 is required for propgation of infection threads
+  - MtCBS1 mutants had fewer infection threads then WT and some formed without rhizobia
+  - MtCBS1 localizes in the infection thread matrix and symbiosome areas
+  - MtCBS1 is critical for bacterial endocytosis
+  - MtCBS1 acts downstream nodulation factor signaling
+  - MtCBS1 expression during symbiosis is dependent on Nodule Inception (NIN)
+  - MtCBS1 could play a role in the formation of the infection thread cell wall
+phenotype_synopsis: MtCBS1 plays a role in root nodule development, propagation of infection threads, bacterial endocytosis
 traits:
-  - entity_name:
-    entity:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: positive regulation of endocytosis
+    entity: GO:0045807
 references:
   - citation: Sinharoy, Liu et al., 2016
     doi: 10.1104/pp.15.01853
