@@ -9,11 +9,36 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  -
-phenotype_synopsis:
+  - The soybean Dwarf 1 mutant (Gmdw1) displayed reduced height and shortened
+    internodes, a phenotype attributed primarily to decreased longitudinal cell
+    length.
+  - Bioactive GAs (GA1 and GA4) were undetectable in the Gmdw1 stem tissue,
+    confirming a deficiency in the GA biosynthesis pathway. The dwarf phenotype
+    could be rescued by exogenous gibberellin (GA3) treatment.
+  - Combining linkage analysis and next-generation sequencing
+    (mapping-by-sequencing) successfully localized the gene GmDW1, which encodes
+    an ent-kaurene synthase (KS), to a 460-kb region on chromosome 8.
+  - GmDW1 encodes for an ent-kaurene synthase (KS) that is involved in the
+    second reaction of gibberellin biosynthesis, converting ent-copalyl
+    diphosphate into ent-kaurene.
+  - The Gmdw1 mutant represents a novel GA biosynthesis-deficient soybean mutant
+    that may be distinguished from other soybean dwarf mutants by the severity
+    of its phenotype and the mechanism of cell length reduction.
+phenotype_synopsis: Soybean Dwarf 1 (GmDW1) encodes for an ent-kaurene synthase
+  involved in the second reaction of gibberellin biosynthesis, converting
+  ent-copalyl diphosphate into ent-kaurene, which ultimately regulates plant
+  height through cell elongation.
 traits:
-  - entity_name:
-    entity:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: plant cell length
+    entity: TO:0020107
+  - entity_name: gibberellin biosynthesis trait
+    entity: TO:0000992
+  - entity_name: ent-kaurene biosynthetic process
+    entity: GO:0033332
 references:
   - citation: Li, Guo et al., 2018
     doi: 10.1007/s00122-017-3044-8
