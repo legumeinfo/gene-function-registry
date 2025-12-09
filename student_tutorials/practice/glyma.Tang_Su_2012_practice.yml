@@ -19,9 +19,9 @@ curators:
 comments:
   - 
 phenotype_synopsis:
-traits: 
+traits: Seed weight
   - entity_name:
-    entity:
+    entity: TO_0000181
 references:
   - citation: Albacete, Cantero-Navarro, et. al., 2014
     doi: 10.1093/jxb/eru448
