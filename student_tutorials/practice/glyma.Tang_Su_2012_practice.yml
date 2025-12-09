@@ -7,21 +7,24 @@
 ---
 # BLANK TEMPLATE
 scientific_name: Glycene max
-classical_locus: 
+classical_locus: N/A
 gene_symbols: GmCIF1
   -
-gene_symbol_long: 
+gene_symbol_long: N/A
 gene_model_pub_name: Glyma.07G237300
-gene_model_full_id:
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G237300 (had some confusion, there was 3?) 
 confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - 
-phenotype_synopsis:
-traits: Seed weight
-  - entity_name:
-    entity: TO_0000181
+  - GmCIF1 specifically inhibits CWI and plays a fundamental role in the post-translational control of extracellular invertase, which results in an impact on seed development and sucrose hydrolysis.
+phenotype_synopsis: GmCIF1 expression affects the process of seed weight through post-translational mechanisms.
+traits: 
+  - entity_name: Seed weight
+    entity: TO_0000181 
+  - entity_name: Invertase activity trait
+    entity: TO_0000311
+What is relation name/relation?
 references:
   - citation: Albacete, Cantero-Navarro, et. al., 2014
     doi: 10.1093/jxb/eru448
