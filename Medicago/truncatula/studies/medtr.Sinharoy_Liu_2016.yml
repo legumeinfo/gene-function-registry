@@ -2,22 +2,31 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtCBS1
-gene_symbol_long: Cystathionine-β-Synthase-like 1
+gene_symbol_long: Cystathionine-β-Synthase-Like 1
 gene_model_pub_name: Medtr6g052300
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g052300
 confidence: 5
 curators:
   - Raegan Nelson
+  - Scott Kalberer
 comments:
-  - MtCBS1 mutants produced small nodules and were unable to fix nitrogen
-  - MtCBS1 is required for propgation of infection threads
-  - MtCBS1 mutants had fewer infection threads then WT and some formed without rhizobia
-  - MtCBS1 localizes in the infection thread matrix and symbiosome areas
-  - MtCBS1 is critical for bacterial endocytosis
-  - MtCBS1 acts downstream of nodulation factor signaling
-  - MtCBS1 expression during symbiosis is dependent on Nodule Inception (NIN)
-  - MtCBS1 could play a role in the formation of the infection thread cell wall
-phenotype_synopsis: MtCBS1 plays a role in root nodule development, propagation of infection threads and bacterial endocytosis
+  - MtCBS1 mutants produced small nodules and were unable to fix nitrogen.
+  - MtCBS1 is required for propagation of infection threads and is critical for
+    bacterial endocytosis.
+  - MtCBS1 mutants had fewer infection threads then Wild Type and some formed
+    without rhizobia.
+  - MtCBS1 expression is localized in the infection thread matrix and symbiosome
+    areas.
+  - MtCBS1 acts downstream of nodulation factor signaling and expression was
+    only observed during the rhizobium symbiosis.
+  - MtCBS1 expression during symbiosis is dependent on the transcription factor
+    Nodule Inception (NIN).
+  - MtCBS1 could play a role in the formation of the infection thread cell wall.
+  - MtCBS1 (Medtr6g052300) encodes a protein containing both a putative
+    membrane-localized domain of unknown function (DUF21) and a
+    cystathionine-β-synthase (CBS) domain.
+phenotype_synopsis: MtCBS1 plays a role in root nodule development, propagation
+  of infection threads, and bacterial endocytosis.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
@@ -27,6 +36,8 @@ traits:
     entity: GO:0009399
   - entity_name: positive regulation of endocytosis
     entity: GO:0045807
+  - entity_name: biological process involved in interaction with symbiont
+    entity: GO:0051702
 references:
   - citation: Sinharoy, Liu et al., 2016
     doi: 10.1104/pp.15.01853
