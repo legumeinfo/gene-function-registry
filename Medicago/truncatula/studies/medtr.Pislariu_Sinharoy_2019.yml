@@ -8,15 +8,19 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g103303
 confidence: 5
 curators:
   - Raegan Nelson
+  - Scott Kalberer
 comments:
-  - MtNPD1 mutants have small, underdeveloped nodules
-  - MtNPD1 is strongly expressed during root nodule development
-  - MtNPD1 is critical for rhizobia maintenance in nodules
-  - MtNPD1 supports the bactierial differentiation into bacteriods in nodules
-  - MtNPD1 mutants had incomplete bacterial differentiation
-  - MtNPD1 could be a modulator of plant immunity during nodulation
-  - MtNPD1 is apart of a group of five nodule-specific PLAT genes
-phenotype_synopsis: MtNPD1 in involved in root nodule development, rhizobia maintenance in nodules and bacterial differentiation in nodules
+  - MtNPD1 [Medicago truncatula Nodule-Specific Polycystin-1, Lipoxygenase,
+    α-toxin (PLAT) Domain] mutants have small and underdeveloped nodules.
+  - MtNPD1 is strongly expressed during root nodule development and followed the
+    invasion path of the symbiont.
+  - MtNPD1 is critical for rhizobia maintenance in nitrogen-fixing nodules.
+  - MtNPD1 supports the bacterial (Sinorhizobium meliloti) complete
+    differentiation into bacteroids in nodules.
+  - MtNPD1 could be a modulator of plant immunity during nodulation.
+  - MtNPD1 is a part of a group of five nodule-specific PLAT domain genes.
+phenotype_synopsis: MtNPD1 in involved in root nodule development, rhizobia
+  maintenance in nodules, and bacterial differentiation in nodules.
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
