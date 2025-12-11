@@ -1,0 +1,36 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNPD1
+gene_symbol_long: Nodule-Specific PLAT Domain 1
+gene_model_pub_name: Medtr2g103303
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g103303
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Scott Kalberer
+comments:
+  - MtNPD1 [Medicago truncatula Nodule-Specific Polycystin-1, Lipoxygenase,
+    α-toxin (PLAT) Domain] mutants have small and underdeveloped nodules.
+  - MtNPD1 is strongly expressed during root nodule development and followed the
+    invasion path of the symbiont.
+  - MtNPD1 is critical for rhizobia maintenance in nitrogen-fixing nodules.
+  - MtNPD1 supports the bacterial (Sinorhizobium meliloti) complete
+    differentiation into bacteroids in nodules.
+  - MtNPD1 could be a modulator of plant immunity during nodulation.
+  - MtNPD1 is a part of a group of five nodule-specific PLAT domain genes.
+phenotype_synopsis: MtNPD1 in involved in root nodule development, rhizobia
+  maintenance in nodules, and bacterial differentiation in nodules.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: bacteroid-containing symbiosome
+    entity: GO:0043660
+references:
+  - citation: Pislariu, Sinharoy et al., 2019
+    doi: 10.1104/pp.18.01613
+    pmid: 31061106
