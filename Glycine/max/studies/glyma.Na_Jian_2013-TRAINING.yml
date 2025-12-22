@@ -1,29 +1,65 @@
 ---
 # BLANK TEMPLATE
-scientific_name:
-classical_locus:
-gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
-curators:
-  -
+scientific_name: Glyecine Max
+gene_symbols: 
+  - GmSOC1
+gene_symbol_long: Supressor of overexpression CO1
+gene_model_pub_name: Glyma18g45780.1
+gene_model_full_id: 
+confidence: 4 
+curators: 
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - GmSOC1 may act as an inducer that participates in the initiation and maintenance of flowering in soybean
+  - 
+phenotype_synopsis: GmSOC1 is a putative soybean ortholog for Arabidopsis that is a supressor of the overexpression of CO1
 traits:
-  - entity_name:
-    entity:
+  - entity_name: days to flowering trait
+    entity: TO_0000344
+  - entity_name: flowering time trait
+    entity: TO_0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO_0000934
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Choi, Kim et al., 2011
+    doi: 10.1105/tpc.110.075911
+    pmid: 21282526
+  - citation: Cseke, Zheng et al., 2003
+    doi: 10.1016/s0378-1119(03)00765-0
+    pmid: 14585498
 ---
+scientific_name: Glyecine Max
+gene_symbols: 
+  - GmSOC1-like
+gene_symbol_long: Supressor of overexpression CO1/Agamous-like 20
+gene_model_pub_name: Glyma09g40230.1
+gene_model_full_id: 
+confidence: 4 
+curators: 
+  - Molly Hardacre
+comments:
+  - GmSOC1-like is an inducer which may participate in the initiation and maintenance of flowering in soybean
+  - GmSOC1-like was induced 4 days earlier than GmSOC1 during flowering transition in SD, suggesting that GmSOC1 and GmSOC1-like expression might be differentially regulated
+  - GmSOC1-like was widely expressed at different levels in most organs of the soybean, with the highest expression in the shoot apex during the early stage of floral transition
+  - GmSOC1-like expression showed a circadian rhythm pattern, with the highest expression at midnight under short-day (SD) condition
+phenotype_synopsis: GmSOC1-like is a putative soybean ortholog for Arabidopsis that is a supressor of the overexpression of CO1/Agamous-like 20
+traits:
+  - entity_name: days to flowering trait
+    entity: TO_0000344
+  - entity_name: flowering time trait
+    entity: TO_0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO_0000934
+  - entity_name: shoot apex
+    entity: PO_0000037
+references:
+  - citation: Choi, Kim et al., 2011
+    doi: 10.1105/tpc.110.075911
+    pmid: 21282526
+  - citation: Cseke, Zheng et al., 2003
+    doi: 10.1016/s0378-1119(03)00765-0
+    pmid: 14585498
+    
 # ANNOTATED TEMPLATE
 scientific_name:  # REQUIRED; the two-word binomial, e.g. Glycine max
 classical_locus:  # Name of locus if available from classical genetic studies. Delete this line if no locus is mentioned.
