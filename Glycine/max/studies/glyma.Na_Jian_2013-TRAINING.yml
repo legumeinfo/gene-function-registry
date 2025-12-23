@@ -5,13 +5,13 @@ gene_symbols:
   - GmSOC1
 gene_symbol_long: Supressor of overexpression CO1
 gene_model_pub_name: Glyma18g45780.1
-gene_model_full_id: 
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g45780
 confidence: 4 
 curators: 
   - Molly Hardacre
 comments:
-  - GmSOC1 may act as an inducer that participates in the initiation and maintenance of flowering in soybean
-  - 
+  - GmSOC1 is an inducer that may participate in the initiation and maintenance of flowering in soybean
+  - The regulatory mechanism of transcription and/or post-transcription for GmSOC1 and GmSOC1-like may be different, which may explain why their expression patterns are distinct 
 phenotype_synopsis: GmSOC1 is a putative soybean ortholog for Arabidopsis that is a supressor of the overexpression of CO1
 traits:
   - entity_name: days to flowering trait
@@ -20,6 +20,8 @@ traits:
     entity: TO_0002616
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO_0000934
+  - entity_name: shoot apex
+    entity: PO_0000037
 references:
   - citation: Choi, Kim et al., 2011
     doi: 10.1105/tpc.110.075911
@@ -33,7 +35,7 @@ gene_symbols:
   - GmSOC1-like
 gene_symbol_long: Supressor of overexpression CO1/Agamous-like 20
 gene_model_pub_name: Glyma09g40230.1
-gene_model_full_id: 
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g40230
 confidence: 4 
 curators: 
   - Molly Hardacre
