@@ -1,25 +1,32 @@
 # BLANK TEMPLATE
 ---
-scientific_name:
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
-curators:
-  -
+  - GmTMT2a
+gene_symbol_long: Gamma-Tocopherol methyltransferase
+gene_model_pub_name: Glyma12g01690
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G014300
+confidence: 4
+curators: 
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - Overexpression of GmTMT2a enhanced atocopherol content 4–6-fold in transgenic Arabidopsis and 3–4.5-fold in transgenic maize seeds, resulting in an a-tocopherol content of up to *90 % of the tocopherols in maize seeds.
+  - No visually detectable phenotypic differences existed between transgenic plants and the wild type, but ELISA showed that the content of GmTMT2a protein was higher in all transgenic Arabidopsis than in the wild type, which generally correlated with the accumulation of mRNA
+  - 
+phenotype_synopsis:  GmTMT2a expression effectively converts gamma-tocopherol into alpa-tocopherol 
 traits:
-  - entity_name:
-    entity:
+  - entity_name: Alpha Tocopherol Measurement
+    entity: NCIT_C103349
+  - entity_name: Gamma Tocopherol Measurement
+    entity: NCIT_C116211
+  - entity_name: Methyltransferase activity
+    entity: GO_0008168
+  - entity_name: Positive regulation of vitamin E biosynthetic process
+    entity: GO_1904966
 references:
-  - citation:
-    doi:
-    pmid:
+  - citation: Zhang, Luo et al., 2012
+    doi: 10.1007/s11248-013-9713-8
+    pmid: 23645501
   - citation:
     doi:
     pmid:
