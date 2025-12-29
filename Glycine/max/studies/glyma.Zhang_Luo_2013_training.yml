@@ -7,7 +7,7 @@ gene_symbol_long: Gamma-Tocopherol methyltransferase
 gene_model_pub_name: Glyma12g01690
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G014300
 confidence: 4
-curators: 
+curators:
   - Molly Hardacre
 comments:
   - Overexpression of GmTMT2a enhanced alpha-tocopherol content 4–6-fold in transgenic Arabidopsis and 3–4.5-fold in transgenic maize seeds
@@ -15,7 +15,7 @@ comments:
   - According to the differential alpha-tocopherol content, there were five varieties (D1, D2, D4, D6, D12) of GmTMT2. D2, D4, and D12, which all had the same sequence, was named GmTMT2a
   - GmTMT2a has the same enzymatic function as AtTMT proteins
   - Transgenic corn that is alpha-tocopherol-rich may be beneficial for animal health and growth
-phenotype_synopsis:  GmTMT2a expression effectively converts gamma-tocopherol into alpa-tocopherol 
+phenotype_synopsis: GmTMT2a expression effectively converts gamma-tocopherol into alpa-tocopherol
 traits:
   - entity_name: Metabolic process
     entity: GO_000815
@@ -27,7 +27,7 @@ traits:
     entity: NCIT_C103349
   - entity_name: Gamma Tocopherol Measurement
     entity: NCIT_C116211
-  
+
 references:
   - citation: Zhang, Luo et al., 2013
     doi: 10.1007/s11248-013-9713-8
