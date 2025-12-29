@@ -17,16 +17,16 @@ comments:
   - Transgenic corn that is alpha-tocopherol-rich may be beneficial for animal health and growth
 phenotype_synopsis:  GmTMT2a expression effectively converts gamma-tocopherol into alpa-tocopherol 
 traits:
-  - entity_name: Alpha Tocopherol Measurement
-    entity: NCIT_C103349
-  - entity_name: Gamma Tocopherol Measurement
-    entity: NCIT_C116211
   - entity_name: Metabolic process
     entity: GO_000815
   - entity_name: Methyltransferase activity
     entity: GO_0008168
   - entity_name: Positive regulation of vitamin E biosynthetic process
     entity: GO_1904966
+  - entity_name: Alpha Tocopherol Measurement
+    entity: NCIT_C103349
+  - entity_name: Gamma Tocopherol Measurement
+    entity: NCIT_C116211
   
 references:
   - citation: Zhang, Luo et al., 2013
