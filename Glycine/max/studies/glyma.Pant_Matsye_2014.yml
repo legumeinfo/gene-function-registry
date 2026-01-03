@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: Syntaxin 31 homolog
 gene_model_pub_name: Glyma14g06610
 gene_model_full_id: glyma.Wm82_ISU01.gnm2.ann1.GmISU01.14G056300
-# most recent I could find was a 2, might need to do further digging
+#most recent I could find was a 2, might need to do further digging
 confidence: 4
 curators:
   - Molly Hardacre
@@ -17,10 +17,10 @@ traits:
     entity: TO_0001111
  - entity_name: nematode damage response trait
     entity: TO_0000384
-  - entity_name: 
-    entity: 
-  - entity_name:
-    entity: 
+  - entity_name: vesicle-mediated transport
+    entity: GO_0016192
+  - entity_name: Golgi vesicle transport
+    entity: GO_0048193
 references:
   - citation: Pant, Matsye et al., 2014
     doi: 10.1007/s11103-014-0172-2
