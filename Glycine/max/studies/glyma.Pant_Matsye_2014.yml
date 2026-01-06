@@ -18,7 +18,7 @@ phenotype_synopsis: Gm-SYP38 supports the ability of Glycine max to defend itsel
 traits:
   - entity_name: Heterodera glycines response
     entity: TO_0001111
- - entity_name: nematode damage response trait
+  - entity_name: nematode damage response trait
     entity: TO_0000384
   - entity_name: vesicle-mediated transport
     entity: GO_0016192
