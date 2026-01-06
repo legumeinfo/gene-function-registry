@@ -35,7 +35,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  -Gm-BIK1-6
+  - Gm-BIK1-6
 gene_symbol_long: BOTRYTIS INDUCED KINASE 1
 gene_model_pub_name: Glyma14g07460
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G068700
