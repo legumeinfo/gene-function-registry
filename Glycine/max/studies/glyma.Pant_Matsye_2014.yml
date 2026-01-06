@@ -5,13 +5,13 @@ gene_symbols:
 gene_symbol_long: Syntaxin 31 homolog
 gene_model_pub_name: Glyma14g06610
 gene_model_full_id: glyma.Wm82_ISU01.gnm2.ann1.GmISU01.14G056300
-#most recent I could find was a 2, might need to do further digging
+# most recent I could find was a 2, might need to do further digging
 confidence: 4
 curators:
   - Molly Hardacre
 comments:
   - The overexpression of Gm-SYP38 rescues the ability of the rhg1−/− G. max in suppressing H. glycines parasitism
-  - In contrast, the analysis of Gm-SYP38 RNAi (that had a total of 64 independent transgenic lines) in roots had decreased its RNA levels by 1.97 fold. Parasitism was increased as compared to controlss
+  - In contrast, the analysis of Gm-SYP38 RNAi (that had a total of 64 independent transgenic lines) in roots had decreased its RNA levels by 1.97 fold. Parasitism was increased as compared to controls
   - The functional tests showed no statistically significant effect on root growth in the overexpressing roots
   - Gm-SYP38 overexpressing roots have elevated levels of Gm-XTH43, EDS1-2, PR1 and NONEXPRESSOR of PR1 RNA
 phenotype_synopsis: Gm-SYP38 supports the ability of Glycine max to defend itself from Heterodera glycine's parasitism
@@ -63,4 +63,3 @@ references:
   - citation: Wang, He et al., 2025
     doi: 10.3390/ijms26052123
     pmid: 40076746
-
