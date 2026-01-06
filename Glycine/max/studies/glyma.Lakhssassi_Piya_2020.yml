@@ -1,0 +1,71 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPR08-Bet VI
+gene_symbol_long: 
+gene_model_pub_name: Glyma.08G230500
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G230500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis: 
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: He, Liu et al., 2025
+    doi: 10.1016/j.xplc.2025.101378
+    pmid: 40394901
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSNAP18
+gene_symbol_long: Soluble NSF attachment protein 18
+gene_model_pub_name: Glyma.18G022500
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.18G022500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: He, Liu et al., 2025
+    doi: 10.1016/j.xplc.2025.101378
+    pmid: 40394901
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSHMT08
+gene_symbol_long:
+gene_model_pub_name: Glyma.08G108900
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G108900
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: He, Liu et al., 2025
+    doi: 10.1016/j.xplc.2025.101378
+    pmid: 40394901
