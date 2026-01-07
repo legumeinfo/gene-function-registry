@@ -21,12 +21,6 @@ traits:
     entity: TO_0012011
   - entity_name: leaf chlorophyll content
     entity: TO_0012002
-  - entity_name: salt response
-    entity: TO_0000429
-  - entity_name: photoperiod sensitivity trait
-    entity: TO_0000229
-  - entity_name: plant stress response trait
-    entity: TO_0000164
 references:
   - citation: Bao, Xu et al., 2025
     doi: 10.3389/fpls.2025.1533592
