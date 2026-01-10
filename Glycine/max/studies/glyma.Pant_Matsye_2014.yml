@@ -50,7 +50,7 @@ phenotype_synopsis: Gm-BIK1-6 overexpression rescues the ability to suppress Het
 traits:
   - entity_name: Heterodera glycines response
     entity: TO_0001111
- - entity_name: nematode damage response trait
+  - entity_name: nematode damage response trait
     entity: TO_0000384
   - entity_name: vesicle-mediated transport
     entity: GO_0016192
