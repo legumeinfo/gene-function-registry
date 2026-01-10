@@ -1,0 +1,73 @@
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - GmCKX3
+gene_symbol_long: Cytokinin oxidase/dehydrogenase 3
+gene_model_pub_name: Glyma.17G054500
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.17G054500
+confidence: 5
+curators: 
+  - Molly Hardacre
+comments:
+  - CKX3/5 double mutant shows a marked increase in flower, ovule, and silique numbers, ultimately leading to a significant increase in seed yield per plant, while the single mutants do not
+phenotype_synopsis: 
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - GmCKX7
+gene_symbol_long: Cytokinin oxidase/dehydrogenase 7
+gene_model_pub_name: Glyma.09G063900
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G063900
+confidence: 5
+curators: 
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - GmCKX14
+gene_symbol_long: Cytokinin oxidase/dehydrogenase 14
+gene_model_pub_name: Glyma.15G170300
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.15G170300
+confidence: 5
+curators: 
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
