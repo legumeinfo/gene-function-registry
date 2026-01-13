@@ -18,9 +18,9 @@ comments:
 phenotype_synopsis: Plants with overexpression of GmMYBLJ accelerates salt and/or darkness induced leaf senescence
 traits:
   - entity_name: leaf senescence rate
-    entity: TO_0012011
+    entity: TO:0012011
   - entity_name: leaf chlorophyll content
-    entity: TO_0012002
+    entity: TO:0012002
 references:
   - citation: Bao, Xu et al., 2025
     doi: 10.3389/fpls.2025.1533592
