@@ -1,4 +1,3 @@
-# BLANK TEMPLATE
 ---
 scientific_name: Glycine max
 gene_symbols:
@@ -10,11 +9,16 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - Overexpression of GmTMT2a enhanced alpha-tocopherol content 4–6-fold in transgenic Arabidopsis and 3–4.5-fold in transgenic maize seeds
-  - No visually detectable phenotypic differences existed between transgenic plants and the wild type
-  - According to the differential alpha-tocopherol content, there were five varieties (D1, D2, D4, D6, D12) of GmTMT2. D2, D4, and D12, which all had the same sequence, was named GmTMT2a
+  - Overexpression of GmTMT2a enhanced alpha-tocopherol content 4–6-fold in
+    transgenic Arabidopsis and 3–4.5-fold in transgenic maize seeds
+  - No visually detectable phenotypic differences existed between transgenic
+    plants and the wild type
+  - According to the differential alpha-tocopherol content, there were five
+    varieties (D1, D2, D4, D6, D12) of GmTMT2. D2, D4, and D12, which all had
+    the same sequence, was named GmTMT2a
   - GmTMT2a has the same enzymatic function as AtTMT proteins
-  - Transgenic corn that is alpha-tocopherol-rich may be beneficial for animal health and growth
+  - Transgenic corn that is alpha-tocopherol-rich may be beneficial for animal
+    health and growth
 phenotype_synopsis: GmTMT2a expression effectively converts gamma-tocopherol into alpa-tocopherol
 traits:
   - entity_name: Metabolic process
@@ -27,7 +31,6 @@ traits:
     entity: NCIT:C103349
   - entity_name: Gamma Tocopherol Measurement
     entity: NCIT:C116211
-
 references:
   - citation: Zhang, Luo et al., 2013
     doi: 10.1007/s11248-013-9713-8
@@ -35,4 +38,5 @@ references:
   - citation: Burgos, Luca, et al., 2020
     doi: 10.1111/tpj.15077
     pmid: 33179365
+
 
