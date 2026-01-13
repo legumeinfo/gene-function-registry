@@ -10,10 +10,19 @@ curators:
   - Molly Hardacre
 comments:
   - GmSERK1, like other SERKs, indicates that it functions as a LRR-RLK
-  - The similarity between GmSERK1 and MtSERK1 in amino acid sequence and protein structure indicates that these two genes are orthologs and may serve similar functions
-  - GmSERK1 plays a role in organ development, as tissue-specific expression in soybean was detected in leaves and immature zygotic embryos at higher levels, but roots, stems, and floral buds exhibited lower expression levels  - Transient expression experiments in onion epidermal cells indicated that the GmSERK1 protein  was located on the plasma membrane
-  - Results provided some indication that GmSERK1 may also take part in disease resistances and defense responses
-phenotype_synopsis: GmSERK1 has important basic functions in somatic embryogenesis, but also exhibits a broader role in various aspects of plant development and function
+  - The similarity between GmSERK1 and MtSERK1 in amino acid sequence and
+    protein structure indicates that these two genes are orthologs and may serve
+    similar functions
+  - GmSERK1 plays a role in organ development, as tissue-specific expression in
+    soybean was detected in leaves and immature zygotic embryos at higher
+    levels, but roots, stems, and floral buds exhibited lower expression
+    levels  - Transient expression experiments in onion epidermal cells
+    indicated that the GmSERK1 protein  was located on the plasma membrane
+  - Results provided some indication that GmSERK1 may also take part in disease
+    resistances and defense responses
+phenotype_synopsis: GmSERK1 has important basic functions in somatic
+  embryogenesis, but also exhibits a broader role in various aspects of plant
+  development and function
 traits:
   - entity_name: somatic embryogenesis
     entity: GO:0010262
