@@ -18,11 +18,11 @@ comments:
 phenotype_synopsis: The synthases SL446 and F1115 on Glyma.02G240400 resulted in high sucrose content
 traits:
   - entity_name: sucrose content
-    entity: TO_0000328
+    entity: TO:0000328
   - entity_name: sucrose synthase activity trait
-    entity: TO_0000699
+    entity: TO:0000699
   - entity_name: sucrose metabolic process
-    entity: GO_0005985
+    entity: GO:0005985
   # last one might be a little loosey goosey, could maybe take it out
 references:
   - citation: Knizia, Anil et al., 2025
