@@ -18,15 +18,15 @@ comments:
 phenotype_synopsis: GmTMT2a expression effectively converts gamma-tocopherol into alpa-tocopherol
 traits:
   - entity_name: Metabolic process
-    entity: GO_000815
+    entity: GO:000815
   - entity_name: Methyltransferase activity
-    entity: GO_0008168
+    entity: GO:0008168
   - entity_name: Positive regulation of vitamin E biosynthetic process
-    entity: GO_1904966
+    entity: GO:1904966
   - entity_name: Alpha Tocopherol Measurement
-    entity: NCIT_C103349
+    entity: NCIT:C103349
   - entity_name: Gamma Tocopherol Measurement
-    entity: NCIT_C116211
+    entity: NCIT:C116211
 
 references:
   - citation: Zhang, Luo et al., 2013
