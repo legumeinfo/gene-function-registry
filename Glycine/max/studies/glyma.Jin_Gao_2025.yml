@@ -1,26 +1,25 @@
 ---
 
-scientific_name:
-classical_locus:
+scientific_name: Glycine max
 gene_symbols:
-  -
-gene_symbol_long:
+  - GmGIF5
+gene_symbol_long: GRF Interacting Factor 5
 gene_model_pub_name:
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
-  -
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - 
+phenotype_synopsis: The overexpression of GmGIF5 contributed to larger leaves, higher plants, wider stems, and larger seeds
 traits:
-  - entity_name:
+  - entity_name: 
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Jin, Gao et al., 2025
+    doi: 10.3390/ijms26020492
+    pmid: 39859208
+  - citation: Liu, Zhang et al., 2020
+    doi: 10.1016/j.molp.2020.03.002
+    pmid: 32171732
 ---
