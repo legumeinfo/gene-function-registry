@@ -1,0 +1,36 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBLJ
+gene_symbol_long: CCA1-like myeloblastosis viral oncogene homolog
+gene_model_pub_name: Glyma.04G051000
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.04G051000
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Transgenic soybean plants overexpressing GmMYBLJ (induced with NaCl
+    treatment or darkness) exhibited quickened senescence
+  - Overexpression of GmMYBLJ led to earlier leaf senescence, reduced
+    chlorophyll content, and increased MDA accumulation
+  - Promoted the expression of several WRKY family transcription factors and
+    senescence-associated genes, such as SAG12 and ORE1
+  - GmMYBLJ is closely related to AtMYBH, with 47% protein identity, suggesting
+    again that GmMYBLJ might be involved in the regulation of leaf senescence
+  - Under normal conditions, the transgenic plants exhibited faster growth and
+    greater height compared to the WT. When subjected to salt stress, transgenic
+    soybean plants exhibited more severe leaf wilting compared to WT
+phenotype_synopsis: Plants with overexpression of GmMYBLJ accelerates salt
+  and/or darkness induced leaf senescence
+traits:
+  - entity_name: leaf senescence rate
+    entity: TO:0012011
+  - entity_name: leaf chlorophyll content
+    entity: TO:0012002
+references:
+  - citation: Bao, Xu et al., 2025
+    doi: 10.3389/fpls.2025.1533592
+    pmid: 39926644
+  - citation: Antonietta, Martinez et al., 2024
+    doi: 10.1093/jxb/erae174
+    pmid: 38635775
