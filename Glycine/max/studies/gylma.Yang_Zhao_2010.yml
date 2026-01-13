@@ -16,11 +16,11 @@ comments:
 phenotype_synopsis: GmSERK1 has important basic functions in somatic embryogenesis, but also exhibits a broader role in various aspects of plant development and function
 traits:
   - entity_name: somatic embryogenesis
-    entity: GO_0010262
+    entity: GO:0010262
   - entity_name: protein localization to plasma membrane
-    entity: GO_0072659
+    entity: GO:0072659
   - entity_name: plant leucine rich repeat receptor-like kinase
-    entity: PR_000036147
+    entity: PR:000036147
 references:
   - citation: Yang, Zhao et al., 2010
     doi: 10.1007/s11105-010-0235-8
