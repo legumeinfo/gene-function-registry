@@ -1,0 +1,24 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMFT
+gene_symbol_long: MOTHER-OF-FT-AND-TFL1
+gene_model_pub_name: Glyma.05G243800
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.05G243800
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Cai, Xian et al., 2023
+    doi: 10.1111/nph.18792
+    pmid: 36740575
+  - citation:
+    doi:
+    pmid:
+---
