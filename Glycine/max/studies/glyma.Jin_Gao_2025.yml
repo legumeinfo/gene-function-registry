@@ -4,13 +4,17 @@ scientific_name: Glycine max
 gene_symbols:
   - GmGIF5
 gene_symbol_long: GRF Interacting Factor 5
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma.10G164100
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.10G164100
 confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - 
+  - GmGIF5 showed high expression levels in the root tip, shoot tip, and seed development stages
+  - The overexpression of GmGIF5 promotes plant cell expansion by regulating cell wall modifications, thereby affecting organ size and increasing biomass accumulation
+  - There are eight identified members of the GmGIF gene family present in the soybean genome. Among them, GmGIF5 exhibits the highest expression levels
+  - After a 45-day cultivation period, the GmGIF5 plants exhibited increases in leaf area, leaf stalk length, wider stems, taller plants, and bigger seeds than the WT
+  - Most of the DEGs associated with cell wall modification processes, which are primarily involved in pectin metabolism, were downregulated in the GmGIF5 plants
 phenotype_synopsis: The overexpression of GmGIF5 contributed to larger leaves, higher plants, wider stems, and larger seeds
 traits:
   - entity_name: 
