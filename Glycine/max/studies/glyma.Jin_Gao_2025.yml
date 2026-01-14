@@ -1,5 +1,4 @@
 ---
-
 scientific_name: Glycine max
 gene_symbols:
   - GmGIF5
@@ -10,15 +9,32 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - GmGIF5 showed high expression levels in the root tip, shoot tip, and seed development stages
-  - The overexpression of GmGIF5 promotes plant cell expansion by regulating cell wall modifications, thereby affecting organ size and increasing biomass accumulation
-  - There are eight identified members of the GmGIF gene family present in the soybean genome. Among them, GmGIF5 exhibits the highest expression levels
-  - After a 45-day cultivation period, the GmGIF5 plants exhibited increases in leaf area, leaf stalk length, wider stems, taller plants, and bigger seeds than the WT
-  - Most of the DEGs associated with cell wall modification processes, which are primarily involved in pectin metabolism, were downregulated in the GmGIF5 plants
-phenotype_synopsis: The overexpression of GmGIF5 contributed to larger leaves, higher plants, wider stems, and larger seeds
+  - GmGIF5 showed high expression levels in the root tip, shoot tip, and seed
+    development stages
+  - The overexpression of GmGIF5 promotes plant cell expansion by regulating
+    cell wall modifications, thereby affecting organ size and increasing biomass
+    accumulation
+  - There are eight identified members of the GmGIF gene family present in the
+    soybean genome. Among them, GmGIF5 exhibits the highest expression levels
+  - After a 45-day cultivation period, the GmGIF5 plants exhibited increases in
+    leaf area, leaf stalk length, wider stems, taller plants, and bigger seeds
+    than the WT
+  - Most of the DEGs associated with cell wall modification processes, which are
+    primarily involved in pectin metabolism, were downregulated in the GmGIF5
+    plants
+phenotype_synopsis: The overexpression of GmGIF5 contributed to larger leaves,
+  higher plants, wider stems, and larger seeds
 traits:
-  - entity_name: 
-    entity:
+  - entity_name: photosynthesis, light harvesting
+    entity: GO:0009765
+  - entity_name: pectin catabolic process
+    entity: GO:0045490
+  - entity_name: cell wall modification
+    entity: GO:0042545
+  - entity_name: iron ion sequestering activity
+    entity: GO:0140315
+  - entity_name: negative regulation of fatty acid oxidation
+    entity: GO:0046322
 references:
   - citation: Jin, Gao et al., 2025
     doi: 10.3390/ijms26020492
@@ -26,4 +42,5 @@ references:
   - citation: Liu, Zhang et al., 2020
     doi: 10.1016/j.molp.2020.03.002
     pmid: 32171732
+
 ---
