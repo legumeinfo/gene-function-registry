@@ -25,16 +25,21 @@ comments:
 phenotype_synopsis: The overexpression of GmGIF5 contributed to larger leaves,
   higher plants, wider stems, and larger seeds
 traits:
-  - entity_name: photosynthesis, light harvesting
-    entity: GO:0009765
+  - entity_name: photosynthetic ability
+    entity: TO:0000316
   - entity_name: pectin catabolic process
     entity: GO:0045490
+  # couldn't find any TO traits related to pectin 
   - entity_name: cell wall modification
     entity: GO:0042545
+  # all TO traits for the cell wall were related to size, length, etc. and less geared towards the actual observation made in this paper of cell wall permeability 
   - entity_name: iron ion sequestering activity
     entity: GO:0140315
+# this one could maybe be iron sensitivity TO:0000224, but it doesn't feel as applicable as the GO trait
   - entity_name: negative regulation of fatty acid oxidation
     entity: GO:0046322
+# could maybe switch over to fatty acid content trait TO:0001170, but is a little more vague than the GO trait
+
 references:
   - citation: Jin, Gao et al., 2025
     doi: 10.3390/ijms26020492
