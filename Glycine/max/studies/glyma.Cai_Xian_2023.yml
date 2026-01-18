@@ -9,13 +9,24 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - While the seed oil and weight were increased by the overexpression of GmMFT and decreased by the disruption of GmMFT, the seed protein content showed the opposite observation. 
-  - GmMFT regulates seeds trait, possibly by modulating the expression SWEETs and FAD2
-  - Although SWEETs, FAD2-1A, and several other FA biosynthesis genes were downregulated in the knockout lines, which is consistent with the observed phenotype, whether these genes are directly regulated by GmMFT is still unclear
-phenotype_synopsis: Increased expression of GmMFT enhanced seeds oil content and weight
+  - While the seed oil and weight were increased by the overexpression of GmMFT
+    and decreased by the disruption of GmMFT, the seed protein content showed
+    the opposite observation.
+  - GmMFT regulates seeds trait, possibly by modulating the expression SWEETs
+    and FAD2
+  - Although SWEETs, FAD2-1A, and several other FA biosynthesis genes were
+    downregulated in the knockout lines, which is consistent with the observed
+    phenotype, whether these genes are directly regulated by GmMFT is still
+    unclear
+phenotype_synopsis: Increased expression of GmMFT enhanced seeds oil content and
+  weight but a decrease in the seed protein content
 traits:
   - entity_name: seed weight
     entity: TO:0000181
+  - entity_name: seed protein content
+    entity: TO:0000490
+  - entity_name: seed oilbody biogenesis
+    entity: GO:0010344
 references:
   - citation: Cai, Xian et al., 2023
     doi: 10.1111/nph.18792
@@ -23,4 +34,6 @@ references:
   - citation: Abelenda, Bergonzi et al., 2019
     doi: 10.1016/j.cub.2019.02.018
     pmid: 30905604
+
 ---
+
