@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: GRF Interacting Factor 5
 gene_model_pub_name: Glyma.10G164100
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.10G164100
-confidence: 5
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
