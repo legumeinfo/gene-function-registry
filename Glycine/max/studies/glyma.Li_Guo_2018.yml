@@ -1,55 +1,47 @@
 scientific_name: Glycine max
-classical_locus:
 gene_symbols:
   - GmDW1
 gene_symbol_long: Dwarf 1
 gene_model_pub_name: Glyma.08G163900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G163900
-confidence: 4
+confidence: 5
 curators:
   - Scott Kalberer
 comments:
   - The soybean Dwarf 1 mutant (Gmdw1), developed from an ethyl methanesulfonate
-    mutagenized population, displayed reduced main stem length and dark green
-    leaves. Gmdw1 plants exhibited shortened internodes; these phenotypes were
-    attributed primarily to decreased longitudinal cell length. Wild type and
-    mutant plants did not differ significantly in terms of total node number or
-    cell width on the main stem.
-  - Genotypes with alles such as Gmdw1-1 (residue 623 substitution of His for
+    mutagenized population, displayed reduced main stem length, dark green
+    leaves, and shortened stem internodes. These phenotypes were attributed
+    primarily to decreased longitudinal cell length. Wild type (WT) and mutant
+    plants didn't differ in terms of total node number or cell width.
+  - Genotypes with alleles such as Gmdw1-1 (residue 623 substitution of His for
     Arg) and Gmdw1-2 (residue 439 substitution of Ile for Val) presented
-    consistent decreases in plant height regardless of genetic background. These
-    results were strong evidence that the Gmdw1 gene causes this dwarf
-    phenotype.
-  - Bioactive endogenous gibberellins (GA1 and GA4), as well as the precursors
-    GA12 and GA19, were undetectable in the Gmdw1 stem tissue by gas
-    chromatography-mass spectometry. These compounds were found in the wild type
-    and confirmed a deficiency in the GA biosynthesis pathway for Gmdw1 plants.
-  - The dwarf phenotype could be rescued by exogenous gibberellin (GA3)
-    treatment that enhanced longitudinal extension of stem cells. Application of
-    the GA biosynthesis inhibitor Uniconazole reduced the shoot length of wild
-    type plants more than the dwarf mutants.
+    decreased plant heights regardless of genetic background.
+  - Bioactive endogenous gibberellins (GA1 and GA4), as well as their precursors
+    GA12 and GA19, were undetectable in Gmdw1 stem tissue. These compounds,
+    found in the WT, confirmed a GA biosynthesis deficiency for Gmdw1 plants.
+  - The dwarf phenotype was rescued by exogenous gibberellin (GA3) treatment
+    that enhanced longitudinal extension of stem cells. Application of the GA
+    biosynthesis inhibitor Uniconazole reduced the shoot length of WT plants
+    more than the dwarf mutants.
   - Combining linkage analysis and next-generation sequencing
-    (mapping-by-sequencing) successfully localized the gene GmDW1 to a 460-kb
-    region on chromosome 8.
-  - GmDW1 encodes for an ent-kaurene synthase (KS) that is involved in the
-    second reaction of gibberellin biosynthesis, converting ent-copalyl
-    diphosphate into ent-kaurene.
-  - GmDW1 was expressed in seedling roots, stems, and leaves with stem tissues
-    showing the highest levels.
+    (mapping-by-sequencing) successfully localized GmDW1 to a 460-kb region on
+    chromosome 8.
+  - GmDW1 encodes an ent-kaurene synthase (KS) involved in the second reaction
+    of GA biosynthesis, converting ent-copalyl diphosphate into ent-kaurene. The
+    834 amino acid protein was predicted to include terpene_cyclase_plant_C1,
+    terpene_synthase_family_metal_binding, and ent-kaurene-16 synthase conserved
+    domains.
+  - GmDW1 was expressed in seedling roots, leaves, and stems which contained the
+    highest levels.
   - Gibberellin biosynthesis pathway genes in young stems such as Copalyl
     pyrophosphate synthase and GA-20 oxidases showed lower transcription lvels
-    for dwarf Gmdw1 than for wild type plants. Decreased expression of
-    GA-response genes in the dwarf mutant was also observed for GID1-alpha and
-    RGA homologs.
-  - GmDW1 encodes a predicted 834 amino acid protein with
-    terpene_cyclase_plant_C1, terpene_synthase_family_metal_binding, and
-    ent-kaurene-16 synthase conserved domains.
+    for dwarf Gmdw1 than for WT plants.
   - The Gmdw1 mutant represents a novel GA biosynthesis-deficient soybean mutant
     that may be distinguished from other soybean dwarf mutants by the severity
     of its phenotype and the mechanism of cell length reduction.
 phenotype_synopsis: Dwarf 1 (GmDW1) encodes for an ent-kaurene synthase involved
   in gibberellin biosynthesis that ultimately regulates plant height through
-  cell elongation.
+  stem cell elongation.
 traits:
   - entity_name: plant height
     entity: TO:0000207
