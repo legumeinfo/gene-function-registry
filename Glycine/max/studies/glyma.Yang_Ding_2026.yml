@@ -10,18 +10,19 @@ confidence: 5
 curators: 
   - Molly Hardacre
 comments:
-  - CKX3/5 double mutant shows a marked increase in flower, ovule, and silique numbers, ultimately leading to a significant increase in seed yield per plant, while the single mutants do not
+  - CKX3 mutant shows a marked increase in flower, ovule, and silique numbers, ultimately leading to a significant increase in seed yield per plant, while the single mutants do not
+  - GmCKX3 likely regulates yield-related traits by enhancing seed capacity  89 and affecting plant architecture
+  - Notably, GmCKX3  86 exhibits exceptionally high expression in the seed coat during embryogenesis, whereas GmCKX7 and GmCKX14 do not, and GmCKX7 is enriched in the petal
 phenotype_synopsis: 
 traits:
-  - entity_name:
-    entity:
+  - entity_name: 
+    entity: 
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Yang, Ding et al., 2026
+    doi: 10.1016/j.xplc.2025.101678
+  - citation: Chen, Zhao et al., 2020
+    doi: 10.1111/pbi.13305
+    pmid: 31782596
 ---
 
 scientific_name: Glycine max
@@ -34,18 +35,18 @@ confidence: 5
 curators: 
   - Molly Hardacre
 comments:
-  -
+  - GmCKX7 and GmCKX14 limit yield improvement through different effect  76 in plant architecture from that of GmCKX3
+  - GmCKX7 and GmCKX14 seem to  90 counterbalance GmCKX3 by influencing traits like branching and height,  91 consequently restricting yield improvement
 phenotype_synopsis:
 traits:
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Yang, Ding et al., 2026
+    doi: 10.1016/j.xplc.2025.101678
+  - citation: Chen, Zhao et al., 2020
+    doi: 10.1111/pbi.13305
+    pmid: 31782596
 ---
 
 scientific_name: Glycine max
@@ -64,10 +65,9 @@ traits:
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Yang, Ding et al., 2026
+    doi: 10.1016/j.xplc.2025.101678
+  - citation: Chen, Zhao et al., 2020
+    doi: 10.1111/pbi.13305
+    pmid: 31782596
 ---
