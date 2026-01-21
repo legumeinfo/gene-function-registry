@@ -9,19 +9,13 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - Soybean mutants with enhanced sugar content can be useful in breeding
-    programs to improve soybean nutritional quality without potential
-    developmental trade-offs
   - A BLAST search revealed the phylogenetic tree which classified the sucrose
     synthase genes into three groups I, II, and III, the three groups contain
     monocots and dicots suggesting that most gene duplication events that gave
     rise to sucrose synthase gene groups happened before the monocot/dicot
     divergence
-  - SL446 (R582W) and F1115 (G249E) on Glyma.02G240400, have high sucrose
-    contents of 9.5% and 9.1%, respectively
-  - Mutants are performing well in the field and have healthy leaves, branches,
-    and pods suggesting that the confirmed mutations resulting in a sucrose
-    content increase have not altered the plants’ agronomic performance
+  - Identified mutants SL446 (R582W) and F1115 (G249E) on Glyma.02G240400, have high sucrose
+    contents of 9.5% and 9.1%, respectively compared to the WT
 phenotype_synopsis: The synthases SL446 and F1115 on Glyma.02G240400 resulted in high sucrose content
 traits:
   - entity_name: sucrose content
@@ -50,7 +44,7 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - F61(R371K) and F674 (P373S) have increased the sucrose content that reached
+  - Identified mutants F61(R371K) and F674 (P373S) have increased the sucrose content that reached
     8.3% and 7.5%, respectively compared to the wild type
 phenotype_synopsis: The synthases F61 and F674 on Glyma.09G167000 resulted in high sucrose content
 traits:
@@ -82,8 +76,8 @@ curators:
 comments:
   - Two mutations on the sucrose synthase gene Glyma.09G073600 were confirmed
   - The F1120 (G486) mutant has shown an increased sucrose content that reached
-    7%
-  - The F627 (P112L) had shown an increased sucrose content of 7.1%
+    7% compared to that of the WT
+  - The F627 (P112L) mutant had shown an increased sucrose content of 7.1% compared to that of the WT
 phenotype_synopsis: The synthases F1120 and F627 on Glyma.09G073600 resulted in high sucrose content
 traits:
   - entity_name: sucrose content
