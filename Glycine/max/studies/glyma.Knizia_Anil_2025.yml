@@ -22,8 +22,7 @@ comments:
   - Mutants are performing well in the field and have healthy leaves, branches,
     and pods suggesting that the confirmed mutations resulting in a sucrose
     content increase have not altered the plants’ agronomic performance
-phenotype_synopsis: The synthases SL446 and F1115 on Glyma.02G240400 resulted in
-  high sucrose content
+phenotype_synopsis: The synthases SL446 and F1115 on Glyma.02G240400 resulted in high sucrose content
 traits:
   - entity_name: sucrose content
     entity: TO:0000328
@@ -85,8 +84,7 @@ comments:
   - The F1120 (G486) mutant has shown an increased sucrose content that reached
     7%
   - The F627 (P112L) had shown an increased sucrose content of 7.1%
-phenotype_synopsis: The synthases F1120 and F627 on Glyma.09G073600 resulted in
-  high sucrose content
+phenotype_synopsis: The synthases F1120 and F627 on Glyma.09G073600 resulted in high sucrose content
 traits:
   - entity_name: sucrose content
     entity: TO:0000328
