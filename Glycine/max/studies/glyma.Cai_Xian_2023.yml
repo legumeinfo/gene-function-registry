@@ -18,8 +18,7 @@ comments:
     downregulated in the knockout lines, which is consistent with the observed
     phenotype, whether these genes are directly regulated by GmMFT is still
     unclear
-phenotype_synopsis: Increased expression of GmMFT enhanced seeds oil content and
-  weight but a decrease in the seed protein content
+phenotype_synopsis: Increased expression of GmMFT enhanced seeds oil content and weight but a decrease in the seed protein content
 traits:
   - entity_name: seed weight
     entity: TO:0000181
