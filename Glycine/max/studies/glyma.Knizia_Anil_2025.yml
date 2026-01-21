@@ -1,0 +1,96 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSS1
+gene_symbol_long: Sucrose synthase 1
+gene_model_pub_name: Glyma.02G240400
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.02G240400
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - A BLAST search revealed the phylogenetic tree which classified the sucrose
+    synthase genes into three groups I, II, and III, the three groups contain
+    monocots and dicots suggesting that most gene duplication events that gave
+    rise to sucrose synthase gene groups happened before the monocot/dicot
+    divergence
+  - Identified mutants SL446 (R582W) and F1115 (G249E) on Glyma.02G240400, have high sucrose
+    contents of 9.5% and 9.1%, respectively compared to the WT
+phenotype_synopsis: The synthases SL446 and F1115 on Glyma.02G240400 resulted in high sucrose content
+traits:
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - entity_name: sucrose synthase activity trait
+    entity: TO:0000699
+references:
+  - citation: Knizia, Anil et al., 2025
+    doi: 10.3389/fpls.2025.1606321
+    pmid: 40636009
+  - citation: Arunraj, Skori et al., 2020
+    doi: 10.1080/15592324.2019.1709707
+    pmid: 31906799
+  - citation: Zhu, Wang et al., 2017
+    doi: 10.3390/genes8040111
+    pmid: 28350372
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSS4
+gene_symbol_long: Sucrose synthase 4
+gene_model_pub_name: Glyma.09G167000
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G167000
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Identified mutants F61(R371K) and F674 (P373S) have increased the sucrose content that reached
+    8.3% and 7.5%, respectively compared to the wild type
+phenotype_synopsis: The synthases F61 and F674 on Glyma.09G167000 resulted in high sucrose content
+traits:
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - entity_name: sucrose synthase activity trait
+    entity: TO:0000699
+references:
+  - citation: Knizia, Anil et al., 2025
+    doi: 10.3389/fpls.2025.1606321
+    pmid: 40636009
+  - citation: Arunraj, Skori et al., 2020
+    doi: 10.1080/15592324.2019.1709707
+    pmid: 31906799
+  - citation: Zhu, Wang et al., 2017
+    doi: 10.3390/genes8040111
+    pmid: 28350372
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSS3
+gene_symbol_long: Sucrose synthase 3
+gene_model_pub_name: Glyma.09G073600
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G073600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Two mutations on the sucrose synthase gene Glyma.09G073600 were confirmed
+  - The F1120 (G486) mutant has shown an increased sucrose content that reached
+    7% compared to that of the WT
+  - The F627 (P112L) mutant had shown an increased sucrose content of 7.1% compared to that of the WT
+phenotype_synopsis: The synthases F1120 and F627 on Glyma.09G073600 resulted in high sucrose content
+traits:
+  - entity_name: sucrose content
+    entity: TO:0000328
+  - entity_name: sucrose synthase activity trait
+    entity: TO:0000699
+references:
+  - citation: Knizia, Anil et al., 2025
+    doi: 10.3389/fpls.2025.1606321
+    pmid: 40636009
+  - citation: Arunraj, Skori et al., 2020
+    doi: 10.1080/15592324.2019.1709707
+    pmid: 31906799
+  - citation: Zhu, Wang et al., 2017
+    doi: 10.3390/genes8040111
+    pmid: 28350372
