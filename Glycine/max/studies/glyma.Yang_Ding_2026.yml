@@ -15,8 +15,13 @@ comments:
   - Notably, GmCKX3  86 exhibits exceptionally high expression in the seed coat during embryogenesis, whereas GmCKX7 and GmCKX14 do not, and GmCKX7 is enriched in the petal
 phenotype_synopsis: 
 traits:
+  - entity_name: pod number trait
+    entity: TO_0001125
+  - entity_name: relative yield
+    entity: TO_0000153
   - entity_name: 
     entity: 
+    
 references:
   - citation: Yang, Ding et al., 2026
     doi: 10.1016/j.xplc.2025.101678
@@ -39,8 +44,12 @@ comments:
   - GmCKX7 and GmCKX14 seem to  90 counterbalance GmCKX3 by influencing traits like branching and height,  91 consequently restricting yield improvement
 phenotype_synopsis:
 traits:
-  - entity_name:
-    entity:
+  - entity_name: pod number trait
+    entity: TO_0001125
+  - entity_name: relative yield
+    entity: TO_0000153
+  - entity_name: 
+    entity: 
 references:
   - citation: Yang, Ding et al., 2026
     doi: 10.1016/j.xplc.2025.101678
@@ -62,8 +71,14 @@ comments:
   -
 phenotype_synopsis:
 traits:
-  - entity_name:
-    entity:
+  - entity_name: pod number trait
+    entity: TO_0001125
+  - entity_name: relative yield
+    entity: TO_0000153
+  - entity_name: plant height
+    entity: TO_0000207
+  - entity_name: plant height
+    entity: TO_0000207
 references:
   - citation: Yang, Ding et al., 2026
     doi: 10.1016/j.xplc.2025.101678
