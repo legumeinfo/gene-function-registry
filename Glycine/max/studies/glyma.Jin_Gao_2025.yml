@@ -29,9 +29,9 @@ comments:
   - Gene expression that positively enhances photosynthesis, and ultimately
     biomass accumulation, was upregulated by GmGIF5 overexpression. Increased
     transcription of genes connected to intracellular sequestering of iron ions
-    and the negative regulation of fatty acid oxidation was observed.
+    and the negative regulation of fatty acid oxidation were observed.
 phenotype_synopsis: The overexpression of GmGIF5 contributed to larger leaves,
-  higher plants, wider stems, and larger seeds, as well as gene expression
+  taller plants, wider stems, and larger seeds, as well as gene expression
   related to cell wall modification and photosynthesis.
 traits:
   - entity_name: plant height
