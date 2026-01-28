@@ -68,7 +68,7 @@ gene_symbols:
   - GmDGAT2D
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D
 gene_model_pub_name: Glyma01g36010
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma01g36010
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01g36010
 confidence: 3
 curators:
   - William Hardison
