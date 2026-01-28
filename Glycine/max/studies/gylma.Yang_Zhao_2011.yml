@@ -16,7 +16,8 @@ comments:
   - GmSERK1 plays a role in organ development, as tissue-specific expression in
     soybean was detected in leaves and immature zygotic embryos at higher
     levels, but roots, stems, and floral buds exhibited lower expression
-    levels  - Transient expression experiments in onion epidermal cells
+    levels  
+  - Transient expression experiments in onion epidermal cells
     indicated that the GmSERK1 protein  was located on the plasma membrane
   - Results provided some indication that GmSERK1 may also take part in disease
     resistances and defense responses
@@ -28,8 +29,10 @@ traits:
     entity: GO:0010262
   - entity_name: protein localization to plasma membrane
     entity: GO:0072659
-  - entity_name: plant leucine rich repeat receptor-like kinase
-    entity: PR:000036147
+  - entity_name: plant embryo development trait
+    entity: TO:0000620
+  - entity_name: plant stress response trait
+    entity: TO:0000164
 references:
   - citation: Yang, Zhao et al., 2011
     doi: 10.1007/s11105-010-0235-8
