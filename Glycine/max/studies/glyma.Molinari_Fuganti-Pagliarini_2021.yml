@@ -180,7 +180,7 @@ curators:
 comments:
   - Overexpression of GmFDL19 causes early flowering
   - GmFDL19 is required for GmFT2a- and GmFT5a-regulated flowering system
-  - GmFT2a promotes early flowering through both transcriptional upregulation of and physical interaction with GmFDL19 while GmFT5a only promotes flowering through physical interaction with the protien
+  - GmFT2a promotes early flowering through both transcriptional upregulation of and physical interaction with GmFDL19 while GmFT5a only promotes flowering through physical interaction with the protein
 phenotype_synopsis: GmFDL19 promotes flowering in soybeans
 traits:
   - entity_name: Flowering time trait

@@ -16,7 +16,7 @@ comments:
   - fine mapping of the cqSeed protein-003 shows that it is found between BARCSOYSSR_20_0670 and BARCSOYSSR_20_0674
 phenotype_synopsis: Glyma.20g085100 regulates seed protein content by being coincident with the causative polymorphism in cqSeed protein-003
 traits:
-  - entity_name: seed protien content
+  - entity_name: seed protein content
     entity: TO:0000490
 references:
   - citation: Fliege, Ward et al.,2022

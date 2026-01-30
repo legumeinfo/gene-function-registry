@@ -3,7 +3,7 @@ scientific_name: Glycine max
 classical_locus: E1
 gene_symbols:
   - GmE1
-gene_symbol_long: Flower Repressor 1
+gene_symbol_long: Earliness 1
 gene_model_pub_name: Glyma06g23040
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G207800
 confidence: 5
@@ -20,7 +20,21 @@ phenotype_synopsis: E1 transcripts negativly regulates the expression of GmFT2a 
 traits:
   - entity_name: Flowering Time trait
     entity: TO:0002616
+  - entity_name: days to maturity
+    entity: TO:0000469
 references:
   - citation: Xia, Watanabe et al., 2012
     doi: 10.1073/pnas.1117982109
     pmid: 22619331
+  - citation: Xia, Zhai et al., 2012
+    doi: 10.3389/fpls.2021.632754
+    pmid: 33995435
+  - citation: Watanabe, Xia et al., 2011
+    doi: 10.1534/genetics.110.125062
+    pmid: 21406680
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
