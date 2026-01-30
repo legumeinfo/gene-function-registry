@@ -1,0 +1,33 @@
+## gene_model_full_id:
+ arahy.Tifrunner.gnm2.ann2.Ah13g064900
+ arahy.Tifrunner.gnm2.ann2.Ah08g309800
+ arahy.Tifrunner.gnm2.ann2.Ah16g512200
+ arahy.Tifrunner.gnm2.ann1.W8TDEC
+## entity_name
+ anthocyanidin reductase activity
+ anthocyanin content
+ brassinosteroid mediated signaling pathway
+ fat and essential oil content
+ fruit size
+ legume fruit weight
+ linoleic acid content
+ oleic acid content
+ palmitic acid content
+ plant width
+ proanthocyanidin biosynthetic process
+ seed coat color
+ seed size
+ seed weight
+ shoot branching
+## doi
+ 10.1007/s00122-025-04903-1
+ 10.1016/j.molp.2019.03.005
+ 10.1038/s41588-024-01660-7
+ 10.1111/pbi.13311
+ 10.7717/peerj.12965
+## pmid
+ 30902685
+ 31808273
+ 35251782
+ 38378864
+ 40358622
