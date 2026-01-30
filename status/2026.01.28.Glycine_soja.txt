@@ -1,0 +1,11 @@
+## gene_model_full_id:
+ glyso.PI483463.gnm1.ann1.GlysoPI483463.11G164100
+ glyso.PI483463.gnm1.ann1.GlysoPI483463.03G135400
+## entity_name
+ salt tolerance
+## doi
+ 10.1111/pbi.13536
+ 10.1038/ncomms5340
+## pmid
+ 33368860
+ 25004933

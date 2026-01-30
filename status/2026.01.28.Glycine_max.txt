@@ -208,7 +208,7 @@
  Positive regulation of vitamin E biosynthetic process
  Regulation of anthocyanin metabolic process
  Seed coat color
- Seed protien content
+ Seed protein content
  Stem node number
  Transcription factor binding
  abiotic plant stress trait
@@ -330,7 +330,6 @@
  seed oil content
  seed oilbody biogenesis
  seed protein content
- seed protien content
  seed size
  seed weight
  shoot branching
