@@ -4,7 +4,7 @@ gene_symbols:
   - GmMIPS1
 gene_symbol_long: d-myo-inositol 3-phosphate synthase gene 1
 gene_model_pub_name: DQ323904
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G238800.1
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G238800
 confidence: 5
 curators:
   - Raegan Nelson
