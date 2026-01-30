@@ -1,0 +1,44 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSERK1
+gene_symbol_long: Somatic Embryogenesis Receptor Kinase 1
+gene_model_pub_name: Glyma.10G218800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G218800.1
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmSERK1, like other SERKs, indicates that it functions as a LRR-RLK
+  - The similarity between GmSERK1 and MtSERK1 in amino acid sequence and
+    protein structure indicates that these two genes are orthologs and may serve
+    similar functions
+  - GmSERK1 plays a role in organ development, as tissue-specific expression in
+    soybean was detected in leaves and immature zygotic embryos at higher
+    levels, but roots, stems, and floral buds exhibited lower expression
+    levels
+  - Transient expression experiments in onion epidermal cells
+    indicated that the GmSERK1 protein  was located on the plasma membrane
+  - Results provided some indication that GmSERK1 may also take part in disease
+    resistances and defense responses
+phenotype_synopsis: GmSERK1 has important basic functions in somatic
+  embryogenesis, but also exhibits a broader role in various aspects of plant
+  development and function
+traits:
+  - entity_name: somatic embryogenesis
+    entity: GO:0010262
+  - entity_name: protein localization to plasma membrane
+    entity: GO:0072659
+  - entity_name: plant embryo development trait
+    entity: TO:0000620
+  - entity_name: plant stress response trait
+    entity: TO:0000164
+references:
+  - citation: Yang, Zhao et al., 2011
+    doi: 10.1007/s11105-010-0235-8
+  - citation: Porras-Murillo, Andrade-Torres et al., 2018
+    doi: 10.1007/s13205-018-1492-8
+    pmid: 30456004
+  - citation: Zhou, Wang et al., 2022
+    doi: 10.1515/biol-2022-0490
+    pmid: 36249531

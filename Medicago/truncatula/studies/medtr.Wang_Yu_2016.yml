@@ -1,0 +1,54 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNAD1
+gene_symbol_long: Nodules With Activated Defense 1
+gene_model_pub_name: KX034079
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0222521
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Scott Kalberer
+comments:
+  - MtNAD1 encodes a small uncharacterized protein with two predicted
+    transmembrane helices localized to the endoplasmic reticulum (ER).
+  - MtNAD1 is required for root nodule development and symbiotic nitrogen
+    fixation.
+  - MtNAD1 is required for rhizobial colonization in root nodules.
+  - MtNAD1 isn't required for the early symbiosis stage of rhizobial propagation
+    via infection threads and nodule primordium formation.
+  - For Mtnad1 mutant plants the symbiotic root tissues become necrotic
+    following release of rhizobia from infection threads into nodule host cells.
+    Defense-associated responses detected in Mtnad1 nodules resembled the
+    pathogen-triggered hypersensitive response and resulted in death of both
+    plant and rhizobial cells.
+  - Expression of the plant defense-related genes shifted from suppression in
+    the MtNAD1 wild-type to an activated state in Mtnad1 nodules. In particular,
+    there was greater transcription of R proteins that recognize and bind
+    specific effectors on rhizobia and induce programmed cell death.
+  - MtNAD1 is somehow associated with supression of the plant immune system
+    during nodulation.
+  - MtNAD1 could be involved in ER stress signaling linked to plant immune
+    responses that cause subsequent defects in endosymbiosis. Alternatively,
+    MtNAD1 might function within the ER secretory pathway that maintains the
+    rhizobial endosymbiosis and its failure would then result in plant defensive
+    reactions.
+phenotype_synopsis: MtNAD1 plays a role in root nodule development and rhizobial
+  colonization in root nodules.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogen content
+    entity: TO:0020093
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: plant-type hypersensitive response
+    entity: GO:0009626
+references:
+  - citation: Wang, Yu et al., 2016
+    doi: 10.1111/nph.14017
+    pmid: 27245091

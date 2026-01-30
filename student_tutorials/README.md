@@ -9,18 +9,17 @@
 ### Practice Material
 - Within the [practice](./practice) folder is a [reference to a scientific paper](https://academic.oup.com/jxb/article/68/3/469/2645555) and an example curatation document. 
 
-### General SoyBase / LegumeInfo curation information
+### General curation information
 <details>
-
 - We use a "Genus species" code for curation. We use the first three letters of the <b>gen</b>us and the first two letters of the <b>sp</b>ecies (Example: <i>Glycine max</i> == glyma)
 - Advanced gene function curation protocol can be found [here](https://github.com/legumeinfo/datastore-specifications/tree/main/PROTOCOLS/gene_functions)
 
 </details>
 
 ### Selecting and accessing research papers
-1. The manuscript should be selected from the Google Docs [tracking spreadsheet](https://docs.google.com/spreadsheets/d/1hjBq1RSRtmjMVbzEEuKSQ1ArI8ydmVFBBkiA9ymWDrg/edit?usp=sharing), and then note in the spreadsheet the status
+1. The manuscript should be selected from the Google Docs [tracking sheet](href="https://docs.google.com/spreadsheets/d/1hjBq1RSRtmjMVbzEEuKSQ1ArI8ydmVFBBkiA9ymWDrg/edit?usp=sharing) and then note in the spreadsheet the status
     - Curator will note "WIP_Name" in the column called "doc status" (example: WIP_Steven)
-2. Using the Title, Author and Year or DOI a curator can find the research paper using any of these sites:
+4. Using the Title, Author and Year or DOI a curator can find the research paper using any of these sites:
     - [Google Scholar](https://scholar.google.com/)
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
     - [PubAg / USDA National Ag Library](https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN&search_scope=pubag&tab=pubag)
@@ -31,9 +30,10 @@
 2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
 3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and remain the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)
+</details>
 
-
-### Branch management with Git and GitHub
+### Branch management using Git on the terminal
+<details>
 - To start a brand new branch on your own computer first start within the correct directory.  Within the terminal use the command "git checkout -b gensp.Author_Author_YEAR" or "git branch (new_branch_name)" followed by "git switch (new_branch_name)".
 
 - To create a new branch on your local device that tracks a branch already present at https://github.com/legumeinfo/gene-function-registry, use the command "git checkout --track origin/(remote_branch_name)" in the terminal.
@@ -57,10 +57,9 @@
 - The record of "commits" and other changes within your git repository may be seen using "git log".  The command "git branch" allows you to see all the possible branches available in the directory and "git branch -a" shows the tracking branches at GitHub.  Shift from one branch to another using "git switch (different_branch_name)"
 
 - The “git push” command then takes the updates in local “.git”, which have been staged ready for the push by “git-commit”, and pushes (uploads) the staged files to a remote repository at github.com.  Requires a sign-in or permission to access and use “git-push” in the command line without specifying the files.
+</details>
 
 
-#### Challenges you may encounter while curatoring a paper
-- 
 
 ### How to find ontology terms
 - Head to the website "https://www.ebi.ac.uk/ols4" and search in the field under "Welcome to the EMBL-EBI Ontology Lookup Service".  Use keywords and likley trait names to search for ontology terms within their records and travel along the branches of the ontology trees to compare and contrast options.
@@ -69,10 +68,6 @@
 
 - There are ontologies specific to certain organisms that may also be included such as the Soybean Trait Ontology (SOY) "https://amigo.soybase.org/amigo/amigo/term/SOY:0000099" and the variety of Crop Ontologies (CO) "https://cropontology.org".
 
-
-#### Finding a GO, TO, PO term
-
-#### Finding a Soy Ontology term
 
 #### How do determine the 'Confindence Value'
 <details>
