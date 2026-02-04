@@ -1,5 +1,4 @@
 ---
-
 scientific_name: Glycine max
 gene_symbols:
   - GmVTE2-2
@@ -10,9 +9,14 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - There's a structual homology between Glyma.02G168000 and CsPT04, as they are more similar than even CsPT04 is to CsPT01
-  - The structural similarity of Glyma.02G168000 to CsPT04 most likely enabled the successful prenylation/acceptance of the target substrates of GPP and OA, culminating in the production of cannabigerolic acid (CBGA) and cannabigerol (CBG)
-  - After growing the yeast cells, a purified microsomal fraction was harvested, which was rich in the membrane-bound prenyltransferase Glyma.02G168000
+  - There's a structual homology between Glyma.02G168000 and CsPT04, as they are
+    more similar than even CsPT04 is to CsPT01
+  - The structural similarity of Glyma.02G168000 to CsPT04 most likely enabled
+    the successful prenylation/acceptance of the target substrates of GPP and
+    OA, culminating in the production of cannabigerolic acid (CBGA) and
+    cannabigerol (CBG)
+  - After growing yeast cells, a purified microsomal fraction was harvested,
+    which was rich in the membrane-bound prenyltransferase Glyma.02G168000
 phenotype_synopsis: Glyma.02G168000 has been established towards the production of cannabinoids.
 traits:
   - entity_name: prenyltransferase activity
@@ -31,4 +35,5 @@ references:
   - citation: Akashi, Sasaki et al., 2009
     doi: 10.1104/pp.108.123679
     pmid: 19091879
+
 ---
