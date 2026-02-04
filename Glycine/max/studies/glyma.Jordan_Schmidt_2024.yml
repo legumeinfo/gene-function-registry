@@ -10,15 +10,17 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - There's a structual homology between GlyMa_02G168000 and CsPT04, as they are more similar than even CsPT04 is to CsPT01
-  - 
-  - The structural similarity of GlyMa_02G168000 to CsPT04 most likely enabled the successful prenylation/acceptance of the target substrates of GPP and OA, culminating in the production of cannabigerolic acid (CBGA) and cannabigerol (CBG)
-phenotype_synopsis: GlyMa_02G168000 has been established towards the production of cannabinoids.
+  - There's a structual homology between Glyma.02G168000 and CsPT04, as they are more similar than even CsPT04 is to CsPT01
+  - The structural similarity of Glyma.02G168000 to CsPT04 most likely enabled the successful prenylation/acceptance of the target substrates of GPP and OA, culminating in the production of cannabigerolic acid (CBGA) and cannabigerol (CBG)
+  - After growing the yeast cells, a purified microsomal fraction was harvested, which was rich in the membrane-bound prenyltransferase Glyma.02G168000
+phenotype_synopsis: Glyma.02G168000 has been established towards the production of cannabinoids.
 traits:
   - entity_name: prenyltransferase activity
     entity: GO:0004659
   - entity_name: cannabinoid receptor activity
     entity: GO:0004949
+  - entity_name: homogentisate solanesyltransferase activity
+    entity: GO:0010357
 references:
   - citation: Jordan, Schmidt et al., 2024
     doi: 10.1016/j.bbrc.2024.149471
