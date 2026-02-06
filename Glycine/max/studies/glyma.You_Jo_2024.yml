@@ -1,0 +1,25 @@
+---
+scientific_name: Glycine max
+classical_locus:
+gene_symbols:
+  -
+gene_symbol_long: Soybean flavonoid 3′-hydroxylase
+gene_model_pub_name: Glyma.06G202300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G202300
+confidence:
+curators:
+  - Scott Kalberer
+comments:
+  - Candidate gene Glyma.06G202300 encodes a flavonoid 3′-hydroxylase (F3′H) that is important for biosynthesis of anthocyanins.
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation: You, Jo et al., 2024
+    doi: 10.1007/s00122-024-04693-y
+    pmid: 39134894
+    
