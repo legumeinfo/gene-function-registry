@@ -1,0 +1,26 @@
+---
+
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhTPS9
+gene_symbol_long: 
+gene_model_pub_name: Arahy.1XW75L
+gene_model_full_id: 
+# having a hard time finding the full id on legume information system, trying to find it on a different software
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhong, He et al., 2024
+    doi: 10.3389/fpls.2023.1343402
+    pmid: PMC10834750
+  - citation: 
+    doi:
+    pmid: 
+---
