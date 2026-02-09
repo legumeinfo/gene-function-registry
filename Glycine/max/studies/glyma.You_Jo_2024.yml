@@ -1,24 +1,41 @@
 ---
 scientific_name: Glycine max
-classical_locus:
 gene_symbols:
-  -
+  - GmF3H
 gene_symbol_long: Soybean flavonoid 3′-hydroxylase
 gene_model_pub_name: Glyma.06G202300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G202300
-confidence:
+confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  - Candidate gene Glyma.06G202300 encodes a flavonoid 3′-hydroxylase (F3′H) that is important for biosynthesis of anthocyanins.
+  - Canopy leaf pigmentation changes (CLPC), manifested as unusual
+    reddish-purple pigmentation, was observed in upper canopy leaves of soybean
+    during late reproductive stages.
+  - Pigmented leaves showed signs of stress such as decreased Fv/Fm numbers for
+    photosystem II and hyperspectral reflectance. These findings may indicate
+    enhanced accumulation of flavonoids such as water-soluble anthocyanins. The
+    CLPC phenotype may be an adaptation to an undefined abiotic stress.
+  - A significant major QTL on chromosome 6, placed between 17.9 and 18.9 Mbp,
+    explained 62.8% of phenotypic variance (peak LOD = 36.5) and is the first
+    such QTL known in soybean.
+  - Glyma.06G202300 gene expression was 2.5- to 7.2-fold higher in pigmented
+    canopy leaves of sensitive RILs when compared to their non-pigmented lower
+    leaves. There was no equivalent difference in transcription perceived in the
+    insensitive parent-of-RILS Daepung.
+  - Candidate gene Glyma.06G202300 encodes a flavonoid 3′-hydroxylase (F3′H)
+    that is important for biosynthesis of anthocyanin pigments.
+  - Purple-leaved plants (including sensitive parents Uram and PI96983) have a
+    mutation in Glyma.06G202300 that results in the atypical color and
+    environmental response; a single-base deletion localized to 18,737,369 BP in
+    the third exon. The consequence of this frameshift mutation is a premature
+    stop codon and is expressed as a truncated protein missing domains needed
+    for functionality.
 phenotype_synopsis:
 traits:
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
   - citation: You, Jo et al., 2024
     doi: 10.1007/s00122-024-04693-y
     pmid: 39134894
