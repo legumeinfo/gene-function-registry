@@ -1,0 +1,49 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmVTE2-2
+gene_symbol_long: Soybean homogentisate prenyltransferase
+gene_model_pub_name: Glyma.02G168000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G168000
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - There's a structural homology between soybean Glyma.02G168000 and Cannabis
+    sativa cannabinoid prenyltransferase (CsPT04), as they're more similar than
+    even CsPT04 is to CsPT01.
+  - The structural similarity of Glyma.02G168000 to CsPT04 most likely enabled
+    the successful prenylation/acceptance of the olivetolic acid substrate by
+    geranyldiphosphate in vitro, culminating in the production of cannabigerolic
+    acid (CBGA) and cannabigerol (CBG).
+  - After growing yeast cells, a purified microsomal fraction was harvested,
+    which was rich in the membrane-bound prenyltransferase Glyma.02G168000 used
+    to make cannabinoids.
+  - The authors refer to Glyma.02G168000 as being a homogentisate
+    solanyltransferase. Homogentisate solanesyltransferases are plant
+    chloroplast membrane-bound enzymes, a subtype of homogentisate
+    prenyltransferases, but this characterization wasn't confirmed.
+  - The gene_symbol GmVTE2-2 was taken from Akashi, Sasaki et al., 2009.
+phenotype_synopsis: Glyma.02G168000 has been established towards in vitro
+  production of cannabinoids when expressed and harvested from Saccharomyces
+  cerevisiae.
+traits:
+  - entity_name: prenyltransferase activity
+    entity: GO:0004659
+  - entity_name: homogentisate prenyltransferase activity
+    entity: GO:0010354
+  - entity_name: cannabinoid biosynthetic process
+    entity: GO:1901696
+references:
+  - citation: Jordan, Schmidt et al., 2024
+    doi: 10.1016/j.bbrc.2024.149471
+    pmid: 38219483
+  - citation: Kusano, Li et al., 2019
+    doi: 10.3389/fpls.2019.00794
+    pmid: 31293605
+  - citation: Akashi, Sasaki et al., 2009
+    doi: 10.1104/pp.108.123679
+    pmid: 19091879
+
+---
