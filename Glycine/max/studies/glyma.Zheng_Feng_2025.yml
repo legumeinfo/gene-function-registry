@@ -68,9 +68,9 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: GmSWEET39
 gene_symbols:
   - GmSWEET10a
+  - GmSWEET39
 gene_symbol_long: null
 gene_model_pub_name: Glyma.15G049200
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.15G049200
