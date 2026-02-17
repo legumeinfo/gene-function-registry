@@ -114,7 +114,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmSWEET10b
-gene_symbol_long:  Sugars Will Eventually Be Exported Transporter 10b
+gene_symbol_long: Sugars Will Eventually Be Exported Transporter 10b
 gene_model_pub_name: Glyma.08G183500
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G183500
 confidence: 4
