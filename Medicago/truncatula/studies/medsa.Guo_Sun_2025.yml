@@ -10,7 +10,8 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - 
+  - The expression of MsTPS16 further facilitated yeast growth under saline–alkali stress
+  - The findings indicate that MsTPS16 may improve the tolerance of alfalfa hairy roots to saline–alkali stress by reducing the reactive oxygen species content
 phenotype_synopsis: MsTPS16 may improve the tolerance of saline–alkali stress in Medicago sativa
 traits:
   - entity_name: salt tolerance
