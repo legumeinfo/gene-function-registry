@@ -8,9 +8,11 @@ gene_model_pub_name: Glyma.01G134600
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.01G134600
 confidence: 4 
 curators:
-  -
+  - Molly Hardacre
 comments:
-  -
+  - Other defense-related genes such as ethylene- and abscisic acid-related genes within the region, but GmPT01 is the most likely candidate linked with the trait
+  - GmPT01 prenylates (-)-glycinol at the C-2 position, localizes in the plastid, and exhibits root-specific gene expression.
+  - Its expression is induced rapidly in response to stress, and is associated with a quantitative trait loci linked with resistance to P. sojae
 phenotype_synopsis:
 traits:
   - entity_name:
