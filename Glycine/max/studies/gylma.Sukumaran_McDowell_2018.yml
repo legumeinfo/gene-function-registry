@@ -1,0 +1,25 @@
+---
+
+scientific_name: Glycine max 
+gene_symbols:
+  - GmPT01
+gene_symbol_long: 
+gene_model_pub_name: Glyma.01G134600
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.01G134600
+confidence: 4 
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Sukumaran, McDowell et al., 2018
+    doi: 10.1111/tpj.14083
+    pmid: 30195273
+  - citation: Khatri, Chen et al., 2023
+    doi: 10.1371/journal.pone.0285698
+    pmid: 37186600
+---
