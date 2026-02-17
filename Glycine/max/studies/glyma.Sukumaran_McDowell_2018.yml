@@ -1,22 +1,30 @@
 ---
-
 scientific_name: Glycine max
 gene_symbols:
   - GmPT01
-gene_symbol_long: 
+gene_symbol_long: null
 gene_model_pub_name: Glyma.01G134600
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.01G134600
-confidence: 4 
+confidence: 3
 curators:
   - Molly Hardacre
 comments:
-  - Other defense-related genes such as ethylene- and abscisic acid-related genes within the region, but GmPT01 is the most likely candidate linked with the trait
-  - GmPT01 prenylates (-)-glycinol at the C-2 position, localizes in the plastid, and exhibits root-specific gene expression.
-  - Its expression is induced rapidly in response to stress, and is associated with a quantitative trait loci linked with resistance to P. sojae
-phenotype_synopsis:
+  - GmPT01 is expressed in roots, is most rapidly induced in response to stress,
+    and lies in the chromosomal region linked to Phytophthora sojae resistance
+  - GmPT01 prenylates (-)-glycinol at the C-2 position, localizes in the
+    plastid, and exhibits root-specific gene expression
+  - Even though there are some other defense-related genes such as ethylene and
+    abscisic acid-related genes within the region, GmPT01 is the most likely
+    candidate linked with the trait
+phenotype_synopsis: GmPT01 is possibly involved with partial resistance against
+  stem and root rot disease in soybean
 traits:
-  - entity_name:
-    entity:
+  - entity_name: glyceollin synthase activity
+    entity: GO:0033769
+  - entity_name: prenyltransferase activity
+    entity: GO:0004659
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
 references:
   - citation: Sukumaran, McDowell et al., 2018
     doi: 10.1111/tpj.14083
@@ -24,4 +32,5 @@ references:
   - citation: Khatri, Chen et al., 2023
     doi: 10.1371/journal.pone.0285698
     pmid: 37186600
+
 ---
