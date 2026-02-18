@@ -1,0 +1,45 @@
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsTPS16
+gene_symbol_long: Trehalose-6-phosphate synthase 16
+gene_model_pub_name: MS.gene015639.t1
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - The findings indicate that MsTPS16 may improve the tolerance of alfalfa
+    hairy roots to saline–alkali stress by reducing the reactive oxygen species
+    content.
+  - The expression of MsTPS16 further facilitated yeast growth under
+    saline–alkali stress and also increased root length of alfalfa.
+  - MsTPS16 may be a positive regulatory gene for saline–alkali stress by
+    influencing TPS activity and the antioxidant pathway.
+  - Transcriptome analyses revealed that nine MsTPS genes were upregulated under
+    saline–alkali stress. A qRT-PCR analysis revealed that MsTPS16 exhibited the
+    most significant upregulated expression.
+  - MsTPS16 and MsTPS28 expression was markedly upregulated under saline–alkali
+    stress after 6 h and 6 days. However, MsTPS16 was upregulated the most under
+    both short- and long-term stress and showed the highest expression.
+phenotype_synopsis: MsTPS16 may improve the tolerance of saline–alkali stress in
+  Medicago sativa and increase root length.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: alkali sensitivity
+    entity: TO:0000481
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+  - entity_name: hydrogen peroxide content
+    entity: TO:0000605
+  - entity_name: trehalose biosynthetic process
+    entity: GO:0005992
+references:
+  - citation: Guo, Sun et al., 2025
+    doi: 10.1016/j.gene.2025.149609
+    pmid: 40466959
+  - citation: Han, Liang et al., 2024
+    doi: 10.48130/vegres-0024-0007
+
+---
