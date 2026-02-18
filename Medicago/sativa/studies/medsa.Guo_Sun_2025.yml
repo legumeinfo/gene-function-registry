@@ -1,5 +1,4 @@
 ---
-
 scientific_name: Medicago sativa
 gene_symbols:
   - MsTPS16
@@ -10,11 +9,16 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - The findings indicate that MsTPS16 may improve the tolerance of alfalfa hairy roots to saline–alkali stress by reducing the reactive oxygen species content
-  - The expression of MsTPS16 further facilitated yeast growth under saline–alkali stress
+  - The findings indicate that MsTPS16 may improve the tolerance of alfalfa
+    hairy roots to saline–alkali stress by reducing the reactive oxygen species
+    content
+  - The expression of MsTPS16 further facilitated yeast growth under
+    saline–alkali stress
   - MsTPS16 overexpression in alfalfa hair roots led to increased root length
-  - MsTPS16 may be a positive regulatory gene for saline–alkali stress by influencing TPS activity and the antioxidant pathway
-phenotype_synopsis: MsTPS16 may improve the tolerance of saline–alkali stress in Medicago sativa and increase root length
+  - MsTPS16 may be a positive regulatory gene for saline–alkali stress by
+    influencing TPS activity and the antioxidant pathway
+phenotype_synopsis: MsTPS16 may improve the tolerance of saline–alkali stress in
+  Medicago sativa and increase root length
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -33,4 +37,5 @@ references:
   - citation: Dan, Niu et al., 2021
     doi: 10.7717/peerj.11398
     pmid: PMC8092105
+
 ---
