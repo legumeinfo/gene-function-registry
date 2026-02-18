@@ -1,0 +1,24 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmWAK1
+gene_symbol_long: Glycine max wall-associated receptor kinase-like 1
+gene_model_pub_name: XM_003534738, Glyma.09G027700.1
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G027700.1
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -  
+phenotype_synopsis: GmWAK1 is induced by P. sojae infection and plays a positive regulatory role in the soybean response to this pathogen
+traits: 
+  - entity_name: 
+    entity:
+references:
+  - citation: Xhao, Li et al., 2023
+    doi: 10.3390/ijms24010798
+    pmid: PMC9821614
+  - citation: Yao, Humphries et al., 2025
+    doi: 10.3390/plants14030343
+    pmid: 39942905
+---
