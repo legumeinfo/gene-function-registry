@@ -31,10 +31,11 @@ traits:
     entity: TO:0000481
   - entity_name: oxidative stress response
     entity: TO:0002657
-  - entity_name: trehalose biosynthetic process
-    entity: GO:0005992
   - entity_name: root length
     entity: TO:0000227
+  - entity_name: trehalose biosynthetic process
+    entity: GO:0005992
+
 references:
   - citation: Guo, Sun et al., 2025
     doi: 10.1016/j.gene.2025.149609
