@@ -22,8 +22,7 @@ comments:
   - MsTPS16 and MsTPS28 expression was markedly upregulated under saline–alkali
     stress after 6 h and 6 days. However, MsTPS16 was upregulated the most under
     both short- and long-term stress and showed the highest expression.
-phenotype_synopsis: MsTPS16 may improve the tolerance of saline–alkali stress in
-  Medicago sativa and increase root length
+phenotype_synopsis: MsTPS16 may improve the tolerance of saline–alkali stress in Medicago sativa and increase root length
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -35,7 +34,6 @@ traits:
     entity: TO:0000605
   - entity_name: trehalose biosynthetic process
     entity: GO:0005992
-
 references:
   - citation: Guo, Sun et al., 2025
     doi: 10.1016/j.gene.2025.149609
