@@ -3,18 +3,22 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhUGT75A
   - UGT73CG33
-gene_symbol_long:  Flavonoid 7-O-UGT
+gene_symbol_long: Flavonoid 7-O-UGT
 gene_model_pub_name: null
 gene_model_full_id: arahy.Tifrunner.gnm2.ann1.5Q6PVM.1
 confidence: 3
 curators:
-  - Molly Hardacre 
+  - Molly Hardacre
 comments:
-  - Results indicated AhUGT75A played important roles in conferring abiotic stress tolerance through reactive oxygen species scavenging
+  - Results indicated AhUGT75A played important roles in conferring abiotic
+    stress tolerance through reactive oxygen species scavenging
   - 204 (76%) AhUGT genes were expressed in at least one tissue of the plant
-  - 80% of AhUGT genes contained at least one type of stress responsiveness cis-acting elements (ABRE, LTR, TC-rich), suggesting their potential involvements in abiotic stress response
-  - The transcript level of AhUGT75A was strongly induced by abiotic stress. 
-  - Overexpression of AhUGT75A in Arabidopsis enhance tolerance against drought and salt stress.
+  - 80% of AhUGT genes contained at least one type of stress responsiveness
+    cis-acting elements (ABRE, LTR, TC-rich), suggesting their potential
+    involvements in abiotic stress response
+  - The transcript level of AhUGT75A was strongly induced by abiotic stress.
+  - Overexpression of AhUGT75A in Arabidopsis enhance tolerance against drought
+    and salt stress.
 phenotype_synopsis: AhUGTs were involved in peanut growth and abiotic stress response
 traits:
   - entity_name: response to abscisic acid
@@ -30,4 +34,5 @@ references:
   - citation: Chen, Wang et al., 2024
     doi: 10.3389/fpls.2024.1363251
     pmid: PMC11089202
+
 ---
