@@ -9,34 +9,41 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
+  - A Genome-Wide Association Study used twelve and seven significant lead SNPs
+    to characterize candidate genes governing stem pubescence color and hilum
+    color in soybeans. Glyma.06G202300, a Cytochrome P450 superfamily protein
+    and homolog of Arabidopsis AT5G07990 that encodes a flavonoid
+    3′-hydroxylase, is one candidate gene linked to both stem pubescence and
+    seed hilum colors. This gene was highly expressed in the seeds, pods, stems,
+    and the shoot apical meristem. (Zhou, Wang et al., 2024)
   - Canopy leaf pigmentation changes (CLPC), manifested as unusual
     reddish-purple pigmentation, was observed in upper canopy leaves of soybean
     during late reproductive stages. The CLPC phenotype may be an adaptation to
-    an undefined abiotic stress.
+    an undefined abiotic stress. (You, Jo et al., 2024)
   - Pigmented leaves showed signs of stress such as decreased Fv/Fm numbers for
     photosystem II and hyperspectral reflectance. These findings may indicate
-    enhanced accumulation of flavonoids or related secondary metabolites.
+    enhanced accumulation of flavonoids or related secondary metabolites. (You, Jo et al., 2024)
   - Reflectance wavelengths in the peak reflectance range for anthocyanins
     (520–550 nm range) differed between reddish-purple and green leaves.
     Normally this result would point to accumulation of anthocyanins in the
     pigmented leaves. Nevertheless, anthocyanin wasn't found in either pigmented
     or non-pigmented leaf samples by using ultrahigh-performance liquid
-    chromatography.
+    chromatography. (You, Jo et al., 2024)
   - A significant major QTL on chromosome 6, placed between 17.9 and 18.9 Mbp,
     explained 62.8% of phenotypic variance (peak LOD = 36.5) and is the first
-    such QTL known in soybean.
+    such QTL known in soybean. (You, Jo et al., 2024)
   - Glyma.06G202300 gene expression was 2.5- to 7.2-fold higher in pigmented
     canopy leaves of sensitive RILs when compared to their non-pigmented lower
     leaves. There was no equivalent difference in transcription perceived in the
-    insensitive parent-of-RILS Daepung.
+    insensitive parent-of-RILS Daepung. (You, Jo et al., 2024)
   - Candidate gene Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
-    that is important for biosynthesis of anthocyanin pigments.
+    that is important for biosynthesis of anthocyanin pigments. (You, Jo et al., 2024)
   - Purple-leaved plants (including sensitive parents Uram and PI96983) have a
     mutation in Glyma.06G202300 that results in the atypical color and
     environmental response; a single-base deletion localized to 18,737,369 BP in
     the third exon. The consequence of this frameshift mutation is a premature
     stop codon and is expressed as a truncated protein missing domains needed
-    for functionality.
+    for functionality. (You, Jo et al., 2024)
 phenotype_synopsis: Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
   and is associated with canopy leaf pigmentation and abiotic stress resistance.
 traits:
@@ -51,7 +58,9 @@ traits:
   - entity_name: abiotic plant stress response trait
     entity: TO:0000168
 references:
+  - citation: Zhou, Wang et al., 2024
+    doi: 10.3390/agronomy14030512
   - citation: You, Jo et al., 2024
     doi: 10.1007/s00122-024-04693-y
     pmid: 39134894
-    
+
