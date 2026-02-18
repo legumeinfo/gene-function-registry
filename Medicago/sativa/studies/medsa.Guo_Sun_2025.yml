@@ -31,8 +31,8 @@ traits:
     entity: TO:0000481
   - entity_name: oxidative stress response
     entity: TO:0002657
-  - entity_name: root length
-    entity: TO:0000227
+  - entity_name: hydrogen peroxide content
+    entity: TO:0000605
   - entity_name: trehalose biosynthetic process
     entity: GO:0005992
 
