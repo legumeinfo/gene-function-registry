@@ -9,13 +9,34 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  - A Genome-Wide Association Study used twelve and seven significant lead SNPs
-    to characterize candidate genes governing stem pubescence color and hilum
-    color in soybeans. Glyma.06G202300, a Cytochrome P450 superfamily protein
-    and homolog of Arabidopsis AT5G07990 that encodes a flavonoid
-    3′-hydroxylase, is one candidate gene linked to both stem pubescence and
-    seed hilum colors. This gene was highly expressed in the seeds, pods, stems,
-    and the shoot apical meristem. (Zhou, Wang et al., 2024)
+  - The T gene governs seed coat and pubescence color, related to the cold
+    stress response. (May not require - Toda, Takahashi et al., 2011)
+  - Toda (2002) isolated the gene sf3′h1 which corresponds to the T gene using
+    two near-isogenic lines. The soybean F3′H1 gene (sf3′h1) encodes the enzyme
+    flavonoid 3′- hydroxylase and without its function the phenotype of
+    pubescence becomes gray. The sf3′h1 is situated at 18.73 Mb on chromosome 6,
+    nearby two SNPs (Chr06:18749716 and Chr06:18749528) associated with colors
+    of stem pubescence and hilums.
+  - The pleiotropic loci that control soybean pubescence and hilum colors, or
+    other closely-linked loci, also impact plant development, stem growth
+    habits, seed yield, leaf shape, and cold tolerance. (Toda, 2002)
+  - Toda (2012) showed that sf3′h1 protein can be found in the tonoplast of
+    vacuoles of the seed coat hilum.
+  - Brown pubescence and brown hilums are associated with improved vitality and
+    yield productivity under cold temperatures. (Zhou, Wang et al., 2024)
+  - A Genome-Wide Association Study characterized candidate genes governing stem
+    pubescence color and hilum color in 264 accessions of soybeans. Twelve and
+    seven significant lead SNPs were associated with the stem pubescence color
+    and hilum color traits, respectively. Within the vicinity of these markers
+    (120 kb upstream and downstream), seven candidate genes (stem pubescence
+    color) and four candidates (hilum color) were proposed based on
+    transcription patterns, cold stress responses, and regulatory pathways.
+    (Zhou, Wang et al., 2024)
+  - Glyma.06G202300, a Cytochrome P450 superfamily protein and homolog of
+    Arabidopsis AT5G07990 that encodes a flavonoid 3′-hydroxylase, is one
+    candidate gene linked to both stem pubescence and seed hilum colors. This
+    gene was highly expressed primarily in the seeds, secondarily in pods, and
+    also in stems and the shoot apical meristem. (Zhou, Wang et al., 2024)
   - Canopy leaf pigmentation changes (CLPC), manifested as unusual
     reddish-purple pigmentation, was observed in upper canopy leaves of soybean
     during late reproductive stages. The CLPC phenotype may be an adaptation to
@@ -47,6 +68,10 @@ comments:
 phenotype_synopsis: Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
   and is associated with canopy leaf pigmentation and abiotic stress resistance.
 traits:
+  - entity_name: stem color
+    entity: TO:0000056
+  - entity_name: hilum color 
+    entity: TO:0000968
   - entity_name: leaf color
     entity: TO:0000326
   - entity_name: plant pigment content trait 
@@ -57,9 +82,17 @@ traits:
     entity: TO:0012004
   - entity_name: abiotic plant stress response trait
     entity: TO:0000168
+  - entity_name: low temperature stress response
+    entity: TO:0000303
 references:
   - citation: Zhou, Wang et al., 2024
     doi: 10.3390/agronomy14030512
+  - citation: Toda, Yang et al., 2002
+    doi: 10.1023/a:1016087221334
+    pmid: 12175012
+  - citation: Toda, Kuroiwa et al., 2012
+    doi: 10.1007/s00425-012-1590-5
+    pmid: 22258749
   - citation: You, Jo et al., 2024
     doi: 10.1007/s00122-024-04693-y
     pmid: 39134894
