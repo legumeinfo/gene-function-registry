@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmSop20
-gene_symbol_long: Soybean oil and protein QTL on Chromosome 20
+gene_symbol_long: Soybean Oil and Protein QTL on Chromosome 20
 gene_model_pub_name: Glyma.20G005900
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.20G005900
 confidence: 5
@@ -10,11 +10,11 @@ curators:
   - Molly Hardacre
 comments:
   - GmSop20 can modulate the oil-to-protein ratio (with values ranging from 0.19
-    to 0.64) without altering the total oil and protein content
+    to 0.64) without altering the total oil and protein content.
   - GmSop20 works by directly enhancing GmSWEET10a expression, demonstrating two
-    independent domestication events in a single regulatory module
-  - Both GmSop20 and GmSop07 exhibit weak regulatory effects on seed weight
-phenotype_synopsis: GmSop20 regulates seed oil-to-protein ratio in soybeans
+    independent domestication events in a single regulatory module.
+  - Both GmSop20 and GmSop07 exhibit weak regulatory effects on seed weight.
+phenotype_synopsis: GmSop20 regulates seed oil-to-protein ratio in soybeans.
 traits:
   - entity_name: seed protein content
     entity: TO:0000490
@@ -25,32 +25,32 @@ traits:
 references:
   - citation: Zheng, Feng et al., 2025
     doi: 10.1002/advs.202505181
-    pmid: PMC12520551
+    pmid: 40679091
   - citation: Kumar, Mulkey et al., 2025
     doi: 10.1002/tpg2.70115
-    pmid: PMC12475100
+    pmid: 41006955
 
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmSop07
-gene_symbol_long: Soybean oil and protein QTL on Chromosome 7
+gene_symbol_long: Soybean Oil and Protein QTL on Chromosome 7
 gene_model_pub_name: Glyma.07G158200
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.07G158200
 confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - GmSop20 and GmSop07 close paralogs, with 89.2% similarity in the protein
-    sequence
+  - GmSop20 and GmSop07 are close paralogs, with 89.2% similarity in the protein
+    sequence.
   - Knockout of GmSop07 showed significant effects on seed protein and oil
     traits, which were similar but weaker than those of the GmSop20 knockout
-    mutants
-  - Both GmSop20 and GmSop07 exhibit weak regulatory effects on seed weight
+    mutants.
+  - Both GmSop20 and GmSop07 exhibit weak regulatory effects on seed weight.
   - No significant correlation was observed between seed quality traits and
-    GmSop07 variants, GmSop07 may also have functions similar to GmSop20 because
-    of their highly similar protein sequences
-phenotype_synopsis: GmSop07 regulates seed oil-to-protein ratio in soybeans
+    GmSop07 variants. GmSop07 may also have functions similar to GmSop20 because
+    of their highly similar protein sequences.
+phenotype_synopsis: GmSop07 regulates seed oil-to-protein ratio in soybeans.
 traits:
   - entity_name: seed protein content
     entity: TO:0000490
@@ -61,10 +61,10 @@ traits:
 references:
   - citation: Zheng, Feng et al., 2025
     doi: 10.1002/advs.202505181
-    pmid: PMC12520551
+    pmid: 40679091
   - citation: Kumar, Mulkey et al., 2025
     doi: 10.1002/tpg2.70115
-    pmid: PMC12475100
+    pmid: 41006955
 
 ---
 scientific_name: Glycine max
@@ -78,18 +78,18 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - GmSWEET10a and its paralog GmSWEET10b controls sugar allocation from the
-    seed coat to the embryo, further stimulating fatty acid , oil accumulation
-    and protein content in soybean seeds
+  - GmSWEET10a and its paralog GmSWEET10b control sugar allocation from the
+    seed coat to the embryo, further stimulating fatty acid accumulation
+    and protein content in soybean seeds.
   - GmSWEET10a and GmSWEET10b were mainly expressed in the parenchyma cells of
     the seed coat and showed highly overlapping expression patterns with GmSop20
-    at different stages of seed development and in different parts of the seed
+    at different stages of seed development and in different parts of the seed.
   - GmSop20 may enhance the expression of both GmSWEET10a and GmSWEET10b during
-    the seed-filling stage
-  - GmSWEET10a/b may accelerate carbon flux from the seed coat to the embryo
-  - GmSWEET10a/b also significantly contribute to seed weight
-  - Last citation mentions the long gene symbol of GmSWEET10a
-phenotype_synopsis: GmSWEET10a controls seed oil and protein content in soybean
+    the seed-filling stage.
+  - GmSWEET10a/b may accelerate carbon flux from the seed coat to the embryo.
+  - GmSWEET10a/b also significantly contribute to seed weight.
+  - Last citation mentions the long gene symbol of GmSWEET10a.
+phenotype_synopsis: GmSWEET10a controls seed oil and protein content in soybean.
 traits:
   - entity_name: fatty acid content trait
     entity: TO:0001170
@@ -102,10 +102,10 @@ traits:
 references:
   - citation: Zheng, Feng et al., 2025
     doi: 10.1002/advs.202505181
-    pmid: PMC12520551
+    pmid: 40679091
   - citation: Kumar, Mulkey et al., 2025
     doi: 10.1002/tpg2.70115
-    pmid: PMC12475100
+    pmid: 41006955
   - citation: Sun, Li et al., 2025
     doi: 10.1111/tpj.70435
     pmid: 40839861
@@ -122,17 +122,17 @@ curators:
   - Molly Hardacre
 comments:
   - GmSWEET10b controls sugar allocation from the seed coat to the embryo,
-    further stimulating fatty acid , oil accumulation and protein content in
-    soybean seeds
-  - GmSWEET10b were mainly expressed in the parenchyma cells of the seed coat
+    further stimulating fatty acid accumulation and protein content in soybean
+    seeds.
+  - GmSWEET10b was mainly expressed in the parenchyma cells of the seed coat
     and showed highly overlapping expression patterns with GmSop20 at different
-    stages of seed development and in different parts of the seed
+    stages of seed development and in different parts of the seed.
   - GmSop20 may enhance the expression of both GmSWEET10a and GmSWEET10b during
-    the seed-filling stage
-  - GmSWEET10a/b may accelerate carbon flux from the seed coat to the embryo
-  - GmSWEET10a/b also significantly contribute to seed weight
-  - Last citation mentions the long gene symbol of GmSWEET10b
-phenotype_synopsis: GmSWEET10b controls seed oil and protein content in soybean
+    the seed-filling stage.
+  - GmSWEET10a/b may accelerate carbon flux from the seed coat to the embryo.
+  - GmSWEET10a/b also significantly contribute to seed weight.
+  - Last citation mentions the long gene symbol of GmSWEET10b.
+phenotype_synopsis: GmSWEET10b controls seed oil and protein content in soybean.
 traits:
   - entity_name: fatty acid content trait
     entity: TO:0001170
@@ -145,10 +145,10 @@ traits:
 references:
   - citation: Zheng, Feng et al., 2025
     doi: 10.1002/advs.202505181
-    pmid: PMC12520551
+    pmid: 40679091
   - citation: Kumar, Mulkey et al., 2025
     doi: 10.1002/tpg2.70115
-    pmid: PMC12475100
+    pmid: 41006955
   - citation: Sun, Li et al., 2025
     doi: 10.1111/tpj.70435
     pmid: 40839861
