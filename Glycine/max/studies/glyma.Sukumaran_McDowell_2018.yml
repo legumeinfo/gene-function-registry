@@ -10,14 +10,14 @@ curators:
   - Molly Hardacre
 comments:
   - GmPT01 is expressed in roots, is most rapidly induced in response to stress,
-    and lies in the chromosomal region linked to Phytophthora sojae resistance
+    and lies in the chromosomal region linked to Phytophthora sojae resistance.
   - GmPT01 prenylates (-)-glycinol at the C-2 position, localizes in the
-    plastid, and exhibits root-specific gene expression
-  - Even though there are some other defense-related genes such as ethylene and
+    plastid, and exhibits root-specific gene expression.
+  - Even though there are other defense-associated genes such as ethylene and
     abscisic acid-related genes within the region, GmPT01 is the most likely
-    candidate linked with the trait
+    candidate linked with the trait.
 phenotype_synopsis: GmPT01 is possibly involved with partial resistance against
-  stem and root rot disease in soybean
+  stem and root rot disease in soybean.
 traits:
   - entity_name: glyceollin synthase activity
     entity: GO:0033769
