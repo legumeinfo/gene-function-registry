@@ -2,24 +2,26 @@
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhTPS9
-gene_symbol_long: Trehalose-6-phosphate synthase 9
+gene_symbol_long: Trehalose-6-Phosphate Synthase 9
 gene_model_pub_name: Arahy.1XW75L
 gene_model_full_id: arahy.Tifrunner.gnm2.ann1.1XW75L
 confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - Physiological indicators indicated lower levels of proline and MDA in the
-    AhTPS9 overexpression lines under low-temperature treatment
-  - WT plants exhibited a significant reduction in Chlorophyll content, Pn, and
-    Fv/Fm, while showing an increase in electrolytic leakage compared to AhTPS9
-    overexpressing plants
+  - Physiological indicators suggested lower levels of proline and
+    malondialdehyde (MDA) in the AhTPS9 overexpression lines under
+    low-temperature treatment.
+  - Wild-type plants exhibited a significant reduction in chlorophyll content,
+    photosynthesis rate, and Fv/Fm (maximum quantum yield of photosystem II),
+    while showing an increase in electrolytic leakage compared to AhTPS9
+    overexpressing plants.
   - AhTPS9 may regulate sugar metabolism pathways to alleviate the damage caused
-    by low-temperature stress
+    by low-temperature stress.
   - AhTPS9, similar to OsTPS1 and TaTPS11, can alleviate stress without
-    affecting key phenotypic changes
+    effecting key phenotypic changes.
 phenotype_synopsis: AhTPS9-overexpressing plants exhibited improved tolerance to
-  cold temperatures, showing reduced levels of significant wilting
+  cold temperatures while showing reduced levels of significant wilting.
 traits:
   - entity_name: low temperature stress response
     entity: TO:0000303
@@ -34,9 +36,9 @@ traits:
 references:
   - citation: Zhong, He et al., 2024
     doi: 10.3389/fpls.2023.1343402
-    pmid: PMC10834750
+    pmid: 38312353
   - citation: Clevenger, Chu et al., 2016
     doi: 10.3389/fpls.2016.01446
-    pmid: PMC5043296
+    pmid: 27746793
 
 ---
