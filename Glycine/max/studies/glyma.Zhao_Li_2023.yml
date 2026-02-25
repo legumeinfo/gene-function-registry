@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmWAK1
 gene_symbol_long: Glycine max wall-associated receptor kinase-like 1
-gene_model_pub_name: XM_003534738, Glyma.09G027700.1
+gene_model_pub_name: Glyma.09G027700.1
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G027700.1
 confidence: 4
 curators:
