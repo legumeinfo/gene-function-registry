@@ -1,0 +1,35 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmTPS12a
+gene_symbol_long: Trehalose-6-phosphate synthase
+gene_model_pub_name: Glyma.06G184200
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.06G184200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmTPS12a is localized in the endoplasmic reticulum and positively regulates plant flowering, consistent with the up- or down-regulation of flowering-related genes like FT, SOC1, and FLC.
+  - GmTPS12a positively regulates seed germination under salt and osmotic stress by repressing abscisic acid response.
+  - This may be the first Class Ⅱ TPS family gene playing dual roles in regulating plant flowering time and stress resistance.
+  - Phylogenetic analysis showed that soybean TPS genes have a close evolutionary relationship with those in Arabidopsis and rice, indicating that TPS genes are highly conserved in both monocots and dicots.
+phenotype_synopsis: 
+traits:
+  - entity_name: days to flowering trait
+    entity: TO:0000344
+  - entity_name: abscisic acid sensitivity
+    entity: TO:0000615
+  - entity_name: salt response
+    entity: TO:0000429
+  - entity_name: osmotic response sensitivity
+    entity: TO:0000095
+  - entity_name: positive regulation of seed germination
+    entity: GO:0010030
+references:
+  - citation: Liu, Yao et al., 2026
+    doi: 10.1016/j.plantsci.2025.112863
+    pmid: 41238015
+  - citation: Zhong, He et al., 2024
+    doi: 10.3389/fpls.2023.1343402
+    pmid: 38312353
+---
