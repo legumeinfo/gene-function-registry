@@ -19,12 +19,12 @@ comments:
     exhibited glycosylation activities over diverse flavonoid compounds
 phenotype_synopsis: AhUGT75A was involved in peanut growth and abiotic stress response
 traits:
-  - entity_name: response to abscisic acid
-    entity: GO:0009737
   - entity_name: abiotic plant stress response trait
     entity: TO:0000168
   - entity_name: plant growth and development trait
     entity: TO:0000357
+  - entity_name: response to abscisic acid
+    entity: GO:0009737
 references:
   - citation: Ouyang, Liu et al., 2023
     doi: 10.1186/s12870-023-04656-3
