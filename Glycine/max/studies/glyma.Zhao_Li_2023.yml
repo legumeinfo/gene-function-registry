@@ -24,16 +24,6 @@ phenotype_synopsis: GmWAK1 is induced by P. sojae infection and plays a positive
 traits:
   - entity_name: Oomycete disease response
     entity: TO:0001144
-  - entity_name: hydrogen peroxide content
-    entity: TO:0000605
-  - entity_name: reactive oxygen species biosynthetic process
-    entity: GO:1903409
-  - entity_name: superoxide dismutase activity
-    entity: GO:0004784
-  - entity_name: peroxidase activity
-    entity: GO:0004601
-  - entity_name: salicylic acid biosynthetic process
-    entity: GO:0009697
 references:
   - citation: Xhao, Li et al., 2023
     doi: 10.3390/ijms24010798
