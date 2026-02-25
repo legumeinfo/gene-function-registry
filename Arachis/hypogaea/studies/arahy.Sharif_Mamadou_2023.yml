@@ -1,0 +1,24 @@
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhAPY2-1p
+gene_symbol_long: 
+gene_model_pub_name: AH16G28160.1
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16g281600	
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis: 
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Sharif, Mamadou et al., 2023
+    doi: 10.3390/ijms24054622
+    pmid: 36902052
+  - citation:
+    doi:
+    pmid:
+---
