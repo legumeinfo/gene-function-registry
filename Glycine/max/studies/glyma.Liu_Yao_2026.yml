@@ -9,11 +9,17 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - GmTPS12a is localized in the endoplasmic reticulum and positively regulates plant flowering, consistent with the up- or down-regulation of flowering-related genes like FT, SOC1, and FLC.
-  - GmTPS12a positively regulates seed germination under salt and osmotic stress by repressing abscisic acid response.
-  - This may be the first Class Ⅱ TPS family gene playing dual roles in regulating plant flowering time and stress resistance.
-  - Phylogenetic analysis showed that soybean TPS genes have a close evolutionary relationship with those in Arabidopsis and rice, indicating that TPS genes are highly conserved in both monocots and dicots.
-phenotype_synopsis: 
+  - GmTPS12a is localized in the endoplasmic reticulum and positively regulates
+    plant flowering, consistent with the up- or down-regulation of
+    flowering-related genes like FT, SOC1, and FLC.
+  - GmTPS12a positively regulates seed germination under salt and osmotic stress
+    by repressing abscisic acid response.
+  - This may be the first Class Ⅱ TPS family gene playing dual roles in
+    regulating plant flowering time and stress resistance.
+  - Phylogenetic analysis showed that soybean TPS genes have a close
+    evolutionary relationship with those in Arabidopsis and rice, indicating
+    that TPS genes are highly conserved in both monocots and dicots.
+phenotype_synopsis: null
 traits:
   - entity_name: days to flowering trait
     entity: TO:0000344
@@ -32,4 +38,5 @@ references:
   - citation: Zhong, He et al., 2024
     doi: 10.3389/fpls.2023.1343402
     pmid: 38312353
+
 ---
