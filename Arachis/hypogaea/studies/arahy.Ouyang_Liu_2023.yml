@@ -15,7 +15,9 @@ comments:
   - The transcript level of AhUGT75A was strongly induced by abiotic stress.
   - Overexpression of AhUGT75A in Arabidopsis enhance tolerance against drought
     and salt stress.
-phenotype_synopsis: AhUGT75A were involved in peanut growth and abiotic stress response
+  - AhUGT75A was adjacent to soybean UGT73C19 and UGT73C20, which
+    exhibited glycosylation activities over diverse flavonoid compounds
+phenotype_synopsis: AhUGT75A was involved in peanut growth and abiotic stress response
 traits:
   - entity_name: response to abscisic acid
     entity: GO:0009737
@@ -26,9 +28,9 @@ traits:
 references:
   - citation: Ouyang, Liu et al., 2023
     doi: 10.1186/s12870-023-04656-3
-    pmid: PMC10702079
+    pmid: 38062387
   - citation: Chen, Wang et al., 2024
     doi: 10.3389/fpls.2024.1363251
-    pmid: PMC11089202
+    pmid: 38742211
 
 ---
