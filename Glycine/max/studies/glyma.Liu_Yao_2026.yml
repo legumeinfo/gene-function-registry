@@ -19,7 +19,7 @@ comments:
   - Phylogenetic analysis showed that soybean TPS genes have a close
     evolutionary relationship with those in Arabidopsis and rice, indicating
     that TPS genes are highly conserved in both monocots and dicots.
-phenotype_synopsis: null
+phenotype_synopsis: Overexpression of GmTPS12a promoted flowering in soybean and enhanced resistance to salt and osmotic stresses during seed germination
 traits:
   - entity_name: days to flowering trait
     entity: TO:0000344
