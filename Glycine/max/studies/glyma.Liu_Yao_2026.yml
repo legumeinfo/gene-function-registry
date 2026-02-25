@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmTPS12a
-gene_symbol_long: Trehalose-6-phosphate synthase
+gene_symbol_long: Trehalose-6-Phosphate Synthase
 gene_model_pub_name: Glyma.06G184200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G184200
 confidence: 5
@@ -20,7 +20,7 @@ comments:
     evolutionary relationship with those in Arabidopsis and rice, indicating
     that TPS genes are highly conserved in both monocots and dicots.
 phenotype_synopsis: Overexpression of GmTPS12a promoted flowering in soybean and
-  enhanced resistance to salt and osmotic stresses during seed germination
+  enhanced resistance to salt and osmotic stresses during seed germination.
 traits:
   - entity_name: days to flowering trait
     entity: TO:0000344
