@@ -1,0 +1,35 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmWAK1
+gene_symbol_long: Glycine max wall-associated receptor kinase-like 1
+gene_model_pub_name: Glyma.09G027700.1
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G027700.1
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - When soybean is infected by P. sojae, the expression of GmWAK1 increases,
+    the expression of endogenous SA (salicylic acid) is upregulated, and the
+    activities of SOD (superoxide dismutase) and POD (peroxidase) antioxidants
+    are upregulated, which reduce the accumulation of ROS and H2O2
+  - GmWAK1 is a receptor protein kinase associated with the cell wall in soybean
+  - GmWAK1 can also increase the expressions of GmMKK4 and GmMPK6 in transgenic
+    soybean plants overexpressing GmWAK1 and GmANNRJ4
+  - Data suggested that some other genes that upregulate the expression of
+    GmWAK1 and are involved in the regulation of P. sojae resistance are
+    regulated by GmLHP1.
+phenotype_synopsis: GmWAK1 is induced by P. sojae infection and plays a positive
+  regulatory role in the soybean response to this pathogen
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+references:
+  - citation: Xhao, Li et al., 2023
+    doi: 10.3390/ijms24010798
+    pmid: 36614246
+  - citation: Yao, Humphries et al., 2025
+    doi: 10.3390/plants14030343
+    pmid: 39942905
+
+---
