@@ -4,7 +4,7 @@ gene_symbols:
   - AhUGT75A
   - UGT73CG33
 gene_symbol_long: Flavonoid 7-O-UGT
-gene_model_pub_name: null
+gene_model_pub_name: 5Q6PVM
 gene_model_full_id: arahy.Tifrunner.gnm2.ann1.5Q6PVM.1
 confidence: 3
 curators:
