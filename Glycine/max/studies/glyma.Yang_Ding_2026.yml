@@ -1,0 +1,115 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCKX3
+gene_symbol_long: Cytokinin oxidase/dehydrogenase 3
+gene_model_pub_name: Glyma.17G054500
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.17G054500
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCKX3 likely regulates yield-related traits by enhancing seed capacity and
+    affecting plant architecture
+  - Notably, GmCKX3 exhibits exceptionally high expression in the seed coat
+    during embryogenesis
+  - Gmckx3 mutants exhibited mild increase in seed protein content while
+    maintaining unchanged oil content, alongside the markedly enhanced
+    yield-related traits
+phenotype_synopsis: GmCKX3 mutant shows a marked increase in flower, ovule, and silique numbers, ultimately leading to a significant increase in seed yield per plant, while the single mutants do not
+traits:
+  - entity_name: pod number trait
+    entity: TO:0001125
+  - entity_name: relative yield
+    entity: TO:0000153
+  - entity_name: protein content
+    entity: TO:0000598
+  - entity_name: stem branch number
+    entity: TO:0020020
+references:
+  - citation: Yang, Ding et al., 2026
+    doi: 10.1016/j.xplc.2025.101678
+  - citation: Chen, Zhao et al., 2020
+    doi: 10.1111/pbi.13305
+    pmid: 31782596
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCKX7
+gene_symbol_long: Cytokinin oxidase/dehydrogenase 7
+gene_model_pub_name: Glyma.09G063900
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G063900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCKX7 and GmCKX14 limit yield improvement through different effects in
+    plant architecture from that of GmCKX3
+  - GmCKX7 and GmCKX14 do not show expression in the seed coat during
+    embryogensis, and GmCKX7 is enriched in the petal
+  - The triple mutant Gmckx3/7/14 showed considerable improvements in pod number
+    per main-stem node, pod number, node number, branch number, and 100-seed
+    weight, leading to a significant yield increase
+phenotype_synopsis: GmCKX7 and GmCKX14 seem to counterbalance GmCKX3 by influencing traits like branching and height
+traits:
+  - entity_name: pod number trait
+    entity: TO:0001125
+  - entity_name: relative yield
+    entity: TO:0000153
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: stem branch number
+    entity: TO:0020020
+  - entity_name: stem node number
+    entity: TO:0000634
+references:
+  - citation: Yang, Ding et al., 2026
+    doi: 10.1016/j.xplc.2025.101678
+  - citation: Chen, Zhao et al., 2020
+    doi: 10.1111/pbi.13305
+    pmid: 31782596
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCKX14
+gene_symbol_long: Cytokinin oxidase/dehydrogenase 14
+gene_model_pub_name: Glyma.15G170300
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.15G170300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - The loss of GmCKX7 and GmCKX14 limit yield improvement through different
+    effect in plant architecture from that of GmCKX3
+  - The triple mutant Gmckx3/7/14 showed considerable improvements in pod number
+    per main-stem node, pod number, node number, branch number, and 100-seed
+    weight, leading to a significant yield increase
+  - GmCKX7 and GmCKX14 seem to counterbalance GmCKX3 by influencing traits like
+    branching and height, consequently restricting yield improvement
+  - GmCKX7 and GmCKX14 do not show expression in the seed coat during
+    embryogensis, and GmCKX7 is enriched in the petal
+phenotype_synopsis: GmCKX7 and GmCKX14 seem to counterbalance GmCKX3 by influencing traits like branching and height
+traits:
+  - entity_name: pod number trait
+    entity: TO:0001125
+  - entity_name: relative yield
+    entity: TO:0000153
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: stem branch number
+    entity: TO:0020020
+  - entity_name: stem node number
+    entity: TO:0000634
+references:
+  - citation: Yang, Ding et al., 2026
+    doi: 10.1016/j.xplc.2025.101678
+  - citation: Chen, Zhao et al., 2020
+    doi: 10.1111/pbi.13305
+    pmid: 31782596
+
+---
+
