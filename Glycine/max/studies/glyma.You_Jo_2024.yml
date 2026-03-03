@@ -9,19 +9,30 @@ confidence: 4
 curators:
   - Scott Kalberer
 comments:
-  - The T gene governs seed coat and pubescence color, related to the cold
-    stress response. (May not require - Toda, Takahashi et al., 2011)
-  - Toda (2002) isolated the gene sf3′h1 which corresponds to the T gene using
-    two near-isogenic lines. The soybean F3′H1 gene (sf3′h1) encodes the enzyme
-    flavonoid 3′- hydroxylase and without its function the phenotype of
-    pubescence becomes gray. The sf3′h1 is situated at 18.73 Mb on chromosome 6,
-    nearby two SNPs (Chr06:18749716 and Chr06:18749528) associated with colors
-    of stem pubescence and hilums.
+  - The T gene governs seed coat color, pubescence color, and cold stress
+    tolerance. (May not require - Toda, Takahashi et al., 2011)
+  - Toda (2002) isolated the gene sf3′h1 which corresponds to the T locus using
+    two near-isogenic lines To7B (TT) and To7G (tt). The soybean F3′H1 gene
+    (sf3′h1) encodes the enzyme flavonoid 3′- hydroxylase and without its
+    function the phenotype of pubescence becomes gray. The sf3′h1 is situated at
+    18.73 Mb on chromosome 6, nearby two SNPs (Chr06:18749716 and
+    Chr06:18749528) associated with colors of stem pubescence and hilums.
   - The pleiotropic loci that control soybean pubescence and hilum colors, or
     other closely-linked loci, also impact plant development, stem growth
     habits, seed yield, leaf shape, and cold tolerance. (Toda, 2002)
-  - Toda (2012) showed that sf3′h1 protein can be found in the tonoplast of
-    vacuoles of the seed coat hilum.
+  - The complete sf3'h1 protein was detected most strongly in the hilum and
+    funiculus of the immature seed coat by Western-blot analysis in To7B
+    (homozygous dominant) plants. The sf3'h1 protein extracted from To7G
+    (homozygous recessive) plants was truncated and harder to detect. F3'H
+    enzyme activity was detected using microsomal fractions from yeast
+    transformed with sf3'h1 coming from To7B (homozygous dominant), but not
+    derived from To7G (homozygous recessive). Therefore, F3'H is likely
+    connected to flavonoid biosynthesis in the testa and the antioxidant
+    properties manifested therein (e.g., scavenging activity of the
+    1,1-diphenyl-2-picrylhydrazyl (DPPH) radical) (Toda, 2012).
+  - The flavonoid 3 -hydroxylase (F3'H) gene (sf3′h1) encodes a protein which
+    can be found in the tonoplast of vacuoles of the seed coat hilum (Toda,
+    2012).
   - Brown pubescence and brown hilums are associated with improved vitality and
     yield productivity under cold temperatures. (Zhou, Wang et al., 2024)
   - A Genome-Wide Association Study characterized candidate genes governing stem
@@ -31,40 +42,38 @@ comments:
     (120 kb upstream and downstream), seven candidate genes (stem pubescence
     color) and four candidates (hilum color) were proposed based on
     transcription patterns, cold stress responses, and regulatory pathways.
-    (Zhou, Wang et al., 2024)
-  - Glyma.06G202300, a Cytochrome P450 superfamily protein and homolog of
     Arabidopsis AT5G07990 that encodes a flavonoid 3′-hydroxylase, is one
     candidate gene linked to both stem pubescence and seed hilum colors. This
     gene was highly expressed primarily in the seeds, secondarily in pods, and
-    also in stems and the shoot apical meristem. (Zhou, Wang et al., 2024)
-  - Canopy leaf pigmentation changes (CLPC), manifested as unusual
+    also in stems and the shoot apical meristem. (Zhou, Wang et al., 2024) -
+    Canopy leaf pigmentation changes (CLPC), manifested as unusual
     reddish-purple pigmentation, was observed in upper canopy leaves of soybean
     during late reproductive stages. The CLPC phenotype may be an adaptation to
-    an undefined abiotic stress. (You, Jo et al., 2024)
-  - Pigmented leaves showed signs of stress such as decreased Fv/Fm numbers for
-    photosystem II and hyperspectral reflectance. These findings may indicate
-    enhanced accumulation of flavonoids or related secondary metabolites. (You, Jo et al., 2024)
-  - Reflectance wavelengths in the peak reflectance range for anthocyanins
-    (520–550 nm range) differed between reddish-purple and green leaves.
-    Normally this result would point to accumulation of anthocyanins in the
-    pigmented leaves. Nevertheless, anthocyanin wasn't found in either pigmented
-    or non-pigmented leaf samples by using ultrahigh-performance liquid
-    chromatography. (You, Jo et al., 2024)
-  - A significant major QTL on chromosome 6, placed between 17.9 and 18.9 Mbp,
-    explained 62.8% of phenotypic variance (peak LOD = 36.5) and is the first
-    such QTL known in soybean. (You, Jo et al., 2024)
-  - Glyma.06G202300 gene expression was 2.5- to 7.2-fold higher in pigmented
-    canopy leaves of sensitive RILs when compared to their non-pigmented lower
-    leaves. There was no equivalent difference in transcription perceived in the
-    insensitive parent-of-RILS Daepung. (You, Jo et al., 2024)
-  - Candidate gene Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
-    that is important for biosynthesis of anthocyanin pigments. (You, Jo et al., 2024)
-  - Purple-leaved plants (including sensitive parents Uram and PI96983) have a
-    mutation in Glyma.06G202300 that results in the atypical color and
-    environmental response; a single-base deletion localized to 18,737,369 BP in
-    the third exon. The consequence of this frameshift mutation is a premature
-    stop codon and is expressed as a truncated protein missing domains needed
-    for functionality. (You, Jo et al., 2024)
+    an undefined abiotic stress. (You, Jo et al., 2024) - Pigmented leaves
+    showed signs of stress such as decreased Fv/Fm numbers for photosystem II
+    and hyperspectral reflectance. These findings may indicate enhanced
+    accumulation of flavonoids or related secondary metabolites. (You, Jo et
+    al., 2024) - Reflectance wavelengths in the peak reflectance range for
+    anthocyanins (520–550 nm range) differed between reddish-purple and green
+    leaves. Normally this result would point to accumulation of anthocyanins in
+    the pigmented leaves. Nevertheless, anthocyanin wasn't found in either
+    pigmented or non-pigmented leaf samples by using ultrahigh-performance
+    liquid chromatography. (You, Jo et al., 2024) - A significant major QTL on
+    chromosome 6, placed between 17.9 and 18.9 Mbp, explained 62.8% of
+    phenotypic variance (peak LOD = 36.5) and is the first such QTL known in
+    soybean. (You, Jo et al., 2024) - Glyma.06G202300 gene expression was 2.5-
+    to 7.2-fold higher in pigmented canopy leaves of sensitive RILs when
+    compared to their non-pigmented lower leaves. There was no equivalent
+    difference in transcription perceived in the insensitive parent-of-RILS
+    Daepung. (You, Jo et al., 2024) - Candidate gene Glyma.06G202300 encodes a
+    Flavonoid 3′-Hydroxylase (F3′H) that is important for biosynthesis of
+    anthocyanin pigments. (You, Jo et al., 2024) - Purple-leaved plants
+    (including sensitive parents Uram and PI96983) have a mutation in
+    Glyma.06G202300 that results in the atypical color and environmental
+    response; a single-base deletion localized to 18,737,369 BP in the third
+    exon. The consequence of this frameshift mutation is a premature stop codon
+    and is expressed as a truncated protein missing domains needed for
+    functionality. (You, Jo et al., 2024)
 phenotype_synopsis: Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
   and is associated with canopy leaf pigmentation and abiotic stress resistance.
 traits:
