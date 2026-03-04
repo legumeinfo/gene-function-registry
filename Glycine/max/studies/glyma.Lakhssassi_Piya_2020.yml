@@ -17,7 +17,8 @@ comments:
     treatments, while GmSHMT08 was induced only when the resistant GmSNAP18 was
     present, pointing to the presence of a molecular crosstalk between soybean
     cyst nematode resistant genes
-phenotype_synopsis: null
+phenotype_synopsis: GmSNAP18/GmSHMT08 induces expression of GmPR08‐Bet VI in
+  response to soybean cyst nematode infection and GmPR08‐Bet VI increases infection resistance
 traits:
   - entity_name: Heterodera glycines response
     entity: TO:0001111
@@ -33,7 +34,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmSNAP18
-gene_symbol_long: Soluble NSF attachment protein 18
+gene_symbol_long: Soluble NSF (N-ethylmaleimide-sensitive factor) attachment protein 18
 gene_model_pub_name: Glyma.18G022500
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.18G022500
 confidence: 4
@@ -44,9 +45,10 @@ comments:
     membrane and was specific to the root cells surrounding the nematode in
     soybean cyst nematode resistant soybeans
   - Necrosis symptoms were intensified when the GmSNAP18, GmSHMT08 and
-    GmPR08-Bet VI complex was present in N. benthamiana coagroinfiltration
-    experiments
-phenotype_synopsis: null
+    GmPR08-Bet VI complex was present in Nicotiana benthamiana
+    coagroinfiltration experiments
+phenotype_synopsis: GmSHMT08 and GmSNAP18 are co‐regulated and increase disease
+  resistance to soybean cyst nematode infection
 traits:
   - entity_name: Heterodera glycines response
     entity: TO:0001111
@@ -74,7 +76,8 @@ comments:
     reaction,
   - GmSHMT08 and GmSNAP18 are co-regulated in response to soybean cyst nematode
     infection, a finding that suggests an interaction at the protein level
-phenotype_synopsis: null
+phenotype_synopsis: GmSHMT08 and GmSNAP18 are co‐regulated and increase disease
+  resistance to soybean cyst nematode infection
 traits:
   - entity_name: Heterodera glycines response
     entity: TO:0001111
@@ -85,4 +88,3 @@ references:
   - citation: He, Liu et al., 2025
     doi: 10.1016/j.xplc.2025.101378
     pmid: 40394901
-
