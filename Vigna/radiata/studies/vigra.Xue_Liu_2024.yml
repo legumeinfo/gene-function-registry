@@ -1,0 +1,35 @@
+---
+scientific_name: Vigna radiata
+gene_symbols:
+  - VrFT1
+gene_symbol_long: FLOWERING LOCUS T1
+gene_model_pub_name: Vr01g09590
+gene_model_full_id: vigra.VC1973A.gnm6.ann1.Vradi01g09590
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Under short-day conditions, VrFT1 exhibited significantly higher expression
+    levels than under long-day conditions
+  - Phenotypic analysis of transgenic Arabidopsis plants overexpressing VrFT1
+    revealed higher expression levels under SD conditions and predicted its role
+    in promoting flowering
+  - The sole member of the MFT subfamily, VrMFT1, had nine exons and eight
+    introns, which differed from the characteristic four exons and three introns
+    found in other species.
+phenotype_synopsis: VrFT1 gene exhibits higher expression levels under short-day
+  treatment and promotes flowering
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: short-day photoperiodism, flowering
+    entity: GO:0048575
+references:
+  - citation: Xue, Liu et al., 2024
+    doi: 10.1038/s41598-024-73936-1
+    pmid: 39488543
+  - citation: Ohm, Mahmood et al., 2025
+    doi: 10.1038/s41598-025-12864-0
+    pmid: 40770210
+
+---
