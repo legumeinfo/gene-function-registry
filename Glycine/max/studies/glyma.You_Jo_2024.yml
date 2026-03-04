@@ -26,13 +26,16 @@ comments:
     (homozygous recessive) plants was truncated and harder to detect. F3'H
     enzyme activity was detected using microsomal fractions from yeast
     transformed with sf3'h1 coming from To7B (homozygous dominant), but not
-    derived from To7G (homozygous recessive). Therefore, F3'H is likely
-    connected to flavonoid biosynthesis in the testa and the antioxidant
-    properties manifested therein (e.g., scavenging activity of the
-    1,1-diphenyl-2-picrylhydrazyl (DPPH) radical) (Toda, 2012).
-  - The flavonoid 3 -hydroxylase (F3'H) gene (sf3′h1) encodes a protein which
-    can be found in the tonoplast of vacuoles of the seed coat hilum (Toda,
-    2012).
+    derived from To7G (homozygous recessive). Scavenging activity of the
+    1,1-diphenyl-2-picrylhydrazyl (DPPH) radical in funiculus and hilum extracts
+    was higher in homozygous dominant than in recessive plants. Therefore, F3'H
+    is likely connected to flavonoid biosynthesis in the testa and the
+    antioxidant properties manifested therein (Toda, 2012).
+  - Immunofluorescence microscopy mainly found the flavonoid 3 -hydroxylase
+    protein within the parenchymatic cells of the seed coat hilum surrounding
+    the vacuole. Immunoelectron microscopy with gold particles narrowed
+    cytochrome P450 monooxygenase F3'H's location to the tonoplast in soybean
+    vacuoles (Toda, 2012).
   - Brown pubescence and brown hilums are associated with improved vitality and
     yield productivity under cold temperatures. (Zhou, Wang et al., 2024)
   - A Genome-Wide Association Study characterized candidate genes governing stem
@@ -105,4 +108,7 @@ references:
   - citation: You, Jo et al., 2024
     doi: 10.1007/s00122-024-04693-y
     pmid: 39134894
+  - citation: Liu, Wang et al., 2025
+    doi: 10.1111/pbi.70443
+    pmid: 41431171
 
