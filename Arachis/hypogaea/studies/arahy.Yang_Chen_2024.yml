@@ -1,0 +1,25 @@
+---
+
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhCML69
+gene_symbol_long:
+gene_model_pub_name: Ah08g062600
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08g062600
+confidence: 
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Yang, Chen et al., 2024
+    doi: 10.1186/s12864-024-10108-5
+    pmid: 38378471
+  - citation: 
+    doi:
+    pmid:
+---
