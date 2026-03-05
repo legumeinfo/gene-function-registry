@@ -1,0 +1,91 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPR08-Bet VI
+gene_model_pub_name: Glyma.08G230500
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G230500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmSNAP18, GmSHMT08, and GmPR08-Bet VI, were found to localize in the cytosol
+    and plasma membrane
+  - Overexpression of GmPR08-Bet VI did not have an effect on soybean cyst
+    nematode resistance when the two cytokinin-binding sites in GmPR08-Bet VI
+    were mutated, indicating a new role of GmPR08-Bet VI in soybean cyst
+    nematode resistance
+  - GmSNAP18 and GmPR08-Bet VI induced under salicylic acid and cytokinin
+    treatments, while GmSHMT08 was induced only when the resistant GmSNAP18 was
+    present, pointing to the presence of a molecular crosstalk between soybean
+    cyst nematode resistant genes
+phenotype_synopsis: GmSNAP18/GmSHMT08 induces expression of GmPR08‐Bet VI in
+  response to soybean cyst nematode infection and GmPR08‐Bet VI increases infection resistance
+traits:
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: He, Liu et al., 2025
+    doi: 10.1016/j.xplc.2025.101378
+    pmid: 40394901
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSNAP18
+gene_symbol_long: Soluble NSF (N-ethylmaleimide-sensitive factor) attachment protein 18
+gene_model_pub_name: Glyma.18G022500
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.18G022500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmSNAP18 expression and localization hyper-accumulated at the plasma
+    membrane and was specific to the root cells surrounding the nematode in
+    soybean cyst nematode resistant soybeans
+  - Necrosis symptoms were intensified when the GmSNAP18, GmSHMT08 and
+    GmPR08-Bet VI complex was present in Nicotiana benthamiana
+    coagroinfiltration experiments
+phenotype_synopsis: GmSHMT08 and GmSNAP18 are co‐regulated and increase disease
+  resistance to soybean cyst nematode infection
+traits:
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: He, Liu et al., 2025
+    doi: 10.1016/j.xplc.2025.101378
+    pmid: 40394901
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSHMT08
+gene_symbol_long: Serine hydroxymethyltransferase 8
+gene_model_pub_name: Glyma.08G108900
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G108900
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Analysis of GmSHMT08 and GmSNAP18 identified the need of a minimum
+    expression requirement to trigger the soybean cyst nematode resistance
+    reaction,
+  - GmSHMT08 and GmSNAP18 are co-regulated in response to soybean cyst nematode
+    infection, a finding that suggests an interaction at the protein level
+phenotype_synopsis: GmSHMT08 and GmSNAP18 are co‐regulated and increase disease
+  resistance to soybean cyst nematode infection
+traits:
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+references:
+  - citation: Lakhssassi, Piya et al., 2020
+    doi: 10.1111/pbi.13343
+    pmid: 31960590
+  - citation: He, Liu et al., 2025
+    doi: 10.1016/j.xplc.2025.101378
+    pmid: 40394901
