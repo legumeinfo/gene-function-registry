@@ -23,12 +23,12 @@ comments:
 phenotype_synopsis: Expression of AhXTH32 inhibits root growth and induces
   aluminum programmed cell death
 traits:
+  - entity_name: root length
+    entity: TO:0000227
   - entity_name: programmed cell death
     entity: GO:0012501
   - entity_name: aluminum response trait
     entity: TO:0000354
-  - entity_name: root length
-    entity: TO:0000227
 references:
   - citation: Luo, Pan et al., 2023
     doi: 10.1016/j.plaphy.2022.11.002
