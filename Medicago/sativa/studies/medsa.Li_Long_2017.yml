@@ -29,7 +29,7 @@ traits:
     entity: TO:0000615
 references:
   - citation: Li, Long et al., 2017
-    doi: doi.org/10.1007/s10265-017-0905-9
+    doi: 10.1007/s10265-017-0905-9
     pmid: 28150171
   - citation: He, Sun et al., 2025
     doi: 10.1186/s12864-025-12261-x
