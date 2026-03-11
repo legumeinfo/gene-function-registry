@@ -1,25 +1,41 @@
 ---
-
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhCML69
-gene_symbol_long:
-gene_model_pub_name: Ah08g062600
+gene_symbol_long: CaM-like protein 69
+gene_model_pub_name: AH08G06260.1
 gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08g062600
-confidence: 
+confidence: 3
 curators:
   - Molly Hardacre
 comments:
-  - 
-phenotype_synopsis:
+  - Overexpression of AhCML69 in tobacco leaves increased resistance to
+    Ralstonia solanacearum infection and induced the expression of
+    defense-related genes, suggesting that AhCML69 is a positive regulator of
+    disease resistance.
+  - Expression analysis revealed that AhCML69 was constitutively expressed in
+    the roots, stems, leaves, and flowers of peanut plants and was involved in
+    the response to Ralstonia solanacearum infection.
+  - The AhCML69 protein was localized in the cytoplasm and nucleus.
+  - AhCML69 is a positive regulator of PAMP-triggered immunity by mediating the
+    jasmonic acid and salicylic acid pathways.
+phenotype_synopsis: AhCML69 may increase resistance to Ralstonia solanacearum
+  infection in Arachis hypogaea
 traits:
-  - entity_name:
-    entity:
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: pathogen-associated molecular pattern receptor signaling pathway
+    entity: GO:0140426
+  - entity_name: jasmonic acid mediated signaling pathway
+    entity: GO:0009867
+  - entity_name: salicylic acid mediated signaling pathway
+    entity: GO:0009863
 references:
   - citation: Yang, Chen et al., 2024
     doi: 10.1186/s12864-024-10108-5
     pmid: 38378471
-  - citation: 
-    doi:
-    pmid:
+  - citation: Zhang, Chen et al., 2016
+    doi: doi.org/10.1111/pbi.12589
+    pmid: 27311738
+
 ---
