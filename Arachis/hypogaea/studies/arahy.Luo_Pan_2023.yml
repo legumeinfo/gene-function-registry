@@ -1,0 +1,40 @@
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhXTH32
+gene_symbol_long: Xyloglucan Endotransglucosylase/Hydrolase 32
+gene_model_pub_name: Ah06g207600
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah06g207600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Aluminum treatments of growing peanut seedlings result in significant
+    binding of Aluminum in the plant root tip.
+  - Highest sequence identity of 83.1% identity with Aradidopsis xth32 protein
+    sequence.
+  - The expression of AhXTH32 was negatively associated with Aluminum tolerance,
+    with modulation of the XET/XEH ratio, alterations to the Aluminum inhibition
+    of root growth, inducing the occurrence of programmed cell death, and
+    negatively affecting Aluminum tolerance.
+  - Aluminum-tolerant peanut cultivar root-tip cell walls bind Aluminum
+    predominantly in the HC1 fraction, which results in the inhibition of
+    AhXTH32.
+phenotype_synopsis: Expression of AhXTH32 inhibits root growth and induces
+  aluminum programmed cell death.
+traits:
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: aluminum response trait
+    entity: TO:0000354
+  - entity_name: programmed cell death
+    entity: GO:0012501
+references:
+  - citation: Luo, Pan et al., 2023
+    doi: 10.1016/j.plaphy.2022.11.002
+    pmid: 36410145
+  - citation: Li, Li et al., 2025
+    doi: 10.1016/j.plaphy.2025.110475
+    pmid: 40915113
+
+---
