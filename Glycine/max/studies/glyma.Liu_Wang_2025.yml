@@ -1,0 +1,103 @@
+---
+scientific_name: Glycine max
+classical_locus: T
+gene_symbols:
+  - GmF3H
+gene_symbol_long: Soybean flavonoid 3′-hydroxylase
+gene_model_pub_name: Glyma.06G202300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G202300
+confidence: 5
+curators:
+  - Scott Kalberer
+comments:
+  - Five loci (I, T, W1, R, and O) synergistically influence flavonoid
+    deposition in the soybean hilum, impacting seed color, nutritional, and
+    physiological traits (Yang, Jeong et al., 2010).
+  - The T gene encodes flavonoid 3'-hydroxylase (F3'H), which affects seed coat
+    color, pubescence color, and cold stress tolerance, with specific alleles
+    linked to brown or gray pubescence and hilum color variations (Toda,
+    Takahashi et al., 2011)(Toda, 2002).
+  - The sf3′h1 gene, corresponding to the T locus, encodes F3'H enzyme; a single
+    cytosine deletion in the recessive allele produces truncated proteins
+    associated with gray pubescence and altered flavonoid content (Toda, 2002).
+  - The functional and nonfunctional alleles of sf3′h1 show differences in
+    protein detection, enzyme activity, and antioxidant capacity, linking F3’H
+    activity to flavonoid biosynthesis and stress responses (Toda, 2002).
+  - The sf3'h1 protein shows up strongest in the hilum and funiculus of immature
+    seed coats in dominant plants. The recessive plants have a truncated version
+    that's harder to detect. Enzyme activity tied to flavonoid biosynthesis is
+    linked to this protein, influencing antioxidant properties. The protein’s
+    exact location was pinpointed to the tonoplast in vacuoles within the seed
+    coat’s parenchymatic cells (Toda, 2012).
+  - A genome-wide association study identified candidate genes near SNPs
+    associated with pubescence and hilum colors, highlighting the role of
+    Glyma.06G202300, an orthologue of Arabidopsis AT5G07990, in
+    flavonoid-related pigmentation traits (Zhou, Wang et al.,2024).
+  - Soybean plants exhibit canopy leaf pigmentation changes (CLPC),
+    characterized by reddish-purple coloration that correlates with stress
+    responses and flavonoid accumulation, though anthocyanins were not detected
+    in pigmented leaves (You, Jo et al., 2024).
+  - Major QTL on chromosome 6, encompassing Glyma.06G202300, explains a
+    significant portion of phenotypic variation in leaf pigmentation, with the
+    gene encoding a Flavonoid 3'-Hydroxylase involved in anthocyanin
+    biosynthesis (You, Jo et al., 2024).
+  - Mutations in Glyma.06G202300, including a single-base deletion, result in
+    truncated proteins and environmental response variations, linking genetic
+    mutations to leaf pigmentation and flavonoid biosynthesis (You, Jo et al.,
+    2024).
+  - Hilum color is controlled by a single dominant gene, HC1, mapped to a 34-kb
+    region containing Glyma.06G202300; knockout and overexpression studies
+    confirm its role in seed hilum coloration, size, and associated traits such
+    as seed oil content (Liu, Wang et al., 2025).
+  - The hc1 alleles are prevalent in cultivated soybeans, especially in northern
+    China, suggesting domestication-driven selection for lighter hilums or
+    linked traits like maturity; hc1 knockout lines exhibit reduced seed oil,
+    nodule formation, and photosynthetic efficiency (Liu, Wang et al., 2025).
+  - HC1 influences nodulation, nitrogen fixation, and seed development, with
+    functional HC1 promoting higher antioxidant activity, seed oil accumulation,
+    and beneficial symbiotic interactions, suggesting a regulatory role in
+    flavonoid metabolism and plant productivity (Liu, Wang et al., 2025).
+phenotype_synopsis: Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
+  and is associated with canopy leaf pigmentation and abiotic stress resistance
+  (You, Jo et al., 2024). The pleiotropic effects of HC1 in soybeans include
+  regulation of hilum development, seed oil content, and nodulation (Liu, Wang
+  et al., 2025).
+traits:
+  - entity_name: stem color
+    entity: TO:0000056
+  - entity_name: hilum color 
+    entity: TO:0000968
+  - entity_name: leaf color
+    entity: TO:0000326
+  - entity_name: plant pigment content trait 
+    entity: TO:0000494
+  - entity_name: flavonoid content
+    entity: TO:0000290
+  - entity_name: quantum yield
+    entity: TO:0012004
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+  - entity_name: low temperature stress response
+    entity: TO:0000303
+references:
+  - citation: Zhou, Wang et al., 2024
+    doi: 10.3390/agronomy14030512
+  - citation: Toda, Yang et al., 2002
+    doi: 10.1023/a:1016087221334
+    pmid: 12175012
+  - citation: Toda, Kuroiwa et al., 2012
+    doi: 10.1007/s00425-012-1590-5
+    pmid: 22258749
+  - citation: You, Jo et al., 2024
+    doi: 10.1007/s00122-024-04693-y
+    pmid: 39134894
+  - citation: Liu, Wang et al., 2025
+    doi: 10.1111/pbi.70443
+    pmid: 41431171
+  - citation: Toda, Takahashi et al., 2011
+    doi: 10.1007/s10265-010-0345-2
+    pmid: 20428921
+  - citation: Yang, Jeong et al., 2010
+    doi: 10.1093/jhered/esq078
+    pmid: 20584753
+

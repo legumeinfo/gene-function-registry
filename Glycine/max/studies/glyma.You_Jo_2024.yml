@@ -124,32 +124,45 @@ comments:
     may be involved in flavonoid biosynthesis there. HC1 is constitutively
     expressed in soybean and to a particularly high degree in early‑ to
     mid‑developing seeds (Liu, Wang et al., 2025).
-  - They knocked out HC1 in the Wm82 background to validate the HC1 candidate
-    gene. Knockout of HC1 results in lighter seed hilum colour than in wild type
-    and suppressed the downstream production of dihydroquercetin and quercetin.
-    Overexpression alters hilum colour and increases HC1 transcript levels,
-    indicating HC1 affects hilum colour and size (Liu, Wang et al., 2025).
-  - HC1 haplotypes were categorized into three groups, with truncated
-    nonfunctional variants absent in wild soybeans but prevalent in cultivars,
-    especially in northern China, suggesting domestication selection (Liu, Wang
-    et al., 2025).
-  - Black-hilum soybean lines associate with larger hilum size and higher oil
-    content; knockout of HC1 reduces hilum size and seed oil content whereas HC1
-    overexpression increases oil content without affecting yield or fatty acid
-    composition (Liu, Wang et al., 2025).
-  - HC1 positively affects nodulation, chlorophyll content, and photosynthetic
-    efficiency, enhancing nodulation with certain Bradyrhizobium strains,
-    implying a role in symbiotic nitrogen fixation (Liu, Wang et al., 2025).
-  - HC1 likely enhances antioxidant activity in the hilum, improving nutrient
-    transport and seed oil accumulation; RNA sequencing identified HC1-mediated
-    expression changes suggesting pathways for flavonoid-regulated oil
-    accumulation (Liu, Wang et al., 2025).
-  - The pleiotropic effects of HC1 include regulation of hilum development, seed
-    oil content, and nodulation, providing new insights for soybean
-    domestication and breeding strategies focused on quality and symbiotic
-    performance (Liu, Wang et al., 2025).
+  - They knocked out HC1 in the Wm82 background (hc1-KO) to validate the HC1 candidate
+    gene and show its role in hilum developement. Knockout of HC1 results in
+    lighter seed hilum colour than in wild type and suppressed the downstream
+    production of dihydroquercetin and quercetin. Lines with hilums that were
+    darker (e.g., black) were also larger and knockout of HC1 results in a significantly
+    smaller hilum. HC1 overexpression lines produced by introducing the HC1
+    coding sequence from Wm82 into TL01 exhibit a shift in hilum color from
+    light brown to grey hilum (Liu, Wang et al., 2025).
+  - HC1 haplotypes were categorized into three groups of which two producing
+    truncated and nonfunctional proteins could be understood as the same
+    recessive allele. These nonfunctional (hc1) varieties were absent in wild
+    soybean populations but were prevalent in cultivars and
+    landraces.  Frequency of hc1 (hap_2 and hap_3) was especially high in
+    northern China, suggesting that HC1 underwent selection during domestication
+    in that region either because of preference for lighter hilums or selection
+    for nearby maturity genes (Liu, Wang et al., 2025).
+  - Black-hilum soybean lines were associated with much higher seed oil content
+    relative to the brown hilum lines. The knockout of HC1 reduces seed oil
+    content relative to wild type as well, and tissues with higher oil contents
+    had lower protein contents. HC1 overexpression increases oil content without
+    affecting yield or fatty acid composition (Liu, Wang et al., 2025).
+  - HC1-knockouts produced significantly fewer nodules than wild type plants in
+    the field, and the knockouts also showed lower nodule numbers in pot
+    experiments when inoculated with Bradyrhizobium diazoefficiens but not
+    Sinorhizobium fredii.  Therefore, HC1 may influence positively nodule
+    numbers and symbiotic nitrogen fixation through colonization of certain
+    strains. Wild type plants (HC1) showed greater  chlorophyll content and
+    photosynthetic efficiency than knockouts (Liu, Wang et al., 2025).
+  - During seed development the larger hilums, elevated antioxidant activity,
+    increased nodulation, and enhanced photosynthesis in plants with functional
+    HC1 may improve carbohydrate transport, nutrient provision and seed oil
+    accumulation. Differential expression of genes observed between the wild
+    type and knockout suggests HC1-regulated flavonoid metabolism promotes
+    seed  oil accumulation (Liu, Wang et al., 2025).
 phenotype_synopsis: Glyma.06G202300 encodes a Flavonoid 3′-Hydroxylase (F3′H)
-  and is associated with canopy leaf pigmentation and abiotic stress resistance.
+  and is associated with canopy leaf pigmentation and abiotic stress resistance
+  (You, Jo et al., 2024). The pleiotropic effects of HC1 in soybeans include
+  regulation of hilum development, seed oil content, and nodulation (Liu, Wang
+  et al., 2025).
 traits:
   - entity_name: stem color
     entity: TO:0000056
