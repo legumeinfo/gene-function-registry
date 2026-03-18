@@ -1,0 +1,23 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCrRLK1L2
+gene_symbol_long: Catharanthus roseus receptor-like kinase 1-like 2
+gene_model_pub_name: Glyma.02G122000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G122000
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Jiang, Cao et al., 2024
+    doi: j.envexpbot.2024.105903
+  - citation: Boisson-Dernier, Kessler et al., 2011
+    doi: 10.1093/jxb/erq445
+    pmid: 21252257
+---
