@@ -70,22 +70,24 @@ comments:
     and hilum color traits, respectively. Within the vicinity of these markers
     (120 kb upstream and downstream), seven candidate genes (stem pubescence
     color) and four candidates (hilum color) were proposed based on
-    transcription patterns, cold stress responses, and regulatory pathways.
-    Arabidopsis AT5G07990 that encodes a flavonoid 3′-hydroxylase, is one
-    candidate gene linked to both stem pubescence and seed hilum colors. This
-    gene was highly expressed primarily in the seeds, secondarily in pods, and
-    also in stems and the shoot apical meristem. The sf3′h1 is situated at 18.73
-    Mb on chromosome 6, nearby two SNPs (Chr06:18749716 and Chr06:18749528)
-    associated with colors of stem pubescence and hilums (Zhou, Wang et al.,
-    2024).
+    transcription patterns, cold stress responses, and regulatory pathways
+    (Zhou, Wang et al., 2024).
+  - Glyma.06G202300, an orthologue of Arabidopsis AT5G07990 that encodes a
+    flavonoid 3′-hydroxylase, is one candidate gene linked to both stem
+    pubescence and seed hilum colors. This gene was highly expressed primarily
+    in the seeds, secondarily in pods, and also in stems and the shoot apical
+    meristem. The sf3′h1 is situated at 18.73 Mb on chromosome 6, nearby two
+    SNPs (Chr06:18749716 and Chr06:18749528) associated with colors of stem
+    pubescence and hilums (Zhou, Wang et al., 2024).
   - Canopy leaf pigmentation changes (CLPC), manifested as unusual
-    reddish-purple pigmentation, was observed in upper canopy leaves of soybean
+    reddish-purple pigmentation, were observed in upper canopy leaves of soybean
     during late reproductive stages. The CLPC phenotype may be an adaptation to
     an undefined abiotic stress. (You, Jo et al., 2024)
   - Pigmented leaves showed signs of stress such as decreased Fv/Fm numbers for
     photosystem II and hyperspectral reflectance. These findings may indicate
     enhanced accumulation of flavonoids or related secondary metabolites. (You,
-    Jo et al., 2024) - Reflectance wavelengths in the peak reflectance range for
+    Jo et al., 2024)
+  - Reflectance wavelengths in the peak reflectance range for
     anthocyanins (520–550 nm range) differed between reddish-purple and green
     leaves. Normally this result would point to accumulation of anthocyanins in
     the pigmented leaves. Nevertheless, anthocyanin wasn't found in either
