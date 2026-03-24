@@ -1,0 +1,47 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - Rhg1-GmAAT
+gene_symbol_long: Rhg1 locus 1 amino acid transporter
+gene_model_pub_name: Glyma.18g022400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G022400
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of Rhg1-GmAAT in soybean roots enhanced the accumulation of
+    betalain synthesized by three RUBY ezymes (RUBY is an artificial gene
+    cassette that drives the production of betalain pigments derived from the
+    aromatic amino acid precursor tyrosine, resulting in a distinct red
+    coloration in plant tissues where it is expressed) and it can also influence
+    amino acid homeostasis in soybean roots
+  - Co-overexpression of Rhg1-GmAAT and GmRBOHG (encoding an AATRhg1interacting
+    NADPH oxidase) blocked the betalain phenotype, indicating a complex role of
+    AATRhg1
+  - Silencing Rhg1-GmAAT also led to increased betalain accumulation. This might
+    be attributable to the impact of AATRhg1 on subcellular tyrosine balance and
+    feedback regulation of tyrosine synthesis.
+  - AATRhg1 may play a role in exporting tyrosine from vacuolar storage and
+    potentially increase cytosolic tyrosine availability for betalain synthesis
+    when RUBY is expressed
+  - Expression of AATRhg1 proteins with mutations at conserved residues D122A or
+    Y268L mitigated or enhanced the betalain phenotypes, respectively,
+    suggesting that these residues are important for AATRhg1 function
+  - The Arabidopsis ortholog of soybean AATRhg1 is AtAVT6C (AT3G56200)
+phenotype_synopsis: AATRhg1 that is essential for Soybean cyst nematode
+  resistance but also introduces a novel strategy for enhancing betalain pigment
+  production
+traits:
+  - entity_name: plant pigment content trait
+    entity: TO:0000494
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+references:
+  - citation: Du, Jung et al., 2025
+    doi: 10.1002/pld3.70098
+    pmid: 40874116
+  - citation: Cook, Bayless et al., 2014
+    doi: 10.1104/pp.114.235952
+    pmid: 24733883
+
+---
