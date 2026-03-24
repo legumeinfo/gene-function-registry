@@ -29,8 +29,9 @@ traits:
   - entity_name: stem branch number
     entity: TO:0020020
 references:
-  - citation: Yang, Ding et al., 2026
+  - citation: Yang, Ding et al., 2025
     doi: 10.1016/j.xplc.2025.101678
+    pmid: 41408752
   - citation: Chen, Zhao et al., 2020
     doi: 10.1111/pbi.13305
     pmid: 31782596
@@ -67,8 +68,9 @@ traits:
   - entity_name: stem node number
     entity: TO:0000634
 references:
-  - citation: Yang, Ding et al., 2026
+  - citation: Yang, Ding et al., 2025
     doi: 10.1016/j.xplc.2025.101678
+    pmid: 41408752
   - citation: Chen, Zhao et al., 2020
     doi: 10.1111/pbi.13305
     pmid: 31782596
@@ -109,8 +111,9 @@ traits:
   - entity_name: stem node number
     entity: TO:0000634
 references:
-  - citation: Yang, Ding et al., 2026
+  - citation: Yang, Ding et al., 2025
     doi: 10.1016/j.xplc.2025.101678
+    pmid: 41408752
   - citation: Chen, Zhao et al., 2020
     doi: 10.1111/pbi.13305
     pmid: 31782596
