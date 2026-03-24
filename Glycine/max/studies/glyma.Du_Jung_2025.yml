@@ -24,11 +24,11 @@ comments:
   - AATRhg1 may play a role in exporting tyrosine from vacuolar storage and
     potentially increase cytosolic tyrosine availability for betalain synthesis
     when RUBY is expressed
-  - Expression of AATRhg1 proteins with mutations at conserved residues D122A or
-    Y268L mitigated or enhanced the betalain phenotypes, respectively,
-    suggesting that these residues are important for AATRhg1 function
-  - The Arabidopsis ortholog of soybean AATRhg1 is AtAVT6C (AT3G56200)
-phenotype_synopsis: AATRhg1 that is essential for Soybean cyst nematode
+  - Expression of Rhg1-GmAAT proteins with mutations at conserved residues D122A
+    or Y268L mitigated or enhanced the betalain phenotypes, respectively,
+    suggesting that these residues are important for Rhg1-GmAAT function
+  - The Arabidopsis ortholog of Rhg1-GmAAT is AtAVT6C (AT3G56200)
+phenotype_synopsis: Rhg1-GmAAT that is essential for Soybean cyst nematode
   resistance but also introduces a novel strategy for enhancing betalain pigment
   production
 traits:
@@ -43,5 +43,6 @@ references:
   - citation: Cook, Bayless et al., 2014
     doi: 10.1104/pp.114.235952
     pmid: 24733883
+
 
 ---
