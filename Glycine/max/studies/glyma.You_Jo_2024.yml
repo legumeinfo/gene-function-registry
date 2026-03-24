@@ -112,10 +112,10 @@ comments:
   - Qihuang 34 (black hilum) was crossed with an unknown edamame variety (brown
     hilum) to create a population segregating with a 3:1 ratio of black hilum to
     brown hilum. It seems a single dominant gene controls hilum colour in this
-    population (Liu, Wang et al., 2025). The locus was mapped to an 1020-kb
-    interval on chromosome 6 and named Hilum Colour 1 (HC1). Discovery of
-    informative recombinants in the population reduced the region to 34-kb near
-    HC1 in which only one open reading frame was found, the Glyma.06G202300.
+    population. The locus was mapped to an 1020-kb interval on chromosome 6 and
+    named Hilum Colour 1 (HC1). Discovery of informative recombinants in the
+    population reduced the region to 34-kb near HC1 in which only one open
+    reading frame was found, the Glyma.06G202300 (Liu, Wang et al., 2025)
   - Sequencing of Glyma.06G202300 revealed a single-base deletion in exon 3
     present for the brown-hilum soybean, which resulted in a frameshift mutation
     with premature termination and deletion of the functional domain (Liu, Wang

@@ -65,10 +65,21 @@ comments:
     localized to 18,737,369 BP in the third exon. The consequence of this
     frameshift mutation is a premature stop codon and is expressed as a
     truncated protein missing functional domains (You, Jo et al., 2024).
-  - Hilum color is controlled by a single dominant gene, HC1, mapped to a 34-kb
-    region containing Glyma.06G202300; knockout and overexpression studies
-    confirm its role in seed hilum coloration, size, and associated traits such
-    as seed oil content (Liu, Wang et al., 2025).
+  - Hilum color (black or brown) is controlled by a single dominant gene, Hilum
+    Colour 1 (HC1), mapped to a 34-kb region on chromosome 6 containing the open
+    reading frame Glyma.06G202300. Sequencing of Glyma.06G202300 revealed a
+    single-base deletion in exon 3 present for the brown-hilum soybean, which
+    resulted in a frameshift mutation with premature termination and deletion of
+    the functional domain (Liu, Wang et al., 2025).
+  - HC1, an orthologue of Arabidopsis TT7, encodes for flavonoid 3′-hydroxylase
+    (F3′H). F3′H converts apigenin or kaempferol substrates to luteolin and
+    quercetin, respectively. HC1 is localized to the endoplasmic reticulum and
+    may be involved in flavonoid biosynthesis there. HC1 is constitutively
+    expressed in soybean and to a particularly high degree in early‑ to
+    mid‑developing seeds (Liu, Wang et al., 2025).
+  - Knockout and overexpression studies of HC1 confirm its role in seed hilum
+    coloration, size, and associated traits such as seed oil content (Liu, Wang
+    et al., 2025).
   - The hc1 alleles are prevalent in cultivated soybeans, especially in northern
     China, suggesting domestication-driven selection for lighter hilums or
     linked traits like maturity; hc1 knockout lines exhibit reduced seed oil,
