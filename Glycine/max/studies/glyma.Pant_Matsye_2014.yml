@@ -2,24 +2,24 @@
 scientific_name: Glycine max
 gene_symbols:
   - Gm-SYP38
-gene_symbol_long: Syntaxin 31 homolog
+gene_symbol_long: Syntaxin 31 Homolog
 gene_model_pub_name: Glyma14g06610
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G066100
 confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - The overexpression of Gm-SYP38 rescues the ability of the rhg1−/− G. max in
-    suppressing H. glycines parasitism
+  - The overexpression of Gm-SYP38 rescues the ability of the rhg1 −/− G. max by
+    suppressing Heterodera glycines parasitism.
   - In contrast, the analysis of Gm-SYP38 RNAi (that had a total of 64
     independent transgenic lines) in roots had decreased its RNA levels by 1.97
-    fold. Parasitism was increased as compared to controls
+    fold. Parasitism was increased as compared to controls.
   - The functional tests showed no statistically significant effect on root
-    growth in the overexpressing roots
+    growth in the overexpressing roots.
   - Gm-SYP38 overexpressing roots have elevated levels of Gm-XTH43, EDS1-2, PR1
-    and NONEXPRESSOR of PR1 RNA
+    and NONEXPRESSOR of PR1 RNA.
 phenotype_synopsis: Gm-SYP38 supports the ability of Glycine max to defend
-  itself from Heterodera glycine's parasitism
+  itself from Heterodera glycines parasitism.
 traits:
   - entity_name: Heterodera glycines response
     entity: TO:0001111
@@ -49,13 +49,13 @@ curators:
   - Molly Hardacre
 comments:
   - Gm-BIK1-6, like its 8 other related paralogs, have an MGXXXS/T(R)
-    N-myristoylation consensus sequence
-  - The overexpression of Gm-BIK1-6 in the rhg1−/− G. max rescues the ability to
-    suppress H. glycines parasitism
+    N-myristoylation consensus sequence.
+  - The overexpression of Gm-BIK1-6 in the rhg1 −/− G. max rescues the ability to
+    suppress Heterodera glycines parasitism.
   - RNAi of Gm-BIK1-6 decreased its RNA levels by 2.21 fold and increased
-    parasitism as compared to controls
+    parasitism as compared to controls.
 phenotype_synopsis: Gm-BIK1-6 overexpression rescues the ability to suppress
-  Heterodera glycine's parasitism. In contrast, Gm-BIK1-6 RNAi increases
+  Heterodera glycines parasitism. In contrast, Gm-BIK1-6 RNAi increases
   parasitism.
 traits:
   - entity_name: Heterodera glycines response
