@@ -60,7 +60,7 @@ cat ../Glycine/max/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$GLYMA"
 
 echo "
@@ -72,7 +72,7 @@ cat ../Glycine/max/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$GLYMA"
 
 
@@ -128,7 +128,7 @@ cat ../Glycine/soja/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$GLYSO"
 
 echo "
@@ -140,7 +140,7 @@ cat ../Glycine/soja/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$GLYSO"
 
 
@@ -195,7 +195,7 @@ cat ../Arachis/hypogaea/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$ARAHY"
 
 echo "
@@ -207,7 +207,7 @@ cat ../Arachis/hypogaea/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$ARAHY"
 
 ############################################
@@ -262,7 +262,7 @@ cat ../Lotus/japonicus/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$LOTJA"
 
 echo "
@@ -274,7 +274,7 @@ cat ../Lotus/japonicus/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$LOTJA"
 
 ############################################
@@ -329,7 +329,7 @@ cat ../Medicago/sativa/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$MEDSA"
 
 echo "
@@ -341,7 +341,7 @@ cat ../Medicago/sativa/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$MEDSA"
 
 ############################################
@@ -396,7 +396,7 @@ cat ../Medicago/truncatula/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$MEDTR"
 
 echo "
@@ -408,7 +408,7 @@ cat ../Medicago/truncatula/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$MEDTR"
 
 
@@ -464,7 +464,7 @@ cat ../Phaseolus/vulgaris/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$PHAVU"
 
 echo "
@@ -476,7 +476,7 @@ cat ../Phaseolus/vulgaris/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$PHAVU"
 
 ############################################
@@ -531,7 +531,7 @@ cat ../Pisum/sativum/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$PISSA"
 
 echo "
@@ -543,7 +543,7 @@ cat ../Pisum/sativum/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$PISSA"
 
 ############################################
@@ -598,7 +598,7 @@ cat ../Vicia/faba/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$VICFA"
 
 echo "
@@ -610,7 +610,7 @@ cat ../Vicia/faba/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$VICFA"
 
 ############################################
@@ -665,7 +665,7 @@ cat ../Vigna/radiata/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$VIGRA"
 
 echo "
@@ -677,6 +677,6 @@ cat ../Vigna/radiata/studies/*.yml \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
-    | uniq
+    | uniq \
     >> "$VIGRA"
 
