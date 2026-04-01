@@ -1,0 +1,966 @@
+
+---------------------GENE MODEL FULL ID--------------------------
+
+glyma.Wm82.gnm1.ann1.Glyma01g36010
+glyma.Wm82.gnm1.ann1.Glyma01g37810
+glyma.Wm82.gnm1.ann1.Glyma01g42390
+glyma.Wm82.gnm1.ann1.Glyma02g18610
+glyma.Wm82.gnm1.ann1.Glyma02g39230
+glyma.Wm82.gnm1.ann1.Glyma04g04470
+glyma.Wm82.gnm1.ann1.Glyma04g34800
+glyma.Wm82.gnm1.ann1.Glyma05g01770
+glyma.Wm82.gnm1.ann1.Glyma06G01240
+glyma.Wm82.gnm1.ann1.Glyma06g04590
+glyma.Wm82.gnm1.ann1.Glyma06g19820
+glyma.Wm82.gnm1.ann1.Glyma06g19920
+glyma.Wm82.gnm1.ann1.Glyma06g23560
+glyma.Wm82.gnm1.ann1.Glyma08g00420
+glyma.Wm82.gnm1.ann1.Glyma08g20030
+glyma.Wm82.gnm1.ann1.Glyma08g21410
+glyma.Wm82.gnm1.ann1.Glyma09g07520
+glyma.Wm82.gnm1.ann1.Glyma09g36983
+glyma.Wm82.gnm1.ann1.Glyma10G33030
+glyma.Wm82.gnm1.ann1.Glyma10G38970
+glyma.Wm82.gnm1.ann1.Glyma11g02980
+glyma.Wm82.gnm1.ann1.Glyma11g15580
+glyma.Wm82.gnm1.ann1.Glyma11g27480
+glyma.Wm82.gnm1.ann1.Glyma11g27720
+glyma.Wm82.gnm1.ann1.Glyma11g38130
+glyma.Wm82.gnm1.ann1.Glyma12G33660
+glyma.Wm82.gnm1.ann1.Glyma12g07861
+glyma.Wm82.gnm1.ann1.Glyma13g16560
+glyma.Wm82.gnm1.ann1.Glyma13g17290
+glyma.Wm82.gnm1.ann1.Glyma14g07880
+glyma.Wm82.gnm1.ann1.Glyma14g09510
+glyma.Wm82.gnm1.ann1.Glyma14g27990
+glyma.Wm82.gnm1.ann1.Glyma14g37350
+glyma.Wm82.gnm1.ann1.Glyma14g37440
+glyma.Wm82.gnm1.ann1.Glyma17g05200
+glyma.Wm82.gnm1.ann1.Glyma17g06120
+glyma.Wm82.gnm1.ann1.Glyma17g35650
+glyma.Wm82.gnm1.ann1.Glyma18g02060
+glyma.Wm82.gnm1.ann1.Glyma18g06840
+glyma.Wm82.gnm1.ann1.Glyma18g06950
+glyma.Wm82.gnm1.ann1.Glyma18g36130
+glyma.Wm82.gnm1.ann1.Glyma19g45030
+glyma.Wm82.gnm2.ann1.Glyma.01G008600
+glyma.Wm82.gnm2.ann1.Glyma.01G009600
+glyma.Wm82.gnm2.ann1.Glyma.01G156000
+glyma.Wm82.gnm2.ann1.Glyma.01G178000
+glyma.Wm82.gnm2.ann1.Glyma.01G215100
+glyma.Wm82.gnm2.ann1.Glyma.02G076900
+glyma.Wm82.gnm2.ann1.Glyma.02G108500
+glyma.Wm82.gnm2.ann1.Glyma.02G152800
+glyma.Wm82.gnm2.ann1.Glyma.02G270800
+glyma.Wm82.gnm2.ann1.Glyma.02G303800
+glyma.Wm82.gnm2.ann1.Glyma.03G209400
+glyma.Wm82.gnm2.ann1.Glyma.03G224300
+glyma.Wm82.gnm2.ann1.Glyma.03G261800
+glyma.Wm82.gnm2.ann1.Glyma.04G050200
+glyma.Wm82.gnm2.ann1.Glyma.04G143300
+glyma.Wm82.gnm2.ann1.Glyma.04G156400
+glyma.Wm82.gnm2.ann1.Glyma.05G012300
+glyma.Wm82.gnm2.ann1.Glyma.05G031100
+glyma.Wm82.gnm2.ann1.Glyma.05G128200
+glyma.Wm82.gnm2.ann1.Glyma.05G131200
+glyma.Wm82.gnm2.ann1.Glyma.06G119100
+glyma.Wm82.gnm2.ann1.Glyma.06G196200
+glyma.Wm82.gnm2.ann1.Glyma.06G284100
+glyma.Wm82.gnm2.ann1.Glyma.07G011600
+glyma.Wm82.gnm2.ann1.Glyma.07G048500
+glyma.Wm82.gnm2.ann1.Glyma.07g184900
+glyma.Wm82.gnm2.ann1.Glyma.08G076300
+glyma.Wm82.gnm2.ann1.Glyma.08G083300
+glyma.Wm82.gnm2.ann1.Glyma.08G302500
+glyma.Wm82.gnm2.ann1.Glyma.08G363100
+glyma.Wm82.gnm2.ann1.Glyma.08G363200
+glyma.Wm82.gnm2.ann1.Glyma.09G027700.1
+glyma.Wm82.gnm2.ann1.Glyma.09G088500
+glyma.Wm82.gnm2.ann1.Glyma.10G021500
+glyma.Wm82.gnm2.ann1.Glyma.10G221500
+glyma.Wm82.gnm2.ann1.Glyma.10G278000
+glyma.Wm82.gnm2.ann1.Glyma.11G003200
+glyma.Wm82.gnm2.ann1.Glyma.11G150300
+glyma.Wm82.gnm2.ann1.Glyma.11G150400
+glyma.Wm82.gnm2.ann1.Glyma.11G238800
+glyma.Wm82.gnm2.ann1.Glyma.11G246200
+glyma.Wm82.gnm2.ann1.Glyma.12G040000
+glyma.Wm82.gnm2.ann1.Glyma.12G224600
+glyma.Wm82.gnm2.ann1.Glyma.13G106100
+glyma.Wm82.gnm2.ann1.Glyma.13G218200
+glyma.Wm82.gnm2.ann1.Glyma.13G232500
+glyma.Wm82.gnm2.ann1.Glyma.13G259400
+glyma.Wm82.gnm2.ann1.Glyma.13G292300
+glyma.Wm82.gnm2.ann1.Glyma.14G046200
+glyma.Wm82.gnm2.ann1.Glyma.14G121400
+glyma.Wm82.gnm2.ann1.Glyma.14G188000
+glyma.Wm82.gnm2.ann1.Glyma.15G080200
+glyma.Wm82.gnm2.ann1.Glyma.15G222300
+glyma.Wm82.gnm2.ann1.Glyma.16G017400
+glyma.Wm82.gnm2.ann1.Glyma.16G044100
+glyma.Wm82.gnm2.ann1.Glyma.16G044200
+glyma.Wm82.gnm2.ann1.Glyma.16G050500
+glyma.Wm82.gnm2.ann1.Glyma.16G150700
+glyma.Wm82.gnm2.ann1.Glyma.16G151000
+glyma.Wm82.gnm2.ann1.Glyma.16G33780
+glyma.Wm82.gnm2.ann1.Glyma.17G031900
+glyma.Wm82.gnm2.ann1.Glyma.17G120400
+glyma.Wm82.gnm2.ann1.Glyma.18G117100
+glyma.Wm82.gnm2.ann1.Glyma.18G298900
+glyma.Wm82.gnm2.ann1.Glyma.18G299000
+glyma.Wm82.gnm2.ann1.Glyma.19G100200
+glyma.Wm82.gnm2.ann1.Glyma.19G108100
+glyma.Wm82.gnm2.ann1.Glyma.19G108200
+glyma.Wm82.gnm2.ann1.Glyma.19G194300
+glyma.Wm82.gnm2.ann1.Glyma.19G206800
+glyma.Wm82.gnm2.ann1.Glyma.19G224200
+glyma.Wm82.gnm2.ann1.Glyma.19G260900
+glyma.Wm82.gnm2.ann1.Glyma.19G263500
+glyma.Wm82.gnm2.ann1.Glyma.20G085100
+glyma.Wm82.gnm2.ann1.Glyma.20G090000
+glyma.Wm82.gnm2.ann1.Glyma.20G141200
+glyma.Wm82.gnm2.ann1.Glyma.20G186200
+glyma.Wm82.gnm4.ann1.Glyma.01G023500
+glyma.Wm82.gnm4.ann1.Glyma.02G041500
+glyma.Wm82.gnm4.ann1.Glyma.02G048600
+glyma.Wm82.gnm4.ann1.Glyma.02G168000
+glyma.Wm82.gnm4.ann1.Glyma.03G171600
+glyma.Wm82.gnm4.ann1.Glyma.04G101500
+glyma.Wm82.gnm4.ann1.Glyma.04G244200
+glyma.Wm82.gnm4.ann1.Glyma.04G244900
+glyma.Wm82.gnm4.ann1.Glyma.05G121600
+glyma.Wm82.gnm4.ann1.Glyma.05g032200
+glyma.Wm82.gnm4.ann1.Glyma.06G028200
+glyma.Wm82.gnm4.ann1.Glyma.06G169600
+glyma.Wm82.gnm4.ann1.Glyma.06G184200
+glyma.Wm82.gnm4.ann1.Glyma.06G207800
+glyma.Wm82.gnm4.ann1.Glyma.07G202300
+glyma.Wm82.gnm4.ann1.Glyma.07g049700
+glyma.Wm82.gnm4.ann1.Glyma.08G062000
+glyma.Wm82.gnm4.ann1.Glyma.08G062100
+glyma.Wm82.gnm4.ann1.Glyma.08G084300
+glyma.Wm82.gnm4.ann1.Glyma.08G255200
+glyma.Wm82.gnm4.ann1.Glyma.09G235100
+glyma.Wm82.gnm4.ann1.Glyma.09G266200
+glyma.Wm82.gnm4.ann1.Glyma.10G036800
+glyma.Wm82.gnm4.ann1.Glyma.10G141400
+glyma.Wm82.gnm4.ann1.Glyma.10G180600
+glyma.Wm82.gnm4.ann1.Glyma.10G194000
+glyma.Wm82.gnm4.ann1.Glyma.10G218800
+glyma.Wm82.gnm4.ann1.Glyma.10G261900
+glyma.Wm82.gnm4.ann1.Glyma.11G124200
+glyma.Wm82.gnm4.ann1.Glyma.11G149900
+glyma.Wm82.gnm4.ann1.Glyma.11G238800
+glyma.Wm82.gnm4.ann1.Glyma.12G014300
+glyma.Wm82.gnm4.ann1.Glyma.12G073300
+glyma.Wm82.gnm4.ann1.Glyma.13G173500
+glyma.Wm82.gnm4.ann1.Glyma.13G241700
+glyma.Wm82.gnm4.ann1.Glyma.13G248000
+glyma.Wm82.gnm4.ann1.Glyma.13G287600
+glyma.Wm82.gnm4.ann1.Glyma.13G288000
+glyma.Wm82.gnm4.ann1.Glyma.14G066100
+glyma.Wm82.gnm4.ann1.Glyma.14G068700
+glyma.Wm82.gnm4.ann1.Glyma.14G095900
+glyma.Wm82.gnm4.ann1.Glyma.15G012100
+glyma.Wm82.gnm4.ann1.Glyma.15G049200
+glyma.Wm82.gnm4.ann1.Glyma.15G174800
+glyma.Wm82.gnm4.ann1.Glyma.15g014800
+glyma.Wm82.gnm4.ann1.Glyma.16G044100
+glyma.Wm82.gnm4.ann1.Glyma.16G091300
+glyma.Wm82.gnm4.ann1.Glyma.16G092700
+glyma.Wm82.gnm4.ann1.Glyma.16G150700
+glyma.Wm82.gnm4.ann1.Glyma.16G150700
+glyma.Wm82.gnm4.ann1.Glyma.16G151000
+glyma.Wm82.gnm4.ann1.Glyma.16G212300
+glyma.Wm82.gnm4.ann1.Glyma.17G036300
+glyma.Wm82.gnm4.ann1.Glyma.17G036400
+glyma.Wm82.gnm4.ann1.Glyma.17G094400
+glyma.Wm82.gnm4.ann1.Glyma.18G022400
+glyma.Wm82.gnm4.ann1.Glyma.18G224500
+glyma.Wm82.gnm4.ann1.Glyma.18G273600
+glyma.Wm82.gnm4.ann1.Glyma.18G278100
+glyma.Wm82.gnm4.ann1.Glyma.19G108100
+glyma.Wm82.gnm4.ann1.Glyma.19G122800
+glyma.Wm82.gnm4.ann1.Glyma.19G194300
+glyma.Wm82.gnm4.ann1.Glyma.19G198600
+glyma.Wm82.gnm4.ann1.Glyma.19G260900
+glyma.Wm82.gnm4.ann1.Glyma.20G035700
+glyma.Wm82.gnm4.ann1.Glyma.20G090000
+glyma.Wm82.gnm4.ann1.Glyma.20G111000
+glyma.Wm82.gnm4.ann1.Glyma.20G116200
+glyma.Wm82.gnm6.ann1.Glyma.01G134600
+glyma.Wm82.gnm6.ann1.Glyma.02G240400
+glyma.Wm82.gnm6.ann1.Glyma.04G051000
+glyma.Wm82.gnm6.ann1.Glyma.05G243800
+glyma.Wm82.gnm6.ann1.Glyma.07G158200
+glyma.Wm82.gnm6.ann1.Glyma.08G108900
+glyma.Wm82.gnm6.ann1.Glyma.08G183500
+glyma.Wm82.gnm6.ann1.Glyma.08G230500
+glyma.Wm82.gnm6.ann1.Glyma.09G063900
+glyma.Wm82.gnm6.ann1.Glyma.09G073600
+glyma.Wm82.gnm6.ann1.Glyma.09G167000
+glyma.Wm82.gnm6.ann1.Glyma.10G164100
+glyma.Wm82.gnm6.ann1.Glyma.12G073900
+glyma.Wm82.gnm6.ann1.Glyma.15G049200
+glyma.Wm82.gnm6.ann1.Glyma.15G170300
+glyma.Wm82.gnm6.ann1.Glyma.17G054500
+glyma.Wm82.gnm6.ann1.Glyma.18G022500
+glyma.Wm82.gnm6.ann1.Glyma.20G005900
+glyma.Zh13.gnm1.ann1.SoyZH13_11G141200
+glyma.Zh13.gnm1.ann1.SoyZH13_12G067700
+
+---------------------ENTITY NAME--------------------------
+
+     34 days to maturity
+     31 nodulation
+     30 flowering time
+     24 regulation of biological process involved in symbiotic interaction
+     14 fat and essential oil content
+     12 seed development
+     10 regulation of triglyceride biosynthetic process
+     10 photoperiod-sensitive flowering time trait
+     10 Seed protein content
+     10 Flowering time trait
+      8 plant height
+      8 lipid metabolic process
+      7 seed weight
+      6 seed protein content
+      6 root development
+      6 metabolic process
+      6 auxin receptor activity
+      6 asparagine synthase (glutamine-hydrolyzing) activity
+      6 asparagine biosynthetic process
+      6 Heterodera glycines response
+      5 stem internode morphology trait
+      5 seed oilbody biogenesis
+      5 salt tolerance
+      5 root nodule
+      5 positive regulation of long-day photoperiodism, flowering
+      5 isoflavonoid biosynthetic process
+      5 biological process involved in symbiotic interaction
+      4 sucrose content
+      4 regulation of seed growth
+      4 protein content
+      4 positive regulation of lateral root development
+      4 plant stress trait
+      4 plant organ growth and development trait
+      4 abiotic plant stress trait
+      4 Hydrolase Activity
+      3 vesicle-mediated transport
+      3 sucrose synthase activity trait
+      3 stem branch number
+      3 secondary metabolite biosynthetic process
+      3 root nodule morphology trait
+      3 relative yield
+      3 positive regulation of short-day photoperiodism, flowering
+      3 positive regulation of shoot apical meristem development
+      3 pod number trait
+      3 oxidation-reduction process
+      3 omega-3 fatty acid desaturase
+      3 omega-3 fatty acid content
+      3 nitrogen fixation
+      3 leaf chlorophyll content
+      3 kinase activity
+      3 inorganic phosphate transmembrane transporter activity
+      3 gibberellin biosynthetic process
+      3 flowering time trait
+      3 drought tolerance
+      3 defense response to nematode
+      3 defense response to bacterium
+      3 biotic plant stress trait
+      3 alpha-linolenic acid content
+      3 Seed coat color
+      2 temperature response trait
+      2 sugar content
+      2 stem node number
+      2 starch content
+      2 short-day photoperiodism
+      2 protein kinase activity
+      2 prenyltransferase activity
+      2 phosphorus content
+      2 nematode damage response trait
+      2 negative regulation of chlorophyll catabolic process
+      2 microbial disease response
+      2 magnesium chelatase activity
+      2 isoflavonoid phytoalexin metabolic process
+      2 insect damage resistance
+      2 indeterminate root nodule nitrogen fixation zone
+      2 gibberellin catabolic process
+      2 floral organ development
+      2 fatty acid content trait
+      2 fatty acid biosynthetic process
+      2 blue light signaling pathway
+      2 beta-ketoacyl-acyl-carrier-protein synthase II activity
+      2 bacterial disease resistance
+      2 Oomycete disease response
+      2 Flowering Time trait
+      2 Flavonoid metabolic process
+      2 DNA-binding transcription factor activity
+      2 3-chloroallyl aldehyde dehydrogenase activity
+      1 yield trait
+      1 viral disease resistance
+      1 unsaturated fatty acid biosynthesis process
+      1 triglyceride metabolic process
+      1 triglyceride catabolic process
+      1 transcription factor binding
+      1 transcription factor AP-1 complex
+      1 sterol desaturase activity
+      1 stem width
+      1 stearic acid content
+      1 soybean plant height trait
+      1 soybean mosaic virus
+      1 soybean flowering time trait
+      1 somatic embryogenesis
+      1 short day length exposure
+      1 shoot system development
+      1 shoot branching
+      1 seed size
+      1 seed oil content
+      1 seed growth and development trait
+      1 seed germination stage
+      1 seed germination
+      1 seed coat luster
+      1 seed
+      1 salt response
+      1 root hair
+      1 relative phosphorus utilization efficiency
+      1 relative phosphorus uptake
+      1 regulation of root meristem growth
+      1 regulation of metabolic process
+      1 regulation of gene expression
+      1 protein localization to plasma membrane
+      1 protein binding
+      1 postassium ion concentration
+      1 positively regulates
+      1 positive regulation of seed germination
+      1 positive regulation of circadian rhythm
+      1 plant stress response trait
+      1 plant pigment content trait
+      1 plant embryo development trait
+      1 photosynthetic ability
+      1 photoperiodism, flowering
+      1 phosphate ion homeostasis
+      1 petiole length
+      1 pectin catabolic process
+      1 oxidoreductase activity
+      1 osmotic response sensitivity
+      1 oleic acid content
+      1 negative regulation of shoot apical meristem development
+      1 negative regulation of long-day photoperiodism, flowering
+      1 negative regulation of fatty acid oxidation
+      1 myo-inositol hexakisphosphate metabolic process
+      1 multicellular organism development
+      1 mineral and ion transportation
+      1 miRNA-mediated post-transcriptional gene silencing
+      1 meristem identity
+      1 long-day photoperiodism, flowering
+      1 leaf yeild trait
+      1 leaf width
+      1 leaf senescence rate
+      1 leaf area trait
+      1 iron ion sequestering activity
+      1 intracellular protein transport
+      1 intracellular amino acid homeostasis
+      1 inositol-1,3,4,5,6-pentakisphosphate 2-kinase activity
+      1 homogentisate prenyltransferase activity
+      1 herbicide resistance
+      1 glyphosate sensitivity
+      1 glycoside biosynthetic process
+      1 glyceollin synthase activity
+      1 gibberellin metabolic process
+      1 flooding related trait
+      1 fat and essential oil composition related trait
+      1 fat & essential oil content
+      1 efflux transmembrane transporter activity
+      1 defence response to fungus
+      1 days to flowering trait
+      1 cytoplasmic side of transport vesicle membrane
+      1 cellular response to blue light
+      1 cell wall modification
+      1 cell elongation trait
+      1 carbohydrate biosynthetic process
+      1 cannabinoid biosynthetic process
+      1 calmodulin binding
+      1 biosynthetic process
+      1 acyl carrier activity
+      1 abscisic acid-activated signaling pathway
+      1 abscisic acid sensitivity
+      1 Transcription factor binding
+      1 Stem node number
+      1 Regulation of anthocyanin metabolic process
+      1 Positive regulation of vitamin E biosynthetic process
+      1 Methyltransferase activity
+      1 Metabolic process
+      1 Hilum color
+      1 Golgi vesicle transport
+      1 Gamma Tocopherol Measurement
+      1 Flowering morphology trait
+      1 C2H2 and C2HC zinc fingers superfamily protein
+      1 Anthocyanidin reductase activity
+      1 Alpha Tocopherol Measurement
+      1 ABC-type transporter activity
+
+---------------------ENTITY--------------------------
+
+     46 TO:0002616
+     33 TO:0000469
+     31 GO:0009877
+     24 GO:0043903
+     16 TO:0000490
+     15 TO:0000604
+     12 GO:0048316
+     10 GO:0010866
+      9 TO:0000934
+      8 TO:0000207
+      8 GO:0006629
+      7 TO:0000181
+      6 TO:0001111
+      6 GO:0048364
+      6 GO:0038198
+      6 GO:0008152
+      6 GO:0006529
+      6 GO:0004066
+      5 TO:0006001
+      5 TO:0000756
+      5 TO:0000164
+      5 PO:0003023
+      5 GO:0044403
+      5 GO:0010344
+      5 GO:0009717
+      4 TO:0000927
+      4 TO:0000598
+      4 TO:0000328
+      4 TO:0000168
+      4 GO:1901333
+      4 GO:0080113
+      4 GO:0016787
+      3 TO:0020020
+      3 TO:0012002
+      3 TO:0005005
+      3 TO:0005004
+      3 TO:0001125
+      3 TO:0000898
+      3 TO:0000699
+      3 TO:0000634
+      3 TO:0000276
+      3 TO:0000190
+      3 TO:0000179
+      3 TO:0000153
+      3 GO:1902185
+      3 GO:0055114
+      3 GO:0051607
+      3 GO:0048578
+      3 GO:0048576
+      3 GO:0044550
+      3 GO:0042742
+      3 GO:0042389
+      3 GO:0016301
+      3 GO:0016192
+      3 GO:0009686
+      3 GO:0009399
+      3 GO:0005315
+      3 GO:0002215
+      2 TO:0001170
+      2 TO:0001144
+      2 TO:0001024
+      2 TO:0000696
+      2 TO:0000432
+      2 TO:0000384
+      2 TO:0000333
+      2 TO:0000315
+      2 TO:0000261
+      2 TO:0000112
+      2 RO:0002212
+      2 GO:1903647
+      2 GO:0048572
+      2 GO:004857
+      2 GO:0048437
+      2 GO:0046289
+      2 GO:0045487
+      2 GO:0033817
+      2 GO:0016851
+      2 GO:0016491
+      2 GO:0009812
+      2 GO:0009785
+      2 GO:0008134
+      2 GO:0006633
+      2 GO:0004672
+      2 GO:0004659
+      2 GO:0003700
+      2 ENVO:01000171
+      1 TO:0020096
+      1 TO:0012011
+      1 TO:0006017
+      1 TO:0005006
+      1 TO:0005003
+      1 TO:0005002
+      1 TO:0002687
+      1 TO:0002639
+      1 TO:0001035
+      1 TO:0000968
+      1 TO:0000933
+      1 TO:0000888
+      1 TO:0000870
+      1 TO:0000766
+      1 TO:0000653
+      1 TO:0000648
+      1 TO:0000627
+      1 TO:0000620
+      1 TO:0000615
+      1 TO:0000540
+      1 TO:0000513
+      1 TO:0000499
+      1 TO:0000494
+      1 TO:0000491
+      1 TO:0000429
+      1 TO:0000391
+      1 TO:0000371
+      1 TO:0000370
+      1 TO:0000344
+      1 TO:0000316
+      1 TO:0000148
+      1 TO:0000114
+      1 TO:0000095
+      1 PO:0009010
+      1 PO:0007057
+      1 PECO:0007200
+      1 OMIT:0025284
+      1 NCIT:C116211
+      1 NCIT:C103349
+      1 NCBITaxon:12222
+      1 GO:1904966
+      1 GO:1902184
+      1 GO:1901696
+      1 GO:0140359
+      1 GO:0140315
+      1 GO:0098539
+      1 GO:0080144
+      1 GO:0072659
+      1 GO:0071483
+      1 GO:0070704
+      1 GO:0055062
+      1 GO:0050832
+      1 GO:0048579
+      1 GO:0048574
+      1 GO:0048573
+      1 GO:0048367
+      1 GO:0048193
+      1 GO:0046872
+      1 GO:0046322
+      1 GO:0045490
+      1 GO:0042753
+      1 GO:0042545
+      1 GO:0035976
+      1 GO:0035618
+      1 GO:0035299
+      1 GO:0035195
+      1 GO:0033769
+      1 GO:0033729
+      1 GO:0033517
+      1 GO:0031537
+      1 GO:0019433
+      1 GO:0019222
+      1 GO:0016138
+      1 GO:0016051
+      1 GO:0015562
+      1 GO:0010468
+      1 GO:0010354
+      1 GO:0010262
+      1 GO:0010082
+      1 GO:0010030
+      1 GO:0009845
+      1 GO:0009738
+      1 GO:0009685
+      1 GO:0009058
+      1 GO:0008168
+      1 GO:000815
+      1 GO:0007275
+      1 GO:0006886
+      1 GO:0006641
+      1 GO:0006636
+      1 GO:0005516
+      1 GO:0005515
+      1 GO:0004028
+      1 GO:0000496
+      1 GO:0000036
+      1 CO_336:0000048
+      1 CO_336:0000027
+      1 CO_336:0000000
+
+---------------------DOI--------------------------
+
+10.1002/advs.202505181
+10.1002/pld3.70098
+10.1002/tpg2.70115
+10.1007/s00122-004-1887-2
+10.1007/s00122-007-0621-2
+10.1007/s00122-010-1467-6
+10.1007/s00122-012-1922-7
+10.1007/s00122-016-2819-7
+10.1007/s00122-021-03917-9
+10.1007/s00299-013-1419-0
+10.1007/s00425-005-0201-0
+10.1007/s10142-012-0306-z
+10.1007/s10725-016-0173-z
+10.1007/s11032-008-9165-7
+10.1007/s11032-012-9707-x
+10.1007/s11032-019-0972-9
+10.1007/s11033-011-0875-2
+10.1007/s11103-013-0062-z
+10.1007/s11103-013-0133-1
+10.1007/s11103-014-0172-2
+10.1007/s11104-014-2267-6
+10.1007/s11105-010-0235-8
+10.1007/s11240-015-0837-9
+10.1007/s11248-013-9713-8
+10.1007/s11738-016-2136-4
+10.1007/s13205-018-1492-8
+10.1016/j.bbrc.2024.149471
+10.1016/j.cj.2021.08.009
+10.1016/j.csbj.2022.06.014
+10.1016/j.gene.2025.149609
+10.1016/j.heliyon.2019.e01868
+10.1016/j.jplph.2011.08.007
+10.1016/j.jplph.2019.153019
+10.1016/j.molp.2016.12.004
+10.1016/j.molp.2020.03.002
+10.1016/j.pbi.2005.05.010
+10.1016/j.plantsci.2005.02.016
+10.1016/j.plantsci.2019.110298
+10.1016/j.plantsci.2019.110386
+10.1016/j.plantsci.2023.111677
+10.1016/j.plantsci.2025.112863
+10.1016/j.tplants.2022.07.002
+10.1016/j.xplc.2025.101378
+10.1016/j.xplc.2025.101678
+10.1021/jf2033939
+10.1038/72671
+10.1038/nature08670
+10.1038/ncomms5340
+10.1038/ng.3819
+10.1038/s41467-018-05663-x
+10.1038/s41467-022-34153-4
+10.1038/s41467-023-42991-z
+10.1038/s41477-017-0084-7
+10.1038/s41477-020-00832-7
+10.1038/s41588-020-0604-7
+10.1038/s41598-018-25910-x
+10.1038/s41598-019-42332-5
+10.1038/s41598-019-44255-7
+10.1038/s42003-021-01889-6
+10.1038/s42003-021-01907-7
+10.1038/srep28541
+10.1073/pnas.0810585105
+10.1073/pnas.1000088107
+10.1073/pnas.1117982109
+10.1073/pnas.1312801111
+10.1073/pnas.1611763113
+10.1073/pnas.2100136118
+10.1080/15592324.2019.1709707
+10.1093/aob/mct269
+10.1093/aob/mcu147
+10.1093/jxb/erae174
+10.1093/jxb/ers039
+10.1093/jxb/ert238
+10.1093/jxb/erw283
+10.1093/jxb/erw394
+10.1093/jxb/erw425
+10.1093/jxb/erz199
+10.1093/pcp/pcy215
+10.1094/MPMI-01-20-0017-R
+10.1094/MPMI-09-10-0207
+10.1104/pp.107.1.253
+10.1104/pp.108.123679
+10.1104/pp.109.150607
+10.1104/pp.110.160796
+10.1104/pp.114.235952
+10.1104/pp.114.242495
+10.1104/pp.125.4.1941
+10.1104/pp.15.00763
+10.1104/pp.19.01209
+10.1105/tpc.114.126938
+10.1105/tpc.114.131607
+10.1105/tpc.114.135103
+10.1111/j.1365-313X.2010.04214.x
+10.1111/j.1365-313X.2010.04398.x
+10.1111/j.1365-313x.2004.02072.x
+10.1111/j.1399-3054.2007.00903.x
+10.1111/j.1467-7652.2012.00729.x
+10.1111/jipb.12201
+10.1111/jipb.13021
+10.1111/jipb.13070
+10.1111/jipb.13207
+10.1111/jipb.13631
+10.1111/mpp.12741
+10.1111/nph.14632
+10.1111/nph.14884
+10.1111/nph.16250
+10.1111/nph.16506
+10.1111/nph.18792
+10.1111/pbi.13199
+10.1111/pbi.13305
+10.1111/pbi.13343
+10.1111/pbi.13346
+10.1111/pbi.13536
+10.1111/pbi.13668
+10.1111/pce.13678
+10.1111/pce.13695
+10.1111/tpj.12419
+10.1111/tpj.13181
+10.1111/tpj.14025
+10.1111/tpj.14083
+10.1111/tpj.14789
+10.1111/tpj.15077
+10.1111/tpj.15414
+10.1111/tpj.15520
+10.1111/tpj.15658
+10.1111/tpj.70435
+10.1126/science.1077937
+10.1126/science.281.5380.1202
+10.1126/science.abh2890
+10.1186/1471-2229-10-195
+10.1186/1471-2229-11-155
+10.1186/1471-2229-13-21
+10.1186/1471-2229-14-143
+10.1186/1471-2229-14-154
+10.1186/1471-2229-14-9
+10.1186/s12864-019-5577-5
+10.1186/s12870-014-0263-x
+10.1186/s12870-015-0602-6
+10.1186/s12870-016-0704-9
+10.1186/s12870-018-1551-7
+10.1186/s12870-019-2145-8
+10.1186/s12870-019-2201-4
+10.1270/jsbbs.16201
+10.1270/jsbbs.64.371
+10.1371/journal.pgen.1009114
+10.1371/journal.pone.0054154
+10.1371/journal.pone.0085754
+10.1371/journal.pone.0089030
+10.1371/journal.pone.0094150
+10.1371/journal.pone.0097669
+10.1371/journal.pone.0097891
+10.1371/journal.pone.0111959
+10.1371/journal.pone.0136601
+10.1371/journal.pone.0159064
+10.1371/journal.pone.0222469
+10.1371/journal.pone.0235120
+10.1371/journal.pone.0285698
+10.1515/biol-2022-0490
+10.1534/g3.114.015255
+10.1534/g3.116.038596
+10.1534/genetics.108.092742
+10.1534/genetics.108.098772
+10.1534/genetics.110.125062
+10.1590/1678-4685-GMB-2021-0016
+10.2134/agronmonogr16.3ed.c5
+10.2135/cropsci2008.02.0084
+10.2135/cropsci2014.03.0228
+10.3389/fpls.2017.01604
+10.3389/fpls.2019.00794
+10.3389/fpls.2019.01221
+10.3389/fpls.2020.00450
+10.3389/fpls.2021.629069
+10.3389/fpls.2021.632754
+10.3389/fpls.2021.708286
+10.3389/fpls.2022.817544
+10.3389/fpls.2022.820348
+10.3389/fpls.2022.842597
+10.3389/fpls.2022.889066
+10.3389/fpls.2023.1190503
+10.3389/fpls.2025.1533592
+10.3389/fpls.2025.1606321
+10.3390/agronomy3010117
+10.3390/genes10120957
+10.3390/genes8040111
+10.3390/ijms19082395
+10.3390/ijms20194849
+10.3390/ijms22083877
+10.3390/ijms23052497
+10.3390/ijms23084116
+10.3390/ijms24010798
+10.3390/ijms26020492
+10.3390/ijms26052123
+10.3390/plants14030343
+
+---------------------PMID--------------------------
+
+10657130
+11299373
+12228359
+12411574
+15125772
+15731930
+15939664
+16395584
+17701395
+18780733
+19091879
+19106300
+19474204
+20075913
+20219831
+20345602
+20421496
+20828382
+20864544
+21046066
+21175888
+21198362
+21406680
+21617948
+21963279
+22070454
+22107112
+22619331
+22733447
+22863334
+23322364
+23342093
+23388059
+23636663
+23636865
+23645501
+23963672
+24072327
+24284817
+24372721
+24397545
+24452833
+24465684
+24586488
+24673766
+24707045
+24727730
+24733883
+24845624
+24846334
+24872380
+24886084
+24893844
+25004933
+25005919
+25074550
+25287450
+25369033
+25452420
+25549672
+25663621
+25914592
+26134161
+26371882
+26420429
+26786479
+27062090
+27345221
+27404272
+27422993
+27791139
+27832313
+27979775
+28204559
+28235823
+28319089
+28338712
+28350372
+28598036
+28979275
+29085246
+29120038
+29292374
+29769571
+30004144
+30087346
+30110937
+30113770
+30195273
+30418611
+30456004
+30509166
+30894121
+30979945
+31035293
+31123331
+31206092
+31240772
+31293605
+31437808
+31518373
+31569565
+31596499
+31724182
+31766569
+31779909
+31782596
+31787988
+31852439
+31856712
+31906799
+31960590
+31981430
+31981443
+32005391
+32119117
+32171732
+32186464
+32231277
+32344464
+32499790
+32584851
+32680974
+33090664
+33175845
+33179365
+33368860
+33452487
+33458938
+33742087
+33742112
+33841461
+33846264
+33918544
+33995435
+34245624
+34265872
+34319424
+34531883
+34587329
+34591638
+34919115
+34962095
+34978122
+35269637
+35371153
+35456933
+35498680
+35574141
+35599880
+35782726
+35840482
+36249531
+36307423
+36614246
+36740575
+36931563
+37186600
+37384360
+38040709
+38219483
+38390811
+38635775
+39859208
+39926644
+39942905
+40076746
+40394901
+40466959
+40636009
+40679091
+40839861
+40874116
+41006955
+41238015
+41408752
+9712587
+PMC3350928
+null

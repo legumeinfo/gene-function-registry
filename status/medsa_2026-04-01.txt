@@ -1,0 +1,29 @@
+
+---------------------GENE MODEL FULL ID--------------------------
+
+medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
+
+---------------------ENTITY NAME--------------------------
+
+      1 trehalose biosynthetic process
+      1 salt tolerance
+      1 oxidative stress response
+      1 hydrogen peroxide content
+      1 alkali sensitivity
+
+---------------------ENTITY--------------------------
+
+      1 TO:0006001
+      1 TO:0002657
+      1 TO:0000605
+      1 TO:0000481
+      1 GO:0005992
+
+---------------------DOI--------------------------
+
+10.1016/j.gene.2025.149609
+10.48130/vegres-0024-0007
+
+---------------------PMID--------------------------
+
+40466959

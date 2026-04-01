@@ -1,0 +1,60 @@
+
+---------------------GENE MODEL FULL ID--------------------------
+
+pissa.Cameor.gnm1.ann1.Psat0s2289g0040
+pissa.Cameor.gnm1.ann1.Psat1g151160
+pissa.Cameor.gnm1.ann1.Psat2g181040
+pissa.Cameor.gnm1.ann1.Psat2g181040
+pissa.Cameor.gnm1.ann1.Psat3g034640
+pissa.Cameor.gnm1.ann1.Psat3g126440
+pissa.Cameor.gnm1.ann1.Psat5g291560
+pissa.Cameor.gnm1.ann1.Psat5g299720
+pissa.Cameor.gnm1.ann1.Psat6g060480
+
+---------------------ENTITY NAME--------------------------
+
+      2 sclerenchyma
+      2 plant structure growth and development trait
+      1 positive regulation of chlorophyll catabolic process
+      1 plant embryo cotyledon color
+      1 leaf senescence trait
+      1 chlorophyll catabolic process
+      1 apical meristem
+      1 Stem internode morphology trait
+      1 Shoot apical meristem development
+      1 Seedling cotyledon color
+      1 Seed coat texture
+      1 Flower color
+      1 Chlorophyll content
+
+---------------------ENTITY--------------------------
+
+      2 TO:0000928
+      2 PO:0005427
+      1 TO:0006020
+      1 TO:0000980
+      1 TO:0000903
+      1 TO:0000756
+      1 TO:0000750
+      1 TO:0000537
+      1 TO:0000495
+      1 TO:0000249
+      1 PO:0020144
+      1 GO:1903648
+      1 GO:0015996
+
+---------------------DOI--------------------------
+
+10.1007/s11103-008-9314-8
+10.1016/j.tplants.2009.01.002
+10.1038/s41586-025-08891-6
+10.1073/pnas.0705521104
+10.1126/science.1132912
+
+---------------------PMID--------------------------
+
+17204643
+17709752
+18301989
+19237309
+40269167

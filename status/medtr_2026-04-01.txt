@@ -1,0 +1,522 @@
+
+---------------------GENE MODEL FULL ID--------------------------
+
+medtr.A17.gnm5.ann1_6.MtrunA17Chr2g0284911
+medtr.A17.gnm5.ann1_6.MtrunA17Chr3g0140861
+medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0035451
+medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0222521
+medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
+medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229131
+medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0264231
+medtr.A17.gnm5.ann1_6.MtrunA17Chr8g0380021
+medtr.A17_HM341.gnm4.ann2.Medtr0007s0220
+medtr.A17_HM341.gnm4.ann2.Medtr1g030890
+medtr.A17_HM341.gnm4.ann2.Medtr1g056530
+medtr.A17_HM341.gnm4.ann2.Medtr1g064260
+medtr.A17_HM341.gnm4.ann2.Medtr1g090320
+medtr.A17_HM341.gnm4.ann2.Medtr1g101600
+medtr.A17_HM341.gnm4.ann2.Medtr1g102070
+medtr.A17_HM341.gnm4.ann2.Medtr1g102900
+medtr.A17_HM341.gnm4.ann2.Medtr2g005870
+medtr.A17_HM341.gnm4.ann2.Medtr2g021242
+medtr.A17_HM341.gnm4.ann2.Medtr2g021255
+medtr.A17_HM341.gnm4.ann2.Medtr2g035020
+medtr.A17_HM341.gnm4.ann2.Medtr2g078700
+medtr.A17_HM341.gnm4.ann2.Medtr2g084815
+medtr.A17_HM341.gnm4.ann2.Medtr2g103303
+medtr.A17_HM341.gnm4.ann2.Medtr3g021350
+medtr.A17_HM341.gnm4.ann2.Medtr3g051770
+medtr.A17_HM341.gnm4.ann2.Medtr3g064700
+medtr.A17_HM341.gnm4.ann2.Medtr3g077240
+medtr.A17_HM341.gnm4.ann2.Medtr3g083580
+medtr.A17_HM341.gnm4.ann2.Medtr3g092090
+medtr.A17_HM341.gnm4.ann2.Medtr3g098560
+medtr.A17_HM341.gnm4.ann2.Medtr3g098560
+medtr.A17_HM341.gnm4.ann2.Medtr3g099200
+medtr.A17_HM341.gnm4.ann2.Medtr3g099620
+medtr.A17_HM341.gnm4.ann2.Medtr3g106420
+medtr.A17_HM341.gnm4.ann2.Medtr3g106430
+medtr.A17_HM341.gnm4.ann2.Medtr3g106480
+medtr.A17_HM341.gnm4.ann2.Medtr3g111680
+medtr.A17_HM341.gnm4.ann2.Medtr4g039430
+medtr.A17_HM341.gnm4.ann2.Medtr4g055440
+medtr.A17_HM341.gnm4.ann2.Medtr4g070860
+medtr.A17_HM341.gnm4.ann2.Medtr4g070970
+medtr.A17_HM341.gnm4.ann2.Medtr4g084140
+medtr.A17_HM341.gnm4.ann2.Medtr4g084870
+medtr.A17_HM341.gnm4.ann2.Medtr4g085800
+medtr.A17_HM341.gnm4.ann2.Medtr4g102450
+medtr.A17_HM341.gnm4.ann2.Medtr4g111935
+medtr.A17_HM341.gnm4.ann2.Medtr4g114900
+medtr.A17_HM341.gnm4.ann2.Medtr4g116360
+medtr.A17_HM341.gnm4.ann2.Medtr4g126070
+medtr.A17_HM341.gnm4.ann2.Medtr5g011250
+medtr.A17_HM341.gnm4.ann2.Medtr5g014400
+medtr.A17_HM341.gnm4.ann2.Medtr5g019040
+medtr.A17_HM341.gnm4.ann2.Medtr5g022030
+medtr.A17_HM341.gnm4.ann2.Medtr5g022870
+medtr.A17_HM341.gnm4.ann2.Medtr5g026850
+medtr.A17_HM341.gnm4.ann2.Medtr5g030920
+medtr.A17_HM341.gnm4.ann2.Medtr5g036480
+medtr.A17_HM341.gnm4.ann2.Medtr5g085850
+medtr.A17_HM341.gnm4.ann2.Medtr5g086120
+medtr.A17_HM341.gnm4.ann2.Medtr5g086130
+medtr.A17_HM341.gnm4.ann2.Medtr5g097060
+medtr.A17_HM341.gnm4.ann2.Medtr5g099060
+medtr.A17_HM341.gnm4.ann2.Medtr6g027840
+medtr.A17_HM341.gnm4.ann2.Medtr6g029180
+medtr.A17_HM341.gnm4.ann2.Medtr6g034835
+medtr.A17_HM341.gnm4.ann2.Medtr6g034835
+medtr.A17_HM341.gnm4.ann2.Medtr6g052300
+medtr.A17_HM341.gnm4.ann2.Medtr6g071190
+medtr.A17_HM341.gnm4.ann2.Medtr7g016630
+medtr.A17_HM341.gnm4.ann2.Medtr7g020850
+medtr.A17_HM341.gnm4.ann2.Medtr7g079550
+medtr.A17_HM341.gnm4.ann2.Medtr7g084970
+medtr.A17_HM341.gnm4.ann2.Medtr7g084970
+medtr.A17_HM341.gnm4.ann2.Medtr7g085040
+medtr.A17_HM341.gnm4.ann2.Medtr7g085810
+medtr.A17_HM341.gnm4.ann2.Medtr7g090020
+medtr.A17_HM341.gnm4.ann2.Medtr7g101290
+medtr.A17_HM341.gnm4.ann2.Medtr7g104460
+medtr.A17_HM341.gnm4.ann2.Medtr7g417750
+medtr.A17_HM341.gnm4.ann2.Medtr8g020840
+medtr.A17_HM341.gnm4.ann2.Medtr8g043970
+medtr.A17_HM341.gnm4.ann2.Medtr8g055940
+medtr.A17_HM341.gnm4.ann2.Medtr8g058380
+medtr.A17_HM341.gnm4.ann2.Medtr8g066260
+medtr.A17_HM341.gnm4.ann2.Medtr8g069135
+medtr.A17_HM341.gnm4.ann2.Medtr8g106150
+
+---------------------ENTITY NAME--------------------------
+
+     25 root nodule number
+     25 root nodule
+     18 root system
+     12 nodulation
+     11 root nodule morphology trait
+      7 root
+      5 root length
+      5 petiole length
+      4 root meristem development
+      4 nitrogen fixation
+      4 inflorescence morphology trait
+      4 floral organ identity
+      3 whole plant
+      3 petiole
+      3 lateral root
+      3 flowering time trait
+      3 floral meristem determinacy
+      3 auxin sensitivity
+      3 anthocyanin content
+      3 Leaf size
+      2 vascular leaf morphology trait
+      2 stamen development
+      2 shoot axis internode length
+      2 seed maturation
+      2 secondary branching of inflorescence
+      2 root number
+      2 root hair length
+      2 root hair cell
+      2 root development trait
+      2 primary root
+      2 plant structure growth and development trait
+      2 nitrogen content
+      2 negative regulation of lateral root development
+      2 leaflet
+      2 leaf size
+      2 leaf rachis
+      2 leaf
+      2 inflorescence development
+      2 glutamine catabolic process
+      2 flower
+      2 days to flowering trait
+      2 cytokinin biosynthetic process
+      2 cotyledon
+      2 chlorophyll content
+      2 carpel development
+      2 auxin content
+      2 Floral organ size
+      1 vernalization response
+      1 vascular bundle development trait
+      1 vascular bundle
+      1 trichome morphology trait
+      1 stem shape
+      1 stem length
+      1 stem internode morphology trait
+      1 stem elongation
+      1 stamen morphology trait
+      1 stamen
+      1 shoot system
+      1 shoot meristem development
+      1 shoot apical meristem development
+      1 seminal root length
+      1 seedling cotyledon size
+      1 seed dormancy process
+      1 seed dormancy
+      1 seed
+      1 salt tolerance
+      1 root weight
+      1 root system iron content
+      1 root radial pattern formation
+      1 root nodule weight
+      1 root nitrogen content
+      1 root morphology trait
+      1 root hair
+      1 root development
+      1 root cortical cell length
+      1 root branching
+      1 reproductive shoot system
+      1 pulvinus
+      1 primary root development
+      1 primary branching of inflorescence
+      1 positive regulation of long-day photoperiodism, flowering
+      1 positive regulation of endocytosis
+      1 positive regulation of anthocyanin biosynthetic process
+      1 plant-type hypersensitive response
+      1 plant tissue development trait
+      1 plant ovule
+      1 plant organ growth and development trait
+      1 plant embryo
+      1 plant dry weight
+      1 plant cell length
+      1 petiole shape
+      1 non-hair root epidermal cell
+      1 negative regulation of leaf senescence
+      1 negative regulation of anthocyanin biosynthetic process
+      1 male sterility
+      1 leaf shattering
+      1 leaf shape
+      1 leaf morphology trait
+      1 leaf abscission zone
+      1 leaf abscission
+      1 lateral root length
+      1 juvenile vascular leaf
+      1 hypocotyl morphology trait
+      1 hypocotyl
+      1 host bacteroid-containing symbiosome
+      1 gravity response trait
+      1 gibberellin biosynthetic process
+      1 germination rate
+      1 fruit senescing quality trait
+      1 fruit abscission
+      1 fruit
+      1 flower morphology trait
+      1 flower development trait
+      1 floral organ size
+      1 floral organ number
+      1 floral organ development
+      1 floral organ abscission
+      1 female sterility
+      1 exocarp texture
+      1 enzyme activity trait
+      1 embryo shape
+      1 cytokinin sensitivity
+      1 cotyledon morphology trait
+      1 compound leaf morphology trait
+      1 cell wall modification
+      1 carpel trichome
+      1 carpel morphology trait
+      1 carpel
+      1 carotene content
+      1 biological process involved in symbiotic interaction
+      1 biological process involved in interaction with symbiont
+      1 bacteroid-containing symbiosome
+      1 bacterial disease response
+      1 auxin transport
+      1 apical hook
+      1 anthocyanin accumulation
+      1 anther development
+      1 Seed size
+      1 Pulvinus size
+      1 Primary Branch number
+      1 Plant Height
+      1 Leaf senescence duration
+      1 Axillary bud morphology trait
+      1 (1->3)-beta-D-glucan catabolic process
+
+---------------------ENTITY--------------------------
+
+     25 TO:0000900
+     25 PO:0003023
+     18 PO:0025025
+     12 GO:0009877
+     11 TO:0000898
+      7 PO:0009005
+      5 TO:0002637
+      5 TO:0000766
+      5 TO:0000227
+      4 TO:0006019
+      4 TO:0002692
+      4 TO:0002616
+      4 TO:0000373
+      4 GO:0009399
+      3 TO:0002600
+      3 TO:0000163
+      3 TO:0000071
+      3 PO:0020121
+      3 PO:0020038
+      3 PO:0000003
+      3 GO:0010582
+      2 TO:0020093
+      2 TO:0002672
+      2 TO:0002665
+      2 TO:0002661
+      2 TO:0000928
+      2 TO:0000656
+      2 TO:0000495
+      2 TO:0000419
+      2 TO:0000344
+      2 TO:0000145
+      2 TO:0000142
+      2 TO:0000084
+      2 PO:0025034
+      2 PO:0020127
+      2 PO:0020055
+      2 PO:0020049
+      2 PO:0020030
+      2 PO:0009046
+      2 PO:0000256
+      2 GO:1901332
+      2 GO:0048443
+      2 GO:0048440
+      2 GO:0010229
+      2 GO:0009691
+      2 GO:0006543
+      1 TO:1000034
+      1 TO:0020109
+      1 TO:0020108
+      1 TO:0020107
+      1 TO:0012012
+      1 TO:0006038
+      1 TO:0006036
+      1 TO:0006020
+      1 TO:0006015
+      1 TO:0006012
+      1 TO:0006001
+      1 TO:0003074
+      1 TO:0002729
+      1 TO:0002693
+      1 TO:0002638
+      1 TO:0002624
+      1 TO:0001121
+      1 TO:0001075
+      1 TO:0001012
+      1 TO:0000927
+      1 TO:0000911
+      1 TO:0000899
+      1 TO:0000893
+      1 TO:0000790
+      1 TO:0000767
+      1 TO:0000757
+      1 TO:0000756
+      1 TO:0000752
+      1 TO:0000749
+      1 TO:0000748
+      1 TO:0000622
+      1 TO:0000599
+      1 TO:0000586
+      1 TO:0000576
+      1 TO:0000547
+      1 TO:0000499
+      1 TO:0000492
+      1 TO:0000437
+      1 TO:0000430
+      1 TO:0000391
+      1 TO:0000358
+      1 TO:0000352
+      1 TO:0000315
+      1 TO:0000289
+      1 TO:0000279
+      1 TO:0000257
+      1 TO:0000253
+      1 TO:0000215
+      1 TO:0000207
+      1 TO:0000193
+      1 TO:0000167
+      1 TO:0000108
+      1 TO:0000052
+      1 TO:0000043
+      1 PO:0025208
+      1 PO:0025082
+      1 PO:0020100
+      1 PO:0020003
+      1 PO:0009030
+      1 PO:0009029
+      1 PO:0009010
+      1 PO:0009009
+      1 PO:0009006
+      1 PO:0009001
+      1 PO:0009000
+      1 PO:0006501
+      1 PO:0006339
+      1 PO:0005020
+      1 PO:0000263
+      1 PO:0000012
+      1 NCIT:C16641
+      1 GO:1900056
+      1 GO:0090057
+      1 GO:0080022
+      1 GO:0060918
+      1 GO:0060867
+      1 GO:0060866
+      1 GO:0051702
+      1 GO:0048653
+      1 GO:0048578
+      1 GO:0048437
+      1 GO:0048364
+      1 GO:0045807
+      1 GO:0044403
+      1 GO:0043663
+      1 GO:0043660
+      1 GO:0042545
+      1 GO:0035618
+      1 GO:0031542
+      1 GO:0031541
+      1 GO:0010227
+      1 GO:0010162
+      1 GO:0009686
+      1 GO:0009626
+      1 GO:0006076
+
+---------------------DOI--------------------------
+
+10.1007/s11103-005-8102-y
+10.1016/j.bbrc.2019.12.017
+10.1016/j.cub.2018.09.031
+10.1038/s41477-018-0286-7
+10.1073/pnas.0400595101
+10.1073/pnas.1820468116
+10.1073/pnas.2205920119
+10.1093/jxb/eraa390
+10.1093/jxb/erab033
+10.1093/jxb/erab359
+10.1093/jxb/erac112
+10.1093/jxb/erw474
+10.1093/pcp/pcy228
+10.1093/plphys/kiaa005
+10.1093/plphys/kiab140
+10.1094/mpmi-06-10-0144
+10.1094/mpmi.2000.13.7.763
+10.1104/pp.105.069054
+10.1104/pp.108.125062
+10.1104/pp.109.143024
+10.1104/pp.111.180182
+10.1104/pp.15.00164
+10.1104/pp.15.01853
+10.1104/pp.18.01572
+10.1104/pp.18.01588
+10.1104/pp.18.01613
+10.1105/tpc.019406
+10.1105/tpc.105.035394
+10.1105/tpc.107.053975
+10.1105/tpc.107.057547
+10.1105/tpc.111.089128
+10.1105/tpc.15.00461
+10.1105/tpc.15.00476
+10.1105/tpc.19.00609
+10.1111/j.1365-313X.2010.04474.x
+10.1111/j.1365-313x.2006.02910.x
+10.1111/j.1365-313x.2009.04072.x
+10.1111/j.1469-8137.2011.03718.x
+10.1111/j.1469-8137.2012.04147.x
+10.1111/j.1469-8137.2012.04268.x
+10.1111/nph.12091
+10.1111/nph.12198
+10.1111/nph.12681
+10.1111/nph.13162
+10.1111/nph.13634
+10.1111/nph.14017
+10.1111/nph.17097
+10.1111/pbi.13469
+10.1111/pce.13853
+10.1111/ppl.14046
+10.1111/tpj.13234
+10.1186/1471-2229-10-183
+10.1186/s12870-019-2194-z
+10.1186/s12870-020-02619-6
+10.1186/s13007-015-0053-y
+10.1242/dev.158766
+10.1371/journal.pgen.1004891
+10.1371/journal.pone.0103770
+10.1371/journal.pone.0247170
+10.3389/fpls.2015.00575
+10.3389/fpls.2016.00034
+10.3389/fpls.2021.709625
+10.3390/ijms17081197
+10.3390/ijms20122941
+10.3390/ijms21228742
+10.3390/ijms251910410
+10.3390/plants13071012
+10.7554/elife.80741
+
+---------------------PMID--------------------------
+
+10875337
+15037734
+15070781
+16199614
+16240175
+16244141
+17132148
+18156218
+18381924
+18790999
+19789288
+19912567
+20723225
+20731530
+21276104
+21679315
+21685176
+22080596
+22530598
+22891817
+23278348
+23432463
+24443934
+25105497
+25406544
+25521478
+25774204
+25792252
+26284091
+26390061
+26410301
+26672071
+26858743
+26884486
+27245091
+27296908
+27463709
+28073951
+29361570
+30397259
+30416059
+30476329
+30710053
+30782811
+30782966
+31061106
+31208116
+31831172
+31856724
+32303662
+32683703
+32816361
+32841350
+32867687
+33222243
+33228084
+33506247
+33606812
+33631796
+33744928
+34329408
+34421956
+35294003
+35972963
+36856086
+37882293
+38611541
+39408738

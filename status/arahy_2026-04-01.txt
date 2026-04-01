@@ -1,0 +1,107 @@
+
+---------------------GENE MODEL FULL ID--------------------------
+
+arahy.Tifrunner.gnm2.ann1.1XW75L
+arahy.Tifrunner.gnm2.ann1.5Q6PVM.1
+arahy.Tifrunner.gnm2.ann1.W8TDEC
+arahy.Tifrunner.gnm2.ann2.Ah06g207600
+arahy.Tifrunner.gnm2.ann2.Ah08g062600
+arahy.Tifrunner.gnm2.ann2.Ah08g309800
+arahy.Tifrunner.gnm2.ann2.Ah13g064900
+arahy.Tifrunner.gnm2.ann2.Ah16g512200
+
+---------------------ENTITY NAME--------------------------
+
+      2 plant growth and development trait
+      1 total soluble sugar content
+      1 shoot branching
+      1 seed weight
+      1 seed size
+      1 seed coat color
+      1 salicylic acid mediated signaling pathway
+      1 root length
+      1 response to abscisic acid
+      1 proline content
+      1 programmed cell death
+      1 proanthocyanidin biosynthetic process
+      1 plant width
+      1 pathogen-associated molecular pattern receptor signaling pathway
+      1 palmitic acid content
+      1 oleic acid content
+      1 low temperature stress response
+      1 linoleic acid content
+      1 legume fruit weight
+      1 jasmonic acid mediated signaling pathway
+      1 fruit size
+      1 fat and essential oil content
+      1 chlorophyll content
+      1 brassinosteroid mediated signaling pathway
+      1 bacterial disease response
+      1 anthocyanin content
+      1 anthocyanidin reductase activity
+      1 aluminum response trait
+      1 abiotic plant stress response trait
+
+---------------------ENTITY--------------------------
+
+      2 TO:0000357
+      1 TO:1000075
+      1 TO:0006062
+      1 TO:0006002
+      1 TO:0005002
+      1 TO:0005001
+      1 TO:0002639
+      1 TO:0002625
+      1 TO:0001092
+      1 TO:0000604
+      1 TO:0000495
+      1 TO:0000391
+      1 TO:0000354
+      1 TO:0000340
+      1 TO:0000315
+      1 TO:0000303
+      1 TO:0000227
+      1 TO:0000190
+      1 TO:0000181
+      1 TO:0000168
+      1 TO:0000071
+      1 GO:0140426
+      1 GO:0033729
+      1 GO:0012501
+      1 GO:0010023
+      1 GO:0009867
+      1 GO:0009863
+      1 GO:0009742
+      1 GO:0009737
+
+---------------------DOI--------------------------
+
+10.1007/s00122-025-04903-1
+10.1016/j.molp.2019.03.005
+10.1016/j.plaphy.2022.11.002
+10.1016/j.plaphy.2025.110475
+10.1038/s41588-024-01660-7
+10.1111/pbi.12589
+10.1111/pbi.13311
+10.1186/s12864-024-10108-5
+10.1186/s12870-023-04656-3
+10.3389/fpls.2016.01446
+10.3389/fpls.2023.1343402
+10.3389/fpls.2024.1363251
+10.7717/peerj.12965
+
+---------------------PMID--------------------------
+
+27311738
+27746793
+30902685
+31808273
+35251782
+36410145
+38062387
+38312353
+38378471
+38378864
+38742211
+40358622
+40915113

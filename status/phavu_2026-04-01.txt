@@ -1,0 +1,56 @@
+
+---------------------GENE MODEL FULL ID--------------------------
+
+phavu.G19833.gnm2.ann1.Phvul.002G143400
+phavu.G19833.gnm2.ann1.Phvul.006G018800
+phavu.G19833.gnm2.ann1.Phvul.007G171333
+
+---------------------ENTITY NAME--------------------------
+
+      2 seed coat color
+      1 regulation of proanthocyanidin biosynthetic process
+      1 positive regulation of receptor-mediated endocytosis
+      1 pericarp color
+      1 nodulation
+      1 kinase activity
+      1 flower color
+      1 flavonoid content
+      1 biological process involved in symbiotic interaction
+      1 bHLH transcription factor binding
+      1 anthocyanin content
+
+---------------------ENTITY--------------------------
+
+      2 TO:0000190
+      1 TO:0000707
+      1 TO:0000537
+      1 TO:0000290
+      1 TO:0000071
+      1 GO:2000029
+      1 GO:0048260
+      1 GO:0044403
+      1 GO:0043425
+      1 GO:0016301
+      1 GO:0009877
+
+---------------------DOI--------------------------
+
+10.1002/ppp3.10132
+10.1007/s00122-021-03922-y
+10.1007/s00425-023-04116-0
+10.1007/s11032-023-01362-8
+10.1021/jf0304324
+10.1093/jhered/93.2.148
+10.1111/nph.15259
+10.3389/fpls.2022.869582
+
+---------------------PMID--------------------------
+
+12140276
+14690368
+29897103
+34268482
+34328529
+35432409
+36928335
+37313298
