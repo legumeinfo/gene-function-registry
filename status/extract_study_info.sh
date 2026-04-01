@@ -43,7 +43,7 @@ echo "
 " >> "$GLYMA"
 
 cat ../Glycine/max/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -56,7 +56,7 @@ echo "
 " >> "$GLYMA"
 
 cat ../Glycine/max/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -111,7 +111,7 @@ echo "
 " >> "$GLYSO"
 
 cat ../Glycine/soja/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -124,7 +124,7 @@ echo "
 " >> "$GLYSO"
 
 cat ../Glycine/soja/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -178,7 +178,7 @@ echo "
 " >> "$ARAHY"
 
 cat ../Arachis/hypogaea/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -191,7 +191,7 @@ echo "
 " >> "$ARAHY"
 
 cat ../Arachis/hypogaea/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -245,7 +245,7 @@ echo "
 " >> "$LOTJA"
 
 cat ../Lotus/japonicus/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -258,7 +258,7 @@ echo "
 " >> "$LOTJA"
 
 cat ../Lotus/japonicus/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -312,7 +312,7 @@ echo "
 " >> "$MEDSA"
 
 cat ../Medicago/sativa/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -325,7 +325,7 @@ echo "
 " >> "$MEDSA"
 
 cat ../Medicago/sativa/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -379,7 +379,7 @@ echo "
 " >> "$MEDTR"
 
 cat ../Medicago/truncatula/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -392,7 +392,7 @@ echo "
 " >> "$MEDTR"
 
 cat ../Medicago/truncatula/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -447,7 +447,7 @@ echo "
 " >> "$PHAVU"
 
 cat ../Phaseolus/vulgaris/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -460,7 +460,7 @@ echo "
 " >> "$PHAVU"
 
 cat ../Phaseolus/vulgaris/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -514,7 +514,7 @@ echo "
 " >> "$PISSA"
 
 cat ../Pisum/sativum/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -527,7 +527,7 @@ echo "
 " >> "$PISSA"
 
 cat ../Pisum/sativum/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -581,7 +581,7 @@ echo "
 " >> "$VICFA"
 
 cat ../Vicia/faba/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -594,7 +594,7 @@ echo "
 " >> "$VICFA"
 
 cat ../Vicia/faba/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -648,7 +648,7 @@ echo "
 " >> "$VIGRA"
 
 cat ../Vigna/radiata/studies/*.yml \
-    | grep 'entity' \
+    | grep 'entity:' \
     | cut -d ":" -f 2,3 \
     | sed 's/^[[:space:]]*//' \
     | sort \
@@ -661,7 +661,7 @@ echo "
 " >> "$VIGRA"
 
 cat ../Vigna/radiata/studies/*.yml \
-    | grep 'doi' \
+    | grep 'doi:' \
     | cut -d ":" -f 2 \
     | sed 's/^[[:space:]]*//' \
     | sort \
