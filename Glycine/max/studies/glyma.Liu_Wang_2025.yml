@@ -3,8 +3,8 @@ scientific_name: Glycine max
 classical_locus: T
 gene_symbols:
   - GmF3H
-  - sf3′h1
   - GmHC1
+  - sf3′h1
 gene_symbol_long: Soybean Flavonoid 3′-Hydroxylase
 gene_model_pub_name: Glyma.06G202300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G202300
@@ -17,94 +17,86 @@ comments:
     physiological traits (Yang, Jeong et al., 2010).
   - The pleiotropic T gene encodes flavonoid 3'-hydroxylase (F3'H), which
     affects testa and hilum color, pubescence color, cold stress tolerance, seed
-    yield, and growth habits and development. F3'H affects chilling resilience
-    by producing more 30,40-dihydroxylated flavonol derivatives which then
-    enhance antioxidant activity (Toda, Takahashi et al., 2011; Toda, Yang et
-    al., 2002).
-  - The soybean sf3′h1 gene, 1690 nucleotides and 513 amino acids in length,
-    corresponds to the T locus that encodes the F3'H enzyme and was mapped to
-    the same location on LG3(c2) using RFLPs. The functional dominant T allele
-    leads to brown pubescence. A single-base cytosine deletion in the recessive
-    allele produces a shifted reading frame that is missing the GGEK consensus
-    sequence and heme-binding domain. The resulting truncated polypeptide is
-    associated with gray pubescence, altered flavonoid content, and longer
-    PCR-RFLP fragments (Toda, Yang et al., 2002).
-  - Complete sf3'h1 protein shows up strongest in the hilum and funiculus of
-    immature seed coats in homozygous dominant plants. Homozygous recessive
-    plants have a truncated protein that's harder to detect. F3'H enzyme
-    activity in transformed yeast fractions was measured for dominant but not
-    recessive sf3'h1 alleles. Scavenging activity of the DPPH radical in
-    funiculus and hilum extracts was higher in dominant than in recessive
-    plants. F3'H is connected to flavonoid biosynthesis in the testa and the
-    antioxidant properties manifested therein (Toda, Kuroiwa et al., 2012).
+    yield, and growth habits and development. Chilling resistance is enhanced by
+    production of 30,40-dihydroxylated flavonol derivatives which enhance
+    antioxidant activity (Toda, Takahashi et al., 2011; Toda, Yang et al.,
+    2002).
+  - The soybean sf3′h1 gene corresponding to the T locus, 1690 nucleotides and
+    513 amino acids in length, was mapped to LG3(c2) using RFLPs. The functional
+    dominant T allele turns out brown stem pubescence. A single-base cytosine
+    deletion in the recessive allele produces a shifted reading frame missing
+    the GGEK consensus sequence and heme-binding domain. This truncated
+    polypeptide is associated with gray pubescence, altered flavonoids, and
+    longer PCR-RFLP fragments (Toda, Yang et al., 2002).
+  - Complete flavonoid 3'-hydroxylase showed up strongest in the hilum and
+    funiculus of immature seed coats, whereas the truncated protein was harder
+    to detect. F3'H enzyme activity in transformed yeast was measured for
+    dominant but not recessive sf3'h1 alleles. Scavenging activity of the DPPH
+    radical in funiculus and hilum extracts was higher in dominant than in
+    recessive plants. Testa F3'H is connected to flavonoid biosynthesis and the
+    concomitant antioxidant properties (Toda, Kuroiwa et al., 2012).
   - The location of cytochrome P450 monooxygenase F3'H was pinpointed using
     microscopy to the tonoplast surrounding vacuoles within the seed coat
     hilum’s parenchymatic cells (Toda, Kuroiwa et al., 2012).
-  - A soybean GWAS using SNPs proposed seven candidate genes for stem pubescence
+  - Soybean GWAS using SNPs proposed seven candidate genes for stem pubescence
     color and four candidates for hilum color based on transcription patterns,
     cold stress responses, and regulatory pathways. Glyma.06G202300 was found
     near two SNPs (Chr06:18749716 and Chr06:18749528) and is an orthologue of
     Arabidopsis AT5G07990; it represents a candidate for both characters that
-    encodes flavonoid 3′-hydroxylase. Glyma.06G202300 was highly expressed
-    primarily in the seeds, secondarily in pods, and also in stems and the shoot
-    apical meristem (Zhou, Wang et al.,2024).
-  - Soybean plants exhibited canopy leaf pigmentation changes (CLPC), a
-    reddish-purple coloration, that correlated with abiotic stress responses
-    such as decreased Fv/Fm numbers for photosystem II and hyperspectral
-    reflectance. Reflectance wavelengths in the peak range for anthocyanins
-    differed between reddish-purple and green leaves; nonetheless, anthocyanin
-    accumulation wasn't detected in pigmented leaves by liquid chromatography
+    encodes F3'H. Glyma.06G202300 was highly expressed primarily in seeds,
+    secondarily in pods, and also in stems and the shoot apical meristem (Zhou,
+    Wang et al.,2024).
+  - Soybean exhibited canopy leaf pigmentation changes (CLPC), i.e.
+    reddish-purple coloration, correlated with abiotic stress responses such as
+    decreased Fv/Fm numbers for photosystem II and hyperspectral reflectance
     (You, Jo et al., 2024).
   - A major QTL on chromosome 6 between 17.9 and 18.9 Mbp, encompassing
-    Glyma.06G202300, explains a significant portion of phenotypic variance in
-    canopy leaf pigmentation. Glyma.06G202300 gene expression was 2.5- to
-    7.2-fold higher in pigmented than in green leaves of the same plants. The
-    gene encodes a Flavonoid 3'-Hydroxylase involved in anthocyanin biosynthesis
-    (You, Jo et al., 2024).
-  - Purple-leaved plants have a single-base deletion in Glyma.06G202300,
-    localized to 18,737,369 BP in the third exon. The consequence of this
-    frameshift mutation is a premature stop codon and is expressed as a
-    truncated protein missing functional domains (You, Jo et al., 2024).
+    Glyma.06G202300 which encodes an F3'H involved in anthocyanin biosynthesis,
+    explains plenty of phenotypic variance in canopy leaf pigmentation.
+    Glyma.06G202300 gene expression was 2.5- to 7.2-fold higher in pigmented
+    than in green leaves of the same plants (You, Jo et al., 2024).
   - Hilum color (black or brown) is controlled by a single dominant gene, Hilum
     Colour 1 (HC1), mapped to a 34-kb region on chromosome 6 containing the open
-    reading frame Glyma.06G202300. Sequencing of Glyma.06G202300 revealed a
-    single-base deletion in exon 3 present for the brown-hilum soybean, which
-    resulted in a frameshift mutation with premature termination and deletion of
-    the functional domain (Liu, Wang et al., 2025).
-  - HC1, an orthologue of Arabidopsis TT7, encodes for flavonoid 3′-hydroxylase
-    (F3′H). F3′H converts apigenin or kaempferol substrates to luteolin and
-    quercetin, respectively. HC1 is localized to the endoplasmic reticulum and
-    may be involved in flavonoid biosynthesis there. HC1 is constitutively
-    expressed in soybean and to a particularly high degree in early‑ to
-    mid‑developing seeds (Liu, Wang et al., 2025).
-  - Knockout of HC1 (hc1) validated the HC1 candidate gene and its role in seed hilum
-    developement. HC1 knockout resulted in lighter hilum colour, suppression of
-    downstream production of dihydroquercetin and quercetin, and smaller hilum
-    sizes relative to wild type. HC1 overexpression lines exhibited a hilum
-    color shift from light brown to gray (Liu, Wang et al., 2025).
+    reading frame Glyma.06G202300 (Liu, Wang et al., 2025).
+  - Sequencing of purple-leaved and brown-hilum soybeans both reveal a single-base
+    deletion in Glyma.06G202300 localized to 18,737,369 BP in the third exon.
+    The resulting frameshift mutation contains a premature stop codon and is
+    expressed as a truncated protein missing functional domains (You, Jo et al.,
+    2024; Liu, Wang et al., 2025).
+  - HC1, an orthologue of Arabidopsis TT7, encodes for F3′H that converts
+    apigenin or kaempferol substrates to luteolin and quercetin, respectively.
+    HC1 is localized to the endoplasmic reticulum and may be involved in
+    flavonoid biosynthesis there. HC1 is constitutively expressed in soybean and
+    to a particularly high degree in early‑ to mid‑developing seeds (Liu, Wang
+    et al., 2025).
+  - Knockout of HC1 (hc1 allele) validated the HC1 candidate gene and its role
+    in seed hilum developement. HC1 knockout resulted in lighter hilum colour,
+    suppression of downstream production of dihydroquercetin and quercetin, and
+    smaller hilum sizes relative to wild type (WT). HC1 overexpression lines
+    exhibited a hilum color shift from light brown to gray (Liu, Wang et al.,
+    2025).
   - Black-hilum soybean lines exhibited higher seed oil contents than lines with
     brown hilums. Knockout of HC1 reduced seed oil content, and tissues with
-    higher oil contents had lower protein contents. HC1 overexpression increases
+    higher oil contents had lower protein levels. HC1 overexpression increases
     oil content without affecting yield or fatty acid composition (Liu, Wang et
     al., 2025).
-  - HC1-knockouts produced significantly fewer nodules than wild type plants
-    both in the field and in pot experiments when inoculated with Bradyrhizobium
-    diazoefficiens but not Sinorhizobium fredii. HC1 may positively influence
-    nodule numbers and symbiotic nitrogen fixation. Wild type plants (HC1)
-    showed greater  chlorophyll content and photosynthetic efficiency than
-    knockouts (Liu, Wang et al., 2025).
+  - HC1-knockouts produced fewer nodules than WT plants both in the field and in
+    pot experiments when inoculated with Bradyrhizobium diazoefficiens. HC1 may
+    positively influence nodule numbers and symbiotic nitrogen fixation.
+    WT-plants (HC1) showed greater chlorophyll content and photosynthetic
+    efficiency than knockouts (Liu, Wang et al., 2025).
   - Within the three HC1 haplotype groups there were two which produced
-    truncated and nonfunctional proteins that behaved as the same recessive
-    allele. These nonfunctional (hc1) varieties were absent in wild soybean
-    populations but were prevalent among cultivated soybeans, especially in
-    northern China, suggesting domestication-driven selection for lighter hilums
-    or nearby  maturity genes (Liu, Wang et al., 2025).
+    truncated proteins that behaved as the same recessive allele. These
+    nonfunctional (hc1) varieties were absent in wild soybean populations but
+    were prevalent among cultivated soybeans, especially in northern China,
+    suggesting domestication-driven selection for lighter hilums or nearby
+    maturity genes (Liu, Wang et al., 2025).
   - During seed development the larger hilums, elevated antioxidant activity,
     increased nodulation, and enhanced photosynthesis in plants with functional
     HC1 may improve carbohydrate transport, nutrient provision and seed oil
-    accumulation. Differential expression of genes observed between the wild
-    type and knockout suggests HC1-regulated flavonoid metabolism promotes
-    seed oil accumulation (Liu, Wang et al., 2025).
+    accumulation. Differential expression of WT and knockout genes suggests
+    HC1-regulated flavonoid metabolism promotes seed oil accumulation (Liu, Wang
+    et al., 2025).
 phenotype_synopsis: The pleiotropic T gene Glyma.06G202300 encodes a Flavonoid
   3′-Hydroxylase (F3′H) and its impacts on hydroxyflavonoid biosynthesis and
   ultimately anthocyanins are associated with hilum color and development,
