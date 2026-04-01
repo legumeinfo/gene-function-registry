@@ -3,8 +3,8 @@ scientific_name: Medicago sativa
 gene_symbols:
   - MsHSP70
 gene_symbol_long: Heat shock protein 70
-gene_model_pub_name: null
-gene_model_full_id: null
+gene_model_pub_name: medsa.XinJiangDaYe.gnm1.chr4.1, medsa.XinJiangDaYe.gnm1.chr4.2, medsa.XinJiangDaYe.gnm1.chr4.3, medsa.XinJiangDaYe.gnm1.chr4.4
+gene_model_full_id: 
 confidence: 4
 curators:
   - Molly Hardacre
