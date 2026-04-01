@@ -9,12 +9,19 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - Silencing GmERF57 expression promoted root development and enhanced plant soil phosphate uptake
-  - Overexpression of GmERF57 yielded contrasting phenotypes compared to silenced roots
-  - GmERF57 physically interacts with GmTUB1 (β-tubulin protein) and modulates soybean root architecture and soil phosphate uptake capacity by downregulating GmTUB1 and other phosphate starvation response genes
-  - Population genomics analysis revealed that GmERF57 has undergone artificial selection, and allelic distribution analysis significantly correlated with traits associated with low phosphate tolerance in soybean
-  - Haplotype 2 (Hap2), carrying the T to C single nucleotide polymorphism (SNP), represents the optimal allele favoring low phosphate tolerance
-phenotype_synopsis: 
+  - Silencing GmERF57 expression promoted root development and enhanced plant
+    soil phosphate uptake
+  - Overexpression of GmERF57 yielded contrasting phenotypes compared to
+    silenced roots
+  - GmERF57 physically interacts with GmTUB1 (β-tubulin protein) and modulates
+    soybean root architecture and soil phosphate uptake capacity by
+    downregulating GmTUB1 and other phosphate starvation response genes
+  - Population genomics analysis revealed that GmERF57 has undergone artificial
+    selection, and allelic distribution analysis significantly correlated with
+    traits associated with low phosphate tolerance in soybean
+  - Haplotype 2 (Hap2), carrying the T to C single nucleotide polymorphism (SNP)
+    in GmERF57, Hap2 is linked to low-phosphate tolerance.
+phenotype_synopsis: GmERF57 negatively impacts soybean root structure, induced by low phosphate
 traits:
   - entity_name: phosphate content
     entity: TO:0020102
@@ -23,9 +30,11 @@ traits:
 references:
   - citation: Zhu, Hu et al., 2024
     doi: 10.1016/j.stress.2025.100763
+  - citation: Zhang, Li et al., 2016
+    doi: 10.3389/fpls.2016.00372
+    pmid: 27065041
 
 ---
-
 scientific_name: Glycine max
 gene_symbols:
   - GmTUB1
@@ -36,20 +45,30 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - Overexpression of GmTUB1 promotes the growth of soybean hairy roots, thereby enhancing their low phosphate acquisition capability and increasing root low phosphate content
-  - Silencing of GmTUB1 inhibited the root growth, but the difference between cytokinin pants and Ri-GmTUB1 plants was not significant
-  - Regardless of phoshpate supply, GmTUB1 was significantly upregulated in Ri-GmERF57 (RNA interference-mediated silencing plants) roots compared with cytokinin plants, while no significant change was observed in OE-GmERF57 (overexpressing plants) roots
+  - Overexpression of GmTUB1 promotes the growth of soybean hairy roots, thereby
+    enhancing their low phosphate acquisition capability and increasing root low
+    phosphate content
+  - Silencing of GmTUB1 inhibited the root growth, but the difference between
+    cytokinin pants and Ri-GmTUB1 plants was not significant
+  - Regardless of phoshpate supply, GmTUB1 was significantly upregulated in
+    Ri-GmERF57 (RNA interference-mediated silencing plants) roots compared with
+    cytokinin plants, while no significant change was observed in OE-GmERF57
+    (overexpressing plants) roots
   - Most of the fusion protein of GmTUB1 was found in nucleus and cell membrane
-phenotype_synopsis: 
+phenotype_synopsis: GmERF57 interacts with GmTUB1, which enhances root growth and phosphate uptake
 traits:
   - entity_name: phosphate content
     entity: TO:0020102
-  - entity_name: phosphate content
-    entity: TO:0020102
+  - entity_name: root development
+    entity: GO:0048364
   - entity_name: root hair
     entity: GO:0035618
 references:
   - citation: Zhu, Hu et al., 2024
     doi: 10.1016/j.stress.2025.100763
+  - citation: Zhang, Li et al., 2016
+    doi: 10.3389/fpls.2016.00372
+    pmid: 27065041
+    
 
 ---
