@@ -1,0 +1,51 @@
+
+Status for Phaseolus vulgaris (phavu) as of 2026-04-02:
+
+  Summary for phavu, key: 'gene_model_full_id'
+  --------------------------------------------------
+      1 phavu.G19833.gnm2.ann1.Phvul.007G171333
+      1 phavu.G19833.gnm2.ann1.Phvul.006G018800
+      1 phavu.G19833.gnm2.ann1.Phvul.002G143400
+  --------------------------------------------------
+
+  Summary for phavu, key: 'doi'
+  --------------------------------------------------
+      1 10.3389/fpls.2022.869582
+      1 10.1111/nph.15259
+      1 10.1093/jhered/93.2.148
+      1 10.1021/jf0304324
+      1 10.1007/s11032-023-01362-8
+      1 10.1007/s00425-023-04116-0
+      1 10.1007/s00122-021-03922-y
+      1 10.1002/ppp3.10132
+  --------------------------------------------------
+
+  Summary for phavu, key: 'pmid'
+  --------------------------------------------------
+      1 37313298
+      1 36928335
+      1 35432409
+      1 34328529
+      1 34268482
+      1 29897103
+      1 14690368
+      1 12140276
+  --------------------------------------------------
+
+  Summary for phavu, GO entities and descriptions ...
+  --------------------------------------------------
+      2 TO:0000190 | seed coat color
+      1 TO:0000707 | pericarp color
+      1 TO:0000537 | flower color
+      1 TO:0000290 | flavonoid content
+      1 TO:0000071 | anthocyanin content
+      1 GO:2000029 | regulation of proanthocyanidin biosynthetic process
+      1 GO:0048260 | positive regulation of receptor-mediated endocytosis
+      1 GO:0044403 | biological process involved in symbiotic interaction
+      1 GO:0043425 | bHLH transcription factor binding
+      1 GO:0016301 | kinase activity
+      1 GO:0009877 | nodulation
+  --------------------------------------------------
+
+======================================================================
+
