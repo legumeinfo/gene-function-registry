@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCrRLK1L2
+gene_symbol_long: Catharanthus roseus Receptor-like Kinase 1-like 2
+gene_model_pub_name: Glyma.02G122000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G122000
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCrRLK1L members exhibited high homology with Arabidopsis genes such as
+    ANX1 (AT3G04690), ANX2 (AT5G28680), FER, and THE1.
+  - GmCrRLK1L2 knockout plants showed no difference in salt tolerance compared
+    to WT; however, GmCrRLK1L2-overexpression plants exhibited decreased salt
+    tolerance compared to WT plants.
+  - GmCrRLK1L2 overexpression influenced the expression of metabolic pathways
+    and salt stress-responsive genes, including ACS3, ACO1, PER64, PER53, SAT3,
+    and BCAT2.
+  - Overexpression of GmCrRLK1L2 in soybean resulted in reduced plant height.
+  - Gene structure and motif analysis revealed a predominance of intron-lacking
+    and relatively conserved GmCrRLK1L genes. With conserved motif patterns
+    across members, CrRLK1L genes in soybean appear to have conserved functions
+    in responding to salt stress, similar to other plant species.
+phenotype_synopsis: GmCrRLK1L2 may decrease soybean tolerance to salt stress as
+  well as diminishing plant height.
+traits:
+  - entity_name: salt response
+    entity: TO:0000429
+  - entity_name: plant height
+    entity: TO:0000207
+references:
+  - citation: Jiang, Cao et al., 2024
+    doi: 10.1016/j.envexpbot.2024.105903
+  - citation: Boisson-Dernier, Kessler et al., 2011
+    doi: 10.1093/jxb/erq445
+    pmid: 21252257
+
+---
