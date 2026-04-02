@@ -3,8 +3,125 @@ scientific_name: Medicago sativa
 gene_symbols:
   - MsHSP70
 gene_symbol_long: Heat shock protein 70
-gene_model_pub_name: medsa.XinJiangDaYe.gnm1.chr4.1, medsa.XinJiangDaYe.gnm1.chr4.2, medsa.XinJiangDaYe.gnm1.chr4.3, medsa.XinJiangDaYe.gnm1.chr4.4
-gene_model_full_id: 
+gene_model_pub_name: medsa.XinJiangDaYe.gnm1.chr4.1
+gene_model_full_id: null
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MsHSP70 shares high sequence identity (94.47%) with HSP70 from Medicago
+    truncatula.
+  - Expression analysis of MsHSP70 in alfalfa organs revealed a relatively
+    higher expression level in aerial organs such as flowers, stems and leaves
+    than in roots.
+  - Observations of transgenic Arabidopsis under stress suggested that the
+    enhanced stress tolerance of the transgenic seedlings primarily resulted
+    from the elevation of MsHSP70 level.
+  - Higher relative water content was detected in transgenic MsHSP70 plants
+    compared with non-transgenic plants under drought stress.
+phenotype_synopsis: MsHSP70 may play a protective role under drought and
+  abscisic acid stress, but not salt stress, in a respiratory metabolism related
+  way.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: abscisic acid sensitivity
+    entity: TO:0000615
+references:
+  - citation: Li, Long et al., 2017
+    doi: 10.1007/s10265-017-0905-9
+    pmid: 28150171
+  - citation: He, Xie et al., 2008
+    doi: 10.1111/j.1745-7270.2008.00394.x
+    pmid: 18330475
+
+---
+null
+
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsHSP70
+gene_symbol_long: Heat shock protein 70
+gene_model_pub_name: medsa.XinJiangDaYe.gnm1.chr4.2
+gene_model_full_id: null
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MsHSP70 shares high sequence identity (94.47%) with HSP70 from Medicago
+    truncatula.
+  - Expression analysis of MsHSP70 in alfalfa organs revealed a relatively
+    higher expression level in aerial organs such as flowers, stems and leaves
+    than in roots.
+  - Observations of transgenic Arabidopsis under stress suggested that the
+    enhanced stress tolerance of the transgenic seedlings primarily resulted
+    from the elevation of MsHSP70 level.
+  - Higher relative water content was detected in transgenic MsHSP70 plants
+    compared with non-transgenic plants under drought stress.
+phenotype_synopsis: MsHSP70 may play a protective role under drought and
+  abscisic acid stress, but not salt stress, in a respiratory metabolism related
+  way.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: abscisic acid sensitivity
+    entity: TO:0000615
+references:
+  - citation: Li, Long et al., 2017
+    doi: 10.1007/s10265-017-0905-9
+    pmid: 28150171
+  - citation: He, Xie et al., 2008
+    doi: 10.1111/j.1745-7270.2008.00394.x
+    pmid: 18330475
+
+---
+null
+
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsHSP70
+gene_symbol_long: Heat shock protein 70
+gene_model_pub_name: medsa.XinJiangDaYe.gnm1.chr4.3
+gene_model_full_id: null
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MsHSP70 shares high sequence identity (94.47%) with HSP70 from Medicago
+    truncatula.
+  - Expression analysis of MsHSP70 in alfalfa organs revealed a relatively
+    higher expression level in aerial organs such as flowers, stems and leaves
+    than in roots.
+  - Observations of transgenic Arabidopsis under stress suggested that the
+    enhanced stress tolerance of the transgenic seedlings primarily resulted
+    from the elevation of MsHSP70 level.
+  - Higher relative water content was detected in transgenic MsHSP70 plants
+    compared with non-transgenic plants under drought stress.
+phenotype_synopsis: MsHSP70 may play a protective role under drought and
+  abscisic acid stress, but not salt stress, in a respiratory metabolism related
+  way.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: abscisic acid sensitivity
+    entity: TO:0000615
+references:
+  - citation: Li, Long et al., 2017
+    doi: 10.1007/s10265-017-0905-9
+    pmid: 28150171
+  - citation: He, Xie et al., 2008
+    doi: 10.1111/j.1745-7270.2008.00394.x
+    pmid: 18330475
+
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsHSP70
+gene_symbol_long: Heat shock protein 70
+gene_model_pub_name: medsa.XinJiangDaYe.gnm1.chr4.4
+gene_model_full_id: null
 confidence: 4
 curators:
   - Molly Hardacre
