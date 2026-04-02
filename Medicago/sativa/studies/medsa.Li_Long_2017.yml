@@ -36,9 +36,6 @@ references:
     pmid: 18330475
 
 ---
-null
-
----
 scientific_name: Medicago sativa
 gene_symbols:
   - MsHSP70
@@ -74,9 +71,6 @@ references:
   - citation: He, Xie et al., 2008
     doi: 10.1111/j.1745-7270.2008.00394.x
     pmid: 18330475
-
----
-null
 
 ---
 scientific_name: Medicago sativa
