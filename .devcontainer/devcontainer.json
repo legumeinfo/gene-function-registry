@@ -13,7 +13,7 @@
 			]
 		}
 	},
-	"postCreateCommand": "apt-get update && apt-get install -y vim && curl -L https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64.tar.gz | tar -xz && sudo mv yq_linux_amd64 /usr/local/bin/yq && sudo chmod +x /usr/local/bin/yq && echo 'set compatible' > /home/vscode/.vimrc",
+	"postCreateCommand": "apt-get update && apt-get install -y vim && curl -L https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64.tar.gz | tar -xz && sudo mv yq /usr/local/bin/yq && sudo chmod +x /usr/local/bin/yq && echo 'set compatible' > /home/vscode/.vimrc",
 	"forwardPorts": [],
 	"remoteUser": "vscode"
 }
