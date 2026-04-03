@@ -70,6 +70,69 @@ process_single_key_data() {
     fi
 }
 
+# --- Function to process citation, doi, and pmid as a three-column table ---
+# Arguments:
+#   $1: The gensp string, e.g., "glyma"
+#   $2: The path to the 'studies' directory
+#   $3: Optional output file prefix for saving results
+process_citation_table() {
+    local gensp="$1"
+    local studies_dir="$2"
+    local output_file="$3"
+
+    if [ "$PRINT" = true ]; then
+        echo "  Citation, DOI, and PMID Summary for $gensp" >> "$output_file"
+        echo "  --------------------------------------------------" >> "$output_file"
+    else
+        echo "  Citation, DOI, and PMID Summary for $gensp"
+        echo "  --------------------------------------------------"
+    fi
+
+    local yaml_files=()
+    # Find all YAML files directly within the 'studies' directory
+    while IFS= read -r -d $'\0' file; do
+        yaml_files+=("$file")
+    done < <(find "$studies_dir" -maxdepth 1 -type f -name "*.yml" -print0)
+
+    if [ ${#yaml_files[@]} -eq 0 ]; then
+        echo "    No YAML files found in '$studies_dir'."
+        return 0
+    fi
+
+    local table_output
+    table_output=$(
+        for yml_file in "${yaml_files[@]}"; do
+            # Extract citation, doi, and pmid from traits and format as pipe-separated
+            yq '.traits[] | select(has("citation") and has("doi") and has("pmid")) | 
+                .citation + " | " + (.doi // "N/A") + " | " + (.pmid // "N/A")' "$yml_file" 2>/dev/null
+        done | sed '/---/d' | sort | uniq -c | sort -nr
+    )
+
+    if [ -n "$table_output" ]; then
+        if [ "$PRINT" = true ]; then
+            echo "Count | Citation | DOI | PMID" >> "$output_file"
+            echo "  --------------------------------------------------" >> "$output_file"
+            echo "$table_output" >> "$output_file"
+            echo "  --------------------------------------------------" >> "$output_file"
+            echo "" >> "$output_file"
+        else
+            echo "Count | Citation | DOI | PMID"
+            echo "  --------------------------------------------------"
+            echo "$table_output"
+            echo "  --------------------------------------------------"
+            echo ""
+        fi
+    else
+        echo "    No records with citation, doi, and pmid found."
+        if [ "$PRINT" = true ]; then
+            echo "  --------------------------------------------------" >> "$output_file"
+            echo "" >> "$output_file"
+        else
+            echo ""
+        fi
+    fi
+}
+
 # --- Function to process entity/entity_name pairs from YAML files ---
 # Arguments:
 #   $1: The gensp string, e.g., "glyma"
@@ -207,10 +270,11 @@ find . -type d -name studies | while IFS= read -r full_path; do
             echo ""
         fi
 
-        # process single-key elements in yaml files
-        for yaml_data in gene_model_full_id doi pmid; do
-          process_single_key_data "$gensp" "$yaml_data" "$full_path" "$current_output_file"
-        done
+        # Process citation, doi, and pmid as a three-column table
+        process_citation_table "$gensp" "$full_path" "$current_output_file"
+
+        # Process gene_model_full_id as a single-key element
+        process_single_key_data "$gensp" "gene_model_full_id" "$full_path" "$current_output_file"
 
         # Process for 'entity' and 'entity_name' as a pair using the new function
         process_entity_pairs "$gensp" "$full_path" "$current_output_file"
