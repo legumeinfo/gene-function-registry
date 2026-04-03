@@ -5,21 +5,21 @@ Status for Medicago sativa (medsa) as of 2026-04-03:
   --------------------------------------------------
 Count | PMID | DOI | Citation
   --------------------------------------------------
-      1 40466959 | 10.1016/j.gene.2025.149609 | Guo, Sun et al., 2025
+   1 40466959 | 10.1016/j.gene.2025.149609 | Guo, Sun et al., 2025
   --------------------------------------------------
 
   Summary for medsa, key: 'gene_model_full_id'
   --------------------------------------------------
-      1 medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
+   1 medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
   --------------------------------------------------
 
   Summary for medsa, GO entities and descriptions ...
   --------------------------------------------------
-      1 TO:0006001 | salt tolerance
-      1 TO:0002657 | oxidative stress response
-      1 TO:0000605 | hydrogen peroxide content
-      1 TO:0000481 | alkali sensitivity
-      1 GO:0005992 | trehalose biosynthetic process
+   1 TO:0006001 | salt tolerance
+   1 TO:0002657 | oxidative stress response
+   1 TO:0000605 | hydrogen peroxide content
+   1 TO:0000481 | alkali sensitivity
+   1 GO:0005992 | trehalose biosynthetic process
   --------------------------------------------------
 
 ======================================================================
