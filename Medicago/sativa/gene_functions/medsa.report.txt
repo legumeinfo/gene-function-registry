@@ -1,20 +1,16 @@
 
-Status for Medicago sativa (medsa) as of 2026-04-02:
+Status for Medicago sativa (medsa) as of 2026-04-03:
+
+  PMID, DOI, and Citation Summary for medsa
+  --------------------------------------------------
+Count | PMID | DOI | Citation
+  --------------------------------------------------
+      1 40466959 | 10.1016/j.gene.2025.149609 | Guo, Sun et al., 2025
+  --------------------------------------------------
 
   Summary for medsa, key: 'gene_model_full_id'
   --------------------------------------------------
       1 medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
-  --------------------------------------------------
-
-  Summary for medsa, key: 'doi'
-  --------------------------------------------------
-      1 10.48130/vegres-0024-0007
-      1 10.1016/j.gene.2025.149609
-  --------------------------------------------------
-
-  Summary for medsa, key: 'pmid'
-  --------------------------------------------------
-      1 40466959
   --------------------------------------------------
 
   Summary for medsa, GO entities and descriptions ...
