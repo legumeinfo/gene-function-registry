@@ -1,0 +1,48 @@
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsCYP79
+gene_symbol_long: 
+gene_model_pub_name: Ms.gene41484
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene41484
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Wu, Zhang et al., 2025
+    doi: 10.1371/journal.pone.0322981
+    pmid: 
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsCYP83
+gene_symbol_long: 
+gene_model_pub_name: Ms.gene45866
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene45866
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Wu, Zhang et al., 2025
+    doi: 10.1371/journal.pone.0322981
+    pmid: 40338965
+  - citation:
+    doi:
+    pmid:
+---
