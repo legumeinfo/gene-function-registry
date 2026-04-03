@@ -13,7 +13,8 @@
 			]
 		}
 	},
-	"postCreateCommand": "apt-get update && apt-get install -y vim && bash .devcontainer/install-yq.sh && echo 'set compatible' > /home/vscode/.vimrc",
+	"postCreateCommand": "apt-get update && apt-get install -y vim && echo 'set compatible' > /home/vscode/.vimrc",
+	"onCreateCommand": "bash .devcontainer/install-yq.sh",
 	"forwardPorts": [],
 	"remoteUser": "vscode"
 }
