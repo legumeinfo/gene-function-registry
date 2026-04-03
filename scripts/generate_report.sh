@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script traverses the directory tree in gene-function-registry repository to find all paths with 'studies',
+# This script traverses the directory tree in gene-function-registry to find all paths with 'studies',
 # extracts genus and species names from the path, creates a 'gensp' identifier,
 # and then performs text extraction and analysis on files within each 'studies' directory.
 # It processes 'entity' and 'entity_name' as pairs from YAML files.
@@ -11,6 +11,7 @@ if ! command -v yq &> /dev/null; then
     echo "The 'yq' tool is required to parse YAML files for entity pairs."
     echo "Please install yq, e.g., 'brew install yq' on macOS,"
     echo "or on ceres.scinet.usda.gov, activate the 'ds-curate' conda environment."
+    echo "In GitHub codespaces, yq should be installed by postCreateCommand in the devcontainer."
     exit 1
 fi
 
@@ -81,10 +82,10 @@ process_citation_table() {
     local output_file="$3"
 
     if [ "$PRINT" = true ]; then
-        echo "  Citation, DOI, and PMID Summary for $gensp" >> "$output_file"
+        echo "  PMID, DOI, and Citation Summary for $gensp" >> "$output_file"
         echo "  --------------------------------------------------" >> "$output_file"
     else
-        echo "  Citation, DOI, and PMID Summary for $gensp"
+        echo "  PMID, DOI, and Citation Summary for $gensp"
         echo "  --------------------------------------------------"
     fi
 
@@ -102,21 +103,21 @@ process_citation_table() {
     local table_output
     table_output=$(
         for yml_file in "${yaml_files[@]}"; do
-            # Extract citation, doi, and pmid from traits and format as pipe-separated
-            yq '.traits[] | select(has("citation") and has("doi") and has("pmid")) | 
-                .citation + " | " + (.doi // "N/A") + " | " + (.pmid // "N/A")' "$yml_file" 2>/dev/null
+            # Extract citation, doi, and pmid from references and format as pipe-separated
+            yq '.references[] | select(has("citation") and has("doi") and has("pmid")) | 
+                (.pmid // "N/A") + " | " + (.doi // "N/A") + " | " + .citation' "$yml_file" 2>/dev/null
         done | sed '/---/d' | sort | uniq -c | sort -nr
     )
 
     if [ -n "$table_output" ]; then
         if [ "$PRINT" = true ]; then
-            echo "Count | Citation | DOI | PMID" >> "$output_file"
+            echo "Count | PMID | DOI | Citation" >> "$output_file"
             echo "  --------------------------------------------------" >> "$output_file"
             echo "$table_output" >> "$output_file"
             echo "  --------------------------------------------------" >> "$output_file"
             echo "" >> "$output_file"
         else
-            echo "Count | Citation | DOI | PMID"
+            echo "Count | PMID | DOI | Citation"
             echo "  --------------------------------------------------"
             echo "$table_output"
             echo "  --------------------------------------------------"
@@ -189,7 +190,7 @@ process_entity_pairs() {
 
 # --- Main script logic ---
 usage() {
-    echo "Usage: $(basename "$0") [-h] [-p] PATH"
+    echo "Usage: $(basename "$0") [-h] [-p] [-d] PATH"
     echo "  -h for this usage message"
     echo "  -p to print to gensp.report.txt files in the respective Genus/species/gene_functions/ directories, OVERWRITING"
     echo "  -d to print to gensp.report.DATE.txt . Use this option with -p to generate files with a date string."
