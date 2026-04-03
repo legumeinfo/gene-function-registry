@@ -190,22 +190,21 @@ process_entity_pairs() {
 
 # --- Main script logic ---
 usage() {
-    echo "Usage: $(basename "$0") [-h] [-p] [-d] PATH"
+    echo "Usage: $(basename "$0") [-h] [-p] [-d]"
     echo "  -h for this usage message"
     echo "  -p to print to gensp.report.txt files in the respective Genus/species/gene_functions/ directories, OVERWRITING"
     echo "  -d to print to gensp.report.DATE.txt . Use this option with -p to generate files with a date string."
-    echo "  argument 'PATH': the path to the Genus directories, e.g. $(basename "$0") -p ."
     echo ""
     echo "NOTE: Please don't generate gensp.report.DATE.txt to be checked into the repository."
     echo "Rather, update the existing gensp.report.txt files and use the git history to track changes."
     echo ""
     echo "Examples:"
     echo "  To print to STDOUT: "
-    echo "     $(basename "$0") ."
+    echo "     $(basename "$0")"
     echo "  To print reports to each Genus/species/gene_functions/gensp.report.txt :"
-    echo "     $(basename "$0") -p ."
+    echo "     $(basename "$0") -p"
     echo "  To print reports to each Genus/species/gene_functions/gensp.report.DATE.txt :"
-    echo "     $(basename "$0") -p -d ."
+    echo "     $(basename "$0") -p -d"
     exit 1
 }
 
@@ -219,7 +218,7 @@ while getopts ":pdh" opt; do
     esac
 done
 
-if [[ $# -eq 0 || "$HELP" == "true" ]] ; then
+if [[ "$HELP" == "true" ]] ; then
     usage
 fi
 
