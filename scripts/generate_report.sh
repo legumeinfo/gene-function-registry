@@ -168,14 +168,14 @@ process_entity_pairs() {
     if [ -n "$combined_pairs_output" ]; then
         # Save the output to a file if '-p', else print to STDOUT
         if [ "$PRINT" = true ]; then
-            echo "  Summary for $gensp, GO entities and descriptions ..." >> "$output_file"
+            echo "  Ontology accessions and descriptions; summary for $gensp" >> "$output_file"
             echo "  --------------------------------------------------" >> "$output_file"
             echo "$combined_pairs_output" >> "$output_file"
             echo "    Results saved to: $output_file"
             echo "  --------------------------------------------------" >> "$output_file"
             echo "" >> "$output_file"
         else    
-            echo "  Summary for $gensp, GO entities and descriptions ..."
+            echo "  Ontology accessions and descriptions; summary for $gensp" 
             echo "  --------------------------------------------------"
             echo "$combined_pairs_output"
             echo "$result_output"
@@ -281,8 +281,7 @@ find . -type d -name studies | while IFS= read -r full_path; do
 
         # Save the output to a file if '-p', else print to STDOUT
         if [ "$PRINT" = true ]; then
-            echo "======================================================================" >> "$current_output_file"
-            echo "" >> "$current_output_file"
+            # do nothing, since there is no need for a major separator in a report for a single species
         else    
             echo "======================================================================"
             echo ""
