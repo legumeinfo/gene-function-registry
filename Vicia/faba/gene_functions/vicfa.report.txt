@@ -1,24 +1,20 @@
 
-Status for Vicia faba (vicfa) as of 2026-04-03:
+Status for Vicia faba (vicfa) as of 2026-04-07:
 
-  PMID, DOI, and Citation Summary for vicfa
+Count | PMID | DOI | Citation; Summary for vicfa
   --------------------------------------------------
-Count | PMID | DOI | Citation
-  --------------------------------------------------
-   2 36890232 | 10.1038/s41586-023-05791-5 | Jayakodi, Golicz et al., 2023
+   2 | 36890232 | 10.1038/s41586-023-05791-5 | Jayakodi, Golicz et al., 2023
   --------------------------------------------------
 
-  Summary for vicfa, key: 'gene_model_full_id'
-  --------------------------------------------------
-   1 vicfa.Tiffany.gnm1.ann1.1g391400
-   1 vicfa.Hedin2.gnm1.ann1.4g051440
-  --------------------------------------------------
-
-  Summary for vicfa, GO entities and descriptions ...
-  --------------------------------------------------
-   1 TO:0000968 | hilum color
-   1 TO:0000391 | seed size
+Count | gene_model_full_id; Summary for vicfa
+--------------------------------------------------
+   1 | vicfa.Tiffany.gnm1.ann1.1g391400
+   1 | vicfa.Hedin2.gnm1.ann1.4g051440
   --------------------------------------------------
 
-======================================================================
+Count | Ontology accession | Description; Summary for vicfa
+  --------------------------------------------------
+   1 | TO:0000968 | hilum color
+   1 | TO:0000391 | seed size
+  --------------------------------------------------
 

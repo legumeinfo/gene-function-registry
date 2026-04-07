@@ -1,41 +1,37 @@
 
-Status for Phaseolus vulgaris (phavu) as of 2026-04-03:
+Status for Phaseolus vulgaris (phavu) as of 2026-04-07:
 
-  PMID, DOI, and Citation Summary for phavu
+Count | PMID | DOI | Citation; Summary for phavu
   --------------------------------------------------
-Count | PMID | DOI | Citation
-  --------------------------------------------------
-   1 37313298 | 10.1007/s11032-023-01362-8 | Liu, Yang et al., 2023
-   1 36928335 | 10.1007/s00425-023-04116-0 | Davila-Delgado, Flores-Canul et al., 2023
-   1 35432409 | 10.3389/fpls.2022.869582 | McClean, Lee et al., 2022
-   1 34328529 | 10.1007/s00122-021-03922-y | Garcia-Fernandez, Campa et al., 2021
-   1 34268482 | 10.1002/ppp3.10132 | Islam, Bett et al., 2020
-   1 29897103 | 10.1111/nph.15259 | McClean, Bett et al., 2018
-   1 14690368 | 10.1021/jf0304324 | Beninger, Hosfield, 2003
-   1 12140276 | 10.1093/jhered/93.2.148 | McClean, Lee et al., 2002
+   1 | 37313298 | 10.1007/s11032-023-01362-8 | Liu, Yang et al., 2023
+   1 | 36928335 | 10.1007/s00425-023-04116-0 | Davila-Delgado, Flores-Canul et al., 2023
+   1 | 35432409 | 10.3389/fpls.2022.869582 | McClean, Lee et al., 2022
+   1 | 34328529 | 10.1007/s00122-021-03922-y | Garcia-Fernandez, Campa et al., 2021
+   1 | 34268482 | 10.1002/ppp3.10132 | Islam, Bett et al., 2020
+   1 | 29897103 | 10.1111/nph.15259 | McClean, Bett et al., 2018
+   1 | 14690368 | 10.1021/jf0304324 | Beninger, Hosfield, 2003
+   1 | 12140276 | 10.1093/jhered/93.2.148 | McClean, Lee et al., 2002
   --------------------------------------------------
 
-  Summary for phavu, key: 'gene_model_full_id'
-  --------------------------------------------------
-   1 phavu.G19833.gnm2.ann1.Phvul.007G171333
-   1 phavu.G19833.gnm2.ann1.Phvul.006G018800
-   1 phavu.G19833.gnm2.ann1.Phvul.002G143400
-  --------------------------------------------------
-
-  Summary for phavu, GO entities and descriptions ...
-  --------------------------------------------------
-   2 TO:0000190 | seed coat color
-   1 TO:0000707 | pericarp color
-   1 TO:0000537 | flower color
-   1 TO:0000290 | flavonoid content
-   1 TO:0000071 | anthocyanin content
-   1 GO:2000029 | regulation of proanthocyanidin biosynthetic process
-   1 GO:0048260 | positive regulation of receptor-mediated endocytosis
-   1 GO:0044403 | biological process involved in symbiotic interaction
-   1 GO:0043425 | bHLH transcription factor binding
-   1 GO:0016301 | kinase activity
-   1 GO:0009877 | nodulation
+Count | gene_model_full_id; Summary for phavu
+--------------------------------------------------
+   1 | phavu.G19833.gnm2.ann1.Phvul.007G171333
+   1 | phavu.G19833.gnm2.ann1.Phvul.006G018800
+   1 | phavu.G19833.gnm2.ann1.Phvul.002G143400
   --------------------------------------------------
 
-======================================================================
+Count | Ontology accession | Description; Summary for phavu
+  --------------------------------------------------
+   2 | TO:0000190 | seed coat color
+   1 | TO:0000707 | pericarp color
+   1 | TO:0000537 | flower color
+   1 | TO:0000290 | flavonoid content
+   1 | TO:0000071 | anthocyanin content
+   1 | GO:2000029 | regulation of proanthocyanidin biosynthetic process
+   1 | GO:0048260 | positive regulation of receptor-mediated endocytosis
+   1 | GO:0044403 | biological process involved in symbiotic interaction
+   1 | GO:0043425 | bHLH transcription factor binding
+   1 | GO:0016301 | kinase activity
+   1 | GO:0009877 | nodulation
+  --------------------------------------------------
 

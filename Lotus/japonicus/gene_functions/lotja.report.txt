@@ -1,26 +1,22 @@
 
-Status for Lotus japonicus (lotja) as of 2026-04-03:
+Status for Lotus japonicus (lotja) as of 2026-04-07:
 
-  PMID, DOI, and Citation Summary for lotja
+Count | PMID | DOI | Citation; Summary for lotja
   --------------------------------------------------
-Count | PMID | DOI | Citation
-  --------------------------------------------------
-   1 33826745 | 10.1093/plcell/koab103 | Nishida, Nosaki et al., 2021
-   1 25416287 | 10.1093/pcp/pcu168 | Soyano, Shimoda et al., 2015
-   1 25246578 | 10.1073/pnas.1412716111 | Soyano, Hirakawa et al., 2014
-   1 24722550 | 10.1104/pp.113.233379 | Yoro, Suzaki et al., 2014
+   1 | 33826745 | 10.1093/plcell/koab103 | Nishida, Nosaki et al., 2021
+   1 | 25416287 | 10.1093/pcp/pcu168 | Soyano, Shimoda et al., 2015
+   1 | 25246578 | 10.1073/pnas.1412716111 | Soyano, Hirakawa et al., 2014
+   1 | 24722550 | 10.1104/pp.113.233379 | Yoro, Suzaki et al., 2014
   --------------------------------------------------
 
-  Summary for lotja, key: 'gene_model_full_id'
-  --------------------------------------------------
-   1 lotja.MG20.gnm3.ann1.Lj2G3V3373110
-  --------------------------------------------------
-
-  Summary for lotja, GO entities and descriptions ...
-  --------------------------------------------------
-   1 GO:0043903 | regulation of biological process involved in symbiotic interaction
-   1 GO:0009877 | nodulation
+Count | gene_model_full_id; Summary for lotja
+--------------------------------------------------
+   1 | lotja.MG20.gnm3.ann1.Lj2G3V3373110
   --------------------------------------------------
 
-======================================================================
+Count | Ontology accession | Description; Summary for lotja
+  --------------------------------------------------
+   1 | GO:0043903 | regulation of biological process involved in symbiotic interaction
+   1 | GO:0009877 | nodulation
+  --------------------------------------------------
 
