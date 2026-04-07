@@ -11,7 +11,7 @@ Count | PMID | DOI | Citation; Summary for medtr
    3 | 26858743 | 10.3389/fpls.2016.00034 | Qiao, Pingault et al., 2016
    3 | 25105497 | 10.1371/journal.pone.0103770 | Serwatowska, Roque et al., 2014
    2 | 33631796 | 10.1093/plphys/kiaa005 | Cheng, Li et al., 2020
-   2 | 33506247 | 10.1093/jxb/erab033 | Zhou, Yang et al,. 2021
+   2 | 33506247 | 10.1093/jxb/erab033 | Zhou, Yang et al., 2021
    2 | 33228084 | 10.3390/ijms21228742 | Zhang, Liu et al., 2020
    2 | 33222243 | 10.1111/nph.17097 | Wang, Li et al., 2020
    2 | 28073951 | 10.1093/jxb/erw474 | Herrbach, Chirinos et al., 2017
@@ -19,8 +19,8 @@ Count | PMID | DOI | Citation; Summary for medtr
    2 | 24443934 | 10.1111/nph.12681 | Mortier, Wasson et al., 2014
    2 | 21685176 | 10.1104/pp.111.180182 | Laurie, Diwadkar et al., 2011
    2 | 20723225 | 10.1186/1471-2229-10-183 | Seabra, Vieria et al., 2010
-   1 | 39408738 | 10.3390/ijms251910410 | Xing, Weng etal., 2024
-   1 | 38611541 | 10.3390/plants13071012 | Su, Zheng etal., 2024
+   1 | 39408738 | 10.3390/ijms251910410 | Xing, Weng et al., 2024
+   1 | 38611541 | 10.3390/plants13071012 | Su, Zheng et al., 2024
    1 | 37882293 | 10.1111/ppl.14046 | Mao, Zhou et al., 2023
    1 | 36856086 | 10.7554/elife.80741 | Lace, Su et al., 2023
    1 | 35972963 | 10.1073/pnas.2205920119 | Liu, Lin et al., 2022
@@ -28,7 +28,7 @@ Count | PMID | DOI | Citation; Summary for medtr
    1 | 34421956 | 10.3389/fpls.2021.709625 | Li, Ma et al., 2021
    1 | 34329408 | 10.1093/jxb/erab359 | Zhao, Chai et al., 2021
    1 | 33631796 | 10.1093/plphys/kiaa005 | Cheng, Li et al., 2021
-   1 | 33606812 | 10.1371/journal.pone.0247170 | Hasan, Singh et al. 2021
+   1 | 33606812 | 10.1371/journal.pone.0247170 | Hasan, Singh et al., 2021
    1 | 33506247 | 10.1093/jxb/erab033 | Zhou, Yang et al., 2023
    1 | 32867687 | 10.1186/s12870-020-02619-6 | Jiao, Wang et al., 2020
    1 | 32841350 | 10.1093/jxb/eraa390 | Castro-Rodríguez, Abreu et al., 2020
@@ -42,7 +42,7 @@ Count | PMID | DOI | Citation; Summary for medtr
    1 | 30782966 | 10.1104/pp.18.01588 | Laffont, Huault et al., 2019
    1 | 30782811 | 10.1073/pnas.1820468116 | Zhao, Liu et al., 2019
    1 | 30710053 | 10.1104/pp.18.01572 | Liu, Breakspear et al., 2019
-   1 | 30476329 | 10.1093/pcp/pcy228 | Valdés-López, Jayaraman et al., 2019
+   1 | 30476329 | 10.1093/pcp/pcy228 | Valdés-López, Jayaraman et al.,, 2019
    1 | 30416059 | 10.1016/j.cub.2018.09.031 | Gaudioso-Pedraza, Beck et al., 2018
    1 | 30397259 | 10.1038/s41477-018-0286-7 | Pecrix, Staton et al., 2018
    1 | 27245091 | 10.1111/nph.14017 | Wang, Yu et al., 2016

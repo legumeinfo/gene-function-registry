@@ -39,7 +39,7 @@ Count | PMID | DOI | Citation; Summary for glyma
    3 | 21406680 | 10.1534/genetics.110.125062 | Watanabe, Xia et al., 2011
    3 | 21198362 | 10.1094/MPMI-09-10-0207 | Reid, Ferguson et al., 2011
    3 | 15939664 | 10.1016/j.pbi.2005.05.010 | Weirmer, Feys et al., 2005
-   3 | 10657130 | 10.1038/72671 | Jung, Yu, et al. 2013
+   3 | 10657130 | 10.1038/72671 | Jung, Yu, et al., 2013
    2 | N/A | 10.1007/s11240-015-0837-9 | Wang, Wang et al., 2015
    2 | N/A | 10.1007/s11032-019-0972-9 | Combs, Bilyeu, 2019
    2 | N/A | 10.1007/s11032-012-9707-x | Head, Katie, et al., 2012
@@ -55,7 +55,7 @@ Count | PMID | DOI | Citation; Summary for glyma
    2 | 33918544 | 10.3390/ijms22083877 | Ma, Sun et. al., 2021
    2 | 33742087 | 10.1038/s42003-021-01889-6 | Vadivel, Anguraj AK, et al., 2021
    2 | 33458938 | 10.1111/jipb.13070 | Yue, Li et al., 2021
-   2 | 33452487 | 10.1038/s41477-020-00832-7 | Zhang, Wang et. al, 2021
+   2 | 33452487 | 10.1038/s41477-020-00832-7 | Zhang, Wang et al., 2021
    2 | 32499790 | 10.3389/fpls.2020.00450 | Wang, Yang et al., 2020
    2 | 32231277 | 10.1038/s41588-020-0604-7 | Lu, Dong et al., 2020
    2 | 32186464 | 10.1094/MPMI-01-20-0017-R | Shi, Zhang et al., 2020
@@ -134,7 +134,7 @@ Count | PMID | DOI | Citation; Summary for glyma
    1 | 31596499 | 10.1111/nph.16250 | Miao, Yang et al., 2020
    1 | 31569565 | 10.3390/ijms20194849 | Noman, Jameel et al., 2019
    1 | 31437808 | 10.1016/j.jplph.2019.153019 | Zhau, Bi et al., 2019
-   1 | 31437808 | 10.1016/j.jplph.2019.153019 | Zhao, Jiangzhe, et al. 2019
+   1 | 31437808 | 10.1016/j.jplph.2019.153019 | Zhao, Jiangzhe, et al., 2019
    1 | 31293605 | 10.3389/fpls.2019.00794 | Kusano, Li et al., 2019
    1 | 31240772 | 10.1111/pbi.13199 | Cai, Wang, et al., 2020
    1 | 31206092 | 10.1016/j.heliyon.2019.e01868 | Li, Guo et. al., 2019
@@ -197,7 +197,7 @@ Count | PMID | DOI | Citation; Summary for glyma
    1 | 21963279 | 10.1016/j.jplph.2011.08.007 | Chi, Huang et al., 2011
    1 | 21617948 | 10.1007/s11033-011-0875-2 | Xue, Zhang et al., 2012
    1 | 21252257 | 10.1093/jxb/erq445 | Boisson-Dernier, Kessler et al., 2011
-   1 | 21046066 | 10.1007/s00122-010-1467-6 | Juwattanasomran, Somta, et. al, 2011
+   1 | 21046066 | 10.1007/s00122-010-1467-6 | Juwattanasomran, Somta, et al., 2011
    1 | 20864544 | 10.1104/pp.110.160796 | Kong, Liu, et al., 2010
    1 | 20584753 | 10.1093/jhered/esq078 | Yang, Jeong et al., 2010
    1 | 20428921 | 10.1007/s10265-010-0345-2 | Toda, Takahashi et al., 2011
