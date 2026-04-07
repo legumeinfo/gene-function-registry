@@ -28,11 +28,11 @@ process_single_key_data() {
     local output_file="$4"
 
     if [ "$PRINT" = true ]; then
-        echo "  Summary for $gensp, key: '$search_string'" >> "$output_file"
-        echo "  --------------------------------------------------" >> "$output_file"
+        echo "Count | $search_string; Summary for $gensp" >> "$output_file"
+        echo "--------------------------------------------------" >> "$output_file"
     else
-        echo "  Summary for $gensp, key: '$search_string'"
-        echo "  --------------------------------------------------"
+        echo "Count | $search_string; Summary for $gensp"
+        echo "--------------------------------------------------"
     fi
 
     local yaml_files=()
@@ -52,14 +52,15 @@ process_single_key_data() {
         # Then use cut -d ":" -f 2 to get the value after the first colon
         # and sed to remove leading whitespace.
         awk -v s="$search_string" '$0 ~ s { print $0 }' "${yaml_files[@]}" 2>/dev/null | \
-          cut -d ":" -f 2 | sed 's/^[[:space:]]*//' | sort | uniq -c | sort -nr
+          cut -d ":" -f 2 | sed 's/^[[:space:]]*//' | sort | uniq -c | sort -nr | \
+          perl -pe 's/^( +\d+) /$1 | /'
     )
 
     if [ -n "$result_output" ]; then
         # Optional: Save the output to a file if '-p', else print to STDOUT
         if [ "$PRINT" = true ]; then
-            echo "$result_output" >> "$output_file"
-            echo "  --------------------------------------------------" >> "$output_file"
+            ( echo "$result_output" 
+              echo "  --------------------------------------------------" ) >> "$output_file"
             echo "">> "$output_file"
         else
             echo "$result_output"
@@ -81,14 +82,6 @@ process_citation_table() {
     local studies_dir="$2"
     local output_file="$3"
 
-    if [ "$PRINT" = true ]; then
-        echo "  PMID, DOI, and Citation Summary for $gensp" >> "$output_file"
-        echo "  --------------------------------------------------" >> "$output_file"
-    else
-        echo "  PMID, DOI, and Citation Summary for $gensp"
-        echo "  --------------------------------------------------"
-    fi
-
     local yaml_files=()
     # Find all YAML files directly within the 'studies' directory
     while IFS= read -r -d $'\0' file; do
@@ -106,18 +99,18 @@ process_citation_table() {
             # Extract citation, doi, and pmid from references and format as pipe-separated
             yq '.references[] | select(has("citation") and has("doi") and has("pmid")) | 
                 (.pmid // "N/A") + " | " + (.doi // "N/A") + " | " + .citation' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr
+        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1 | /'
     )
 
     if [ -n "$table_output" ]; then
         if [ "$PRINT" = true ]; then
-            echo "Count | PMID | DOI | Citation" >> "$output_file"
-            echo "  --------------------------------------------------" >> "$output_file"
-            echo "$table_output" >> "$output_file"
-            echo "  --------------------------------------------------" >> "$output_file"
-            echo "" >> "$output_file"
+            ( echo "Count | PMID | DOI | Citation; Summary for $gensp" >> "$output_file"
+              echo "  --------------------------------------------------" 
+              echo "$table_output" >> "$output_file"
+              echo "  --------------------------------------------------" 
+              echo "" ) >> "$output_file"
         else
-            echo "Count | PMID | DOI | Citation"
+            echo "Count | PMID | DOI | Citation; Summary for $gensp"
             echo "  --------------------------------------------------"
             echo "$table_output"
             echo "  --------------------------------------------------"
@@ -162,21 +155,20 @@ process_entity_pairs() {
             # Select entries in 'traits' array that have both 'entity' and 'entity_name'
             # and output them as "entity | entity_name"
             yq '.traits[] | select(has("entity") and has("entity_name")) | .entity + " | " + .entity_name' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr 
+        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1 | /'
     )
 
     if [ -n "$combined_pairs_output" ]; then
         # Save the output to a file if '-p', else print to STDOUT
         if [ "$PRINT" = true ]; then
-            echo "  Ontology accessions and descriptions; summary for $gensp" >> "$output_file"
-            echo "  --------------------------------------------------" >> "$output_file"
-            echo "$combined_pairs_output" >> "$output_file"
-            echo "    Results saved to: $output_file"
-            echo "  --------------------------------------------------" >> "$output_file"
-            echo "" >> "$output_file"
+            ( echo "Count | Ontology accession | Description; Summary for $gensp"
+              echo "  --------------------------------------------------" 
+              echo "$combined_pairs_output" >> "$output_file"
+              echo "  --------------------------------------------------" 
+              echo "" ) >> "$output_file"
         else    
-            echo "  Ontology accessions and descriptions; summary for $gensp" 
-            echo "  --------------------------------------------------"
+            echo "Count | Ontology accession | Description; Summary for $gensp"
+            echo "  --------------------------------------------------" 
             echo "$combined_pairs_output"
             echo "$result_output"
             echo "  --------------------------------------------------"
@@ -256,8 +248,7 @@ find . -type d -name studies | while IFS= read -r full_path; do
         if [ ! -d "${genus_name}/${species_name}/gene_functions/" ]; then
             echo "Directory 'gene_functions' doesn't exist at ./${genus_name}/${species_name} ."
             echo "The script should be called from the root directory of the gene-function-registry."
-            usage 
-            exit 1
+            usage & exit 1
         fi
 
         # Save the output to a file if '-p', else print to STDOUT
@@ -281,7 +272,7 @@ find . -type d -name studies | while IFS= read -r full_path; do
 
         # Save the output to a file if '-p', else print to STDOUT
         if [ "$PRINT" = true ]; then
-            # do nothing, since there is no need for a major separator in a report for a single species
+            true # do nothing, since there is no need for a major separator in a report for a single species
         else    
             echo "======================================================================"
             echo ""
