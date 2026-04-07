@@ -24,7 +24,7 @@ traits:
   - entity_name: Leaf size
     entity: TO:0002637
 references:
-  - citation: Zhou, Yang et al,. 2021
+  - citation: Zhou, Yang et al., 2021
     doi: 10.1093/jxb/erab033
     pmid: 33506247
 ---
@@ -49,6 +49,6 @@ traits:
   - entity_name: Leaf size
     entity: TO:0002637
 references:
-  - citation: Zhou, Yang et al,. 2021
+  - citation: Zhou, Yang et al., 2021
     doi: 10.1093/jxb/erab033
     pmid: 33506247

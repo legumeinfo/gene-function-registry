@@ -22,7 +22,7 @@ traits:
   - relation_name: negatively regulates
     entity: RO:0002212
 references:
-  - citation: Zhang, Wang et. al, 2021
+  - citation: Zhang, Wang et al., 2021
     doi: 10.1038/s41477-020-00832-7
     pmid: 33452487
   - citation: Yang, Lan et. al., 2022
@@ -53,7 +53,7 @@ traits:
   - relation_name: negatively regulates
     entity: RO:0002212
 references:
-  - citation: Zhang, Wang et. al, 2021
+  - citation: Zhang, Wang et al., 2021
     doi: 10.1038/s41477-020-00832-7
     pmid: 33452487
   - citation: Sugawara, Takahashi et. al., 2018

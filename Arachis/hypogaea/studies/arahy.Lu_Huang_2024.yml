@@ -42,7 +42,7 @@ comments:
     type. Similar overexpression of AhBSK1 (GG genotype) in Rice (Oryza sativa
     spp. Japonica cv. Nipponbare) increased flag leaf angle, seed size, and
     length of panicles.
-  - Lu, Huang et al. (2024) provided the gene model name of Ahy_B03G068305. The
+  - Lu, Huang et al., (2024) provided the gene model name of Ahy_B03G068305. The
     candidate gene in the reference genome for Tifrunner would be Ah13g064900 on
     chromosome 13. The gene identifier in Tifrunner was located using the InDel
     sequence within AhBSK1 provided by Figure 5F that mapped to 5599717-5599814
@@ -115,7 +115,7 @@ comments:
     AhWRI1-overexpressor Arabidopsis showed an altered fatty acid composition
     with higher unsaturated fatty acids levels, lower oil body density, and
     greater oil body volume compared to the wild type.
-  - Lu, Huang et al. (2024) provided the candidate gene name of Ahy_A08G040760
+  - Lu, Huang et al., (2024) provided the candidate gene name of Ahy_A08G040760
     found from 44,459,385-44,468,752 BP on chromosome A08. The genome data
     viewer at NCBI delivered the GDAAS-fuhuasheng2018 chromosome A08 whole
     genome shotgun sequence at GenBank (CM014322.1). The FASTA genome sequence
@@ -165,7 +165,7 @@ comments:
     SNPs on B06 associated with pod size were located in a linkage
     disequilibrium block between 147,693,870 and 148,580,715 base pairs (BP).
     This region overlapped two genetic variations associated with seed weight
-    and pod weight identified by Gangurde, Wang et al. (2020).
+    and pod weight identified by Gangurde, Wang et al., (2020).
   - AhANT in peanut is homologous to ANT (At4g37750) in Arabidopsis thaliana.
     This ethylene-responsive transcription factor gene regulates the
     hormone-signaling pathway controlling size and cellular division in organs
