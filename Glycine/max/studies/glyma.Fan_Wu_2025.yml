@@ -1,0 +1,24 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSRS14
+gene_symbol_long: SHORT INTERNODES-related sequence 14
+gene_model_pub_name: supplimentary table
+gene_model_full_id: supplimentary table
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Fan, Wu et al., 2025
+    doi: 10.1016/j.jplph.2025.154649
+    pmid: 41197331
+  - citation: 
+    doi:
+    pmid:
+---
