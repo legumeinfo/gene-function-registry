@@ -4,7 +4,7 @@ gene_symbols:
   - MsHSP70
 gene_symbol_long: Heat shock protein 70
 gene_model_pub_name: KJ621409
-gene_model_full_id: medsa.XinJiangDaYe.gnm1.chr4.1
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene053617
 confidence: 4
 curators:
   - Molly Hardacre
@@ -41,7 +41,7 @@ gene_symbols:
   - MsHSP70
 gene_symbol_long: Heat shock protein 70
 gene_model_pub_name: KJ621409
-gene_model_full_id: medsa.XinJiangDaYe.gnm1.chr4.2
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene40086
 confidence: 4
 curators:
   - Molly Hardacre
@@ -78,7 +78,7 @@ gene_symbols:
   - MsHSP70
 gene_symbol_long: Heat shock protein 70
 gene_model_pub_name: KJ621409
-gene_model_full_id: medsa.XinJiangDaYe.gnm1.chr4.3
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene90259
 confidence: 4
 curators:
   - Molly Hardacre
@@ -115,7 +115,7 @@ gene_symbols:
   - MsHSP70
 gene_symbol_long: Heat shock protein 70
 gene_model_pub_name: KJ621409
-gene_model_full_id: medsa.XinJiangDaYe.gnm1.chr4.4
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene028516
 confidence: 4
 curators:
   - Molly Hardacre
