@@ -1,0 +1,77 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmERF57
+gene_symbol_long: Soybean Ethylene Response Factor 57
+gene_model_pub_name: Glyma.20G070100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G070100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Silencing GmERF57 expression promoted root development (total root length,
+    root surface area, root volume, branch number, shoot dry weight, root dry
+    weight) and enhanced plant soil phosphate uptake.
+  - Overexpression of GmERF57 yielded contrasting phenotypes compared to
+    silenced roots.
+  - GmERF57 physically interacts with GmTUB1 (β-tubulin protein) and modulates
+    soybean root architecture and soil phosphate uptake capacity by
+    downregulating GmTUB1 and other phosphate starvation response genes.
+  - Population genomics analysis revealed that GmERF57 has undergone artificial
+    selection, and allelic distribution analysis significantly correlated with
+    traits associated with low phosphate tolerance in soybean.
+  - Haplotype 2 (Hap2), carrying the T to C single nucleotide polymorphism (SNP)
+    in GmERF57, is an allele linked to low-phosphate tolerance.
+phenotype_synopsis: GmERF57 negatively impacts soybean root structure and its
+  expression in roots was induced by low phosphate.
+traits:
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: root development
+    entity: GO:0048364
+references:
+  - citation: Zhu, Hu et al., 2024
+    doi: 10.1016/j.stress.2025.100763
+  - citation: Zhang, Li et al., 2016
+    doi: 10.3389/fpls.2016.00372
+    pmid: 27065041
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmTUB1
+gene_symbol_long: β-Tubulin Protein 1
+gene_model_pub_name: Glyma.06G024100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G024100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Overexpression of GmTUB1 promotes the growth of soybean hairy roots, thereby
+    enhancing their phosphate acquisition capability and increasing root
+    phosphate content.
+  - Silencing of GmTUB1 inhibited the root growth, but the difference between
+    checks and Ri-GmTUB1 plants was not significant.
+  - Regardless of phosphate supply, GmTUB1 was significantly upregulated in
+    Ri-GmERF57 (RNA interference-mediated silencing plant) roots compared with
+    checks, while no significant change was observed in OE-GmERF57
+    (overexpressing plant) roots.
+  - Most of the fusion protein of GmTUB1 was found in nucleus and cell membrane.
+phenotype_synopsis: GmERF57 interacts with GmTUB1, which enhances root growth and phosphate uptake.
+traits:
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: root development
+    entity: GO:0048364
+  - entity_name: root hair
+    entity: GO:0035618
+references:
+  - citation: Zhu, Hu et al., 2024
+    doi: 10.1016/j.stress.2025.100763
+  - citation: Zhang, Li et al., 2016
+    doi: 10.3389/fpls.2016.00372
+    pmid: 27065041
+
+---
