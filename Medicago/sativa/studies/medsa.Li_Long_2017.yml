@@ -19,6 +19,13 @@ comments:
     from the elevation of MsHSP70 level.
   - Higher relative water content was detected in transgenic MsHSP70 plants
     compared with non-transgenic plants under drought stress.
+  - Because the original study was conducted before the release of the Medicago
+    sativa XinJiangDaYe genome assembly (2020), the gene we targeted did not yet
+    have a single standardized locus identifier. As a result, our BLAST search
+    returned four separate hit IDs, each showing 92% sequence identity. The
+    presence of four equally strong BLAST matches is consistent with the biology
+    of polyploid alfalfa and reflects the fact that the gene is expected to
+    appear in multiple homeologous copies rather than a single unique locus.
 phenotype_synopsis: MsHSP70 may play a protective role under drought and
   abscisic acid stress, but not salt stress, in a respiratory metabolism related
   way.
@@ -56,6 +63,13 @@ comments:
     from the elevation of MsHSP70 level.
   - Higher relative water content was detected in transgenic MsHSP70 plants
     compared with non-transgenic plants under drought stress.
+  - Because the original study was conducted before the release of the Medicago
+    sativa XinJiangDaYe genome assembly (2020), the gene we targeted did not yet
+    have a single standardized locus identifier. As a result, our BLAST search
+    returned four separate hit IDs, each showing 92% sequence identity. The
+    presence of four equally strong BLAST matches is consistent with the biology
+    of polyploid alfalfa and reflects the fact that the gene is expected to
+    appear in multiple homeologous copies rather than a single unique locus.
 phenotype_synopsis: MsHSP70 may play a protective role under drought and
   abscisic acid stress, but not salt stress, in a respiratory metabolism related
   way.
@@ -93,6 +107,13 @@ comments:
     from the elevation of MsHSP70 level.
   - Higher relative water content was detected in transgenic MsHSP70 plants
     compared with non-transgenic plants under drought stress.
+  - Because the original study was conducted before the release of the Medicago
+    sativa XinJiangDaYe genome assembly (2020), the gene we targeted did not yet
+    have a single standardized locus identifier. As a result, our BLAST search
+    returned four separate hit IDs, each showing 92% sequence identity. The
+    presence of four equally strong BLAST matches is consistent with the biology
+    of polyploid alfalfa and reflects the fact that the gene is expected to
+    appear in multiple homeologous copies rather than a single unique locus.
 phenotype_synopsis: MsHSP70 may play a protective role under drought and
   abscisic acid stress, but not salt stress, in a respiratory metabolism related
   way.
@@ -130,6 +151,13 @@ comments:
     from the elevation of MsHSP70 level.
   - Higher relative water content was detected in transgenic MsHSP70 plants
     compared with non-transgenic plants under drought stress.
+  - Because the original study was conducted before the release of the Medicago
+    sativa XinJiangDaYe genome assembly (2020), the gene we targeted did not yet
+    have a single standardized locus identifier. As a result, our BLAST search
+    returned four separate hit IDs, each showing 92% sequence identity. The
+    presence of four equally strong BLAST matches is consistent with the biology
+    of polyploid alfalfa and reflects the fact that the gene is expected to
+    appear in multiple homeologous copies rather than a single unique locus.
 phenotype_synopsis: MsHSP70 may play a protective role under drought and
   abscisic acid stress, but not salt stress, in a respiratory metabolism related
   way.
