@@ -9,7 +9,7 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  -
+  - 
 phenotype_synopsis:
 traits:
   - entity_name:
@@ -17,7 +17,7 @@ traits:
 references:
   - citation: Wu, Zhang et al., 2025
     doi: 10.1371/journal.pone.0322981
-    pmid: 
+    pmid: 40338965
   - citation:
     doi:
     pmid:
