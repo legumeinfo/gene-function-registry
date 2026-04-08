@@ -16,9 +16,9 @@ comments:
   - Transcription levels are more highly expressed in the high protein developing seed (AC Proteus).
 phenotype_synopsis: GmASPGB1a codes for an asparaginase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
-  - entity_name: Hydrolase Activity
+  - entity_name: hydrolase activity
     entity: GO:0016787
 references:
   - citation: Pandurangan, Pajak et al., 2012
@@ -42,9 +42,9 @@ comments:
   - Transcription levels are more highly expressed in the high protein developing seed (AC Proteus).
 phenotype_synopsis: GmASPGB1 codes for an asparaginase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
-  - entity_name: Hydrolase Activity
+  - entity_name: hydrolase activity
     entity: GO:0016787
 references:
   - citation: Pandurangan, Pajak et al., 2012
@@ -67,9 +67,9 @@ comments:
   - Low transcription of ASPGB2 paralogues may explain the higher free asparagine levels in the embryo of developing seeds.
 phenotype_synopsis: GmASPGB2a codes for an asparaginase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
-  - entity_name: Hydrolase Activity
+  - entity_name: hydrolase activity
     entity: GO:0016787
 references:
   - citation: Pandurangan, Pajak et al., 2012
@@ -92,9 +92,9 @@ comments:
   - Low transcription of ASPGB2 paralogues may explain the higher free asparagine levels in the embryo of developing seeds.
 phenotype_synopsis: GmASPGB2b codes for an asparaginase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
-  - entity_name: Hydrolase Activity
+  - entity_name: hydrolase activity
     entity: GO:0016787
 references:
   - citation: Pandurangan, Pajak et al., 2012
@@ -118,7 +118,7 @@ comments:
   - More predominantly expressed in high protein seed (AC Proteus).
 phenotype_synopsis: GmAS1a codes for an asparaginase synthetase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
   - entity_name: metabolic process
     entity: GO:0008152
@@ -148,7 +148,7 @@ comments:
   - More predominantly expressed in high protein seed (AC Proteus).
 phenotype_synopsis: GmAS1b codes for an asparaginase synthetase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
   - entity_name: metabolic process
     entity: GO:0008152
@@ -179,7 +179,7 @@ comments:
   - Predominantly expressed in seed coat compared to other AS genes.
 phenotype_synopsis: GmAS1c codes for an asparaginase synthetase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
   - entity_name: metabolic process
     entity: GO:0008152
@@ -208,7 +208,7 @@ comments:
   - Relatively stable expression in the embryo.
 phenotype_synopsis: GmAS2b codes for an asparaginase synthetase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
   - entity_name: asparagine synthase (glutamine-hydrolyzing) activity
     entity: GO:0004066
@@ -238,7 +238,7 @@ comments:
   - Predominantly expressed in cotyledon compared to other AS genes.
 phenotype_synopsis: GmAS3a codes for an asparaginase synthetase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
   - entity_name: metabolic process
     entity: GO:0008152
@@ -268,7 +268,7 @@ comments:
   - Predominantly expressed in cotyledon compared to other AS genes.
 phenotype_synopsis: GmAS3b codes for an asparaginase synthetase.
 traits:
-  - entity_name: Seed protein content
+  - entity_name: seed protein content
     entity: TO:0000490
   - entity_name: metabolic process
     entity: GO:0008152
