@@ -9,11 +9,21 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - GmMRF2 overexpression soybean lines exhibited earlier flowering time under long-day (LD) conditions, and increased plant height under both LD and short-day (SD) conditions compared to wild-type (WT) plants.
-  - The expression levels of gibberellic acid (GA) pathway genes that positively regulate plant height genes and flowering-promoting genes were up-regulated in the GmMRF2 overexpression lines, were up-regulated in the GmMRF2 overexpression lines.
-  - The number of pods and seeds produced by the GmMRF2 overexpression lines was increased under SD and LD conditions
-  - GmFT2a, GmFT5a, GmAP1s, GmFUL1s, GmSOC1b and GmLFY2 were induced in GmMRF2 overexpression soybean lines under LD conditions. This suggests that GmMRF2 promotes soybean flowering by up-regulating the expression of several flowering-related genes under LD conditions.
-  - GmMRF2 interacted with GmTCP15 to co-induce the expression of GmSOC1b to accelerate soybean flowering.
+  - GmMRF2 overexpression soybean lines exhibited earlier flowering time under
+    long-day (LD) conditions, and increased plant height under both LD and
+    short-day (SD) conditions compared to wild-type (WT) plants.
+  - The expression levels of gibberellic acid (GA) pathway genes that positively
+    regulate plant height genes and flowering-promoting genes were up-regulated
+    in the GmMRF2 overexpression lines, were up-regulated in the GmMRF2
+    overexpression lines.
+  - The number of pods and seeds produced by the GmMRF2 overexpression lines was
+    increased under SD and LD conditions
+  - GmFT2a, GmFT5a, GmAP1s, GmFUL1s, GmSOC1b and GmLFY2 were induced in GmMRF2
+    overexpression soybean lines under LD conditions. This suggests that GmMRF2
+    promotes soybean flowering by up-regulating the expression of several
+    flowering-related genes under LD conditions.
+  - GmMRF2 interacted with GmTCP15 to co-induce the expression of GmSOC1b to
+    accelerate soybean flowering.
 phenotype_synopsis: GmMRF2 overexpression promoted flowering and increased plant height in soybean.
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
@@ -27,4 +37,5 @@ references:
   - citation: You, Sawikowska et al., 2019
     doi: doi.org/10.1105/tpc.17.00714
     pmid: 30670485
+
 ---
