@@ -19,6 +19,6 @@ traits:
   - entity_name: negative regulation of leaf senescence
     entity: GO:1900056
 references:
-  - citation: Xing, Weng etal., 2024
+  - citation: Xing, Weng et al., 2024
     doi: 10.3390/ijms251910410
     pmid: 39408738

@@ -97,6 +97,27 @@ The **references** block is required. It contains one or more blocks of citation
   LastName, LastName et al., YEAR
 ```
 
+## Generating/updateing reports about data collected so far
+There is a script `scripts/generate_report.sh` that summarizes key data from the yaml files in all Genus/species directories. Run this script in one of the following ways:
+
+To print to STDOUT: 
+
+   `./scripts/generate_report.sh`
+   
+To print reports to each Genus/species/gene_functions/gensp.report.txt:
+
+   `./scripts/generate_report.sh -p`
+   
+To print reports to each Genus/species/gene_functions/gensp.report.DATE.txt:
+
+   `./scripts/generate_report.sh -p -d`
+
+Use the first form if you just want to have a look at the data as it stands now, but don't intend to save the results.
+
+The second command form will produce files at the directories `Genus/species/gene_functions/gensp.report.txt`. Use this if you wish to generate reports to be committed to the repository.
+
+Use the third form if you want to make TEMPORARY files, labeled with today's date. DO NOT push these to the GitHub repository, as it will result in unnecessary additional files. (Instead, use Git's version control).
+
 ## Updating gene_functions/ files: gensp.traits.yml, gensp.citations.txt, gensp.references.txt
 The information in the gene function registry documents gets incorporated into a Mine instance for some species when the `gensp.traits.yml` file
 is generated and copied to the `gene_functions` section of the public data store. This is a step that some curator has to initiate.

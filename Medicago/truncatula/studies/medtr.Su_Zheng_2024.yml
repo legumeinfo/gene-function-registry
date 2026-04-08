@@ -23,6 +23,6 @@ traits:
   - entity_name: Primary Branch number
     entity: TO:0000547
 references:
-  - citation: Su, Zheng etal., 2024
+  - citation: Su, Zheng et al., 2024
     doi: 10.3390/plants13071012
     pmid: 38611541

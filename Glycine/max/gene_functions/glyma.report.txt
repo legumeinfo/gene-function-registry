@@ -1,0 +1,634 @@
+
+Status for Glycine max (glyma) as of 2026-04-07:
+
+Count | PMID | DOI | Citation; Summary for glyma
+  --------------------------------------------------
+  25 | 33090664 | 10.1111/jipb.13021 | Lin, Liu et al., 2021
+  21 | 34962095 | 10.1111/jipb.13207 | Yang, Lan et al., 2022
+  11 | 35574141 | 10.3389/fpls.2022.889066 | Dietz, Chan et al., 2023
+  11 | 34919115 | 10.1590/1678-4685-GMB-2021-0016 | Molinari, Fuganti-Pagliarini et al., 2021
+  10 | PMC3350928 | 10.1093/jxb/ers039 | Pandurangan_Pajak_2012
+   8 | 35782726 | 10.1016/j.csbj.2022.06.014 | Zuo, Ikram et al., 2022
+   6 | 32680974 | 10.1104/pp.19.01209 | Lu, Cheng et al., 2020
+   6 | 28598036 | 10.1111/nph.14632 | Cai, Wang et al., 2017
+   5 | 38040709 | 10.1038/s41467-023-42991-z | Li, Sun et al., 2023
+   5 | 28319089 | 10.1038/ng.3819 | Lu, Zhao et al., 2017
+   5 | 24397545 | 10.1186/1471-2229-14-9 | Fan, Hu et al., 2014
+   4 | 41006955 | 10.1002/tpg2.70115 | Kumar, Mulkey et al., 2025
+   4 | 40679091 | 10.1002/advs.202505181 | Zheng, Feng et al., 2025
+   4 | 35782726 | 10.1016/j.csbj.2022.06.014 | Zuo, Ikram et. al., 2022
+   4 | 34319424 | 10.1007/s00122-021-03917-9 | Zhou, Lakhssassi et. al., 2021
+   4 | 31437808 | 10.1016/j.jplph.2019.153019 | Zhao, Bi et al., 2019
+   4 | 26786479 | 10.1186/s12870-016-0704-9 | Zhao, Takeshima et al., 2016
+   4 | 20864544 | 10.1104/pp.110.160796 | Kong, Liu et al., 2010
+   3 | 41408752 | 10.1016/j.xplc.2025.101678 | Yang, Ding et al., 2025
+   3 | 40636009 | 10.3389/fpls.2025.1606321 | Knizia, Anil et al., 2025
+   3 | 40394901 | 10.1016/j.xplc.2025.101378 | He, Liu et al., 2025
+   3 | 35599880 | 10.3389/fpls.2022.842597 | Khatri, Pant et al., 2022
+   3 | 35498680 | 10.3389/fpls.2022.820348 | Song, Montes-Luz et al., 2022
+   3 | 34962095 | 10.1111/jipb.13207 | Yang, Lan et. al., 2022
+   3 | 31981430 | 10.1111/pce.13695 | Chen, Cai et al., 2020
+   3 | 31960590 | 10.1111/pbi.13343 | Lakhssassi, Piya et al., 2020
+   3 | 31906799 | 10.1080/15592324.2019.1709707 | Arunraj, Skori et al., 2020
+   3 | 31782596 | 10.1111/pbi.13305 | Chen, Zhao et al., 2020
+   3 | 28350372 | 10.3390/genes8040111 | Zhu, Wang et al., 2017
+   3 | 27422993 | 10.1093/jxb/erw283 | Takeshima, Hayashi et al., 2016
+   3 | 25914592 | 10.1270/jsbbs.64.371 | Hoshino, Watanabe et al., 2014
+   3 | 24872380 | 10.1104/pp.114.242495 | Wang, Shine et al., 2014
+   3 | 23342093 | 10.1371/journal.pone.0054154 | Cheng, Wang, et al., 2013
+   3 | 21406680 | 10.1534/genetics.110.125062 | Watanabe, Xia et al., 2011
+   3 | 21198362 | 10.1094/MPMI-09-10-0207 | Reid, Ferguson et al., 2011
+   3 | 15939664 | 10.1016/j.pbi.2005.05.010 | Weirmer, Feys et al., 2005
+   3 | 10657130 | 10.1038/72671 | Jung, Yu, et al., 2013
+   2 | N/A | 10.1007/s11240-015-0837-9 | Wang, Wang et al., 2015
+   2 | N/A | 10.1007/s11032-019-0972-9 | Combs, Bilyeu, 2019
+   2 | N/A | 10.1007/s11032-012-9707-x | Head, Katie, et al., 2012
+   2 | 40839861 | 10.1111/tpj.70435 | Sun, Li et al., 2025
+   2 | 40076746 | 10.3390/ijms26052123 | Wang, He et al., 2025
+   2 | 35840482 | 10.1016/j.tplants.2022.07.002 | Hasan, Corpas et al., 2022
+   2 | 35574141 | 10.3389/fpls.2022.889066 | Dietz, Chan et al., 2022
+   2 | 35456933 | 10.3390/ijms23084116 | Qian, Jin et. al., 2022
+   2 | 35371153 | 10.3389/fpls.2022.817544 | Awal Khan, Zhang et al., 2022
+   2 | 34591638 | 10.1126/science.abh2890 | Wang, Guo et al., 2021
+   2 | 34587329 | 10.1111/tpj.15520 | Zhuang, Xue et al., 2021
+   2 | 34245624 | 10.1111/tpj.15414 | Wang, Li et al., 2021
+   2 | 33918544 | 10.3390/ijms22083877 | Ma, Sun et. al., 2021
+   2 | 33742087 | 10.1038/s42003-021-01889-6 | Vadivel, Anguraj AK, et al., 2021
+   2 | 33458938 | 10.1111/jipb.13070 | Yue, Li et al., 2021
+   2 | 33452487 | 10.1038/s41477-020-00832-7 | Zhang, Wang et al., 2021
+   2 | 32499790 | 10.3389/fpls.2020.00450 | Wang, Yang et al., 2020
+   2 | 32231277 | 10.1038/s41588-020-0604-7 | Lu, Dong et al., 2020
+   2 | 32186464 | 10.1094/MPMI-01-20-0017-R | Shi, Zhang et al., 2020
+   2 | 32119117 | 10.1111/nph.16506 | Liu, Liao et al., 2020
+   2 | 32005391 | 10.1016/j.plantsci.2019.110386 | Tian, Liu et al., 2019
+   2 | 31787988 | 10.3389/fpls.2019.01221 | Wu, Kang et al., 2019
+   2 | 31518373 | 10.1371/journal.pone.0222469 | Sugawara, Umehara et al., 2019
+   2 | 30418611 | 10.1093/pcp/pcy215 | Li, Liu et al., 2019
+   2 | 30110937 | 10.3390/ijms19082395 | Su, Han et al., 2018
+   2 | 28204559 | 10.1093/jxb/erw425 | Tang, Su et al., 2017
+   2 | 27345221 | 10.1038/srep28541 | Chen, Wang et al., 2016
+   2 | 26371882 | 10.1371/journal.pone.0136601 | Guo, Xu et al., 2015
+   2 | 26134161 | 10.1104/pp.15.00763 | Xu, Yamagishi et al., 2015
+   2 | 25549672 | 10.1105/tpc.114.131607 | Wang, Wang et al., 2014
+   2 | 25452420 | 10.1534/g3.114.015255 | Campbell, Mani et al., 2014
+   2 | 24673766 | 10.1111/jipb.12201 | Hayashi, Gresshoff et al., 2014
+   2 | 24465684 | 10.1371/journal.pone.0085754 | Wu, Price et al., 2014
+   2 | 24452833 | 10.1007/s11103-014-0172-2 | Pant, Matsye et al., 2014
+   2 | 24372721 | 10.1111/tpj.12419 | Fang, Li et al., 2014
+   2 | 23636663 | 10.1007/s00299-013-1419-0 | Na, Jian et al., 2013
+   2 | 22863334 | 10.1111/j.1467-7652.2012.00729.x | Hayashi, Reid et al., 2012
+   2 | 22107112 | 10.1021/jf2033939 | Kovinich, Saleem et al., 2012
+   2 | 21175888 | 10.1111/j.1365-313X.2010.04398.x | Indrasumunar, Searle et al., 2011
+   2 | 20828382 | 10.1186/1471-2229-10-195 | Pham, Lee et al., 2010
+   2 | 20075913 | 10.1038/nature08670 | Schmutz et al., 2010
+   2 | 19106300 | 10.1073/pnas.0810585105 | Shang, Li et al., 2008
+   2 | 18780733 | 10.1534/genetics.108.092742 | Liu, Kanazawa et al., 2008
+   2 | 17701395 | 10.1007/s00122-007-0621-2 | Yuan, Zhao et al., 2007
+   2 | 15125772 | 10.1111/j.1365-313x.2004.02072.x | Noh, Bizzell et al., 2004
+   2 | 12411574 | 10.1126/science.1077937 | Searle, Men et al., 2003
+   2 | 12228359 | 10.1104/pp.107.1.253 | Chao et al., 1995
+   1 | N/A | 10.2135/cropsci2014.03.0228 | Kong, Nan et al., 2014
+   1 | N/A | 10.2135/cropsci2008.02.0084 | Zhang, Burton et. al., 2008
+   1 | N/A | 10.1111/j.1399-3054.2007.00903.x | Meixner, Vegvari et al., 2007
+   1 | N/A | 10.1016/j.cj.2021.08.009 | Yu, Zou et al., 2021
+   1 | N/A | 10.1007/s11104-014-2267-6 | Wang, Zeng et al., 2015
+   1 | 9712587 | 10.1126/science.281.5380.1202 | Kaiser, Finnegan et al., 1998
+   1 | 41431171 | 10.1111/pbi.70443 | Liu, Wang et al., 2026
+   1 | 41238015 | 10.1016/j.plantsci.2025.112863 | Liu, Yao et al., 2026
+   1 | 40874116 | 10.1002/pld3.70098 | Du, Jung et al., 2025
+   1 | 40466959 | 10.1016/j.gene.2025.149609 | Guo, Sun et al., 2025
+   1 | 39942905 | 10.3390/plants14030343 | Yao, Humphries et al., 2025
+   1 | 39926644 | 10.3389/fpls.2025.1533592 | Bao, Xu et al., 2025
+   1 | 39859208 | 10.3390/ijms26020492 | Jin, Gao et al., 2025
+   1 | 39134894 | 10.1007/s00122-024-04693-y | You, Jo et al., 2024
+   1 | 38635775 | 10.1093/jxb/erae174 | Antonietta, Martinez et al., 2024
+   1 | 38390811 | 10.1111/jipb.13631 | Xie, Song et. al., 2024
+   1 | 38219483 | 10.1016/j.bbrc.2024.149471 | Jordan, Schmidt et al., 2024
+   1 | 37384360 | 10.3389/fpls.2023.1190503 | Yang Y, Zhao T et al., 2023
+   1 | 37186600 | 10.1371/journal.pone.0285698 | Khatri, Chen et al., 2023
+   1 | 36931563 | 10.1016/j.plantsci.2023.111677 | Kong, Xu et al., 2023
+   1 | 36740575 | 10.1111/nph.18792 | Cai, Xian et al., 2023
+   1 | 36614246 | 10.3390/ijms24010798 | Xhao, Li et al., 2023
+   1 | 36307423 | 10.1038/s41467-022-34153-4 | Liang, Chen, et al., 2022
+   1 | 36249531 | 10.1515/biol-2022-0490 | Zhou, Wang et al., 2022
+   1 | 35269637 | 10.3390/ijms23052497 | Su, Chen et al., 2022
+   1 | 34978122 | 10.1111/tpj.15658 | Fliege, Ward et al.,2022
+   1 | 34531883 | 10.3389/fpls.2021.708286 | DeMers, Raboy et al., 2021
+   1 | 34265872 | 10.1111/pbi.13668 | Lu, Wei et al., 2021
+   1 | 33995435 | 10.3389/fpls.2021.632754 | Xia, Zhai et al., 2012
+   1 | 33846264 | 10.1073/pnas.2100136118 | Pan, Yu et al., 2021
+   1 | 33841461 | 10.3389/fpls.2021.629069 | Yang, Zhang et al., 2021
+   1 | 33742112 | 10.1038/s42003-021-01907-7 | Zhang, Cheng et al., 2021
+   1 | 33368860 | 10.1111/pbi.13536 | Jin, Sun et al., 2021
+   1 | 33179365 | 10.1111/tpj.15077 | Burgos, Luca, et al., 2020
+   1 | 33175845 | 10.1371/journal.pgen.1009114 | Zhang, Goettel et al., 2020
+   1 | 32584851 | 10.1371/journal.pone.0235120 | Redekar, Glover et al., 2020
+   1 | 32344464 | 10.1111/tpj.14789 | Isidra-Arellano, Pozas-Rodríguez et al., 2020
+   1 | 32171732 | 10.1016/j.molp.2020.03.002 | Liu, Zhang et al., 2020
+   1 | 31981443 | 10.1111/pbi.13346 | Wang, Sun et al., 2020
+   1 | 31856712 | 10.1186/s12870-019-2201-4 | Yu, Jin et al., 2019
+   1 | 31852439 | 10.1186/s12870-019-2145-8 | Cheng, Dong et al., 2019
+   1 | 31779909 | 10.1016/j.plantsci.2019.110298 | Bai, Jing et al., 2020
+   1 | 31766569 | 10.3390/genes10120957 | Yu, Chang et al., 2019
+   1 | 31724182 | 10.1111/pce.13678 | Wang, Yuan, et. al., 2019
+   1 | 31596499 | 10.1111/nph.16250 | Miao, Yang et al., 2020
+   1 | 31569565 | 10.3390/ijms20194849 | Noman, Jameel et al., 2019
+   1 | 31437808 | 10.1016/j.jplph.2019.153019 | Zhau, Bi et al., 2019
+   1 | 31437808 | 10.1016/j.jplph.2019.153019 | Zhao, Jiangzhe, et al., 2019
+   1 | 31293605 | 10.3389/fpls.2019.00794 | Kusano, Li et al., 2019
+   1 | 31240772 | 10.1111/pbi.13199 | Cai, Wang, et al., 2020
+   1 | 31206092 | 10.1016/j.heliyon.2019.e01868 | Li, Guo et. al., 2019
+   1 | 31123331 | 10.1038/s41598-019-44255-7 | Kumar, Kumar et al., 2019
+   1 | 31035293 | 10.1093/jxb/erz199 | Takeshima, Nan, et al., 2019
+   1 | 30979945 | 10.1038/s41598-019-42332-5 | Chen, Fang et al., 2019
+   1 | 30894121 | 10.1186/s12864-019-5577-5 | Jiang, Zhang, et al., 2019
+   1 | 30509166 | 10.1186/s12870-018-1551-7 | Du, Zhao et al., 2018
+   1 | 30456004 | 10.1007/s13205-018-1492-8 | Porras-Murillo, Andrade-Torres et al., 2018
+   1 | 30195273 | 10.1111/tpj.14083 | Sukumaran, McDowell et al., 2018
+   1 | 30113770 | 10.1111/mpp.12741 | Zhang, Gao et al., 2018
+   1 | 30087346 | 10.1038/s41467-018-05663-x | Sugawara, Takahashi et. al., 2018
+   1 | 30004144 | 10.1111/tpj.14025 | Zhao, Li et al., 2018
+   1 | 29769571 | 10.1038/s41598-018-25910-x | Yan, Wang et. al., 2018
+   1 | 29550969 | 10.1007/s00122-017-3044-8 | Li, Guo et al., 2018
+   1 | 29292374 | 10.1038/s41477-017-0084-7 | Zhang, Sun et al., 2018
+   1 | 29120038 | 10.1111/nph.14884 | Liu, Jiang, et al., 2018
+   1 | 29120038 | 10.1111/nph.14884 | Liu, Jiang et al., 2008
+   1 | 29085246 | 10.1270/jsbbs.16201 | Sayama, Tanabata et. al., 2017
+   1 | 28979275 | 10.3389/fpls.2017.01604 | Manan, Ahmad et al., 2017
+   1 | 28338712 | 10.1093/jxb/erw394 | Cao, Takeshima, et al., 2017
+   1 | 28235823 | 10.1534/g3.116.038596 | Dobbels, Michno et al., 2017
+   1 | 27979775 | 10.1016/j.molp.2016.12.004 | Yue, Liu et al., 2017
+   1 | 27832313 | 10.1007/s00122-016-2819-7 | Samanfar, Molnar et al., 2017
+   1 | 27791139 | 10.1073/pnas.1611763113 | Ge, Yu et al., 2016
+   1 | 27422993 | 10.1093/jxb/erw283 | Takeshima, Hayashi, et al., 2016
+   1 | 27404272 | 10.1371/journal.pone.0159064 | Song J, Liu Z et al., 2016
+   1 | 27062090 | 10.1111/tpj.13181 | Lu, Li et al., 2016
+   1 | 26420429 | 10.1186/s12870-015-0602-6 | Li, Suo et al., 2015
+   1 | 25663621 | 10.1105/tpc.114.135103 | Wang, Zhou et al., 2015
+   1 | 25549672 | 10.1105/tpc.114.131607 | Wang, Wang et. al., 2014
+   1 | 25369033 | 10.1371/journal.pone.0111959 | Zabala, Vodkin., 2014
+   1 | 25369033 | 10.1371/journal.pone.0111959 | Zabala, Vodkin, 2014
+   1 | 25287450 | 10.1186/s12870-014-0263-x | Hu, Jin et al., 2014
+   1 | 25074550 | 10.1093/aob/mcu147 | Yao, Tian et al., 2014
+   1 | 25005919 | 10.1105/tpc.114.126938 | Ping, Liu, et al., 2014
+   1 | 25004933 | 10.1038/ncomms5340 | Qi, Li et al., 2014
+   1 | 24893844 | 10.1186/1471-2229-14-154 | Zhou, He et al., 2014
+   1 | 24886084 | 10.1186/1471-2229-14-143 | Gillman, Stacey et. al., 2014
+   1 | 24846334 | 10.1371/journal.pone.0097891 | Carrero-Colon, Abshire et. al., 2014
+   1 | 24846334 | 10.1371/journal.pone.0097891 | Carrero-Colon, Abshire et al., 2014
+   1 | 24845624 | 10.1371/journal.pone.0097669 | Nan, Cao, et al., 2014
+   1 | 24845624 | 10.1371/journal.pone.0097669 | Nan, Cao et al., 2014
+   1 | 24733883 | 10.1104/pp.114.235952 | Cook, Bayless et al., 2014
+   1 | 24727730 | 10.1371/journal.pone.0094150 | Langewisch, Zhang, 2014
+   1 | 24707045 | 10.1073/pnas.1312801111 | Chiasson, Loughlin et al., 2014
+   1 | 24586488 | 10.1371/journal.pone.0089030 | Zhai, Lu et al., 2014
+   1 | 24284817 | 10.1093/aob/mct269 | Tsubokura, Watanabe et al., 2013
+   1 | 24072327 | 10.1007/s11103-013-0133-1 | RojasRodas, Rodriguez et al., 2013
+   1 | 23984715 | 10.1186/1471-2164-14-579 | Li, Zhao et al., 2013
+   1 | 23963672 | 10.1093/jxb/ert238 | Song, Li et al., 2013
+   1 | 23645501 | 10.1007/s11248-013-9713-8 | Zhang, Luo et al., 2013
+   1 | 23636865 | 10.1007/s11103-013-0062-z | Zhao, Wang et al., 2013
+   1 | 23388059 | 10.1186/1471-2229-13-21 | Zhang, Zhao et al., 2013
+   1 | 23322364 | 10.1007/s10142-012-0306-z | Li, Hatanaka et al., 2013
+   1 | 22733447 | 10.1007/s00122-012-1922-7 | Yuan, Zhu et al., 2012
+   1 | 22619331 | 10.1073/pnas.1117982109 | Xia, Watanabe et al., 2012
+   1 | 22258749 | 10.1007/s00425-012-1590-5 | Toda, Kuroiwa et al., 2012
+   1 | 22070454 | 10.1186/1471-2229-11-155 | Gillman, Tetlow et al., 2011
+   1 | 21963279 | 10.1016/j.jplph.2011.08.007 | Chi, Huang et al., 2011
+   1 | 21617948 | 10.1007/s11033-011-0875-2 | Xue, Zhang et al., 2012
+   1 | 21252257 | 10.1093/jxb/erq445 | Boisson-Dernier, Kessler et al., 2011
+   1 | 21046066 | 10.1007/s00122-010-1467-6 | Juwattanasomran, Somta, et al., 2011
+   1 | 20864544 | 10.1104/pp.110.160796 | Kong, Liu, et al., 2010
+   1 | 20584753 | 10.1093/jhered/esq078 | Yang, Jeong et al., 2010
+   1 | 20428921 | 10.1007/s10265-010-0345-2 | Toda, Takahashi et al., 2011
+   1 | 20421496 | 10.1073/pnas.1000088107 | Tian, Wang, et al., 2010
+   1 | 20345602 | 10.1111/j.1365-313X.2010.04214.x | Yi, Jinxin et al., 2010
+   1 | 20219831 | 10.1104/pp.109.150607 | Liu, Watanabe, et al., 2010
+   1 | 20219831 | 10.1104/pp.109.150607 | Liu, Watanabe et al., 2010
+   1 | 19474204 | 10.1534/genetics.108.098772 | Watanabe, Hideshima et al., 2009
+   1 | 19091879 | 10.1104/pp.108.123679 | Akashi, Sasaki et al., 2009
+   1 | 16395584 | 10.1007/s00425-005-0201-0 | Nunes, Vianna et al., 2006
+   1 | 15731930 | 10.1007/s00122-004-1887-2 | Kim, Van et al., 2005
+   1 | 12175012 | 10.1023/a:1016087221334 | Toda, Yang et al., 2002
+   1 | 11299373 | 10.1104/pp.125.4.1941 | Hegeman, Good et al., 2001
+  --------------------------------------------------
+
+Count | gene_model_full_id; Summary for glyma
+--------------------------------------------------
+   2 | glyma.Wm82.gnm4.ann1.Glyma.16G150700
+   1 | glyma.Zh13.gnm1.ann1.SoyZH13_12G067700
+   1 | glyma.Zh13.gnm1.ann1.SoyZH13_11G141200
+   1 | glyma.Wm82.gnm6.ann1.Glyma.20G005900
+   1 | glyma.Wm82.gnm6.ann1.Glyma.18G022500
+   1 | glyma.Wm82.gnm6.ann1.Glyma.17G054500
+   1 | glyma.Wm82.gnm6.ann1.Glyma.15G170300
+   1 | glyma.Wm82.gnm6.ann1.Glyma.15G049200
+   1 | glyma.Wm82.gnm6.ann1.Glyma.12G073900
+   1 | glyma.Wm82.gnm6.ann1.Glyma.10G164100
+   1 | glyma.Wm82.gnm6.ann1.Glyma.09G167000
+   1 | glyma.Wm82.gnm6.ann1.Glyma.09G073600
+   1 | glyma.Wm82.gnm6.ann1.Glyma.09G063900
+   1 | glyma.Wm82.gnm6.ann1.Glyma.08G230500
+   1 | glyma.Wm82.gnm6.ann1.Glyma.08G183500
+   1 | glyma.Wm82.gnm6.ann1.Glyma.08G108900
+   1 | glyma.Wm82.gnm6.ann1.Glyma.07G158200
+   1 | glyma.Wm82.gnm6.ann1.Glyma.05G243800
+   1 | glyma.Wm82.gnm6.ann1.Glyma.04G051000
+   1 | glyma.Wm82.gnm6.ann1.Glyma.02G240400
+   1 | glyma.Wm82.gnm6.ann1.Glyma.01G134600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.20G116200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.20G111000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.20G090000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.20G035700
+   1 | glyma.Wm82.gnm4.ann1.Glyma.19G260900
+   1 | glyma.Wm82.gnm4.ann1.Glyma.19G198600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.19G194300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.19G122800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.19G108100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.18G278100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.18G273600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.18G224500
+   1 | glyma.Wm82.gnm4.ann1.Glyma.18G022400
+   1 | glyma.Wm82.gnm4.ann1.Glyma.17G094400
+   1 | glyma.Wm82.gnm4.ann1.Glyma.17G036400
+   1 | glyma.Wm82.gnm4.ann1.Glyma.17G036300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.16G212300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.16G151000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.16G092700
+   1 | glyma.Wm82.gnm4.ann1.Glyma.16G091300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.16G044100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.15G174800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.15G049200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.15g014800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.15G012100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.14G095900
+   1 | glyma.Wm82.gnm4.ann1.Glyma.14G068700
+   1 | glyma.Wm82.gnm4.ann1.Glyma.14G066100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.13G288000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.13G287600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.13G248000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.13G241700
+   1 | glyma.Wm82.gnm4.ann1.Glyma.13G173500
+   1 | glyma.Wm82.gnm4.ann1.Glyma.12G073300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.12G014300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.11G238800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.11G149900
+   1 | glyma.Wm82.gnm4.ann1.Glyma.11G124200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.10G261900
+   1 | glyma.Wm82.gnm4.ann1.Glyma.10G218800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.10G194000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.10G180600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.10G141400
+   1 | glyma.Wm82.gnm4.ann1.Glyma.10G036800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.09G266200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.09G235100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.08G255200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.08G163900
+   1 | glyma.Wm82.gnm4.ann1.Glyma.08G084300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.08G062100
+   1 | glyma.Wm82.gnm4.ann1.Glyma.08G062000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.07G202300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.07g049700
+   1 | glyma.Wm82.gnm4.ann1.Glyma.06G207800
+   1 | glyma.Wm82.gnm4.ann1.Glyma.06G202300
+   1 | glyma.Wm82.gnm4.ann1.Glyma.06G184200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.06G169600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.06G028200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.05G121600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.05g032200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.04G244900
+   1 | glyma.Wm82.gnm4.ann1.Glyma.04G244200
+   1 | glyma.Wm82.gnm4.ann1.Glyma.04G101500
+   1 | glyma.Wm82.gnm4.ann1.Glyma.03G171600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.02G168000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.02G122000
+   1 | glyma.Wm82.gnm4.ann1.Glyma.02G048600
+   1 | glyma.Wm82.gnm4.ann1.Glyma.02G041500
+   1 | glyma.Wm82.gnm4.ann1.Glyma.01G023500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.20G186200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.20G141200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.20G090000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.20G085100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G263500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G260900
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G224200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G206800
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G194300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G108200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G108100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.19G100200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.18G299000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.18G298900
+   1 | glyma.Wm82.gnm2.ann1.Glyma.18G117100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.17G120400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.17G031900
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G33780
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G151000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G150700
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G050500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G044200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G044100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.16G017400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.15G222300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.15G080200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.14G188000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.14G121400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.14G046200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.13G292300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.13G259400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.13G232500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.13G218200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.13G106100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.12G224600
+   1 | glyma.Wm82.gnm2.ann1.Glyma.12G040000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.11G246200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.11G238800
+   1 | glyma.Wm82.gnm2.ann1.Glyma.11G150400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.11G150300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.11G003200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.10G278000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.10G221500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.10G021500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.09G088500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.09G027700.1
+   1 | glyma.Wm82.gnm2.ann1.Glyma.08G363200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.08G363100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.08G302500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.08G083300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.08G076300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.07g184900
+   1 | glyma.Wm82.gnm2.ann1.Glyma.07G048500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.07G011600
+   1 | glyma.Wm82.gnm2.ann1.Glyma.06G284100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.06G196200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.06G119100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.05G131200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.05G128200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.05G031100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.05G012300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.04G156400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.04G143300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.04G050200
+   1 | glyma.Wm82.gnm2.ann1.Glyma.03G261800
+   1 | glyma.Wm82.gnm2.ann1.Glyma.03G224300
+   1 | glyma.Wm82.gnm2.ann1.Glyma.03G209400
+   1 | glyma.Wm82.gnm2.ann1.Glyma.02G303800
+   1 | glyma.Wm82.gnm2.ann1.Glyma.02G270800
+   1 | glyma.Wm82.gnm2.ann1.Glyma.02G152800
+   1 | glyma.Wm82.gnm2.ann1.Glyma.02G108500
+   1 | glyma.Wm82.gnm2.ann1.Glyma.02G076900
+   1 | glyma.Wm82.gnm2.ann1.Glyma.01G215100
+   1 | glyma.Wm82.gnm2.ann1.Glyma.01G178000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.01G156000
+   1 | glyma.Wm82.gnm2.ann1.Glyma.01G009600
+   1 | glyma.Wm82.gnm2.ann1.Glyma.01G008600
+   1 | glyma.Wm82.gnm1.ann1.Glyma19g45030
+   1 | glyma.Wm82.gnm1.ann1.Glyma18g36130
+   1 | glyma.Wm82.gnm1.ann1.Glyma18g06950
+   1 | glyma.Wm82.gnm1.ann1.Glyma18g06840
+   1 | glyma.Wm82.gnm1.ann1.Glyma18g02060
+   1 | glyma.Wm82.gnm1.ann1.Glyma17g35650
+   1 | glyma.Wm82.gnm1.ann1.Glyma17g06120
+   1 | glyma.Wm82.gnm1.ann1.Glyma17g05200
+   1 | glyma.Wm82.gnm1.ann1.Glyma14g37440
+   1 | glyma.Wm82.gnm1.ann1.Glyma14g37350
+   1 | glyma.Wm82.gnm1.ann1.Glyma14g27990
+   1 | glyma.Wm82.gnm1.ann1.Glyma14g09510
+   1 | glyma.Wm82.gnm1.ann1.Glyma14g07880
+   1 | glyma.Wm82.gnm1.ann1.Glyma13g17290
+   1 | glyma.Wm82.gnm1.ann1.Glyma13g16560
+   1 | glyma.Wm82.gnm1.ann1.Glyma12G33660
+   1 | glyma.Wm82.gnm1.ann1.Glyma12g07861
+   1 | glyma.Wm82.gnm1.ann1.Glyma11g38130
+   1 | glyma.Wm82.gnm1.ann1.Glyma11g27720
+   1 | glyma.Wm82.gnm1.ann1.Glyma11g27480
+   1 | glyma.Wm82.gnm1.ann1.Glyma11g15580
+   1 | glyma.Wm82.gnm1.ann1.Glyma11g02980
+   1 | glyma.Wm82.gnm1.ann1.Glyma10G38970
+   1 | glyma.Wm82.gnm1.ann1.Glyma10G33030
+   1 | glyma.Wm82.gnm1.ann1.Glyma09g36983
+   1 | glyma.Wm82.gnm1.ann1.Glyma09g07520
+   1 | glyma.Wm82.gnm1.ann1.Glyma08g21410
+   1 | glyma.Wm82.gnm1.ann1.Glyma08g20030
+   1 | glyma.Wm82.gnm1.ann1.Glyma08g00420
+   1 | glyma.Wm82.gnm1.ann1.Glyma06g23560
+   1 | glyma.Wm82.gnm1.ann1.Glyma06g19920
+   1 | glyma.Wm82.gnm1.ann1.Glyma06g19820
+   1 | glyma.Wm82.gnm1.ann1.Glyma06g04590
+   1 | glyma.Wm82.gnm1.ann1.Glyma06G01240
+   1 | glyma.Wm82.gnm1.ann1.Glyma05g01770
+   1 | glyma.Wm82.gnm1.ann1.Glyma04g34800
+   1 | glyma.Wm82.gnm1.ann1.Glyma04g04470
+   1 | glyma.Wm82.gnm1.ann1.Glyma02g39230
+   1 | glyma.Wm82.gnm1.ann1.Glyma02g18610
+   1 | glyma.Wm82.gnm1.ann1.Glyma01g42390
+   1 | glyma.Wm82.gnm1.ann1.Glyma01g37810
+   1 | glyma.Wm82.gnm1.ann1.Glyma01g36010
+  --------------------------------------------------
+
+Count | Ontology accession | Description; Summary for glyma
+  --------------------------------------------------
+  33 | TO:0000469 | days to maturity
+  32 | GO:0009877 | nodulation
+  30 | TO:0002616 | flowering time
+  24 | GO:0043903 | regulation of biological process involved in symbiotic interaction
+  14 | TO:0000604 | fat and essential oil content
+  12 | GO:0048316 | seed development
+  10 | TO:0002616 | Flowering time trait
+  10 | TO:0000490 | Seed protein content
+  10 | TO:0000207 | plant height
+  10 | GO:0010866 | regulation of triglyceride biosynthetic process
+   9 | TO:0000934 | photoperiod-sensitive flowering time trait
+   8 | GO:0006629 | lipid metabolic process
+   7 | TO:0000181 | seed weight
+   6 | TO:0001111 | Heterodera glycines response
+   6 | TO:0000490 | seed protein content
+   6 | GO:0048364 | root development
+   6 | GO:0038198 | auxin receptor activity
+   6 | GO:0008152 | metabolic process
+   6 | GO:0006529 | asparagine biosynthetic process
+   6 | GO:0004066 | asparagine synthase (glutamine-hydrolyzing) activity
+   5 | TO:0006001 | salt tolerance
+   5 | TO:0000756 | stem internode morphology trait
+   5 | PO:0003023 | root nodule
+   5 | GO:0044403 | biological process involved in symbiotic interaction
+   5 | GO:0010344 | seed oilbody biogenesis
+   5 | GO:0009717 | isoflavonoid biosynthetic process
+   4 | TO:0000927 | plant organ growth and development trait
+   4 | TO:0000598 | protein content
+   4 | TO:0000328 | sucrose content
+   4 | TO:0000168 | abiotic plant stress trait
+   4 | TO:0000164 | plant stress trait
+   4 | GO:1901333 | positive regulation of lateral root development
+   4 | GO:0080113 | regulation of seed growth
+   4 | GO:0016787 | Hydrolase Activity
+   3 | TO:0020020 | stem branch number
+   3 | TO:0012002 | leaf chlorophyll content
+   3 | TO:0005005 | alpha-linolenic acid content
+   3 | TO:0005004 | omega-3 fatty acid content
+   3 | TO:0002616 | flowering time trait
+   3 | TO:0001170 | fatty acid content trait
+   3 | TO:0001125 | pod number trait
+   3 | TO:0000898 | root nodule morphology trait
+   3 | TO:0000699 | sucrose synthase activity trait
+   3 | TO:0000276 | drought tolerance
+   3 | TO:0000179 | biotic plant stress trait
+   3 | TO:0000153 | relative yield
+   3 | GO:1902185 | positive regulation of shoot apical meristem development
+   3 | GO:0055114 | oxidation-reduction process
+   3 | GO:0048578 | positive regulation of long-day photoperiodism, flowering
+   3 | GO:0048576 | positive regulation of short-day photoperiodism, flowering
+   3 | GO:0044550 | secondary metabolite biosynthetic process
+   3 | GO:0042742 | defense response to bacterium
+   3 | GO:0042389 | omega-3 fatty acid desaturase
+   3 | GO:0016301 | kinase activity
+   3 | GO:0016192 | vesicle-mediated transport
+   3 | GO:0009686 | gibberellin biosynthetic process
+   3 | GO:0009399 | nitrogen fixation
+   3 | GO:0005315 | inorganic phosphate transmembrane transporter activity
+   3 | GO:0002215 | defense response to nematode
+   2 | TO:0002616 | Flowering Time trait
+   2 | TO:0001144 | Oomycete disease response
+   2 | TO:0001024 | phosphorus content
+   2 | TO:0000696 | starch content
+   2 | TO:0000634 | stem node number
+   2 | TO:0000494 | plant pigment content trait
+   2 | TO:0000432 | temperature response trait
+   2 | TO:0000429 | salt response
+   2 | TO:0000384 | nematode damage response trait
+   2 | TO:0000333 | sugar content
+   2 | TO:0000316 | photosynthetic ability
+   2 | TO:0000315 | bacterial disease resistance
+   2 | TO:0000261 | insect damage resistance
+   2 | TO:0000190 | Seed coat color
+   2 | TO:0000112 | microbial disease response
+   2 | GO:1903647 | negative regulation of chlorophyll catabolic process
+   2 | GO:0048572 | short-day photoperiodism
+   2 | GO:004857 | positive regulation of long-day photoperiodism, flowering
+   2 | GO:0048437 | floral organ development
+   2 | GO:0046289 | isoflavonoid phytoalexin metabolic process
+   2 | GO:0045487 | gibberellin catabolic process
+   2 | GO:0033817 | beta-ketoacyl-acyl-carrier-protein synthase II activity
+   2 | GO:0016851 | magnesium chelatase activity
+   2 | GO:0009785 | blue light signaling pathway
+   2 | GO:0006633 | fatty acid biosynthetic process
+   2 | GO:0004672 | protein kinase activity
+   2 | GO:0004659 | prenyltransferase activity
+   2 | GO:0003700 | DNA-binding transcription factor activity
+   2 | ENVO:01000171 | indeterminate root nodule nitrogen fixation zone
+   1 | TO:0020107 | plant cell length
+   1 | TO:0020096 | mineral and ion transportation
+   1 | TO:0012011 | leaf senescence rate
+   1 | TO:0012004 | quantum yield
+   1 | TO:0006017 | meristem identity
+   1 | TO:0005006 | glyphosate sensitivity
+   1 | TO:0005003 | stearic acid content
+   1 | TO:0005002 | oleic acid content
+   1 | TO:0002687 | cell elongation trait
+   1 | TO:0002639 | shoot branching
+   1 | TO:0002616 | photoperiod-sensitive flowering time trait
+   1 | TO:0001143 | antioxidant activity trait
+   1 | TO:0001035 | stem width
+   1 | TO:0000992 | gibberellin biosynthesis trait
+   1 | TO:0000968 | Hilum color
+   1 | TO:0000968 | hilum color
+   1 | TO:0000967 | hilum morphology trait
+   1 | TO:0000933 | days to maturity
+   1 | TO:0000888 | seed coat luster
+   1 | TO:0000870 | leaf yeild trait
+   1 | TO:0000766 | petiole length
+   1 | TO:0000653 | seed growth and development trait
+   1 | TO:0000648 | relative phosphorus uptake
+   1 | TO:0000634 | Stem node number
+   1 | TO:0000627 | relative phosphorus utilization efficiency
+   1 | TO:0000620 | plant embryo development trait
+   1 | TO:0000615 | abscisic acid sensitivity
+   1 | TO:0000604 | fat & essential oil content
+   1 | TO:0000540 | leaf area trait
+   1 | TO:0000513 | postassium ion concentration
+   1 | TO:0000499 | Flowering morphology trait
+   1 | TO:0000491 | fat and essential oil composition related trait
+   1 | TO:0000391 | seed size
+   1 | TO:0000371 | yield trait
+   1 | TO:0000370 | leaf width
+   1 | TO:0000344 | days to flowering trait
+   1 | TO:0000326 | leaf color
+   1 | TO:0000303 | low temperature stress response
+   1 | TO:0000290 | flavonoid content
+   1 | TO:0000164 | plant stress response trait
+   1 | TO:0000148 | viral disease resistance
+   1 | TO:0000145 | shoot axis internode length
+   1 | TO:0000114 | flooding related trait
+   1 | TO:0000095 | osmotic response sensitivity
+   1 | TO:0000056 | stem color
+   1 | PO:0009010 | seed
+   1 | PO:0007057 | seed germination stage
+   1 | PECO:0007200 | short day length exposure
+   1 | OMIT:0025284 | herbicide resistance
+   1 | NCIT:C116211 | Gamma Tocopherol Measurement
+   1 | NCIT:C103349 | Alpha Tocopherol Measurement
+   1 | NCBITaxon:12222 | soybean mosaic virus
+   1 | GO:1904966 | Positive regulation of vitamin E biosynthetic process
+   1 | GO:1902184 | negative regulation of shoot apical meristem development
+   1 | GO:1901696 | cannabinoid biosynthetic process
+   1 | GO:0140359 | ABC-type transporter activity
+   1 | GO:0140315 | iron ion sequestering activity
+   1 | GO:0098539 | cytoplasmic side of transport vesicle membrane
+   1 | GO:0080144 | intracellular amino acid homeostasis
+   1 | GO:0072659 | protein localization to plasma membrane
+   1 | GO:0071483 | cellular response to blue light
+   1 | GO:0070704 | sterol desaturase activity
+   1 | GO:0055062 | phosphate ion homeostasis
+   1 | GO:0050832 | defence response to fungus
+   1 | GO:0048579 | negative regulation of long-day photoperiodism, flowering
+   1 | GO:0048574 | long-day photoperiodism, flowering
+   1 | GO:0048573 | photoperiodism, flowering
+   1 | GO:0048367 | shoot system development
+   1 | GO:0048193 | Golgi vesicle transport
+   1 | GO:0046872 | C2H2 and C2HC zinc fingers superfamily protein
+   1 | GO:0046322 | negative regulation of fatty acid oxidation
+   1 | GO:0045490 | pectin catabolic process
+   1 | GO:0042753 | positive regulation of circadian rhythm
+   1 | GO:0042545 | cell wall modification
+   1 | GO:0035976 | transcription factor AP-1 complex
+   1 | GO:0035618 | root hair
+   1 | GO:0035299 | inositol-1,3,4,5,6-pentakisphosphate 2-kinase activity
+   1 | GO:0035195 | miRNA-mediated post-transcriptional gene silencing
+   1 | GO:0033769 | glyceollin synthase activity
+   1 | GO:0033517 | myo-inositol hexakisphosphate metabolic process
+   1 | GO:0033332 | ent-kaurene biosynthetic process
+   1 | GO:0031537 | Regulation of anthocyanin metabolic process
+   1 | GO:0019433 | triglyceride catabolic process
+   1 | GO:0019222 | regulation of metabolic process
+   1 | GO:0016491 | oxidoreductase activity
+   1 | GO:0016491 | 3-chloroallyl aldehyde dehydrogenase activity
+   1 | GO:0016138 | glycoside biosynthetic process
+   1 | GO:0016051 | carbohydrate biosynthetic process
+   1 | GO:0015562 | efflux transmembrane transporter activity
+   1 | GO:0010468 | regulation of gene expression
+   1 | GO:0010354 | homogentisate prenyltransferase activity
+   1 | GO:0010262 | somatic embryogenesis
+   1 | GO:0010082 | regulation of root meristem growth
+   1 | GO:0010030 | positive regulation of seed germination
+   1 | GO:0009845 | seed germination
+   1 | GO:0009738 | abscisic acid-activated signaling pathway
+   1 | GO:0009685 | gibberellin metabolic process
+   1 | GO:0009058 | biosynthetic process
+   1 | GO:0008168 | Methyltransferase activity
+   1 | GO:000815 | Metabolic process
+   1 | GO:0008134 | Transcription factor binding
+   1 | GO:0008134 | transcription factor binding
+   1 | GO:0007275 | multicellular organism development
+   1 | GO:0006886 | intracellular protein transport
+   1 | GO:0006641 | triglyceride metabolic process
+   1 | GO:0006636 | unsaturated fatty acid biosynthesis process
+   1 | GO:0005516 | calmodulin binding
+   1 | GO:0005515 | protein binding
+   1 | GO:0004028 | 3-chloroallyl aldehyde dehydrogenase activity
+   1 | GO:0000496 | positively regulates
+   1 | GO:0000036 | acyl carrier activity
+   1 | CO_336:0000048 | seed oil content
+   1 | CO_336:0000027 | soybean plant height trait
+   1 | CO_336:0000000 | soybean flowering time trait
+  --------------------------------------------------
+
