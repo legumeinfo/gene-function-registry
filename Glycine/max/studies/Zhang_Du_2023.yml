@@ -20,10 +20,12 @@ comments:
   - Results show that GmTOC1bH3 exhibited the strongest inhibitory activity on
     the GmWRKY40 promoter, whereas GmTOC1bH1 showed the weakest repressive
     effect.
-phenotype_synopsis: GmTOC1b negatively regulates resistance to Soybean mosaic virus
+phenotype_synopsis: GmTOC1b negatively regulates resistance to Soybean Mosaic Virus.
 traits:
   - entity_name: viral disease response trait
     entity: TO:0000148
+  - entity_name: salicylic acid mediated signaling pathway
+    entity: GO:0009863
 references:
   - citation: Zhang, Du et al., 2023
     doi: 10.1016/j.cj.2023.08.001
