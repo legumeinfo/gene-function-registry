@@ -1,0 +1,36 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmTOC1b
+gene_symbol_long: TIMING OF CAB EXPRESSION 1b
+gene_model_pub_name: Glyma.06G196200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G196200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Homozygous GmTOC1b mutants exhibited increased tolerance to Soybean Mosiac
+    Virus strain SC3 due to the activation of programmed cell death triggered by
+    a hypersensitive response.
+  - GmTOC1b binds to the promoter of GmWRKY40, which encodes a protein that
+    activates the expression of salicylic acid-mediated defense-related genes.
+  - The GmTOC1bH1 haplotype, which confers increased tolerance to Soybean Mosiac
+    Virus, was artificially selected in improved cultivars from the Northern and
+    Huang-Huai regions of China.
+  - Results show that GmTOC1bH3 exhibited the strongest inhibitory activity on
+    the GmWRKY40 promoter, whereas GmTOC1bH1 showed the weakest repressive
+    effect.
+phenotype_synopsis: GmTOC1b negatively regulates resistance to Soybean Mosaic Virus.
+traits:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: salicylic acid mediated signaling pathway
+    entity: GO:0009863
+references:
+  - citation: Zhang, Du et al., 2023
+    doi: 10.1016/j.cj.2023.08.001
+  - citation: Zhang, Cheng et al., 2022
+    doi: 10.3389/fpls.2022.1052017
+    pmid: 36438085
+
+---
