@@ -97,7 +97,7 @@ The **references** block is required. It contains one or more blocks of citation
   LastName, LastName et al., YEAR
 ```
 
-## Generating/updateing reports about data collected so far
+## Generating/updating reports about data collected so far
 There is a script `scripts/generate_report.sh` that summarizes key data from the yaml files in all Genus/species directories. Run this script in one of the following ways:
 
 To print to STDOUT: 
