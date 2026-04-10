@@ -46,8 +46,14 @@ my $usage = <<EOS;
 EOS
 
 my ($help, $yml_out, $cit_out, $in_cit);
-my $apibase = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
 my ($overwrite, $trust, $verbose) = (0, 0, 0);
+
+#my $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
+my $ncbi_base = "https://pmc.ncbi.nlm.nih.gov/api/ctxp/v1/pubmed";
+
+#my $alt_ncbi_base = "https://pmc.ncbi.nlm.nih.gov/api/ctxp/v1/pubmed";
+my $alt_ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
+
 my $sleepytime=2; # Wait time
 my $width = 80;   # Wrap yaml strings at this number of characters
 
@@ -260,32 +266,49 @@ for my $cit_id (sort keys %cit_elts_by_cit_HoA){
     if ($verbose){ say "    >> First choice: use PMID to retrieve citation"; }
     if ($verbose){ say "    >> KK: PMID is $pmid"; }
     if ($verbose){ print "\n  == Retrieving and printing citation for $pmid\n"; }
-    my $pubmed_request = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed/?format=citation&contenttype=json&id=$pmid";
-    my $json_response = qx{curl --silent "$pubmed_request"};
+    my $curl_string = "curl --silent \"$ncbi_base/?format=citation&contenttype=json&id=$pmid\""; 
+    if ($verbose){ say "    >> ZZ0: curl_string: $curl_string\n" }
+    my $json_response = `$curl_string`;
+    #say "=====\nJSON:\n$json_response\n=====";
     sleep($sleepytime);
 
-    # Parse the json result by converting it to a perl hash of hashes; then pull out the "nlm" "format" element.
-    my $result_perl = parse_json ($json_response);
-    #say "\n", Dumper($result_perl), "\n";
-    while ( my ($k, $v) = each %{$result_perl} ){
-      #say "\n     CHECK: for $k: $v";
-      if ($k =~ /nlm/){
-        while ( my ($k2, $v2) = each %{$v} ){
-          if ($k2 =~ /format/) { 
-            $nlm_cite = $v2;
-            if ($verbose>1){ say "    >> ZZ1: nlm_cite is $nlm_cite"; }
+    my $bailed = 0;
+    if ($json_response =~ /DOCTYPE HTML/){  # Make another attempt, with an alternate API address
+      my $curl_string = "curl --silent \"$alt_ncbi_base/?format=citation&contenttype=json&id=$pmid\"";
+      if ($verbose){ say "    >> ZZ2: Attempting with alt_ncbi_base: curl_string: $curl_string\n" }
+      my $json_response = `$curl_string`;
+      if ($json_response =~ /DOCTYPE HTML/){ 
+        $bailed = 1;
+      }
+    }
+
+    if ($bailed == 1){
+      warn "\nBailing out for PMID $pmid, as no parseable JSON was retrieved. Result:\n$json_response\n\n";
+    }
+    else {
+      # Parse the json result by converting it to a perl hash of hashes; then pull out the "nlm" "format" element.
+      my $result_perl = parse_json ($json_response);
+      #say "\n", Dumper($result_perl), "\n";
+      while ( my ($k, $v) = each %{$result_perl} ){
+        #say "\n     CHECK: for $k: $v";
+        if ($k =~ /nlm/){
+          while ( my ($k2, $v2) = each %{$v} ){
+            if ($k2 =~ /format/) { 
+              $nlm_cite = $v2;
+              if ($verbose>1){ say "    >> ZZ1: nlm_cite is $nlm_cite"; }
+            }
           }
         }
       }
+      say $CIT_OUT_FH join("\t", $doi, $pmid, $cit_str, $nlm_cite);
     }
-    say $CIT_OUT_FH join("\t", $doi, $pmid, $cit_str, $nlm_cite);
   }
   elsif ($doi !~ /null|~/){ 
     if ($verbose){ say "    >> Second choice: use DOI. Note that the citation won't be reported."; }
     if ($verbose){ say "    >> LL: DOI is $doi"; }
     if ($verbose){ print "\n    >> Retrieving and printing citation for $doi\n"; }
 
-    my ($crossref_base, $ncbi_base, $curl_string);
+    my ($crossref_base, $curl_string);
     $crossref_base = "https://api.crossref.org/works";
     $curl_string = "curl --silent \"$crossref_base/works/$doi\"";
     if ($verbose){ say "    >> EE2: Lookup doi $doi: $curl_string" }
@@ -459,9 +482,7 @@ sub get_doi_given_pmid {
   }
   else { # get citation components from the service
     if ($verbose){ print "\n  == Retrieving PubMed ID components, given PMID $pmid_str\n" }
-    my ($ncbi_base, $curl_string);
-
-    $ncbi_base = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed";
+    my $curl_string;
 
     $curl_string = "curl --silent \"$ncbi_base/?format=citation&id=$pmid_str\""; 
     if ($verbose){ say "    >> II: Lookup $pmid_str: $curl_string\n" }
@@ -517,5 +538,6 @@ S. Cannon
 2025-07-01 Print citations sorted by doi
 2025-07-28 Script overhaul to better extract DOI and PMID strings from the PubMed and Crossref services, and
             to merge elements relative to unique citations.
+2026-04-10 Change default URL base to pmc.ncbi.nlm.nih.gov 
 
 get_citations.pl -cit_out test.citations.txt -yml_out test.traits.yml -v -over test_in.yml
