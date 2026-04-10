@@ -1,22 +1,30 @@
 
-Status for Medicago sativa (medsa) as of 2026-04-07:
+Status for Medicago sativa (medsa) as of 2026-04-10:
 
 Count | PMID | DOI | Citation; Summary for medsa
   --------------------------------------------------
-   1 | 40466959 | 10.1016/j.gene.2025.149609 | Guo, Sun et al., 2025
+      4 | 28150171 | 10.1007/s10265-017-0905-9 | Li, Long et al., 2017
+      4 | 18330475 | 10.1111/j.1745-7270.2008.00394.x | He, Xie et al., 2008
+      1 | 40466959 | 10.1016/j.gene.2025.149609 | Guo, Sun et al., 2025
   --------------------------------------------------
 
 Count | gene_model_full_id; Summary for medsa
 --------------------------------------------------
-   1 | medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
+      1 | medsa.XinJiangDaYe.gnm1.ann1.MS.gene90259
+      1 | medsa.XinJiangDaYe.gnm1.ann1.MS.gene40086
+      1 | medsa.XinJiangDaYe.gnm1.ann1.MS.gene053617
+      1 | medsa.XinJiangDaYe.gnm1.ann1.MS.gene028516
+      1 | medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
   --------------------------------------------------
 
 Count | Ontology accession | Description; Summary for medsa
   --------------------------------------------------
-   1 | TO:0006001 | salt tolerance
-   1 | TO:0002657 | oxidative stress response
-   1 | TO:0000605 | hydrogen peroxide content
-   1 | TO:0000481 | alkali sensitivity
-   1 | GO:0005992 | trehalose biosynthetic process
+      4 | TO:0000615 | abscisic acid sensitivity
+      4 | TO:0000276 | drought tolerance
+      1 | TO:0006001 | salt tolerance
+      1 | TO:0002657 | oxidative stress response
+      1 | TO:0000605 | hydrogen peroxide content
+      1 | TO:0000481 | alkali sensitivity
+      1 | GO:0005992 | trehalose biosynthetic process
   --------------------------------------------------
 

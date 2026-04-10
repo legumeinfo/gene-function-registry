@@ -110,3 +110,249 @@ PST - epublish
 SO  - BMC Genomics. 2022 May 17;23(1):374. doi: 10.1186/s12864-022-08620-7.
 
 
+##### PUB RECORD #####
+## 10.1038/s41598-025-12864-0  40770210  Ohm, Mahmood et al., 2025  Ohm H, Mahmood U, Östberg J, Alverup J, Grimberg Å, Hofvander P. Comprehensive identification of the PEBP gene family in Vicia faba highlighting VfTFL1a variation and phenotypic insights into determinate growth. Sci Rep. 2025 Aug 6;15(1):28687. doi: 10.1038/s41598-025-12864-0. PMID: 40770210; PMCID: PMC12328713. ##
+
+PMID- 40770210
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250806
+LR  - 20250809
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2025 Aug 6
+TI  - Comprehensive identification of the PEBP gene family in Vicia faba highlighting 
+      VfTFL1a variation and phenotypic insights into determinate growth.
+PG  - 28687
+LID - 10.1038/s41598-025-12864-0 [doi]
+LID - 28687
+AB  - The phosphatidylethanolamine binding protein (PEBP) family regulates key plant 
+      processes including growth, development, flowering, seed germination, formation, 
+      and dormancy. Despite their importance for these processes that determine 
+      agronomical important characters, PEBP genes in faba bean (Vicia faba L.) and 
+      closely related legumes remain underexplored. This study identified 11 VfPEBP 
+      genes for the first time in Vicia faba, classifying them into MFT-like, TFL-like, 
+      and FT-like subfamilies, and examining their relationships to PEBP-genes of the 
+      legumes Pisum sativum and Vicia sativa. TFL1 homologs, crucial for growth 
+      determinacy, are an important focus for breeding to achieve a more confined 
+      flowering and maturation time. Cis-element analysis suggested VfTFL1-genes are 
+      regulated by light, hormones, and abiotic stress. Amplicon sequencing of VfTFL1a, 
+      a gene linked to shoot apical meristem fate, identified novel allelic variation 
+      but none of these could discriminate determinate from indeterminate varieties, 
+      invalidating a previously reported marker. Field trials revealed that determinate 
+      varieties of faba bean flowered later but had more uniform agronomic traits 
+      compared to indeterminate ones. These findings provide new insights into the PEBP 
+      gene family, highlighting its critical role in regulating flowering time and 
+      plant architecture in Vicia faba and underscoring its potential as a target for 
+      crop improvement.
+CI  - (c) 2025. The Author(s).
+FAU - Ohm, Hannah
+AU  - Ohm H
+AUID- ORCID: 0009-0006-1124-6331
+AD  - Department of Plant Breeding, Swedish University of Agricultural Sciences (SLU), 
+      SE-234 22, Lomma, Uppsala, Sweden. hannah.ohm@slu.se.
+FAU - Mahmood, Umer
+AU  - Mahmood U
+AD  - Department of Plant Breeding, Swedish University of Agricultural Sciences (SLU), 
+      SE-234 22, Lomma, Uppsala, Sweden.
+FAU - Ostberg, Jenny
+AU  - Ostberg J
+AD  - Department of Plant Breeding, Swedish University of Agricultural Sciences (SLU), 
+      SE-234 22, Lomma, Uppsala, Sweden.
+FAU - Alverup, Josefin
+AU  - Alverup J
+AD  - Department of Plant Breeding, Swedish University of Agricultural Sciences (SLU), 
+      SE-234 22, Lomma, Uppsala, Sweden.
+FAU - Grimberg, Asa
+AU  - Grimberg A
+AD  - Department of Plant Breeding, Swedish University of Agricultural Sciences (SLU), 
+      SE-234 22, Lomma, Uppsala, Sweden.
+FAU - Hofvander, Per
+AU  - Hofvander P
+AD  - Department of Plant Breeding, Swedish University of Agricultural Sciences (SLU), 
+      SE-234 22, Lomma, Uppsala, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20250806
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Plant Proteins)
+RN  - 0 (Phosphatidylethanolamine Binding Protein)
+SB  - IM
+MH  - *Vicia faba/genetics/growth & development
+MH  - *Plant Proteins/genetics/metabolism
+MH  - Gene Expression Regulation, Plant
+MH  - Phenotype
+MH  - *Phosphatidylethanolamine Binding Protein/genetics/metabolism
+MH  - Phylogeny
+MH  - *Multigene Family
+MH  - Genetic Variation
+MH  - Flowers/genetics/growth & development
+PMC - PMC12328713
+OTO - NOTNLM
+OT  - PEBP
+OT  - Vicia faba
+OT  - Determinate growth
+OT  - TFL1
+OT  - Terminal inflorescence
+COIS- Declarations. Competing interests: The authors declare no competing interests.
+EDAT- 2025/08/07 00:27
+MHDA- 2025/08/07 00:28
+PMCR- 2025/08/06
+CRDT- 2025/08/06 23:35
+PHST- 2024/12/27 00:00 [received]
+PHST- 2025/07/21 00:00 [accepted]
+PHST- 2025/08/07 00:28 [medline]
+PHST- 2025/08/07 00:27 [pubmed]
+PHST- 2025/08/06 23:35 [entrez]
+PHST- 2025/08/06 00:00 [pmc-release]
+AID - 10.1038/s41598-025-12864-0 [pii]
+AID - 12864 [pii]
+AID - 10.1038/s41598-025-12864-0 [doi]
+PST - epublish
+SO  - Sci Rep. 2025 Aug 6;15(1):28687. doi: 10.1038/s41598-025-12864-0.
+
+
+##### PUB RECORD #####
+## 10.1038/s41598-024-73936-1  39488543  Xue, Liu et al., 2024  Xue R, Liu Y, Feng M, Huang Y, Zhao Y, Chen J, Li T, Zhong C, Ge W. Genome-wide characterization of PEBP genes in Mung bean (Vigna radiata L.) with functional analysis of VrFT1 in relation to photoperiod. Sci Rep. 2024 Nov 2;14(1):26413. doi: 10.1038/s41598-024-73936-1. PMID: 39488543; PMCID: PMC11531570. ##
+
+PMID- 39488543
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241103
+LR  - 20241105
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2024 Nov 2
+TI  - Genome-wide characterization of PEBP genes in Mung bean (Vigna radiata L.) with 
+      functional analysis of VrFT1 in relation to photoperiod.
+PG  - 26413
+LID - 10.1038/s41598-024-73936-1 [doi]
+LID - 26413
+AB  - Mung bean (Vigna radiata L.), a widely cultivated legume, belongs to the Fabaceae 
+      family's Papilionoideae subfamily. Although Phosphatidylethanolamine-binding 
+      protein (PEBP) genes have been identified in several plant species, their 
+      presence and function in mung bean remain largely unexplored. In this study, we 
+      identified seven VrPEBP genes from mung bean and classified them into four 
+      clades: FT, MFT, TFL and FT-like. Cis-regulatory element analysis revealed that 
+      VrPEBP genes may play a role in light, hormone, and stress responses. 
+      Quantitative real-time PCR (qRT-PCR) analysis indicated that VrPEBPs were 
+      constitutively expressed in various tissues. However, tissue-specific expression 
+      patterns were observed among VrPEBP genes. Under short-day (SD) conditions, VrFT1 
+      and VrMFT1 exhibited significantly higher expression levels than under long-day 
+      (LD) conditions at 8 and 4 h, respectively. Conversely, VrTFL2 and VrTFL3 showed 
+      significantly higher expression levels under LD conditions compared to SD 
+      conditions at 8 and 12 h, respectively. The varied expression patterns of these 
+      genes under different photoperiod suggest their potential involvement in the 
+      photoperiodic regulation of flowering in mung bean. Additionally, phenotypic 
+      analysis of transgenic Arabidopsis plants overexpressing VrFT1 revealed higher 
+      expression levels under SD conditions and predicted its role in promoting 
+      flowering. These results provide valuable insights into the evolution and 
+      function of PEBP genes in mung bean and lay the foundation for further research 
+      on their regulatory mechanisms and potential applications in mung bean 
+      improvement.
+CI  - (c) 2024. The Author(s).
+FAU - Xue, Renfeng
+AU  - Xue R
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China.
+FAU - Liu, Yu
+AU  - Liu Y
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, 110000, China.
+FAU - Feng, Ming
+AU  - Feng M
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China.
+FAU - Huang, Yuning
+AU  - Huang Y
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China.
+FAU - Zhao, Yang
+AU  - Zhao Y
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China.
+FAU - Chen, Jian
+AU  - Chen J
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China.
+FAU - Li, Tao
+AU  - Li T
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China.
+FAU - Zhong, Chao
+AU  - Zhong C
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, 110000, China. 
+      zhongchao1123@syau.edu.cn.
+FAU - Ge, Weide
+AU  - Ge W
+AD  - Crop Research Institute, Liaoning Academy of Agricultural Sciences, Shenyang, 
+      110161, Liaoning, China. snowweide@163.com.
+AD  - Liaoning Provincial Key Laboratory of Miscellaneous Grain Germplasm Innovation 
+      and Genetic Breeding, Liaoning Province, China. snowweide@163.com.
+LA  - eng
+GR  - RC220453/Shenyang Youth Science and Technology Innovation Talent Supporting Plan/
+GR  - 3203201/Youth Top Talent Project of Liaoning Revitalization Talent Plan/
+GR  - 2022DD030905/Disciplinary construction project of Liaoning Academy of 
+      Agricultural Sciences/
+GR  - 31972962/National Outstanding Youth Science Fund Project of National Natural 
+      Science Foundation of China/
+GR  - CARS-08-Z07/China Agriculture Research System of MOF and MARA-Food Legumes/
+PT  - Journal Article
+DEP - 20241102
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Plant Proteins)
+RN  - 0 (Phosphatidylethanolamine Binding Protein)
+SB  - IM
+MH  - *Vigna/genetics/metabolism
+MH  - *Photoperiod
+MH  - *Gene Expression Regulation, Plant
+MH  - *Plant Proteins/genetics/metabolism
+MH  - *Phosphatidylethanolamine Binding Protein/genetics/metabolism
+MH  - *Phylogeny
+MH  - Genome, Plant
+MH  - Arabidopsis/genetics
+PMC - PMC11531570
+OTO - NOTNLM
+OT  - PEBP genes
+OT  - photoperiodic
+OT  - Flowering induction
+OT  - Mung bean (Vigna radiata L.)
+COIS- The authors declare no competing interests.
+EDAT- 2024/11/03 06:22
+MHDA- 2024/11/03 06:23
+PMCR- 2024/11/02
+CRDT- 2024/11/03 00:17
+PHST- 2024/03/29 00:00 [received]
+PHST- 2024/09/23 00:00 [accepted]
+PHST- 2024/11/03 06:23 [medline]
+PHST- 2024/11/03 06:22 [pubmed]
+PHST- 2024/11/03 00:17 [entrez]
+PHST- 2024/11/02 00:00 [pmc-release]
+AID - 10.1038/s41598-024-73936-1 [pii]
+AID - 73936 [pii]
+AID - 10.1038/s41598-024-73936-1 [doi]
+PST - epublish
+SO  - Sci Rep. 2024 Nov 2;14(1):26413. doi: 10.1038/s41598-024-73936-1.
+
+

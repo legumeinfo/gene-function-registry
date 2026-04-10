@@ -1,4 +1,109 @@
 ##### PUB RECORD #####
+## 10.1111/nph.12091  23278348  Bourcy, Brocard et al., 2012  Bourcy M, Brocard L, Pislariu CI, Cosson V, Mergaert P, Tadege M, Mysore KS, Udvardi MK, Gourion B, Ratet P. Medicago truncatula DNF2 is a PI-PLC-XD-containing protein required for bacteroid persistence and prevention of nodule early senescence and defense-like reactions. New Phytol. 2013 Mar;197(4):1250-1261. doi: 10.1111/nph.12091. Epub 2012 Dec 27. PMID: 23278348. ##
+
+PMID- 23278348
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130719
+LR  - 20240109
+IS  - 1469-8137 (Electronic)
+IS  - 0028-646X (Linking)
+VI  - 197
+IP  - 4
+DP  - 2013 Mar
+TI  - Medicago truncatula DNF2 is a PI-PLC-XD-containing protein required for bacteroid 
+      persistence and prevention of nodule early senescence and defense-like reactions.
+PG  - 1250-1261
+LID - 10.1111/nph.12091 [doi]
+AB  - Medicago truncatula and Sinorhizobium meliloti form a symbiotic association 
+      resulting in the formation of nitrogen-fixing nodules. Nodule cells contain large 
+      numbers of bacteroids which are differentiated, nitrogen-fixing forms of the 
+      symbiotic bacteria. In the nodules, symbiotic plant cells home and maintain 
+      hundreds of viable bacteria. In order to better understand the molecular 
+      mechanism sustaining the phenomenon, we searched for new plant genes required for 
+      effective symbiosis. We used a combination of forward and reverse genetics 
+      approaches to identify a gene required for nitrogen fixation, and we used cell 
+      and molecular biology to characterize the mutant phenotype and to gain an insight 
+      into gene function. The symbiotic gene DNF2 encodes a putative 
+      phosphatidylinositol phospholipase C-like protein. Nodules formed by the mutant 
+      contain a zone of infected cells reduced to a few cell layers. In this zone, 
+      bacteria do not differentiate properly into bacteroids. Furthermore, mutant 
+      nodules senesce rapidly and exhibit defense-like reactions. This atypical 
+      phenotype amongst Fix(-) mutants unravels dnf2 as a new actor of bacteroid 
+      persistence inside symbiotic plant cells.
+CI  - (c) 2012 CNRS. New Phytologist (c) 2012 New Phytologist Trust.
+FAU - Bourcy, Marie
+AU  - Bourcy M
+AD  - Institut des Sciences du Vegetal, CNRS, Avenue de la terrasse, 91198, Gif Sur 
+      Yvette, France.
+FAU - Brocard, Lysiane
+AU  - Brocard L
+AD  - Institut des Sciences du Vegetal, CNRS, Avenue de la terrasse, 91198, Gif Sur 
+      Yvette, France.
+FAU - Pislariu, Catalina I
+AU  - Pislariu CI
+AD  - The Samuel Roberts Noble Foundation, 2510 Sam Noble Parkway, Ardmore, 73401, OK, 
+      USA.
+FAU - Cosson, Viviane
+AU  - Cosson V
+AD  - Institut des Sciences du Vegetal, CNRS, Avenue de la terrasse, 91198, Gif Sur 
+      Yvette, France.
+FAU - Mergaert, Peter
+AU  - Mergaert P
+AD  - Institut des Sciences du Vegetal, CNRS, Avenue de la terrasse, 91198, Gif Sur 
+      Yvette, France.
+FAU - Tadege, Millon
+AU  - Tadege M
+AD  - The Samuel Roberts Noble Foundation, 2510 Sam Noble Parkway, Ardmore, 73401, OK, 
+      USA.
+FAU - Mysore, Kirankumar S
+AU  - Mysore KS
+AD  - The Samuel Roberts Noble Foundation, 2510 Sam Noble Parkway, Ardmore, 73401, OK, 
+      USA.
+FAU - Udvardi, Michael K
+AU  - Udvardi MK
+AD  - The Samuel Roberts Noble Foundation, 2510 Sam Noble Parkway, Ardmore, 73401, OK, 
+      USA.
+FAU - Gourion, Benjamin
+AU  - Gourion B
+AD  - Institut des Sciences du Vegetal, CNRS, Avenue de la terrasse, 91198, Gif Sur 
+      Yvette, France.
+FAU - Ratet, Pascal
+AU  - Ratet P
+AD  - Institut des Sciences du Vegetal, CNRS, Avenue de la terrasse, 91198, Gif Sur 
+      Yvette, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20121227
+PL  - England
+TA  - New Phytol
+JT  - The New phytologist
+JID - 9882884
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Gene Knockout Techniques
+MH  - Medicago truncatula/genetics/metabolism/*microbiology
+MH  - Nitrogen Fixation/genetics
+MH  - Phenotype
+MH  - Plant Proteins/genetics/metabolism/*physiology
+MH  - Sinorhizobium/*physiology
+MH  - Symbiosis/*genetics
+EDAT- 2013/01/03 06:00
+MHDA- 2013/07/20 06:00
+CRDT- 2013/01/03 06:00
+PHST- 2012/09/03 00:00 [received]
+PHST- 2012/11/06 00:00 [accepted]
+PHST- 2013/01/03 06:00 [entrez]
+PHST- 2013/01/03 06:00 [pubmed]
+PHST- 2013/07/20 06:00 [medline]
+AID - 10.1111/nph.12091 [doi]
+PST - ppublish
+SO  - New Phytol. 2013 Mar;197(4):1250-1261. doi: 10.1111/nph.12091. Epub 2012 Dec 27.
+
+
+##### PUB RECORD #####
 ## 10.1105/tpc.019406  15037734  Campalans, Kondorosi et al., 2017  Campalans A, Kondorosi A, Crespi M. Enod40, a short open reading frame-containing mRNA, induces cytoplasmic localization of a nuclear RNA binding protein in Medicago truncatula. Plant Cell. 2004 Apr;16(4):1047-59. doi: 10.1105/tpc.019406. Epub 2004 Mar 22. Erratum in: Plant Cell. 2017 Apr;29(4):912. doi: 10.1105/tpc.17.00245. PMID: 15037734; PMCID: PMC412876. ##
 
 PMID- 15037734
@@ -215,6 +320,148 @@ PHST- 2016/02/13 06:00 [medline]
 AID - 10.1111/nph.13162 [doi]
 PST - ppublish
 SO  - New Phytol. 2015 Apr;206(1):303-314. doi: 10.1111/nph.13162. Epub 2014 Nov 18.
+
+
+##### PUB RECORD #####
+## 10.1093/jxb/eraa390  32841350  Castro-Rodríguez, Abreu et al., 2020  Castro-Rodríguez R, Abreu I, Reguera M, Novoa-Aponte L, Mijovilovich A, Escudero V, Jiménez-Pastor FJ, Abadía J, Wen J, Mysore KS, Álvarez-Fernández A, Küpper H, Imperial J, González-Guerrero M. The Medicago truncatula Yellow Stripe1-Like3 gene is involved in vascular delivery of transition metals to root nodules. J Exp Bot. 2020 Dec 31;71(22):7257-7269. doi: 10.1093/jxb/eraa390. PMID: 32841350. ##
+
+PMID- 32841350
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1460-2431 (Electronic)
+IS  - 0022-0957 (Linking)
+VI  - 71
+IP  - 22
+DP  - 2020 Dec 31
+TI  - The Medicago truncatula Yellow Stripe1-Like3 gene is involved in vascular 
+      delivery of transition metals to root nodules.
+PG  - 7257-7269
+LID - 10.1093/jxb/eraa390 [doi]
+AB  - Symbiotic nitrogen fixation carried out in legume root nodules requires 
+      transition metals. These nutrients are delivered by the host plant to the 
+      endosymbiotic nitrogen-fixing bacteria living within the nodule cells, a process 
+      in which vascular transport is essential. As members of the Yellow Stripe-Like 
+      (YSL) family of metal transporters are involved in root to shoot transport, they 
+      should also be required for root to nodule metal delivery. The genome of the 
+      model legume Medicago truncatula encodes eight YSL proteins, four of them with a 
+      high degree of similarity to Arabidopsis thaliana YSLs involved in long-distance 
+      metal trafficking. Among them, MtYSL3 is a plasma membrane protein expressed by 
+      vascular cells in roots and nodules and by cortical nodule cells. Reducing the 
+      expression level of this gene had no major effect on plant physiology when 
+      assimilable nitrogen was provided in the nutrient solution. However, nodule 
+      functioning was severely impaired, with a significant reduction of nitrogen 
+      fixation capabilities. Further, iron and zinc accumulation and distribution 
+      changed. Iron was retained in the apical region of the nodule, while zinc became 
+      strongly accumulated in the nodule veins in the ysl3 mutant. These data suggest a 
+      role for MtYSL3 in vascular delivery of iron and zinc to symbiotic nitrogen 
+      fixation.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the 
+      Society for Experimental Biology. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Castro-Rodriguez, Rosario
+AU  - Castro-Rodriguez R
+AD  - Centro de Biotecnologia y Genomica de Plantas (UPM-INIA), Universidad Politecnica 
+      de Madrid, Campus de Montegancedo, Crta. M-40 km 38, 28223 Pozuelo de Alarcon 
+      (Madrid), Spain.
+FAU - Abreu, Isidro
+AU  - Abreu I
+AD  - Centro de Biotecnologia y Genomica de Plantas (UPM-INIA), Universidad Politecnica 
+      de Madrid, Campus de Montegancedo, Crta. M-40 km 38, 28223 Pozuelo de Alarcon 
+      (Madrid), Spain.
+FAU - Reguera, Maria
+AU  - Reguera M
+AD  - Centro de Biotecnologia y Genomica de Plantas (UPM-INIA), Universidad Politecnica 
+      de Madrid, Campus de Montegancedo, Crta. M-40 km 38, 28223 Pozuelo de Alarcon 
+      (Madrid), Spain.
+FAU - Novoa-Aponte, Lorena
+AU  - Novoa-Aponte L
+AD  - Department of Chemistry and Biochemistry, Worcester Polytechnic Institute, 
+      Worcester, MA, USA.
+FAU - Mijovilovich, Ana
+AU  - Mijovilovich A
+AD  - Czech Academy of Sciences, Biology Centre, Institute of Plant Molecular Biology, 
+      Department of Plant Biophysics and Biochemistry, Ceske Budejovice, Czech 
+      Republic.
+FAU - Escudero, Viviana
+AU  - Escudero V
+AD  - Centro de Biotecnologia y Genomica de Plantas (UPM-INIA), Universidad Politecnica 
+      de Madrid, Campus de Montegancedo, Crta. M-40 km 38, 28223 Pozuelo de Alarcon 
+      (Madrid), Spain.
+FAU - Jimenez-Pastor, Francisco J
+AU  - Jimenez-Pastor FJ
+AD  - Estacion Experimental de Aula Dei, Consejo Superior de Investigaciones 
+      Cientificas (EEAD-CSIC), Avda. Montanana 1005, Zaragoza, Spain.
+FAU - Abadia, Javier
+AU  - Abadia J
+AD  - Estacion Experimental de Aula Dei, Consejo Superior de Investigaciones 
+      Cientificas (EEAD-CSIC), Avda. Montanana 1005, Zaragoza, Spain.
+FAU - Wen, Jiangqi
+AU  - Wen J
+AD  - Noble Research Institute, Ardmore, OK. USA.
+FAU - Mysore, Kirankumar S
+AU  - Mysore KS
+AD  - Noble Research Institute, Ardmore, OK. USA.
+FAU - Alvarez-Fernandez, Ana
+AU  - Alvarez-Fernandez A
+AD  - Estacion Experimental de Aula Dei, Consejo Superior de Investigaciones 
+      Cientificas (EEAD-CSIC), Avda. Montanana 1005, Zaragoza, Spain.
+FAU - Kupper, Hendrik
+AU  - Kupper H
+AD  - Czech Academy of Sciences, Biology Centre, Institute of Plant Molecular Biology, 
+      Department of Plant Biophysics and Biochemistry, Ceske Budejovice, Czech 
+      Republic.
+AD  - University of South Bohemia, Department of Experimental Plant Biology, 
+      Branisovska 31/1160, 370 05 Ceske Budejovice, Czech Republic.
+FAU - Imperial, Juan
+AU  - Imperial J
+AD  - Instituto de Ciencias Agrarias, Consejo Superior de Investigaciones Cientificas 
+      (ICA-CSIC), Serrano, 115 bis, 28006 Madrid, Spain.
+FAU - Gonzalez-Guerrero, Manuel
+AU  - Gonzalez-Guerrero M
+AD  - Centro de Biotecnologia y Genomica de Plantas (UPM-INIA), Universidad Politecnica 
+      de Madrid, Campus de Montegancedo, Crta. M-40 km 38, 28223 Pozuelo de Alarcon 
+      (Madrid), Spain.
+AD  - Escuela Tecnica Superior de Ingenieria Agronomica, Alimentaria y de Biosistemas, 
+      Universidad Politecnica de Madrid, 28040 Madrid, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - J Exp Bot
+JT  - Journal of experimental botany
+JID - 9882906
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Arabidopsis/metabolism
+MH  - Gene Expression Regulation, Plant
+MH  - *Medicago truncatula/genetics/metabolism
+MH  - Nitrogen Fixation
+MH  - Plant Proteins/genetics/metabolism
+MH  - Plant Roots/genetics/metabolism
+MH  - Root Nodules, Plant/genetics/metabolism
+MH  - Symbiosis
+OTO - NOTNLM
+OT  - Medicago
+OT  - Iron
+OT  - micro-X-ray fluorescence (microXRF)
+OT  - nitrogenase
+OT  - symbiotic nitrogen fixation
+OT  - transition metal transport
+EDAT- 2020/08/26 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2020/08/26 06:00
+PHST- 2020/08/18 00:00 [received]
+PHST- 2020/08/18 00:00 [accepted]
+PHST- 2020/08/26 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+PHST- 2020/08/26 06:00 [entrez]
+AID - 5897034 [pii]
+AID - 10.1093/jxb/eraa390 [doi]
+PST - ppublish
+SO  - J Exp Bot. 2020 Dec 31;71(22):7257-7269. doi: 10.1093/jxb/eraa390.
 
 
 ##### PUB RECORD #####
@@ -783,6 +1030,266 @@ SO  - Plant J. 2016 Oct;88(1):108-119. doi: 10.1111/tpj.13234. Epub 2016 Aug 21.
 
 
 ##### PUB RECORD #####
+## 10.3390/ijms20122941  31208116  Cui, Wang et al., 2019  Cui C, Wang H, Hong L, Xu Y, Zhao Y, Zhou C. <i>MtBZR1</i> Plays an Important Role in Nodule Development in <i>Medicago truncatula</i>. Int J Mol Sci. 2019 Jun 16;20(12):2941. doi: 10.3390/ijms20122941. PMID: 31208116; PMCID: PMC6627309. ##
+
+PMID- 31208116
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191129
+LR  - 20200225
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2019 Jun 16
+TI  - MtBZR1 Plays an Important Role in Nodule Development in Medicago truncatula.
+LID - 10.3390/ijms20122941 [doi]
+LID - 2941
+AB  - Brassinosteroid (BR) is an essential hormone in plant growth and development. The 
+      BR signaling pathway was extensively studied, in which BRASSINAZOLE RESISTANT 1 
+      (BZR1) functions as a key regulator. Here, we carried out a functional study of 
+      the homolog of BZR1 in Medicago truncatula R108, whose expression was induced in 
+      nodules upon Sinorhizobium meliloti 1021 inoculation. We identified a 
+      loss-of-function mutant mtbzr1-1 and generated 35S:MtBZR1 transgenic lines for 
+      further analysis at the genetic level. Both the mutant and the overexpression 
+      lines of MtBZR1 showed no obvious phenotypic changes under normal growth 
+      conditions. After S. meliloti 1021 inoculation, however, the shoot and root dry 
+      mass was reduced in mtbzr1-1 compared with the wild type, caused by partially 
+      impaired nodule development. The transcriptomic analysis identified 1319 
+      differentially expressed genes in mtbzr1-1 compared with wild type, many of which 
+      are involved in nodule development and secondary metabolite biosynthesis. Our 
+      results demonstrate the role of MtBZR1 in nodule development in M. truncatula, 
+      shedding light on the potential role of BR in legume-rhizobium symbiosis.
+FAU - Cui, Can
+AU  - Cui C
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China. zndfq_cuican@outlook.com.
+FAU - Wang, Hongfeng
+AU  - Wang H
+AUID- ORCID: 0000-0002-5935-2727
+AD  - School of Life Science, Guangzhou University, Guangzhou 510006, China. 
+      654187588@163.com.
+FAU - Hong, Limei
+AU  - Hong L
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China. honglimei227@163.com.
+FAU - Xu, Yiteng
+AU  - Xu Y
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China. xuyi.teng@163.com.
+FAU - Zhao, Yang
+AU  - Zhao Y
+AUID- ORCID: 0000-0002-2609-0206
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China. aimee.yangzhao@sdu.edu.cn.
+FAU - Zhou, Chuanen
+AU  - Zhou C
+AUID- ORCID: 0000-0001-5667-0255
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China. czhou@sdu.edu.cn.
+LA  - eng
+GR  - ZR2018ZC0334/Major Program of Shandong Province Natural Science Foundation/
+GR  - 2015CB943500/Ministry of Science and Technology of the People's Republic of 
+      China/
+GR  - 31671507/National Natural Science Foundation of China/
+GR  - 31371235/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20190616
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Nuclear Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Computational Biology/methods
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Plant
+MH  - Medicago truncatula/genetics/*physiology
+MH  - Mutation
+MH  - Nitrogen Fixation
+MH  - Nuclear Proteins/*genetics/metabolism
+MH  - Phylogeny
+MH  - Plant Development/*genetics
+MH  - Root Nodules, Plant/*physiology
+MH  - Transcription Factors/metabolism
+PMC - PMC6627309
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - MtBZR1
+OT  - brassinosteroid
+OT  - nodulation
+OT  - transcription factor
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/06/19 06:00
+MHDA- 2019/11/30 06:00
+PMCR- 2019/06/01
+CRDT- 2019/06/19 06:00
+PHST- 2019/05/06 00:00 [received]
+PHST- 2019/06/11 00:00 [revised]
+PHST- 2019/06/13 00:00 [accepted]
+PHST- 2019/06/19 06:00 [entrez]
+PHST- 2019/06/19 06:00 [pubmed]
+PHST- 2019/11/30 06:00 [medline]
+PHST- 2019/06/01 00:00 [pmc-release]
+AID - ijms20122941 [pii]
+AID - ijms-20-02941 [pii]
+AID - 10.3390/ijms20122941 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2019 Jun 16;20(12):2941. doi: 10.3390/ijms20122941.
+
+
+##### PUB RECORD #####
+## 10.1111/pbi.13469  32816361  Du, Lu et al., 2020  Du J, Lu S, Chai M, Zhou C, Sun L, Tang Y, Nakashima J, Kolape J, Wen Z, Behzadirad M, Zhong T, Sun J, Zhang Y, Wang ZY. Functional characterization of PETIOLULE-LIKE PULVINUS (PLP) gene in abscission zone development in Medicago truncatula and its application to genetic improvement of alfalfa. Plant Biotechnol J. 2021 Feb;19(2):351-364. doi: 10.1111/pbi.13469. Epub 2020 Sep 14. PMID: 32816361; PMCID: PMC7868985. ##
+
+PMID- 32816361
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210421
+LR  - 20240330
+IS  - 1467-7652 (Electronic)
+IS  - 1467-7644 (Print)
+IS  - 1467-7644 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2021 Feb
+TI  - Functional characterization of PETIOLULE-LIKE PULVINUS (PLP) gene in abscission 
+      zone development in Medicago truncatula and its application to genetic 
+      improvement of alfalfa.
+PG  - 351-364
+LID - 10.1111/pbi.13469 [doi]
+AB  - Alfalfa (Medicago sativa L.) is one of the most important forage crops throughout 
+      the world. Maximizing leaf retention during the haymaking process is critical for 
+      achieving superior hay quality and maintaining biomass yield. Leaf abscission 
+      process affects leaf retention. Previous studies have largely focused on the 
+      molecular mechanisms of floral organ, pedicel and seed abscission but scarcely 
+      touched on leaf and petiole abscission. This study focuses on leaf and petiole 
+      abscission in the model legume Medicago truncatula and its closely related 
+      commercial species alfalfa. By analysing the petiolule-like pulvinus (plp) mutant 
+      in M. truncatula at phenotypic level (breakstrength and shaking assays), 
+      microscopic level (scanning electron microscopy and cross-sectional analyses) and 
+      molecular level (expression level and expression pattern analyses), we discovered 
+      that the loss of function of PLP leads to an absence of abscission zone (AZ) 
+      formation and PLP plays an important role in leaflet and petiole AZ 
+      differentiation. Microarray analysis indicated that PLP affects abscission 
+      process through modulating genes involved in hormonal homeostasis, cell wall 
+      remodelling and degradation. Detailed analyses led us to propose a functional 
+      model of PLP in regulating leaflet and petiole abscission. Furthermore, we cloned 
+      the PLP gene (MsPLP) from alfalfa and produced RNAi transgenic alfalfa plants to 
+      down-regulate the endogenous MsPLP. Down-regulation of MsPLP results in altered 
+      pulvinus structure with increased leaflet breakstrength, thus offering a new 
+      approach to decrease leaf loss during alfalfa haymaking process.
+CI  - (c) 2020 The Authors. Plant Biotechnology Journal published by Society for 
+      Experimental Biology and The Association of Applied Biologists and John Wiley & 
+      Sons Ltd.
+FAU - Du, Juan
+AU  - Du J
+AD  - Noble Research Institute, Ardmore, OK, USA.
+AD  - Institute for Agricultural Biosciences, Oklahoma State University, Ardmore, OK, 
+      USA.
+AD  - College of Grassland Science and Technology, China Agricultural University, 
+      Beijing, China.
+FAU - Lu, Shaoyun
+AU  - Lu S
+AD  - College of Life Sciences, South China Agricultural University, Guangzhou, China.
+FAU - Chai, Maofeng
+AU  - Chai M
+AD  - Noble Research Institute, Ardmore, OK, USA.
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+FAU - Zhou, Chuanen
+AU  - Zhou C
+AD  - School of Life Science, Shandong University, Qingdao, China.
+FAU - Sun, Liang
+AU  - Sun L
+AD  - Noble Research Institute, Ardmore, OK, USA.
+FAU - Tang, Yuhong
+AU  - Tang Y
+AD  - Noble Research Institute, Ardmore, OK, USA.
+FAU - Nakashima, Jin
+AU  - Nakashima J
+AD  - Noble Research Institute, Ardmore, OK, USA.
+FAU - Kolape, Jaydeep
+AU  - Kolape J
+AUID- ORCID: 0000-0002-1787-3313
+AD  - Noble Research Institute, Ardmore, OK, USA.
+AD  - Morrison Microscopy Core Research Facility, Center for Biotechnology, University 
+      of Nebraska-Lincoln, NE, USA.
+FAU - Wen, Zhaozhu
+AU  - Wen Z
+AD  - Noble Research Institute, Ardmore, OK, USA.
+AD  - College of Agriculture, Hunan Agricultural University, Hunan, China.
+FAU - Behzadirad, Marjan
+AU  - Behzadirad M
+AD  - Institute for Agricultural Biosciences, Oklahoma State University, Ardmore, OK, 
+      USA.
+FAU - Zhong, Tianxiu
+AU  - Zhong T
+AD  - College of Forestry and Landscape Architecture, South China Agricultural 
+      University, Guangzhou, China.
+FAU - Sun, Juan
+AU  - Sun J
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+FAU - Zhang, Yunwei
+AU  - Zhang Y
+AD  - College of Grassland Science and Technology, China Agricultural University, 
+      Beijing, China.
+FAU - Wang, Zeng-Yu
+AU  - Wang ZY
+AUID- ORCID: 0000-0002-6835-7917
+AD  - Noble Research Institute, Ardmore, OK, USA.
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200914
+PL  - England
+TA  - Plant Biotechnol J
+JT  - Plant biotechnology journal
+JID - 101201889
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Cross-Sectional Studies
+MH  - Gene Expression Regulation, Plant/genetics
+MH  - Medicago sativa/genetics/metabolism
+MH  - *Medicago truncatula/genetics/metabolism
+MH  - Plant Proteins/genetics/metabolism
+MH  - *Pulvinus/metabolism
+PMC - PMC7868985
+OTO - NOTNLM
+OT  - Medicago sativa
+OT  - Medicago truncatula
+OT  - PETIOLULE-LIKE PULVINUS (PLP)
+OT  - abscission
+OT  - alfalfa
+OT  - forage improvement
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/08/21 06:00
+MHDA- 2021/04/22 06:00
+PMCR- 2020/09/14
+CRDT- 2020/08/21 06:00
+PHST- 2020/03/30 00:00 [received]
+PHST- 2020/07/29 00:00 [revised]
+PHST- 2020/08/07 00:00 [accepted]
+PHST- 2020/08/21 06:00 [pubmed]
+PHST- 2021/04/22 06:00 [medline]
+PHST- 2020/08/21 06:00 [entrez]
+PHST- 2020/09/14 00:00 [pmc-release]
+AID - PBI13469 [pii]
+AID - 10.1111/pbi.13469 [doi]
+PST - ppublish
+SO  - Plant Biotechnol J. 2021 Feb;19(2):351-364. doi: 10.1111/pbi.13469. Epub 2020 Sep 
+      14.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.108.125062  18790999  Floss, Schliemann et al., 2008  Floss DS, Schliemann W, Schmidt J, Strack D, Walter MH. RNA interference-mediated repression of MtCCD1 in mycorrhizal roots of Medicago truncatula causes accumulation of C27 apocarotenoids, shedding light on the functional role of CCD1. Plant Physiol. 2008 Nov;148(3):1267-82. doi: 10.1104/pp.108.125062. Epub 2008 Sep 12. PMID: 18790999; PMCID: PMC2577242. ##
 
 PMID- 18790999
@@ -990,13 +1497,147 @@ SO  - Plant J. 2006 Dec;48(6):843-56. doi: 10.1111/j.1365-313X.2006.02910.x. Epu
 
 
 ##### PUB RECORD #####
+## 10.1016/j.cub.2018.09.031  30416059  Gaudioso-Pedraza, Beck et al., 2018  Gaudioso-Pedraza R, Beck M, Frances L, Kirk P, Ripodas C, Niebel A, Oldroyd GED, Benitez-Alfonso Y, de Carvalho-Niebel F. Callose-Regulated Symplastic Communication Coordinates Symbiotic Root Nodule Development. Curr Biol. 2018 Nov 19;28(22):3562-3577.e6. doi: 10.1016/j.cub.2018.09.031. Epub 2018 Nov 8. PMID: 30416059. ##
+
+PMID- 30416059
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191023
+LR  - 20191023
+IS  - 1879-0445 (Electronic)
+IS  - 0960-9822 (Linking)
+VI  - 28
+IP  - 22
+DP  - 2018 Nov 19
+TI  - Callose-Regulated Symplastic Communication Coordinates Symbiotic Root Nodule 
+      Development.
+PG  - 3562-3577.e6
+LID - S0960-9822(18)31226-0 [pii]
+LID - 10.1016/j.cub.2018.09.031 [doi]
+AB  - The formation of nitrogen-fixing nodules in legumes involves the initiation of 
+      synchronized programs in the root epidermis and cortex to allow rhizobial 
+      infection and nodule development. In this study, we provide evidence that 
+      symplastic communication, regulated by callose turnover at plasmodesmata (PD), is 
+      important for coordinating nodule development and infection in Medicago 
+      truncatula. Here, we show that rhizobia promote a reduction in callose levels in 
+      inner tissues where nodules initiate. This downregulation coincides with the 
+      localized expression of M. truncatula beta-1,3-glucanase 2 (MtBG2), encoding a novel 
+      PD-associated callose-degrading enzyme. Spatiotemporal analyses revealed that 
+      MtBG2 expression expands from dividing nodule initials to rhizobia-colonized 
+      cortical and epidermal tissues. As shown by the transport of fluorescent 
+      molecules in vivo, symplastic-connected domains are created in rhizobia-colonized 
+      tissues and enhanced in roots constitutively expressing MtBG2. 
+      MtBG2-overexpressing roots additionally displayed reduced levels of PD-associated 
+      callose. Together, these findings suggest an active role for MtBG2 in callose 
+      degradation and in the formation of symplastic domains during sequential nodule 
+      developmental stages. Interfering with symplastic connectivity led to drastic 
+      nodulation phenotypes. Roots ectopically expressing beta-1,3-glucanases (including 
+      MtBG2) exhibited increased nodule number, and those expressing MtBG2 RNAi 
+      constructs or a hyperactive callose synthase (under symbiotic promoters) showed 
+      defective nodulation phenotypes. Obstructing symplastic connectivity appears to 
+      block a signaling pathway required for the expression of NODULE INCEPTION (NIN) 
+      and its target NUCLEAR FACTOR-YA1 (NF-YA1) in the cortex. We conclude that 
+      symplastic intercellular communication is proactively enhanced by rhizobia, and 
+      this is necessary for appropriate coordination of bacterial infection and nodule 
+      development.
+CI  - Copyright (c) 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Gaudioso-Pedraza, Rocio
+AU  - Gaudioso-Pedraza R
+AD  - Centre for Plant Sciences, School of Biology, University of Leeds, Leeds LS2 9JT, 
+      UK.
+FAU - Beck, Martina
+AU  - Beck M
+AD  - LIPM, Universite de Toulouse, INRA, CNRS, 31326 Castanet-Tolosan, France.
+FAU - Frances, Lisa
+AU  - Frances L
+AD  - LIPM, Universite de Toulouse, INRA, CNRS, 31326 Castanet-Tolosan, France.
+FAU - Kirk, Philip
+AU  - Kirk P
+AD  - Centre for Plant Sciences, School of Biology, University of Leeds, Leeds LS2 9JT, 
+      UK.
+FAU - Ripodas, Carolina
+AU  - Ripodas C
+AD  - LIPM, Universite de Toulouse, INRA, CNRS, 31326 Castanet-Tolosan, France.
+FAU - Niebel, Andreas
+AU  - Niebel A
+AD  - LIPM, Universite de Toulouse, INRA, CNRS, 31326 Castanet-Tolosan, France.
+FAU - Oldroyd, Giles E D
+AU  - Oldroyd GED
+AD  - Sainsbury Laboratory, Cambridge University, Bateman Street, Cambridge CB2 1LR, 
+      UK.
+FAU - Benitez-Alfonso, Yoselin
+AU  - Benitez-Alfonso Y
+AD  - Centre for Plant Sciences, School of Biology, University of Leeds, Leeds LS2 9JT, 
+      UK. Electronic address: y.benitez-alfonso@leeds.ac.uk.
+FAU - de Carvalho-Niebel, Fernanda
+AU  - de Carvalho-Niebel F
+AD  - LIPM, Universite de Toulouse, INRA, CNRS, 31326 Castanet-Tolosan, France. 
+      Electronic address: fernanda.de-carvalho-niebel@inra.fr.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181108
+PL  - England
+TA  - Curr Biol
+JT  - Current biology : CB
+JID - 9107782
+RN  - 0 (Glucans)
+RN  - 0 (Plant Proteins)
+RN  - 9064-51-1 (callose)
+RN  - EC 3.2.1.58 (Glucan 1,3-beta-Glucosidase)
+SB  - IM
+CIN - Nat Plants. 2018 Dec;4(12):982. doi: 10.1038/s41477-018-0333-4. PMID: 30518840
+CIN - Curr Biol. 2018 Dec 17;28(24):R1400-R1403. doi: 10.1016/j.cub.2018.11.013. PMID: 
+      30562535
+MH  - Gene Expression Regulation, Plant/genetics
+MH  - Glucan 1,3-beta-Glucosidase/metabolism/physiology
+MH  - Glucans/*metabolism/physiology
+MH  - Intercellular Junctions/metabolism
+MH  - Medicago truncatula/genetics/metabolism
+MH  - Nitrogen Fixation
+MH  - Organogenesis, Plant
+MH  - Plant Proteins/metabolism
+MH  - Plant Roots/growth & development
+MH  - Plasmodesmata/*metabolism
+MH  - Rhizobium
+MH  - Root Nodules, Plant/*growth & development/microbiology
+MH  - Signal Transduction
+MH  - Symbiosis/genetics
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - NODULE INCEPTION
+OT  - callose
+OT  - cell-to-cell communication
+OT  - legume root symbiosis
+OT  - nodule development
+OT  - rhizobial infection
+OT  - symbiotic gene expression
+OT  - symplastic connectivity
+OT  - beta-1,3-glucanase
+EDAT- 2018/11/13 06:00
+MHDA- 2019/10/24 06:00
+CRDT- 2018/11/13 06:00
+PHST- 2018/01/17 00:00 [received]
+PHST- 2018/07/27 00:00 [revised]
+PHST- 2018/09/13 00:00 [accepted]
+PHST- 2018/11/13 06:00 [pubmed]
+PHST- 2019/10/24 06:00 [medline]
+PHST- 2018/11/13 06:00 [entrez]
+AID - S0960-9822(18)31226-0 [pii]
+AID - 10.1016/j.cub.2018.09.031 [doi]
+PST - ppublish
+SO  - Curr Biol. 2018 Nov 19;28(22):3562-3577.e6. doi: 10.1016/j.cub.2018.09.031. Epub 
+      2018 Nov 8.
+
+
+##### PUB RECORD #####
 ## 10.1111/j.1469-8137.2011.03718.x  21679315  Godiard, Lepage et al., 2011  Godiard L, Lepage A, Moreau S, Laporte D, Verdenaud M, Timmers T, Gamas P. MtbHLH1, a bHLH transcription factor involved in Medicago truncatula nodule vascular patterning and nodule to plant metabolic exchanges. New Phytol. 2011 Jul;191(2):391-404. doi: 10.1111/j.1469-8137.2011.03718.x. Epub 2011 Jun 17. PMID: 21679315; PMCID: PMC3206218. ##
 
 PMID- 21679315
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20130328
-LR  - 20240320
+LR  - 20260128
 IS  - 1469-8137 (Electronic)
 IS  - 0028-646X (Print)
 IS  - 0028-646X (Linking)
@@ -1069,12 +1710,12 @@ PL  - England
 TA  - New Phytol
 JT  - The New phytologist
 JID - 9882884
-RN  - 0 (Basic Helix-Loop-Helix Transcription Factors)
+RN  - 0 (Basic Helix-Loop-Helix Proteins)
 RN  - 0 (Indoleacetic Acids)
 RN  - 0 (Plant Growth Regulators)
 RN  - 0 (Plant Proteins)
 SB  - IM
-MH  - Basic Helix-Loop-Helix Transcription Factors/genetics/*metabolism
+MH  - Basic Helix-Loop-Helix Proteins/genetics/*metabolism
 MH  - Body Patterning
 MH  - Gene Expression Profiling
 MH  - Gene Expression Regulation, Plant/drug effects
@@ -1105,7 +1746,7 @@ SO  - New Phytol. 2011 Jul;191(2):391-404. doi: 10.1111/j.1469-8137.2011.03718.x
 
 
 ##### PUB RECORD #####
-## 10.1371/journal.pone.0247170  33606812  Hasan, Singh et al. 2021  Hasan MS, Singh V, Islam S, Islam MS, Ahsan R, Kaundal A, Islam T, Ghosh A. Genome-wide identification and expression profiling of glutathione S-transferase family under multiple abiotic and biotic stresses in Medicago truncatula L. PLoS One. 2021 Feb 19;16(2):e0247170. doi: 10.1371/journal.pone.0247170. PMID: 33606812; PMCID: PMC7894904. ##
+## 10.1371/journal.pone.0247170  33606812  Hasan, Singh et al., 2021  Hasan MS, Singh V, Islam S, Islam MS, Ahsan R, Kaundal A, Islam T, Ghosh A. Genome-wide identification and expression profiling of glutathione S-transferase family under multiple abiotic and biotic stresses in Medicago truncatula L. PLoS One. 2021 Feb 19;16(2):e0247170. doi: 10.1371/journal.pone.0247170. PMID: 33606812; PMCID: PMC7894904. ##
 
 PMID- 33606812
 OWN - NLM
@@ -1557,7 +2198,7 @@ PMID- 16199614
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20060526
-LR  - 20241123
+LR  - 20260128
 IS  - 1040-4651 (Print)
 IS  - 1532-298X (Electronic)
 IS  - 1040-4651 (Linking)
@@ -1613,11 +2254,12 @@ PL  - England
 TA  - Plant Cell
 JT  - The Plant cell
 JID - 9208688
-RN  - 0 (ATCDPK1 protein, Arabidopsis)
 RN  - 0 (Arabidopsis Proteins)
+RN  - SY7Q814VUP (Calcium)
 RN  - 0 (Calcium-Binding Proteins)
 RN  - EC 2.7.- (Protein Kinases)
-RN  - SY7Q814VUP (Calcium)
+RN  - 0 (ATCDPK1 protein, Arabidopsis)
+RN  - EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinases)
 SB  - IM
 MH  - Arabidopsis Proteins/genetics/metabolism
 MH  - Calcium/metabolism
@@ -1635,6 +2277,7 @@ MH  - Protein Kinases/genetics/isolation & purification/*metabolism
 MH  - RNA Interference/physiology
 MH  - Signal Transduction/genetics
 MH  - Symbiosis/genetics
+MH  - Calcium-Calmodulin-Dependent Protein Kinases
 PMC - PMC1276019
 EDAT- 2005/10/04 09:00
 MHDA- 2006/05/27 09:00
@@ -2586,6 +3229,335 @@ SO  - Plant Physiol. 2011 Aug;156(4):2207-24. doi: 10.1104/pp.111.180182. Epub 2
 
 
 ##### PUB RECORD #####
+## 10.1016/j.bbrc.2019.12.017  31831172  Li, Li et al., 2019  Li Q, Li M, Zhang D, Yu L, Yan J, Luo L. The peptide-encoding MtRGF3 gene negatively regulates nodulation of Medicago truncatula. Biochem Biophys Res Commun. 2020 Feb 26;523(1):66-71. doi: 10.1016/j.bbrc.2019.12.017. Epub 2019 Dec 9. PMID: 31831172. ##
+
+PMID- 31831172
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200910
+LR  - 20200910
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+VI  - 523
+IP  - 1
+DP  - 2020 Feb 26
+TI  - The peptide-encoding MtRGF3 gene negatively regulates nodulation of Medicago 
+      truncatula.
+PG  - 66-71
+LID - S0006-291X(19)32337-X [pii]
+LID - 10.1016/j.bbrc.2019.12.017 [doi]
+AB  - Leguminous root nodules specifically induced by rhizobium species fix nitrogen 
+      gas to gain nitrogen sources, which is important in sustainable agriculture and 
+      ecological balance. Several peptide signals are reported to be involved in 
+      regulation of legume nodule number and development. There are fifteen genes 
+      coding Root Meristem Growth Factor (RGF) peptide in Medicago truncatula, herein 
+      we find the expression of MtRGF3 is significantly induced by Sinorhizobium 
+      meliloti with production of Nod factors. The gene promoter is active in nodule 
+      primordia, young nodules and the meristem region of mature nodules. Knock-down 
+      (RNAi) roots of the gene (MtRGF3-RNAi) formed more root nodules than the empty 
+      vector control, and the nodule number decreased in MtRGF3-overexpressing 
+      (MtRGF3-OX) roots. Exogenous addition of the synthesized peptide significantly 
+      promoted primary root growth and inhibited lateral root emergence, in addition, 
+      the peptide application reduced the number of infection threads, nodule primordia 
+      and root nodules of M. truncatula. We also found that tyrosine sulfation 
+      determines the biological activity of MtRGF3 functioning in nodulation process, 
+      and MtRGF3 peptide negatively regulates nodulation in a dosage manner. These 
+      results demonstrate that the MtRGF3 peptide is a novel regulator during 
+      nodulation of Medicago trucatula.
+CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
+FAU - Li, Qiong
+AU  - Li Q
+AD  - Shanghai Key Laboratory of Bio-energy Crops, Center of Plant Science, School of 
+      Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: 
+      liqiongsh@126.com.
+FAU - Li, Mei
+AU  - Li M
+AD  - Shanghai Key Laboratory of Bio-energy Crops, Center of Plant Science, School of 
+      Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: 
+      18817265209@163.com.
+FAU - Zhang, Danping
+AU  - Zhang D
+AD  - Shanghai Key Laboratory of Bio-energy Crops, Center of Plant Science, School of 
+      Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: 
+      2224906204@qq.com.
+FAU - Yu, Liangliang
+AU  - Yu L
+AD  - Shanghai Key Laboratory of Bio-energy Crops, Center of Plant Science, School of 
+      Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: 
+      yuliangliang@shu.edu.cn.
+FAU - Yan, Junhui
+AU  - Yan J
+AD  - Shanghai Key Laboratory of Bio-energy Crops, Center of Plant Science, School of 
+      Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: 
+      junhuiyan@shu.edu.cn.
+FAU - Luo, Li
+AU  - Luo L
+AD  - Shanghai Key Laboratory of Bio-energy Crops, Center of Plant Science, School of 
+      Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: 
+      liluo@shu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191209
+PL  - United States
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+RN  - 0 (Peptides)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Medicago truncatula/genetics/*metabolism
+MH  - Peptides/genetics/*metabolism
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Plant Root Nodulation/genetics
+MH  - Plant Roots/metabolism
+MH  - Sinorhizobium meliloti/metabolism
+MH  - Transcription Factors/genetics/*metabolism
+OTO - NOTNLM
+OT  - Lateral root emergence
+OT  - Medicago truncatula
+OT  - MtRGF3
+OT  - Nodule development
+OT  - Root growth
+COIS- Declaration of competing interest The authors declare that they have no conflict 
+      of interest.
+EDAT- 2019/12/14 06:00
+MHDA- 2020/09/12 06:00
+CRDT- 2019/12/14 06:00
+PHST- 2019/12/03 00:00 [received]
+PHST- 2019/12/04 00:00 [accepted]
+PHST- 2019/12/14 06:00 [pubmed]
+PHST- 2020/09/12 06:00 [medline]
+PHST- 2019/12/14 06:00 [entrez]
+AID - S0006-291X(19)32337-X [pii]
+AID - 10.1016/j.bbrc.2019.12.017 [doi]
+PST - ppublish
+SO  - Biochem Biophys Res Commun. 2020 Feb 26;523(1):66-71. doi: 
+      10.1016/j.bbrc.2019.12.017. Epub 2019 Dec 9.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2021.709625  34421956  Li, Ma et al., 2021  Li W, Ma Q, Yin P, Wen J, Pei Y, Niu L, Lin H. The GA 20-Oxidase Encoding Gene <i>MSD1</i> Controls the Main Stem Elongation in <i>Medicago truncatula</i>. Front Plant Sci. 2021 Aug 4;12:709625. doi: 10.3389/fpls.2021.709625. PMID: 34421956; PMCID: PMC8371406. ##
+
+PMID- 34421956
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210824
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 12
+DP  - 2021
+TI  - The GA 20-Oxidase Encoding Gene MSD1 Controls the Main Stem Elongation in 
+      Medicago truncatula.
+PG  - 709625
+LID - 10.3389/fpls.2021.709625 [doi]
+LID - 709625
+AB  - Plant height is an important agronomic trait that is closely related to biomass 
+      yield and crop production. Despite legumes comprise one of the largest 
+      monophyletic families that are second only to grasses in terms of economic and 
+      nutritional values, due to an ancient genome duplication event, most legume 
+      plants have complex genomes, thus the molecular mechanisms that determine plant 
+      height are less known in legumes. Here, we report the identification and 
+      characterization of MAIN STEM DWARF1 (MSD1), which is required for the plant 
+      height in the model legume Medicago truncatula. Loss of function of MSD1 leads to 
+      severely reduced main stem height but normal lateral branch elongation in M. 
+      truncatula. Histological analysis revealed that the msd1-1 main stem has shorter 
+      internodes with reduced cell size and number compared with the wild type, 
+      indicating that MSD1 affects cell elongation and cell proliferation. MSD1 encodes 
+      a putative GA 20-oxidase that is expressed at significantly higher levels in the 
+      main shoot apex than in the lateral shoot apices, suggesting that MSD1 expression 
+      is associated with its effect on the main stem elongation. UPLC-MS/MS analysis 
+      showed that GA(9) and GA(4), two identified products of the GA 20-oxidase, were 
+      severely reduced in msd1-1, and the dwarf phenotype of msd1-1 could be rescued by 
+      supplementation with gibberellic acid GA(3), confirming that MSD1 functions as a 
+      biologically active GA 20-oxidase. Moreover, we found that disruption of either 
+      MtGA20ox7 or MtGA20ox8, homologs of MSD1, has little effects on the elongation of 
+      the main stem, while the msd1-1 mtga20ox7-1 mtga20ox8 triple mutants exhibits a 
+      severe short main shoot and lateral branches, as well as reduced leaf size, 
+      suggesting that MSD1 and its homologs MtGA20ox7 and MtGA20ox8, redundantly 
+      regulate M. truncatula shoot elongation and leaf development. Taken together, our 
+      findings demonstrate the molecular mechanism of MSD1-mediated regulation of main 
+      stem elongation in M. truncatula and provide insights into understanding the 
+      functional diversity of GA 20-oxidases in optimizing plant architecture in 
+      legumes.
+CI  - Copyright (c) 2021 Li, Ma, Yin, Wen, Pei, Niu and Lin.
+FAU - Li, Wanying
+AU  - Li W
+AD  - Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, China.
+FAU - Ma, Qingxia
+AU  - Ma Q
+AD  - Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, China.
+AD  - College of Life Science, Shanxi University, Taiyuan, China.
+FAU - Yin, Pengcheng
+AU  - Yin P
+AD  - Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, China.
+FAU - Wen, Jiangqi
+AU  - Wen J
+AD  - Institute for Agricultural Biosciences, Oklahoma State University, Ardmore, OK, 
+      United States.
+AD  - Department of Plant and Soil Sciences, Oklahoma State University, Stillwater, OK, 
+      United States.
+FAU - Pei, Yanxi
+AU  - Pei Y
+AD  - College of Life Science, Shanxi University, Taiyuan, China.
+FAU - Niu, Lifang
+AU  - Niu L
+AD  - Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, China.
+FAU - Lin, Hao
+AU  - Lin H
+AD  - Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, 
+      Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20210804
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC8371406
+OTO - NOTNLM
+OT  - GA 20-oxidase
+OT  - MSD1
+OT  - Medicago truncatula
+OT  - functional diversification
+OT  - main stem elongation
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/08/24 06:00
+MHDA- 2021/08/24 06:01
+PMCR- 2021/01/01
+CRDT- 2021/08/23 06:27
+PHST- 2021/05/14 00:00 [received]
+PHST- 2021/06/25 00:00 [accepted]
+PHST- 2021/08/23 06:27 [entrez]
+PHST- 2021/08/24 06:00 [pubmed]
+PHST- 2021/08/24 06:01 [medline]
+PHST- 2021/01/01 00:00 [pmc-release]
+AID - 10.3389/fpls.2021.709625 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2021 Aug 4;12:709625. doi: 10.3389/fpls.2021.709625. eCollection 
+      2021.
+
+
+##### PUB RECORD #####
+## 10.1093/plphys/kiab140  33744928  Li, Schilderink et al., 2021  Li H, Schilderink S, Cao Q, Kulikova O, Bisseling T. Plant-specific histone deacetylases are essential for early and late stages of Medicago nodule development. Plant Physiol. 2021 Jul 6;186(3):1591-1605. doi: 10.1093/plphys/kiab140. PMID: 33744928; PMCID: PMC8260124. ##
+
+PMID- 33744928
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220223
+LR  - 20220223
+IS  - 1532-2548 (Electronic)
+IS  - 0032-0889 (Print)
+IS  - 0032-0889 (Linking)
+VI  - 186
+IP  - 3
+DP  - 2021 Jul 6
+TI  - Plant-specific histone deacetylases are essential for early and late stages of 
+      Medicago nodule development.
+PG  - 1591-1605
+LID - 10.1093/plphys/kiab140 [doi]
+AB  - Legume and rhizobium species can establish a nitrogen-fixing nodule symbiosis. 
+      Previous studies have shown that several transcription factors that play a role 
+      in (lateral) root development are also involved in nodule development. Chromatin 
+      remodeling factors, like transcription factors, are key players in regulating 
+      gene expression. However, studies have not investigated whether chromatin 
+      remodeling genes that are essential for root development are also involved in 
+      nodule development. Here, we studied the role of Medicago (Medicago truncatula) 
+      histone deacetylases (MtHDTs) in nodule development. Arabidopsis (Arabidopsis 
+      thaliana) orthologs of HDTs have been shown to play a role in root development. 
+      MtHDT expression is induced in nodule primordia and is maintained in the nodule 
+      meristem and infection zone. Conditional, nodule-specific knockdown of MtHDT 
+      expression by RNAi blocks nodule primordium development. A few nodules may still 
+      form, but their nodule meristems are smaller, and rhizobial colonization of the 
+      cells derived from the meristem is markedly reduced. Although the HDTs are 
+      expressed during nodule and root development, transcriptome analyses indicate 
+      that HDTs control the development of each organ in a different manner. During 
+      nodule development, the MtHDTs positively regulate 3-hydroxy-3-methylglutaryl 
+      coenzyme a reductase 1 (MtHMGR1). Decreased expression of MtHMGR1 is sufficient 
+      to explain the inhibition of primordium formation.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of American 
+      Society of Plant Biologists.
+FAU - Li, Huchen
+AU  - Li H
+AUID- ORCID: 0000-0002-5388-4124
+AD  - Beijing Advanced Innovation Center for Tree Breeding by Molecular Design, Beijing 
+      University of Agriculture, Beijing 102206, China.
+AD  - Department of Plant Sciences, Laboratory of Molecular Biology, Wageningen 
+      University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands.
+AD  - College of Plant Science and Technology, Beijing Key Laboratory for Agricultural 
+      Application and New Technique, Beijing University of Agriculture, Beijing 102206, 
+      China.
+FAU - Schilderink, Stefan
+AU  - Schilderink S
+AD  - Department of Plant Sciences, Laboratory of Molecular Biology, Wageningen 
+      University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands.
+FAU - Cao, Qingqin
+AU  - Cao Q
+AD  - Beijing Advanced Innovation Center for Tree Breeding by Molecular Design, Beijing 
+      University of Agriculture, Beijing 102206, China.
+AD  - College of Plant Science and Technology, Beijing Key Laboratory for Agricultural 
+      Application and New Technique, Beijing University of Agriculture, Beijing 102206, 
+      China.
+FAU - Kulikova, Olga
+AU  - Kulikova O
+AUID- ORCID: 0000-0002-4887-1185
+AD  - Department of Plant Sciences, Laboratory of Molecular Biology, Wageningen 
+      University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands.
+FAU - Bisseling, Ton
+AU  - Bisseling T
+AUID- ORCID: 0000-0001-5494-8786
+AD  - Beijing Advanced Innovation Center for Tree Breeding by Molecular Design, Beijing 
+      University of Agriculture, Beijing 102206, China.
+AD  - Department of Plant Sciences, Laboratory of Molecular Biology, Wageningen 
+      University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Plant Physiol
+JT  - Plant physiology
+JID - 0401224
+RN  - EC 3.5.1.98 (Histone Deacetylases)
+SB  - IM
+MH  - Arabidopsis/*genetics/*growth & development/metabolism
+MH  - Gene Expression Regulation, Plant
+MH  - Genes, Plant
+MH  - Genetic Variation
+MH  - Genotype
+MH  - Histone Deacetylases/genetics/*metabolism
+MH  - Medicago truncatula/*genetics/*growth & development/metabolism
+MH  - Morphogenesis/genetics/physiology
+MH  - Plant Development/genetics
+MH  - Root Nodules, Plant/*genetics/*growth & development/metabolism
+MH  - Symbiosis/genetics/physiology
+PMC - PMC8260124
+EDAT- 2021/03/22 06:00
+MHDA- 2022/02/24 06:00
+PMCR- 2021/03/21
+CRDT- 2021/03/21 21:18
+PHST- 2020/11/09 00:00 [received]
+PHST- 2021/03/18 00:00 [accepted]
+PHST- 2021/03/22 06:00 [pubmed]
+PHST- 2022/02/24 06:00 [medline]
+PHST- 2021/03/21 21:18 [entrez]
+PHST- 2021/03/21 00:00 [pmc-release]
+AID - 6179331 [pii]
+AID - kiab140 [pii]
+AID - 10.1093/plphys/kiab140 [doi]
+PST - ppublish
+SO  - Plant Physiol. 2021 Jul 6;186(3):1591-1605. doi: 10.1093/plphys/kiab140.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.18.01572  30710053  Liu, Breakspear et al., 2019  Liu CW, Breakspear A, Guan D, Cerri MR, Jackson K, Jiang S, Robson F, Radhakrishnan GV, Roy S, Bone C, Stacey N, Rogers C, Trick M, Niebel A, Oldroyd GED, de Carvalho-Niebel F, Murray JD. NIN Acts as a Network Hub Controlling a Growth Module Required for Rhizobial Infection. Plant Physiol. 2019 Apr;179(4):1704-1722. doi: 10.1104/pp.18.01572. Epub 2019 Feb 1. PMID: 30710053; PMCID: PMC6446755. ##
 
 PMID- 30710053
@@ -2766,7 +3738,7 @@ PMID- 35972963
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220818
-LR  - 20230217
+LR  - 20251031
 IS  - 1091-6490 (Electronic)
 IS  - 0027-8424 (Print)
 IS  - 0027-8424 (Linking)
@@ -3936,6 +4908,116 @@ SO  - Plant Cell. 2011 Nov;23(11):3929-43. doi: 10.1105/tpc.111.089128. Epub 201
 
 
 ##### PUB RECORD #####
+## 10.1104/pp.18.01613  31061106  Pislariu, Sinharoy et al., 2019  Pislariu CI, Sinharoy S, Torres-Jerez I, Nakashima J, Blancaflor EB, Udvardi MK. The Nodule-Specific PLAT Domain Protein NPD1 Is Required for Nitrogen-Fixing Symbiosis. Plant Physiol. 2019 Jul;180(3):1480-1497. doi: 10.1104/pp.18.01613. Epub 2019 May 6. PMID: 31061106; PMCID: PMC6752919. ##
+
+PMID- 31061106
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200831
+LR  - 20240229
+IS  - 1532-2548 (Electronic)
+IS  - 0032-0889 (Print)
+IS  - 0032-0889 (Linking)
+VI  - 180
+IP  - 3
+DP  - 2019 Jul
+TI  - The Nodule-Specific PLAT Domain Protein NPD1 Is Required for Nitrogen-Fixing 
+      Symbiosis.
+PG  - 1480-1497
+LID - 10.1104/pp.18.01613 [doi]
+AB  - Symbiotic nitrogen fixation by rhizobia in legume root nodules is a key source of 
+      nitrogen for sustainable agriculture. Genetic approaches have revealed important 
+      roles for only a few of the thousands of plant genes expressed during nodule 
+      development and symbiotic nitrogen fixation. Previously, we isolated >100 
+      nodulation and nitrogen fixation mutants from a population of Tnt1-insertion 
+      mutants of Medigaco truncatula Using Tnt1 as a tag to identify genetic lesions in 
+      these mutants, we discovered that insertions in a M. truncatula nodule-specific 
+      polycystin-1, lipoxygenase, alpha-toxin (PLAT) domain-encoding gene, MtNPD1, resulted 
+      in development of ineffective nodules. Early stages of nodule development and 
+      colonization by the nitrogen-fixing bacterium Sinorhizobium meliloti appeared to 
+      be normal in the npd1 mutant. However, npd1 nodules ceased to grow after a few 
+      days, resulting in abnormally small, ineffective nodules. Rhizobia that colonized 
+      developing npd1 nodules did not differentiate completely into nitrogen-fixing 
+      bacteroids and quickly degraded. MtNPD1 expression was low in roots but increased 
+      significantly in developing nodules 4 d postinoculation, and expression 
+      accompanied invading rhizobia in the nodule infection zone and into the distal 
+      nitrogen fixation zone. A functional MtNPD1:GFP fusion protein localized in the 
+      space surrounding symbiosomes in infected cells. When ectopically expressed in 
+      tobacco (Nicotiana tabacum) leaves, MtNPD1 colocalized with vacuoles and the 
+      endoplasmic reticulum. MtNPD1 belongs to a cluster of five nodule-specific single 
+      PLAT domain-encoding genes, with apparent nonredundant functions.
+CI  - (c) 2019 American Society of Plant Biologists. All Rights Reserved.
+FAU - Pislariu, Catalina I
+AU  - Pislariu CI
+AUID- ORCID: 0000-0002-9647-5400
+AD  - Plant Biology Division, Noble Research Institute, Ardmore, Oklahoma 73401.
+AD  - Department of Biology, Texas Woman's University, Denton, Texas 76204.
+FAU - Sinharoy, Senjuti
+AU  - Sinharoy S
+AUID- ORCID: 0000-0003-2323-2587
+AD  - Plant Biology Division, Noble Research Institute, Ardmore, Oklahoma 73401.
+FAU - Torres-Jerez, Ivone
+AU  - Torres-Jerez I
+AD  - Plant Biology Division, Noble Research Institute, Ardmore, Oklahoma 73401.
+FAU - Nakashima, Jin
+AU  - Nakashima J
+AD  - Plant Biology Division, Noble Research Institute, Ardmore, Oklahoma 73401.
+FAU - Blancaflor, Elison B
+AU  - Blancaflor EB
+AUID- ORCID: 0000-0001-6115-9670
+AD  - Plant Biology Division, Noble Research Institute, Ardmore, Oklahoma 73401.
+FAU - Udvardi, Michael K
+AU  - Udvardi MK
+AUID- ORCID: 0000-0001-9850-0828
+AD  - Plant Biology Division, Noble Research Institute, Ardmore, Oklahoma 73401 
+      mudvardi@noble.org.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20190506
+PL  - United States
+TA  - Plant Physiol
+JT  - Plant physiology
+JID - 0401224
+RN  - 0 (Plant Proteins)
+RN  - N762921K75 (Nitrogen)
+SB  - IM
+MH  - *Gene Expression Regulation, Plant
+MH  - Medicago truncatula/genetics/metabolism/microbiology
+MH  - Mutation
+MH  - Nitrogen/metabolism
+MH  - Nitrogen Fixation/*genetics
+MH  - Plant Proteins/chemistry/*genetics/metabolism
+MH  - Plant Root Nodulation/genetics
+MH  - Plant Roots/genetics/metabolism/microbiology
+MH  - Plants, Genetically Modified
+MH  - Protein Domains
+MH  - Rhizobium/physiology
+MH  - Root Nodules, Plant/*genetics/metabolism
+MH  - Sinorhizobium meliloti/physiology
+MH  - Symbiosis/*genetics
+MH  - Nicotiana/genetics/metabolism/microbiology
+PMC - PMC6752919
+EDAT- 2019/05/08 06:00
+MHDA- 2020/09/01 06:00
+PMCR- 2019/05/06
+CRDT- 2019/05/08 06:00
+PHST- 2019/01/07 00:00 [received]
+PHST- 2019/04/22 00:00 [accepted]
+PHST- 2019/05/08 06:00 [pubmed]
+PHST- 2020/09/01 06:00 [medline]
+PHST- 2019/05/08 06:00 [entrez]
+PHST- 2019/05/06 00:00 [pmc-release]
+AID - pp.18.01613 [pii]
+AID - 201801613DR1 [pii]
+AID - 10.1104/pp.18.01613 [doi]
+PST - ppublish
+SO  - Plant Physiol. 2019 Jul;180(3):1480-1497. doi: 10.1104/pp.18.01613. Epub 2019 May 
+      6.
+
+
+##### PUB RECORD #####
 ## 10.1111/j.1365-313x.2009.04072.x  19912567  Pumplin, Mondo et al., 2009  Pumplin N, Mondo SJ, Topp S, Starker CG, Gantt JS, Harrison MJ. Medicago truncatula Vapyrin is a novel protein required for arbuscular mycorrhizal symbiosis. Plant J. 2010 Feb 1;61(3):482-94. doi: 10.1111/j.1365-313X.2009.04072.x. Epub 2009 Nov 14. PMID: 19912567. ##
 
 PMID- 19912567
@@ -4503,6 +5585,94 @@ SO  - Mol Plant Microbe Interact. 2000 Jul;13(7):763-77. doi:
 
 
 ##### PUB RECORD #####
+## 10.3390/ijms17081197  27463709  Sańko-Sawczenko, Łotocka et al., 2016  Sańko-Sawczenko I, Łotocka B, Czarnocka W. Expression Analysis of PIN Genes in Root Tips and Nodules of Medicago truncatula. Int J Mol Sci. 2016 Jul 25;17(8):1197. doi: 10.3390/ijms17081197. PMID: 27463709; PMCID: PMC5000595. ##
+
+PMID- 27463709
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170321
+LR  - 20240325
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 17
+IP  - 8
+DP  - 2016 Jul 25
+TI  - Expression Analysis of PIN Genes in Root Tips and Nodules of Medicago truncatula.
+LID - 10.3390/ijms17081197 [doi]
+LID - 1197
+AB  - Polar auxin transport is dependent on the family of PIN-formed proteins (PINs), 
+      which are membrane transporters of anionic indole-3-acetic acid (IAA(-)). It is 
+      assumed that polar auxin transport may be essential in the development and 
+      meristematic activity maintenance of Medicago truncatula (M. truncatula) root 
+      nodules. However, little is known about the involvement of specific PIN proteins 
+      in M. truncatula nodulation. Using real-time quantitative PCR, we analyzed the 
+      expression patterns of all previously identified MtPIN genes and compared them 
+      between root nodules and root tips of M. truncatula. Our results demonstrated 
+      significant differences in the expression level of all 11 genes (MtPIN1-MtPIN11) 
+      between examined organs. Interestingly, MtPIN9 was the only PIN gene with higher 
+      expression level in root nodules compared to root tips. This result is the first 
+      indication of PIN9 transporter potential involvement in M. truncatula nodulation. 
+      Moreover, relatively high expression level in root nodules was attributed to 
+      MtPINs encoding orthologs of Arabidopsis thaliana PIN5 subclade. PIN proteins 
+      from this subclade have been found to localize in the endoplasmic reticulum, 
+      which may indicate that the development and meristematic activity maintenance of 
+      M. truncatula root nodules is associated with intracellular homeostasis of auxins 
+      level and their metabolism in the endoplasmic reticulum.
+FAU - Sanko-Sawczenko, Izabela
+AU  - Sanko-Sawczenko I
+AD  - Department of Botany, Faculty of Agriculture and Biology, Warsaw University of 
+      Life Sciences-SGGW, Nowoursynowska 159, 02-776 Warsaw, Poland. 
+      izabela_sanko_sawczenko@sggw.pl.
+FAU - Lotocka, Barbara
+AU  - Lotocka B
+AD  - Department of Botany, Faculty of Agriculture and Biology, Warsaw University of 
+      Life Sciences-SGGW, Nowoursynowska 159, 02-776 Warsaw, Poland. 
+      barbara_lotocka@sggw.pl.
+FAU - Czarnocka, Weronika
+AU  - Czarnocka W
+AD  - Department of Botany, Faculty of Agriculture and Biology, Warsaw University of 
+      Life Sciences-SGGW, Nowoursynowska 159, 02-776 Warsaw, Poland. 
+      weronika_czarnocka@sggw.pl.
+LA  - eng
+PT  - Journal Article
+DEP - 20160725
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Gene Expression Regulation, Plant
+MH  - Medicago truncatula/*genetics/growth & development
+MH  - Meristem/*genetics/growth & development
+MH  - Plant Proteins/*genetics
+MH  - Plant Roots/*genetics/growth & development
+MH  - Real-Time Polymerase Chain Reaction
+PMC - PMC5000595
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - PIN
+OT  - auxin
+OT  - root nodule
+EDAT- 2016/07/28 06:00
+MHDA- 2017/03/23 06:00
+PMCR- 2016/08/01
+CRDT- 2016/07/28 06:00
+PHST- 2016/05/06 00:00 [received]
+PHST- 2016/06/07 00:00 [revised]
+PHST- 2016/07/15 00:00 [accepted]
+PHST- 2016/07/28 06:00 [entrez]
+PHST- 2016/07/28 06:00 [pubmed]
+PHST- 2017/03/23 06:00 [medline]
+PHST- 2016/08/01 00:00 [pmc-release]
+AID - ijms17081197 [pii]
+AID - ijms-17-01197 [pii]
+AID - 10.3390/ijms17081197 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2016 Jul 25;17(8):1197. doi: 10.3390/ijms17081197.
+
+
+##### PUB RECORD #####
 ## 10.1007/s11103-005-8102-y  16240175  Schnabel Journet et al., 2005  Schnabel E, Journet EP, de Carvalho-Niebel F, Duc G, Frugoli J. The Medicago truncatula SUNN gene encodes a CLV1-like leucine-rich repeat receptor kinase that regulates nodule number and root length. Plant Mol Biol. 2005 Aug;58(6):809-822. doi: 10.1007/s11103-005-8102-y. PMID: 16240175. ##
 
 PMID- 16240175
@@ -4923,7 +6093,174 @@ SO  - BMC Plant Biol. 2019 Dec 19;19(1):571. doi: 10.1186/s12870-019-2194-z.
 
 
 ##### PUB RECORD #####
-## 10.3390/plants13071012  38611541  Su, Zheng etal., 2024  Su X, Zheng J, Diao X, Yang Z, Yu D, Huang F. <i>MtTCP18</i> Regulates Plant Structure in <i>Medicago truncatula</i>. Plants (Basel). 2024 Apr 2;13(7):1012. doi: 10.3390/plants13071012. PMID: 38611541; PMCID: PMC11013128. ##
+## 10.1104/pp.15.01853  26884486  Sinharoy, Liu et al., 2016  Sinharoy S, Liu C, Breakspear A, Guan D, Shailes S, Nakashima J, Zhang S, Wen J, Torres-Jerez I, Oldroyd G, Murray JD, Udvardi MK. A Medicago truncatula Cystathionine-β-Synthase-like Domain-Containing Protein Is Required for Rhizobial Infection and Symbiotic Nitrogen Fixation. Plant Physiol. 2016 Apr;170(4):2204-17. doi: 10.1104/pp.15.01853. Epub 2016 Feb 16. PMID: 26884486; PMCID: PMC4825145. ##
+
+PMID- 26884486
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170509
+LR  - 20250529
+IS  - 1532-2548 (Electronic)
+IS  - 0032-0889 (Print)
+IS  - 0032-0889 (Linking)
+VI  - 170
+IP  - 4
+DP  - 2016 Apr
+TI  - A Medicago truncatula Cystathionine-beta-Synthase-like Domain-Containing Protein Is 
+      Required for Rhizobial Infection and Symbiotic Nitrogen Fixation.
+PG  - 2204-17
+LID - 10.1104/pp.15.01853 [doi]
+AB  - The symbiosis between leguminous plants and soil rhizobia culminates in the 
+      formation of nitrogen-fixing organs called nodules that support plant growth. Two 
+      Medicago truncatula Tnt1-insertion mutants were identified that produced small 
+      nodules, which were unable to fix nitrogen effectively due to ineffective 
+      rhizobial colonization. The gene underlying this phenotype was found to encode a 
+      protein containing a putative membrane-localized domain of unknown function 
+      (DUF21) and a cystathionine-beta-synthase domain. The cbs1 mutants had defective 
+      infection threads that were sometimes devoid of rhizobia and formed small nodules 
+      with greatly reduced numbers of symbiosomes. We studied the expression of the 
+      gene, designated M truncatula Cystathionine-beta-Synthase-like1 (MtCBS1), using a 
+      promoter-beta-glucuronidase gene fusion, which revealed expression in infected root 
+      hair cells, developing nodules, and in the invasion zone of mature nodules. An 
+      MtCBS1-GFP fusion protein localized itself to the infection thread and 
+      symbiosomes. Nodulation factor-induced Ca(2+) responses were observed in the cbs1 
+      mutant, indicating that MtCBS1 acts downstream of nodulation factor signaling. 
+      MtCBS1 expression occurred exclusively during Medicago-rhizobium symbiosis. 
+      Induction of MtCBS1 expression during symbiosis was found to be dependent on 
+      Nodule Inception (NIN), a key transcription factor that controls both rhizobial 
+      infection and nodule organogenesis. Interestingly, the closest homolog of MtCBS1, 
+      MtCBS2, was specifically induced in mycorrhizal roots, suggesting common 
+      infection mechanisms in nodulation and mycorrhization. Related proteins in 
+      Arabidopsis have been implicated in cell wall maturation, suggesting a potential 
+      role for CBS1 in the formation of the infection thread wall.
+CI  - (c) 2016 American Society of Plant Biologists. All Rights Reserved.
+FAU - Sinharoy, Senjuti
+AU  - Sinharoy S
+AUID- ORCID: 0000-0003-2323-2587
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Liu, Chengwu
+AU  - Liu C
+AUID- ORCID: 0000-0002-6650-6245
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Breakspear, Andrew
+AU  - Breakspear A
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Guan, Dian
+AU  - Guan D
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Shailes, Sarah
+AU  - Shailes S
+AUID- ORCID: 0000-0003-0399-9588
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Nakashima, Jin
+AU  - Nakashima J
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Zhang, Shulan
+AU  - Zhang S
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Wen, Jiangqi
+AU  - Wen J
+AUID- ORCID: 0000-0001-5113-7750
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Torres-Jerez, Ivone
+AU  - Torres-Jerez I
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Oldroyd, Giles
+AU  - Oldroyd G
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Murray, Jeremy D
+AU  - Murray JD
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.).
+FAU - Udvardi, Michael K
+AU  - Udvardi MK
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, Ardmore, Oklahoma 
+      73401 (S.S., J.N., S.Z., J.W., I.T.-J., M.K.U.); and John Innes Centre, Norwich 
+      Research Park, Norwich, NR4 7UH, UK (C.L., A.B., D.G., S.S., I.T.-J., G.O., 
+      J.D.M.) mudvardi@noble.org.
+LA  - eng
+GR  - BB/G023832/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160216
+PL  - United States
+TA  - Plant Physiol
+JT  - Plant physiology
+JID - 0401224
+RN  - 0 (Plant Proteins)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+RN  - EC 4.2.1.22 (Cystathionine beta-Synthase)
+SB  - IM
+MH  - Cystathionine beta-Synthase/chemistry/genetics/*metabolism
+MH  - Endocytosis
+MH  - Gene Expression Regulation, Plant
+MH  - Genes, Plant
+MH  - Green Fluorescent Proteins/metabolism
+MH  - Medicago truncatula/*enzymology/genetics/*microbiology
+MH  - Mutation/genetics
+MH  - *Nitrogen Fixation
+MH  - Phenotype
+MH  - Plant Proteins/chemistry/genetics/*metabolism
+MH  - Plant Root Nodulation
+MH  - Promoter Regions, Genetic/genetics
+MH  - Protein Domains
+MH  - Rhizobium/*physiology
+MH  - Root Nodules, Plant/genetics
+MH  - *Symbiosis
+PMC - PMC4825145
+EDAT- 2016/02/18 06:00
+MHDA- 2017/05/10 06:00
+PMCR- 2016/02/16
+CRDT- 2016/02/18 06:00
+PHST- 2015/12/04 00:00 [received]
+PHST- 2016/02/03 00:00 [accepted]
+PHST- 2016/02/18 06:00 [entrez]
+PHST- 2016/02/18 06:00 [pubmed]
+PHST- 2017/05/10 06:00 [medline]
+PHST- 2016/02/16 00:00 [pmc-release]
+AID - pp.15.01853 [pii]
+AID - PP201501853DR1 [pii]
+AID - 10.1104/pp.15.01853 [doi]
+PST - ppublish
+SO  - Plant Physiol. 2016 Apr;170(4):2204-17. doi: 10.1104/pp.15.01853. Epub 2016 Feb 
+      16.
+
+
+##### PUB RECORD #####
+## 10.3390/plants13071012  38611541  Su, Zheng et al., 2024  Su X, Zheng J, Diao X, Yang Z, Yu D, Huang F. <i>MtTCP18</i> Regulates Plant Structure in <i>Medicago truncatula</i>. Plants (Basel). 2024 Apr 2;13(7):1012. doi: 10.3390/plants13071012. PMID: 38611541; PMCID: PMC11013128. ##
 
 PMID- 38611541
 OWN - NLM
@@ -5033,6 +6370,143 @@ AID - plants-13-01012 [pii]
 AID - 10.3390/plants13071012 [doi]
 PST - epublish
 SO  - Plants (Basel). 2024 Apr 2;13(7):1012. doi: 10.3390/plants13071012.
+
+
+##### PUB RECORD #####
+## 10.1093/pcp/pcy228  30476329  Valdés-López, Jayaraman et al.,, 2019  Valdés-López O, Jayaraman D, Maeda J, Delaux PM, Venkateshwaran M, Isidra-Arellano MC, Reyero-Saavedra MR, Sánchez-Correa MS, Verastegui-Vidal MA, Delgado-Buenrostro N, Van Ness L, Mysore KS, Wen J, Sussman MR, Ané JM. A Novel Positive Regulator of the Early Stages of Root Nodule Symbiosis Identified by Phosphoproteomics. Plant Cell Physiol. 2019 Mar 1;60(3):575-586. doi: 10.1093/pcp/pcy228. PMID: 30476329. ##
+
+PMID- 30476329
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190621
+LR  - 20191105
+IS  - 1471-9053 (Electronic)
+IS  - 0032-0781 (Linking)
+VI  - 60
+IP  - 3
+DP  - 2019 Mar 1
+TI  - A Novel Positive Regulator of the Early Stages of Root Nodule Symbiosis 
+      Identified by Phosphoproteomics.
+PG  - 575-586
+LID - 10.1093/pcp/pcy228 [doi]
+AB  - Signals and signaling pathways underlying the symbiosis between legumes and 
+      rhizobia have been studied extensively over the past decades. In a previous 
+      phosphoproteomic study on the Medicago truncatula-Sinorhizobium meliloti 
+      symbiosis, we identified plant proteins that are differentially phosphorylated 
+      upon the perception of rhizobial signals, called Nod factors. In this study, we 
+      provide experimental evidence that one of these proteins, Early Phosphorylated 
+      Protein 1 (EPP1), is required for the initiation of this symbiosis. Upon 
+      inoculation with rhizobia, MtEPP1 expression was induced in curled root hairs. 
+      Down-regulation of MtEPP1 in M. truncatula roots almost abolished calcium 
+      spiking, reduced the expression of essential symbiosis-related genes (MtNIN, 
+      MtNF-YB1, MtERN1 and MtENOD40) and strongly decreased nodule development. 
+      Phylogenetic analyses revealed that orthologs of MtEPP1 are present in legumes 
+      and specifically in plant species able to host arbuscular mycorrhizal fungi, 
+      suggesting a possible role in this association too. Short chitin oligomers 
+      induced the phosphorylation of MtEPP1 like Nod factors. However, the 
+      down-regulation of MtEPP1 affected the colonization of M. truncatula roots by 
+      arbuscular mycorrhizal fungi only moderately. Altogether, these findings indicate 
+      that MtEPP1 is essential for the establishment of the legume-rhizobia symbiosis 
+      but might plays a limited role in the arbuscular mycorrhizal symbiosis.
+CI  - (c) The Author(s) 2018. Published by Oxford University Press on behalf of Japanese 
+      Society of Plant Physiologists. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Valdes-Lopez, Oswaldo
+AU  - Valdes-Lopez O
+AD  - Laboratorio de Genomica Funcional de Leguminosas, Facultad de Estudios Superiores 
+      Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de 
+      Mexico, Mexico.
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA.
+AD  - Department of Agronomy, University of Wisconsin-Madison, Madison, WI, USA.
+FAU - Jayaraman, Dhileepkumar
+AU  - Jayaraman D
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA.
+AD  - Department of Agronomy, University of Wisconsin-Madison, Madison, WI, USA.
+FAU - Maeda, Junko
+AU  - Maeda J
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA.
+AD  - Department of Agronomy, University of Wisconsin-Madison, Madison, WI, USA.
+FAU - Delaux, Pierre-Marc
+AU  - Delaux PM
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA.
+AD  - Department of Agronomy, University of Wisconsin-Madison, Madison, WI, USA.
+FAU - Venkateshwaran, Muthusubramanian
+AU  - Venkateshwaran M
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA.
+AD  - Department of Agronomy, University of Wisconsin-Madison, Madison, WI, USA.
+FAU - Isidra-Arellano, Mariel C
+AU  - Isidra-Arellano MC
+AD  - Laboratorio de Genomica Funcional de Leguminosas, Facultad de Estudios Superiores 
+      Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de 
+      Mexico, Mexico.
+AD  - Posgrado en Ciencias Biologicas, Universidad Nacional Autonoma de Mexico, 
+      Coyoacan, Ciudad de Mexico, Mexico.
+FAU - Reyero-Saavedra, Maria del Rocio
+AU  - Reyero-Saavedra MR
+AD  - Laboratorio de Genomica Funcional de Leguminosas, Facultad de Estudios Superiores 
+      Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de 
+      Mexico, Mexico.
+FAU - Sanchez-Correa, Maria del Socorro
+AU  - Sanchez-Correa MS
+AD  - Laboratorio de Genomica Funcional de Leguminosas, Facultad de Estudios Superiores 
+      Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de 
+      Mexico, Mexico.
+FAU - Verastegui-Vidal, Miguel A
+AU  - Verastegui-Vidal MA
+AD  - Laboratorio de Genomica Funcional de Leguminosas, Facultad de Estudios Superiores 
+      Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de 
+      Mexico, Mexico.
+FAU - Delgado-Buenrostro, Norma
+AU  - Delgado-Buenrostro N
+AD  - Unidad de Biomedicina, Facultad de Estudios Superiores Iztacala, Universidad 
+      Nacional Autonoma de Mexico, Tlalnepantla, Estado de Mexico, Mexico.
+FAU - Van Ness, Lori
+AU  - Van Ness L
+AD  - Department of Biochemistry, University of Wisconsin, Madison, WI, USA.
+FAU - Mysore, Kirankumar S
+AU  - Mysore KS
+AD  - Noble Research Institute, 2510 Sam Noble Parkway, Ardmore, OK, USA.
+FAU - Wen, Jiangqi
+AU  - Wen J
+AD  - Noble Research Institute, 2510 Sam Noble Parkway, Ardmore, OK, USA.
+FAU - Sussman, Michael R
+AU  - Sussman MR
+AD  - Department of Biochemistry, University of Wisconsin, Madison, WI, USA.
+FAU - Ane, Jean-Michel
+AU  - Ane JM
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA.
+AD  - Department of Agronomy, University of Wisconsin-Madison, Madison, WI, USA.
+LA  - eng
+PT  - Journal Article
+PL  - Japan
+TA  - Plant Cell Physiol
+JT  - Plant & cell physiology
+JID - 9430925
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Gene Expression Regulation, Plant/genetics/physiology
+MH  - Medicago truncatula/*metabolism
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Root Nodules, Plant/genetics/*metabolism
+MH  - Symbiosis/genetics/physiology
+OTO - NOTNLM
+OT  - Calcium spiking
+OT  - Legume
+OT  - Nodulation
+OT  - Protein phosphorylation
+OT  - Symbiosis
+EDAT- 2018/11/27 06:00
+MHDA- 2019/06/22 06:00
+CRDT- 2018/11/27 06:00
+PHST- 2018/08/02 00:00 [received]
+PHST- 2018/11/21 00:00 [accepted]
+PHST- 2018/11/27 06:00 [pubmed]
+PHST- 2019/06/22 06:00 [medline]
+PHST- 2018/11/27 06:00 [entrez]
+AID - 5201344 [pii]
+AID - 10.1093/pcp/pcy228 [doi]
+PST - ppublish
+SO  - Plant Cell Physiol. 2019 Mar 1;60(3):575-586. doi: 10.1093/pcp/pcy228.
 
 
 ##### PUB RECORD #####
@@ -5494,6 +6968,150 @@ SO  - J Exp Bot. 2022 Jun 24;73(12):4129-4146. doi: 10.1093/jxb/erac112.
 
 
 ##### PUB RECORD #####
+## 10.1111/nph.14017  27245091  Wang, Yu et al., 2016  Wang C, Yu H, Luo L, Duan L, Cai L, He X, Wen J, Mysore KS, Li G, Xiao A, Duanmu D, Cao Y, Hong Z, Zhang Z. NODULES WITH ACTIVATED DEFENSE 1 is required for maintenance of rhizobial endosymbiosis in Medicago truncatula. New Phytol. 2016 Oct;212(1):176-91. doi: 10.1111/nph.14017. Epub 2016 Jun 1. PMID: 27245091. ##
+
+PMID- 27245091
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180126
+LR  - 20240109
+IS  - 1469-8137 (Electronic)
+IS  - 0028-646X (Linking)
+VI  - 212
+IP  - 1
+DP  - 2016 Oct
+TI  - NODULES WITH ACTIVATED DEFENSE 1 is required for maintenance of rhizobial 
+      endosymbiosis in Medicago truncatula.
+PG  - 176-91
+LID - 10.1111/nph.14017 [doi]
+AB  - The symbiotic interaction between legume plants and rhizobia results in the 
+      formation of root nodules, in which symbiotic plant cells host and harbor 
+      thousands of nitrogen-fixing rhizobia. Here, a Medicago truncatula nodules with 
+      activated defense 1 (nad1) mutant was identified using reverse genetics methods. 
+      The mutant phenotype was characterized using cell and molecular biology 
+      approaches. An RNA-sequencing technique was used to analyze the transcriptomic 
+      reprogramming of nad1 mutant nodules. In the nad1 mutant plants, rhizobial 
+      infection and propagation in infection threads are normal, whereas rhizobia and 
+      their symbiotic plant cells become necrotic immediately after rhizobia are 
+      released from infection threads into symbiotic cells of nodules. 
+      Defense-associated responses were detected in nad1 nodules. NAD1 is specifically 
+      present in root nodule symbiosis plants with the exception of Morus notabilis, 
+      and the transcript is highly induced in nodules. NAD1 encodes a small 
+      uncharacterized protein with two predicted transmembrane helices and is localized 
+      at the endoplasmic reticulum. Our data demonstrate a positive role for NAD1 in 
+      the maintenance of rhizobial endosymbiosis during nodulation.
+CI  - (c) 2016 The Authors. New Phytologist (c) 2016 New Phytologist Trust.
+FAU - Wang, Chao
+AU  - Wang C
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Yu, Haixiang
+AU  - Yu H
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Luo, Li
+AU  - Luo L
+AD  - Shanghai Key Lab of Bio-energy Crops, School of Life Sciences, Shanghai 
+      University, Shanghai, 200444, China.
+FAU - Duan, Liujian
+AU  - Duan L
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Cai, Liuyang
+AU  - Cai L
+AD  - National Key Laboratory of Crop Genetic Improvement, College of Informatics, 
+      Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - He, Xinxing
+AU  - He X
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Wen, Jiangqi
+AU  - Wen J
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Mysore, Kirankumar S
+AU  - Mysore KS
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Li, Guoliang
+AU  - Li G
+AD  - National Key Laboratory of Crop Genetic Improvement, College of Informatics, 
+      Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Xiao, Aifang
+AU  - Xiao A
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Duanmu, Deqiang
+AU  - Duanmu D
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Cao, Yangrong
+AU  - Cao Y
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+FAU - Hong, Zonglie
+AU  - Hong Z
+AD  - Department of Plant, Soil and Entomological Sciences and Program of Microbiology, 
+      Molecular Biology and Biochemistry, University of Idaho, Moscow, ID, 83844, USA.
+FAU - Zhang, Zhongming
+AU  - Zhang Z
+AD  - State Key Laboratory of Agricultural Microbiology, College of Life Sciences and 
+      Technology, Huazhong Agricultural University, Wuhan, 430070, China.
+LA  - eng
+SI  - GENBANK/KX034079
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20160601
+PL  - England
+TA  - New Phytol
+JT  - The New phytologist
+JID - 9882884
+RN  - 0 (Phenols)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Cellular Reprogramming/genetics
+MH  - Gene Expression Regulation, Plant
+MH  - Genes, Plant
+MH  - Genetic Complementation Test
+MH  - Medicago truncatula/genetics/*microbiology/ultrastructure
+MH  - Mutation/genetics
+MH  - Nitrogen Fixation/genetics
+MH  - Organ Specificity/genetics
+MH  - Phenols/metabolism
+MH  - Phenotype
+MH  - Phylogeny
+MH  - Plant Proteins/genetics/*metabolism
+MH  - Protein Transport
+MH  - Rhizobium/*physiology
+MH  - Root Nodules, Plant/microbiology/ultrastructure
+MH  - Sequence Alignment
+MH  - Symbiosis/*physiology
+MH  - Transcriptome/genetics
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - Tnt-insertion mutant
+OT  - defense-like responses
+OT  - legume
+OT  - necrosis
+OT  - nitrogen fixation
+OT  - nodules
+OT  - rhizobial endosymbiosis
+EDAT- 2016/06/02 06:00
+MHDA- 2018/01/27 06:00
+CRDT- 2016/06/02 06:00
+PHST- 2016/03/10 00:00 [received]
+PHST- 2016/04/13 00:00 [accepted]
+PHST- 2016/06/02 06:00 [entrez]
+PHST- 2016/06/02 06:00 [pubmed]
+PHST- 2018/01/27 06:00 [medline]
+AID - 10.1111/nph.14017 [doi]
+PST - ppublish
+SO  - New Phytol. 2016 Oct;212(1):176-91. doi: 10.1111/nph.14017. Epub 2016 Jun 1.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.15.00164  25792252  Weller, Foo et al., 2015  Weller JL, Foo EM, Hecht V, Ridge S, Vander Schoor JK, Reid JB. Ethylene Signaling Influences Light-Regulated Development in Pea. Plant Physiol. 2015 Sep;169(1):115-24. doi: 10.1104/pp.15.00164. Epub 2015 Mar 19. PMID: 25792252; PMCID: PMC4577373. ##
 
 PMID- 25792252
@@ -5609,7 +7227,7 @@ SO  - Plant Physiol. 2015 Sep;169(1):115-24. doi: 10.1104/pp.15.00164. Epub 2015
 
 
 ##### PUB RECORD #####
-## 10.3390/ijms251910410  39408738  Xing, Weng etal., 2024  Xing J, Wang J, Cao J, Li K, Meng X, Wen J, Mysore KS, Wang G, Zhou C, Yin P. Identification of a Novel Gene <i>MtbZIP60</i> as a Negative Regulator of Leaf Senescence through Transcriptome Analysis in <i>Medicago truncatula</i>. Int J Mol Sci. 2024 Sep 27;25(19):10410. doi: 10.3390/ijms251910410. PMID: 39408738; PMCID: PMC11477300. ##
+## 10.3390/ijms251910410  39408738  Xing, Weng et al., 2024  Xing J, Wang J, Cao J, Li K, Meng X, Wen J, Mysore KS, Wang G, Zhou C, Yin P. Identification of a Novel Gene <i>MtbZIP60</i> as a Negative Regulator of Leaf Senescence through Transcriptome Analysis in <i>Medicago truncatula</i>. Int J Mol Sci. 2024 Sep 27;25(19):10410. doi: 10.3390/ijms251910410. PMID: 39408738; PMCID: PMC11477300. ##
 
 PMID- 39408738
 OWN - NLM
@@ -5764,6 +7382,273 @@ SO  - Int J Mol Sci. 2024 Sep 27;25(19):10410. doi: 10.3390/ijms251910410.
 
 
 ##### PUB RECORD #####
+## 10.3390/ijms21228742  33228084  Zhang, Liu et al., 2020  Zhang X, Liu L, Wang H, Gu Z, Liu Y, Wang M, Wang M, Xu Y, Shi Q, Li G, Tong J, Xiao L, Wang ZY, Mysore KS, Wen J, Zhou C. <i>MtPIN1</i> and <i>MtPIN3</i> Play Dual Roles in Regulation of Shade Avoidance Response under Different Environments in <i>Medicago truncatula</i>. Int J Mol Sci. 2020 Nov 19;21(22):8742. doi: 10.3390/ijms21228742. PMID: 33228084; PMCID: PMC7699406. ##
+
+PMID- 33228084
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210304
+LR  - 20210304
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 22
+DP  - 2020 Nov 19
+TI  - MtPIN1 and MtPIN3 Play Dual Roles in Regulation of Shade Avoidance Response under 
+      Different Environments in Medicago truncatula.
+LID - 10.3390/ijms21228742 [doi]
+LID - 8742
+AB  - Polar auxin transport mediated by PIN-FORMED (PIN) proteins is critical for plant 
+      growth and development. As an environmental cue, shade stimulates hypocotyls, 
+      petiole, and stem elongation by inducing auxin synthesis and asymmetric 
+      distributions, which is modulated by PIN3,4,7 in Arabidopsis. Here, we 
+      characterize the MtPIN1 and MtPIN3, which are the orthologs of PIN3,4,7, in model 
+      legume species Medicago truncatula. Under the low Red:Far-Red (R:FR) ratio light, 
+      the expression of MtPIN1 and MtPIN3 is induced, and shadeavoidance response is 
+      disrupted in mtpin1 mtpin3 double mutant, indicating that MtPIN1 and MtPIN3 have 
+      a conserved function in shade response. Surprisingly, under the normal growth 
+      condition, mtpin1 mtpin3 displayed the constitutive shade avoidance responses, 
+      such as the elongated petiole, smaller leaf, and increased auxin and chlorophyll 
+      content. Therefore, MtPIN1 and MtPIN3 play dual roles in regulation of 
+      shadeavoidance response under different environments. Furthermore, these data 
+      suggest that PIN3,4,7 and its orthologs have evolved conserved and specific 
+      functions among species.
+FAU - Zhang, Xue
+AU  - Zhang X
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Liu, Lu
+AU  - Liu L
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Wang, Hongfeng
+AU  - Wang H
+AD  - School of Life Science, Guangzhou University, Guangzhou 510006, China.
+FAU - Gu, Zhiqun
+AU  - Gu Z
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Liu, Yafei
+AU  - Liu Y
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Wang, Minmin
+AU  - Wang M
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Wang, Min
+AU  - Wang M
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Xu, Yiteng
+AU  - Xu Y
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+FAU - Shi, Qingbiao
+AU  - Shi Q
+AD  - State Key Laboratory of Crop Biology, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Li, Gang
+AU  - Li G
+AD  - State Key Laboratory of Crop Biology, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Tong, Jianhua
+AU  - Tong J
+AD  - Hunan Provincial Key Laboratory of Phytohormones, Hunan Agricultural University, 
+      Changsha 410128, China.
+FAU - Xiao, Langtao
+AU  - Xiao L
+AD  - Hunan Provincial Key Laboratory of Phytohormones, Hunan Agricultural University, 
+      Changsha 410128, China.
+FAU - Wang, Zeng-Yu
+AU  - Wang ZY
+AD  - Grassland Agri-Husbandry Research Center, Qingdao Agricultural University, 
+      Qingdao 266109, China.
+FAU - Mysore, Kirankumar S
+AU  - Mysore KS
+AUID- ORCID: 0000-0002-9805-5741
+AD  - Noble Research Institute, LLC, Ardmore, OK 73401, USA.
+FAU - Wen, Jiangqi
+AU  - Wen J
+AD  - Noble Research Institute, LLC, Ardmore, OK 73401, USA.
+FAU - Zhou, Chuanen
+AU  - Zhou C
+AUID- ORCID: 0000-0001-5667-0255
+AD  - The Key Laboratory of Plant Development and Environmental Adaptation Biology, 
+      Ministry of Education, School of Life Science, Shandong University, Qingdao 
+      266237, China.
+LA  - eng
+GR  - 31671507 and U1906201/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20201119
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (Indoleacetic Acids)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (PIN1 protein, Arabidopsis)
+RN  - 0 (PIN3 protein, Arabidopsis)
+RN  - 0 (Plant Growth Regulators)
+RN  - 0 (Protein Isoforms)
+RN  - 1406-65-1 (Chlorophyll)
+SB  - IM
+MH  - Arabidopsis/genetics/growth & development/metabolism/radiation effects
+MH  - Arabidopsis Proteins/*genetics/metabolism
+MH  - Chlorophyll/biosynthesis/genetics
+MH  - Conserved Sequence
+MH  - Gene Expression Regulation, Developmental
+MH  - *Gene Expression Regulation, Plant
+MH  - Hypocotyl/genetics/growth & development/metabolism/radiation effects
+MH  - Indoleacetic Acids/metabolism/pharmacology
+MH  - Light
+MH  - Medicago truncatula/*genetics/growth & development/metabolism/radiation effects
+MH  - Membrane Transport Proteins/*genetics/metabolism
+MH  - Mutation
+MH  - Photosynthesis/genetics
+MH  - Plant Growth Regulators/metabolism/pharmacology
+MH  - Plant Leaves/*genetics/growth & development/metabolism/radiation effects
+MH  - Protein Isoforms/genetics/metabolism
+PMC - PMC7699406
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - PIN-FORMED
+OT  - auxin
+OT  - shadeavoidance response
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2020/11/25 06:00
+MHDA- 2021/03/05 06:00
+PMCR- 2020/11/01
+CRDT- 2020/11/24 01:07
+PHST- 2020/10/21 00:00 [received]
+PHST- 2020/11/12 00:00 [revised]
+PHST- 2020/11/16 00:00 [accepted]
+PHST- 2020/11/24 01:07 [entrez]
+PHST- 2020/11/25 06:00 [pubmed]
+PHST- 2021/03/05 06:00 [medline]
+PHST- 2020/11/01 00:00 [pmc-release]
+AID - ijms21228742 [pii]
+AID - ijms-21-08742 [pii]
+AID - 10.3390/ijms21228742 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Nov 19;21(22):8742. doi: 10.3390/ijms21228742.
+
+
+##### PUB RECORD #####
+## 10.1093/jxb/erab359  34329408  Zhao, Chai et al., 2021  Zhao Z, Chai M, Sun L, Cong L, Jiang Q, Zhang Z, Wang ZY. Identification of a gene responsible for seedpod spine formation and other phenotypic alterations using whole-genome sequencing analysis in Medicago truncatula. J Exp Bot. 2021 Dec 4;72(22):7769-7777. doi: 10.1093/jxb/erab359. PMID: 34329408. ##
+
+PMID- 34329408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211230
+LR  - 20211230
+IS  - 1460-2431 (Electronic)
+IS  - 0022-0957 (Linking)
+VI  - 72
+IP  - 22
+DP  - 2021 Dec 4
+TI  - Identification of a gene responsible for seedpod spine formation and other 
+      phenotypic alterations using whole-genome sequencing analysis in Medicago 
+      truncatula.
+PG  - 7769-7777
+LID - 10.1093/jxb/erab359 [doi]
+AB  - In nature, some plant species produce seedpods with spines, which is an adaptive 
+      biological trait for protecting the seed and helping seed dispersal. However, the 
+      molecular mechanism of spine formation is still unclear. While conducting routine 
+      tissue culture and transformation in the model legume Medicago truncatula, we 
+      identified a smooth seedpod (ssp1) mutant with a suite of other phenotypic 
+      changes. Preliminary analysis showed that the mutation was derived from the 
+      tissue culture process. Genetic segregation analysis suggested that ssp1 is a 
+      recessive mutant. By combining whole-genome sequencing and bioinformatics 
+      analysis, we found that the mutant phenotype was caused by a single nucleotide 
+      polymorphism and a 30 bp deletion in the gene locus Medtr4g039430, named SSP1. 
+      Complementation of the M. truncatula ssp1 and Arabidopsis twd1 mutants showed 
+      complete restoration, indicating that SSP1 is an ortholog of Arabidopsis TWD1 
+      which encodes an immunophilin-like FK506-binding protein 42. The formation of 
+      spines on seedpods is associated with auxin transport. The method used in this 
+      study offers an effective way for detecting genes responsible for somaclonal 
+      variations. The results demonstrate, for the first time, that SSP1 plays a 
+      crucial role in the determination of spine formation on seedpods.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of the 
+      Society for Experimental Biology. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Zhao, Zhili
+AU  - Zhao Z
+AD  - College of Agronomy, Hunan Agricultural University, Changsha, China.
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+AD  - Noble Research Institute, Ardmore, OK, USA.
+FAU - Chai, Maofeng
+AU  - Chai M
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+AD  - Noble Research Institute, Ardmore, OK, USA.
+FAU - Sun, Liang
+AU  - Sun L
+AD  - Noble Research Institute, Ardmore, OK, USA.
+AD  - Research Computing, Boston Children's Hospital, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+FAU - Cong, Lili
+AU  - Cong L
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+FAU - Jiang, Qingzheng
+AU  - Jiang Q
+AD  - Noble Research Institute, Ardmore, OK, USA.
+FAU - Zhang, Zhifei
+AU  - Zhang Z
+AD  - College of Agronomy, Hunan Agricultural University, Changsha, China.
+FAU - Wang, Zeng-Yu
+AU  - Wang ZY
+AUID- ORCID: 0000-0002-6835-7917
+AD  - Grassland Agri-Husbandry Research Center, College of Grassland Science, Qingdao 
+      Agricultural University, Qingdao, China.
+AD  - Noble Research Institute, Ardmore, OK, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Exp Bot
+JT  - Journal of experimental botany
+JID - 9882906
+SB  - IM
+MH  - *Arabidopsis
+MH  - Gene Expression Regulation, Plant
+MH  - *Medicago truncatula/genetics
+MH  - Phenotype
+MH  - Seeds
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - mutant analysis
+OT  - seedpod spine
+OT  - smooth seedpod
+OT  - somaclonal variation
+OT  - whole-genome sequencing
+EDAT- 2021/07/31 06:00
+MHDA- 2021/12/31 06:00
+CRDT- 2021/07/30 17:26
+PHST- 2021/07/28 00:00 [received]
+PHST- 2021/07/28 00:00 [accepted]
+PHST- 2021/07/31 06:00 [pubmed]
+PHST- 2021/12/31 06:00 [medline]
+PHST- 2021/07/30 17:26 [entrez]
+AID - 6331678 [pii]
+AID - 10.1093/jxb/erab359 [doi]
+PST - ppublish
+SO  - J Exp Bot. 2021 Dec 4;72(22):7769-7777. doi: 10.1093/jxb/erab359.
+
+
+##### PUB RECORD #####
 ## 10.1073/pnas.1820468116  30782811  Zhao, Liu et al., 2019  Zhao Y, Liu R, Xu Y, Wang M, Zhang J, Bai M, Han C, Xiang F, Wang ZY, Mysore KS, Wen J, Zhou C. <i>AGLF</i> provides C-function in floral organ identity through transcriptional regulation of <i>AGAMOUS</i> in <i>Medicago truncatula</i>. Proc Natl Acad Sci U S A. 2019 Mar 12;116(11):5176-5181. doi: 10.1073/pnas.1820468116. Epub 2019 Feb 19. PMID: 30782811; PMCID: PMC6421450. ##
 
 PMID- 30782811
@@ -5898,7 +7783,114 @@ SO  - Proc Natl Acad Sci U S A. 2019 Mar 12;116(11):5176-5181. doi:
 
 
 ##### PUB RECORD #####
-## 10.1093/jxb/erab033  33506247  Zhou, Yang et al,. 2021  Zhou S, Yang T, Mao Y, Liu Y, Guo S, Wang R, Fangyue G, He L, Zhao B, Bai Q, Li Y, Zhang X, Wang D, Wang C, Wu Q, Yang Y, Liu Y, Tadege M, Chen J. The F-box protein MIO1/SLB1 regulates organ size and leaf movement in Medicago truncatula. J Exp Bot. 2021 Apr 2;72(8):2995-3011. doi: 10.1093/jxb/erab033. PMID: 33506247; PMCID: PMC8023213. ##
+## 10.1111/j.1469-8137.2012.04268.x  22891817  Zhou, Han et al., 2012  Zhou C, Han L, Fu C, Chai M, Zhang W, Li G, Tang Y, Wang ZY. Identification and characterization of petiolule-like pulvinus mutants with abolished nyctinastic leaf movement in the model legume Medicago truncatula. New Phytol. 2012 Oct;196(1):92-100. doi: 10.1111/j.1469-8137.2012.04268.x. Epub 2012 Aug 14. PMID: 22891817; PMCID: PMC3504090. ##
+
+PMID- 22891817
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130103
+LR  - 20240321
+IS  - 1469-8137 (Electronic)
+IS  - 0028-646X (Print)
+IS  - 0028-646X (Linking)
+VI  - 196
+IP  - 1
+DP  - 2012 Oct
+TI  - Identification and characterization of petiolule-like pulvinus mutants with 
+      abolished nyctinastic leaf movement in the model legume Medicago truncatula.
+PG  - 92-100
+LID - 10.1111/j.1469-8137.2012.04268.x [doi]
+AB  - Leaves of many plant species open during the day and fold at night. Diurnal leaf 
+      movement, named nyctinasty, has been of great interest to researchers since 
+      Darwin's time. Nyctinastic leaf movement is generated by the pulvinus, which is a 
+      specialized motor organ located at the base of leaf and leaflet. The molecular 
+      basis and functional reason behind nyctinasty are unknown. In a forward screening 
+      of a retrotransposon-tagged mutant population of Medicago truncatula, four 
+      petiolule-like pulvinus (plp) mutant lines with defects in leaf movement were 
+      identified and characterized. Loss of function of PLP results in the change of 
+      pulvini to petiolules. PLP is specifically expressed in the pulvinus, as 
+      demonstrated by quantitative reverse-transcription polymerase chain reaction 
+      analysis, expression analysis of a PLP promoter-beta-glucuronidase construct in 
+      transgenic plants and in situ hybridization. Microarray analysis revealed that 
+      the expression levels of many genes were altered in the mutant during the day and 
+      at night. Crosses between the plp mutant and several leaf pattern mutants showed 
+      that the developmental mechanisms of pulvini and leaf patterns are likely 
+      independent. Our results demonstrated that PLP plays a crucial role in the 
+      determination of pulvinus development. Leaf movement generated by pulvini may 
+      have an impact on plant vegetative growth.
+CI  - (c) 2012 The Authors. New Phytologist (c) 2012 New Phytologist Trust.
+FAU - Zhou, Chuanen
+AU  - Zhou C
+AD  - Forage Improvement Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Han, Lu
+AU  - Han L
+AD  - Forage Improvement Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Fu, Chunxiang
+AU  - Fu C
+AD  - Forage Improvement Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Chai, Maofeng
+AU  - Chai M
+AD  - Forage Improvement Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Zhang, Wenzheng
+AU  - Zhang W
+AD  - Forage Improvement Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Li, Guifen
+AU  - Li G
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Tang, Yuhong
+AU  - Tang Y
+AD  - Plant Biology Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+FAU - Wang, Zeng-Yu
+AU  - Wang ZY
+AD  - Forage Improvement Division, The Samuel Roberts Noble Foundation, 2510 Sam Noble 
+      Parkway, Ardmore, OK, 73401, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20120814
+PL  - England
+TA  - New Phytol
+JT  - The New phytologist
+JID - 9882884
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Circadian Rhythm/*physiology
+MH  - Cloning, Molecular
+MH  - Gene Expression Regulation, Plant
+MH  - Genes, Plant/*genetics
+MH  - Medicago truncatula/*genetics/growth & development/metabolism/*physiology
+MH  - *Models, Biological
+MH  - Movement
+MH  - Mutation/*genetics
+MH  - Organ Specificity/genetics
+MH  - Plant Proteins/chemistry/genetics/metabolism
+MH  - Protein Structure, Tertiary
+MH  - Pulvinus/genetics/growth & development/*physiology
+PMC - PMC3504090
+EDAT- 2012/08/16 06:00
+MHDA- 2013/01/04 06:00
+CRDT- 2012/08/16 06:00
+PHST- 2012/05/23 00:00 [received]
+PHST- 2012/07/10 00:00 [accepted]
+PHST- 2012/08/16 06:00 [entrez]
+PHST- 2012/08/16 06:00 [pubmed]
+PHST- 2013/01/04 06:00 [medline]
+AID - 10.1111/j.1469-8137.2012.04268.x [doi]
+PST - ppublish
+SO  - New Phytol. 2012 Oct;196(1):92-100. doi: 10.1111/j.1469-8137.2012.04268.x. Epub 
+      2012 Aug 14.
+
+
+##### PUB RECORD #####
+## 10.1093/jxb/erab033  33506247  Zhou, Yang et al., 2021  Zhou S, Yang T, Mao Y, Liu Y, Guo S, Wang R, Fangyue G, He L, Zhao B, Bai Q, Li Y, Zhang X, Wang D, Wang C, Wu Q, Yang Y, Liu Y, Tadege M, Chen J. The F-box protein MIO1/SLB1 regulates organ size and leaf movement in Medicago truncatula. J Exp Bot. 2021 Apr 2;72(8):2995-3011. doi: 10.1093/jxb/erab033. PMID: 33506247; PMCID: PMC8023213. ##
 
 PMID- 33506247
 OWN - NLM
@@ -6095,5 +8087,123 @@ AID - erab033 [pii]
 AID - 10.1093/jxb/erab033 [doi]
 PST - ppublish
 SO  - J Exp Bot. 2021 Apr 2;72(8):2995-3011. doi: 10.1093/jxb/erab033.
+
+
+##### PUB RECORD #####
+## 10.1111/pce.13853  32683703  Zinsmeister, Berriri et al., 2020  Zinsmeister J, Berriri S, Basso DP, Ly-Vu B, Dang TT, Lalanne D, da Silva EAA, Leprince O, Buitink J. The seed-specific heat shock factor A9 regulates the depth of dormancy in Medicago truncatula seeds via ABA signalling. Plant Cell Environ. 2020 Oct;43(10):2508-2522. doi: 10.1111/pce.13853. Epub 2020 Aug 23. PMID: 32683703. ##
+
+PMID- 32683703
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210211
+LR  - 20210211
+IS  - 1365-3040 (Electronic)
+IS  - 0140-7791 (Linking)
+VI  - 43
+IP  - 10
+DP  - 2020 Oct
+TI  - The seed-specific heat shock factor A9 regulates the depth of dormancy in 
+      Medicago truncatula seeds via ABA signalling.
+PG  - 2508-2522
+LID - 10.1111/pce.13853 [doi]
+AB  - During the later stages of seed maturation, two key adaptive traits are acquired 
+      that contribute to seed lifespan and dispersal, longevity and dormancy. The 
+      seed-specific heat shock transcription factor A9 is an important hub gene in the 
+      transcriptional network of late seed maturation. Here, we demonstrate that HSFA9 
+      plays a role in thermotolerance rather than in ex situ seed conservation. Storage 
+      of hsfa9 seeds of Medicago truncatula and Arabidopsis had comparable lifespan at 
+      moderate storage relative humidity (RH), whereas at high RH, hsfa9 seeds lost 
+      their viability much faster than wild type seeds. Furthermore, we show that in M. 
+      truncatula, Mthsfa9 seeds acquired more dormancy during late maturation than wild 
+      type. Transient expression of MtHSFA9 in hairy roots and transcriptome analysis 
+      of Mthsfa9 Tnt1 insertion mutants identified a deregulation of genes involved in 
+      ABA biosynthesis, catabolism and signalling. Consistent with these results, 
+      Mthsfa9 seeds exhibited increased ABA levels and higher sensitivity to ABA. These 
+      data suggest that in legumes, HSFA9 acts as a negative regulator of the depth of 
+      seed dormancy during seed development via the modulation of hormonal balance.
+CI  - (c) 2020 John Wiley & Sons Ltd.
+FAU - Zinsmeister, Julia
+AU  - Zinsmeister J
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+FAU - Berriri, Souha
+AU  - Berriri S
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+FAU - Basso, Denise Puntel
+AU  - Basso DP
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+AD  - Departamento de Producao Vegetal, Faculdade de Ciencias Agronomicas, Universidade 
+      Estadual Paulista, Botucatu, Brazil.
+FAU - Ly-Vu, Benoit
+AU  - Ly-Vu B
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+FAU - Dang, Thi-Thu
+AU  - Dang TT
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+FAU - Lalanne, David
+AU  - Lalanne D
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+FAU - da Silva, Edvaldo Aparecido Amaral
+AU  - da Silva EAA
+AD  - Departamento de Producao Vegetal, Faculdade de Ciencias Agronomicas, Universidade 
+      Estadual Paulista, Botucatu, Brazil.
+FAU - Leprince, Olivier
+AU  - Leprince O
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+FAU - Buitink, Julia
+AU  - Buitink J
+AD  - IRHS-UMR1345, Universite d'Angers, INRAE, Institut Agro, SFR 4207 QuaSaV, 
+      Beaucouze, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20200823
+PL  - United States
+TA  - Plant Cell Environ
+JT  - Plant, cell & environment
+JID - 9309004
+RN  - 0 (Heat Shock Transcription Factors)
+RN  - 0 (Plant Growth Regulators)
+RN  - 0 (Plant Proteins)
+RN  - 72S9A8J5GW (Abscisic Acid)
+SB  - IM
+MH  - Abscisic Acid/*metabolism
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Plant
+MH  - Heat Shock Transcription Factors/metabolism/*physiology
+MH  - Medicago truncatula/*metabolism/physiology
+MH  - *Plant Dormancy
+MH  - Plant Growth Regulators/metabolism/*physiology
+MH  - Plant Proteins/metabolism/*physiology
+MH  - Plant Roots/metabolism
+MH  - Real-Time Polymerase Chain Reaction
+MH  - *Signal Transduction
+MH  - Two-Hybrid System Techniques
+OTO - NOTNLM
+OT  - ABA metabolism
+OT  - ABA signalling
+OT  - dormancy
+OT  - longevity
+OT  - thermotolerance
+EDAT- 2020/07/20 06:00
+MHDA- 2021/02/12 06:00
+CRDT- 2020/07/20 06:00
+PHST- 2020/05/13 00:00 [received]
+PHST- 2020/07/10 00:00 [revised]
+PHST- 2020/07/11 00:00 [accepted]
+PHST- 2020/07/20 06:00 [pubmed]
+PHST- 2021/02/12 06:00 [medline]
+PHST- 2020/07/20 06:00 [entrez]
+AID - 10.1111/pce.13853 [doi]
+PST - ppublish
+SO  - Plant Cell Environ. 2020 Oct;43(10):2508-2522. doi: 10.1111/pce.13853. Epub 2020 
+      Aug 23.
 
 

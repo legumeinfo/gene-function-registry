@@ -1,6 +1,45 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtDNF2
+gene_symbol_long: DEFECTIVE NITROGEN FIXATION 2
+gene_model_pub_name: Medtr4g085800
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g085800
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtDNF2 knockouts were smaller than WT plants and displayed chlorosis and
+      anthocyanin accumulation, all of which are associated with nitrogen
+      deficiency
+  - MtDNF2 mutants also displayed more root nodules thatn WT, but they were
+      also smaller then WT nodules
+  - At least five splice variants exist for the primary MtDNF2 transcript
+  - MtDNF2 is expressed specifically in nodules in the invasion zone and
+      interzone II–III
+  - The senescence zone appeared earlier in mutant MtDNF2 nodules than in the
+      WT
+  - MtDNF2 is required to produce differentiated bacteroids and to prevent
+      bacterial cell death in infected nodule cells
+phenotype_synopsis: MtDNF2 is required for nitrogen fixation and plays a role
+  in root nodule number determination
+traits:
+  - entity_name: nitrogen content
+    entity: TO:0020093
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: host bacteroid-containing symbiosome
+    entity: GO:0043663
+references:
+  - citation: Bourcy, Brocard et al., 2012
+    doi: 10.1111/nph.12091
+    pmid: 23278348
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - ENOD40
 gene_symbol_long: Abnormal tissue development
 gene_model_pub_name: CAD48198.1
@@ -59,28 +98,35 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - HAP2.1
-gene_model_pub_name: Medtr1g056530
-gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
-confidence: 5
+  - MtYSL3
+gene_symbol_long: YELLOW STRIPE1-LIKE 3
+gene_model_pub_name: Medtr3g092090
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g092090
+confidence: 3
 curators:
-  - Steven Cannon
-phenotype_synopsis: Small and nonfunctional nodules arrested in growth when
-  both normally spliced and alternatively spliced variants repressed. When only
-  the alternative spliced form repressed the nodules are small but still fix
-  nitrogen successfully.
+  - Raegan Nelson
+comments:
+  - MtYSL3 is highly expressed in root nodules and was found in the endodermis
+      and inner vascular layers
+  - MtYSL3 mutants has reduced growth compared to the WT, but nodule
+      development was not affected
+  - MtYSL3 mutants has roughly 60% nitrogenase activity of the WT which could
+      be the result of reduced iron content in nodules
+  - There was no difference between WT and MtYSL3 mutant under non-symbiotic
+      conditions
+phenotype_synopsis: MtYSL3 plays a role in symbiotic nitrogen fixation and
+  could be involved in transition metal delivery to nitrogen fixing nodules
 traits:
-  - entity_name: root nodule morphology trait
-    entity: TO:0000898
-  - entity_name: root nodule
-    entity: PO:0003023
+  - entity_name: root nitrogen content
+    entity: TO:0003074
+  - entity_name: root system iron content
+    entity: TO:1000034
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
 references:
-  - citation: Chen, Liu et al., 2015
-    doi: 10.3389/fpls.2015.00575
-    pmid: 26284091
-  - citation: Oellrich, Walls et al., 2015
-    doi: 10.1186/s13007-015-0053-y
-    pmid: 25774204
+  - citation: Castro-Rodríguez, Abreu et al., 2020
+    doi: 10.1093/jxb/eraa390
+    pmid: 32841350
 
 ---
 scientific_name: Medicago truncatula
@@ -184,7 +230,7 @@ comments:
   - The MtAP1 mutant developed proliferating mixtures of abnormal flowers,
       vegetative shoots or leaf-like structures at the end of pedicels instead
       of one or two flowers as seen on the WT
-  - MtAP1 was detectable in sepals and petals, but not in stamen primordia and
+  - MtAP1 was detectable in sepals and pet al., but not in stamen primordia and
       carpel primordia. In lates stage floral development MtAP1 is only found
       in the petals
   - MtAP1 represses MtTFL1 expression in floral meristems
@@ -200,6 +246,85 @@ references:
   - citation: Cheng, Li et al., 2018
     doi: 10.1242/dev.158766
     pmid: 29361570
+
+---
+scientific_name: Medicago truncatula
+classical locus: FD
+gene_symbols:
+  - MtFDa
+gene_symbol_long: FLOWERING LOCUS D a
+gene_model_pub_name: Medtr5g022870
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g022870
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtFDa is required for floral transition
+  - MtFDa mutant flowers late and double mutant MtFDa and MtFTA1 blocks floral
+      transition and does not flower at all
+  - MtFDa is required for secondary inflorescence identity and development
+  - MtFDa and MtFTa1 are required for the upregulation of inflorescence and
+      floral meristem identity genes
+  - MtFDa is epistatic to MtTFL1 in regulating inflorescence development
+  - MtFDa is epistatic to MtFULc in promoting flower development
+phenotype_synopsis: MtFDa is required for floral transition and upregulation of
+  secondary inflorescence development and floral meristem identity
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: days to flowering trait
+    entity: TO:0000344
+  - entity_name: secondary branching of inflorescence
+    entity: TO:0000142
+  - entity_name: floral meristem determinacy
+    entity: GO:0010582
+  - entity_name: inflorescence development
+    entity: GO:0010229
+references:
+  - citation: Cheng, Li et al., 2020
+    doi: 10.1093/plphys/kiaa005
+    pmid: 33631796
+  - citation: Cheng, Li et al., 2018
+    doi: 10.1242/dev.158766
+    pmid: 29361570
+
+---
+scientific_name: Medicago truncatula
+classical locus: FT
+gene_symbols:
+  - MtFTa1
+gene_symbol_long: FLOWERING LOCUS T a1
+gene_model_pub_name: Medtr7g084970
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g084970
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtFTa1 is required for floral transition
+  - MtFTa1 mutant flowers late and double mutant MtFDa and MtFTA1 blocks floral
+      transition and does not flower at all
+  - MtFTa1 mutant has delayed floral transition to the primary inflorescence
+      and delays the flowering of lateral branches, but has no effect on
+      secondary inflorescence development
+  - MtFDa and MtFTa1 are required for the upregulation of inflorescence and
+      floral meristem identity genes
+phenotype_synopsis: MtFDa is required for floral transition and upregulation of
+  secondary inflorescence development and floral meristem identity
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: days to flowering trait
+    entity: TO:0000344
+  - entity_name: vernalization response
+    entity: TO:0002616
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
+  - entity_name: inflorescence development
+    entity: GO:0010229
+references:
+  - citation: Cheng, Li et al., 2020
+    doi: 10.1093/plphys/kiaa005
+    pmid: 33631796
 
 ---
 scientific_name: Medicago truncatula
@@ -291,6 +416,32 @@ references:
   - citation: Cheng, Peng et al., 2012
     doi: 10.1111/j.1469-8137.2012.04147.x
     pmid: 22530598
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - HAP2.1
+gene_model_pub_name: Medtr1g056530
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Small and nonfunctional nodules arrested in growth when
+  both normally spliced and alternatively spliced variants repressed. When only
+  the alternative spliced form repressed the nodules are small but still fix
+  nitrogen successfully.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Chen, Liu et al., 2015
+    doi: 10.3389/fpls.2015.00575
+    pmid: 26284091
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
@@ -445,6 +596,83 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtBZR1
+gene_symbol_long: Brassinasole Resistant 1
+gene_model_pub_name: Medtr3g111680
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g111680
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtBZR1 is highly expressed in root tissue and moderately expressed in stem
+      and leaf
+  - MtBZR1 is induced in nodules following inoculation with S. meliloti
+  - There were no obvious developmental phenotype differences between MtBZR1
+      mutant and the wild type
+  - MtBZR1 mutant nodules are significantly smaller and lighter then wild type
+      nodules
+  - The number of nodules was similar between the MtBZR1 mutant and the wild
+      type
+  - There was a downregulation of differentially expressed genes involved in
+      flavonoid and isoflavonoid pathways in MtBZR1 mutant
+phenotype_synopsis: MtBZR1 plays a role in nodule development in Medicago
+  truncatula
+traits:
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: plant dry weight
+    entity: TO:0000352
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Cui, Wang et al., 2019
+    doi: 10.3390/ijms20122941
+    pmid: 31208116
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPLP
+gene_symbol_long: PETIOLULE-LIKE PULVINUS
+gene_model_pub_name: JN412594
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g077240
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtPLP is required for pulvinus development
+  - MtPLP mutants have leaflet and petiole abscission defects which increase
+      the breakstrength of the leaflet and petiole
+  - MtPLP mutants had their leaflet pulvini altered into petiolule-like
+      structures and the petiole pulvini into petiole-like structures
+  - MtPLP is highly expressed in vegetative buds and nodules and has low levels
+      of expression in the seed and leaf
+  - MtPLP mutants lack abscission zone formation
+  - MtPLP mutants have no leaflet and petiole abscission zone differentiation
+  - MtPLP regulates genes involved in hormonal homeostasis, cell wall
+      remodeling, and degradation
+phenotype_synopsis: MtPLP is required for pulvinus development and plays an
+  important role in leaflet and petiole abscission zone differentiation
+traits:
+  - entity_name: leaf shattering
+    entity: TO:0000108
+  - entity_name: leaf abscission
+    entity: GO:0060866
+  - entity_name: pulvinus
+    entity: PO:0009000
+  - entity_name: leaf abscission zone
+    entity: PO:0006501
+references:
+  - citation: Du, Lu et al., 2020
+    doi: 10.1111/pbi.13469
+    pmid: 32816361
+  - citation: Zhou, Han et al., 2012
+    doi: 10.1111/j.1469-8137.2012.04268.x
+    pmid: 22891817
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtCCD1
 gene_symbol_long: carotenoid cleavage dioxygenase 1
 gene_model_pub_name: CAR57918.1
@@ -502,6 +730,49 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtBG2
+gene_symbol_long: Beta Glucanase 2
+gene_model_pub_name: Medtr3g083580
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g083580
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Scott Kalberer
+comments:
+  - Expression of MtBG2, which encodes a proposed callose-degrading enzyme
+      β-1,3-glucanase 2, is localized to plasmodesmata in root tissues.
+  - Rhizobia inoculation induces expression of MtBG2 in cortical and epidermal
+      tissues.
+  - Overexpression of MtBG2 increases root nodule number.
+  - Suppression of MtBG2 causes defective root nodulation.
+  - Expression of MtBG2 increases cell to cell symplastic connectivity through
+      plasmodesmata.
+  - Root expression of MtBG2 increases plasmodesmatal callose degradation
+      during root nodulation.
+  - MtBG2, by opening a signaling pathway through symplastic connectivity, is
+      essential for the activation of transcription factors Nodule Inception
+      (NIN) and Nuclear Factor YA1 (NF-YA1).
+phenotype_synopsis: MtBG2 plays a role in root nodulation, root nodule number,
+  and callose degradation.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root development
+    entity: GO:0048364
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: cell wall modification
+    entity: GO:0042545
+  - entity_name: (1->3)-beta-D-glucan catabolic process
+    entity: GO:0006076
+references:
+  - citation: Gaudioso-Pedraza, Beck et al., 2018
+    doi: 10.1016/j.cub.2018.09.031
+    pmid: 30416059
 
 ---
 scientific_name: Medicago truncatula
@@ -920,6 +1191,169 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtRGF3
+gene_symbol_long: Root Meristem Growth Factor 3
+gene_model_pub_name: Medtr4g116360
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g116360
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtRGF3 expression was strongly induced after inoculation of rhizobia
+  - MtRGF3 is highly expressed in the root meristem, nodule primordia, young
+      root nodules and the apical zones of mature root nodules
+  - Exogenous application of synthetic MtRGF3 peptide suppresses nodulation
+  - Overexpression of MtRGF3 causes fewer nodules to be induced by rhizobia
+phenotype_synopsis: MtRGF3 suppresses nodulation in Medicago truncatula
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Li, Li et al., 2019
+    doi: 10.1016/j.bbrc.2019.12.017
+    pmid: 31831172
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtMSD1
+gene_symbol_long: MAIN STEM DWARF 1
+gene_model_pub_name: Medtr1g102070
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g102070
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtMSD1 is a candidate gene for a GA 20-oxidase enzyme expressed
+      predominantly in the main shoot apex that catalyzes the synthesis of
+      bioactive gibberelins from a C20-GA substrate
+  - MtMSD1 is expressed in flowers, axillary buds, stem, root, pods, leaf, and
+      shoot apices
+  - MtMSD1 has two homologs, MtGA20ox7 and MtGA20ox8, which together regulate
+      shoot length and leaf development
+phenotype_synopsis: MtMSD1 regulates the biosythesis of gibberellin oxidases
+  which control plant height
+traits:
+  - entity_name: stem internode morphology trait
+    entity: TO:0000756
+  - entity_name: stem elongation
+    entity: TO:0006036
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: plant cell length
+    entity: TO:0020107
+  - entity_name: gibberellin biosynthetic process
+    entity: GO:0009686
+references:
+  - citation: Li, Ma et al., 2021
+    doi: 10.3389/fpls.2021.709625
+    pmid: 34421956
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHDT1
+gene_symbol_long: Histone Deacetylase 1
+gene_model_pub_name: Medtr4g055440
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g055440
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtHDt1 is expressed in the root tips of Medicago
+  - There is high homology between Arabidopsis and Medicago HDTs
+  - MtHDT1 mutants had reduced nodule meristem size, nodule number and had low
+      rhizobial colonization in cells derived from the root meristem
+  - Knockdown of MtHDT1 inhibits nodule primordia development
+  - MtHDT1 could control nodule development by regulating the expression level
+      of MtHMGR1
+phenotype_synopsis: MtHDT1 plays a role in root development, nodule primordia
+  initiation and development, rhizobial colonization, and nodule meristem size
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root meristem development
+    entity: TO:0002692
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Li, Schilderink et al., 2021
+    doi: 10.1093/plphys/kiab140
+    pmid: 33744928
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHDT2
+gene_symbol_long: Histone Deacetylase 2
+gene_model_pub_name: Medtr2g084815
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g084815
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - There is high homology between Arabidopsis and Medicago HDTs
+  - MtHDT2 plays a similar role in root development as AtHDT1 and AtHDT2
+  - MtHDT2 mutants had reduced nodule meristem size, nodule number and had low
+      rhizobial colonization in cells derived from the root meristem
+  - MtHDT2 could control meristem activity, rhizobial release, and
+      intracellular accommodation of rhizobia
+  - MtHDT2 and MtHDT1 are expressed in the root tips; expression of MtHDT2 was
+      higher than MtHDT1
+  - Knockdown of MtHDT2 inhibits nodule primordia development
+  - MtHDT2 could control nodule development by regulating the expression level
+      of MtHMGR1
+phenotype_synopsis: MtHDT2 plays a role in root development, nodule primordia
+  initiation and development, rhizobial colonization, and nodule meristem size
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root meristem development
+    entity: TO:0002692
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Li, Schilderink et al., 2021
+    doi: 10.1093/plphys/kiab140
+    pmid: 33744928
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHDT3
+gene_symbol_long: Histone Deacetylase 3
+gene_model_pub_name: Medtr8g069135
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g069135
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtHDT3 is expressed in the root tips of Medicago
+  - There is high homology between Arabidopsis and Medicago HDTs
+  - MtHDT3 mutants had reduced nodule meristem size, nodule number and had low
+      rhizobial colonization in cells derived from the root meristem
+  - Knockdown of MtHDT3 inhibits nodule primordia development
+  - MtHDT3 could control nodule development by regulating the expression level
+      of MtHMGR1
+phenotype_synopsis: MtHDT3 plays a role in root development, nodule primordia
+  initiation and development, rhizobial colonization, and nodule meristem size
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root meristem development
+    entity: TO:0002692
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Li, Schilderink et al., 2021
+    doi: 10.1093/plphys/kiab140
+    pmid: 33744928
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - CYCLOPS
 gene_model_pub_name: Medtr5g026850
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g026850
@@ -1201,6 +1635,43 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNPD1
+gene_symbol_long: Nodule-Specific PLAT Domain 1
+gene_model_pub_name: Medtr2g103303
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g103303
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Scott Kalberer
+comments:
+  - MtNPD1 [Medicago truncatula Nodule-Specific Polycystin-1, Lipoxygenase,
+      α-toxin (PLAT) Domain] mutants have small and underdeveloped nodules.
+  - MtNPD1 is strongly expressed during root nodule development and followed
+      the invasion path of the symbiont.
+  - MtNPD1 is critical for rhizobia maintenance in nitrogen-fixing nodules.
+  - MtNPD1 supports the bacterial (Sinorhizobium meliloti) complete
+      differentiation into bacteroids in nodules.
+  - MtNPD1 could be a modulator of plant immunity during nodulation.
+  - MtNPD1 is a part of a group of five nodule-specific PLAT domain genes.
+phenotype_synopsis: MtNPD1 in involved in root nodule development, rhizobia
+  maintenance in nodules, and bacterial differentiation in nodules.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: bacteroid-containing symbiosome
+    entity: GO:0043660
+references:
+  - citation: Pislariu, Sinharoy et al., 2019
+    doi: 10.1104/pp.18.01613
+    pmid: 31061106
 
 ---
 scientific_name: Medicago truncatula
@@ -1551,6 +2022,52 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtCBS1
+gene_symbol_long: Cystathionine-β-Synthase-Like 1
+gene_model_pub_name: Medtr6g052300
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g052300
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Scott Kalberer
+comments:
+  - MtCBS1 mutants produced small nodules and were unable to fix nitrogen.
+  - MtCBS1 is required for propagation of infection threads and is critical for
+      bacterial endocytosis.
+  - MtCBS1 mutants had fewer infection threads then Wild Type and some formed
+      without rhizobia.
+  - MtCBS1 expression is localized in the infection thread matrix and
+      symbiosome areas.
+  - MtCBS1 acts downstream of nodulation factor signaling and expression was
+      only observed during the rhizobium symbiosis.
+  - MtCBS1 expression during symbiosis is dependent on the transcription factor
+      Nodule Inception (NIN).
+  - MtCBS1 could play a role in the formation of the infection thread cell
+      wall.
+  - MtCBS1 (Medtr6g052300) encodes a protein containing both a putative
+      membrane-localized domain of unknown function (DUF21) and a
+      cystathionine-β-synthase (CBS) domain.
+phenotype_synopsis: MtCBS1 plays a role in root nodule development, propagation
+  of infection threads, and bacterial endocytosis.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: positive regulation of endocytosis
+    entity: GO:0045807
+  - entity_name: biological process involved in interaction with symbiont
+    entity: GO:0051702
+references:
+  - citation: Sinharoy, Liu et al., 2016
+    doi: 10.1104/pp.15.01853
+    pmid: 26884486
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtTCP18
 gene_symbol_long: TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR
 gene_model_pub_name: Medtr4g111935
@@ -1575,9 +2092,45 @@ traits:
   - entity_name: Primary Branch number
     entity: TO:0000547
 references:
-  - citation: Su, Zheng etal., 2024
+  - citation: Su, Zheng et al., 2024
     doi: 10.3390/plants13071012
     pmid: 38611541
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtEPP1
+gene_symbol_long: EARLY PHOSPHORYLATED PROTIEN 1
+gene_model_pub_name: Medtr3g099200
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g099200
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtEPP1 shows high expression in roots, roots hairs and nodules, and a weak
+      expression in leaves and flowers
+  - MtEPP1 expression is up-regulated in root hairs when treated with Nod
+      factors (NF) which are lipo-chitooligosaccharides with specific chemical
+      decorations
+  - MtEPP1 is required to induce NF-induced root hair branching and nodule
+      formation and is required to activate the early stages of legume–rhizobia
+      symbiosis
+  - MtEPP1 is required to induce the calcium spiking triggered by NF
+  - MtEPP1 expression is induced in rhizobia-induced curled root hairs
+  - Down-regulation of MtEPP1 negatively affects nodule development
+phenotype_synopsis: MtEPP1 is required to induce early root nodule formation
+  and root hair branching
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: root hair
+    entity: GO:0035618
+references:
+  - citation: Valdés-López, Jayaraman et al.,, 2019
+    doi: 10.1093/pcp/pcy228
+    pmid: 30476329
 
 ---
 scientific_name: Medicago truncatula
@@ -1846,9 +2399,64 @@ references:
   - citation: Wang, Lu et al., 2022
     doi: 10.1093/jxb/erac112
     pmid: 35294003
-  - citation: Hasan, Singh et al. 2021
+  - citation: Hasan, Singh et al., 2021
     doi: 10.1371/journal.pone.0247170
     pmid: 33606812
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNAD1
+gene_symbol_long: Nodules With Activated Defense 1
+gene_model_pub_name: KX034079
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0222521
+confidence: 5
+curators:
+  - Raegan Nelson
+  - Scott Kalberer
+comments:
+  - MtNAD1 encodes a small uncharacterized protein with two predicted
+      transmembrane helices localized to the endoplasmic reticulum (ER).
+  - MtNAD1 is required for root nodule development and symbiotic nitrogen
+      fixation.
+  - MtNAD1 is required for rhizobial colonization in root nodules.
+  - MtNAD1 isn't required for the early symbiosis stage of rhizobial
+      propagation via infection threads and nodule primordium formation.
+  - For Mtnad1 mutant plants the symbiotic root tissues become necrotic
+      following release of rhizobia from infection threads into nodule host
+      cells. Defense-associated responses detected in Mtnad1 nodules resembled
+      the pathogen-triggered hypersensitive response and resulted in death of
+      both plant and rhizobial cells.
+  - Expression of the plant defense-related genes shifted from suppression in
+      the MtNAD1 wild-type to an activated state in Mtnad1 nodules. In
+      particular, there was greater transcription of R proteins that recognize
+      and bind specific effectors on rhizobia and induce programmed cell death.
+  - MtNAD1 is somehow associated with supression of the plant immune system
+      during nodulation.
+  - MtNAD1 could be involved in ER stress signaling linked to plant immune
+      responses that cause subsequent defects in endosymbiosis. Alternatively,
+      MtNAD1 might function within the ER secretory pathway that maintains the
+      rhizobial endosymbiosis and its failure would then result in plant
+      defensive reactions.
+phenotype_synopsis: MtNAD1 plays a role in root nodule development and
+  rhizobial colonization in root nodules.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogen content
+    entity: TO:0020093
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: plant-type hypersensitive response
+    entity: GO:0009626
+references:
+  - citation: Wang, Yu et al., 2016
+    doi: 10.1111/nph.14017
+    pmid: 27245091
 
 ---
 scientific_name: Medicago truncatula
@@ -1929,9 +2537,129 @@ traits:
   - entity_name: negative regulation of leaf senescence
     entity: GO:1900056
 references:
-  - citation: Xing, Weng etal., 2024
+  - citation: Xing, Weng et al., 2024
     doi: 10.3390/ijms251910410
     pmid: 39408738
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPIN1
+gene_symbol_long: Pin Formed 1
+gene_model_pub_name: MTR_4g084870
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g084870
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - MtPIN1 was highly expressed in petiole, juvenile leaf, and flowers
+  - MtPIN1 works with MtPIN3 to regulate the development of leaf size and
+      petiole length
+  - Double mutant MtPIN1 and MtPIN3 showed increased auxin levels in leaves and
+      petiole and increased auxin responsiveness
+  - MtPIN1 could play a role in auxin transport
+  - Double mutant MtPIN1 and MtPIN3 had longer petioles, smaller leaves, and
+      higher chlorophyll content under normal growth conditions, which is
+      consistent with the constitutive shade avoidance responses phenotype
+phenotype_synopsis: MtPIN1 plays a role in the development of leaf size and
+  petiole length and could play a role in auxin transport
+traits:
+  - entity_name: petiole length
+    entity: TO:0000766
+  - entity_name: leaf size
+    entity: TO:0002637
+  - entity_name: auxin sensitivity
+    entity: TO:0000163
+  - entity_name: chlorophyll content
+    entity: TO:0000495
+  - entity_name: auxin content
+    entity: TO:0002672
+references:
+  - citation: Zhang, Liu et al., 2020
+    doi: 10.3390/ijms21228742
+    pmid: 33228084
+  - citation: Sańko-Sawczenko, Łotocka et al., 2016
+    doi: 10.3390/ijms17081197
+    pmid: 27463709
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtPIN3
+gene_symbol_long: Pin Formed 3
+gene_model_pub_name: MTR_1g030890
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g030890
+confidence: 4
+curators:
+  - Raegan Nelson
+comments:
+  - MtPIN3 was highly expressed in petiole, juvenile leaf, and adult leaf
+  - MtPIN3 works with MtPIN1 to regulate the development of leaf size and
+      petiole length
+  - Double mutant MtPIN1 and MtPIN3 showed increased auxin levels in leaves and
+      petiole and increased auxin responsiveness.
+  - MtPIN3 could play a role in auxin transport
+  - Double mutant MtPIN1 and MtPIN3 had longer petioles, longer internodes, and
+      higher chlorophyll content under normal growth conditions, which is
+      consistent with the constitutive shade avoidance responses phenotype
+phenotype_synopsis: MtPIN3 plays a role in the development of leaf size and
+  petiole length and could play a role in auxin transport
+traits:
+  - entity_name: petiole length
+    entity: TO:0000766
+  - entity_name: leaf size
+    entity: TO:0002637
+  - entity_name: auxin sensitivity
+    entity: TO:0000163
+  - entity_name: chlorophyll content
+    entity: TO:0000495
+  - entity_name: auxin content
+    entity: TO:0002672
+references:
+  - citation: Zhang, Liu et al., 2020
+    doi: 10.3390/ijms21228742
+    pmid: 33228084
+  - citation: Sańko-Sawczenko, Łotocka et al., 2016
+    doi: 10.3390/ijms17081197
+    pmid: 27463709
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSSP1
+gene_symbol_long: smooth seedpod 1
+gene_model_pub_name: Medtr4g039430
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g039430
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtSSp1 mutants show no seedpod spine formation
+  - MtSSP1 mutants have twisted stem and petiole, curly leaves, and are shorter
+      then wild type
+  - MtSSP1 is a homologous gene of Arabidopsis TWD1 and has conserved function
+      in plant growth and development
+  - MtSSP1 could control seedpod spine and plant organ development by
+      regulating auxin distribution
+  - MtSSP1 encodes immunophilin-like FK506-binding protein which is linked to
+      the auxin transport pathway
+phenotype_synopsis: MtSSP1 is involved in seedpod spine, leaf petiole, and stem
+  development
+traits:
+  - entity_name: petiole shape
+    entity: TO:0000767
+  - entity_name: stem shape
+    entity: TO:0000893
+  - entity_name: stem length
+    entity: TO:0000576
+  - entity_name: exocarp texture
+    entity: TO:0002624
+  - entity_name: auxin transport
+    entity: GO:0060918
+references:
+  - citation: Zhao, Chai et al., 2021
+    doi: 10.1093/jxb/erab359
+    pmid: 34329408
 
 ---
 scientific_name: Medicago truncatula
@@ -1995,7 +2723,7 @@ traits:
   - entity_name: Leaf size
     entity: TO:0002637
 references:
-  - citation: Zhou, Yang et al,. 2021
+  - citation: Zhou, Yang et al., 2021
     doi: 10.1093/jxb/erab033
     pmid: 33506247
 
@@ -2022,7 +2750,38 @@ traits:
   - entity_name: Leaf size
     entity: TO:0002637
 references:
-  - citation: Zhou, Yang et al,. 2021
+  - citation: Zhou, Yang et al., 2021
     doi: 10.1093/jxb/erab033
     pmid: 33506247
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtHSFA9
+gene_symbol_long: HEAT SHOCK FACTOR A 9
+gene_model_pub_name: Medtr4g126070
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g126070
+confidence: 5
+curators:
+  - Raegan Nelson
+comments:
+  - MtHSFA9 is predominantly expressed in seed tissues, with the highest
+      transcript levels at the end of seed maturation
+  - A moderate level of MtHSFA9 transcripts were found in stocks that were in
+      severe drought
+  - The absence of MtHSFA9 doubled the mean germenation time
+  - MtHSFA9 plays a role in thermotolerance during wet storage
+  - MtHSFA9 regulates the depth of seed dormancy during late maturation by ABA
+      signaling
+phenotype_synopsis: MtHSFA9 regulates seed dormancy and plays a role in
+  thermotolerance
+traits:
+  - entity_name: seed dormancy
+    entity: TO:0000253
+  - entity_name: seed dormancy process
+    entity: GO:0010162
+references:
+  - citation: Zinsmeister, Berriri et al., 2020
+    doi: 10.1111/pce.13853
+    pmid: 32683703
 

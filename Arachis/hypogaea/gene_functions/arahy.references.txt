@@ -1,4 +1,1135 @@
 ##### PUB RECORD #####
+## 10.1016/j.molp.2019.03.005  30902685  Chen, Lu et al., 2019  Chen X, Lu Q, Liu H, Zhang J, Hong Y, Lan H, Li H, Wang J, Liu H, Li S, Pandey MK, Zhang Z, Zhou G, Yu J, Zhang G, Yuan J, Li X, Wen S, Meng F, Yu S, Wang X, Siddique KHM, Liu ZJ, Paterson AH, Varshney RK, Liang X. Sequencing of Cultivated Peanut, Arachis hypogaea, Yields Insights into Genome Evolution and Oil Improvement. Mol Plant. 2019 Jul 1;12(7):920-934. doi: 10.1016/j.molp.2019.03.005. Epub 2019 Mar 19. PMID: 30902685. ##
+
+PMID- 30902685
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200327
+LR  - 20220409
+IS  - 1752-9867 (Electronic)
+IS  - 1674-2052 (Linking)
+VI  - 12
+IP  - 7
+DP  - 2019 Jul 1
+TI  - Sequencing of Cultivated Peanut, Arachis hypogaea, Yields Insights into Genome 
+      Evolution and Oil Improvement.
+PG  - 920-934
+LID - S1674-2052(19)30096-6 [pii]
+LID - 10.1016/j.molp.2019.03.005 [doi]
+AB  - Cultivated peanut (Arachis hypogaea) is an allotetraploid crop planted in Asia, 
+      Africa, and America for edible oil and protein. To explore the origins and 
+      consequences of tetraploidy, we sequenced the allotetraploid A. hypogaea genome 
+      and compared it with the related diploid Arachis duranensis and Arachis ipaensis 
+      genomes. We annotated 39 888 A-subgenome genes and 41 526 B-subgenome genes in 
+      allotetraploid peanut. The A. hypogaea subgenomes have evolved asymmetrically, 
+      with the B subgenome resembling the ancestral state and the A subgenome 
+      undergoing more gene disruption, loss, conversion, and transposable element 
+      proliferation, and having reduced gene expression during seed development despite 
+      lacking genome-wide expression dominance. Genomic and transcriptomic analyses 
+      identified more than 2 500 oil metabolism-related genes and revealed that most of 
+      them show altered expression early in seed development while their expression 
+      ceases during desiccation, presenting a comprehensive map of peanut lipid 
+      biosynthesis. The availability of these genomic resources will facilitate a 
+      better understanding of the complex genome architecture, agronomically and 
+      economically important genes, and genetic improvement of peanut.
+CI  - Copyright (c) 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Chen, Xiaoping
+AU  - Chen X
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China. Electronic 
+      address: chenxiaoping@gdaas.cn.
+FAU - Lu, Qing
+AU  - Lu Q
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Liu, Hao
+AU  - Liu H
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Zhang, Jianan
+AU  - Zhang J
+AD  - National Foxtail Millet Improvement Center, Minor Cereal Crops Laboratory of 
+      Hebei Province, Institute of Millet Crops, Hebei Academy of Agriculture and 
+      Forestry Sciences, Shijiazhuang, China.
+FAU - Hong, Yanbin
+AU  - Hong Y
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Lan, Haofa
+AU  - Lan H
+AD  - MolBreeding Biotechnology Co., Ltd., Shijiazhuang, China.
+FAU - Li, Haifen
+AU  - Li H
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Wang, Jinpeng
+AU  - Wang J
+AD  - School of Life Sciences and Center for Genomics and Computational Biology, North 
+      China University of Science and Technology, Tangshan, China.
+FAU - Liu, Haiyan
+AU  - Liu H
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Li, Shaoxiong
+AU  - Li S
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Pandey, Manish K
+AU  - Pandey MK
+AD  - Center of Excellence in Genomics & Systems Biology, International Crops Research 
+      Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, India.
+FAU - Zhang, Zhikang
+AU  - Zhang Z
+AD  - School of Life Sciences and Center for Genomics and Computational Biology, North 
+      China University of Science and Technology, Tangshan, China.
+FAU - Zhou, Guiyuan
+AU  - Zhou G
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Yu, Jigao
+AU  - Yu J
+AD  - School of Life Sciences and Center for Genomics and Computational Biology, North 
+      China University of Science and Technology, Tangshan, China.
+FAU - Zhang, Guoqiang
+AU  - Zhang G
+AD  - Shenzhen Key Laboratory for Orchid Conservation and Utilization, National Orchid 
+      Conservation Center of China and Orchid Conservation and Research Center of 
+      Shenzhen, Shenzhen, China.
+FAU - Yuan, Jiaqing
+AU  - Yuan J
+AD  - School of Life Sciences and Center for Genomics and Computational Biology, North 
+      China University of Science and Technology, Tangshan, China.
+FAU - Li, Xingyu
+AU  - Li X
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Wen, Shijie
+AU  - Wen S
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China.
+FAU - Meng, Fanbo
+AU  - Meng F
+AD  - School of Life Sciences and Center for Genomics and Computational Biology, North 
+      China University of Science and Technology, Tangshan, China.
+FAU - Yu, Shanlin
+AU  - Yu S
+AD  - Shandong Peanut Research Institute, Shandong Academy of Agricultural Sciences, 
+      Qingdao, China.
+FAU - Wang, Xiyin
+AU  - Wang X
+AD  - School of Life Sciences and Center for Genomics and Computational Biology, North 
+      China University of Science and Technology, Tangshan, China.
+FAU - Siddique, Kadambot H M
+AU  - Siddique KHM
+AD  - UWA Institute of Agriculture, The University of Western Australia, Crawley, 
+      Australia.
+FAU - Liu, Zhong-Jian
+AU  - Liu ZJ
+AD  - Key Laboratory of National Forestry and Grassland Administration for Orchid 
+      Conservation and Utilization at College of Landscape Architecture, Fujian 
+      Agriculture and Forestry University, Fuzhou 350002, China; Fujian Colleges and 
+      Universities Engineering Research Institute of Conservation and Utilization of 
+      Natural Bioresources, College of Forestry, Fujian Agriculture and Forestry 
+      University, Fuzhou 350002, China. Electronic address: zjliu@fafu.edu.cn.
+FAU - Paterson, Andrew H
+AU  - Paterson AH
+AD  - Plant Genome Mapping Laboratory, University of Georgia, Athens, USA. Electronic 
+      address: paterson@uga.edu.
+FAU - Varshney, Rajeev K
+AU  - Varshney RK
+AD  - Center of Excellence in Genomics & Systems Biology, International Crops Research 
+      Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, India. Electronic 
+      address: r.k.varshney@cgiar.org.
+FAU - Liang, Xuanqiang
+AU  - Liang X
+AD  - South China Peanut Sub-center of National Center of Oilseed Crops Improvement, 
+      Guangdong Key Laboratory for Crops Genetic Improvement, Crops Research Institute, 
+      Guangdong Academy of Agricultural Sciences (GAAS), Guangzhou, China. Electronic 
+      address: liangxuanqiang@gdaas.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190319
+PL  - England
+TA  - Mol Plant
+JT  - Molecular plant
+JID - 101465514
+RN  - 0 (Peanut Oil)
+SB  - IM
+MH  - *Arachis/genetics
+MH  - Genome, Plant
+MH  - Lipid Metabolism/*genetics
+MH  - Peanut Oil/*metabolism
+MH  - Phylogeny
+MH  - Sequence Analysis, DNA
+MH  - Transcriptome/genetics
+MH  - Whole Genome Sequencing
+OTO - NOTNLM
+OT  - comparative genomics
+OT  - cultivated peanut
+OT  - de novo sequencing
+OT  - genome evolution
+OT  - oil metabolism
+EDAT- 2019/03/25 06:00
+MHDA- 2020/03/28 06:00
+CRDT- 2019/03/24 06:00
+PHST- 2019/01/25 00:00 [received]
+PHST- 2019/02/21 00:00 [revised]
+PHST- 2019/03/10 00:00 [accepted]
+PHST- 2019/03/25 06:00 [pubmed]
+PHST- 2020/03/28 06:00 [medline]
+PHST- 2019/03/24 06:00 [entrez]
+AID - S1674-2052(19)30096-6 [pii]
+AID - 10.1016/j.molp.2019.03.005 [doi]
+PST - ppublish
+SO  - Mol Plant. 2019 Jul 1;12(7):920-934. doi: 10.1016/j.molp.2019.03.005. Epub 2019 
+      Mar 19.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2024.1363251  38742211  Chen, Wang et al., 2024  Chen B, Wang X, Yu H, Dong N, Li J, Chang X, Wang J, Jiang C, Liu J, Chi X, Zha L, Gui S. Genome-wide analysis of UDP-glycosyltransferases family and identification of UGT genes involved in drought stress of <i>Platycodon grandiflorus</i>. Front Plant Sci. 2024 Apr 29;15:1363251. doi: 10.3389/fpls.2024.1363251. PMID: 38742211; PMCID: PMC11089202. ##
+
+PMID- 38742211
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240515
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 15
+DP  - 2024
+TI  - Genome-wide analysis of UDP-glycosyltransferases family and identification of UGT 
+      genes involved in drought stress of Platycodon grandiflorus.
+PG  - 1363251
+LID - 10.3389/fpls.2024.1363251 [doi]
+LID - 1363251
+AB  - INTRODUCTION: The uridine diphosphate (UDP)-glycosyltransferase (UGT) family is 
+      the largest glycosyltransferase family, which is involved in the biosynthesis of 
+      natural plant products and response to abiotic stress. UGT has been studied in 
+      many medicinal plants, but there are few reports on Platycodon grandiflorus. This 
+      study is devoted to genome-wide analysis of UGT family and identification of UGT 
+      genes involved in drought stress of Platycodon grandiflorus (PgUGTs). METHODS: 
+      The genome data of Platycodon grandiflorus was used for genome-wide 
+      identification of PgUGTs, online website and bioinformatics analysis software was 
+      used to conduct bioinformatics analysis of PgUGT genes and the genes highly 
+      responsive to drought stress were screened out by qRT-PCR, these genes were 
+      cloned and conducted bioinformatics analysis. RESULTS: A total of 75 PgUGT genes 
+      were identified in P.grandiflorus genome and clustered into 14 subgroups. The 
+      PgUGTs were distributed on nine chromosomes, containing multiple cis-acting 
+      elements and 22 pairs of duplicate genes were identified. Protein-protein 
+      interaction analysis was performed to predict the interaction between PgUGT 
+      proteins. Additionally, six genes were upregulated after 3d under drought stress 
+      and three genes (PGrchr09G0563, PGrchr06G0523, PGrchr06G1266) responded 
+      significantly to drought stress, as confirmed by qRT-PCR. This was especially 
+      true for PGrchr06G1266, the expression of which increased 16.21-fold after 3d of 
+      treatment. We cloned and conducted bioinformatics analysis of three candidate 
+      genes, both of which contained conserved motifs and several cis-acting elements 
+      related to stress response, PGrchr06G1266 contained the most elements. 
+      DISCUSSION: PgGT1 was confirmed to catalyze the C-3 position of platycodin D and 
+      only eight amino acids showed differences between gene PGr008G1527 and PgGT1, 
+      which means PGr008G1527 may be able to catalyze the C-3 position of platycodin D 
+      in the same manner as PgGT1. Seven genes were highly expressed in the roots, 
+      stems, and leaves, these genes may play important roles in the development of the 
+      roots, stems, and leaves of P. grandiflorus. Three genes were highly responsive 
+      to drought stress, among which the expression of PGrchr06G1266 was increased 
+      16.21-fold after 3d of drought stress treatment, indicating that PGrchr06G1266 
+      plays an important role in drought stress tolerance. To summarize, this study 
+      laied the foundation to better understand the molecular bases of responses to 
+      drought stress and the biosynthesis of platycodin.
+CI  - Copyright (c) 2024 Chen, Wang, Yu, Dong, Li, Chang, Wang, Jiang, Liu, Chi, Zha and 
+      Gui.
+FAU - Chen, Bowen
+AU  - Chen B
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Wang, Xinrui
+AU  - Wang X
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Yu, Hanwen
+AU  - Yu H
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Dong, Nan
+AU  - Dong N
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Li, Jing
+AU  - Li J
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Chang, Xiangwei
+AU  - Chang X
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Wang, Jutao
+AU  - Wang J
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Jiang, Chao
+AU  - Jiang C
+AD  - State Key Laboratory of Dao-Di Herbs, National Resource Center for Chinese 
+      Materia Medica, China Academy of Chinese Medical Sciences, Beijing, China.
+AD  - Chinese Academy of Medical Sciences Research Unit (No. 2019RU057), National 
+      Resource Center for Chinese Materia Medica, China Academy of Chinese Medical 
+      Sciences, Beijing, China.
+FAU - Liu, Juan
+AU  - Liu J
+AD  - Chinese Academy of Medical Sciences Research Unit (No. 2019RU057), National 
+      Resource Center for Chinese Materia Medica, China Academy of Chinese Medical 
+      Sciences, Beijing, China.
+FAU - Chi, Xiulian
+AU  - Chi X
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+FAU - Zha, Liangping
+AU  - Zha L
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Institute of Conservation and Development of Traditional Chinese Medicine 
+      Resources, Anhui Academy of Chinese Medicine, Hefei, China.
+AD  - Anhui Province Key Laboratory of Research and Development of Chinese Medicine, 
+      Hefei, China.
+FAU - Gui, Shuangying
+AU  - Gui S
+AD  - College of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Center for Xin'an Medicine and Modernization of Traditional Chinese Medicine of 
+      IHM, Anhui University of Chinese Medicine, Hefei, China.
+AD  - Institute of Pharmaceutics, Anhui Academy of Chinese Medicine, Hefei, China.
+AD  - Anhui Province Key Laboratory of Pharmaceutical Technology and Application Anhui 
+      University of Chinese Medicine, Hefei, China.
+AD  - MOE-Anhui Joint Collaborative Innovation Center for Quality Improvement of Anhui 
+      Genuine Chinese Medicinal Materials, Hefei, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20240429
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC11089202
+OTO - NOTNLM
+OT  - Platycodon grandiflorus
+OT  - UDP-glycosyltransferase
+OT  - drought stress
+OT  - expression analysis
+OT  - genome-wide identification
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/05/14 06:42
+MHDA- 2024/05/14 06:43
+PMCR- 2024/01/01
+CRDT- 2024/05/14 03:46
+PHST- 2023/12/30 00:00 [received]
+PHST- 2024/04/15 00:00 [accepted]
+PHST- 2024/05/14 06:43 [medline]
+PHST- 2024/05/14 06:42 [pubmed]
+PHST- 2024/05/14 03:46 [entrez]
+PHST- 2024/01/01 00:00 [pmc-release]
+AID - 10.3389/fpls.2024.1363251 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2024 Apr 29;15:1363251. doi: 10.3389/fpls.2024.1363251. 
+      eCollection 2024.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2016.01446  27746793  Clevenger, Chu et al., 2016  Clevenger J, Chu Y, Scheffler B, Ozias-Akins P. A Developmental Transcriptome Map for Allotetraploid <i>Arachis hypogaea</i>. Front Plant Sci. 2016 Sep 30;7:1446. doi: 10.3389/fpls.2016.01446. PMID: 27746793; PMCID: PMC5043296. ##
+
+PMID- 27746793
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220330
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 7
+DP  - 2016
+TI  - A Developmental Transcriptome Map for Allotetraploid Arachis hypogaea.
+PG  - 1446
+LID - 1446
+AB  - The advent of the genome sequences of Arachis duranensis and Arachis ipaensis has 
+      ushered in a new era for peanut genomics. With the goal of producing a gene atlas 
+      for cultivated peanut (Arachis hypogaea), 22 different tissue types and 
+      ontogenies that represent the full development of peanut were sequenced, 
+      including a complete reproductive series from flower to peg elongation and peg 
+      tip immersion in the soil to fully mature seed. Using a genome-guided assembly 
+      pipeline, a homeolog-specific transcriptome assembly for Arachis hypogaea was 
+      assembled and its accuracy was validated. The assembly was used to annotate 21 
+      developmental co-expression networks as tools for gene discovery. Using a set of 
+      8816 putative homeologous gene pairs, homeolog expression bias was documented, 
+      and although bias was mostly balanced, there were striking differences in 
+      expression bias in a tissue-specific context. Over 9000 alterative splicing 
+      events and over 6000 non-coding RNAs were further identified and profiled in a 
+      developmental context. Together, this work represents a major new resource for 
+      cultivated peanut and will be integrated into peanutbase.org as an available 
+      resource for all peanut researchers.
+FAU - Clevenger, Josh
+AU  - Clevenger J
+AD  - Institute of Plant Breeding, Genetics, and Genomics, University of Georgia 
+      Tifton, GA, USA.
+FAU - Chu, Ye
+AU  - Chu Y
+AD  - Institute of Plant Breeding, Genetics, and Genomics, University of Georgia 
+      Tifton, GA, USA.
+FAU - Scheffler, Brian
+AU  - Scheffler B
+AD  - United States Department of Agriculture - Agricultural Research Service, Genomics 
+      and Bioinformatics Research Unit Stoneville, MS, USA.
+FAU - Ozias-Akins, Peggy
+AU  - Ozias-Akins P
+AD  - Institute of Plant Breeding, Genetics, and Genomics, University of Georgia 
+      Tifton, GA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20160930
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC5043296
+OTO - NOTNLM
+OT  - Arachis hypogaea
+OT  - PRJNA291488
+OT  - alternative splicing
+OT  - developmental co-expression networks
+OT  - homeolog expression bias
+OT  - non-coding RNA
+OT  - transcriptomics
+EDAT- 2016/10/18 06:00
+MHDA- 2016/10/18 06:01
+PMCR- 2016/01/01
+CRDT- 2016/10/18 06:00
+PHST- 2016/07/19 00:00 [received]
+PHST- 2016/09/12 00:00 [accepted]
+PHST- 2016/10/18 06:00 [entrez]
+PHST- 2016/10/18 06:00 [pubmed]
+PHST- 2016/10/18 06:01 [medline]
+PHST- 2016/01/01 00:00 [pmc-release]
+AID - 10.3389/fpls.2016.01446 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2016 Sep 30;7:1446. doi: 10.3389/fpls.2016.01446. eCollection 
+      2016.
+
+
+##### PUB RECORD #####
+## 10.1111/pbi.13311  31808273  Gangurde, Wang et al., 2020  Gangurde SS, Wang H, Yaduru S, Pandey MK, Fountain JC, Chu Y, Isleib T, Holbrook CC, Xavier A, Culbreath AK, Ozias-Akins P, Varshney RK, Guo B. Nested-association mapping (NAM)-based genetic dissection uncovers candidate genes for seed and pod weights in peanut (Arachis hypogaea). Plant Biotechnol J. 2020 Jun;18(6):1457-1471. doi: 10.1111/pbi.13311. Epub 2019 Dec 25. PMID: 31808273; PMCID: PMC7206994. ##
+
+PMID- 31808273
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201102
+LR  - 20201102
+IS  - 1467-7652 (Electronic)
+IS  - 1467-7644 (Print)
+IS  - 1467-7644 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2020 Jun
+TI  - Nested-association mapping (NAM)-based genetic dissection uncovers candidate 
+      genes for seed and pod weights in peanut (Arachis hypogaea).
+PG  - 1457-1471
+LID - 10.1111/pbi.13311 [doi]
+AB  - Multiparental genetic mapping populations such as nested-association mapping 
+      (NAM) have great potential for investigating quantitative traits and associated 
+      genomic regions leading to rapid discovery of candidate genes and markers. To 
+      demonstrate the utility and power of this approach, two NAM populations, 
+      NAM_Tifrunner and NAM_Florida-07, were used for dissecting genetic control of 
+      100-pod weight (PW) and 100-seed weight (SW) in peanut. Two high-density 
+      SNP-based genetic maps were constructed with 3341 loci and 2668 loci for 
+      NAM_Tifrunner and NAM_Florida-07, respectively. The quantitative trait locus 
+      (QTL) analysis identified 12 and 8 major effect QTLs for PW and SW, respectively, 
+      in NAM_Tifrunner, and 13 and 11 major effect QTLs for PW and SW, respectively, in 
+      NAM_Florida-07. Most of the QTLs associated with PW and SW were mapped on the 
+      chromosomes A05, A06, B05 and B06. A genomewide association study (GWAS) analysis 
+      identified 19 and 28 highly significant SNP-trait associations (STAs) in 
+      NAM_Tifrunner and 11 and 17 STAs in NAM_Florida-07 for PW and SW, respectively. 
+      These significant STAs were co-localized, suggesting that PW and SW are 
+      co-regulated by several candidate genes identified on chromosomes A05, A06, B05, 
+      and B06. This study demonstrates the utility of NAM population for genetic 
+      dissection of complex traits and performing high-resolution trait mapping in 
+      peanut.
+CI  - (c) 2019 The Authors. Plant Biotechnology Journal published by Society for 
+      Experimental Biology and The Association of Applied Biologists and John Wiley & 
+      Sons Ltd.
+FAU - Gangurde, Sunil S
+AU  - Gangurde SS
+AUID- ORCID: 0000-0001-7119-8649
+AD  - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), 
+      Hyderabad, India.
+FAU - Wang, Hui
+AU  - Wang H
+AD  - Crop Protection and Management Research Unit, USDA-ARS, Tifton, GA, USA.
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA, USA.
+FAU - Yaduru, Shasidhar
+AU  - Yaduru S
+AD  - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), 
+      Hyderabad, India.
+AD  - Crop Protection and Management Research Unit, USDA-ARS, Tifton, GA, USA.
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA, USA.
+FAU - Pandey, Manish K
+AU  - Pandey MK
+AUID- ORCID: 0000-0002-4101-6530
+AD  - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), 
+      Hyderabad, India.
+FAU - Fountain, Jake C
+AU  - Fountain JC
+AD  - Crop Protection and Management Research Unit, USDA-ARS, Tifton, GA, USA.
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA, USA.
+FAU - Chu, Ye
+AU  - Chu Y
+AD  - Horticulture Department, University of Georgia, Tifton, GA, USA.
+FAU - Isleib, Thomas
+AU  - Isleib T
+AD  - Department of Crop and Soil Sciences, North Carolina State University, Raleigh, 
+      NC, USA.
+FAU - Holbrook, C Corley
+AU  - Holbrook CC
+AD  - Crop Genetics and Breeding Research Unit, USDA-ARS, Tifton, GA, USA.
+FAU - Xavier, Alencar
+AU  - Xavier A
+AD  - Biostatistics, Corteva Agrisciences, Johnston, IA, USA.
+FAU - Culbreath, Albert K
+AU  - Culbreath AK
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA, USA.
+FAU - Ozias-Akins, Peggy
+AU  - Ozias-Akins P
+AD  - Horticulture Department, University of Georgia, Tifton, GA, USA.
+FAU - Varshney, Rajeev K
+AU  - Varshney RK
+AUID- ORCID: 0000-0002-4562-9131
+AD  - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), 
+      Hyderabad, India.
+FAU - Guo, Baozhu
+AU  - Guo B
+AUID- ORCID: 0000-0002-9079-7126
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20191225
+PL  - England
+TA  - Plant Biotechnol J
+JT  - Plant biotechnology journal
+JID - 101201889
+SB  - IM
+MH  - *Arachis/genetics
+MH  - Chromosome Mapping
+MH  - Genetic Linkage
+MH  - Genome-Wide Association Study
+MH  - Phenotype
+MH  - *Quantitative Trait Loci/genetics
+MH  - Seeds/genetics
+PMC - PMC7206994
+OTO - NOTNLM
+OT  - association mapping
+OT  - candidate genes
+OT  - linkage mapping
+OT  - nested-association mapping
+OT  - peanut
+OT  - pod weight
+OT  - seed weight
+COIS- The authors declare that there is no conflict of interests.
+EDAT- 2019/12/07 06:00
+MHDA- 2020/11/03 06:00
+PMCR- 2020/05/08
+CRDT- 2019/12/07 06:00
+PHST- 2019/10/11 00:00 [received]
+PHST- 2019/11/13 00:00 [revised]
+PHST- 2019/11/15 00:00 [accepted]
+PHST- 2019/12/07 06:00 [pubmed]
+PHST- 2020/11/03 06:00 [medline]
+PHST- 2019/12/07 06:00 [entrez]
+PHST- 2020/05/08 00:00 [pmc-release]
+AID - PBI13311 [pii]
+AID - 10.1111/pbi.13311 [doi]
+PST - ppublish
+SO  - Plant Biotechnol J. 2020 Jun;18(6):1457-1471. doi: 10.1111/pbi.13311. Epub 2019 
+      Dec 25.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plaphy.2025.110475  40915113  Li, Li et al., 2025  Li J, Li M, Dai Y, Lai S, Zhang S. The role of XTHs in cell wall immobilization of metal ions. Plant Physiol Biochem. 2025 Dec;229(Pt B):110475. doi: 10.1016/j.plaphy.2025.110475. Epub 2025 Sep 3. PMID: 40915113. ##
+
+PMID- 40915113
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251212
+LR  - 20251216
+IS  - 1873-2690 (Electronic)
+IS  - 0981-9428 (Linking)
+VI  - 229
+IP  - Pt B
+DP  - 2025 Dec
+TI  - The role of XTHs in cell wall immobilization of metal ions.
+PG  - 110475
+LID - S0981-9428(25)01003-4 [pii]
+LID - 10.1016/j.plaphy.2025.110475 [doi]
+AB  - Toxic metal ion contamination poses a significant environmental challenge, 
+      severely impacting plant growth, development, and reproduction. To cope with 
+      metal-induced stress, plants have evolved diverse molecular and physiological 
+      mechanisms. Among these, the xyloglucan endotransglucosylase/hydrolase (XTH) gene 
+      family, which encodes enzymes responsible for cell wall remodeling, plays a 
+      crucial role in enhancing plant resilience to metal ion stress. This review 
+      summarizes recent advances in understanding the regulatory mechanisms of XTHs in 
+      response to metal ions, with a particular focus on their expression patterns and 
+      functional roles under Cd(2+), Pb(2+), Hg(2+) Mg(2+) and especially Al(3+) 
+      stress. The review also discusses the roles of XTHs in cell wall remodeling and 
+      metal ion immobilization, which have been extensively investigated. In essence, 
+      plants regulate XTH gene expression and XET enzyme activity in response to 
+      diverse metal ions, thereby modifying the xyloglucan structure within the cell 
+      wall to enhance metal stress tolerance and support healthy growth. These insights 
+      not only deepen our understanding of plant metal tolerance mechanisms but also 
+      offer a theoretical foundation and practical strategies for developing crops with 
+      enhanced resistance to metal ion contamination.
+CI  - Copyright (c) 2025 Elsevier Masson SAS. All rights reserved.
+FAU - Li, Jing
+AU  - Li J
+AD  - Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, 
+      College of Life Sciences, Sichuan University, Chengdu, 610065, China.
+FAU - Li, Menghan
+AU  - Li M
+AD  - Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, 
+      College of Life Sciences, Sichuan University, Chengdu, 610065, China.
+FAU - Dai, Yujie
+AU  - Dai Y
+AD  - Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, 
+      College of Life Sciences, Sichuan University, Chengdu, 610065, China.
+FAU - Lai, Shiyi
+AU  - Lai S
+AD  - Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, 
+      College of Life Sciences, Sichuan University, Chengdu, 610065, China.
+FAU - Zhang, Sheng
+AU  - Zhang S
+AD  - Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, 
+      College of Life Sciences, Sichuan University, Chengdu, 610065, China; Sichuan 
+      Ecological Protection and Construction Engineering Technology Research Centre, 
+      Sichuan University, Chengdu, 610065, China. Electronic address: 
+      shengzhang@scu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250903
+PL  - France
+TA  - Plant Physiol Biochem
+JT  - Plant physiology and biochemistry : PPB
+JID - 9882449
+RN  - EC 2.4.- (Glycosyltransferases)
+RN  - EC 2.4.1.207 (xyloglucan - xyloglucosyltransferase)
+RN  - 0 (Metals)
+RN  - 0 (Ions)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Cell Wall/metabolism
+MH  - *Glycosyltransferases/metabolism/genetics
+MH  - *Metals/metabolism
+MH  - Gene Expression Regulation, Plant
+MH  - Ions/metabolism
+MH  - *Plant Proteins/metabolism/genetics
+MH  - *Plants/metabolism/enzymology
+OTO - NOTNLM
+OT  - Cell wall
+OT  - Mechanisms
+OT  - Metal ions
+OT  - Plant tolerance
+OT  - XTH
+OT  - Xyloglucan
+COIS- Declaration of competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/08 00:32
+MHDA- 2025/12/12 07:19
+CRDT- 2025/09/07 18:06
+PHST- 2025/05/10 00:00 [received]
+PHST- 2025/08/19 00:00 [revised]
+PHST- 2025/09/02 00:00 [accepted]
+PHST- 2025/12/12 07:19 [medline]
+PHST- 2025/09/08 00:32 [pubmed]
+PHST- 2025/09/07 18:06 [entrez]
+AID - S0981-9428(25)01003-4 [pii]
+AID - 10.1016/j.plaphy.2025.110475 [doi]
+PST - ppublish
+SO  - Plant Physiol Biochem. 2025 Dec;229(Pt B):110475. doi: 
+      10.1016/j.plaphy.2025.110475. Epub 2025 Sep 3.
+
+
+##### PUB RECORD #####
+## 10.1038/s41588-024-01660-7  38378864  Lu, Huang et al., 2024  Lu Q, Huang L, Liu H, Garg V, Gangurde SS, Li H, Chitikineni A, Guo D, Pandey MK, Li S, Liu H, Wang R, Deng Q, Du P, Varshney RK, Liang X, Hong Y, Chen X. A genomic variation map provides insights into peanut diversity in China and associations with 28 agronomic traits. Nat Genet. 2024 Mar;56(3):530-540. doi: 10.1038/s41588-024-01660-7. Epub 2024 Feb 20. PMID: 38378864. ##
+
+PMID- 38378864
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240315
+LR  - 20240317
+IS  - 1546-1718 (Electronic)
+IS  - 1061-4036 (Linking)
+VI  - 56
+IP  - 3
+DP  - 2024 Mar
+TI  - A genomic variation map provides insights into peanut diversity in China and 
+      associations with 28 agronomic traits.
+PG  - 530-540
+LID - 10.1038/s41588-024-01660-7 [doi]
+AB  - Peanut (Arachis hypogaea L.) is an important allotetraploid oil and food legume 
+      crop. China is one of the world's largest peanut producers and consumers. 
+      However, genomic variations underlying the migration and divergence of peanuts in 
+      China remain unclear. Here we reported a genome-wide variation map based on the 
+      resequencing of 390 peanut accessions, suggesting that peanuts might have been 
+      introduced into southern and northern China separately, forming two cultivation 
+      centers. Selective sweep analysis highlights asymmetric selection between the two 
+      subgenomes during peanut improvement. A classical pedigree from South China 
+      offers a context for the examination of the impact of artificial selection on 
+      peanut genome. Genome-wide association studies identified 22,309 significant 
+      associations with 28 agronomic traits, including candidate genes for plant 
+      architecture and oil biosynthesis. Our findings shed light on peanut migration 
+      and diversity in China and provide valuable genomic resources for peanut 
+      improvement.
+CI  - (c) 2024. The Author(s), under exclusive licence to Springer Nature America, Inc.
+FAU - Lu, Qing
+AU  - Lu Q
+AUID- ORCID: 0000-0001-6287-553X
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China. 
+      luqing@gdaas.cn.
+FAU - Huang, Lu
+AU  - Huang L
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Liu, Hao
+AU  - Liu H
+AUID- ORCID: 0000-0003-3956-261X
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Garg, Vanika
+AU  - Garg V
+AD  - WA State Agricultural Biotechnology Centre, Centre for Crop and Food Innovation, 
+      Food Futures Institute, Murdoch University, Murdoch, Western Australia, 
+      Australia.
+FAU - Gangurde, Sunil S
+AU  - Gangurde SS
+AUID- ORCID: 0000-0001-7119-8649
+AD  - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), 
+      Hyderabad, India.
+FAU - Li, Haifen
+AU  - Li H
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Chitikineni, Annapurna
+AU  - Chitikineni A
+AD  - WA State Agricultural Biotechnology Centre, Centre for Crop and Food Innovation, 
+      Food Futures Institute, Murdoch University, Murdoch, Western Australia, 
+      Australia.
+FAU - Guo, Dandan
+AU  - Guo D
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Pandey, Manish K
+AU  - Pandey MK
+AUID- ORCID: 0000-0002-4101-6530
+AD  - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), 
+      Hyderabad, India.
+FAU - Li, Shaoxiong
+AU  - Li S
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Liu, Haiyan
+AU  - Liu H
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Wang, Runfeng
+AU  - Wang R
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Deng, Quanqing
+AU  - Deng Q
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Du, Puxuan
+AU  - Du P
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China.
+FAU - Varshney, Rajeev K
+AU  - Varshney RK
+AUID- ORCID: 0000-0002-4562-9131
+AD  - WA State Agricultural Biotechnology Centre, Centre for Crop and Food Innovation, 
+      Food Futures Institute, Murdoch University, Murdoch, Western Australia, 
+      Australia. rajeev.varshney@murdoch.edu.au.
+FAU - Liang, Xuanqiang
+AU  - Liang X
+AUID- ORCID: 0000-0001-7760-1283
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China. 
+      liangxuanqiang@gdaas.cn.
+FAU - Hong, Yanbin
+AU  - Hong Y
+AUID- ORCID: 0000-0002-8589-8184
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China. 
+      hongyanbin@gdaas.cn.
+FAU - Chen, Xiaoping
+AU  - Chen X
+AUID- ORCID: 0000-0002-4658-7527
+AD  - Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangdong 
+      Provincial Key Laboratory of Crop Genetic Improvement, South China Peanut 
+      Sub-Centre of National Centre of Oilseed Crops Improvement, Guangzhou, China. 
+      chenxiaoping@gdaas.cn.
+LA  - eng
+GR  - 32172051/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20240220
+PL  - United States
+TA  - Nat Genet
+JT  - Nature genetics
+JID - 9216904
+SB  - IM
+MH  - *Arachis/genetics
+MH  - *Genome-Wide Association Study
+MH  - Chromosome Mapping
+MH  - Phenotype
+MH  - Genomics
+MH  - Genome, Plant/genetics
+EDAT- 2024/02/21 11:14
+MHDA- 2024/03/15 06:43
+CRDT- 2024/02/20 23:57
+PHST- 2022/04/24 00:00 [received]
+PHST- 2024/01/09 00:00 [accepted]
+PHST- 2024/03/15 06:43 [medline]
+PHST- 2024/02/21 11:14 [pubmed]
+PHST- 2024/02/20 23:57 [entrez]
+AID - 10.1038/s41588-024-01660-7 [pii]
+AID - 10.1038/s41588-024-01660-7 [doi]
+PST - ppublish
+SO  - Nat Genet. 2024 Mar;56(3):530-540. doi: 10.1038/s41588-024-01660-7. Epub 2024 Feb 
+      20.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plaphy.2022.11.002  36410145  Luo, Pan et al., 2023  Luo S, Pan C, Liu S, Liao G, Li A, Wang Y, Wang A, Xiao D, He LF, Zhan J. Identification and functional characterization of the xyloglucan endotransglucosylase/hydrolase 32 (AhXTH32) in peanut during aluminum-induced programmed cell death. Plant Physiol Biochem. 2023 Jan;194:161-168. doi: 10.1016/j.plaphy.2022.11.002. Epub 2022 Nov 4. PMID: 36410145. ##
+
+PMID- 36410145
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230116
+LR  - 20230116
+IS  - 1873-2690 (Electronic)
+IS  - 0981-9428 (Linking)
+VI  - 194
+DP  - 2023 Jan
+TI  - Identification and functional characterization of the xyloglucan 
+      endotransglucosylase/hydrolase 32 (AhXTH32) in peanut during aluminum-induced 
+      programmed cell death.
+PG  - 161-168
+LID - S0981-9428(22)00495-8 [pii]
+LID - 10.1016/j.plaphy.2022.11.002 [doi]
+AB  - The toxicity of aluminum (Al) in acidic soil is a prevalent problem and causes 
+      reduced crop yields. In the plant response to Al toxicity, programmed cell death 
+      (PCD) appears to be an important mechanism. The plant cell wall of crop roots is 
+      the predominant site targeted by Al. Here, studies of the capacities of different 
+      cell wall constituents (pectin, hemicellulose 1 HC1 and HC2) to adsorb Al 
+      indicated that HC1 has the greater ability to bind Al. The activity of xyloglucan 
+      endotransglucosylase (XET) was significantly inhibited by Al in the Al-tolerant 
+      peanut cultivar '99-1507' compared to that in 'ZH 2' (Al-sensitive). Results from 
+      qPCR analysis suggested that the suppression of XET activity by Al was 
+      transcriptionally regulated and that xyloglucan endotransglucosylase/hydrolase 32 
+      (AhXTH32) was the major contributor to these changes. The overexpression of 
+      AhXTH32 in Arabidopsis strongly inhibited root growth with a loss of viability in 
+      root cells and the occurrence of typical hallmarks of PCD, while largely opposite 
+      effects were observed after xth32 suppression. AhXTH32 contributed to the 
+      modulation XET and xyloglucan endohydrolase (XEH) activity in vivo. Taken 
+      together, our results demonstrate that Al-tolerant peanut cultivar root tips cell 
+      walls bind Al predominantly in the HC1 fraction, which results in the inhibition 
+      of AhXTH32, with consequences to root growth, Al sensitivity, the occurrence of 
+      PCD and the XET/XEH activity ratio.
+CI  - Copyright (c) 2022 Elsevier Masson SAS. All rights reserved.
+FAU - Luo, Shuzhen
+AU  - Luo S
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China.
+FAU - Pan, Chunliu
+AU  - Pan C
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China; Guangxi 
+      Botanical Garden of Medicinal Plants, Nanning, Guangxi, China.
+FAU - Liu, Songying
+AU  - Liu S
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China.
+FAU - Liao, Guoting
+AU  - Liao G
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China.
+FAU - Li, Ailing
+AU  - Li A
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China.
+FAU - Wang, Yalun
+AU  - Wang Y
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China.
+FAU - Wang, Aiqin
+AU  - Wang A
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China; Key 
+      Laboratory of Crop Cultivation and Tillage, College of Agriculture, Guangxi 
+      University, Nanning, Guangxi, China; Guangxi Key Laboratory of Agro-Environment 
+      and Agro-Products Safety, College of Agriculture, Guangxi University, Nanning, 
+      Guangxi, China.
+FAU - Xiao, Dong
+AU  - Xiao D
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China; Key 
+      Laboratory of Crop Cultivation and Tillage, College of Agriculture, Guangxi 
+      University, Nanning, Guangxi, China; Guangxi Key Laboratory of Agro-Environment 
+      and Agro-Products Safety, College of Agriculture, Guangxi University, Nanning, 
+      Guangxi, China.
+FAU - He, Long-Fei
+AU  - He LF
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China; Key 
+      Laboratory of Crop Cultivation and Tillage, College of Agriculture, Guangxi 
+      University, Nanning, Guangxi, China; Guangxi Key Laboratory of Agro-Environment 
+      and Agro-Products Safety, College of Agriculture, Guangxi University, Nanning, 
+      Guangxi, China.
+FAU - Zhan, Jie
+AU  - Zhan J
+AD  - College of Agriculture, Guangxi University, Nanning, Guangxi, China; Key 
+      Laboratory of Crop Cultivation and Tillage, College of Agriculture, Guangxi 
+      University, Nanning, Guangxi, China; Guangxi Key Laboratory of Agro-Environment 
+      and Agro-Products Safety, College of Agriculture, Guangxi University, Nanning, 
+      Guangxi, China. Electronic address: may2399@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20221104
+PL  - France
+TA  - Plant Physiol Biochem
+JT  - Plant physiology and biochemistry : PPB
+JID - 9882449
+RN  - EC 2.4.1.207 (xyloglucan - xyloglucosyltransferase)
+RN  - CPD4NFA903 (Aluminum)
+RN  - EC 2.4.- (Glycosyltransferases)
+RN  - EC 3.- (Hydrolases)
+SB  - IM
+MH  - *Arachis/genetics/metabolism
+MH  - Aluminum/toxicity/metabolism
+MH  - Glycosyltransferases/genetics/metabolism
+MH  - *Arabidopsis/metabolism
+MH  - Apoptosis
+MH  - Hydrolases
+MH  - Cell Wall/metabolism
+MH  - Plant Roots/metabolism
+OTO - NOTNLM
+OT  - AhXTH32
+OT  - Aluminum stress
+OT  - Peanut
+OT  - Programmed cell death
+OT  - XET/XEH activity
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2022/11/22 06:00
+MHDA- 2023/01/17 06:00
+CRDT- 2022/11/21 18:21
+PHST- 2022/08/09 00:00 [received]
+PHST- 2022/10/30 00:00 [revised]
+PHST- 2022/11/01 00:00 [accepted]
+PHST- 2022/11/22 06:00 [pubmed]
+PHST- 2023/01/17 06:00 [medline]
+PHST- 2022/11/21 18:21 [entrez]
+AID - S0981-9428(22)00495-8 [pii]
+AID - 10.1016/j.plaphy.2022.11.002 [doi]
+PST - ppublish
+SO  - Plant Physiol Biochem. 2023 Jan;194:161-168. doi: 10.1016/j.plaphy.2022.11.002. 
+      Epub 2022 Nov 4.
+
+
+##### PUB RECORD #####
+## 10.1186/s12870-023-04656-3  38062387  Ouyang, Liu et al., 2023  Ouyang L, Liu Y, Yao R, He D, Yan L, Chen Y, Huai D, Wang Z, Yu B, Kang Y, Jiang H, Lei Y, Liao B, Wang X. Genome-wide analysis of UDP-glycosyltransferase gene family and identification of a flavonoid 7-O-UGT (AhUGT75A) enhancing abiotic stress in peanut (Arachis hypogaea L.). BMC Plant Biol. 2023 Dec 7;23(1):626. doi: 10.1186/s12870-023-04656-3. PMID: 38062387; PMCID: PMC10702079. ##
+
+PMID- 38062387
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231216
+IS  - 1471-2229 (Electronic)
+IS  - 1471-2229 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2023 Dec 7
+TI  - Genome-wide analysis of UDP-glycosyltransferase gene family and identification of 
+      a flavonoid 7-O-UGT (AhUGT75A) enhancing abiotic stress in peanut (Arachis 
+      hypogaea L.).
+PG  - 626
+LID - 10.1186/s12870-023-04656-3 [doi]
+LID - 626
+AB  - BACKGROUND: Glycosylation, catalyzed by UDP-glycosyltransferase (UGT), was 
+      important for enhancing solubility, bioactivity, and diversity of flavonoids. 
+      Peanut (Arachis hypogaea L.) is an important oilseed and cash crop worldwide. In 
+      addition to provide high quality of edible oils and proteins, peanut seeds 
+      contain a rich source of flavonoid glycosides that benefit human health. However, 
+      information of UGT gene family was quite limited in peanut. RESULTS: In present 
+      study, a total of 267 AhUGTs clustered into 15 phylogenetic groups were 
+      identified in peanut genome. Group I has greatly expanded to contain the largest 
+      number of AhUGT genes. Segmental duplication was the major driving force for 
+      AhUGT gene family expansion. Transcriptomic analysis of gene expression profiles 
+      in various tissues and under different abiotic stress treatments indicated AhUGTs 
+      were involved in peanut growth and abiotic stress response. AhUGT75A (UGT73CG33), 
+      located in mitochondria, was characterized as a flavonoid 7-O-UGT by in vitro 
+      enzyme assays. The transcript level of AhUGT75A was strongly induced by abiotic 
+      stress. Overexpression of AhUGT75A resulted in accumulating less amount of 
+      malondialdehyde (MDA) and superoxide, and enhancing tolerance against drought 
+      and/or salt stress in transgenic Arabidopsis. These results indicated AhUGT75A 
+      played important roles in conferring abiotic stress tolerance through reactive 
+      oxygen species scavenging. CONCLUSIONS: Our research only not provides valuable 
+      information for functional characterization of UGTs in peanut, but also gives new 
+      insights into potential applications in breeding new cultivars with both 
+      desirable stress tolerance and health benefits.
+CI  - (c) 2023. The Author(s).
+FAU - Ouyang, Lei
+AU  - Ouyang L
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan, 430062, P.R. China.
+FAU - Liu, Yue
+AU  - Liu Y
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Yao, Ruonan
+AU  - Yao R
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan, 430062, P.R. China.
+FAU - He, Dongli
+AU  - He D
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan, 430062, P.R. China.
+FAU - Yan, Liying
+AU  - Yan L
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Chen, Yuning
+AU  - Chen Y
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Huai, Dongxin
+AU  - Huai D
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Wang, Zhihui
+AU  - Wang Z
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Yu, Bolun
+AU  - Yu B
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Kang, Yanping
+AU  - Kang Y
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Jiang, Huifang
+AU  - Jiang H
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China.
+FAU - Lei, Yong
+AU  - Lei Y
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China. leiyong@caas.cn.
+FAU - Liao, Boshou
+AU  - Liao B
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China. liaoboshou@caas.cn.
+FAU - Wang, Xin
+AU  - Wang X
+AD  - Key Laboratory of Biology and Genetic Improvement of Oil Crops, Ministry of 
+      Agriculture and Rural Affairs, Oil Crops Research Institute of the Chinese 
+      Academy of Agricultural Sciences, Wuhan, 430062, P.R. China. wangxin06@caas.cn.
+LA  - eng
+GR  - CARS-13/earmarked fund for China Agricultural Research System/
+GR  - CARS-13/earmarked fund for China Agricultural Research System/
+GR  - CARS-13/earmarked fund for China Agricultural Research System/
+GR  - CAAS-ASTIP-2021-OCRI/Agricultural Science and Technology Innovation Program of 
+      Chinese Academy of Agricultural Sciences/
+GR  - CAAS-ASTIP-2021-OCRI/Agricultural Science and Technology Innovation Program of 
+      Chinese Academy of Agricultural Sciences/
+GR  - CAAS-ASTIP-2021-OCRI/Agricultural Science and Technology Innovation Program of 
+      Chinese Academy of Agricultural Sciences/
+GR  - 32170278/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20231207
+PL  - England
+TA  - BMC Plant Biol
+JT  - BMC plant biology
+JID - 100967807
+RN  - EC 2.4.- (Glycosyltransferases)
+RN  - 0 (Flavonoids)
+RN  - 58-98-0 (Uridine Diphosphate)
+SB  - IM
+MH  - Humans
+MH  - *Arachis/genetics
+MH  - Glycosyltransferases/genetics
+MH  - Phylogeny
+MH  - Flavonoids
+MH  - Plant Breeding
+MH  - Stress, Physiological/genetics
+MH  - *Arabidopsis
+MH  - Uridine Diphosphate
+PMC - PMC10702079
+OTO - NOTNLM
+OT  - Abiotic stress
+OT  - Expression analysis
+OT  - Flavonoid
+OT  - Peanut
+OT  - UDP-glycosyltransferase
+COIS- The authors declare no competing interests.
+EDAT- 2023/12/08 00:42
+MHDA- 2023/12/17 13:19
+PMCR- 2023/12/07
+CRDT- 2023/12/07 23:51
+PHST- 2023/06/13 00:00 [received]
+PHST- 2023/12/01 00:00 [accepted]
+PHST- 2023/12/17 13:19 [medline]
+PHST- 2023/12/08 00:42 [pubmed]
+PHST- 2023/12/07 23:51 [entrez]
+PHST- 2023/12/07 00:00 [pmc-release]
+AID - 10.1186/s12870-023-04656-3 [pii]
+AID - 4656 [pii]
+AID - 10.1186/s12870-023-04656-3 [doi]
+PST - epublish
+SO  - BMC Plant Biol. 2023 Dec 7;23(1):626. doi: 10.1186/s12870-023-04656-3.
+
+
+##### PUB RECORD #####
 ## 10.1007/s00122-025-04903-1  40358622  Tang, Zhou et al., 2025  Tang Y, Zhou X, Li X, Zhou C, Wang W, Zhou M, Hu Z, Li X, Zhang K, Wang S, Zhang Z, Chen H, Wang J, Qiao L. Genetic analysis and fine mapping reveal that AhRt3, which encodes an anthocyanin reductase, is responsible for red testa in cultivated peanuts. Theor Appl Genet. 2025 May 13;138(6):117. doi: 10.1007/s00122-025-04903-1. PMID: 40358622. ##
 
 PMID- 40358622
@@ -137,5 +1268,578 @@ AID - 10.1007/s00122-025-04903-1 [pii]
 AID - 10.1007/s00122-025-04903-1 [doi]
 PST - epublish
 SO  - Theor Appl Genet. 2025 May 13;138(6):117. doi: 10.1007/s00122-025-04903-1.
+
+
+##### PUB RECORD #####
+## 10.7717/peerj.12965  35251782  Wang, Zhang et al., 2022  Wang Y, Zhang M, Du P, Liu H, Zhang Z, Xu J, Qin L, Huang B, Zheng Z, Dong W, Zhang X, Han S. Transcriptome analysis of pod mutant reveals plant hormones are important regulators in controlling pod size in peanut (<i>Arachis hypogaea</i> L.). PeerJ. 2022 Feb 28;10:e12965. doi: 10.7717/peerj.12965. PMID: 35251782; PMCID: PMC8893032. ##
+
+PMID- 35251782
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230110
+LR  - 20230111
+IS  - 2167-8359 (Print)
+IS  - 2167-8359 (Electronic)
+IS  - 2167-8359 (Linking)
+VI  - 10
+DP  - 2022
+TI  - Transcriptome analysis of pod mutant reveals plant hormones are important 
+      regulators in controlling pod size in peanut (Arachis hypogaea L.).
+PG  - e12965
+LID - 10.7717/peerj.12965 [doi]
+LID - e12965
+AB  - Pod size is an important yield-influencing trait in peanuts. It is affected by 
+      plant hormones and identifying the genes related to these hormones may contribute 
+      to pod-related trait improvements in peanut breeding programs. However, there is 
+      limited information on the molecular mechanisms of plant hormones that regulate 
+      pod size in peanuts. We identified a mutant with an extremely small pod (spm) 
+      from Yuanza 9102 (WT) by (60)Co gamma-radiation mutagenesis. The length and width of 
+      the natural mature pod in spm were only 71.34% and 73.36% of those in WT, 
+      respectively. We performed comparative analyses for morphological 
+      characteristics, anatomy, physiology, and global transcriptome between spm and WT 
+      pods. Samples were collected at 10, 20, and 30 days after peg elongation into the 
+      soil, representing stages S1, S2, and S3, respectively. The differences in pod 
+      size between WT and spm were seen at stage S1 and became even more striking at 
+      stages S2 and S3. The cell sizes of the pods were significantly smaller in spm 
+      than in WT at stages S1, S2, and S3. These results suggested that reduced cell 
+      size may be one of the important contributors for the small pod in spm. The 
+      contents of indole-3-acetic acid (IAA), gibberellin (GA), and brassinosteroid 
+      (BR) were also significantly lower in spm pods than those in WT pods at all three 
+      stages. RNA-Seq analyses showed that 1,373, 8,053, and 3,358 differently 
+      expressed genes (DEGs) were identified at stages S1, S2, and S3, respectively. 
+      Functional analyses revealed that a set of DEGs was related to plant hormone 
+      biosynthesis, plant hormone signal transduction pathway, and cell wall 
+      biosynthesis and metabolism. Furthermore, several hub genes associated with plant 
+      hormone biosynthesis and signal transduction pathways were identified through 
+      weighted gene co-expression network analysis. Our results revealed that IAA, GA, 
+      and BR may be important regulators in controlling pod size by regulating cell 
+      size in peanuts. This study provides helpful information for the understanding of 
+      the complex mechanisms of plant hormones in controlling pod size by regulating 
+      the cell size in peanuts and will facilitate the improvement of peanut breeding.
+CI  - (c)2022 Wang et al.
+FAU - Wang, Yaqi
+AU  - Wang Y
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Zhang, Maoning
+AU  - Zhang M
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Du, Pei
+AU  - Du P
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Liu, Hua
+AU  - Liu H
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Zhang, Zhongxin
+AU  - Zhang Z
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Xu, Jing
+AU  - Xu J
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Qin, Li
+AU  - Qin L
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Huang, Bingyan
+AU  - Huang B
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Zheng, Zheng
+AU  - Zheng Z
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Dong, Wenzhao
+AU  - Dong W
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Zhang, Xinyou
+AU  - Zhang X
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+FAU - Han, Suoyi
+AU  - Han S
+AD  - Henan Academy of Crop Molecular Breeding, Henan Academy of Agricultural Sciences, 
+      Zhengzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220228
+PL  - United States
+TA  - PeerJ
+JT  - PeerJ
+JID - 101603425
+RN  - 0 (Plant Growth Regulators)
+RN  - 0 (Brassinosteroids)
+MH  - *Arachis/genetics
+MH  - *Plant Growth Regulators/metabolism
+MH  - Seeds/genetics
+MH  - Plant Breeding
+MH  - Gene Expression Profiling
+MH  - Brassinosteroids/metabolism
+PMC - PMC8893032
+OTO - NOTNLM
+OT  - Arachis hypogaea L.
+OT  - Plant hormone
+OT  - Pod size
+OT  - Transcriptome analysis
+OT  - Weighted gene coexpression network analysis
+COIS- The authors declare there are no competing interests.
+EDAT- 2022/03/08 06:00
+MHDA- 2022/03/08 06:01
+PMCR- 2022/02/28
+CRDT- 2022/03/07 06:06
+PHST- 2021/10/01 00:00 [received]
+PHST- 2022/01/28 00:00 [accepted]
+PHST- 2022/03/07 06:06 [entrez]
+PHST- 2022/03/08 06:00 [pubmed]
+PHST- 2022/03/08 06:01 [medline]
+PHST- 2022/02/28 00:00 [pmc-release]
+AID - 12965 [pii]
+AID - 10.7717/peerj.12965 [doi]
+PST - epublish
+SO  - PeerJ. 2022 Feb 28;10:e12965. doi: 10.7717/peerj.12965. eCollection 2022.
+
+
+##### PUB RECORD #####
+## 10.1186/s12864-024-10108-5  38378471  Yang, Chen et al., 2024  Yang D, Chen T, Wu Y, Tang H, Yu J, Dai X, Zheng Y, Wan X, Yang Y, Tan X. Genome-wide analysis of the peanut CaM/CML gene family reveals that the AhCML69 gene is associated with resistance to Ralstonia solanacearum. BMC Genomics. 2024 Feb 21;25(1):200. doi: 10.1186/s12864-024-10108-5. PMID: 38378471; PMCID: PMC10880322. ##
+
+PMID- 38378471
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240222
+LR  - 20240224
+IS  - 1471-2164 (Electronic)
+IS  - 1471-2164 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2024 Feb 21
+TI  - Genome-wide analysis of the peanut CaM/CML gene family reveals that the AhCML69 
+      gene is associated with resistance to Ralstonia solanacearum.
+PG  - 200
+LID - 10.1186/s12864-024-10108-5 [doi]
+LID - 200
+AB  - BACKGROUND: Calmodulins (CaMs)/CaM-like proteins (CMLs) are crucial 
+      Ca(2+)-binding sensors that can decode and transduce Ca(2+) signals during plant 
+      development and in response to various stimuli. The CaM/CML gene family has been 
+      characterized in many plant species, but this family has not yet been 
+      characterized and analyzed in peanut, especially for its functions in response to 
+      Ralstonia solanacearum. In this study, we performed a genome-wide analysis to 
+      analyze the CaM/CML genes and their functions in resistance to R. solanacearum. 
+      RESULTS: Here, 67, 72, and 214 CaM/CML genes were identified from Arachis 
+      duranensis, Arachis ipaensis, and Arachis hypogaea, respectively. The genes were 
+      divided into nine subgroups (Groups I-IX) with relatively conserved exon‒intron 
+      structures and motif compositions. Gene duplication, which included whole-genome 
+      duplication, tandem repeats, scattered repeats, and unconnected repeats, produced 
+      approximately 81 pairs of homologous genes in the AhCaM/CML gene family. 
+      Allopolyploidization was the main reason for the greater number of AhCaM/CML 
+      members. The nonsynonymous (Ka) versus synonymous (Ks) substitution rates (less 
+      than 1.0) suggested that all homologous pairs underwent intensive purifying 
+      selection pressure during evolution. AhCML69 was constitutively expressed in 
+      different tissues of peanut plants and was involved in the response to R. 
+      solanacearum infection. The AhCML69 protein was localized in the cytoplasm and 
+      nucleus. Transient overexpression of AhCML69 in tobacco leaves increased 
+      resistance to R. solanacearum infection and induced the expression of 
+      defense-related genes, suggesting that AhCML69 is a positive regulator of disease 
+      resistance. CONCLUSIONS: This study provides the first comprehensive analysis of 
+      the AhCaM/CML gene family and potential genetic resources for the molecular 
+      design and breeding of peanut bacterial wilt resistance.
+CI  - (c) 2024. The Author(s).
+FAU - Yang, Dong
+AU  - Yang D
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Chen, Ting
+AU  - Chen T
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Wu, Yushuang
+AU  - Wu Y
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Tang, Huiquan
+AU  - Tang H
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Yu, Junyi
+AU  - Yu J
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Dai, Xiaoqiu
+AU  - Dai X
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Zheng, Yixiong
+AU  - Zheng Y
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Wan, Xiaorong
+AU  - Wan X
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China.
+FAU - Yang, Yong
+AU  - Yang Y
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China. yangyong@zhku.edu.cn.
+FAU - Tan, Xiaodan
+AU  - Tan X
+AD  - Guangzhou Key Laboratory for Research and Development of Crop Germplasm 
+      Resources, Zhongkai University of Agriculture and Engineering, Guangzhou, 510225, 
+      Guangdong, China. tanxiaodan@zhku.edu.cn.
+LA  - eng
+GR  - 32071737/the National Natural Science Foundation of China/
+GR  - 32201887/the National Natural Science Foundation of China/
+GR  - 32301927/the National Natural Science Foundation of China/
+GR  - 2023KTSCX052/the Guangdong University Scientific Research Platform and Research 
+      Project/
+GR  - 2022A1515110018/the Basic and Applied Basic Research Fund of Guangdong Province/
+GR  - 2022ZDJS020/the Foundation of Guangdong Provincial Department of Education/
+PT  - Journal Article
+DEP - 20240221
+PL  - England
+TA  - BMC Genomics
+JT  - BMC genomics
+JID - 100965258
+SB  - IM
+MH  - *Arachis/metabolism
+MH  - *Ralstonia solanacearum/genetics
+MH  - Plant Breeding
+MH  - Gene Duplication
+MH  - Introns
+MH  - Plant Diseases/genetics/microbiology
+PMC - PMC10880322
+OTO - NOTNLM
+OT  - Arachis hypogaea
+OT  - Calmodulin/calmodulin-like proteins
+OT  - Genome-wide
+OT  - Ralstonia solanacearum
+OT  - Resistance
+COIS- The authors declare no competing interests.
+EDAT- 2024/02/21 11:14
+MHDA- 2024/02/22 12:12
+PMCR- 2024/02/21
+CRDT- 2024/02/20 23:32
+PHST- 2023/11/02 00:00 [received]
+PHST- 2024/02/09 00:00 [accepted]
+PHST- 2024/02/22 12:12 [medline]
+PHST- 2024/02/21 11:14 [pubmed]
+PHST- 2024/02/20 23:32 [entrez]
+PHST- 2024/02/21 00:00 [pmc-release]
+AID - 10.1186/s12864-024-10108-5 [pii]
+AID - 10108 [pii]
+AID - 10.1186/s12864-024-10108-5 [doi]
+PST - epublish
+SO  - BMC Genomics. 2024 Feb 21;25(1):200. doi: 10.1186/s12864-024-10108-5.
+
+
+##### PUB RECORD #####
+## 10.1111/pbi.12589  27311738  Zhang, Chen et al., 2016  Zhang C, Chen H, Cai T, Deng Y, Zhuang R, Zhang N, Zeng Y, Zheng Y, Tang R, Pan R, Zhuang W. Overexpression of a novel peanut NBS-LRR gene AhRRS5 enhances disease resistance to Ralstonia solanacearum in tobacco. Plant Biotechnol J. 2017 Jan;15(1):39-55. doi: 10.1111/pbi.12589. Epub 2016 Jul 26. PMID: 27311738; PMCID: PMC5253469. ##
+
+PMID- 27311738
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170905
+LR  - 20231213
+IS  - 1467-7652 (Electronic)
+IS  - 1467-7644 (Print)
+IS  - 1467-7644 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2017 Jan
+TI  - Overexpression of a novel peanut NBS-LRR gene AhRRS5 enhances disease resistance 
+      to Ralstonia solanacearum in tobacco.
+PG  - 39-55
+LID - 10.1111/pbi.12589 [doi]
+AB  - Bacterial wilt caused by Ralstonia solanacearum is a ruinous soilborne disease 
+      affecting more than 450 plant species. Efficient control methods for this disease 
+      remain unavailable to date. This study characterized a novel nucleotide-binding 
+      site-leucine-rich repeat resistance gene AhRRS5 from peanut, which was 
+      up-regulated in both resistant and susceptible peanut cultivars in response to 
+      R. solanacearum. The product of AhRRS5 was localized in the nucleus. Furthermore, 
+      treatment with phytohormones such as salicylic acid (SA), abscisic acid (ABA), 
+      methyl jasmonate (MeJA) and ethephon (ET) increased the transcript level of 
+      AhRRS5 with diverse responses between resistant and susceptible peanuts. Abiotic 
+      stresses such as drought and cold conditions also changed AhRRS5 expression. 
+      Moreover, transient overexpression induced hypersensitive response in Nicotiana 
+      benthamiana. Overexpression of AhRRS5 significantly enhanced the resistance of 
+      heterogeneous tobacco to R. solanacearum, with diverse resistance levels in 
+      different transgenic lines. Several defence-responsive marker genes in 
+      hypersensitive response, including SA, JA and ET signals, were considerably 
+      up-regulated in the transgenic lines as compared with the wild type inoculated 
+      with R. solanacearum. Nonexpressor of pathogenesis-related gene 1 (NPR1) and 
+      non-race-specific disease resistance 1 were also up-regulated in response to the 
+      pathogen. These results indicate that AhRRS5 participates in the defence response 
+      to R. solanacearum through the crosstalk of multiple signalling pathways and the 
+      involvement of NPR1 and R gene signals for its resistance. This study may guide 
+      the resistance enhancement of peanut and other economic crops to bacterial wilt 
+      disease.
+CI  - (c) 2016 The Authors. Plant Biotechnology Journal published by Society for 
+      Experimental Biology and The Association of Applied Biologists and John Wiley & 
+      Sons Ltd.
+FAU - Zhang, Chong
+AU  - Zhang C
+AD  - College of Plant Protection, Fujian Agriculture and Forestry University, Fuzhou, 
+      China.
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Chen, Hua
+AU  - Chen H
+AD  - College of Plant Protection, Fujian Agriculture and Forestry University, Fuzhou, 
+      China.
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Cai, Tiecheng
+AU  - Cai T
+AD  - College of Plant Protection, Fujian Agriculture and Forestry University, Fuzhou, 
+      China.
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Deng, Ye
+AU  - Deng Y
+AD  - College of Plant Protection, Fujian Agriculture and Forestry University, Fuzhou, 
+      China.
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Zhuang, Ruirong
+AU  - Zhuang R
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Zhang, Ning
+AU  - Zhang N
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Zeng, Yuanhuan
+AU  - Zeng Y
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+FAU - Zheng, Yixiong
+AU  - Zheng Y
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+AD  - College of Agronomy, Zhongkai Agriculture and Engineering College, Guangzhou, 
+      Guangdong, China.
+FAU - Tang, Ronghua
+AU  - Tang R
+AD  - Cash Crops Research Institute, Guangxi Academy of Agricultural Sciences, Nanning, 
+      China.
+FAU - Pan, Ronglong
+AU  - Pan R
+AD  - Department of Life Science and Institute of Bioinformatics and Structural 
+      Biology, College of Life Science, National Tsing Hua University, Hsinchu, Taiwan.
+FAU - Zhuang, Weijian
+AU  - Zhuang W
+AD  - College of Plant Protection, Fujian Agriculture and Forestry University, Fuzhou, 
+      China.
+AD  - Fujian Key Laboratory of Crop Molecular and Cell Biology, Fujian Agriculture and 
+      Forestry University, Fuzhou, Fujian, China.
+LA  - eng
+SI  - GENBANK/ACN62383.1
+SI  - GENBANK/AGC12570.1
+SI  - GENBANK/XP_006587620.1
+SI  - GENBANK/AAX31149.1
+SI  - GENBANK/XP_003612691.1
+SI  - GENBANK/AGC12590
+SI  - GENBANK/ABB88855.1
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160726
+PL  - England
+TA  - Plant Biotechnol J
+JT  - Plant biotechnology journal
+JID - 101201889
+RN  - 0 (Acetates)
+RN  - 0 (Cyclopentanes)
+RN  - 0 (Organophosphorus Compounds)
+RN  - 0 (Oxylipins)
+RN  - 0 (Plant Growth Regulators)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+RN  - 72S9A8J5GW (Abscisic Acid)
+RN  - 900N171A0F (methyl jasmonate)
+RN  - O414PZ4LPZ (Salicylic Acid)
+RN  - XU5R5VQ87S (ethephon)
+SB  - IM
+MH  - Abscisic Acid/pharmacology
+MH  - Acetates/pharmacology
+MH  - Arachis/*genetics
+MH  - Base Sequence
+MH  - Cell Nucleus/drug effects
+MH  - Cold Temperature
+MH  - Cyclopentanes/pharmacology
+MH  - Disease Resistance/*genetics
+MH  - Droughts
+MH  - Gene Expression Regulation, Plant/drug effects/*genetics
+MH  - Genes, Plant/drug effects
+MH  - Genetic Vectors
+MH  - Organophosphorus Compounds/pharmacology
+MH  - Oxylipins/pharmacology
+MH  - Phylogeny
+MH  - Plant Diseases/genetics/*microbiology/prevention & control
+MH  - Plant Growth Regulators/pharmacology
+MH  - Plant Proteins/genetics/pharmacology
+MH  - Plants, Genetically Modified
+MH  - Ralstonia solanacearum/*pathogenicity
+MH  - Salicylic Acid/pharmacology
+MH  - Sequence Alignment
+MH  - Stress, Physiological
+MH  - Nicotiana/*genetics/*microbiology
+MH  - Transcription Factors/genetics
+MH  - Up-Regulation
+PMC - PMC5253469
+OTO - NOTNLM
+OT  - Arachis hypogaea
+OT  - NPR1
+OT  - bacterial wilt
+OT  - resistance gene
+OT  - signal transduction
+OT  - tobacco
+EDAT- 2016/06/18 06:00
+MHDA- 2017/09/07 06:00
+PMCR- 2016/07/26
+CRDT- 2016/06/18 06:00
+PHST- 2016/03/23 00:00 [received]
+PHST- 2016/05/16 00:00 [revised]
+PHST- 2016/06/10 00:00 [accepted]
+PHST- 2016/06/18 06:00 [pubmed]
+PHST- 2017/09/07 06:00 [medline]
+PHST- 2016/06/18 06:00 [entrez]
+PHST- 2016/07/26 00:00 [pmc-release]
+AID - PBI12589 [pii]
+AID - 10.1111/pbi.12589 [doi]
+PST - ppublish
+SO  - Plant Biotechnol J. 2017 Jan;15(1):39-55. doi: 10.1111/pbi.12589. Epub 2016 Jul 
+      26.
+
+
+##### PUB RECORD #####
+## 10.3389/fpls.2023.1343402  38312353  Zhong, He et al., 2024  Zhong C, He Z, Liu Y, Li Z, Wang X, Jiang C, Kang S, Liu X, Zhao S, Wang J, Zhang H, Zhao X, Yu H. Genome-wide identification of <i>TPS</i> and <i>TPP</i> genes in cultivated peanut (<i>Arachis hypogaea</i>) and functional characterization of <i>AhTPS9</i> in response to cold stress. Front Plant Sci. 2024 Jan 19;14:1343402. doi: 10.3389/fpls.2023.1343402. PMID: 38312353; PMCID: PMC10834750. ##
+
+PMID- 38312353
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240206
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 14
+DP  - 2023
+TI  - Genome-wide identification of TPS and TPP genes in cultivated peanut (Arachis 
+      hypogaea) and functional characterization of AhTPS9 in response to cold stress.
+PG  - 1343402
+LID - 10.3389/fpls.2023.1343402 [doi]
+LID - 1343402
+AB  - INTRODUCTION: Trehalose is vital for plant metabolism, growth, and stress 
+      resilience, relying on Trehalose-6-phosphate synthase (TPS) and 
+      Trehalose-6-phosphate phosphatase (TPP) genes. Research on these genes in 
+      cultivated peanuts (Arachis hypogaea) is limited. METHODS: This study employed 
+      bioinformatics to identify and analyze AhTPS and AhTPP genes in cultivated 
+      peanuts, with subsequent experimental validation of AhTPS9's role in cold 
+      tolerance. RESULTS: In the cultivated peanut genome, a total of 16 AhTPS and 17 
+      AhTPP genes were identified. AhTPS and AhTPP genes were observed in phylogenetic 
+      analysis, closely related to wild diploid peanuts, respectively. The evolutionary 
+      patterns of AhTPS and AhTPP genes were predominantly characterized by gene 
+      segmental duplication events and robust purifying selection. A variety of 
+      hormone-responsive and stress-related cis-elements were unveiled in our analysis 
+      of cis-regulatory elements. Distinct expression patterns of AhTPS and AhTPP genes 
+      across different peanut tissues, developmental stages, and treatments were 
+      revealed, suggesting potential roles in growth, development, and stress 
+      responses. Under low-temperature stress, qPCR results showcased upregulation in 
+      AhTPS genes (AhTPS2-5, AhTPS9-12, AhTPS14, AhTPS15) and AhTPP genes (AhTPP1, 
+      AhTPP6, AhTPP11, AhTPP13). Furthermore, AhTPS9, exhibiting the most significant 
+      expression difference under cold stress, was obviously induced by cold stress in 
+      cultivated peanut, and AhTPS9-overexpression improved the cold tolerance of 
+      Arabidopsis by protect the photosynthetic system of plants, and regulates 
+      sugar-related metabolites and genes. DISCUSSION: This comprehensive study lays 
+      the groundwork for understanding the roles of AhTPS and AhTPP gene families in 
+      trehalose regulation within cultivated peanuts and provides valuable insights 
+      into the mechanisms related to cold stress tolerance.
+CI  - Copyright (c) 2024 Zhong, He, Liu, Li, Wang, Jiang, Kang, Liu, Zhao, Wang, Zhang, 
+      Zhao and Yu.
+FAU - Zhong, Chao
+AU  - Zhong C
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - He, Zehua
+AU  - He Z
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Liu, Yu
+AU  - Liu Y
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Li, Zhao
+AU  - Li Z
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Wang, Xiaoguang
+AU  - Wang X
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Jiang, Chunji
+AU  - Jiang C
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Kang, Shuli
+AU  - Kang S
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Liu, Xibo
+AU  - Liu X
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Zhao, Shuli
+AU  - Zhao S
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Wang, Jing
+AU  - Wang J
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Zhang, He
+AU  - Zhang H
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Zhao, Xinhua
+AU  - Zhao X
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+FAU - Yu, Haiqiu
+AU  - Yu H
+AD  - College of Agronomy, Shenyang Agricultural University, Shenyang, China.
+AD  - Liaoning Agricultural Vocational and Technical College, Yingkou, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20240119
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC10834750
+OTO - NOTNLM
+OT  - TPP genes
+OT  - TPS genes
+OT  - cold stress
+OT  - peanut (Arachis hypogaea)
+OT  - trehalose
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/02/05 06:43
+MHDA- 2024/02/05 06:44
+PMCR- 2023/01/01
+CRDT- 2024/02/05 04:17
+PHST- 2023/11/23 00:00 [received]
+PHST- 2023/12/29 00:00 [accepted]
+PHST- 2024/02/05 06:44 [medline]
+PHST- 2024/02/05 06:43 [pubmed]
+PHST- 2024/02/05 04:17 [entrez]
+PHST- 2023/01/01 00:00 [pmc-release]
+AID - 10.3389/fpls.2023.1343402 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2024 Jan 19;14:1343402. doi: 10.3389/fpls.2023.1343402. 
+      eCollection 2023.
 
 
