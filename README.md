@@ -121,6 +121,12 @@ Use the third form if you want to make TEMPORARY files, labeled with today's dat
 ## Updating gene_functions/ files: gensp.traits.yml, gensp.citations.txt, gensp.references.txt
 The information in the gene function registry documents gets incorporated into a Mine instance for some species when the `gensp.traits.yml` file
 is generated and copied to the `gene_functions` section of the public data store. This is a step that some curator has to initiate.
+
+This step may be easiest to do on Ceres, taking advantage of the installed dependencies available in the `ds-curate` conda environment.
+There is an instance of the `gene-function-registry` repository at `/project/legume_project/datastore/gene-function-registry`.
+Pull the latest content in the `main` branch, then check out a new feature branch for the updates. Then follow the steps below (also see 
+the hints about running the scripts for all species under "details".
+
 These files are generated with two scripts, like so (assuming the scripts have been added to the user's PATH):
 ```
   salloc --account=legume_project
@@ -141,10 +147,12 @@ These files are generated with two scripts, like so (assuming the scripts have b
 
 ```
 cat templates/genus_species.tsv
+  Arachis hypogaea arahy
   Glycine max glyma
   Glycine soja glyso
   Lotus japonicus lotja
   Medicago truncatula medtr
+  Medicago sativa medsa
   Phaseolus vulgaris phavu
   Pisum sativum pissa
   Vicia faba vicfa
