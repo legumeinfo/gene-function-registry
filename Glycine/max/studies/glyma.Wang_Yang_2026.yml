@@ -1,0 +1,23 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPLC8
+gene_symbol_long: Phospholipase C 8
+gene_model_pub_name: 
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Wang, Yang et al., 2026
+    doi: 10.1016/j.isci.2025.114546
+    pmid: 41623451
+  - citation:
+    doi:
+    pmid:
