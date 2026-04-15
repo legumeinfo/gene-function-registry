@@ -1,5 +1,5 @@
 ---
-scientific_name: Medicago Truncatula
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtAGa
 gene_symbol_long: AGAMOUS a
@@ -26,7 +26,7 @@ references:
     doi: 10.1371/journal.pone.0103770
     pmid: 25105497
 ---
-scientific_name: Medicago Truncatula
+scientific_name: Medicago truncatula
 gene_symbols:
   - MtAGb
 gene_symbol_long: AGAMOUS b
