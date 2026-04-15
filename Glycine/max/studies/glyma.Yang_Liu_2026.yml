@@ -15,8 +15,8 @@ comments:
   - GmAP1 is targeted to chloroplasts, where it downregulates the PHD-type
     transcription factor gene PTM without affecting GOLDEN2-LIKE 1/2 (GLK1/2)
   - GmAP1 interacts with and degrades the Rubisco large subunit (rbcL), a
-    process correlating with decreased Pn and delayed flowering in OE lines
-    under salt stress
+    process correlating with decreased photosynthetic rate  and delayed
+    flowering in overexpression lines under salt stress
 phenotype_synopsis: Overexpressing GmAP1 leads to delayed flowering time in
   soybean and enhances sensitivity to salt stress.
 traits:
@@ -30,3 +30,4 @@ references:
   - citation: Yang, Liu et al., 2026
     doi: 10.1016/j.plaphy.2026.111163
     pmid: 41775167
+
