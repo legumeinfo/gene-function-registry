@@ -3,21 +3,27 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPLC8
 gene_symbol_long: Phospholipase C 8
-gene_model_pub_name: 
-gene_model_full_id:
-confidence:
+gene_model_pub_name: Glyma.14G059200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G059200
+confidence: 4
 curators:
-  -
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - GmPLC8 promotes abscisic acid accumulation and stomatal closure under drought stress
+  - Overexpression of GmPLC8 reduces malondialdehyde and hydrogen peroxide accumulation under drought stress
+  - 
+phenotype_synopsis: GmPLC8 enhances drought tolerance in soybean seedlings
 traits:
-  - entity_name:
-    entity:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: stomatal closure
+    entity: GO:0090332
+  - entity_name: stomatal closure
+    entity: GO:0090332
 references:
   - citation: Wang, Yang et al., 2026
     doi: 10.1016/j.isci.2025.114546
     pmid: 41623451
-  - citation:
+  - citation: 
     doi:
     pmid:
