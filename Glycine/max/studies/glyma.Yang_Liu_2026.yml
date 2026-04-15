@@ -24,8 +24,8 @@ traits:
     entity: TO:0002616
   - entity_name: salt tolerance
     entity: TO:0006001
-  - entity_name: rubisco content
-    entity: TO:0000319
+  - entity_name: photosynthetic rate
+    entity: TO:0001015
 references:
   - citation: Yang, Liu et al., 2026
     doi: 10.1016/j.plaphy.2026.111163
