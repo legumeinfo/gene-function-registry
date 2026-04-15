@@ -2,22 +2,33 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMYBA1
-gene_symbol_long: 
+gene_symbol_long: Myeloblastosis Anthocyanin 1
 gene_model_pub_name: Glyma.09G235300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G235300
-confidence: 
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - While GmMYBA2 specializes in seed coat pigmentation and GmMYBA3 orchestrates
+    floral coloration, GmMYBA1 emerges as the dominant regulator of
+    light-responsive anthocyanin synthesis in hypocotyls/stems and young leaves.
+  - GmSTF1/2 both activate GmMYBA1, with only GmSTF2 weakly inducing GmMYBA2 and
+    neither affecting GmMYBA3.
+  - GmMYBA1 interacts with bHLH cofactor GmTT8a and is hierarchically activated
+    by the HY5 orthologs STF1/2 under light conditions
+  - Ectopic overexpression of GmMYBA1 induces systemic pigmentation across
+    leaves, stems, and reproductive organs, whereas RNAi-mediated silencing of
+    GmMYBA1 significantly reduces anthocyanin accumulation in the hypocotyl.
+phenotype_synopsis: GmMYBA1 correlates with photoprotective anthocyanin
+  accumulation in hypocotyls/stems and young leaves in soybean
 traits:
-  - entity_name:
-    entity:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: photoperiod sensitivity trait
+    entity: TO:0000229
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Shan, Zhu et al., 2026
+    doi: 10.1016/j.cj.2025.11.014
+  - citation: Ma, Huang et al., 2023
+    doi: 38235827
+    pmid: 10.1093/plphys/kiae019
