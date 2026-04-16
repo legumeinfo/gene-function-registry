@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmAP1
-gene_symbol_long: Aspartic protease 1
+gene_symbol_long: Aspartic Protease 1
 gene_model_pub_name: Glyma.02G100800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G100800
 confidence: 5
@@ -13,10 +13,12 @@ comments:
     regulation and salt stress responses, as GmAP1 expression was strongly
     induced by salt stress.
   - GmAP1 is targeted to chloroplasts, where it downregulates the PHD-type
-    transcription factor gene PTM without affecting GOLDEN2-LIKE 1/2 (GLK1/2)
+    transcription factor gene PTM without affecting GOLDEN2-LIKE 1/2 (GLK1/2).
+    GmAP1 seems to regulate flowering time primarily through the PTM-dependent 
+    rather than the GLK-dependent signaling pathway.
   - GmAP1 interacts with and degrades the Rubisco large subunit (rbcL), a
     process correlating with decreased photosynthetic rate and delayed
-    flowering in overexpression lines under salt stress
+    flowering in overexpression lines under salt stress.
 phenotype_synopsis: Overexpressing GmAP1 leads to delayed flowering time in
   soybean and enhances sensitivity to salt stress.
 traits:
