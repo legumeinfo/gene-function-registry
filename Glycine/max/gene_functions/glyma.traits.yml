@@ -732,22 +732,33 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmbHLHm1
+  - GmAMF1
   - GmSAT1
-gene_symbol_long: bHLH transcription factor
-gene_model_pub_name: Glyma08g06880
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07g184900
-confidence: 5
+gene_symbol_long: Ammonium Facilitator 1 paralog 1
+gene_model_pub_name: NP_001239843
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G061400
+confidence: 4
 curators:
   - Steven Cannon
-phenotype_synopsis: GmbHLHm1 is important to the soybean rhizobium symbiosis
-  because loss of activity results in a reduction of nodule fitness and growth.
-  Transcriptional changes in nodules highlight downstream signaling pathways
-  involving circadian clock regulation, nutrient transport, hormone signaling,
-  and cell wall modification.
+phenotype_synopsis: GmbHLHm1 (paralog GmAMF1) is important to the soybean
+  rhizobium symbiosis because loss of activity results in a reduction of nodule
+  fitness and growth. Transcriptional changes in nodules highlight downstream
+  signaling pathways involving circadian clock regulation, nutrient transport,
+  hormone signaling, and cell wall modification. Four WGD-derived paralogs have
+  similar nodule-enhanced expression patterns.
 comments:
   - Established using mutation, expression, and related functional tests.
   - Originally named GmSAT1 (Symbiotic Ammonium Transporter 1) by Kaiser et
       al., 1998, but does not encode an NH4+ transporter.
+  - Named GmbHLHm1 by Chiasson, Loughlin et al., 2014, but there are four
+      paralogs in Glycine max, deriving from the legume and Glycine WGDs, and
+      all four are predominantly nodule-expressed.
+  - Also called GmAMF1 by Chiasson, Loughlin et al., 2014.
+  - The four nodule-expressed paralogs in soybean are GmAMF1,
+      glyma.Wm82.gnm4.ann1.Glyma.15G061400; GmAMF2,
+      glyma.Wm82.gnm4.ann1.Glyma.13G253700; GmAMF3,
+      glyma.Wm82.gnm4.ann1.Glyma.08G064500; GmAMF4,
+      glyma.Wm82.gnm4.ann1.Glyma.07G184900
 traits:
   - entity_name: plant organ growth and development trait
     entity: TO:0000927
@@ -6824,8 +6835,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmWAK1
 gene_symbol_long: Glycine max wall-associated receptor kinase-like 1
-gene_model_pub_name: Glyma.09G027700.1
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G027700.1
+gene_model_pub_name: XM_003534738
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G027700
 confidence: 4
 curators:
   - Molly Hardacre
