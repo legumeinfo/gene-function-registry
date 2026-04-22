@@ -1,65 +1,65 @@
 
-Status for Arachis hypogaea (arahy) as of 2026-04-10:
+Status for Arachis hypogaea (arahy) as of 2026-04-21:
 
 Count | PMID | DOI | Citation; Summary for arahy
   --------------------------------------------------
-      3 | 38378864 | 10.1038/s41588-024-01660-7 | Lu, Huang et al., 2024
-      1 | 40915113 | 10.1016/j.plaphy.2025.110475 | Li, Li et al., 2025
-      1 | 40358622 | 10.1007/s00122-025-04903-1 | Tang, Zhou et al., 2025
-      1 | 38742211 | 10.3389/fpls.2024.1363251 | Chen, Wang et al., 2024
-      1 | 38378471 | 10.1186/s12864-024-10108-5 | Yang, Chen et al., 2024
-      1 | 38312353 | 10.3389/fpls.2023.1343402 | Zhong, He et al., 2024
-      1 | 38062387 | 10.1186/s12870-023-04656-3 | Ouyang, Liu et al., 2023
-      1 | 36410145 | 10.1016/j.plaphy.2022.11.002 | Luo, Pan et al., 2023
-      1 | 35251782 | 10.7717/peerj.12965 | Wang, Zhang et al., 2022
-      1 | 31808273 | 10.1111/pbi.13311 | Gangurde, Wang et al., 2020
-      1 | 30902685 | 10.1016/j.molp.2019.03.005 | Chen, Lu et al., 2019
-      1 | 27746793 | 10.3389/fpls.2016.01446 | Clevenger, Chu et al., 2016
-      1 | 27311738 | 10.1111/pbi.12589 | Zhang, Chen et al., 2016
+   3 | 38378864 | 10.1038/s41588-024-01660-7 | Lu, Huang et al., 2024
+   1 | 40915113 | 10.1016/j.plaphy.2025.110475 | Li, Li et al., 2025
+   1 | 40358622 | 10.1007/s00122-025-04903-1 | Tang, Zhou et al., 2025
+   1 | 38742211 | 10.3389/fpls.2024.1363251 | Chen, Wang et al., 2024
+   1 | 38378471 | 10.1186/s12864-024-10108-5 | Yang, Chen et al., 2024
+   1 | 38312353 | 10.3389/fpls.2023.1343402 | Zhong, He et al., 2024
+   1 | 38062387 | 10.1186/s12870-023-04656-3 | Ouyang, Liu et al., 2023
+   1 | 36410145 | 10.1016/j.plaphy.2022.11.002 | Luo, Pan et al., 2023
+   1 | 35251782 | 10.7717/peerj.12965 | Wang, Zhang et al., 2022
+   1 | 31808273 | 10.1111/pbi.13311 | Gangurde, Wang et al., 2020
+   1 | 30902685 | 10.1016/j.molp.2019.03.005 | Chen, Lu et al., 2019
+   1 | 27746793 | 10.3389/fpls.2016.01446 | Clevenger, Chu et al., 2016
+   1 | 27311738 | 10.1111/pbi.12589 | Zhang, Chen et al., 2016
   --------------------------------------------------
 
 Count | gene_model_full_id; Summary for arahy
 --------------------------------------------------
-      1 | arahy.Tifrunner.gnm2.ann2.Ah16g512200
-      1 | arahy.Tifrunner.gnm2.ann2.Ah13g064900
-      1 | arahy.Tifrunner.gnm2.ann2.Ah08g309800
-      1 | arahy.Tifrunner.gnm2.ann2.Ah08g062600
-      1 | arahy.Tifrunner.gnm2.ann2.Ah06g207600
-      1 | arahy.Tifrunner.gnm2.ann1.W8TDEC
-      1 | arahy.Tifrunner.gnm2.ann1.5Q6PVM.1
-      1 | arahy.Tifrunner.gnm2.ann1.1XW75L
+   1 | arahy.Tifrunner.gnm2.ann2.Ah16g512200
+   1 | arahy.Tifrunner.gnm2.ann2.Ah13g064900
+   1 | arahy.Tifrunner.gnm2.ann2.Ah08g309800
+   1 | arahy.Tifrunner.gnm2.ann2.Ah08g062600
+   1 | arahy.Tifrunner.gnm2.ann2.Ah06g207600
+   1 | arahy.Tifrunner.gnm2.ann1.W8TDEC
+   1 | arahy.Tifrunner.gnm2.ann1.5Q6PVM.1
+   1 | arahy.Tifrunner.gnm2.ann1.1XW75L
   --------------------------------------------------
 
 Count | Ontology accession | Description; Summary for arahy
   --------------------------------------------------
-      2 | TO:0000357 | plant growth and development trait
-      1 | TO:1000075 | palmitic acid content
-      1 | TO:0006062 | plant width
-      1 | TO:0006002 | proline content
-      1 | TO:0005002 | oleic acid content
-      1 | TO:0005001 | linoleic acid content
-      1 | TO:0002639 | shoot branching
-      1 | TO:0002625 | fruit size
-      1 | TO:0001092 | legume fruit weight
-      1 | TO:0000604 | fat and essential oil content
-      1 | TO:0000495 | chlorophyll content
-      1 | TO:0000391 | seed size
-      1 | TO:0000354 | aluminum response trait
-      1 | TO:0000340 | total soluble sugar content
-      1 | TO:0000315 | bacterial disease response
-      1 | TO:0000303 | low temperature stress response
-      1 | TO:0000227 | root length
-      1 | TO:0000190 | seed coat color
-      1 | TO:0000181 | seed weight
-      1 | TO:0000168 | abiotic plant stress response trait
-      1 | TO:0000071 | anthocyanin content
-      1 | GO:0140426 | pathogen-associated molecular pattern receptor signaling pathway
-      1 | GO:0033729 | anthocyanidin reductase activity
-      1 | GO:0012501 | programmed cell death
-      1 | GO:0010023 | proanthocyanidin biosynthetic process
-      1 | GO:0009867 | jasmonic acid mediated signaling pathway
-      1 | GO:0009863 | salicylic acid mediated signaling pathway
-      1 | GO:0009742 | brassinosteroid mediated signaling pathway
-      1 | GO:0009737 | response to abscisic acid
+   2 | TO:0000357 | plant growth and development trait
+   1 | TO:1000075 | palmitic acid content
+   1 | TO:0006062 | plant width
+   1 | TO:0006002 | proline content
+   1 | TO:0005002 | oleic acid content
+   1 | TO:0005001 | linoleic acid content
+   1 | TO:0002639 | shoot branching
+   1 | TO:0002625 | fruit size
+   1 | TO:0001092 | legume fruit weight
+   1 | TO:0000604 | fat and essential oil content
+   1 | TO:0000495 | chlorophyll content
+   1 | TO:0000391 | seed size
+   1 | TO:0000354 | aluminum response trait
+   1 | TO:0000340 | total soluble sugar content
+   1 | TO:0000315 | bacterial disease response
+   1 | TO:0000303 | low temperature stress response
+   1 | TO:0000227 | root length
+   1 | TO:0000190 | seed coat color
+   1 | TO:0000181 | seed weight
+   1 | TO:0000168 | abiotic plant stress response trait
+   1 | TO:0000071 | anthocyanin content
+   1 | GO:0140426 | pathogen-associated molecular pattern receptor signaling pathway
+   1 | GO:0033729 | anthocyanidin reductase activity
+   1 | GO:0012501 | programmed cell death
+   1 | GO:0010023 | proanthocyanidin biosynthetic process
+   1 | GO:0009867 | jasmonic acid mediated signaling pathway
+   1 | GO:0009863 | salicylic acid mediated signaling pathway
+   1 | GO:0009742 | brassinosteroid mediated signaling pathway
+   1 | GO:0009737 | response to abscisic acid
   --------------------------------------------------
 

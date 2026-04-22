@@ -1,23 +1,23 @@
 
-Status for Vigna radiata (vigra) as of 2026-04-10:
+Status for Vigna radiata (vigra) as of 2026-04-21:
 
 Count | PMID | DOI | Citation; Summary for vigra
   --------------------------------------------------
-      1 | 40770210 | 10.1038/s41598-025-12864-0 | Ohm, Mahmood et al., 2025
-      1 | 39488543 | 10.1038/s41598-024-73936-1 | Xue, Liu et al., 2024
-      1 | 35581536 | 10.1186/s12864-022-08620-7 | Liu, Zhang, et. al., 2022
+   1 | 40770210 | 10.1038/s41598-025-12864-0 | Ohm, Mahmood et al., 2025
+   1 | 39488543 | 10.1038/s41598-024-73936-1 | Xue, Liu et al., 2024
+   1 | 35581536 | 10.1186/s12864-022-08620-7 | Liu, Zhang, et. al., 2022
   --------------------------------------------------
 
 Count | gene_model_full_id; Summary for vigra
 --------------------------------------------------
-      1 | vigra.VC1973A.gnm6.ann1.Vradi05g00310
-      1 | vigra.VC1973A.gnm6.ann1.Vradi01g09590
+   1 | vigra.VC1973A.gnm6.ann1.Vradi05g00310
+   1 | vigra.VC1973A.gnm6.ann1.Vradi01g09590
   --------------------------------------------------
 
 Count | Ontology accession | Description; Summary for vigra
   --------------------------------------------------
-      2 | TO:0000934 | photoperiod-sensitive flowering time trait
-      1 | GO:0048575 | short-day photoperiodism, flowering
-      1 | GO:0008134 | transcription factor binding
+   2 | TO:0000934 | photoperiod-sensitive flowering time trait
+   1 | GO:0048575 | short-day photoperiodism, flowering
+   1 | GO:0008134 | transcription factor binding
   --------------------------------------------------
 

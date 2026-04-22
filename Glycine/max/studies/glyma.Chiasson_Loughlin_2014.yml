@@ -1,0 +1,172 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmbHLHm1
+  - GmSAT1
+gene_symbol_long: Glycine max bHLH membrane 1
+gene_model_pub_name: Glyma.15g061400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G061400
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Overexpression of GmbHLHm1 significantly increased nodule number and size,
+  nitrogen fixation activity, and nitrogen delivery to the shoots. This contrasts with reduced
+  nodule numbers per plant, nitrogen fixation activity and poor plant growth when silenced using RNAi
+comments:
+  - Established using mutation, expression, and related functional tests.
+  - Originally named GmSAT1 (Symbiotic Ammonium Transporter 1) by Kaiser et al.,
+    1998, but does not encode an NH4+ transporter.
+  - Named GmbHLHm1 by Chiasson, Loughlin et al., 2014
+  - GmbHLHm1 binds regulatory regions of four nodule-expressed ammonium facilitator protein paralogs,
+    named AMF1 - AMF4 in Chiasson et al. 2014 and AMF1;1 - AMF1;4 in Hu, Wen et al., 2025
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Hu, Wen et al., 2025
+    doi: 10.1071/FP25045
+    pmid: 40540624
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Kaiser, Finnegan et al., 1998
+    doi: 10.1126/science.281.5380.1202
+    pmid: 9712587
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;1
+gene_symbol_long: Ammonium Facilitator 1 ortholog 1
+gene_model_pub_name: Glyma15g06660
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G061200
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;1 functions in ammonium transport, in the plasma membrane of
+  soybean nodules. Its transcription is triggered by GmbHLHm1. Four WGD-derived
+  paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The gene ID reported in Chiasson et al., 2014 was Glyma15g06660, but the ID in assembly 1
+    appears to be instead Glyma15g06661
+  - The four nodule-expressed paralogs in soybean are
+    GmAMF1 or GmAMF1;1, glyma.Wm82.gnm4.ann1.Glyma.15G061400;
+    GmAMF2 or GmAMF1;2, glyma.Wm82.gnm4.ann1.Glyma.13G253700;
+    GmAMF3 or GmAMF1;3, glyma.Wm82.gnm4.ann1.Glyma.08G064500;
+    GmAMF4 or GmAMF1;4, glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;2
+gene_symbol_long: Ammonium Facilitator 1 ortholog 2
+gene_model_pub_name: Glyma13g32670
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G253700
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;2 functions in ammonium transport, in the plasma membrane of
+  soybean nodules. Its transcription is triggered by GmbHLHm1. Four WGD-derived
+  paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The four nodule-expressed paralogs in soybean are
+    GmAMF1 or GmAMF1;1, glyma.Wm82.gnm4.ann1.Glyma.15G061400;
+    GmAMF2 or GmAMF1;2, glyma.Wm82.gnm4.ann1.Glyma.13G253700;
+    GmAMF3 or GmAMF1;3, glyma.Wm82.gnm4.ann1.Glyma.08G064500;
+    GmAMF4 or GmAMF1;4, glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;3
+gene_symbol_long: Ammonium Facilitator 1 ortholog 3
+gene_model_pub_name: Glyma08g06880
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G064500
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;3 functions in ammonium transport, in the plasma membrane of
+  soybean nodules. Its transcription is triggered by GmbHLHm1. Four WGD-derived
+  paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The four nodule-expressed paralogs in soybean are
+    GmAMF1 or GmAMF1;1, glyma.Wm82.gnm4.ann1.Glyma.15G061400;
+    GmAMF2 or GmAMF1;2, glyma.Wm82.gnm4.ann1.Glyma.13G253700;
+    GmAMF3 or GmAMF1;3, glyma.Wm82.gnm4.ann1.Glyma.08G064500;
+    GmAMF4 or GmAMF1;4, glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;4
+gene_symbol_long: Ammonium Facilitator 1 ortholog 4
+gene_model_pub_name: Glyma07g30370
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G184900
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;4 functions in ammonium transport, in the plasma membrane of
+  soybean nodules. Its transcription is triggered by GmbHLHm1. Four WGD-derived
+  paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The four nodule-expressed paralogs in soybean are
+    GmAMF1 or GmAMF1;1, glyma.Wm82.gnm4.ann1.Glyma.15G061400;
+    GmAMF2 or GmAMF1;2, glyma.Wm82.gnm4.ann1.Glyma.13G253700;
+    GmAMF3 or GmAMF1;3, glyma.Wm82.gnm4.ann1.Glyma.08G064500;
+    GmAMF4 or GmAMF1;4, glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
