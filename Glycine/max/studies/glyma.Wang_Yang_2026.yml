@@ -14,18 +14,20 @@ comments:
   - Drought caused smaller stomatal apertures and higher abscisic acid content
     in GmPLC8 overexpression lines.
   - Overexpression of GmPLC8 reduces malondialdehyde and hydrogen peroxide
-    accumulation under drought stress
+    accumulation under drought stress.
   - Both AtPLC3 and GmPLC8 are involved in regulating stomatal aperture, while
     AtPLC3 in Arabidopsis also affects root development and seed germination.
   - GmPLC8 enhances drought tolerance by activating abscisic acid responsive
     biosynthesis and signaling genes.
 phenotype_synopsis: GmPLC8 enhances drought tolerance in soybean seedlings by
-  regulating stomatal closure.
+  regulating stomatal closure and the abscisic acid mediated response.
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
   - entity_name: stomatal closure
     entity: GO:0090332
+  - entity_name: regulation of abscisic acid-activated signaling pathway
+    entity: GO:0009787
 references:
   - citation: Wang, Yang et al., 2026
     doi: 10.1016/j.isci.2025.114546
