@@ -1,0 +1,44 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - LEAFY1
+gene_symbol_long: 
+gene_model_pub_name: Glyma.04G202001
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.04G202001
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - LFY1 shares 94.88% amino acid sequence similarity with LFY2
+  - LFY1 expressed lower transcript abundance than LFY2 (1.2-4.7 times less) in all examined organs
+  - LFY1 Does not significantly affect AP1 gene expression when mutated alone
+phenotype_synopsis: 
+traits:
+  - entity_name: floral organ development trait
+    entity: TO:0006022
+references:
+  - citation: Wang, Liu et al., 2024
+    doi: 10.1007/s42994-024-00192-2
+    pmid: 40060180
+
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - LEAFY2
+gene_symbol_long:
+gene_model_pub_name: Glyma.06G163600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G163600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name: floral organ development trait
+    entity: TO:0006022
+references:
+  - citation: Wang, Liu et al., 2024
+    doi: 10.1007/s42994-024-00192-2
+    pmid: 40060180
