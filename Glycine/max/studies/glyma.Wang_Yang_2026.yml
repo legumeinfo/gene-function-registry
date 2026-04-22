@@ -8,6 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G059200
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmPLC8-overexpressor lines exhibited higher drought tolerance than wild-type 
     seedlings, whereas GmPLC8-silenced seedlings were more sensitive.
