@@ -15,17 +15,19 @@ comments:
   - GmSTF1/2 both activate GmMYBA1, with only GmSTF2 weakly inducing GmMYBA2 and
     neither affecting GmMYBA3.
   - GmMYBA1 interacts with bHLH cofactor GmTT8a and is hierarchically activated
-    by the HY5 orthologs STF1/2 under light conditions
+    by the HY5 orthologs STF1/2 under light conditions.
   - Ectopic overexpression of GmMYBA1 induces systemic pigmentation across
     leaves, stems, and reproductive organs, whereas RNAi-mediated silencing of
     GmMYBA1 significantly reduces anthocyanin accumulation in the hypocotyl.
 phenotype_synopsis: GmMYBA1 correlates with photoprotective anthocyanin
-  accumulation in hypocotyls/stems and young leaves in soybean
+  accumulation in hypocotyls/stems and young leaves in soybean.
 traits:
   - entity_name: anthocyanin content
     entity: TO:0000071
   - entity_name: photoperiod sensitivity trait
     entity: TO:0000229
+  - entity_name: seedling hypocotyl color
+    entity: TO:0000759
 references:
   - citation: Shan, Zhu et al., 2026
     doi: 10.1016/j.cj.2025.11.014
