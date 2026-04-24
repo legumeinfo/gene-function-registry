@@ -28,4 +28,5 @@
 	},
 	"forwardPorts": [],
 	"remoteUser": "vscode"
+  "postCreateCommand": "echo 'Dev container is ready! You can now run ./scripts/validator.sh <schema_file> <data_directory>'"
 }
