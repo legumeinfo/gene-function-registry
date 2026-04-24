@@ -10,3 +10,13 @@ RUN curl -sSL https://github.com/mikefarah/yq/releases/latest/download/yq_linux_
     chmod +x /usr/local/bin/yq
 
 RUN echo 'set compatible' > /home/vscode/.vimrc
+
+FROM python:3.9-slim-buster
+
+WORKDIR /workspaces/gene-function-registry
+
+COPY requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+
