@@ -12,7 +12,7 @@ comments:
   - LFY1 shares 94.88% amino acid sequence similarity with LFY2
   - LFY1 expressed lower transcript abundance than LFY2 (1.2-4.7 times less) in all examined organs
   - LFY1 Does not significantly affect AP1 gene expression when mutated alone
-phenotype_synopsis: 
+phenotype_synopsis: Loss of function of LFY1 appeared to have no effect on flower development by itself
 traits:
   - entity_name: floral organ development trait
     entity: TO:0006022
@@ -33,8 +33,10 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - 
+  - The LFY1 LFY2 double mutants displayed more serious defects in floral organ development than LFY2, resulting in complete sterility
+  - LFY1 and LFY2 were predominantly expressed in unopened flowers and the shoot apical meristem, however LFY2 had the higher transcript abundance
+phenotype_synopsis:  Both genes were predominantly expressed in unopened flowers and the shoot apical meristem, with LFY2 having the higher transcript abundance.
 traits:
   - entity_name: floral organ development trait
     entity: TO:0006022
