@@ -55,6 +55,8 @@ traits:
     entity: TO:0006022
   - entity_name: plant sterility trait
     entity: TO:0000485
+  - entity_name: floral organ structural organization
+    entity_name: GO:0048450
 references:
   - citation: Wang, Liu et al., 2024
     doi: 10.1007/s42994-024-00192-2
