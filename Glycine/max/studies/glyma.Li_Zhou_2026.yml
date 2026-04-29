@@ -27,6 +27,8 @@ traits:
     entity: TO:0006036
   - entity_name: stem node number
     entity: TO:0000634
+  - entity_name: plant-type secondary cell wall biogenesis
+    entity: GO:0009834
 references:
   - citation: Li, Zhou et al., 2026
     doi: 10.1016/j.plantsci.2026.113163
