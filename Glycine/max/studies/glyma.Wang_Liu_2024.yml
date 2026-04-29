@@ -20,8 +20,6 @@ phenotype_synopsis: Loss of function of LFY1 appeared to have no effect on
 traits:
   - entity_name: floral organ development trait
     entity: TO:0006022
-  - entity_name: shoot meristem development
-    entity: TO:0006022
 references:
   - citation: Wang, Liu et al., 2024
     doi: 10.1007/s42994-024-00192-2
@@ -55,8 +53,8 @@ phenotype_synopsis: LFY2 mutants had floral meristems fail to produce normal
 traits:
   - entity_name: floral organ development trait
     entity: TO:0006022
-  - entity_name: shoot meristem development
-    entity: TO:0006022
+  - entity_name: plant sterility trait
+    entity: TO:0000485
 references:
   - citation: Wang, Liu et al., 2024
     doi: 10.1007/s42994-024-00192-2
