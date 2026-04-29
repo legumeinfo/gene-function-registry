@@ -1,0 +1,28 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCESA7
+gene_symbol_long: Cellulose synthase 7
+gene_model_pub_name: Glyma.06G225500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G225500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmCESA7 functions as a positive regulator of soybean plant height, with mutants showing significant height reductions of 20.32% to 51.34% compared to wild-type plants
+  - GmCESA7 is expressed in multiple soybean tissues, with relatively high transcript levels detected in stems and flowers
+  - Unlike GmDt1, which controls both plant height and main stem nodes, GmCESA7 offers a unique strategy to reduce plant height for lodging resistance without reducing main stem node number or yield potential
+  - GmCESA7 encodes a cellulose synthase catalytic subunit 7 that is a core component of secondary cell wall cellulose biosynthesis
+phenotype_synopsis: GmCESA7 functions as a positive regulator of soybean plant height
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: stem elongation
+    entity: TO:0006036
+references:
+  - citation: Li, Zhou et al., 2026
+    doi: 10.1016/j.plantsci.2026.113163
+  - citation: Sha, Zhang et al., 2026
+    doi: 10.1002/tpg2.70207
+    pmid: 41732898
+---
