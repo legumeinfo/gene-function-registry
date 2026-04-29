@@ -9,10 +9,16 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - GmCESA7 functions as a positive regulator of soybean plant height, with mutants showing significant height reductions of 20.32% to 51.34% compared to wild-type plants
-  - GmCESA7 is expressed in multiple soybean tissues, with relatively high transcript levels detected in stems and flowers
-  - Unlike GmDt1, which controls both plant height and main stem nodes, GmCESA7 offers a unique strategy to reduce plant height for lodging resistance without reducing main stem node number or yield potential
-  - GmCESA7 encodes a cellulose synthase catalytic subunit 7 that is a core component of secondary cell wall cellulose biosynthesis
+  - GmCESA7 functions as a positive regulator of soybean plant height, with
+    mutants showing significant height reductions of 20.32% to 51.34% compared
+    to wild-type plants
+  - GmCESA7 is expressed in multiple soybean tissues, with relatively high
+    transcript levels detected in stems and flowers
+  - Unlike GmDt1, which controls both plant height and main stem nodes, GmCESA7
+    offers a unique strategy to reduce plant height for lodging resistance
+    without reducing main stem node number or yield potential
+  - GmCESA7 encodes a cellulose synthase catalytic subunit 7 that is a core
+    component of secondary cell wall cellulose biosynthesis
 phenotype_synopsis: GmCESA7 functions as a positive regulator of soybean plant height
 traits:
   - entity_name: plant height
@@ -25,4 +31,3 @@ references:
   - citation: Sha, Zhang et al., 2026
     doi: 10.1002/tpg2.70207
     pmid: 41732898
----
