@@ -1,0 +1,66 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmLFY1
+gene_symbol_long: Leafy 1
+gene_model_pub_name: Glyma.04G202001
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.04G202001
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - LFY1 shares 94.88% amino acid sequence similarity with LFY2
+  - LFY1 expressed lower transcript abundance than LFY2 (1.2-4.7 times less) in
+    all examined organs
+  - LFY1 Does not significantly affect AP1 gene expression when mutated alone
+  - The LFY1 LFY2 double mutants displayed more serious defects in floral organ
+    development than LFY2, resulting in complete sterility
+phenotype_synopsis: Loss of function of LFY1 appeared to have no effect on
+  flower development by itself
+traits:
+  - entity_name: floral organ development trait
+    entity: TO:0006022
+references:
+  - citation: Wang, Liu et al., 2024
+    doi: 10.1007/s42994-024-00192-2
+    pmid: 40060180
+  - citation: Jin, Klasfeld et al., 2021
+    doi: 10.1038/s41467-020-20883-w
+    pmid: 33504790
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmLFY2
+gene_symbol_long: Leafy 2
+gene_model_pub_name: Glyma.06G163600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G163600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Analysis showed that soybean plants contain more copies of the LFY2
+    transcript, with 1.2–4.7 times higher transcript levels than LFY1 in all
+    organs examined suggesting that the different functions of soybean LFY1 and
+    LFY2 may be associated with their transcript levels
+  - The LFY1 LFY2 double mutants displayed more serious defects in floral organ
+    development than LFY2, resulting in complete sterility
+  - LFY1 and LFY2 were predominantly expressed in unopened flowers and the shoot
+    apical meristem, however LFY2 had the higher transcript abundance
+phenotype_synopsis: LFY2 mutants had floral meristems fail to produce normal
+  floral organs and were instead replaced by clusters of leaf-like structures,
+  causing severe sterility
+traits:
+  - entity_name: floral organ development trait
+    entity: TO:0006022
+  - entity_name: plant sterility trait
+    entity: TO:0000485
+  - entity_name: floral organ structural organization
+    entity: GO:0048450
+references:
+  - citation: Wang, Liu et al., 2024
+    doi: 10.1007/s42994-024-00192-2
+    pmid: 40060180
+  - citation: Jin, Klasfeld et al., 2021
+    doi: 10.1038/s41467-020-20883-w
+    pmid: 33504790
