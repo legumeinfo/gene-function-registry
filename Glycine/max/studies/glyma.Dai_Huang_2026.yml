@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBIM1
+gene_symbol_long: BES1-INTERACTING MYC-LIKE 1
+gene_model_pub_name: Glyma.17g082100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G082100
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmBIM1 is a bHLH transcription factor that operates within the
+    brassinosteroid (BR) signaling pathway. It's homologous to Arabidopsis BIM1,
+    which cooperates with BES1 to bind E-box sequences and regulate
+    BR-responsive genes.
+  - GmBIM1 controls plant height by regulating cell size rather than cell
+    number. Knockout mutants (cr−BIM1−1) showed significantly larger internode
+    cells, while overexpression lines displayed smaller internode cells compared
+    to wild-type plants.
+  - Analysis revealed that GmBIM1 localizes to the nucleus, and shows the
+    highest expression levels detected in developing stems and leaf buds.
+  - GmBIM1Hap3 (dwarf haplotype) provides superior lodging resistance suitable
+    for high-density cultivation, while GmBIM1Hap4 (tall haplotype) maximizes
+    per-plant yield potential in low-density systems. This enables
+    marker-assisted selection for tailored plant architecture.
+phenotype_synopsis: GmBIM1 functions as a negative regulator of plant height in soybean.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: plant cell size
+    entity: TO:0002684
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: regulation of brassinosteroid mediated signaling pathway
+    entity: GO:1900457
+references:
+  - citation: Dai, Huang et al., 2026
+    doi: 10.1016/j.cj.2025.10.007
