@@ -40,12 +40,11 @@ TOTAL_DOCUMENTS_VALIDATED=0
 TOTAL_DOCUMENTS_FAILED=0
 FILE_HAS_ERRORS=false
 
-echo "--- Starting Multi-Document YAML Validation ---"
+echo "==============================================="
 echo "File:   $YML_FILE"
-echo "Schema: $SCHEMA"
-echo "-----------------------------------------------"
+#echo "Schema: $SCHEMA"
 
-# --- CORRECTED: Get the number of documents in the YAML file ---
+# --- Get the number of documents in the YAML file ---
 # We use 'eval-all . | ""' to process each document and output an empty string,
 # then 'wc -l' to count the lines, which corresponds to the number of documents.
 NUM_DOCS=$(yq eval-all '. | ""' "$YML_FILE" 2>/dev/null | wc -l)
@@ -64,7 +63,7 @@ for (( i=0; i<NUM_DOCS; i++ )); do
     CURRENT_DOC_INDEX=$((i + 1))
     TOTAL_DOCUMENTS_VALIDATED=$((TOTAL_DOCUMENTS_VALIDATED + 1))
     
-    echo "  - Validating document $CURRENT_DOC_INDEX (0-indexed: $i)..."
+    echo "  - Validating document $CURRENT_DOC_INDEX ..."
     
     # Create a temporary file for the current YAML document. This works on both MacOS and Linux
     export TMPDIR="${TMPDIR:-/tmp}"
@@ -82,8 +81,7 @@ for (( i=0; i<NUM_DOCS; i++ )); do
     fi
     
     # Validate the temporary YAML file using ajv
-    # ajv will now handle the YAML parsing itself
-    ajv validate -s "$SCHEMA" -d "$TEMP_DOC_FILE"
+    ajv validate -s "$SCHEMA" -d "$TEMP_DOC_FILE" &> /dev/null
     AJV_EXIT_CODE=$?
     
     # Clean up the temporary file
