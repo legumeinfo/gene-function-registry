@@ -66,8 +66,10 @@ for (( i=0; i<NUM_DOCS; i++ )); do
     
     echo "  - Validating document $CURRENT_DOC_INDEX (0-indexed: $i)..."
     
-    # Create a temporary file for the current YAML document
-    TEMP_DOC_FILE=$(mktemp --suffix=".yml")
+    # Create a temporary file for the current YAML document. This works on both MacOS and Linux
+    export TMPDIR="${TMPDIR:-/tmp}"
+    TEMP_DOC_FILE=$(mktemp -p "$TMPDIR")
+    TEMP_DOC_FILE="${TEMP_DOC_FILE}.yml"
     
     # Extract the specific YAML document using yq and save it to the temporary file
     # 'select(document_index == $i)' extracts the document at index i (0-based)
