@@ -81,7 +81,7 @@ for (( i=0; i<NUM_DOCS; i++ )); do
     fi
     
     # Validate the temporary YAML file using ajv
-    ajv validate -s "$SCHEMA" -d "$TEMP_DOC_FILE" &> /dev/null
+    ajv validate -s "$SCHEMA" -d "$TEMP_DOC_FILE"
     AJV_EXIT_CODE=$?
     
     # Clean up the temporary file
