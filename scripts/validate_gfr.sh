@@ -103,8 +103,10 @@ echo "Total documents failed:     $TOTAL_DOCUMENTS_FAILED"
 
 if [ "$FILE_HAS_ERRORS" = true ]; then
     echo "Overall Validation: FAILED (Some documents contain errors)."
+    echo ""
     exit 1
 else
     echo "Overall Validation: PASSED (All documents are valid)."
+    echo ""
     exit 0
 fi
