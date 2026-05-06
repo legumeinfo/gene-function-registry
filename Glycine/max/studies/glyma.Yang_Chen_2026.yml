@@ -1,0 +1,27 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEXLB1
+gene_symbol_long: Expansin-like B1 gene
+gene_model_pub_name: Glyma.17G147500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G147500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmEXLB1 improves the root development dependent-on auxin signal pathway, significantly increasing lateral root density and quantity 
+  - GmEXLB1 directly interacts with GmPUB21, an E3 ubiquitin ligase that negatively regulates soybean salt tolerance.
+  - The stability of GmEXLB1 is regulated via the 26S proteasome pathway, and GmPUB21 promotes the degradation of GmEXLB1 specifically under salt stress.
+phenotype_synopsis: Overexpression of GmEXLB1 enhances salt tolerance in soybean and promotes root development
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Yang, Chen et al., 2026
+    doi: 10.1016/j.stress.2026.101386
+  - citation: Kong, Wang et al., 2019
+    doi: 10.3389/fpls.2019.00808
+    pmid: 31333686
+---
