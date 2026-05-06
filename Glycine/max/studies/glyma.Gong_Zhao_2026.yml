@@ -1,0 +1,35 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB84
+gene_symbol_long: MYB transcription factor 84
+gene_model_pub_name: Glyma.05G234600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G234600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmMYB84 enhances lignin/flavonoid synthesis and improved reactive oxygen
+    species detoxification
+  - GmMYB84 acts as a master regulator that activates the phenylpropanoid
+    pathway to synthesize protective flavonoids and phenolic compounds
+  - GmMYB84 preserves plant vigor during cadmium exposure. While wild-type
+    soybean leaf dry weight decreased by 22.1% under stress, knockout mutants
+    suffered a 51.3% reduction
+  - GmMYB84 strengthens cellular defenses by regulating cell wall-related
+    processes by activating chitinase expression, which is associated with cell
+    wall remodeling and pathogen defense
+phenotype_synopsis: GmMYB84 overexpression enhances cadmium tolerance, while
+  knockout increases sensitivity
+traits:
+  - entity_name: chemical stress response
+    entity: TO:0000482
+  - entity_name: stress response to cadmium ion
+    entity: GO:1990170
+  - entity_name: phenylpropanoid biosynthetic process
+    entity: GO:0009699
+  - entity_name: chitinase activity
+    entity: GO:0004568
+references:
+  - citation: Gong, Zhao et al., 2026
+    doi: 10.1016/j.plantsci.2026.113057
