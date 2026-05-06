@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMYB84
-gene_symbol_long: null
+gene_symbol_long: MYB transcription factor 84
 gene_model_pub_name: Glyma.05G234600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G234600
 confidence: 5
@@ -22,6 +22,8 @@ comments:
 phenotype_synopsis: GmMYB84 overexpression enhances cadmium tolerance, while
   knockout increases sensitivity
 traits:
+  - entity_name: chemical stress response
+    entity: TO:0000482
   - entity_name: stress response to cadmium ion
     entity: GO:1990170
   - entity_name: phenylpropanoid biosynthetic process
