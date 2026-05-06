@@ -9,10 +9,14 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  - GmEXLB1 improves the root development dependent-on auxin signal pathway, significantly increasing lateral root density and quantity 
-  - GmEXLB1 directly interacts with GmPUB21, an E3 ubiquitin ligase that negatively regulates soybean salt tolerance.
-  - The stability of GmEXLB1 is regulated via the 26S proteasome pathway, and GmPUB21 promotes the degradation of GmEXLB1 specifically under salt stress.
-phenotype_synopsis: Overexpression of GmEXLB1 enhances salt tolerance in soybean and promotes root development
+  - GmEXLB1 improves the root development dependent-on auxin signal pathway,
+    significantly increasing lateral root density and quantity
+  - GmEXLB1 directly interacts with GmPUB21, an E3 ubiquitin ligase that
+    negatively regulates soybean salt tolerance.
+  - The stability of GmEXLB1 is regulated via the 26S proteasome pathway, and
+    GmPUB21 promotes the degradation of GmEXLB1 specifically under salt stress.
+phenotype_synopsis: Overexpression of GmEXLB1 enhances salt tolerance in soybean
+  and promotes root development
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -24,4 +28,5 @@ references:
   - citation: Kong, Wang et al., 2019
     doi: 10.3389/fpls.2019.00808
     pmid: 31333686
+
 ---
