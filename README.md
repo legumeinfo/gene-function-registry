@@ -25,7 +25,11 @@ The traits.yml file contains one or more yaml "documents", indicated by three le
 ## Curation and review process
 Because the curation process for this type of data involves close reading and review of scientific literature, and because several curators will be doing this work, we will prepare the files away from the main Data Store. The workspace for drafting and reviewing the records is at the <a href="https://github.com/legumeinfo/gene-function-registry" target="_blank">gene-function-registry</a> with the yaml documents going into the respective Genus/species/studies directories. In general, a yaml document is associated with a publication (aka "study"), and is named in the `Author_Author_YEAR.yml` pattern. A manuscript may describe one or several genes. Each gene "record" should have its own "document" within the yaml file, where a "document" is signified by a line with three dashes at the top of the document.
 
-<strong>Note: After generating a new yaml file, check whether it is compliant yaml format with a format-checker such as <a href="https://www.yamllint.com" target="_blank">www.yamllint.com</a>.</strong>
+<strong>Note: After generating a new yaml file, validate it using the validate_gfr.sh script:</strong>
+```
+ Usage: ./scripts/validate_gfr.sh <path_to_yaml_file>
+ Example: ./scripts/validate_gfr.sh Pisum/sativum/studies/pissa.Feng_Chen_2024.yml
+```
 
 After review and revision if needed, new gene records (as yaml documents) will be added to the appropriate gensp.traits.yml file in the Data Store. Draft curation work will go into the <a href="https://github.com/legumeinfo/gene-function-registry" target="_blank">gene-function-registry</a> repository, and then go into the Data Store file system -- and from there, into the <a href="https://github.com/legumeinfo/datastore-metadata" target="_blank">datastore-metadata</a> repository.
 

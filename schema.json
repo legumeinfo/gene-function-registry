@@ -1,52 +1,95 @@
 {
-    "type": "object",
-    "properties": {
+  "type": "object",
+  "properties": {
+      "scientific_name": {
+          "description": "Genus species",
+          "type": "string",
+          "pattern": "^[A-Z][a-z]+ [a-z]+$"
+      },
       "classical_locus": {
-        "description": "Name of locus if available from classical genetic studies",
-        "type": "string"
+          "description": "Short string signifying genetic locus",
+          "type": "string",
+          "pattern": "^(?!none).*$"
       },
       "gene_symbols": {
-        "description": "List of gene symbols if available from literature",
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
+          "description": "List of gene symbols, in a yaml array",
+          "type": "array",
+          "items": {
+              "type": "string"
+          },
+          "minItems": 1,
+          "uniqueItems": true
       },
       "gene_symbol_long": {
-        "description": "Descriptive name of gene symbol if available",
-        "type": "string"
+          "description": "Name of primary/first gene symbol",
+          "type": "string",
+          "pattern": "^(?!none).*$"
       },
       "gene_model_pub_name": {
-        "description": "Gene name from publication",
-        "type": "string"
+          "description": "Gene identifier used in the publication",
+          "type": "string"
       },
       "gene_model_full_id": {
-        "description": "Gene name in Data Store, with full prefix",
-        "type": "string"
+          "description": "Gene model name from LIS datastore, with prefix; form gensp.Strain.gnm#.ann#.geneID",
+          "type": "string",
+          "pattern": "^[^.\\s]+\\.[^.\\s]+\\.[^.\\s]+(\\.[^.\\s]+)*$"
       },
       "confidence": {
-        "description": "Confidence of association",
-        "minimum": 1,
-        "maximum": 5,
-        "type": "integer"
+          "description": "Integer between 1 and 5, with 5 indicating rigorous validation; 1 and 2 low confidence, and avoided",
+          "type": ["integer"],
+          "minimum": 3,
+          "maximum": 5
       },
       "curators": {
-        "description": "Name of curators who worked on this",
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
+          "description": "Name(s) of one or more curators, in a yaml array",
+          "type": "array",
+          "items": {
+              "type": "string"
+          },
+          "minItems": 1,
+          "uniqueItems": true
       },
       "comments": {
-        "description": "Free text comments",
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
+          "description": "Comments explaining key aspects of the biology or curation, in a yaml array",
+          "type": "array",
+          "items": {
+              "type": "string"
+          }
       },
       "phenotype_synopsis": {
-        "description": "Brief free-text phenotype description, e.g. \"Seed raffinose concentration\" or \"photoperiod insensitivity to short day conditions\"",
-        "type": "string"
+          "description": "Short description of the phenotypic effect of the gene (mutant or over expression)", 
+          "type": "string",
+          "maxLength": 500,
+          "pattern": "^(?!none).*$"
+      },
+      "references": {
+        "description": "Array of citations with sub-array of doi and pmid",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+                      "citation": {
+                        "description": "String with format 'Author, Author et al., YEAR', 'Author, Author, YEAR', or 'Author, YEAR'",
+                        "type": "string",
+                        "pattern": "(^\\S+, \\S+ et al\\., \\d{4}$)|(^\\S+, \\S+, \\d{4}$)|(^\\S+, \\d{4}$)"
+                      },
+                      "doi": {
+                        "description": "DOI pointing to the dataset; NOTE this is NOT a URI!",
+                        "type": "string",
+                        "pattern": "10\\.\\d{4,9}.+"
+                      },
+                      "pmid": {
+                        "description": "PMID",
+                        "type": ["integer"],
+                        "maximum": 99999999
+                      }
+                    },
+            "required": ["citation"],
+              "anyOf": [
+                { "required": ["doi"] },
+                { "required": ["pmid"] }
+              ]
+        }
       },
       "traits": {
         "description": "List of traits associated with this gene",
@@ -54,64 +97,31 @@
         "items": {
           "type": "object",
           "properties": {
-            "entity_name": {
-              "description": "Short descriptive name of the ontology accession",
-              "type": "string"
+            "entity_name": { 
+              "description": "Human-readable name of ontology term, e.g., 'defense response to nematode'",
+              "type": "string",
+              "pattern": "^(?!none).*$"
             },
-            "entity": {
-              "description": "Ontology accession for the trait",
-              "type": "string"
+            "entity": { 
+              "description": "Ontology accession with format 'NS:###', where NS is the namespace, e.g. TO or GO",
+              "type": "string",
+              "pattern": "^[A-Za-z]+\\d*:\\d{7}$"
             },
-            "quality_name": {
-              "description": "Short descriptive name for accession quality term",
-              "type": "string"
+            "relation_name": { 
+              "description": "Human-readable name of ontology term, e.g., 'defense response to nematode'",
+              "type": "string",
+              "pattern": "^(?!none).*$"
             },
-            "quality": {
-              "description": "Ontology accession for the quality term",
-              "type": "string"
-            },
-            "relation_name": {
-              "description": "Short descriptive name for accession relation term",
-              "type": "string"
-            },
-            "relation": {
-              "description": "Ontology accession for the relation term",
-              "type": "string"
+            "relation": { 
+              "description": "Ontology accession with format 'RO:###', where RO is the relation ontology",
+              "type": "string",
+              "pattern": "^(RO|PATO):\\d{7}$"
             }
           }
         }
-      },
-      "references": {
-        "description": "List of references for this association",
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "citation": {
-              "description": "Citation in the format \"LastName, LastName et al., YEAR\"",
-              "type": "string"
-            },
-            "doi": {
-              "description": "DOI for the publication",
-              "type": "string"
-            },
-            "pmid": {
-              "description": "PubMed ID for the publication",
-              "minimum": 1,
-              "type": "integer"
-            }
-          }
-        }
-      } 
-    },
-    "additionalProperties": false,
-    "required": [
-      "confidence",
-      "gene_model_full_id",
-      "gene_model_pub_name",
-      "phenotype_synopsis",
-      "references",
-      "traits"
-    ]
+      }
+  },
+  "required": [ "scientific_name", "gene_symbols", "gene_model_pub_name", "gene_model_full_id", 
+                "confidence", "phenotype_synopsis", "traits", "references" ],
+  "additionalProperties": false
 }
-
