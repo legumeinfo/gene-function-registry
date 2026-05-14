@@ -4,7 +4,7 @@ gene_symbols:
   - GmDGAT1A
 gene_symbol_long: Diacylglycerol Acyltransferase 1A
 gene_model_pub_name: Glyma.13G106100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G106100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G106100
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -26,7 +26,7 @@ references:
   - citation: Li, Hatanaka et al., 2013
     doi: 10.1007/s10142-012-0306-z
     pmid: 23322364
-  - citation: Zhau, Bi et al., 2019
+  - citation: Zhao, Bi et al., 2019
     doi: 10.1016/j.jplph.2019.153019
     pmid: 31437808
   - citation: Zuo, Ikram et al., 2022
@@ -38,7 +38,7 @@ gene_symbols:
   - GmDGAT2D
 gene_symbol_long: Diacylglycerol Acyltransferase 2D
 gene_model_pub_name: Glyma.01G156000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G156000
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -57,3 +57,6 @@ references:
   - citation: Chen, Wang et al., 2016
     doi: 10.1038/srep28541
     pmid: 27345221
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808

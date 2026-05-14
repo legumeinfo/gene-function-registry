@@ -4,7 +4,7 @@ gene_symbols:
   - GmFT2b
 gene_symbol_long: Flowering Time 2b
 gene_model_pub_name: Glyma.16G151000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G151000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G151000
 confidence: 5
 curators:
   - Steven Cannon
@@ -35,7 +35,7 @@ gene_symbols:
   - GmFT3a
 gene_symbol_long: Flowering Time 3a
 gene_model_pub_name: Glyma.16G044200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G044200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044200
 confidence: 5
 curators:
   - Steven Cannon
@@ -62,7 +62,7 @@ gene_symbols:
   - GmFT3b
 gene_symbol_long: Flowering Time 3b
 gene_model_pub_name: Glyma.19G108100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G108100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108100
 confidence: 5
 curators:
   - Steven Cannon
@@ -83,13 +83,16 @@ references:
   - citation: Lin, Liu et al., 2021
     doi: 10.1111/jipb.13021
     pmid: 33090664
+  - citation: Su, Chen et al., 2022
+    doi: 10.3390/ijms23052497
+    pmid: 35269637
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmFT5b
 gene_symbol_long: Flowering Time 5b
 gene_model_pub_name: Glyma.19G108200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G108200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108200
 confidence: 5
 curators:
   - Steven Cannon

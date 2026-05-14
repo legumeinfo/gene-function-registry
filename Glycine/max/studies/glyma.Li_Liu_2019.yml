@@ -5,7 +5,7 @@ gene_symbols:
   - GmPRR3A
 gene_symbol_long: Pseudo Response Regulator 3A
 gene_model_pub_name: Glyma11g15580
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g15580
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G148362
 confidence: 3
 curators:
   - William Hardison
@@ -27,7 +27,7 @@ gene_symbols:
   - GmPRR3B
 gene_symbol_long: Pseudo Response Regulator 3B
 gene_model_pub_name: Glyma12g07861
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g07861
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073900
 confidence: 3
 curators:
   - William Hardison

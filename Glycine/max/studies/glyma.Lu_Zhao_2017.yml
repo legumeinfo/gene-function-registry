@@ -5,7 +5,7 @@ gene_symbols:
   - GmELF3
 gene_symbol_long: Early Flowering 3
 gene_model_pub_name: Glyma.04G050200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G050200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G050200
 confidence: 5
 curators:
   - Steven Cannon
@@ -32,10 +32,10 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY1a
+  - GmLHY1a
 gene_symbol_long: Leafy 1a
 gene_model_pub_name: Glyma.16G017400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G017400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G017400
 confidence: 5
 curators:
   - Steven Cannon
@@ -59,7 +59,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY1b
+  - GmLHY1b
 gene_symbol_long: Leafy 1b
 gene_model_pub_name: Glyma.07G048500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G048500
@@ -86,13 +86,12 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY2a
   - GmLHY2a
-  - LCL3
-  - MYB156
+  - GmLCL3
+  - GmMYB156
 gene_symbol_long: Leafy 2a
 gene_model_pub_name: Glyma.19G260900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G260900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
 confidence: 5
 curators:
   - Steven Cannon
@@ -118,13 +117,16 @@ references:
   - citation: Chen, Cai et al., 2020
     doi: 10.1111/pce.13695
     pmid: 31981430
+  - citation: Cheng, Dong et al., 2019
+    doi: 10.1186/s12870-019-2145-8
+    pmid: 31852439
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY2b
+  - GmLHY2b
 gene_symbol_long: Leafy 2b
 gene_model_pub_name: Glyma.03G261800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G261800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G261800
 confidence: 5
 curators:
   - Steven Cannon

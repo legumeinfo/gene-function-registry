@@ -1,7 +1,7 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmPR08-Bet VI
+  - GmPR08-BetVI
 gene_model_pub_name: Glyma.08G230500
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G230500
 confidence: 4
@@ -37,7 +37,7 @@ gene_symbols:
   - GmSNAP18
 gene_symbol_long: Soluble NSF (N-ethylmaleimide-sensitive factor) attachment protein 18
 gene_model_pub_name: Glyma.18G022500
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.18G022500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G022500
 confidence: 4
 curators:
   - Molly Hardacre
@@ -67,7 +67,7 @@ gene_symbols:
   - GmSHMT08
 gene_symbol_long: Serine hydroxymethyltransferase 8
 gene_model_pub_name: Glyma.08G108900
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G108900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G108900
 confidence: 4
 curators:
   - Molly Hardacre

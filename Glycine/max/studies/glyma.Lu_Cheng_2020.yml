@@ -4,7 +4,7 @@ gene_symbols:
   - GmPHR1
 gene_symbol_long: Phosphate Starvation Response 1
 gene_model_pub_name: Glyma.01G009600
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G009600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G009600
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -40,7 +40,7 @@ gene_symbols:
   - GmPHR4
 gene_symbol_long: Phosphate Starvation Response 4
 gene_model_pub_name: Glyma.02G108500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G108500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G108500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -67,7 +67,7 @@ gene_symbols:
   - GmPHT1-1
 gene_symbol_long: Phosphate Transporter 1-1
 gene_model_pub_name: Glyma10G33030
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G33030
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G186500
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -128,7 +128,7 @@ gene_symbols:
   - GmPHT1-11
 gene_symbol_long: Phosphate Transporter 1-11
 gene_model_pub_name: Glyma.14G188000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G188000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G188000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes

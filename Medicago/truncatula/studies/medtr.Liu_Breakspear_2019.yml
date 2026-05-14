@@ -1,7 +1,7 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - CYCLOPS
+  - MtCYCLOPS
 gene_model_pub_name: Medtr5g026850
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g026850
 confidence: 5
