@@ -1,0 +1,23 @@
+scientific_name: Glycine max
+classical_locus:
+gene_symbols:
+  -
+gene_symbol_long:
+gene_model_pub_name: Glyma.14G204700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G204700
+confidence:
+curators:
+  - Scott Kalberer
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Tran, Widyasari et al., 2018
+    doi: 10.1016/j.virol.2017.10.014
+    pmid: 29080441
+  - citation:
+    doi:
+    pmid:
