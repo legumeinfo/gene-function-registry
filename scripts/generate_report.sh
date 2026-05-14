@@ -41,7 +41,7 @@ process_gene_symbols() {
     gene_symbols_output=$(
         for yml_file in "${yaml_files[@]}"; do
             yq '.gene_symbols[]' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1\t/'
+        done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
     # Save the output to a file if '-p', else print to STDOUT
@@ -86,7 +86,7 @@ process_gene_model_full_id() {
     gene_id_output=$(
         for yml_file in "${yaml_files[@]}"; do
             yq '.gene_model_full_id' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1\t/'
+        done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
     # Save the output to a file if '-p', else print to STDOUT
@@ -131,7 +131,7 @@ process_gene_symbol_and_gene_model() {
     gene_symbol_and_id_output=$(
         for yml_file in "${yaml_files[@]}"; do
             yq '.gene_symbols[0] + "\t" + .gene_model_full_id' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1\t/'
+        done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
     # Save the output to a file if '-p', else print to STDOUT
@@ -177,7 +177,7 @@ process_citation_table() {
             # Extract citation, doi, and pmid from references and format as pipe-separated
             yq '.references[] | select(has("citation") and has("doi") and has("pmid")) | 
                 (.pmid // "N/A") + "\t" + (.doi // "N/A") + "\t" + .citation' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1\t/'
+        done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
     if [ -n "$table_output" ]; then
@@ -233,7 +233,7 @@ process_entity_pairs() {
             # Select entries in 'traits' array that have both 'entity' and 'entity_name'
             # and output them as "entity | entity_name"
             yq '.traits[] | select(has("entity") and has("entity_name")) | .entity + "\t" + .entity_name' "$yml_file" 2>/dev/null
-        done | sed '/---/d' | sort | uniq -c | sort -nr | perl -pe 's/^( +\d+) /$1\t/'
+        done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
     if [ -n "$combined_pairs_output" ]; then
@@ -259,29 +259,38 @@ process_entity_pairs() {
 
 # --- Main script logic ---
 usage() {
-    echo "Usage: $(basename "$0 [Genus] [species]") [-h] [-p] [-d]"
-    echo "  -h for this usage message"
-    echo "  -p to print to gensp.report.txt files in the respective Genus/species/gene_functions/ directories, OVERWRITING"
-    echo "  -d to print to gensp.report.DATE.txt . Use this option with -p to generate files with a date string."
-    echo ""
-    echo "NOTE: Please don't generate gensp.report.DATE.txt to be checked into the repository."
-    echo "Rather, update the existing gensp.report.txt files and use the git history to track changes."
-    echo ""
-    echo "Examples:"
-    echo "  To print to STDOUT: "
-    echo "     scripts/$(basename "$0") Glycine max"
-    echo "  To print reports to each Genus/species/gene_functions/gensp.report.txt :"
-    echo "     scripts/$(basename "$0") -p Glycine max"
-    echo "  To print reports to each Genus/species/gene_functions/gensp.report.DATE.txt :"
-    echo "     scripts/$(basename "$0") -p -d Glycine max"
-    echo "  To generate reports for all species:"
-    echo "     cat templates/genus_species.tsv | while read -r line; do"
-    echo "       genus=\$(echo \$line | cut -f1 -d' ')" 
-    echo "       species=\$(echo \$line | cut -f2 -d' ')"
-    echo "       echo \$genus \$species"
-    echo "       scripts/generate_report.sh -p \$genus \$species"
-    echo "     done"
-    exit 1
+cat <<USAGE
+
+Usage: $(basename "$0 [-h] [-p] [-d] Genus species")
+  -h for this usage message
+  -p to print to gensp.report.txt files in the respective Genus/species/gene_functions/ directories, OVERWRITING
+  -d to print to gensp.report.DATE.txt . Use this option with -p to generate files with a date string.
+
+  Required: "Genus species", e.g., Glycine max
+    Note that order matters; the Genus and species strings must be the last two arguments.
+
+  Also note: Don't generate gensp.report.DATE.txt to be checked into the repository. Its purpose (opitonal)
+      is to permit running "diff" between an existing gensp.report.txt and the new one. For the 
+      git repository, update the existing gensp.report.txt files and use the git history to track changes.
+
+Examples:
+  To print to STDOUT: 
+     scripts/$(basename "$0") Glycine max
+  To print reports to each Genus/species/gene_functions/gensp.report.txt :
+     scripts/$(basename "$0") -p Glycine max
+  To print reports to each Genus/species/gene_functions/gensp.report.DATE.txt :
+     scripts/$(basename "$0") -p -d Glycine max
+  To generate reports for all species:
+
+     cat templates/genus_species.tsv | while read -r line; do
+       genus=\$(echo \$line | cut -f1 -d' ') 
+       species=\$(echo \$line | cut -f2 -d' ')
+       echo \$genus \$species
+       scripts/generate_report.sh -p \$genus \$species
+     done
+
+USAGE
+exit 1
 }
 
 while getopts ":pdh" opt; do
@@ -294,20 +303,14 @@ while getopts ":pdh" opt; do
     esac
 done
 
-if [[ "$HELP" == "true" ]] ; then
-    usage
-    exit 1
-fi
-
 shift $((OPTIND -1))
 
 genus_name="$1"
 species_name="$2"
 
 # Check if two positional arguments are provided
-if [ -z "$1" ] || [ -z "$2" ]; then
+if [ -z "$1" ] || [ -z "$2" ] || [[ "$HELP" == "true" ]]; then
     usage
-    exit 1
 fi
 
 if [[ "$DATE" == "true" ]] ; then
@@ -338,7 +341,6 @@ if [ ! -d "${genus_name}/${species_name}/gene_functions/" ]; then
     echo "The script should be called from the root directory of the gene-function-registry."
     usage & exit 1
 fi
-
 
 # Save the output to a file if '-p', else print to STDOUT
 if [ "$PRINT" = true ]; then
