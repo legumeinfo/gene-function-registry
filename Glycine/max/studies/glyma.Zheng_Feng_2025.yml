@@ -91,8 +91,8 @@ comments:
   - GmSWEET10a/b may accelerate carbon flux from the seed coat to the embryo.
   - GmSWEET10a/b also significantly contribute to seed weight.
   - Last citation mentions the long gene symbol of GmSWEET10a.
-phenotype_synopsis: GmSWEET10a/GmSWEET39 controls seed oil and protein content in soybean. 
-  It codes for a sucrose efflux transporter in the plasma membrane that produces a pleiotropic 
+phenotype_synopsis: GmSWEET10a/GmSWEET39 controls seed oil and protein content in soybean.
+  It codes for a sucrose efflux transporter in the plasma membrane that produces a pleiotropic
   effect on seed protein and oil content.
 traits:
   - entity_name: fatty acid content trait
