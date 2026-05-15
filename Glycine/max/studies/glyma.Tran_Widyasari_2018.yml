@@ -1,23 +1,37 @@
 scientific_name: Glycine max
 classical_locus:
 gene_symbols:
-  -
-gene_symbol_long:
+  - GmRsv3
+gene_symbol_long: Soybean Mosaic Virus Resistance 3
 gene_model_pub_name: Glyma.14G204700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G204700
-confidence:
+confidence: 5
 curators:
   - Scott Kalberer
 comments:
-  -
-phenotype_synopsis:
+  - Locus Rsv3 confers strain-specific resistance to soybean mosaic virus (SMV)
+    and was mapped on chromosome 14 in soybean genotype L29. Five NBS-LRR
+    candidate genes were identified between two genetic markers.
+  - Glyma.14G204700 in assemblies 2 and 4 is the same as Glyma14g38533 in
+    assembly 1.
+  - Isolated and confirmed a locus, Glyma.14G204700, as full-length cDNA from
+    soybean variety L29 that provides targeted resistance against SMV.
+  - Overexpressing Glyma.14G204700 in susceptible soybeans inhibited SMV
+    infection.
+  - Transient silencing of Glyma.14G204700 in resistant L29 plants increased
+    accumulation of the virus.
+phenotype_synopsis: Glyma.14g204700 is a strong candidate for the Rsv3 gene
+  responsible for strain-specific SMV resistance in soybean.
 traits:
-  - entity_name:
-    entity:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: soybean mosaic virus disease
+    entity: PSO:0002065
 references:
   - citation: Tran, Widyasari et al., 2018
     doi: 10.1016/j.virol.2017.10.014
     pmid: 29080441
-  - citation:
-    doi:
-    pmid:
+  - citation: Redekar, Clevinger et al., 2016
+    doi: 10.3835/plantgenome2015.09.0088
+    pmid: 27898808
+
