@@ -1,0 +1,26 @@
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsIFS1
+gene_symbol_long: Isoflavonoid synthesis 1 
+gene_model_pub_name: 
+gene_model_full_id:
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis: Overexpression of MsIFS1 increased isoflavonoids which in turn enhanced resistance to Pseudomonas syringae pv. tomato DC3000
+traits:
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+references:
+  - citation: Song, Sun et al., 2024
+    doi: 10.1016/j.plaphy.2024.109191
+    pmid: 39406004
+  - citation:
+    doi:
+    pmid:
+---
