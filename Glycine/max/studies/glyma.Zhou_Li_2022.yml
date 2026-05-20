@@ -1,0 +1,71 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNLA1-1
+gene_symbol_long: 
+gene_model_pub_name: Glyma.03g214100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G214100
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmNLA1-1 and GmNLA1-3 was decreased in soybean by nitrogen starvation under phosphate sufficient conditions
+  - Suppression of all three GmNLA1 members was able to increase phosphate concentration regardless of the phosphorus and nitrogen availability in the growth medium, but decrease fresh weight under normal conditions in soybean hairy roots
+  - GFP-GmNLA1-1 and GFP-GmNLA1-3 were detected in both the plasma membrane and nucleus
+phenotype_synopsis:
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: nitrogen sensitivity
+    entity: TO:0000011
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - GmNLA1-2
+gene_symbol_long: 
+gene_model_pub_name: Glyma.10g018800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G018800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmNLA1-2 was not decreased in soybean by nitrogen starvation under phosphate sufficient conditions
+  - GmNLA1-2 was only detected in the plasma membrane
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
+---
+
+scientific_name: Glycine max
+gene_symbols: 4
+  - GmNLA1-3
+gene_symbol_long: 
+gene_model_pub_name: Glyma.19g210900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G210900
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: nitrogen sensitivity
+    entity: TO:0000011
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
