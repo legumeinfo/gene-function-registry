@@ -9,11 +9,17 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - Overexpressing GmFtsH25 resulted in  more grana thylakoid stacks in chloroplasts and increased photosynthetic efficiency and starch content, while knocking out GmFtsH25 produced the opposite phenotypes.
-  - GmFtsH25 interacted with photosystem I light harvesting complex 2 (GmLHCa2), and this interaction may contribute to the observed enhanced photosynthesis.
-  - GmFtsH25 overexpression lines had superior yield traits, such as yield per plant, compared to the wild type and knockout lines.
-  - Although soybean was previously reported to contain 11 FtsH genes, there were an identified an additional 23 FtsHs in this study
-phenotype_synopsis: GmFtsH25 overexpression increases soybean seed yield by enhancing photosynthesis and photosynthates
+  - Overexpressing GmFtsH25 resulted in  more grana thylakoid stacks in
+    chloroplasts and increased photosynthetic efficiency and starch content,
+    while knocking out GmFtsH25 produced the opposite phenotypes.
+  - GmFtsH25 interacted with photosystem I light harvesting complex 2 (GmLHCa2),
+    and this interaction may contribute to the observed enhanced photosynthesis.
+  - GmFtsH25 overexpression lines had superior yield traits, such as yield per
+    plant, compared to the wild type and knockout lines.
+  - Although soybean was previously reported to contain 11 FtsH genes, there
+    were an identified an additional 23 FtsHs in this study
+phenotype_synopsis: GmFtsH25 overexpression increases soybean seed yield by
+  enhancing photosynthesis and photosynthates
 traits:
   - entity_name: photosynthetic rate
     entity: TO:0001015
