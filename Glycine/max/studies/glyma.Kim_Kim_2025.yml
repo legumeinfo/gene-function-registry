@@ -8,7 +8,7 @@ gene_model_pub_name: Glyma.16G208900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G208900
 confidence:
 curators:
-  - Molly Hardacre
+  - Molly Hardacre 
 comments:
   - Glyma.16g208900 was the most abundantly expressed BBi gene in wild-type soybean seeds. However, the expression of this gene was not detected in BBi-silenced transgenic seeds.
 phenotype_synopsis: 
