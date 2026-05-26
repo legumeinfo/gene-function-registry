@@ -66,7 +66,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPHT1-1
 gene_symbol_long: Phosphate Transporter 1-1
-gene_model_pub_name: Glyma10G33030
+gene_model_pub_name: Glyma10g33030
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G186500
 confidence: 3
 curators:

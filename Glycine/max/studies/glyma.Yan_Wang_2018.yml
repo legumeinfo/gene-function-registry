@@ -4,7 +4,7 @@ gene_symbols:
   - GmBEHL1
   - GmBES1-5
 gene_symbol_long: BES1/BZR1 Homolog-Like protein 1
-gene_model_pub_name: Glyma01G178000
+gene_model_pub_name: Glyma.01G178000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G178000
 confidence: 5
 curators:

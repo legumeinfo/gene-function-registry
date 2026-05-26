@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNNC1
 gene_symbol_long: Nodule Number Control 1
-gene_model_pub_name: Glyma12G07800
+gene_model_pub_name: Glyma12g07800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073300
 confidence: 5
 curators:

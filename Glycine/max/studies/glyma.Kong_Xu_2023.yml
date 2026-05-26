@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmVPS8a
 gene_symbol_long: Vacuolar Protein Sorting 8
-gene_model_pub_name: Glyma.07g049700
+gene_model_pub_name: Glyma.07G049700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G049700
 confidence: 5
 curators:

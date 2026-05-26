@@ -34,7 +34,7 @@ classical_locus: fap3
 gene_symbols:
   - GmFATB1a
 gene_symbol_long: Fatty Acid Thioesterase B1a
-gene_model_pub_name: Glyma05G012300
+gene_model_pub_name: Glyma05g08060
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G012300
 confidence: 4
 curators:
