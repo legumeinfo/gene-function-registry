@@ -1,5 +1,5 @@
 
-Status for Glycine soja (glyso) as of 2026-05-14:
+Status for Glycine soja (glyso) as of 2026-05-27:
 
 Count  gene_symbols; Summary for glyso
   --------------------------------------------------

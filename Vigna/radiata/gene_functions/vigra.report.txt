@@ -1,5 +1,5 @@
 
-Status for Vigna radiata (vigra) as of 2026-05-14:
+Status for Vigna radiata (vigra) as of 2026-05-27:
 
 Count  gene_symbols; Summary for vigra
   --------------------------------------------------

@@ -1,5 +1,5 @@
 
-Status for Medicago truncatula (medtr) as of 2026-05-14:
+Status for Medicago truncatula (medtr) as of 2026-05-27:
 
 Count  gene_symbols; Summary for medtr
   --------------------------------------------------
@@ -93,7 +93,6 @@ Count  gene_symbols; Summary for medtr
 
 Count  gene_model_full_id; Summary for medtr
   --------------------------------------------------
-   2	medtr.A17_HM341.gnm4.ann2.Medtr6g034835
    1	medtr.A17_HM341.gnm4.ann2.Medtr0007s0220
    1	medtr.A17_HM341.gnm4.ann2.Medtr1g030890
    1	medtr.A17_HM341.gnm4.ann2.Medtr1g056530
@@ -148,6 +147,7 @@ Count  gene_model_full_id; Summary for medtr
    1	medtr.A17_HM341.gnm4.ann2.Medtr5g099060
    1	medtr.A17_HM341.gnm4.ann2.Medtr6g027840
    1	medtr.A17_HM341.gnm4.ann2.Medtr6g029180
+   1	medtr.A17_HM341.gnm4.ann2.Medtr6g034835
    1	medtr.A17_HM341.gnm4.ann2.Medtr6g052300
    1	medtr.A17_HM341.gnm4.ann2.Medtr6g071190
    1	medtr.A17_HM341.gnm4.ann2.Medtr7g016630
@@ -207,7 +207,6 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
    1	MtDMI3	medtr.A17_HM341.gnm4.ann2.Medtr8g043970
    1	MtDNF2	medtr.A17_HM341.gnm4.ann2.Medtr4g085800
    1	MtEIN2	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0264231
-   1	MtENOD40	medtr.A17_HM341.gnm4.ann2.Medtr6g034835
    1	MtEPP1	medtr.A17_HM341.gnm4.ann2.Medtr3g099200
    1	MtERN1	medtr.A17_HM341.gnm4.ann2.Medtr7g085810
    1	MtERN2	medtr.A17_HM341.gnm4.ann2.Medtr6g029180
@@ -266,7 +265,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
 
 Count  PMID   DOI   Citation; Summary for medtr
   --------------------------------------------------
-  40	25774204	10.1186/s13007-015-0053-y	Oellrich, Walls et al., 2015
+  39	25774204	10.1186/s13007-015-0053-y	Oellrich, Walls et al., 2015
    8	26672071	10.1105/tpc.15.00461	Vernie, Kim et al., 2015
    5	29361570	10.1242/dev.158766	Cheng, Li et al., 2018
    3	25105497	10.1371/journal.pone.0103770	Serwatowska, Roque et al., 2014
@@ -473,7 +472,6 @@ Count  Ontology accession   Description; Summary for medtr
    1	TO:0003074	root nitrogen content
    1	TO:0006001	salt tolerance
    1	TO:0006012	carpel morphology trait
-   1	TO:0006015	plant tissue development trait
    1	TO:0006020	shoot apical meristem development
    1	TO:0006036	stem elongation
    1	TO:0006038	floral organ number

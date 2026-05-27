@@ -650,7 +650,7 @@ SO  - Development. 2018 Feb 8;145(3):dev158766. doi: 10.1242/dev.158766.
 
 
 ##### PUB RECORD #####
-## 10.1093/plphys/kiaa005  33631796  Cheng, Li et al., 2021  Cheng X, Li G, Krom N, Tang Y, Wen J. Genetic regulation of flowering time and inflorescence architecture by MtFDa and MtFTa1 in Medicago truncatula. Plant Physiol. 2021 Feb 25;185(1):161-178. doi: 10.1093/plphys/kiaa005. PMID: 33631796; PMCID: PMC8133602. ##
+## 10.1093/plphys/kiaa005  33631796  Cheng, Li et al., 2020  Cheng X, Li G, Krom N, Tang Y, Wen J. Genetic regulation of flowering time and inflorescence architecture by MtFDa and MtFTa1 in Medicago truncatula. Plant Physiol. 2021 Feb 25;185(1):161-178. doi: 10.1093/plphys/kiaa005. PMID: 33631796; PMCID: PMC8133602. ##
 
 PMID- 33631796
 OWN - NLM
@@ -5673,7 +5673,7 @@ SO  - Int J Mol Sci. 2016 Jul 25;17(8):1197. doi: 10.3390/ijms17081197.
 
 
 ##### PUB RECORD #####
-## 10.1007/s11103-005-8102-y  16240175  Schnabel Journet et al., 2005  Schnabel E, Journet EP, de Carvalho-Niebel F, Duc G, Frugoli J. The Medicago truncatula SUNN gene encodes a CLV1-like leucine-rich repeat receptor kinase that regulates nodule number and root length. Plant Mol Biol. 2005 Aug;58(6):809-822. doi: 10.1007/s11103-005-8102-y. PMID: 16240175. ##
+## 10.1007/s11103-005-8102-y  16240175  Schnabel, Journet et al., 2005  Schnabel E, Journet EP, de Carvalho-Niebel F, Duc G, Frugoli J. The Medicago truncatula SUNN gene encodes a CLV1-like leucine-rich repeat receptor kinase that regulates nodule number and root length. Plant Mol Biol. 2005 Aug;58(6):809-822. doi: 10.1007/s11103-005-8102-y. PMID: 16240175. ##
 
 PMID- 16240175
 OWN - NLM
@@ -6373,7 +6373,7 @@ SO  - Plants (Basel). 2024 Apr 2;13(7):1012. doi: 10.3390/plants13071012.
 
 
 ##### PUB RECORD #####
-## 10.1093/pcp/pcy228  30476329  Valdés-López, Jayaraman et al.,, 2019  Valdés-López O, Jayaraman D, Maeda J, Delaux PM, Venkateshwaran M, Isidra-Arellano MC, Reyero-Saavedra MR, Sánchez-Correa MS, Verastegui-Vidal MA, Delgado-Buenrostro N, Van Ness L, Mysore KS, Wen J, Sussman MR, Ané JM. A Novel Positive Regulator of the Early Stages of Root Nodule Symbiosis Identified by Phosphoproteomics. Plant Cell Physiol. 2019 Mar 1;60(3):575-586. doi: 10.1093/pcp/pcy228. PMID: 30476329. ##
+## 10.1093/pcp/pcy228  30476329  Valdés-López, Jayaraman et al., 2019  Valdés-López O, Jayaraman D, Maeda J, Delaux PM, Venkateshwaran M, Isidra-Arellano MC, Reyero-Saavedra MR, Sánchez-Correa MS, Verastegui-Vidal MA, Delgado-Buenrostro N, Van Ness L, Mysore KS, Wen J, Sussman MR, Ané JM. A Novel Positive Regulator of the Early Stages of Root Nodule Symbiosis Identified by Phosphoproteomics. Plant Cell Physiol. 2019 Mar 1;60(3):575-586. doi: 10.1093/pcp/pcy228. PMID: 30476329. ##
 
 PMID- 30476329
 OWN - NLM
