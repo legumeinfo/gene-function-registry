@@ -4,7 +4,7 @@ gene_symbols:
   - GmABCC8
 gene_symbol_long: ATP-Binding Cassette Transporter 8
 gene_model_pub_name: Glyma.07G011600
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G011600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G011600
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes

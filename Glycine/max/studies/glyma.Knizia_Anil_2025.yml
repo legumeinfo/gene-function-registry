@@ -4,7 +4,7 @@ gene_symbols:
   - GmSS1
 gene_symbol_long: Sucrose synthase 1
 gene_model_pub_name: Glyma.02G240400
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.02G240400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G240400
 confidence: 4
 curators:
   - Molly Hardacre
@@ -39,7 +39,7 @@ gene_symbols:
   - GmSS4
 gene_symbol_long: Sucrose synthase 4
 gene_model_pub_name: Glyma.09G167000
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G167000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G167000
 confidence: 4
 curators:
   - Molly Hardacre

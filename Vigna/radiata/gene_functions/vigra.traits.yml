@@ -27,7 +27,7 @@ traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
 references:
-  - citation: Liu, Zhang, et. al., 2022
+  - citation: Liu, Zhang, et al., 2022
     doi: 10.1186/s12864-022-08620-7
     pmid: 35581536
 

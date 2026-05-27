@@ -28,7 +28,7 @@ traits:
   - entity_name: Chlorophyll content
     entity: TO:0000495
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
 
@@ -54,7 +54,7 @@ traits:
   - entity_name: Seed coat texture
     entity: TO:0000903
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
 
@@ -63,26 +63,52 @@ scientific_name: Pisum sativum
 classical_locus: I
 gene_symbols:
   - PsSGR
-gene_symbol_long: Stay green
+gene_symbol_long: Staygreen
 gene_model_pub_name: Psat02G0529500
 gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat2g181040
 confidence: 5
 curators:
   - Raegan Nelson
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - Two classes of i alleles i-1 and i-2
   - SGR encodes Mg-dechelatase
   - i-1 is caused by a insertion of a 5,696 nt TAR element (a Ty1-Copia LTR
       retrotransposon)
   - i-2 is a novel 408 bp deletion in the promoter of the Mg-dechelatase gene
-phenotype_synopsis: SGR is involved in cotyledon color
+phenotype_synopsis: SGR is involved in cotyledon color. The recessive phenotype
+  sgr retains a high chlorophyll content during senescence, causing cotyledons
+  to stay green as they mature and leaves to stay green as they die. PsSGR is a
+  cosmetic stay-green mutant and does not retain the ability to
+  photosynthesize.
 traits:
   - entity_name: Seedling cotyledon color
     entity: TO:0000750
+  - entity_name: chlorophyll catabolic process
+    entity: GO:0015996
+  - entity_name: positive regulation of chlorophyll catabolic process
+    entity: GO:1903648
+  - entity_name: plant embryo cotyledon color
+    entity: TO:0000980
+  - entity_name: leaf senescence trait
+    entity: TO:0000249
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
+  - citation: Sato, Morita et al., 2007
+    doi: 10.1073/pnas.0705521104
+    pmid: 17709752
+  - citation: Armstead, Donnison et al., 2007
+    doi: 10.1126/science.1132912
+    pmid: 17204643
+  - citation: Aubry, Mani et al., 2008
+    doi: 10.1007/s11103-008-9314-8
+    pmid: 18301989
+  - citation: Hortensteiner, 2009
+    doi: 10.1016/j.tplants.2009.01.002
+    pmid: 19237309
 
 ---
 scientific_name: Pisum sativum
@@ -105,7 +131,7 @@ traits:
   - entity_name: Flower color
     entity: TO:0000537
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
 
@@ -131,7 +157,7 @@ traits:
   - entity_name: Stem internode morphology trait
     entity: TO:0000756
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
 
@@ -160,7 +186,7 @@ traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
 
@@ -189,7 +215,7 @@ traits:
   - entity_name: apical meristem
     entity: PO:0020144
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
 
@@ -219,55 +245,7 @@ traits:
   - entity_name: sclerenchyma
     entity: PO:0005427
 references:
-  - citation: Feng, Chen et al., 2024
+  - citation: Feng, Chen et al., 2025
     doi: 10.1038/s41586-025-08891-6
     pmid: 40269167
-
----
-scientific_name: Pisum sativum
-classical_locus: I
-gene_symbols:
-  - PsSGR
-gene_symbol_long: Staygreen
-gene_model_pub_name: AB303332
-gene_model_full_id: pissa.Cameor.gnm1.ann1.Psat2g181040
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - Complementation test confirms that PsSGR is the Mendelian I locus. SGR is a
-      positive regulator of pathways involved in breakdown of chlorophyll via
-      translational or post-translational regulation of chlorophyll degrading
-      enzymes. The products of SGR are required to separate chlorophyll from
-      the photosynthetic complex, allowing chlorophyll degrading enzymes access
-      to their substrate. The sgr loss-of-function mutation is due to lower
-      expression of the SGR gene and a small insertion that disrupts SGR
-      protein fuction.
-phenotype_synopsis: The recessive phenotype sgr retains a high chlorophyll
-  content during senescence, causing cotyledons to stay green as they mature
-  and leaves to stay green as they die. PsSGR is a cosmetic stay-green mutant
-  and does not retain the ability to photosynthesize.
-traits:
-  - entity_name: chlorophyll catabolic process
-    entity: GO:0015996
-  - entity_name: positive regulation of chlorophyll catabolic process
-    entity: GO:1903648
-  - entity_name: plant embryo cotyledon color
-    entity: TO:0000980
-  - entity_name: leaf senescence trait
-    entity: TO:0000249
-references:
-  - citation: Sato, Morita et al., 2007
-    doi: 10.1073/pnas.0705521104
-    pmid: 17709752
-  - citation: Armstead, Donnison et al., 2007
-    doi: 10.1126/science.1132912
-    pmid: 17204643
-  - citation: Aubry, Mani et al., 2008
-    doi: 10.1007/s11103-008-9314-8
-    pmid: 18301989
-  - citation: Hortensteiner, 2009
-    doi: 10.1016/j.tplants.2009.01.002
-    pmid: 19237309
 

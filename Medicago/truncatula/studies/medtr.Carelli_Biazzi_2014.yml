@@ -1,14 +1,14 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - cyp716A12
+  - Mtcyp716A12
 gene_symbol_long: cytochrome P450 monoxygenase
 gene_model_pub_name: Medtr3g021350
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g021350
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: A cytochrome P450 gene (CYP716A12) is involved in an early step in saponin biosynthesis and is found in most tissues.  CYP716A12 loss-of-function mutants do not produce hemolytic saponins and only synthetize soyasaponins, and were thus named lacking hemolytic activity (lha).  CYP716A12 catalyzes the oxidation of _-amyrin and erythrodiol at the C-28 position, yielding oleanolic acid. Transcriptome changes in the lha mutant showed a modulation in the main steps of the triterpenic saponin biosynthetic pathway, which includes squalene cyclization, _-amyrin oxidation, and glycosylation.  Growth of homozygous lha/lha plants was stunted.
+phenotype_synopsis: A cytochrome P450 gene (CYP716A12) is involved in an early step in saponin biosynthesis and is found in most tissues. CYP716A12 loss-of-function mutants do not produce hemolytic saponins and only synthetize soyasaponins, and were thus named lacking hemolytic activity (lha).
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928

@@ -1,7 +1,7 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - DMI3
+  - MtDMI3
 gene_symbol_long: doesn't make infections 3
 gene_model_pub_name: Medtr8g043970
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g043970

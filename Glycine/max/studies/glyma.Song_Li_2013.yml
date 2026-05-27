@@ -3,8 +3,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmbZIP123
 gene_symbol_long: Basic Leucine Zipper 123
-gene_model_pub_name: Glyma06G01240
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06G01240
+gene_model_pub_name: Glyma06g01240
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G010200
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes

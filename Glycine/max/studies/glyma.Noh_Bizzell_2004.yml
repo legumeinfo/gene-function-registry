@@ -4,7 +4,7 @@ gene_symbols:
   - GmELF5
 gene_symbol_long: Early Flowering 5
 gene_model_pub_name: Glyma.05G031100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G031100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G031100
 confidence: 5
 curators:
   - Steven Cannon
@@ -27,7 +27,7 @@ gene_symbols:
   - GmTEM1a
 gene_symbol_long: Tempranillo 1a
 gene_model_pub_name: Glyma.20G186200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G186200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G186200
 confidence: 3
 curators:
   - Steven Cannon
