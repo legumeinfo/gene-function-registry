@@ -24,7 +24,7 @@ traits:
   - entity_name: positively regulates
     entity: GO:0000496
 references:
-  - citation: Sayama, Tanabata et. al., 2017
+  - citation: Sayama, Tanabata et al., 2017
     doi: 10.1270/jsbbs.16201
     pmid: 29085246
 

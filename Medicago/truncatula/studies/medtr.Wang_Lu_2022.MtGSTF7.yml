@@ -8,10 +8,10 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr3g064700
 confidence: 5
 curators:
   - Wei Huang
-phenotype_synopsis: MtGSTF7, a homolog of AtTT19, is essential for anthocyanin accumulation but not required for PA accumulation in Medicago truncatula. MtGSTF7 was induced by the anthocyanin regulator LEGUME ANTHOCYANIN PRODUCTION 1 (LAP1), and its tissue expression pattern correlated with anthocyanin deposition in M. truncatula.
+phenotype_synopsis: MtGSTF7, a homolog of AtTT19, is essential for anthocyanin accumulation. MtGSTF7 was induced by the anthocyanin regulator LEGUME ANTHOCYANIN PRODUCTION 1 (LAP1), and its tissue expression pattern correlated with anthocyanin deposition.
 traits:
-  - entity_name: anthocyanin accumulation
-    entity: NCIT:C16641
+  - entity_name: anthocyanin-containing compound metabolic process
+    entity: GO:0009718
 references:
   - citation: Wang, Lu et al., 2022
     doi: 10.1093/jxb/erac112

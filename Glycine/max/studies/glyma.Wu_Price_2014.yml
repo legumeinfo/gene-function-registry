@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1a
 gene_symbol_long: CONSTANS-Like 1a
-gene_model_pub_name: Glyma08G28370
+gene_model_pub_name: Glyma08g28370
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G255200
 confidence: 5
 curators:
@@ -36,7 +36,7 @@ references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Zhang et al., 2022
+  - citation: Khan, Zhang et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153
 
@@ -45,7 +45,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1b
 gene_symbol_long: CONSTANS-Like 1b
-gene_model_pub_name: Glyma18G51320
+gene_model_pub_name: Glyma18g51320
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G278100
 confidence: 3
 curators:
@@ -78,6 +78,6 @@ references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Zhang et al., 2022
+  - citation: Khan, Zhang et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153

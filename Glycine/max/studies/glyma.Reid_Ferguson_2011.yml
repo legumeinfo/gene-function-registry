@@ -3,8 +3,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmRIC1
 gene_symbol_long: Rhizobia-Induced CLE 1
-gene_model_pub_name: Glyma13G36830
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G292300
+gene_model_pub_name: Glyma13g36830
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G292300
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -29,8 +29,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmRIC2
 gene_symbol_long: Rhizobia-Induced CLE 2
-gene_model_pub_name: Glyma06G43680
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G284100
+gene_model_pub_name: Glyma06g43680
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G284100
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -55,8 +55,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNIC1
 gene_symbol_long: Nitrate-Induced CLE 1
-gene_model_pub_name: Glyma12G33660
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12G33660
+gene_model_pub_name: Glyma12g33660
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G208900
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes

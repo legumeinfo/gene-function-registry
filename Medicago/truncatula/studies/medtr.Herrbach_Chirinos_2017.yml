@@ -1,7 +1,7 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - LYK3
+  - MtLYK3
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 3
 gene_model_pub_name: Medtr5g086130
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g086130
@@ -26,7 +26,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - LYK4
+  - MtLYK4
 gene_symbol_long: LYSIN MOTIF RECEPTOR-LIKE KINASE 4
 gene_model_pub_name: Medtr5g086120
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g086120

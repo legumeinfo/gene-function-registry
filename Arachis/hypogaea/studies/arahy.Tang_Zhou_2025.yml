@@ -4,7 +4,7 @@ gene_symbols:
   - AhRt3
 gene_symbol_long: Red Testa 3
 gene_model_pub_name: Arahy.W8TDEC
-gene_model_full_id: arahy.Tifrunner.gnm2.ann1.W8TDEC
+gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.W8TDEC
 confidence: 3
 curators:
   - Scott Kalberer

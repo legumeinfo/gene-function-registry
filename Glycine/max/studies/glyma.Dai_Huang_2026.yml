@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmBIM1
 gene_symbol_long: BES1-INTERACTING MYC-LIKE 1
-gene_model_pub_name: Glyma.17g082100
+gene_model_pub_name: Glyma.17G082100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G082100
 confidence: 5
 curators:

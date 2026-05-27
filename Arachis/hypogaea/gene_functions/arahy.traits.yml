@@ -246,15 +246,14 @@ references:
     doi: 10.1016/j.plaphy.2025.110475
     pmid: 40915113
 
-
 ---
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhUGT75A
-  - UGT73CG33
+  - AhUGT73CG33
 gene_symbol_long: Flavonoid 7-O-UGT
-gene_model_pub_name: 5Q6PVM
-gene_model_full_id: arahy.Tifrunner.gnm2.ann1.5Q6PVM
+gene_model_pub_name: Arahy.5Q6PVM
+gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.5Q6PVM
 confidence: 3
 curators:
   - Molly Hardacre
@@ -281,14 +280,13 @@ references:
     doi: 10.3389/fpls.2024.1363251
     pmid: 38742211
 
-
 ---
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhRt3
 gene_symbol_long: Red Testa 3
 gene_model_pub_name: Arahy.W8TDEC
-gene_model_full_id: arahy.Tifrunner.gnm2.ann1.W8TDEC
+gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.W8TDEC
 confidence: 3
 curators:
   - Scott Kalberer
@@ -410,14 +408,13 @@ references:
     doi: 10.1111/pbi.12589
     pmid: 27311738
 
-
 ---
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhTPS9
 gene_symbol_long: Trehalose-6-Phosphate Synthase 9
 gene_model_pub_name: Arahy.1XW75L
-gene_model_full_id: arahy.Tifrunner.gnm2.ann1.1XW75L
+gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.1XW75L
 confidence: 4
 curators:
   - Molly Hardacre

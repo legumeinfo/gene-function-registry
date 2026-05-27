@@ -9,7 +9,7 @@ confidence: 3
 curators:
   - William Hardison
 comments:
-  - also known as glyma.Wm82.gnm2.ann1.Glyma.08G076300.1
+  - also known as glyma.Wm82.gnm4.ann1.Glyma.08G076300.1
   - iron import into symbiosomes from infected cell cytosol
 phenotype_synopsis: Nitrogen fixation in the nodules
 traits:
@@ -25,7 +25,7 @@ gene_symbols:
   - GmVTL1b
 gene_symbol_long: Vacuolar Iron Transporter Like 1B
 gene_model_pub_name: Glyma.08G076300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G076300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G076300
 confidence: 3
 curators:
   - William Hardison

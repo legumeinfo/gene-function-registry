@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmSPX5
 gene_symbol_long: SYG1/Pho81/Xpr1 5
-gene_model_pub_name: Glyma10G40820
+gene_model_pub_name: Glyma10g40820
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G261900
 confidence: 5
 curators:
@@ -58,7 +58,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNF-YC4
 gene_symbol_long: Nuclear Factor Y Subunit C4
-gene_model_pub_name: Glyma06G17780
+gene_model_pub_name: Glyma06g17780
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G169600
 confidence: 4
 curators:
