@@ -65,16 +65,25 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108100
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
+  - Ella Townsend
+  - Scott Kalberer
+comments:
+  - GmFT3b expression was induced by photoperiod and circadian rhythm and was
+    more responsive to long-day (LD) conditions, but there were no significant
+    differences in flowering time between the wild-type, the GmFT3b
+    overexpressors, and the ft3b knockouts under natural long-day, short-day, or
+    LD conditions.
+  - GmFT3b acts redundantly in flowering time regulation and may be compensated
+    by other FT homologs in soybean.
+phenotype_synopsis: A flowering time locus, orthologous to Arabidopsis FLOWERING
+  LOCUS T (FT), but apparently redundant with other FT loci in soybean.
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-    relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: days to maturity
-    entity: TO:0000469
-    relation_name: positively regulates
-    relation: RO:0002213
+  - entity_name: photoperiod-sensitive flowering time
+    entity: TO:0000934
+  - entity_name: photoperiodism, flowering
+    entity: GO:0048573
 references:
   - citation: Fan, Hu et al., 2014
     doi: 10.1186/1471-2229-14-9
