@@ -1,10 +1,10 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - E1Lb
+  - GmE1Lb
 gene_symbol_long: E1-like-b
 gene_model_pub_name: Glyma.04G143300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G143300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G143300
 confidence: 5
 curators:
   - Steven Cannon

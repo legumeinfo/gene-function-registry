@@ -173,13 +173,13 @@ SO  - Plant Mol Biol. 2008 Jun;67(3):243-56. doi: 10.1007/s11103-008-9314-8.
 
 
 ##### PUB RECORD #####
-## 10.1038/s41586-025-08891-6  40269167  Feng, Chen et al., 2024  Feng C, Chen B, Hofer J, Shi Y, Jiang M, Song B, Cheng H, Lu L, Wang L, Howard A, Bendahmane A, Fouchal A, Moreau C, Sawada C, LeSignor C, Zhang C, Vikeli E, Tsanakas G, Zhao H, Cheema J, Barclay JE, Hou J, Sayers L, Wingen L, Vigouroux M, Vickers M, Ambrose M, Dalmais M, Higuera-Poveda P, Li P, Yuan Q, Spanner R, Horler R, Wouters R, Chundakkad S, Wu T, Zhao X, Li X, Sun Y, Huang Z, Wu Z, Deng XW, Steuernagel B, Domoney C, Ellis N, Chayut N, Cheng S. Genomic and genetic insights into Mendel's pea genes. Nature. 2025 Jun;642(8069):980-989. doi: 10.1038/s41586-025-08891-6. Epub 2025 Apr 23. PMID: 40269167; PMCID: PMC12221995. ##
+## 10.1038/s41586-025-08891-6  40269167  Feng, Chen et al., 2025  Feng C, Chen B, Hofer J, Shi Y, Jiang M, Song B, Cheng H, Lu L, Wang L, Howard A, Bendahmane A, Fouchal A, Moreau C, Sawada C, LeSignor C, Zhang C, Vikeli E, Tsanakas G, Zhao H, Cheema J, Barclay JE, Hou J, Sayers L, Wingen L, Vigouroux M, Vickers M, Ambrose M, Dalmais M, Higuera-Poveda P, Li P, Yuan Q, Spanner R, Horler R, Wouters R, Chundakkad S, Wu T, Zhao X, Li X, Sun Y, Huang Z, Wu Z, Deng XW, Steuernagel B, Domoney C, Ellis N, Chayut N, Cheng S. Genomic and genetic insights into Mendel's pea genes. Nature. 2025 Jun;642(8069):980-989. doi: 10.1038/s41586-025-08891-6. Epub 2025 Apr 23. PMID: 40269167; PMCID: PMC12221995. ##
 
 PMID- 40269167
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250703
-LR  - 20250730
+LR  - 20260425
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Print)
 IS  - 0028-0836 (Linking)
@@ -436,6 +436,7 @@ AD  - Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key
       Sciences, Shenzhen, China. chengshifeng@caas.cn.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20250423
 PL  - England
 TA  - Nature

@@ -1,15 +1,15 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - EIN2
-  - Skl1
+  - MtEIN2
+  - MtSkl1
 gene_symbol_long: Ethylene Insensitive 2
 gene_model_pub_name: Medtr7g101410
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0264231
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Absence of discrete nodules, increased persistant rhizobila infection, radial swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both hypocotyl and root growth.  Reduced inhibition of root growth in response to application of exogenous cytokinin benzyl adenine.  Increased primary mycorrhizal infections by Glomus versiforme and Glomus intraradices.  Increased susceptability to damage caused by infection with R. solani necrotrophic fungus and P. medicaginis necrotrophic oomycete as well as larger numbers of P. medicaginis reproductive structures.  Reduced biphasic ethylene production after inoculation with P. medicaginis, reduced gene expression for one isoform of ACC oxidase transcripts, and reduced responsiveness of ethylene levels to exogenous ACC (all indicators of impaired autocatalytic ethylene production).
+phenotype_synopsis: Absence of discrete nodules, increased persistant rhizobila infection, radial swelling of primary infection zone, larger cotyledons, reduced apical hook angle, reduced develoment of ectopic root hairs, no loss of geotropism,and a lack of inhibition of both hypocotyl and root growth.
 traits:
   - entity_name: gravity response trait
     entity: TO:0002693

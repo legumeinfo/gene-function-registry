@@ -91,7 +91,7 @@ gene_symbols:
   - GmPRR37
 gene_symbol_long: Pseudo response regulator 37
 gene_model_pub_name: Glyma.12G073900
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.12G073900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073900
 confidence: 5
 curators:
   - Raegan Nelson
@@ -280,6 +280,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmAPETALA1
   - GmAP1
 gene_symbol_long: APETALA1
 gene_model_pub_name: Glyma16g13070
@@ -288,11 +289,11 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - GmAP1 transcription was detected in both the apical inflorescence meristem and lateral floral meristems
-  - GmAP1 is a nuclear-localized transcription activator
-  - Overexpression of GmAP1 in tobacco leads to early flowering phenotype and some flower morphology changes in the stamen
-  - GmAP1 is a MADS-box transcription factor
-phenotype_synopsis: GmAP1 is involved in flowering time and morphology in soybeans
+  - GmAPETALA1 (GmAP1) transcription was detected in both the apical inflorescence meristem and lateral floral meristems
+  - GmAPETALA1 (GmAP1) is a nuclear-localized transcription activator
+  - Overexpression of GmAPETALA1 (GmAP1) in tobacco leads to early flowering phenotype and some flower morphology changes in the stamen
+  - GmAPETALA1 (GmAP1) is a MADS-box transcription factor
+phenotype_synopsis: GmAPETALA1 (GmAP1) is involved in flowering time and morphology in soybeans
 traits:
   - entity_name: Flowering time trait
     entity: TO:0002616

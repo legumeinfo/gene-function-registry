@@ -74,6 +74,7 @@ confidence: 5
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
+  - Raegan Nelson
 comments:
   - Overexpression of GmFT2a in transgenic soybeans increased nodulation,
     whereas RNAi knockdown decreased nodulation.
@@ -86,6 +87,10 @@ comments:
     product of GmSTF3, which subsequently activates gene expression of
     nodulation signaling pathway 1 (GmNSP1), nodule inception (GmNIN), and
     nuclear factor Y (GmNF-YA1 and GmNF-YB1).
+    - FT2a recessive allele has a Ty1/copia–like retrotransposon (SORE-1) inserted in the first intron
+  - SORE-1 only reduces FT2a by allele-specific transcriptional repression when highly methylated
+  - E2 inhibits FT2a expression possibly through a pathway different from the E1–PHYA pathway
+  - FT2a recessive allele ia a leaky allele and is still regulated by other genes involved in photoperiod response
 phenotype_synopsis: Flowering Locus T2a (GmFT2a) is known for stimulating
   flowering, but it also positively regulates nodule organogenesis. Together
   with Soybean TGACG-motif Binding Factor 3 (GmSTF3) and
@@ -93,6 +98,10 @@ phenotype_synopsis: Flowering Locus T2a (GmFT2a) is known for stimulating
   system that adequate photosynthate is available to power the rhizobial
   symbiosis and nitrogen fixation.
 traits:
+  - entity_name: Flowering Time trait
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
   - entity_name: nodulation
@@ -101,8 +110,8 @@ traits:
     relation: RO:0002213
   - entity_name: blue light signaling pathway
     entity: GO:0009785
-  - entity_name: long-day photoperiodism, flowering
-    entity: GO:0048574
+  - entity_name: days to maturity
+    entity: TO:0000469
 references:
   - citation: Wang, Guo et al., 2021
     doi: 10.1126/science.abh2890

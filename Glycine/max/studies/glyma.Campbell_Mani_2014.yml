@@ -4,7 +4,7 @@ gene_symbols:
   - GmChlI1a
 gene_symbol_long: Mg-Chelatase Subunit Chl1a
 gene_model_pub_name: Glyma.13G232500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G232500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G232500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -27,7 +27,7 @@ gene_symbols:
   - GmChlI1b
 gene_symbol_long: Mg-Chelatase Subunit Chl1b
 gene_model_pub_name: Glyma.15G080200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G080200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G080200
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes

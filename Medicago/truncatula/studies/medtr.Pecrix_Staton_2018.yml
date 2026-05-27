@@ -1,14 +1,14 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - CBF4
+  - MtCBF4
 gene_symbol_long: C-repeat binding factor 4
 gene_model_pub_name: Medtr1g101600
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g101600
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses.  Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.  MtCAS31 belongs to the CBF regulon and is associated with salt tolerance; under salt treatment, expression of MtCAS31 increased more in d35S:MtCBF4 transgenic plants than in controls.  To summarize, over-expression of MtCBF4 enhanced tolerance to salt stress.
+phenotype_synopsis: Expression of MtCBF4 (transcription factor) in M. truncatula was induced by most of the abiotic stresses, including salt, drought, cold, and abscisic acid, suggesting crosstalk between these abiotic stresses. Upon exposure to a salt medium the primary root growth in the MtCBF4-overexpressing lines was greater than that of the control plants.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001

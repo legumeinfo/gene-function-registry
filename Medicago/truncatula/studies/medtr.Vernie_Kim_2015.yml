@@ -8,7 +8,7 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g106150
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Roots growth was not inhibited by exogenous cytokinin application.  Expression of the primary cytokinin response gene, MtRR4, was not induced by cytokinins.  Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules.  The development of infection threads was inhibited and early nodule primordia development was also impaired.  Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi.
+phenotype_synopsis: Plants had an increased number of lateral roots (higher lateral root density) and a strong reduction in numbers of root nodules. The development of infection threads was inhibited and early nodule primordia development was also impaired. Expression of early nodulation genes was reduced in plants in which expression of MtCre1 was interfered with by RNAi.
 traits:
   - entity_name: root nodule number
     entity: TO:0000900
@@ -32,7 +32,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - ERN1
+  - MtERN1
 gene_symbol_long: Ethylene Response Factor Required for Nodulation 1
 gene_model_pub_name: EU038802
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g085810
@@ -53,7 +53,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - ERN2
+  - MtERN2
 gene_symbol_long: Ethylene Response Factor Required for Nodulation 2
 gene_model_pub_name: EU038803
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr6g029180
@@ -74,7 +74,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - EXPA
+  - MtEXPA
 gene_symbol_long: EXPANSIN A7
 gene_model_pub_name: DQ899790
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g102450
@@ -95,7 +95,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - NIN
+  - MtNIN
 gene_symbol_long: Nodule Inception
 gene_model_pub_name: Medtr5g099060
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g099060
@@ -116,7 +116,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - NRT1.3
+  - MtNRT1.3
 gene_symbol_long: Nitrate Transporter 1.3
 gene_model_pub_name: GU966590
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g085850
@@ -137,7 +137,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - NSP1
+  - MtNSP1
 gene_symbol_long: Nodulation signaling pathway 1
 gene_model_pub_name: AJ972478
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g020840
@@ -158,7 +158,7 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - RR4
+  - MtRR4
 gene_symbol_long: Response Regulator 4
 gene_model_pub_name: Medtr5g036480
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g036480

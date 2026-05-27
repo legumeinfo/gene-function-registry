@@ -24,7 +24,7 @@ fi
 # Check if a YAML file was provided as an argument
 if [ -z "$1" ]; then
     echo "Usage: $0 <path_to_yaml_file>"
-    echo "Example: $0 Pisum/sativum/studies/pissa.Feng_Chen_2024.yml"
+    echo "Example: $0 Pisum/sativum/studies/pissa.Feng_Chen_2025.yml"
     exit 1
 fi
 
