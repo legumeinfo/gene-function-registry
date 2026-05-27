@@ -4,7 +4,7 @@ gene_symbols:
   - GmDMI1-3
 gene_symbol_long: Doesn't Make Infections 1-3
 gene_model_pub_name: Glyma.19G263500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G263500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G263500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -29,7 +29,7 @@ gene_symbols:
   - GmDMI2-7
 gene_symbol_long: Doesn't Make Infections 2-7
 gene_model_pub_name: Glyma.11G246200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G246200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G246200
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -56,7 +56,7 @@ gene_symbols:
   - GmDMI3-2
 gene_symbol_long: Doesn't Make Infections 3-2
 gene_model_pub_name: Glyma.15G222300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G222300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G222300
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes

@@ -16,7 +16,7 @@ fi
 # Check if a YAML file was provided as an argument
 if [ -z "$1" ]; then
     echo "Usage: $0 <path_to_yaml_file>"
-    echo "Example: $0 Pisum/sativum/studies/pissa.Sato_Morita_2007.yml"
+    echo "Example: $0 Glycine/max/studies/glyma.Wu_Kang_2019.yml"
     echo ""
     echo "NOTE: This script only works on yaml files that contain a single yaml document."
     echo "NOTE: If your file has multiple yaml documents (separated by '---'), use validate_gfr.sh instead."

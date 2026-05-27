@@ -4,7 +4,7 @@ classical_locus: O
 gene_symbols:
   - GmANR1
 gene_symbol_long: Anthocyanidin Reductase 1
-gene_model_pub_name: Glyma08G06630
+gene_model_pub_name: Glyma08g06630
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G062000
 confidence: 3
 curators:
@@ -14,7 +14,7 @@ comments:
   - The seed-coat color phenotypes Brown (O) and red-brown (o) are controlled by
     the O locus in an irT (brown) genetic background (alternative to iRT black
     background).
-  - GmANR1 (Glyma08G06630) is 70% identical to GmANR2 (Glyma08G06640).
+  - GmANR1 (Glyma08g06630) is 70% identical to GmANR2 (Glyma08g06640).
   - ANR1 is highly and predominantly expressed in the seed coat.
   - Lines associated with red-brown seed coat color showed strong decreases in
     soluble proanthocyanidin (PA) levels and small increases in anthocyanins
@@ -25,7 +25,7 @@ comments:
   - ANR1 mutations that either impair gene expression or enzyme activity may
     result in a red-brown seed coat phenotype and possibly redirect cyanidin
     substrate towards enhanced anthocyanin biosynthesis.
-phenotype_synopsis: GmANR1 (Glyma08G06630) produces brown seed coat color
+phenotype_synopsis: GmANR1 (Glyma08g06630) produces brown seed coat color
   through the reduction of cyanidin (a reddish-purple anthocyanidin) to
   (-)-epicatechin, a monomer used to build flavonoid proanthocyanidins.
 traits:
@@ -46,7 +46,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmANR2
 gene_symbol_long: Anthocyanidin Reductase 2
-gene_model_pub_name: Glyma08G06640
+gene_model_pub_name: Glyma08g06640
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G062100
 confidence: 2
 curators:

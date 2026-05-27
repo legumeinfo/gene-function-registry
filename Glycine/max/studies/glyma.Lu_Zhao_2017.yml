@@ -5,7 +5,7 @@ gene_symbols:
   - GmELF3
 gene_symbol_long: Early Flowering 3
 gene_model_pub_name: Glyma.04G050200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G050200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G050200
 confidence: 5
 curators:
   - Steven Cannon
@@ -32,10 +32,10 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY1a
+  - GmLHY1a
 gene_symbol_long: Leafy 1a
 gene_model_pub_name: Glyma.16G017400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G017400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G017400
 confidence: 5
 curators:
   - Steven Cannon
@@ -59,7 +59,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY1b
+  - GmLHY1b
 gene_symbol_long: Leafy 1b
 gene_model_pub_name: Glyma.07G048500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G048500
@@ -86,19 +86,24 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY2a
   - GmLHY2a
-  - LCL3
-  - MYB156
+  - GmLCL3
+  - GmMYB156
+  - GmLCLb2
 gene_symbol_long: Leafy 2a
 gene_model_pub_name: Glyma.19G260900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G260900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
 confidence: 5
 curators:
   - Steven Cannon
+  - Marlene Dorneich-Hayes
 phenotype_synopsis: Photoperiodic flowering time regulation
 comments:
   - Encodes a MYB transciption factor that affects plant height through mediating the GA pathway in soybean
+  - Transgenic expression of LCLb2 shows that the gene maintains rhythmicity, is expressed most strongly at dawn, and is influenced by light/dark and temperature cycles.
+  - The circadian cycle speeds up when the transgenic plant is exposed to higher intensity red or blue light.
+  - Knockout of transcription factors LCLa1, LCLa2, LCLb1, and LCLb2 produces short circadian rhythms and delayed flowering time.
+  - GmLCL genes share homology with AtCCA1, AtLHY, and VrCCA1L26 genes (see Liu_Zhang_2022.yml)
 traits:
   - entity_name: flowering time
     entity: TO:0002616
@@ -108,6 +113,10 @@ traits:
     entity: TO:0000469
     relation_name: positively regulates
     relation: RO:0002213
+  - entity_name: transcription factor binding
+    entity: GO:0008134
+  - entity_name: positive regulation of circadian rhythm
+    entity: GO:0042753
 references:
   - citation: Lu, Zhao et al., 2017
     doi: 10.1038/ng.3819
@@ -118,13 +127,19 @@ references:
   - citation: Chen, Cai et al., 2020
     doi: 10.1111/pce.13695
     pmid: 31981430
+  - citation: Cheng, Dong et al., 2019
+    doi: 10.1186/s12870-019-2145-8
+    pmid: 31852439
+  - citation: Wang, Yuan, et al., 2019
+    doi: 10.1111/pce.13678
+    pmid: 31724182
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY2b
+  - GmLHY2b
 gene_symbol_long: Leafy 2b
 gene_model_pub_name: Glyma.03G261800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G261800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G261800
 confidence: 5
 curators:
   - Steven Cannon

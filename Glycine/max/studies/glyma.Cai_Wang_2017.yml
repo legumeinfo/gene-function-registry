@@ -4,7 +4,7 @@ gene_symbols:
   - GmTIR1A
 gene_symbol_long: Transport Inhibitor Response 1A
 gene_model_pub_name: Glyma.02G152800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G152800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G152800
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -42,7 +42,7 @@ gene_symbols:
   - GmTIR1B
 gene_symbol_long: Transport Inhibitor Response 1B
 gene_model_pub_name: Glyma.10G021500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G021500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G021500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -80,7 +80,7 @@ gene_symbols:
   - GmTIR1C
 gene_symbol_long: Transport Inhibitor Response 1C
 gene_model_pub_name: Glyma.19G206800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G206800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G206800
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -119,7 +119,7 @@ gene_symbols:
   - GmTIR1D
 gene_symbol_long: Transport Inhibitor Response 1D
 gene_model_pub_name: Glyma.03G209400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G209400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G209400
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -156,7 +156,7 @@ gene_symbols:
   - GmAFB3A
 gene_symbol_long: Auxin-Signaling F-Box 3A
 gene_model_pub_name: Glyma.19G100200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G100200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G100200
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -195,7 +195,7 @@ gene_symbols:
   - GmAFB3B
 gene_symbol_long: Auxin-Signaling F-Box 3B
 gene_model_pub_name: Glyma.16G050500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G050500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G050500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes

@@ -71,27 +71,3 @@ references:
   - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmGA20ox_b
-gene_symbol_long: Gibberellic Acid 20-Oxidase b
-gene_model_pub_name: Glyma.06G119100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G119100
-confidence: 2
-curators:
-  - Scott Kalberer
-comments:
-  - GmGA20ox_b is induced by inoculation with compatible rhizobia (e.g., Bradyrhizobium japonicum) in soybean root cortical cells during nodule primordia establishment.
-phenotype_synopsis: GmGA20ox_b is a gibberellic acid biosynthesis gene that increases levels of gibberellin during early nodulation.
-traits:
-  - entity_name: gibberellin biosynthetic process
-    entity: GO:0009686
-  - entity_name: regulation of biological process involved in symbiotic interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-references:
-  - citation: Song, Montes-Luz et al., 2022
-    doi: 10.3389/fpls.2022.820348
-    pmid: 35498680
