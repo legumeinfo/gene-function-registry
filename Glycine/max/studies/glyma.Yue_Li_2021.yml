@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmFT5a
   - GmFTL4
-gene_symbol_long: Flowering Locus T
+gene_symbol_long: Flowering Time 5a
 gene_model_pub_name: Glyma.16G044100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
 confidence: 5
@@ -16,6 +16,8 @@ traits:
     entity: TO:0000934
   - entity_name: plant height
     entity: TO:0000207
+  - entity_name: days to maturity
+    entity: TO:0000469
   - entity_name: transcription factor AP-1 complex
     entity: GO:0035976
   - relation_name: positively regulates
