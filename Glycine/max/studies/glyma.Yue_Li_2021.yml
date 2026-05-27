@@ -79,6 +79,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G194300
 confidence: 5
 curators:
   - Greg Murrell
+  - Brandon Jordan
 comments:
   - photoperiodic flowering time
 phenotype_synopsis: Modification of flowering time and determinacy
@@ -87,6 +88,10 @@ traits:
     entity: CO_336:0000000
   - entity_name: soybean plant height trait
     entity: CO_336:0000027
+  - entity_name: meristem identity
+    entity: TO:0006017
+    relation_name: terminal
+    relation: PATO:0002476
 references:
   - citation: Yue, Li et al., 2021
     doi: 10.1111/jipb.13070
