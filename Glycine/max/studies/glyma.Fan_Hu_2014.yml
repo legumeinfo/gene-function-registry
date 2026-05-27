@@ -9,16 +9,15 @@ confidence: 5
 curators:
   - Steven Cannon
   - Greg Murrell
-phenotype_synopsis: Photoperiodic flowering time regulation
+comments:
+  - Overexpression of GmFT2b upregulates expression of genes that are important in flowering time regulation.
+  - The major FT2b haplotype Hap3 is associated with significantly earlier flowering at higher latitudes.
+phenotype_synopsis: GmFT2b promotes flowering under long-day conditions
 traits:
-  - entity_name: flowering time
-    entity: TO:0002616
-    relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: days to maturity
-    entity: TO:0000469
-    relation_name: positively regulates
-    relation: RO:0002213
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
 references:
   - citation: Fan, Hu et al., 2014
     doi: 10.1186/1471-2229-14-9
