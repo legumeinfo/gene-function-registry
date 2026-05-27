@@ -4,7 +4,7 @@ gene_symbols:
   - GmASPGB1a
 gene_symbol_long: Asparaginase 1a
 gene_model_pub_name: Glyma14g09510
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g09510
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G086300
 confidence: 2
 curators:
   - Raegan Nelson
@@ -31,7 +31,7 @@ gene_symbols:
   - GmASPGB1b
 gene_symbol_long: Asparaginase 1b
 gene_model_pub_name: Glyma17g35650
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g35650
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G238200
 confidence: 2
 curators:
   - Raegan Nelson
@@ -57,7 +57,7 @@ gene_symbols:
   - GmASPGB2a
 gene_symbol_long: Asparaginase 2a
 gene_model_pub_name: Glyma04g04470
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g04470
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G042100
 confidence: 2
 curators:
   - Raegan Nelson
@@ -82,7 +82,7 @@ gene_symbols:
   - GmASPGB2b
 gene_symbol_long: Asparaginase 2b
 gene_model_pub_name: Glyma06g04590
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g04590
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G043000
 confidence: 2
 curators:
   - Raegan Nelson
@@ -107,7 +107,7 @@ gene_symbols:
   - GmAS1a
 gene_symbol_long: Asparaginase Synthetase 1a
 gene_model_pub_name: Glyma11g27480
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27480
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G171400
 confidence: 2
 curators:
   - Raegan Nelson
@@ -137,7 +137,7 @@ gene_symbols:
   - GmAS1b
 gene_symbol_long: Asparaginase Synthetase 1b
 gene_model_pub_name: Glyma11g27720
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27720
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G170300
 confidence: 2
 curators:
   - Raegan Nelson
@@ -167,7 +167,7 @@ gene_symbols:
   - GmAS1c
 gene_symbol_long: Asparaginase Synthetase 1c
 gene_model_pub_name: Glyma18g06840
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g06840
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G061100
 confidence: 2
 curators:
   - Raegan Nelson
@@ -198,7 +198,7 @@ gene_symbols:
   - GmAS2b
 gene_symbol_long: Asparaginase Synthetase 2b
 gene_model_pub_name: Glyma14g37440
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37440
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G195000
 confidence: 2
 curators:
   - Raegan Nelson
@@ -227,7 +227,7 @@ gene_symbols:
   - GmAS3a
 gene_symbol_long: Asparaginase Synthetase 3a
 gene_model_pub_name: Glyma11g38130
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g38130
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G240200
 confidence: 2
 curators:
   - Raegan Nelson
@@ -257,7 +257,7 @@ gene_symbols:
   - GmAS3b
 gene_symbol_long: Asparaginase Synthetase 3b
 gene_model_pub_name: Glyma18g02060
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g02060
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G017200
 confidence: 2
 curators:
   - Raegan Nelson

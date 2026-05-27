@@ -12,10 +12,11 @@
           "pattern": "^(?!none).*$"
       },
       "gene_symbols": {
-          "description": "List of gene symbols, in a yaml array",
+          "description": "List of gene symbols, in a yaml array, e.g. Ah|Gm|Gs|Lj|Ms|Mt|Ps|Pv|Vf|Vr",
           "type": "array",
           "items": {
-              "type": "string"
+              "type": "string",
+              "pattern": "^[A-Z][a-z]\\S+$"
           },
           "minItems": 1,
           "uniqueItems": true
@@ -37,7 +38,7 @@
       "confidence": {
           "description": "Integer between 1 and 5, with 5 indicating rigorous validation; 1 and 2 low confidence, and avoided",
           "type": ["integer"],
-          "minimum": 3,
+          "minimum": 2,
           "maximum": 5
       },
       "curators": {
@@ -105,7 +106,7 @@
             "entity": { 
               "description": "Ontology accession with format 'NS:###', where NS is the namespace, e.g. TO or GO",
               "type": "string",
-              "pattern": "^[A-Za-z]+\\d*:\\d{7}$"
+              "pattern": "^[A-Za-z]+_*\\d*:[A-Z]*\\d{5,}$"
             },
             "relation_name": { 
               "description": "Human-readable name of ontology term, e.g., 'defense response to nematode'",

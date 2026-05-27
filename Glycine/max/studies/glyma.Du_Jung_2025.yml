@@ -3,7 +3,7 @@ scientific_name: Glycine max
 gene_symbols:
   - Rhg1-GmAAT
 gene_symbol_long: Rhg1 Locus 1 Amino Acid Transporter
-gene_model_pub_name: Glyma.18g022400
+gene_model_pub_name: Glyma.18G022400
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G022400
 confidence: 4
 curators:

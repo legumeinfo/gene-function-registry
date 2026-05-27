@@ -1,8 +1,8 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - NAM
-  - NAM-2
+  - MtNAM
+  - MtNAM-2
 gene_symbol_long: No Apical Meristem (weak allele)
 gene_model_pub_name: AFI56799.1
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g078700

@@ -4,7 +4,7 @@ gene_symbols:
   - GmNFR1α
 gene_symbol_long: Nod Factor Receptor 1α
 gene_model_pub_name: Glyma.02G270800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G270800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G270800
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -33,7 +33,7 @@ gene_symbols:
   - GmNFR1β
 gene_symbol_long: Nod Factor Receptor 1β
 gene_model_pub_name: Glyma.14G046200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G046200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G046200
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes

@@ -4,7 +4,7 @@ gene_symbols:
   - GmPLDγ
 gene_symbol_long: Phospholipase D gamma
 gene_model_pub_name: Glyma.01G215100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G215100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G215100
 confidence: 5
 curators:
   - Greg Murrell
@@ -37,7 +37,7 @@ gene_symbols:
   - GmMYBLJ
 gene_symbol_long: CCA1-like myeloblastosis viral oncogene homolog
 gene_model_pub_name: Glyma.04G051000
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.04G051000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G051000
 confidence: 4
 curators:
   - Molly Hardacre
@@ -75,7 +75,7 @@ gene_symbols:
   - GmTIR1A
 gene_symbol_long: Transport Inhibitor Response 1A
 gene_model_pub_name: Glyma.02G152800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G152800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G152800
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -117,7 +117,7 @@ gene_symbols:
   - GmTIR1B
 gene_symbol_long: Transport Inhibitor Response 1B
 gene_model_pub_name: Glyma.10G021500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G021500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G021500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -159,7 +159,7 @@ gene_symbols:
   - GmTIR1C
 gene_symbol_long: Transport Inhibitor Response 1C
 gene_model_pub_name: Glyma.19G206800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G206800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G206800
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -202,7 +202,7 @@ gene_symbols:
   - GmTIR1D
 gene_symbol_long: Transport Inhibitor Response 1D
 gene_model_pub_name: Glyma.03G209400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G209400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G209400
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -243,7 +243,7 @@ gene_symbols:
   - GmAFB3A
 gene_symbol_long: Auxin-Signaling F-Box 3A
 gene_model_pub_name: Glyma.19G100200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G100200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G100200
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -286,7 +286,7 @@ gene_symbols:
   - GmAFB3B
 gene_symbol_long: Auxin-Signaling F-Box 3B
 gene_model_pub_name: Glyma.16G050500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G050500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G050500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -318,7 +318,7 @@ gene_symbols:
   - GmMFT
 gene_symbol_long: MOTHER-OF-FT-AND-TFL1
 gene_model_pub_name: Glyma.05G243800
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.05G243800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G243800
 confidence: 5
 curators:
   - Molly Hardacre
@@ -346,14 +346,13 @@ references:
     doi: 10.1111/nph.18792
     pmid: 36740575
 
-
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmChlI1a
 gene_symbol_long: Mg-Chelatase Subunit Chl1a
 gene_model_pub_name: Glyma.13G232500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G232500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G232500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -379,7 +378,7 @@ gene_symbols:
   - GmChlI1b
 gene_symbol_long: Mg-Chelatase Subunit Chl1b
 gene_model_pub_name: Glyma.15G080200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G080200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G080200
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -404,7 +403,7 @@ gene_symbols:
   - GmSACPD-C
 gene_symbol_long: Delta-9-Stearoyl-Acyl-Carrier Protein Desaturase C
 gene_model_pub_name: Glyma.14G121400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G121400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G121400
 confidence: 4
 curators:
   - Ella Townsend
@@ -438,33 +437,15 @@ references:
   - citation: Carrero-Colon, Abshire et al., 2014
     doi: 10.1371/journal.pone.0097891
     pmid: 24846334
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmFT2b
-gene_symbol_long: Flowering Locus T-like Protein 2b
-gene_model_pub_name: Glyma.16G151000
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G151000
-confidence: 4
-curators:
-  - Greg Murrell
-  - Scott Kalberer
-comments:
-  - Overexpression of GmFT2b upregulates expression of genes that are important
-      in flowering time regulation.
-  - The major FT2b haplotype Hap3 is associated with significantly earlier
-      flowering at higher latitudes.
-phenotype_synopsis: GmFT2b promotes flowering under long-day conditions
-traits:
-  - entity_name: photoperiod-sensitive flowering time trait
-    entity: TO:0000934
-  - entity_name: positive regulation of long-day photoperiodism, flowering
-    entity: GO:0048578
-references:
-  - citation: Chen, Cai et al., 2020
-    doi: 10.1111/pce.13695
-    pmid: 31981430
+  - citation: Zhang, Burton et al., 2008
+    doi: 10.2135/cropsci2008.02.0084
+    pmid: null
+  - citation: Gillman, Stacey et al., 2014
+    doi: 10.1186/1471-2229-14-143
+    pmid: 24886084
+  - citation: Zuo, Ikram et al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
 
 ---
 scientific_name: Glycine max
@@ -512,33 +493,6 @@ references:
   - citation: Chen, Fang et al., 2019
     doi: 10.1038/s41598-019-42332-5
     pmid: 30979945
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmLHY2a
-  - GmLCL3
-  - GmMYB156
-gene_symbol_long: Late Elongated Hypocotyl 2a
-gene_model_pub_name: Glyma.19G260900
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
-confidence: 5
-curators:
-  - Greg Murrell
-  - Scott Kalberer
-phenotype_synopsis: GmLHY2a encodes a MYB transciption factor that affects
-  plant height through mediating the gibberellin pathway in soybean.
-traits:
-  - entity_name: plant height
-    entity: TO:0000207
-  - relation_name: negatively regulates
-    relation: RO:0002212
-  - entity_name: gibberellin metabolic process
-    entity: GO:0009685
-references:
-  - citation: Cheng, Dong et al., 2019
-    doi: 10.1186/s12870-019-2145-8
-    pmid: 31852439
 
 ---
 scientific_name: Glycine max
@@ -664,107 +618,37 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmDGAT1A
-gene_symbol_long: Diacylglycerol Acyltransferase 1A
-gene_model_pub_name: Glyma.13G106100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G106100
-confidence: 3
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - Overexpression of DGAT1A enhances triacylglycerol biosynthesis in seeds
-      (and in other tissues to a lesser extent).
-  - It is involved in stress response and downregulated by stressors like cold,
-      insect bites, and jasmonate.
-  - DGAT1A produces similar results when transformed into other species.
-phenotype_synopsis: DGAT1A controls synthesis of many triacylglycerols, using
-  18:3 acyl CoA as an acyl donor. Oil mostly accumulates in seeds.
-traits:
-  - entity_name: regulation of triglyceride biosynthetic process
-    entity: GO:0010866
-  - entity_name: seed development
-    entity: GO:0048316
-references:
-  - citation: Chen, Wang et al., 2016
-    doi: 10.1038/srep28541
-    pmid: 27345221
-  - citation: Li, Hatanaka et al., 2013
-    doi: 10.1007/s10142-012-0306-z
-    pmid: 23322364
-  - citation: Zhau, Bi et al., 2019
-    doi: 10.1016/j.jplph.2019.153019
-    pmid: 31437808
-  - citation: Zuo, Ikram et al., 2022
-    doi: 10.1016/j.csbj.2022.06.014
-    pmid: 35782726
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmDGAT2D
-gene_symbol_long: Diacylglycerol Acyltransferase 2D
-gene_model_pub_name: Glyma.01G156000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G156000
-confidence: 3
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - Overexpression of DGAT2D enhances triacylglycerol biosynthesis in flower
-      tissues.
-  - DGAT2D is upregulated by temperature stress but downregulated by insect
-      bites and jasmonate.
-  - DGAT2D produces similar results when transformed into other species.
-phenotype_synopsis: DGAT2D controls synthesis of many triacylglycerols, using
-  18:1 and 18:2 acyl CoA as acyl donors. Oil accumulates most in flowers.
-traits:
-  - entity_name: regulation of triglyceride biosynthetic process
-    entity: GO:0010866
-  - entity_name: seed development
-    entity: GO:0048316
-references:
-  - citation: Chen, Wang et al., 2016
-    doi: 10.1038/srep28541
-    pmid: 27345221
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmbHLHm1
-  - GmAMF1
   - GmSAT1
-gene_symbol_long: Ammonium Facilitator 1 paralog 1
-gene_model_pub_name: NP_001239843
+gene_symbol_long: Glycine max bHLH membrane 1
+gene_model_pub_name: Glyma.15G061400
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G061400
-confidence: 4
+confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: GmbHLHm1 (paralog GmAMF1) is important to the soybean
-  rhizobium symbiosis because loss of activity results in a reduction of nodule
-  fitness and growth. Transcriptional changes in nodules highlight downstream
-  signaling pathways involving circadian clock regulation, nutrient transport,
-  hormone signaling, and cell wall modification. Four WGD-derived paralogs have
-  similar nodule-enhanced expression patterns.
+phenotype_synopsis: Overexpression of GmbHLHm1 significantly increased nodule
+  number and size, nitrogen fixation activity, and nitrogen delivery to the
+  shoots. This contrasts with reduced nodule numbers per plant, nitrogen
+  fixation activity and poor plant growth when silenced using RNAi
 comments:
   - Established using mutation, expression, and related functional tests.
   - Originally named GmSAT1 (Symbiotic Ammonium Transporter 1) by Kaiser et
       al., 1998, but does not encode an NH4+ transporter.
-  - Named GmbHLHm1 by Chiasson, Loughlin et al., 2014, but there are four
-      paralogs in Glycine max, deriving from the legume and Glycine WGDs, and
-      all four are predominantly nodule-expressed.
-  - Also called GmAMF1 by Chiasson, Loughlin et al., 2014.
-  - The four nodule-expressed paralogs in soybean are GmAMF1,
-      glyma.Wm82.gnm4.ann1.Glyma.15G061400; GmAMF2,
-      glyma.Wm82.gnm4.ann1.Glyma.13G253700; GmAMF3,
-      glyma.Wm82.gnm4.ann1.Glyma.08G064500; GmAMF4,
-      glyma.Wm82.gnm4.ann1.Glyma.07G184900
+  - Named GmbHLHm1 by Chiasson, Loughlin et al., 2014
+  - GmbHLHm1 binds regulatory regions of four nodule-expressed ammonium
+      facilitator protein paralogs, named AMF1 - AMF4 in Chiasson et al. 2014
+      and AMF1;1 - AMF1;4 in Hu, Wen et al., 2025
 traits:
-  - entity_name: plant organ growth and development trait
-    entity: TO:0000927
-  - entity_name: root nodule
-    entity: PO:0003023
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
 references:
+  - citation: Hu, Wen et al., 2025
+    doi: 10.1071/fp25045
+    pmid: 40540624
   - citation: Chiasson, Loughlin et al., 2014
     doi: 10.1073/pnas.1312801111
     pmid: 24707045
@@ -775,10 +659,190 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmAMF1;1
+gene_symbol_long: Ammonium Facilitator 1 ortholog 1
+gene_model_pub_name: Glyma15g06660
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G061200
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;1 functions in ammonium transport, in the plasma
+  membrane of soybean nodules. Its transcription is triggered by GmbHLHm1. Four
+  WGD-derived paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The gene ID reported in Chiasson et al., 2014 was Glyma15g06660, but the ID
+      in assembly 1 appears to be instead Glyma15g06661
+  - The four nodule-expressed paralogs in soybean are GmAMF1 or GmAMF1;1,
+      glyma.Wm82.gnm4.ann1.Glyma.15G061400; GmAMF2 or GmAMF1;2,
+      glyma.Wm82.gnm4.ann1.Glyma.13G253700; GmAMF3 or GmAMF1;3,
+      glyma.Wm82.gnm4.ann1.Glyma.08G064500; GmAMF4 or GmAMF1;4,
+      glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;2
+gene_symbol_long: Ammonium Facilitator 1 ortholog 2
+gene_model_pub_name: Glyma13g32670
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G253700
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;2 functions in ammonium transport, in the plasma
+  membrane of soybean nodules. Its transcription is triggered by GmbHLHm1. Four
+  WGD-derived paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The four nodule-expressed paralogs in soybean are GmAMF1 or GmAMF1;1,
+      glyma.Wm82.gnm4.ann1.Glyma.15G061400; GmAMF2 or GmAMF1;2,
+      glyma.Wm82.gnm4.ann1.Glyma.13G253700; GmAMF3 or GmAMF1;3,
+      glyma.Wm82.gnm4.ann1.Glyma.08G064500; GmAMF4 or GmAMF1;4,
+      glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;3
+gene_symbol_long: Ammonium Facilitator 1 ortholog 3
+gene_model_pub_name: Glyma08g06880
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G064500
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;3 functions in ammonium transport, in the plasma
+  membrane of soybean nodules. Its transcription is triggered by GmbHLHm1. Four
+  WGD-derived paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The four nodule-expressed paralogs in soybean are GmAMF1 or GmAMF1;1,
+      glyma.Wm82.gnm4.ann1.Glyma.15G061400; GmAMF2 or GmAMF1;2,
+      glyma.Wm82.gnm4.ann1.Glyma.13G253700; GmAMF3 or GmAMF1;3,
+      glyma.Wm82.gnm4.ann1.Glyma.08G064500; GmAMF4 or GmAMF1;4,
+      glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAMF1;4
+gene_symbol_long: Ammonium Facilitator 1 ortholog 4
+gene_model_pub_name: Glyma07g30370
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G184900
+confidence: 4
+curators:
+  - Steven Cannon
+phenotype_synopsis: GmAMF1;4 functions in ammonium transport, in the plasma
+  membrane of soybean nodules. Its transcription is triggered by GmbHLHm1. Four
+  WGD-derived paralogs have similar nodule-enhanced expression patterns.
+comments:
+  - The four nodule-expressed paralogs in soybean are GmAMF1 or GmAMF1;1,
+      glyma.Wm82.gnm4.ann1.Glyma.15G061400; GmAMF2 or GmAMF1;2,
+      glyma.Wm82.gnm4.ann1.Glyma.13G253700; GmAMF3 or GmAMF1;3,
+      glyma.Wm82.gnm4.ann1.Glyma.08G064500; GmAMF4 or GmAMF1;4,
+      glyma.Wm82.gnm4.ann1.Glyma.07G184900
+traits:
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+  - entity_name: nodulation
+    entity: GO:0009877
+  - entity_name: biological process involved in symbiotic interaction
+    entity: GO:0044403
+references:
+  - citation: Chiasson, Loughlin et al., 2014
+    doi: 10.1073/pnas.1312801111
+    pmid: 24707045
+  - citation: Ovchinnikova, Chiasson et al., 2023
+    doi: 10.3390/ijms241814263
+    pmid: 37762569
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBIM1
+gene_symbol_long: BES1-INTERACTING MYC-LIKE 1
+gene_model_pub_name: Glyma.17G082100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G082100
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmBIM1 is a bHLH transcription factor that operates within the
+      brassinosteroid (BR) signaling pathway. It's homologous to Arabidopsis
+      BIM1, which cooperates with BES1 to bind E-box sequences and regulate
+      BR-responsive genes.
+  - GmBIM1 controls plant height by regulating cell size rather than cell
+      number. Knockout mutants (cr−BIM1−1) showed significantly larger
+      internode cells, while overexpression lines displayed smaller internode
+      cells compared to wild-type plants.
+  - Analysis revealed that GmBIM1 localizes to the nucleus, and shows the
+      highest expression levels detected in developing stems and leaf buds.
+  - GmBIM1Hap3 (dwarf haplotype) provides superior lodging resistance suitable
+      for high-density cultivation, while GmBIM1Hap4 (tall haplotype) maximizes
+      per-plant yield potential in low-density systems. This enables
+      marker-assisted selection for tailored plant architecture.
+phenotype_synopsis: GmBIM1 functions as a negative regulator of plant height in
+  soybean.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: plant cell size
+    entity: TO:0002684
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: regulation of brassinosteroid mediated signaling pathway
+    entity: GO:1900457
+references:
+  - citation: Dai, Huang et al., 2026
+    doi: 10.1016/j.cj.2025.10.007
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmPHYE1
 gene_symbol_long: Phytochrome E1
 gene_model_pub_name: Glyma.09G088500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G088500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G088500
 confidence: 3
 curators:
   - Steven Cannon
@@ -799,20 +863,45 @@ gene_symbols:
   - GmTOC1
 gene_symbol_long: Timing of CAB Expression 1
 gene_model_pub_name: Glyma.06G196200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G196200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G196200
 confidence: 2
 curators:
   - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
+  - Molly Hardacre
+comments:
+  - Homozygous GmTOC1b mutants exhibited increased tolerance to Soybean Mosiac
+      Virus strain SC3 due to the activation of programmed cell death triggered
+      by a hypersensitive response.
+  - GmTOC1b binds to the promoter of GmWRKY40, which encodes a protein that
+      activates the expression of salicylic acid-mediated defense-related
+      genes.
+  - The GmTOC1bH1 haplotype, which confers increased tolerance to Soybean
+      Mosiac Virus, was artificially selected in improved cultivars from the
+      Northern and Huang-Huai regions of China.
+  - Results show that GmTOC1bH3 exhibited the strongest inhibitory activity on
+      the GmWRKY40 promoter, whereas GmTOC1bH1 showed the weakest repressive
+      effect.
+phenotype_synopsis: Photoperiodic flowering time regulation. GmTOC1b also
+  negatively regulates resistance to Soybean Mosaic Virus.
 traits:
   - entity_name: flowering time
     entity: TO:0002616
   - entity_name: days to maturity
     entity: TO:0000469
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: salicylic acid mediated signaling pathway
+    entity: GO:0009863
 references:
   - citation: Dietz, Chan et al., 2023
     doi: 10.3389/fpls.2022.889066
     pmid: 35574141
+  - citation: Zhang, Du et al., 2023
+    doi: 10.1016/j.cj.2023.08.001
+    pmid: null
+  - citation: Zhang, Cheng et al., 2022
+    doi: 10.3389/fpls.2022.1052017
+    pmid: 36438085
 
 ---
 scientific_name: Glycine max
@@ -820,7 +909,7 @@ gene_symbols:
   - GmGA2OX5
 gene_symbol_long: Gibberellin 2 Oxidase 5
 gene_model_pub_name: Glyma.13G218200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G218200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G218200
 confidence: 2
 curators:
   - Steven Cannon
@@ -841,7 +930,7 @@ gene_symbols:
   - GmGA2OX6
 gene_symbol_long: Gibberellin 2 Oxidase 6
 gene_model_pub_name: Glyma.13G259400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G259400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G259400
 confidence: 2
 curators:
   - Steven Cannon
@@ -862,7 +951,7 @@ gene_symbols:
   - GmMSI1
 gene_symbol_long: Multicopy Suppressor of IRA 1
 gene_model_pub_name: Glyma.05G131200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G131200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G131200
 confidence: 5
 curators:
   - Steven Cannon
@@ -920,7 +1009,7 @@ scientific_name: Glycine max
 gene_symbols:
   - Rhg1-GmAAT
 gene_symbol_long: Rhg1 Locus 1 Amino Acid Transporter
-gene_model_pub_name: Glyma.18g022400
+gene_model_pub_name: Glyma.18G022400
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G022400
 confidence: 4
 curators:
@@ -963,7 +1052,6 @@ references:
   - citation: Cook, Bayless et al., 2014
     doi: 10.1104/pp.114.235952
     pmid: 24733883
-
 
 ---
 scientific_name: Glycine max
@@ -1009,75 +1097,26 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: D1
-gene_symbols:
-  - GmD1
-gene_model_pub_name: Glyma01g42390
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g42390
-confidence: 5
-curators:
-  - William Hardison
-phenotype_synopsis: chlorophyll retention in mature tissues
-traits:
-  - entity_name: negative regulation of chlorophyll catabolic process
-    entity: GO:1903647
-references:
-  - citation: Fang, Li et al., 2014
-    doi: 10.1111/tpj.12419
-    pmid: 24372721
-  - citation: Schmutz et al., 2010
-    doi: 10.1038/nature08670
-    pmid: 20075913
-  - citation: Chao et al., 1995
-    doi: 10.1104/pp.107.1.253
-    pmid: 12228359
-
----
-scientific_name: Glycine max
-classical_locus: D2
-gene_symbols:
-  - GmD2
-gene_model_pub_name: Glyma11g02980
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g02980
-confidence: 4
-curators:
-  - William Hardison
-phenotype_synopsis: chlorophyll retention in mature tissues
-traits:
-  - entity_name: negative regulation of chlorophyll catabolic process
-    entity: GO:1903647
-references:
-  - citation: Fang, Li et al., 2014
-    doi: 10.1111/tpj.12419
-    pmid: 24372721
-  - citation: Schmutz et al., 2010
-    doi: 10.1038/nature08670
-    pmid: 20075913
-  - citation: Chao et al., 1995
-    doi: 10.1104/pp.107.1.253
-    pmid: 12228359
-
----
-scientific_name: Glycine max
 gene_symbols:
   - GmFT2b
 gene_symbol_long: Flowering Time 2b
 gene_model_pub_name: Glyma.16G151000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G151000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G151000
 confidence: 5
 curators:
   - Steven Cannon
   - Greg Murrell
-phenotype_synopsis: Photoperiodic flowering time regulation
+comments:
+  - Overexpression of GmFT2b upregulates expression of genes that are important
+      in flowering time regulation.
+  - The major FT2b haplotype Hap3 is associated with significantly earlier
+      flowering at higher latitudes.
+phenotype_synopsis: GmFT2b promotes flowering under long-day conditions
 traits:
-  - entity_name: flowering time
-    entity: TO:0002616
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: positively regulates
-    relation: RO:0002213
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: positive regulation of long-day photoperiodism, flowering
+    entity: GO:0048578
 references:
   - citation: Fan, Hu et al., 2014
     doi: 10.1186/1471-2229-14-9
@@ -1095,7 +1134,7 @@ gene_symbols:
   - GmFT3a
 gene_symbol_long: Flowering Time 3a
 gene_model_pub_name: Glyma.16G044200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G044200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044200
 confidence: 5
 curators:
   - Steven Cannon
@@ -1123,20 +1162,30 @@ gene_symbols:
   - GmFT3b
 gene_symbol_long: Flowering Time 3b
 gene_model_pub_name: Glyma.19G108100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G108100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108100
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
+  - Ella Townsend
+  - Scott Kalberer
+comments:
+  - GmFT3b expression was induced by photoperiod and circadian rhythm and was
+      more responsive to long-day (LD) conditions, but there were no
+      significant differences in flowering time between the wild-type, the
+      GmFT3b overexpressors, and the ft3b knockouts under natural long-day,
+      short-day, or LD conditions.
+  - GmFT3b acts redundantly in flowering time regulation and may be compensated
+      by other FT homologs in soybean.
+phenotype_synopsis: A flowering time locus, orthologous to Arabidopsis
+  FLOWERING LOCUS T (FT), but apparently redundant with other FT loci in
+  soybean.
 traits:
   - entity_name: flowering time
     entity: TO:0002616
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: positively regulates
-    relation: RO:0002213
+  - entity_name: photoperiod-sensitive flowering time
+    entity: TO:0000934
+  - entity_name: photoperiodism, flowering
+    entity: GO:0048573
 references:
   - citation: Fan, Hu et al., 2014
     doi: 10.1186/1471-2229-14-9
@@ -1144,6 +1193,9 @@ references:
   - citation: Lin, Liu et al., 2021
     doi: 10.1111/jipb.13021
     pmid: 33090664
+  - citation: Su, Chen et al., 2022
+    doi: 10.3390/ijms23052497
+    pmid: 35269637
 
 ---
 scientific_name: Glycine max
@@ -1151,7 +1203,7 @@ gene_symbols:
   - GmFT5b
 gene_symbol_long: Flowering Time 5b
 gene_model_pub_name: Glyma.19G108200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G108200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108200
 confidence: 5
 curators:
   - Steven Cannon
@@ -1175,16 +1227,66 @@ references:
 
 ---
 scientific_name: Glycine max
+classical_locus: D1
 gene_symbols:
-  - cqSP003
+  - GmD1
+gene_model_pub_name: Glyma01g42390
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G214600
+confidence: 5
+curators:
+  - William Hardison
+phenotype_synopsis: chlorophyll retention in mature tissues
+traits:
+  - entity_name: negative regulation of chlorophyll catabolic process
+    entity: GO:1903647
+references:
+  - citation: Fang, Li et al., 2014
+    doi: 10.1111/tpj.12419
+    pmid: 24372721
+  - citation: Schmutz, Cannon et al., 2010
+    doi: 10.1038/nature08670
+    pmid: 20075913
+  - citation: Chao, Liu et al., 1995
+    doi: 10.1104/pp.107.1.253
+    pmid: 12228359
+
+---
+scientific_name: Glycine max
+classical_locus: D2
+gene_symbols:
+  - GmD2
+gene_model_pub_name: Glyma11g02980
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G027400
+confidence: 4
+curators:
+  - William Hardison
+phenotype_synopsis: chlorophyll retention in mature tissues
+traits:
+  - entity_name: negative regulation of chlorophyll catabolic process
+    entity: GO:1903647
+references:
+  - citation: Fang, Li et al., 2014
+    doi: 10.1111/tpj.12419
+    pmid: 24372721
+  - citation: Schmutz, Cannon et al., 2010
+    doi: 10.1038/nature08670
+    pmid: 20075913
+  - citation: Chao, Liu et al., 1995
+    doi: 10.1104/pp.107.1.253
+    pmid: 12228359
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmcqSP003
 gene_symbol_long: cq SeedProtein-003
-gene_model_pub_name: Glyma.20g085100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G085100
+gene_model_pub_name: Glyma.20G085100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G085100
 confidence: 4
 curators:
   - Raegan Nelson
 comments:
-  - silencing of the low protein version of Glyma.20g085100 increases seed
+  - silencing of the low protein version of Glyma.20G085100 increases seed
       protien concentration
   - controls seed protein phenotype
   - The allele in Williams 82 is 321 bases longer than the higher-protein
@@ -1193,13 +1295,13 @@ comments:
       insertion in the low-protein ancestral lineage.
   - fine mapping of the cqSeed protein-003 shows that it is found between
       BARCSOYSSR_20_0670 and BARCSOYSSR_20_0674
-phenotype_synopsis: Glyma.20g085100 regulates seed protein content by being
+phenotype_synopsis: Glyma.20G085100 regulates seed protein content by being
   coincident with the causative polymorphism in cqSeed protein-003
 traits:
   - entity_name: seed protein content
     entity: TO:0000490
 references:
-  - citation: Fliege, Ward et al.,2022
+  - citation: Fliege, Ward et al., 2022
     doi: 10.1111/tpj.15658
     pmid: 34978122
 
@@ -1208,8 +1310,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmBS1
 gene_symbol_long: Big Seeds 1
-gene_model_pub_name: Glyma10G38970
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G38970
+gene_model_pub_name: Glyma10g38970
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G244400
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -1241,48 +1343,39 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: R
 gene_symbols:
-  - GmR
-gene_symbol_long: Black or brown seed coat color
-gene_model_pub_name: Glyma09g36990
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G235100
-confidence: 3
+  - GmMYB84
+gene_symbol_long: MYB transcription factor 84
+gene_model_pub_name: Glyma.05G234600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G234600
+confidence: 5
 curators:
-  - Ella Townsend
-  - Jacqueline Campbell
-  - Steven Cannon
-  - Scott Kalberer
+  - Molly Hardacre
 comments:
-  - The classical R locus is associated with brown coloration of seed coats and
-      hilums.
-  - A loss of function mutation altering the R2R3 MYB transcription factor gene
-      GmR (Glyma09g36990) was proposed as a candidate for the brown hilum
-      phenotype. Expression of this gene is specific to the seed coat.
-  - Gene expression of the functional GmR gene candidate was correlated with
-      expression of an UDP-glucose:flavonoid 3-O-glucosyltransferase (UF3GT)
-      gene. UF3GT is responsible for the final step in anthocyanin
-      biosynthesis. Conversely, gene expression of this functionless allele of
-      Glyma09g36990 was associated with a failure to upregulate the UF3GT gene.
-phenotype_synopsis: Gene expression of functional transcription factor GmR is
-  associated with up-regulation of the UF3GT gene and consequent anthocyanin
-  production.
+  - GmMYB84 enhances lignin/flavonoid synthesis and improved reactive oxygen
+      species detoxification
+  - GmMYB84 acts as a master regulator that activates the phenylpropanoid
+      pathway to synthesize protective flavonoids and phenolic compounds
+  - GmMYB84 preserves plant vigor during cadmium exposure. While wild-type
+      soybean leaf dry weight decreased by 22.1% under stress, knockout mutants
+      suffered a 51.3% reduction
+  - GmMYB84 strengthens cellular defenses by regulating cell wall-related
+      processes by activating chitinase expression, which is associated with
+      cell wall remodeling and pathogen defense
+phenotype_synopsis: GmMYB84 overexpression enhances cadmium tolerance, while
+  knockout increases sensitivity
 traits:
-  - entity_name: Seed coat color
-    entity: TO:0000190
-  - entity_name: Hilum color
-    entity: TO:0000968
-  - entity_name: Transcription factor binding
-    entity: GO:0008134
+  - entity_name: chemical stress response
+    entity: TO:0000482
+  - entity_name: stress response to cadmium ion
+    entity: GO:1990170
+  - entity_name: phenylpropanoid biosynthetic process
+    entity: GO:0009699
+  - entity_name: chitinase activity
+    entity: GO:0004568
 references:
-  - citation: Gillman, Tetlow et al., 2011
-    doi: 10.1186/1471-2229-11-155
-    pmid: 22070454
-  - citation: Zabala, Vodkin, 2014
-    doi: 10.1371/journal.pone.0111959
-    pmid: 25369033
-  - citation: Palmer, Pfeiffer et al., 2004
-    doi: 10.2134/agronmonogr16.3ed.c5
+  - citation: Gong, Zhao et al., 2026
+    doi: 10.1016/j.plantsci.2026.113057
     pmid: null
 
 ---
@@ -1291,7 +1384,7 @@ gene_symbols:
   - GmFT1a
 gene_symbol_long: Flowering Time 1a
 gene_model_pub_name: Glyma.18G298900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G298900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G298900
 confidence: 5
 curators:
   - Steven Cannon
@@ -1319,7 +1412,7 @@ gene_symbols:
   - GmFT1b
 gene_symbol_long: Flowering Time 1b
 gene_model_pub_name: Glyma.18G299000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G299000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G299000
 confidence: 5
 curators:
   - Steven Cannon
@@ -1347,7 +1440,7 @@ gene_symbols:
   - GmKASII-A
 gene_symbol_long: beta-ketoacyl-ACP synthase II
 gene_model_pub_name: Glyma17g05200
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g05200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G047000
 confidence: 3
 curators:
   - Wei Huang
@@ -1370,7 +1463,7 @@ gene_symbols:
   - GmKASII-B
 gene_symbol_long: plastid 3-keto-acyl-ACP synthase II-B
 gene_model_pub_name: Glyma13g17290
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g17290
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G112700
 confidence: 3
 curators:
   - Wei Huang
@@ -1391,7 +1484,7 @@ gene_symbols:
   - GmFAD3C
 gene_symbol_long: Omega-3 fatty acid desaturase 3 2a
 gene_model_pub_name: Glyma18g06950
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g06950
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G062000
 confidence: 5
 curators:
   - Wei Huang
@@ -1424,7 +1517,7 @@ gene_symbols:
   - GmFAD3B
 gene_symbol_long: Omega-3 fatty acid desaturase 3 1a
 gene_model_pub_name: Glyma02g39230
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g39230
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G227200
 confidence: 5
 curators:
   - Wei Huang
@@ -1459,7 +1552,7 @@ gene_symbols:
   - GmFAD3-1b
 gene_symbol_long: Omega-3 fatty acid desaturase 3 1b
 gene_model_pub_name: Glyma14g37350
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37350
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G194300
 confidence: 5
 curators:
   - Wei Huang
@@ -1492,7 +1585,7 @@ gene_symbols:
   - GmFLD
 gene_symbol_long: Flowering Locus D
 gene_model_pub_name: Glyma02g18610
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma02g18610
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G159100
 confidence: 4
 curators:
   - William Hardison
@@ -1511,7 +1604,7 @@ gene_symbols:
   - GmNFR1α
 gene_symbol_long: Nod Factor Receptor 1α
 gene_model_pub_name: Glyma.02G270800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G270800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G270800
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -1544,7 +1637,7 @@ gene_symbols:
   - GmNFR1β
 gene_symbol_long: Nod Factor Receptor 1β
 gene_model_pub_name: Glyma.14G046200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G046200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G046200
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -1610,14 +1703,13 @@ references:
     doi: 10.1093/jxb/erq445
     pmid: 21252257
 
-
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmGIF5
 gene_symbol_long: GRF Interacting Factor 5
 gene_model_pub_name: Glyma.10G164100
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.10G164100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G164100
 confidence: 4
 curators:
   - Molly Hardacre
@@ -1753,14 +1845,13 @@ references:
     doi: 10.1104/pp.108.123679
     pmid: 19091879
 
-
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmDMI1-3
 gene_symbol_long: Doesn't Make Infections 1-3
 gene_model_pub_name: Glyma.19G263500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G263500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G263500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -1790,7 +1881,7 @@ gene_symbols:
   - GmDMI2-7
 gene_symbol_long: Doesn't Make Infections 2-7
 gene_model_pub_name: Glyma.11G246200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G246200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G246200
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -1821,7 +1912,7 @@ gene_symbols:
   - GmDMI3-2
 gene_symbol_long: Doesn't Make Infections 3-2
 gene_model_pub_name: Glyma.15G222300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.15G222300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G222300
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -1852,7 +1943,7 @@ gene_symbols:
   - GmSS1
 gene_symbol_long: Sucrose synthase 1
 gene_model_pub_name: Glyma.02G240400
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.02G240400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G240400
 confidence: 4
 curators:
   - Molly Hardacre
@@ -1888,7 +1979,7 @@ gene_symbols:
   - GmSS4
 gene_symbol_long: Sucrose synthase 4
 gene_model_pub_name: Glyma.09G167000
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G167000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G167000
 confidence: 4
 curators:
   - Molly Hardacre
@@ -1950,83 +2041,11 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: E9
-gene_symbols:
-  - GmFT2a
-gene_symbol_long: Flowering Time 2a
-gene_model_pub_name: Glyma.16g150700
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700
-confidence: 5
-curators:
-  - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
-traits:
-  - entity_name: flowering time
-    entity: TO:0002616
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: positively regulates
-    relation: RO:0002213
-references:
-  - citation: Kong, Liu et al., 2010
-    doi: 10.1104/pp.110.160796
-    pmid: 20864544
-  - citation: Kong, Nan et al., 2014
-    doi: 10.2135/cropsci2014.03.0228
-    pmid: null
-  - citation: Takeshima, Hayashi et al., 2016
-    doi: 10.1093/jxb/erw283
-    pmid: 27422993
-  - citation: Zhao, Takeshima et al., 2016
-    doi: 10.1186/s12870-016-0704-9
-    pmid: 26786479
-  - citation: Dietz, Chan et al., 2023
-    doi: 10.3389/fpls.2022.889066
-    pmid: 35574141
-  - citation: Lin, Liu et al., 2021
-    doi: 10.1111/jipb.13021
-    pmid: 33090664
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmFT5a
-gene_symbol_long: Flowering Time 5a
-gene_model_pub_name: Glyma.16G044100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G044100
-confidence: 5
-curators:
-  - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
-traits:
-  - entity_name: flowering time
-    entity: TO:0002616
-  - relation_name: positively regulates
-    relation: RO:0002213
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: positively regulates
-    relation: RO:0002213
-references:
-  - citation: Kong, Liu et al., 2010
-    doi: 10.1104/pp.110.160796
-    pmid: 20864544
-  - citation: Fan, Hu et al., 2014
-    doi: 10.1186/1471-2229-14-9
-    pmid: 24397545
-  - citation: Lin, Liu et al., 2021
-    doi: 10.1111/jipb.13021
-    pmid: 33090664
-
----
-scientific_name: Glycine max
 gene_symbols:
   - GmVPS8a
 gene_symbol_long: Vacuolar Protein Sorting 8
-gene_model_pub_name: Glyma.07g049700
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07g049700
+gene_model_pub_name: Glyma.07G049700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G049700
 confidence: 5
 curators:
   - Wei Huang
@@ -2063,7 +2082,7 @@ classical_locus: O
 gene_symbols:
   - GmANR1
 gene_symbol_long: Anthocyanidin Reductase 1
-gene_model_pub_name: Glyma08G06630
+gene_model_pub_name: Glyma08g06630
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G062000
 confidence: 3
 curators:
@@ -2073,7 +2092,7 @@ comments:
   - The seed-coat color phenotypes Brown (O) and red-brown (o) are controlled
       by the O locus in an irT (brown) genetic background (alternative to iRT
       black background).
-  - GmANR1 (Glyma08G06630) is 70% identical to GmANR2 (Glyma08G06640).
+  - GmANR1 (Glyma08g06630) is 70% identical to GmANR2 (Glyma08g06640).
   - ANR1 is highly and predominantly expressed in the seed coat.
   - Lines associated with red-brown seed coat color showed strong decreases in
       soluble proanthocyanidin (PA) levels and small increases in anthocyanins
@@ -2084,7 +2103,7 @@ comments:
   - ANR1 mutations that either impair gene expression or enzyme activity may
       result in a red-brown seed coat phenotype and possibly redirect cyanidin
       substrate towards enhanced anthocyanin biosynthesis.
-phenotype_synopsis: GmANR1 (Glyma08G06630) produces brown seed coat color
+phenotype_synopsis: GmANR1 (Glyma08g06630) produces brown seed coat color
   through the reduction of cyanidin (a reddish-purple anthocyanidin) to
   (-)-epicatechin, a monomer used to build flavonoid proanthocyanidins.
 traits:
@@ -2107,7 +2126,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmANR2
 gene_symbol_long: Anthocyanidin Reductase 2
-gene_model_pub_name: Glyma08G06640
+gene_model_pub_name: Glyma08g06640
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G062100
 confidence: 2
 curators:
@@ -2129,7 +2148,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmPR08-Bet VI
+  - GmPR08-BetVI
 gene_model_pub_name: Glyma.08G230500
 gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G230500
 confidence: 4
@@ -2167,7 +2186,7 @@ gene_symbols:
 gene_symbol_long: Soluble NSF (N-ethylmaleimide-sensitive factor) attachment
   protein 18
 gene_model_pub_name: Glyma.18G022500
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.18G022500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G022500
 confidence: 4
 curators:
   - Molly Hardacre
@@ -2197,7 +2216,7 @@ gene_symbols:
   - GmSHMT08
 gene_symbol_long: Serine hydroxymethyltransferase 8
 gene_model_pub_name: Glyma.08G108900
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G108900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G108900
 confidence: 4
 curators:
   - Molly Hardacre
@@ -2219,34 +2238,6 @@ references:
   - citation: He, Liu et al., 2025
     doi: 10.1016/j.xplc.2025.101378
     pmid: 40394901
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmDT2
-gene_symbol_long: Determinacy 2
-gene_model_pub_name: SoyZH13_18G242900
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G273600
-confidence: 5
-curators:
-  - Brandon Jordan
-phenotype_synopsis: In the presence of Dt1, Dt2 impacts determinacy, maturity,
-  and branch number.
-comments:
-  - knockout of SoyZH13_18g242900 produces plants with increased branch number
-      and delayed flowering and maturity relative to wildtype.
-traits:
-  - entity_name: shoot branching
-    entity: TO:0002639
-  - relation_name: increased amount
-    relation: PATO:0000470
-references:
-  - citation: Liang, Chen, et al., 2022
-    doi: 10.1038/s41467-022-34153-4
-    pmid: 36307423
-  - citation: Ping, Liu, et al., 2014
-    doi: 10.1105/tpc.114.126938
-    pmid: 25005919
 
 ---
 scientific_name: Glycine max
@@ -2316,58 +2307,12 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: Gp11
-gene_symbols:
-  - GmPRR3A
-gene_symbol_long: Pseudo Response Regulator 3A
-gene_model_pub_name: Glyma11g15580
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g15580
-confidence: 3
-curators:
-  - William Hardison
-comments:
-  - Glyma11g15580 pseudo-response regulator 3
-  - Gp11 and Gp12 regulate the expression of GmFT2a and GmFT5a
-phenotype_synopsis: Shorter growth period
-traits:
-  - entity_name: days to maturity
-    entity: TO:0000469
-references:
-  - citation: Li, Liu et al., 2019
-    doi: 10.1093/pcp/pcy215
-    pmid: 30418611
-
----
-scientific_name: Glycine max
-classical_locus: Gp12
-gene_symbols:
-  - GmPRR3B
-gene_symbol_long: Pseudo Response Regulator 3B
-gene_model_pub_name: Glyma12g07861
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g07861
-confidence: 3
-curators:
-  - William Hardison
-comments:
-  - Gp11 and Gp12 regulate the expression of GmFT2a and GmFT5a
-  - Glyma12g07861 pseudo-response regulator 7
-phenotype_synopsis: Shorter growth period
-traits:
-  - entity_name: days to maturity
-    entity: TO:0000469
-references:
-  - citation: Li, Liu et al., 2019
-    doi: 10.1093/pcp/pcy215
-    pmid: 30418611
-
----
-scientific_name: Glycine max
 gene_symbols:
   - GmRIN1
   - GmSPA3a
 gene_symbol_long: reduced internode 1
 gene_model_pub_name: Glyma.12G224600
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G224600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G224600
 confidence: 5
 curators:
   - Raegan Nelson
@@ -2408,7 +2353,7 @@ gene_symbols:
   - GmSTF1
 gene_symbol_long: TGACG-motif binding factor 1
 gene_model_pub_name: Glyma.18G117100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.18G117100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G117100
 confidence: 5
 curators:
   - Raegan Nelson
@@ -2435,7 +2380,7 @@ gene_symbols:
   - GmSTF2
 gene_symbol_long: TGACG-motif binding factor 2
 gene_model_pub_name: Glyma.08G302500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G302500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G302500
 confidence: 5
 curators:
   - Raegan Nelson
@@ -2464,7 +2409,7 @@ gene_symbols:
   - GmGA2ox7a
 gene_symbol_long: gibberellin 2 oxidase 7a
 gene_model_pub_name: Glyma.20G141200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G141200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G141200
 confidence: 5
 curators:
   - Raegan Nelson
@@ -2494,7 +2439,7 @@ gene_symbols:
   - GmGA2ox7b
 gene_symbol_long: gibberellin 2 oxidase 7b
 gene_model_pub_name: Glyma.11G003200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G003200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G003200
 confidence: 5
 curators:
   - Raegan Nelson
@@ -2520,32 +2465,71 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: E4
 gene_symbols:
-  - GmphyA2
-gene_symbol_long: Earliness 4
-gene_model_pub_name: Glyma.20G090000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G090000
+  - GmCESA7
+gene_symbol_long: Cellulose Synthase 7
+gene_model_pub_name: Glyma.06G225500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G225500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmCESA7 functions as a positive regulator of soybean plant height, with
+      mutants showing significant height reductions of 20.32% to 51.34%
+      compared to wild-type plants.
+  - GmCESA7 is expressed in multiple soybean tissues, with relatively high
+      transcript levels detected in stems and flowers.
+  - Unlike GmDt1, which controls both plant height and main stem nodes, GmCESA7
+      offers a unique strategy to reduce plant height for lodging resistance
+      without reducing main stem node number or yield potential.
+  - GmCESA7 encodes a cellulose synthase catalytic subunit 7 that is a core
+      component of secondary cell wall cellulose biosynthesis.
+phenotype_synopsis: GmCESA7 functions as a positive regulator of soybean plant
+  height.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: stem elongation
+    entity: TO:0006036
+  - entity_name: stem node number
+    entity: TO:0000634
+  - entity_name: plant-type secondary cell wall biogenesis
+    entity: GO:0009834
+references:
+  - citation: Li, Zhou et al., 2026
+    doi: 10.1016/j.plantsci.2026.113163
+    pmid: null
+  - citation: Sha, Zhang et al., 2026
+    doi: 10.1002/tpg2.70207
+    pmid: 41732898
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDT2
+gene_symbol_long: Determinacy 2
+gene_model_pub_name: SoyZH13_18G242900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G273600
 confidence: 5
 curators:
-  - Steven Cannon
-phenotype_synopsis: Photoperiodic flowering time regulation
+  - Brandon Jordan
+phenotype_synopsis: In the presence of Dt1, Dt2 impacts determinacy, maturity,
+  and branch number.
+comments:
+  - knockout of SoyZH13_18g242900 produces plants with increased branch number
+      and delayed flowering and maturity relative to wildtype.
 traits:
-  - entity_name: flowering time
-    entity: TO:0002616
-  - relation_name: negatively regulates
-    relation: RO:0002212
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: negatively regulates
-    relation: RO:0002212
+  - entity_name: shoot branching
+    entity: TO:0002639
+  - relation_name: increased amount
+    relation: PATO:0000470
 references:
-  - citation: Liu, Jiang et al., 2008
-    doi: 10.1111/nph.14884
-    pmid: 29120038
-  - citation: Lin, Liu et al., 2021
-    doi: 10.1111/jipb.13021
-    pmid: 33090664
+  - citation: Liang, Chen, et al., 2022
+    doi: 10.1038/s41467-022-34153-4
+    pmid: 36307423
+  - citation: Ping, Liu, et al., 2014
+    doi: 10.1105/tpc.114.126938
+    pmid: 25005919
 
 ---
 scientific_name: Glycine max
@@ -2558,7 +2542,7 @@ confidence: 3
 curators:
   - William Hardison
 comments:
-  - also known as glyma.Wm82.gnm2.ann1.Glyma.08G076300.1
+  - also known as glyma.Wm82.gnm4.ann1.Glyma.08G076300.1
   - iron import into symbiosomes from infected cell cytosol
 phenotype_synopsis: Nitrogen fixation in the nodules
 traits:
@@ -2575,7 +2559,7 @@ gene_symbols:
   - GmVTL1b
 gene_symbol_long: Vacuolar Iron Transporter Like 1B
 gene_model_pub_name: Glyma.08G076300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G076300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G076300
 confidence: 3
 curators:
   - William Hardison
@@ -2596,7 +2580,7 @@ classical_locus: T
 gene_symbols:
   - GmF3H
   - GmHC1
-  - sf3′h1
+  - Gmsf3′h1
 gene_symbol_long: Soybean Flavonoid 3′-Hydroxylase
 gene_model_pub_name: Glyma.06G202300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G202300
@@ -2747,27 +2731,6 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmDT1
-gene_symbol_long: Determinacy 1
-gene_model_pub_name: Glyma.19g194300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G194300
-confidence: 5
-curators:
-  - Brandon Jordan
-phenotype_synopsis: determinate stem growth habit
-traits:
-  - entity_name: meristem identity
-    entity: TO:0006017
-  - relation_name: terminal
-    relation: PATO:0002476
-references:
-  - citation: Liu, Watanabe et al., 2010
-    doi: 10.1104/pp.109.150607
-    pmid: 20219831
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmTPS12a
 gene_symbol_long: Trehalose-6-Phosphate Synthase
 gene_model_pub_name: Glyma.06G184200
@@ -2807,14 +2770,13 @@ references:
     doi: 10.1016/j.gene.2025.149609
     pmid: 40466959
 
-
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmPHR1
 gene_symbol_long: Phosphate Starvation Response 1
 gene_model_pub_name: Glyma.01G009600
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G009600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G009600
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -2856,7 +2818,7 @@ gene_symbols:
   - GmPHR4
 gene_symbol_long: Phosphate Starvation Response 4
 gene_model_pub_name: Glyma.02G108500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G108500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G108500
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -2888,8 +2850,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPHT1-1
 gene_symbol_long: Phosphate Transporter 1-1
-gene_model_pub_name: Glyma10G33030
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma10G33030
+gene_model_pub_name: Glyma10g33030
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G186500
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -2957,7 +2919,7 @@ gene_symbols:
   - GmPHT1-11
 gene_symbol_long: Phosphate Transporter 1-11
 gene_model_pub_name: Glyma.14G188000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G188000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G188000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -2992,11 +2954,11 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - Tof11
-  - PRR3a
+  - GmTof11
+  - GmPRR3a
 gene_symbol_long: Time of Flowering 11
 gene_model_pub_name: SoyZH13_11G141200
-gene_model_full_id: glyma.Zh13.gnm1.ann1.SoyZH13_11G141200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G148362
 confidence: 5
 curators:
   - Steven Cannon
@@ -3021,11 +2983,11 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - Tof12
-  - PRR3b
+  - GmTof12
+  - GmPRR3b
 gene_symbol_long: Time of Flowering 12
 gene_model_pub_name: SoyZH13_12G067700
-gene_model_full_id: glyma.Zh13.gnm1.ann1.SoyZH13_12G067700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073900
 confidence: 5
 curators:
   - Steven Cannon
@@ -3053,7 +3015,7 @@ gene_symbols:
   - GmNFYA
 gene_symbol_long: Nuclear Transcription Factor Y Subunit
 gene_model_pub_name: Glyma.02G303800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G303800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G303800
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -3088,7 +3050,7 @@ gene_symbols:
   - GmELF3
 gene_symbol_long: Early Flowering 3
 gene_model_pub_name: Glyma.04G050200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G050200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G050200
 confidence: 5
 curators:
   - Steven Cannon
@@ -3116,10 +3078,10 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY1a
+  - GmLHY1a
 gene_symbol_long: Leafy 1a
 gene_model_pub_name: Glyma.16G017400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G017400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G017400
 confidence: 5
 curators:
   - Steven Cannon
@@ -3144,7 +3106,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY1b
+  - GmLHY1b
 gene_symbol_long: Leafy 1b
 gene_model_pub_name: Glyma.07G048500
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G048500
@@ -3172,20 +3134,30 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY2a
   - GmLHY2a
-  - LCL3
-  - MYB156
+  - GmLCL3
+  - GmMYB156
+  - GmLCLb2
 gene_symbol_long: Leafy 2a
 gene_model_pub_name: Glyma.19G260900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G260900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G260900
 confidence: 5
 curators:
   - Steven Cannon
+  - Marlene Dorneich-Hayes
 phenotype_synopsis: Photoperiodic flowering time regulation
 comments:
   - Encodes a MYB transciption factor that affects plant height through
       mediating the GA pathway in soybean
+  - Transgenic expression of LCLb2 shows that the gene maintains rhythmicity,
+      is expressed most strongly at dawn, and is influenced by light/dark and
+      temperature cycles.
+  - The circadian cycle speeds up when the transgenic plant is exposed to
+      higher intensity red or blue light.
+  - Knockout of transcription factors LCLa1, LCLa2, LCLb1, and LCLb2 produces
+      short circadian rhythms and delayed flowering time.
+  - GmLCL genes share homology with AtCCA1, AtLHY, and VrCCA1L26 genes (see
+      Liu_Zhang_2022.yml)
 traits:
   - entity_name: flowering time
     entity: TO:0002616
@@ -3195,6 +3167,10 @@ traits:
     entity: TO:0000469
   - relation_name: positively regulates
     relation: RO:0002213
+  - entity_name: transcription factor binding
+    entity: GO:0008134
+  - entity_name: positive regulation of circadian rhythm
+    entity: GO:0042753
 references:
   - citation: Lu, Zhao et al., 2017
     doi: 10.1038/ng.3819
@@ -3205,14 +3181,20 @@ references:
   - citation: Chen, Cai et al., 2020
     doi: 10.1111/pce.13695
     pmid: 31981430
+  - citation: Cheng, Dong et al., 2019
+    doi: 10.1186/s12870-019-2145-8
+    pmid: 31852439
+  - citation: Wang, Yuan, et al., 2019
+    doi: 10.1111/pce.13678
+    pmid: 31724182
 
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - LHY2b
+  - GmLHY2b
 gene_symbol_long: Leafy 2b
 gene_model_pub_name: Glyma.03G261800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G261800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G261800
 confidence: 5
 curators:
   - Steven Cannon
@@ -3371,7 +3353,7 @@ gene_symbols:
   - GmPRR37
 gene_symbol_long: Pseudo response regulator 37
 gene_model_pub_name: Glyma.12G073900
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.12G073900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073900
 confidence: 5
 curators:
   - Raegan Nelson
@@ -3582,6 +3564,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmAPETALA1
   - GmAP1
 gene_symbol_long: APETALA1
 gene_model_pub_name: Glyma16g13070
@@ -3590,14 +3573,14 @@ confidence: 5
 curators:
   - Raegan Nelson
 comments:
-  - GmAP1 transcription was detected in both the apical inflorescence meristem
-      and lateral floral meristems
-  - GmAP1 is a nuclear-localized transcription activator
-  - Overexpression of GmAP1 in tobacco leads to early flowering phenotype and
-      some flower morphology changes in the stamen
-  - GmAP1 is a MADS-box transcription factor
-phenotype_synopsis: GmAP1 is involved in flowering time and morphology in
-  soybeans
+  - GmAPETALA1 (GmAP1) transcription was detected in both the apical
+      inflorescence meristem and lateral floral meristems
+  - GmAPETALA1 (GmAP1) is a nuclear-localized transcription activator
+  - Overexpression of GmAPETALA1 (GmAP1) in tobacco leads to early flowering
+      phenotype and some flower morphology changes in the stamen
+  - GmAPETALA1 (GmAP1) is a MADS-box transcription factor
+phenotype_synopsis: GmAPETALA1 (GmAP1) is involved in flowering time and
+  morphology in soybeans
 traits:
   - entity_name: Flowering time trait
     entity: TO:0002616
@@ -3617,7 +3600,7 @@ gene_symbols:
   - GmELF5
 gene_symbol_long: Early Flowering 5
 gene_model_pub_name: Glyma.05G031100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G031100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G031100
 confidence: 5
 curators:
   - Steven Cannon
@@ -3641,7 +3624,7 @@ gene_symbols:
   - GmTEM1a
 gene_symbol_long: Tempranillo 1a
 gene_model_pub_name: Glyma.20G186200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.20G186200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G186200
 confidence: 3
 curators:
   - Steven Cannon
@@ -3665,7 +3648,7 @@ gene_symbols:
   - GmCAMTA12
 gene_symbol_long: Calmodulin Binding Transcription Activator 12
 gene_model_pub_name: Glyma.17G031900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G031900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G031900
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -3693,10 +3676,39 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmABCC8
+gene_symbol_long: ATP-Binding Cassette Transporter 8
+gene_model_pub_name: Glyma.07G011600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G011600
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - Overexpression of GmABCC8 in transgenic plants created glyphosate
+      resistance. ABCC8 knockout plants had decreased resistance to glyphosate.
+phenotype_synopsis: GmABCC8 codes for an efflux pump that extrudes the
+  herbicide glyphosate out of a cell's cytoplasm, making the plant glyphosate
+  resistant.
+traits:
+  - entity_name: glyphosate sensitivity
+    entity: TO:0005006
+  - entity_name: herbicide resistance
+    entity: OMIT:0025284
+  - entity_name: ABC-type transporter activity
+    entity: GO:0140359
+references:
+  - citation: Pan, Yu et al., 2021
+    doi: 10.1073/pnas.2100136118
+    pmid: 33846264
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmASPGB1a
 gene_symbol_long: Asparaginase 1a
 gene_model_pub_name: Glyma14g09510
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g09510
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G086300
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3725,7 +3737,7 @@ gene_symbols:
   - GmASPGB1b
 gene_symbol_long: Asparaginase 1b
 gene_model_pub_name: Glyma17g35650
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g35650
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G238200
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3752,7 +3764,7 @@ gene_symbols:
   - GmASPGB2a
 gene_symbol_long: Asparaginase 2a
 gene_model_pub_name: Glyma04g04470
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g04470
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G042100
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3779,7 +3791,7 @@ gene_symbols:
   - GmASPGB2b
 gene_symbol_long: Asparaginase 2b
 gene_model_pub_name: Glyma06g04590
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g04590
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G043000
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3806,7 +3818,7 @@ gene_symbols:
   - GmAS1a
 gene_symbol_long: Asparaginase Synthetase 1a
 gene_model_pub_name: Glyma11g27480
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27480
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G171400
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3838,7 +3850,7 @@ gene_symbols:
   - GmAS1b
 gene_symbol_long: Asparaginase Synthetase 1b
 gene_model_pub_name: Glyma11g27720
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g27720
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G170300
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3870,7 +3882,7 @@ gene_symbols:
   - GmAS1c
 gene_symbol_long: Asparaginase Synthetase 1c
 gene_model_pub_name: Glyma18g06840
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g06840
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G061100
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3903,7 +3915,7 @@ gene_symbols:
   - GmAS2b
 gene_symbol_long: Asparaginase Synthetase 2b
 gene_model_pub_name: Glyma14g37440
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g37440
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G195000
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3934,7 +3946,7 @@ gene_symbols:
   - GmAS3a
 gene_symbol_long: Asparaginase Synthetase 3a
 gene_model_pub_name: Glyma11g38130
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma11g38130
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G240200
 confidence: 2
 curators:
   - Raegan Nelson
@@ -3966,7 +3978,7 @@ gene_symbols:
   - GmAS3b
 gene_symbol_long: Asparaginase Synthetase 3b
 gene_model_pub_name: Glyma18g02060
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g02060
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G017200
 confidence: 2
 curators:
   - Raegan Nelson
@@ -4071,39 +4083,10 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmABCC8
-gene_symbol_long: ATP-Binding Cassette Transporter 8
-gene_model_pub_name: Glyma.07G011600
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.07G011600
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - Overexpression of GmABCC8 in transgenic plants created glyphosate
-      resistance. ABCC8 knockout plants had decreased resistance to glyphosate.
-phenotype_synopsis: GmABCC8 codes for an efflux pump that extrudes the
-  herbicide glyphosate out of a cell's cytoplasm, making the plant glyphosate
-  resistant.
-traits:
-  - entity_name: glyphosate sensitivity
-    entity: TO:0005006
-  - entity_name: herbicide resistance
-    entity: OMIT:0025284
-  - entity_name: ABC-type transporter activity
-    entity: GO:0140359
-references:
-  - citation: Pan, Yu et al., 2021
-    doi: 10.1073/pnas.2100136118
-    pmid: 33846264
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmFAD2-1A
 gene_symbol_long: Fatty Acid Desaturase 2-1A
 gene_model_pub_name: Glyma.10G278000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G278000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G278000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -4170,70 +4153,6 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmBADH2
-gene_symbol_long: betaine aldehyde dehydrogenase 2
-gene_model_pub_name: Glyma05g01770
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma05g01770
-confidence: 5
-curators:
-  - Wei Huang
-comments:
-  - Mutated GmBADH2 may be responsible for the aroma of three aromatic soybean
-      cultivars.
-  - A perfect association between the marker genotypes and aroma phenotypes
-      implied that GmBADH2 is a major aroma-conferring gene
-phenotype_synopsis: A Sequence Variation in GmBADH2 Enhances Soybean Aroma.
-traits:
-  - entity_name: 3-chloroallyl aldehyde dehydrogenase activity
-    entity: GO:0016491
-  - relation_name: positively regulates
-    relation: RO:0002213
-references:
-  - citation: Qian, Jin et. al., 2022
-    doi: 10.3390/ijms23084116
-    pmid: 35456933
-  - citation: Juwattanasomran, Somta, et al., 2011
-    doi: 10.1007/s00122-010-1467-6
-    pmid: 21046066
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmBADH1
-gene_symbol_long: betaine aldehyde dehydrogenase 1
-gene_model_pub_name: Glyma06g19820
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g19820
-confidence: 5
-curators:
-  - Wei Huang
-comments:
-  - GmBADH1 gene may mainly regulate the salt tolerance of seedling stage
-  - GmBADH2 expression level in the R6 stage seeds was significantly lower in
-      the aromatic soybean varieties (QX1 and XD) than in the non-aromatic
-      soybean variety (DBH), whereas there were no significant differences in
-      the GmBADH1 expression levels
-  - Knockout of the soybean (Glycine max) betaine aldehyde dehydrogenase genes
-      GmBADH1 and GmBADH2 using CRISPR/Cas12i3 enhances the aroma of soybeans
-phenotype_synopsis: regulate the salt tolerance of seedling stage
-traits:
-  - entity_name: 3-chloroallyl aldehyde dehydrogenase activity
-    entity: GO:0004028
-  - entity_name: oxidoreductase activity
-    entity: GO:0016491
-references:
-  - citation: Qian, Jin et. al., 2022
-    doi: 10.3390/ijms23084116
-    pmid: 35456933
-  - citation: Shi, Yang et. al., 2008
-    doi: 10.1007/s11032-008-9165-7
-    pmid: null
-  - citation: Xie, Song et. al., 2024
-    doi: 10.1111/jipb.13631
-    pmid: 38390811
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmCHX1
 gene_symbol_long: cation/H(+) antiporter 1
 gene_model_pub_name: Glyma.03G171600
@@ -4255,48 +4174,74 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmMIPS
-gene_symbol_long: Myo-Inositol-Phosphate Synthase
-gene_model_pub_name: Glyma.11G238800
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G238800
-confidence: 3
+  - GmBADH2
+gene_symbol_long: betaine aldehyde dehydrogenase 2
+gene_model_pub_name: Glyma05g01770
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G033500
+confidence: 5
 curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
+  - Wei Huang
 comments:
-  - Silencing of GmMIPS in transgenic lines (with RNAi and antisense) reduces
-      accumulation of phytic acid in seeds.
-phenotype_synopsis: GmMIPS codes for the rate-limiting enzyme in phytic acid
-  biosynthesis. Supression of MIPS reduces the phytic acid concentration in
-  seeds which improves their nutritional value, but also reduces their
-  germination rate.
+  - Mutated GmBADH2 may be responsible for the aroma of three aromatic soybean
+      cultivars.
+  - A perfect association between the marker genotypes and aroma phenotypes
+      implied that GmBADH2 is a major aroma-conferring gene
+phenotype_synopsis: A Sequence Variation in GmBADH2 Enhances Soybean Aroma.
 traits:
-  - entity_name: biosynthetic process
-    entity: GO:0009058
+  - entity_name: 3-chloroallyl aldehyde dehydrogenase activity
+    entity: GO:0016491
+  - relation_name: positively regulates
+    relation: RO:0002213
 references:
-  - citation: Redekar, Glover et al., 2020
-    doi: 10.1371/journal.pone.0235120
-    pmid: 32584851
-  - citation: Kumar, Kumar et al., 2019
-    doi: 10.1038/s41598-019-44255-7
-    pmid: 31123331
-  - citation: Yu, Jin et al., 2019
-    doi: 10.1186/s12870-019-2201-4
-    pmid: 31856712
-  - citation: Nunes, Vianna et al., 2006
-    doi: 10.1007/s00425-005-0201-0
-    pmid: 16395584
-  - citation: Hegeman, Good et al., 2001
-    doi: 10.1104/pp.125.4.1941
-    pmid: 11299373
+  - citation: Qian, Jin et al., 2022
+    doi: 10.3390/ijms23084116
+    pmid: 35456933
+  - citation: Juwattanasomran, Somta, et al., 2011
+    doi: 10.1007/s00122-010-1467-6
+    pmid: 21046066
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBADH1
+gene_symbol_long: betaine aldehyde dehydrogenase 1
+gene_model_pub_name: Glyma06g19820
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G186300
+confidence: 5
+curators:
+  - Wei Huang
+comments:
+  - GmBADH1 gene may mainly regulate the salt tolerance of seedling stage
+  - GmBADH2 expression level in the R6 stage seeds was significantly lower in
+      the aromatic soybean varieties (QX1 and XD) than in the non-aromatic
+      soybean variety (DBH), whereas there were no significant differences in
+      the GmBADH1 expression levels
+  - Knockout of the soybean (Glycine max) betaine aldehyde dehydrogenase genes
+      GmBADH1 and GmBADH2 using CRISPR/Cas12i3 enhances the aroma of soybeans
+phenotype_synopsis: regulate the salt tolerance of seedling stage
+traits:
+  - entity_name: 3-chloroallyl aldehyde dehydrogenase activity
+    entity: GO:0004028
+  - entity_name: oxidoreductase activity
+    entity: GO:0016491
+references:
+  - citation: Qian, Jin et al., 2022
+    doi: 10.3390/ijms23084116
+    pmid: 35456933
+  - citation: Shi, Yang et al., 2008
+    doi: 10.1007/s11032-008-9165-7
+    pmid: null
+  - citation: Xie, Song et al., 2024
+    doi: 10.1111/jipb.13631
+    pmid: 38390811
 
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmRIC1
 gene_symbol_long: Rhizobia-Induced CLE 1
-gene_model_pub_name: Glyma13G36830
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.13G292300
+gene_model_pub_name: Glyma13g36830
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G292300
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -4325,8 +4270,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmRIC2
 gene_symbol_long: Rhizobia-Induced CLE 2
-gene_model_pub_name: Glyma06G43680
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G284100
+gene_model_pub_name: Glyma06g43680
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G284100
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -4355,8 +4300,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNIC1
 gene_symbol_long: Nitrate-Induced CLE 1
-gene_model_pub_name: Glyma12G33660
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12G33660
+gene_model_pub_name: Glyma12g33660
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G208900
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -4432,7 +4377,7 @@ traits:
   - entity_name: positively regulates
     entity: GO:0000496
 references:
-  - citation: Sayama, Tanabata et. al., 2017
+  - citation: Sayama, Tanabata et al., 2017
     doi: 10.1270/jsbbs.16201
     pmid: 29085246
 
@@ -4442,7 +4387,7 @@ gene_symbols:
   - GmNARK
 gene_symbol_long: Nodule Autoregulation Receptor Kinase
 gene_model_pub_name: Glyma.12G040000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.12G040000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G040000
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -4489,10 +4434,50 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmMYBA1
+gene_symbol_long: MYB Anthocyanin Activator 1
+gene_model_pub_name: Glyma.09G235300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G235300
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - While GmMYBA2 specializes in seed coat pigmentation and GmMYBA3
+      orchestrates floral coloration, GmMYBA1 emerges as the dominant regulator
+      of light-responsive anthocyanin synthesis in hypocotyls/stems and young
+      leaves.
+  - GmSTF1/2 both activate GmMYBA1, with only GmSTF2 weakly inducing GmMYBA2
+      and neither affecting GmMYBA3.
+  - GmMYBA1 interacts with bHLH cofactor GmTT8a and is hierarchically activated
+      by the HY5 orthologs STF1/2 under light conditions.
+  - Ectopic overexpression of GmMYBA1 induces systemic pigmentation across
+      leaves, stems, and reproductive organs, whereas RNAi-mediated silencing
+      of GmMYBA1 significantly reduces anthocyanin accumulation in the
+      hypocotyl.
+phenotype_synopsis: GmMYBA1 correlates with photoprotective anthocyanin
+  accumulation in hypocotyls/stems and young leaves in soybean.
+traits:
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: photoperiod sensitivity trait
+    entity: TO:0000229
+  - entity_name: seedling hypocotyl color
+    entity: TO:0000759
+references:
+  - citation: Shan, Zhu et al., 2026
+    doi: 10.1016/j.cj.2025.11.014
+    pmid: null
+  - citation: Ma, Huang et al., 2023
+    doi: 10.1093/plphys/kiae019
+    pmid: 38235827
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmDRR1
 gene_symbol_long: Disease Resistance Responsive 1
 gene_model_pub_name: Glyma.11G150400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G150400
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -4535,7 +4520,7 @@ gene_symbols:
   - GmDRR2
 gene_symbol_long: Disease Resistance Responsive 2
 gene_model_pub_name: Glyma.11G150300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G150300
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -4567,8 +4552,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmbZIP123
 gene_symbol_long: Basic Leucine Zipper 123
-gene_model_pub_name: Glyma06G01240
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06G01240
+gene_model_pub_name: Glyma06g01240
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G010200
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -4701,77 +4686,15 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmGA20ox_b
-gene_symbol_long: Gibberellic Acid 20-Oxidase b
-gene_model_pub_name: Glyma.06G119100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.06G119100
-confidence: 2
-curators:
-  - Scott Kalberer
-comments:
-  - GmGA20ox_b is induced by inoculation with compatible rhizobia (e.g.,
-      Bradyrhizobium japonicum) in soybean root cortical cells during nodule
-      primordia establishment.
-phenotype_synopsis: GmGA20ox_b is a gibberellic acid biosynthesis gene that
-  increases levels of gibberellin during early nodulation.
-traits:
-  - entity_name: gibberellin biosynthetic process
-    entity: GO:0009686
-  - entity_name: regulation of biological process involved in symbiotic
-      interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-references:
-  - citation: Song, Montes-Luz et al., 2022
-    doi: 10.3389/fpls.2022.820348
-    pmid: 35498680
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmFT3b
-gene_symbol_long: Flowering Locus Time 3b
-gene_model_pub_name: Glyma19G28390
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108100
-confidence: 3
-curators:
-  - Ella Townsend
-  - Scott Kalberer
-comments:
-  - GmFT3b expression was induced by photoperiod and circadian rhythm and was
-      more responsive to long-day (LD) conditions, but there were no
-      significant differences in flowering time between the wild-type, the
-      GmFT3b overexpressors, and the ft3b knockouts under natural long-day,
-      short-day, or LD conditions.
-  - GmFT3b acts redundantly in flowering time regulation and may be compensated
-      by other FT homologs in soybean.
-phenotype_synopsis: A flowering time locus, orthologous to Arabidopsis
-  FLOWERING LOCUS T (FT), but apparently redundant with other FT loci in
-  soybean.
-traits:
-  - entity_name: flowering time trait
-    entity: TO:0002616
-  - entity_name: photoperiod-sensitive flowering time trait
-    entity: TO:0000934
-  - entity_name: photoperiodism, flowering
-    entity: GO:0048573
-references:
-  - citation: Su, Chen et al., 2022
-    doi: 10.3390/ijms23052497
-    pmid: 35269637
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmRj2
 gene_symbol_long: Restriction of Nodulation 2
-gene_model_pub_name: Glyma16G33780
+gene_model_pub_name: Glyma16g33780
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G212300
 confidence: 5
 curators:
   - Greg Murrell
   - Ella Townsend
+  - Marlene Dorneich-Hayes
 comments:
   - Cultivated soybean carrying the Rj2 allele restricts nodulation with
       specific Bradyrhizobium strains via host immunity, mediated by rhizobial
@@ -4779,7 +4702,8 @@ comments:
   - The Rj2 gene appears to have been maintained during the process of soybean
       domestication to adapt to high rhizobial diversity.
 phenotype_synopsis: The Rj2 protein mediates nodulation compatibility with
-  rhizobial strains.
+  rhizobial strains. Rj2 is a resistance gene involved in sensing compatibility
+  between soy and Bradyrhizobium symbionts.
 traits:
   - entity_name: root nodule
     entity: PO:0003023
@@ -4791,6 +4715,15 @@ references:
   - citation: Sugawara, Umehara et al., 2019
     doi: 10.1371/journal.pone.0222469
     pmid: 31518373
+  - citation: Zhang, Wang et al., 2021
+    doi: 10.1038/s41477-020-00832-7
+    pmid: 33452487
+  - citation: Yang, Lan et al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+  - citation: Sugawara, Takahashi et al., 2018
+    doi: 10.1038/s41467-018-05663-x
+    pmid: 30087346
 
 ---
 scientific_name: Glycine max
@@ -4798,7 +4731,7 @@ gene_symbols:
   - GmPT01
 gene_symbol_long: Pterocarpan 2-dimethylallyltransferase 1
 gene_model_pub_name: Glyma.01G134600
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.01G134600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G134600
 confidence: 3
 curators:
   - Molly Hardacre
@@ -4827,7 +4760,6 @@ references:
   - citation: Khatri, Chen et al., 2023
     doi: 10.1371/journal.pone.0285698
     pmid: 37186600
-
 
 ---
 scientific_name: Glycine max
@@ -4956,7 +4888,7 @@ gene_symbols:
   - GmFLS2a
 gene_symbol_long: flagellin sensing 2
 gene_model_pub_name: glyma.08g083300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G083300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G083300
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -4985,7 +4917,7 @@ gene_symbols:
   - GmFLS2b
 gene_symbol_long: flagellin sensing 2
 gene_model_pub_name: glyma.05g128200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G128200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G128200
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -5065,6 +4997,12 @@ references:
   - citation: Liu, Kanazawa et al., 2008
     doi: 10.1534/genetics.108.092742
     pmid: 18780733
+  - citation: Liu, Jiang et al., 2008
+    doi: 10.1111/nph.14884
+    pmid: 29120038
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
 
 ---
 scientific_name: Glycine max
@@ -5073,7 +5011,7 @@ gene_symbols:
   - GmGI
 gene_symbol_long: Earliness 2
 gene_model_pub_name: Glyma.10G221500
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.10G221500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G221500
 confidence: 5
 curators:
   - Steven Cannon
@@ -5109,8 +5047,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmMYB176
 gene_symbol_long: GmMYB176
-gene_model_pub_name: Glyma.05g032200
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05g032200
+gene_model_pub_name: Glyma.05G032200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G032200
 confidence: 4
 curators:
   - Wei Huang
@@ -5125,7 +5063,7 @@ traits:
   - entity_name: isoflavonoid phytoalexin metabolic process
     entity: GO:0046289
 references:
-  - citation: Vadivel, Anguraj AK, et al., 2021
+  - citation: Vadivel, Anguraj et al., 2021
     doi: 10.1038/s42003-021-01889-6
     pmid: 33742087
   - citation: Yi, Jinxin et al., 2010
@@ -5137,8 +5075,8 @@ scientific_name: Glycine max
 gene_symbols:
   - Gmbzip5
 gene_symbol_long: GmbZIP5
-gene_model_pub_name: Glyma.15g014800
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15g014800
+gene_model_pub_name: Glyma.15G014800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G014800
 confidence: 4
 curators:
   - Wei Huang
@@ -5150,7 +5088,7 @@ traits:
   - entity_name: isoflavonoid phytoalexin metabolic process
     entity: GO:0046289
 references:
-  - citation: Vadivel, Anguraj AK, et al., 2021
+  - citation: Vadivel, Anguraj et al., 2021
     doi: 10.1038/s42003-021-01889-6
     pmid: 33742087
 
@@ -5234,6 +5172,7 @@ confidence: 5
 curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
+  - Raegan Nelson
 comments:
   - Overexpression of GmFT2a in transgenic soybeans increased nodulation,
       whereas RNAi knockdown decreased nodulation.
@@ -5245,7 +5184,14 @@ comments:
   - At the roots, the FT2a protein forms a complex with the phosphorylated
       product of GmSTF3, which subsequently activates gene expression of
       nodulation signaling pathway 1 (GmNSP1), nodule inception (GmNIN), and
-      nuclear factor Y (GmNF-YA1 and GmNF-YB1).
+      nuclear factor Y (GmNF-YA1 and GmNF-YB1). - FT2a recessive allele has a
+      Ty1/copia–like retrotransposon (SORE-1) inserted in the first intron
+  - SORE-1 only reduces FT2a by allele-specific transcriptional repression when
+      highly methylated
+  - E2 inhibits FT2a expression possibly through a pathway different from the
+      E1–PHYA pathway
+  - FT2a recessive allele ia a leaky allele and is still regulated by other
+      genes involved in photoperiod response
 phenotype_synopsis: Flowering Locus T2a (GmFT2a) is known for stimulating
   flowering, but it also positively regulates nodule organogenesis. Together
   with Soybean TGACG-motif Binding Factor 3 (GmSTF3) and
@@ -5253,6 +5199,10 @@ phenotype_synopsis: Flowering Locus T2a (GmFT2a) is known for stimulating
   root system that adequate photosynthate is available to power the rhizobial
   symbiosis and nitrogen fixation.
 traits:
+  - entity_name: Flowering Time trait
+    entity: TO:0002616
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
   - entity_name: regulation of biological process involved in symbiotic
       interaction
     entity: GO:0043903
@@ -5262,8 +5212,8 @@ traits:
     relation: RO:0002213
   - entity_name: blue light signaling pathway
     entity: GO:0009785
-  - entity_name: long-day photoperiodism, flowering
-    entity: GO:0048574
+  - entity_name: days to maturity
+    entity: TO:0000469
 references:
   - citation: Wang, Guo et al., 2021
     doi: 10.1126/science.abh2890
@@ -5344,10 +5294,77 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmLFY1
+gene_symbol_long: Leafy 1
+gene_model_pub_name: Glyma.04G202001
+gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.04G202001
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - LFY1 shares 94.88% amino acid sequence similarity with LFY2
+  - LFY1 expressed lower transcript abundance than LFY2 (1.2-4.7 times less) in
+      all examined organs
+  - LFY1 Does not significantly affect AP1 gene expression when mutated alone
+  - The LFY1 LFY2 double mutants displayed more serious defects in floral organ
+      development than LFY2, resulting in complete sterility
+phenotype_synopsis: Loss of function of LFY1 appeared to have no effect on
+  flower development by itself
+traits:
+  - entity_name: floral organ development trait
+    entity: TO:0006022
+references:
+  - citation: Wang, Liu et al., 2024
+    doi: 10.1007/s42994-024-00192-2
+    pmid: 40060180
+  - citation: Jin, Klasfeld et al., 2021
+    doi: 10.1038/s41467-020-20883-w
+    pmid: 33504790
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmLFY2
+gene_symbol_long: Leafy 2
+gene_model_pub_name: Glyma.06G163600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G163600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Analysis showed that soybean plants contain more copies of the LFY2
+      transcript, with 1.2–4.7 times higher transcript levels than LFY1 in all
+      organs examined suggesting that the different functions of soybean LFY1
+      and LFY2 may be associated with their transcript levels
+  - The LFY1 LFY2 double mutants displayed more serious defects in floral organ
+      development than LFY2, resulting in complete sterility
+  - LFY1 and LFY2 were predominantly expressed in unopened flowers and the
+      shoot apical meristem, however LFY2 had the higher transcript abundance
+phenotype_synopsis: LFY2 mutants had floral meristems fail to produce normal
+  floral organs and were instead replaced by clusters of leaf-like structures,
+  causing severe sterility
+traits:
+  - entity_name: floral organ development trait
+    entity: TO:0006022
+  - entity_name: plant sterility trait
+    entity: TO:0000485
+  - entity_name: floral organ structural organization
+    entity: GO:0048450
+references:
+  - citation: Wang, Liu et al., 2024
+    doi: 10.1007/s42994-024-00192-2
+    pmid: 40060180
+  - citation: Jin, Klasfeld et al., 2021
+    doi: 10.1038/s41467-020-20883-w
+    pmid: 33504790
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmEDS1a
 gene_symbol_long: enhanced disease susceptibility 1a
 gene_model_pub_name: Glyma04g34800
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma04g34800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G177700
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -5378,7 +5395,7 @@ gene_symbols:
   - GmEDS1b
 gene_symbol_long: enhanced disease suceptibility 1b
 gene_model_pub_name: Glyma06g19920
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g19920
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G187400
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -5409,7 +5426,7 @@ gene_symbols:
   - GmPAD4
 gene_symbol_long: phytoalexin deficient 4
 gene_model_pub_name: Glyma08g00420
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g00420
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G002100
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -5439,7 +5456,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNNC1
 gene_symbol_long: Nodule Number Control 1
-gene_model_pub_name: Glyma12G07800
+gene_model_pub_name: Glyma12g07800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G073300
 confidence: 5
 curators:
@@ -5502,7 +5519,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmVSPβ
 gene_model_pub_name: Glyma08g21410
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g21410
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G200100
 confidence: 3
 curators:
   - William Hardison
@@ -5522,7 +5539,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmN:IFR
 gene_model_pub_name: Glyma01g37810
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g37810
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G172600
 confidence: 3
 curators:
   - William Hardison
@@ -5549,8 +5566,6 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Biological nitrogen (N) fixation within legume nodules necessitates large
-      quantities of phosphorus (P) to meet energy and carbon demands.
   - Five Purple Acid Phosphatase (GmPAP) genes showed up-regulated expression
       under P-deficient as compared to P-sufficient conditions. P-starvation
       contributed to increasing acid phosphatase (APase) and phytase activities
@@ -5558,6 +5573,8 @@ comments:
       highest level of expression amongst the five PAPs, its transcription
       gradually increased during nodule development, and the PAP12 promoter was
       activated by low-P stress.
+  - Biological nitrogen (N) fixation within legume nodules necessitates large
+      quantities of phosphorus (P) to meet energy and carbon demands.
   - Overexpression of PAP12 in transgenic hairy root nodules under P-deficient
       conditions increased total nodule number, shoot weight, nodule
       nitrogenase activity, nodule APase activity, N content, and P content
@@ -5602,33 +5619,39 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmLCLb2
-gene_symbol_long: LHY/CCA1-like b2
-gene_model_pub_name: Glyma19g45030
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma19g45030
-confidence: 4
+  - GmPLC8
+gene_symbol_long: Phospholipase C 8
+gene_model_pub_name: Glyma.14G059200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G059200
+confidence: 5
 curators:
-  - Marlene Dorneich-Hayes
+  - Molly Hardacre
+  - Scott Kalberer
 comments:
-  - Transgenic expression of LCLb2 shows that the gene maintains rhythmicity,
-      is expressed most strongly at dawn, and is influenced by light/dark and
-      temperature cycles.
-  - The circadian cycle speeds up when the transgenic plant is exposed to
-      higher intensity red or blue light.
-  - Knockout of transcription factors LCLa1, LCLa2, LCLb1, and LCLb2 produces
-      short circadian rhythms and delayed flowering time.
-  - GmLCL genes share homology with AtCCA1, AtLHY, and VrCCA1L26 genes (see
-      Liu_Zhang_2022.yml)
-phenotype_synopsis: Positive regulation of circadian clock.
+  - GmPLC8-overexpressor lines exhibited higher drought tolerance than
+      wild-type seedlings, whereas GmPLC8-silenced seedlings were more
+      sensitive.
+  - Drought caused smaller stomatal apertures and higher abscisic acid content
+      in GmPLC8 overexpression lines.
+  - Overexpression of GmPLC8 reduces malondialdehyde and hydrogen peroxide
+      accumulation under drought stress.
+  - Both AtPLC3 and GmPLC8 are involved in regulating stomatal aperture, while
+      AtPLC3 in Arabidopsis also affects root development and seed germination.
+  - GmPLC8 enhances drought tolerance by activating abscisic acid responsive
+      biosynthesis and signaling genes.
+phenotype_synopsis: GmPLC8 enhances drought tolerance in soybean seedlings by
+  regulating stomatal closure and the abscisic acid mediated response.
 traits:
-  - entity_name: transcription factor binding
-    entity: GO:0008134
-  - entity_name: positive regulation of circadian rhythm
-    entity: GO:0042753
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: stomatal closure
+    entity: GO:0090332
+  - entity_name: regulation of abscisic acid-activated signaling pathway
+    entity: GO:0009787
 references:
-  - citation: Wang, Yuan, et. al., 2019
-    doi: 10.1111/pce.13678
-    pmid: 31724182
+  - citation: Wang, Yang et al., 2026
+    doi: 10.1016/j.isci.2025.114546
+    pmid: 41623451
 
 ---
 scientific_name: Glycine max
@@ -5665,7 +5688,7 @@ gene_symbols:
   - GmphyA3
 gene_symbol_long: Earliness 3
 gene_model_pub_name: Glyma.19G224200
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.19G224200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G224200
 confidence: 5
 curators:
   - Steven Cannon
@@ -5690,10 +5713,10 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - E1Lb
+  - GmE1Lb
 gene_symbol_long: E1-like-b
 gene_model_pub_name: Glyma.04G143300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G143300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G143300
 confidence: 5
 curators:
   - Steven Cannon
@@ -5721,7 +5744,7 @@ gene_symbols:
   - GmSWN
 gene_symbol_long: Swinger
 gene_model_pub_name: Glyma.03G224300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G224300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G224300
 confidence: 5
 curators:
   - Steven Cannon
@@ -5744,7 +5767,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1a
 gene_symbol_long: CONSTANS-Like 1a
-gene_model_pub_name: Glyma08G28370
+gene_model_pub_name: Glyma08g28370
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G255200
 confidence: 5
 curators:
@@ -5777,7 +5800,7 @@ references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Zhang et al., 2022
+  - citation: Khan, Zhang et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153
 
@@ -5786,7 +5809,7 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCOL1b
 gene_symbol_long: CONSTANS-Like 1b
-gene_model_pub_name: Glyma18G51320
+gene_model_pub_name: Glyma18g51320
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G278100
 confidence: 3
 curators:
@@ -5819,7 +5842,7 @@ references:
   - citation: Wu, Price et al., 2014
     doi: 10.1371/journal.pone.0085754
     pmid: 24465684
-  - citation: Awal Khan, Zhang et al., 2022
+  - citation: Khan, Zhang et al., 2022
     doi: 10.3389/fpls.2022.817544
     pmid: 35371153
 
@@ -5871,10 +5894,10 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - E1La
+  - GmE1La
 gene_symbol_long: E1-like-a
 gene_model_pub_name: Glyma.04G156400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.04G156400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G156400
 confidence: 5
 curators:
   - Steven Cannon
@@ -5899,10 +5922,85 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmBEHL1
+  - GmBES1-5
+gene_symbol_long: BES1/BZR1 Homolog-Like protein 1
+gene_model_pub_name: Glyma.01G178000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G178000
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+comments:
+  - Overexpression of BEHL1 decreases nodulation, RNAi knockdown of BEHL1
+      increases nodulation.
+  - BEHL1 interacts with the nodulation factor (NF) pathway as well as the
+      brassinosteroid signalling (BR) pathway.
+  - The product of BEHL1 binds to BR-responsive Responsive Elements (BRRE) and
+      the gene GmBIN2 to regulate BR signalling.
+phenotype_synopsis: BEHL1 is a corepressor. It works with NNC1 (see Wang, Wang
+  et al., 2014) as a negative regulator of nodulation.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic
+      interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: negatively regulates
+    relation: RO:0002212
+references:
+  - citation: Yan, Wang et al., 2018
+    doi: 10.1038/s41598-018-25910-x
+    pmid: 29769571
+  - citation: Li, Guo et al., 2019
+    doi: 10.1016/j.heliyon.2019.e01868
+    pmid: 31206092
+  - citation: Wang, Wang et al., 2014
+    doi: 10.1105/tpc.114.131607
+    pmid: 25549672
+  - citation: Yang, Lan et al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEXLB1
+gene_symbol_long: Expansin-like B1 gene
+gene_model_pub_name: Glyma.17G147500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G147500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmEXLB1 improves the root development dependent-on auxin signal pathway,
+      significantly increasing lateral root density and quantity
+  - GmEXLB1 directly interacts with GmPUB21, an E3 ubiquitin ligase that
+      negatively regulates soybean salt tolerance.
+  - The stability of GmEXLB1 is regulated via the 26S proteasome pathway, and
+      GmPUB21 promotes the degradation of GmEXLB1 specifically under salt
+      stress.
+phenotype_synopsis: Overexpression of GmEXLB1 enhances salt tolerance in
+  soybean and promotes root development
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Yang, Chen et al., 2026
+    doi: 10.1016/j.stress.2026.101386
+    pmid: null
+  - citation: Kong, Wang et al., 2019
+    doi: 10.3389/fpls.2019.00808
+    pmid: 31333686
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmCKX3
 gene_symbol_long: Cytokinin Oxidase/Dehydrogenase 3
 gene_model_pub_name: Glyma.17G054500
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.17G054500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G054500
 confidence: 5
 curators:
   - Molly Hardacre
@@ -5940,7 +6038,7 @@ gene_symbols:
   - GmCKX7
 gene_symbol_long: Cytokinin Oxidase/Dehydrogenase 7
 gene_model_pub_name: Glyma.09G063900
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.09G063900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G063900
 confidence: 5
 curators:
   - Molly Hardacre
@@ -5979,7 +6077,7 @@ gene_symbols:
   - GmCKX14
 gene_symbol_long: Cytokinin Oxidase/Dehydrogenase 14
 gene_model_pub_name: Glyma.15G170300
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.15G170300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G170300
 confidence: 5
 curators:
   - Molly Hardacre
@@ -6014,6 +6112,40 @@ references:
     doi: 10.1111/pbi.13305
     pmid: 31782596
 
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAP1
+gene_symbol_long: Aspartic Protease 1
+gene_model_pub_name: Glyma.02G100800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G100800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmAP1 is a multifunctional protein involved in both flowering time
+      regulation and salt stress responses, as GmAP1 expression was strongly
+      induced by salt stress.
+  - GmAP1 is targeted to chloroplasts, where it downregulates the PHD-type
+      transcription factor gene PTM without affecting GOLDEN2-LIKE 1/2
+      (GLK1/2). GmAP1 seems to regulate flowering time primarily through the
+      PTM-dependent rather than the GLK-dependent signaling pathway.
+  - GmAP1 interacts with and degrades the Rubisco large subunit (rbcL), a
+      process correlating with decreased photosynthetic rate and delayed
+      flowering in overexpression lines under salt stress.
+phenotype_synopsis: Overexpressing GmAP1 leads to delayed flowering time in
+  soybean and enhances sensitivity to salt stress.
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: photosynthetic rate
+    entity: TO:0001015
+references:
+  - citation: Yang, Liu et al., 2026
+    doi: 10.1016/j.plaphy.2026.111163
+    pmid: 41775167
 
 ---
 scientific_name: Glycine max
@@ -6104,44 +6236,29 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmBEHL1
-  - GmBES1-5
-gene_symbol_long: BES1/BZR1 Homolog-Like protein 1
-gene_model_pub_name: Glyma01G178000
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G178000
-confidence: 5
+  - GmSFT
+gene_symbol_long: Seed-Flooding Tolerance
+gene_model_pub_name: Glyma.13G248000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G248000
+confidence: 3
 curators:
-  - Marlene Dorneich-Hayes
+  - William Hardison
 comments:
-  - Overexpression of BEHL1 decreases nodulation, RNAi knockdown of BEHL1
-      increases nodulation.
-  - BEHL1 interacts with the nodulation factor (NF) pathway as well as the
-      brassinosteroid signalling (BR) pathway.
-  - The product of BEHL1 binds to BR-responsive Responsive Elements (BRRE) and
-      the gene GmBIN2 to regulate BR signalling.
-phenotype_synopsis: BEHL1 is a corepressor. It works with NNC1 (see Wang, Wang
-  et. al., 2014) as a negative regulator of nodulation.
+  - Genome-Wide Association Study (GWAS)
+  - also known as glyma.Wm82.gnm2.ann1.Glyma.13G248000.1
+  - condifence is 4 because further functional validation is required to
+      determine its [Glyma.13G248000] roles in seed-flooding tolerance of
+      soybean
+  - GmSFT(Glyma.13G248000) was considered to be the most likely candidate gene
+      regulating seed-flooding tolerance in soybean
+phenotype_synopsis: Ability to grow in seed flooding conditions
 traits:
-  - entity_name: regulation of biological process involved in symbiotic
-      interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-  - relation_name: negatively regulates
-    relation: RO:0002212
+  - entity_name: flooding related trait
+    entity: TO:0000114
 references:
-  - citation: Yan, Wang et. al., 2018
-    doi: 10.1038/s41598-018-25910-x
-    pmid: 29769571
-  - citation: Li, Guo et. al., 2019
-    doi: 10.1016/j.heliyon.2019.e01868
-    pmid: 31206092
-  - citation: Wang, Wang et. al., 2014
-    doi: 10.1105/tpc.114.131607
-    pmid: 25549672
-  - citation: Yang, Lan et. al., 2022
-    doi: 10.1111/jipb.13207
-    pmid: 34962095
+  - citation: Yu, Chang et al., 2019
+    doi: 10.3390/genes10120957
+    pmid: 31766569
 
 ---
 scientific_name: Glycine max
@@ -6153,6 +6270,8 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G238800
 confidence: 5
 curators:
   - Raegan Nelson
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - Gm-lpa-TW-1 lpa (low phytic acid) mutation resulted from a 2 bp deletion in
       MIPS1
@@ -6160,7 +6279,12 @@ comments:
       decrease in organic phosphorus levels compared to the WT
   - Gm-lpa-TW-1 can negatively affect seed emergence when seeds are produced in
       unfavorable enviorments (spring season)
-phenotype_synopsis: involved in the early stages of phytic acid synthesis
+  - Silencing of GmMIPS in transgenic lines (with RNAi and antisense) reduces
+      accumulation of phytic acid in seeds.
+phenotype_synopsis: GmMIPS codes for the rate-limiting enzyme in phytic acid
+  biosynthesis. Supression of MIPS reduces the phytic acid concentration in
+  seeds which improves their nutritional value, but also reduces their
+  germination rate.
 traits:
   - entity_name: myo-inositol hexakisphosphate metabolic process
     entity: GO:0033517
@@ -6175,6 +6299,21 @@ references:
   - citation: DeMers, Raboy et al., 2021
     doi: 10.3389/fpls.2021.708286
     pmid: 34531883
+  - citation: Redekar, Glover et al., 2020
+    doi: 10.1371/journal.pone.0235120
+    pmid: 32584851
+  - citation: Kumar, Kumar et al., 2019
+    doi: 10.1038/s41598-019-44255-7
+    pmid: 31123331
+  - citation: Yu, Jin et al., 2019
+    doi: 10.1186/s12870-019-2201-4
+    pmid: 31856712
+  - citation: Nunes, Vianna et al., 2006
+    doi: 10.1007/s00425-005-0201-0
+    pmid: 16395584
+  - citation: Hegeman, Good et al., 2001
+    doi: 10.1104/pp.125.4.1941
+    pmid: 11299373
 
 ---
 scientific_name: Glycine max
@@ -6182,7 +6321,7 @@ gene_symbols:
   - GmIPK1
 gene_symbol_long: inositol 1,3,4,5,6 pentakisphosphate 2-kinase 1
 gene_model_pub_name: Glyma14g07880
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g07880
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G072200
 confidence: 5
 curators:
   - Raegan Nelson
@@ -6212,47 +6351,23 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmSFT
-gene_symbol_long: Seed-Flooding Tolerance
-gene_model_pub_name: Glyma.13g248000
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G248000
-confidence: 3
-curators:
-  - William Hardison
-comments:
-  - Genome-Wide Association Study (GWAS)
-  - also known as glyma.Wm82.gnm2.ann1.Glyma.13G248000.1
-  - condifence is 4 because further functional validation is required to
-      determine its [Glyma.13g248000] roles in seed-flooding tolerance of
-      soybean
-  - GmSFT(Glyma.13g248000) was considered to be the most likely candidate gene
-      regulating seed-flooding tolerance in soybean
-phenotype_synopsis: Ability to grow in seed flooding conditions
-traits:
-  - entity_name: flooding related trait
-    entity: TO:0000114
-references:
-  - citation: Yu, Chang et al., 2019
-    doi: 10.3390/genes10120957
-    pmid: 31766569
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmFT5a
   - GmFTL4
-gene_symbol_long: Flowering Locus T
+gene_symbol_long: Flowering Time 5a
 gene_model_pub_name: Glyma.16G044100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G044100
 confidence: 5
 curators:
   - Greg Murrell
+  - Steven Cannon
 phenotype_synopsis: Control of flowering time and shoot determinacy
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
   - entity_name: plant height
     entity: TO:0000207
+  - entity_name: days to maturity
+    entity: TO:0000469
   - entity_name: transcription factor AP-1 complex
     entity: GO:0035976
   - relation_name: positively regulates
@@ -6285,6 +6400,24 @@ references:
   - citation: Kong, Liu, et al., 2010
     doi: 10.1104/pp.110.160796
     pmid: 20864544
+  - citation: Fan, Hu et al., 2014
+    doi: 10.1186/1471-2229-14-9
+    pmid: 24397545
+  - citation: Lin, Liu et al., 2021
+    doi: 10.1111/jipb.13021
+    pmid: 33090664
+  - citation: Kong, Nan et al., 2014
+    doi: 10.2135/cropsci2014.03.0228
+    pmid: null
+  - citation: Takeshima, Hayashi et al., 2016
+    doi: 10.1093/jxb/erw283
+    pmid: 27422993
+  - citation: Zhao, Takeshima et al., 2016
+    doi: 10.1186/s12870-016-0704-9
+    pmid: 26786479
+  - citation: Dietz, Chan et al., 2023
+    doi: 10.3389/fpls.2022.889066
+    pmid: 35574141
 
 ---
 scientific_name: Glycine max
@@ -6293,13 +6426,13 @@ gene_symbols:
   - GmTFL
   - GmTFL1b
   - GmTFL1.1
-  - GmTFL1b
 gene_symbol_long: Terminal Flower 1-Like
 gene_model_pub_name: Glyma.19G194300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G194300
 confidence: 5
 curators:
   - Greg Murrell
+  - Brandon Jordan
 comments:
   - photoperiodic flowering time
 phenotype_synopsis: Modification of flowering time and determinacy
@@ -6308,6 +6441,10 @@ traits:
     entity: CO_336:0000000
   - entity_name: soybean plant height trait
     entity: CO_336:0000027
+  - entity_name: meristem identity
+    entity: TO:0006017
+  - relation_name: terminal
+    relation: PATO:0002476
 references:
   - citation: Yue, Li et al., 2021
     doi: 10.1111/jipb.13070
@@ -6329,10 +6466,13 @@ gene_symbols:
   - GmR
 gene_symbol_long: Black or brown seed coat color
 gene_model_pub_name: Glyma09g36983
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g36983
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G235100
 confidence: 5
 curators:
   - Raegan Nelson
+  - Jacqueline Campbell
+  - Steven Cannon
+  - Scott Kalberer
 comments:
   - Three different alleles RM55-r^m (variegated black-brown seed coat),
       RM30-R* (black seed coat), and RM38-r (brown seed coat)
@@ -6351,6 +6491,16 @@ comments:
   - ANS genes are highly expressed during early seed development stages
   - UGT78K1 gene may not be expressed in the seed coat but rather in the
       cotyledons
+  - The classical R locus is associated with brown coloration of seed coats and
+      hilums.
+  - A loss of function mutation altering the R2R3 MYB transcription factor gene
+      GmR (Glyma09g36990) was proposed as a candidate for the brown hilum
+      phenotype. Expression of this gene is specific to the seed coat.
+  - Gene expression of the functional GmR gene candidate was correlated with
+      expression of an UDP-glucose:flavonoid 3-O-glucosyltransferase (UF3GT)
+      gene. UF3GT is responsible for the final step in anthocyanin
+      biosynthesis. Conversely, gene expression of this functionless allele of
+      Glyma09g36990 was associated with a failure to upregulate the UF3GT gene.
 phenotype_synopsis: Glyma09g36983 is associated with red-brown seed coat color,
   through modification of expression of genes in the ANS pathway
 traits:
@@ -6362,15 +6512,18 @@ references:
   - citation: Zabala, Vodkin., 2014
     doi: 10.1371/journal.pone.0111959
     pmid: 25369033
-  - citation: Yang Y, Zhao T et al., 2023
+  - citation: Yang, Zhao et al., 2023
     doi: 10.3389/fpls.2023.1190503
     pmid: 37384360
-  - citation: Song J, Liu Z et al., 2016
+  - citation: Song, Liu et al., 2016
     doi: 10.1371/journal.pone.0159064
     pmid: 27404272
-  - citation: Palmer RG, Pfeiffer TW et al., 2004
+  - citation: Palmer, Pfeiffer et al., 2004
     doi: 10.2134/agronmonogr16.3ed.c5
     pmid: null
+  - citation: Gillman, Tetlow et al., 2011
+    doi: 10.1186/1471-2229-11-155
+    pmid: 22070454
 
 ---
 scientific_name: Glycine max
@@ -6379,7 +6532,7 @@ gene_symbols:
   - GmFT4
 gene_symbol_long: Earliness 10
 gene_model_pub_name: Glyma.08G363100
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.08G363100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G363100
 confidence: 5
 curators:
   - Steven Cannon
@@ -6406,44 +6559,41 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: fas
 gene_symbols:
-  - SACPD-C
-gene_symbol_long: delta-9-Stearoyl-Acyl Carrier Protein Desaturase-C
-gene_model_pub_name: Glyma14g27990
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma14g27990
-confidence: 3
+  - GmMRF2
+gene_symbol_long: MORN-MOTIF REPEAT PROTEIN REGULATING FLOWERING 2
+gene_model_pub_name: Glyma.03G106900
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.03G106900
+confidence: 4
 curators:
-  - Marlene Dorneich-Hayes
+  - Molly Hardacre
 comments:
-  - Mutants with defective SACPD-C produce seeds with high stearic acid
-      content.
-  - Plants with defective or silent SACPD-C produce seeds high in stearic acid.
-  - SACPD-C also has pleiotropic effects on nodule structure.
-phenotype_synopsis: SACPD-C codes for a seed-specific enzyme that converts
-  stearic acid into oleic acid.
+  - GmMRF2 overexpression soybean lines exhibited earlier flowering time under
+      long-day (LD) conditions, and increased plant height under both LD and
+      short-day (SD) conditions compared to wild-type (WT) plants.
+  - The expression levels of gibberellic acid (GA) pathway genes that
+      positively regulate plant height and flowering-promoting genes were
+      up-regulated in the GmMRF2 overexpression lines.
+  - GmFT2a, GmFT5a, GmAP1s, GmFUL1s, GmSOC1b and GmLFY2 were induced in GmMRF2
+      overexpression soybean lines under LD conditions. This fact suggests that
+      GmMRF2 promotes soybean flowering by up-regulating the expression of
+      several flowering-related genes under LD conditions.
+  - GmMRF2 interacted with GmTCP15 to co-induce the expression of GmSOC1b which
+      then accelerated soybean flowering.
+phenotype_synopsis: GmMRF2 overexpression promoted flowering and increased
+  plant height in soybean.
 traits:
-  - entity_name: seed development
-    entity: GO:0048316
-  - entity_name: lipid metabolic process
-    entity: GO:0006629
-  - entity_name: regulation of triglyceride biosynthetic process
-    entity: GO:0010866
-  - entity_name: fat and essential oil content
-    entity: TO:0000604
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: plant height
+    entity: TO:0000207
 references:
-  - citation: Zhang, Burton et. al., 2008
-    doi: 10.2135/cropsci2008.02.0084
-    pmid: null
-  - citation: Gillman, Stacey et. al., 2014
-    doi: 10.1186/1471-2229-14-143
-    pmid: 24886084
-  - citation: Carrero-Colon, Abshire et. al., 2014
-    doi: 10.1371/journal.pone.0097891
-    pmid: 24846334
-  - citation: Zuo, Ikram et. al., 2022
-    doi: 10.1016/j.csbj.2022.06.014
-    pmid: 35782726
+  - citation: Zhang, Chen et al., 2023
+    doi: 10.1016/j.ijbiomac.2023.125464
+    pmid: 37348581
+  - citation: You, Sawikowska et al., 2019
+    doi: 10.1105/tpc.17.00714
+    pmid: 30670485
 
 ---
 scientific_name: Glycine max
@@ -6472,56 +6622,6 @@ references:
   - citation: Zhang, Gao et al., 2018
     doi: 10.1111/mpp.12741
     pmid: 30113770
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmSWEET39
-gene_symbol_long: Sugars Will Eventually be Exported Transporter 39
-gene_model_pub_name: Glyma.15G049200
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G049200
-confidence: 4
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - GmSWEET39 is strongly expressed in soybean seed-coat parenchyma and
-      integuments. This gene encodes a plasma membrane-localized sucrose efflux
-      transporter.
-  - Expression of SWEET39 positively correlates to seed oil content. There is a
-      negative correlation between seed protein and seed oil content.
-  - A two-nucleotide CC deletion resulted in a truncated C-terminus of SWEET39.
-      This allele (CC-) was strongly associated with high seed oil and low seed
-      protein.
-  - SWEET39 may regulate oil and protein accumulation by affecting levels of
-      sugar delivery from maternal seed coat to the filial embryo.
-  - A CC deletion (CC-) haplotype H1 has been selected during domestication so
-      as to produce high seed oil content alongside low protein; H1 is
-      prominent worldwide and became fixed in North American cultivars. The
-      protein-favored (CC+) haplotype H3 also underwent selection to enhance
-      seed protein content alongside reduced oil amounts. There were more
-      dramatic differences in both oil and protein content between CC- and CC+
-      accessions for cultivars than for landraces.
-phenotype_synopsis: GmSWEET39 codes for a sucrose efflux transporter in the
-  plasma membrane that produces a pleiotropic effect on seed protein and oil
-  content.
-traits:
-  - entity_name: protein content
-    entity: TO:0000598
-  - entity_name: fat and essential oil content
-    entity: TO:0000604
-  - entity_name: efflux transmembrane transporter activity
-    entity: GO:0015562
-references:
-  - citation: Zhang, Goettel et al., 2020
-    doi: 10.1371/journal.pgen.1009114
-    pmid: 33175845
-  - citation: Miao, Yang et al., 2020
-    doi: 10.1111/nph.16250
-    pmid: 31596499
-  - citation: Zuo, Ikram et al., 2022
-    doi: 10.1016/j.csbj.2022.06.014
-    pmid: 35782726
 
 ---
 scientific_name: Glycine max
@@ -6627,7 +6727,7 @@ gene_symbols:
   - GmNNL1
 gene_symbol_long: Nodule Number Locus 1
 gene_model_pub_name: Glyma.02G076900
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G076900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G076900
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -6654,50 +6754,7 @@ references:
   - citation: Zhang, Wang et al., 2021
     doi: 10.1038/s41477-020-00832-7
     pmid: 33452487
-  - citation: Yang, Lan et. al., 2022
-    doi: 10.1111/jipb.13207
-    pmid: 34962095
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmRj2
-gene_symbol_long: Resistance j2
-gene_model_pub_name: Glyma16g33780
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G33780
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-comments:
-  - Rj2 interacts with rhizobial NopP to determine compatibility of infecting
-      rhizobia.
-  - Different Rj2 alleles provide immunity to different Bradyrhizobium
-      symbionts.
-  - When invading NopP is incompatible with host Rj2, Rj2 activates defence
-      gene PR-2 to prevent infection.
-  - Regardless of rhizobial compatibility, Rj2 induces ENOD40.
-  - Rj2 is expressed in nodules, root hairs, root tips, and shoot meristems.
-phenotype_synopsis: Rj2 is a resistance gene involved in sensing compatibility
-  between soy and Bradyrhizobium symbionts.
-traits:
-  - entity_name: regulation of biological process involved in symbiotic
-      interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-  - relation_name: negatively regulates
-    entity: RO:0002212
-references:
-  - citation: Zhang, Wang et al., 2021
-    doi: 10.1038/s41477-020-00832-7
-    pmid: 33452487
-  - citation: Sugawara, Takahashi et. al., 2018
-    doi: 10.1038/s41467-018-05663-x
-    pmid: 30087346
-  - citation: Sugawara, Umehara et al., 2019
-    doi: 10.1371/journal.pone.0222469
-    pmid: 31518373
-  - citation: Yang, Lan et. al., 2022
+  - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
 
@@ -6707,21 +6764,40 @@ gene_symbols:
   - GmDGAT1A
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1A
 gene_model_pub_name: Glyma13g16560
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma13g16560
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G106100
 confidence: 3
 curators:
   - William Hardison
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - soybean genome contains more DGAT genes -> duplicaiton events
+  - Overexpression of DGAT1A enhances triacylglycerol biosynthesis in seeds
+      (and in other tissues to a lesser extent).
+  - It is involved in stress response and downregulated by stressors like cold,
+      insect bites, and jasmonate.
+  - DGAT1A produces similar results when transformed into other species.
 phenotype_synopsis: increased fat content, reduced protein content, and
   increased response to temperature stress
 traits:
   - entity_name: fat and essential oil content
     entity: TO:0000604
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: seed development
+    entity: GO:0048316
 references:
   - citation: Zhao, Bi et al., 2019
     doi: 10.1016/j.jplph.2019.153019
     pmid: 31437808
+  - citation: Chen, Wang et al., 2016
+    doi: 10.1038/srep28541
+    pmid: 27345221
+  - citation: Li, Hatanaka et al., 2013
+    doi: 10.1007/s10142-012-0306-z
+    pmid: 23322364
+  - citation: Zuo, Ikram et al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
 
 ---
 scientific_name: Glycine max
@@ -6729,7 +6805,7 @@ gene_symbols:
   - GmDGAT1B
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1B
 gene_model_pub_name: Glyma17g06120
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g06120
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G053300
 confidence: 3
 curators:
   - William Hardison
@@ -6752,7 +6828,7 @@ gene_symbols:
   - GmDGAT1C
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1C
 gene_model_pub_name: Glyma09g07520
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma09g07520
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G065300
 confidence: 2
 curators:
   - William Hardison
@@ -6773,19 +6849,29 @@ scientific_name: Glycine max
 gene_symbols:
   - GmDGAT2D
 gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D
-gene_model_pub_name: Glyma01g36010
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma01g36010
+gene_model_pub_name: Glyma01g36011
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G156000
 confidence: 3
 curators:
   - William Hardison
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - The gene model full id I pieced together from Information I found so it is
-      probably wrong. (Williams 82, Glycine_Max_v4.0)
   - soybean genome contains more DGAT genes -> duplicaiton events
-phenotype_synopsis: increased response to temperature stress
+  - Overexpression of DGAT2D enhances triacylglycerol biosynthesis in flower
+      tissues.
+  - DGAT2D is upregulated by temperature stress but downregulated by insect
+      bites and jasmonate.
+  - DGAT2D produces similar results when transformed into other species.
+phenotype_synopsis: DGAT2D controls synthesis of many triacylglycerols, using
+  18:1 and 18:2 acyl CoA as acyl donors. Oil accumulates most in flowers.
 traits:
   - entity_name: temperature response trait
     entity: TO:0000432
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: seed development
+    entity: GO:0048316
 references:
   - citation: Zhao, Bi et al., 2019
     doi: 10.1016/j.jplph.2019.153019
@@ -6793,6 +6879,9 @@ references:
   - citation: Zhao, Jiangzhe, et al., 2019
     doi: 10.1016/j.jplph.2019.153019
     pmid: 31437808
+  - citation: Chen, Wang et al., 2016
+    doi: 10.1038/srep28541
+    pmid: 27345221
 
 ---
 scientific_name: Glycine max
@@ -6800,7 +6889,7 @@ gene_symbols:
   - GmGBP1
 gene_symbol_long: GAMYB Binding Protein 1
 gene_model_pub_name: DQ112540
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G008600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G008600
 confidence: 4
 curators:
   - William Hardison
@@ -6812,7 +6901,7 @@ comments:
   - Zhao, Wang et al., 2013 [10.1007/s11103-013-0062-z] identifies GmGBP1 as
       Glyma16g08450.
   - Sequence analysis indicates this is a SNW/SKIP transcription factor,
-      equivalent to glyma.Wm82.gnm2.ann1.Glyma.01G008600
+      equivalent to glyma.Wm82.gnm4.ann1.Glyma.01G008600
 phenotype_synopsis: increased flowering on short days
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
@@ -6836,7 +6925,7 @@ gene_symbols:
   - GmWAK1
 gene_symbol_long: Glycine max wall-associated receptor kinase-like 1
 gene_model_pub_name: XM_003534738
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.09G027700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G027700
 confidence: 4
 curators:
   - Molly Hardacre
@@ -6866,46 +6955,13 @@ references:
     doi: 10.3390/plants14030343
     pmid: 39942905
 
-
----
-scientific_name: Glycine max
-classical_locus: E9
-gene_symbols:
-  - GmFT2a
-gene_symbol_long: Flowering time 2a
-gene_model_pub_name: Glyma.16g150700
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.16G150700
-confidence: 5
-curators:
-  - Raegan Nelson
-comments:
-  - FT2a recessive allele has a Ty1/copia–like retrotransposon (SORE-1)
-      inserted in the first intron
-  - SORE-1 only reduces FT2a by allele-specific transcriptional repression when
-      highly methylated
-  - E2 inhibits FT2a expression possibly through a pathway different from the
-      E1–PHYA pathway
-  - FT2a recessive allele ia a leaky allele and is still regulated by other
-      genes involved in photoperiod response
-phenotype_synopsis: FT2a plays a role in flowering time, as the recessive
-  homozygous allele is associated with late flowering time
-traits:
-  - entity_name: Flowering Time trait
-    entity: TO:0002616
-  - entity_name: photoperiod-sensitive flowering time trait
-    entity: TO:0000934
-references:
-  - citation: Zhao, Takeshima et al., 2016
-    doi: 10.1186/s12870-016-0704-9
-    pmid: 26786479
-
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmSop20
 gene_symbol_long: Soybean Oil and Protein QTL on Chromosome 20
 gene_model_pub_name: Glyma.20G005900
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.20G005900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G005900
 confidence: 5
 curators:
   - Molly Hardacre
@@ -6937,7 +6993,7 @@ gene_symbols:
   - GmSop07
 gene_symbol_long: Soybean Oil and Protein QTL on Chromosome 7
 gene_model_pub_name: Glyma.07G158200
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.07G158200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G158200
 confidence: 5
 curators:
   - Molly Hardacre
@@ -6974,10 +7030,12 @@ gene_symbols:
   - GmSWEET39
 gene_symbol_long: Sugars Will Eventually Be Exported Transporter 10a
 gene_model_pub_name: Glyma.15G049200
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.15G049200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G049200
 confidence: 4
 curators:
   - Molly Hardacre
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - GmSWEET10a and its paralog GmSWEET10b control sugar allocation from the
       seed coat to the embryo, further stimulating fatty acid accumulation and
@@ -6991,8 +7049,9 @@ comments:
   - GmSWEET10a/b may accelerate carbon flux from the seed coat to the embryo.
   - GmSWEET10a/b also significantly contribute to seed weight.
   - Last citation mentions the long gene symbol of GmSWEET10a.
-phenotype_synopsis: GmSWEET10a controls seed oil and protein content in
-  soybean.
+phenotype_synopsis: GmSWEET10a/GmSWEET39 controls seed oil and protein content
+  in soybean. It codes for a sucrose efflux transporter in the plasma membrane
+  that produces a pleiotropic effect on seed protein and oil content.
 traits:
   - entity_name: fatty acid content trait
     entity: TO:0001170
@@ -7012,6 +7071,15 @@ references:
   - citation: Sun, Li et al., 2025
     doi: 10.1111/tpj.70435
     pmid: 40839861
+  - citation: Zhang, Goettel et al., 2020
+    doi: 10.1371/journal.pgen.1009114
+    pmid: 33175845
+  - citation: Miao, Yang et al., 2020
+    doi: 10.1111/nph.16250
+    pmid: 31596499
+  - citation: Zuo, Ikram et al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
 
 ---
 scientific_name: Glycine max
@@ -7019,7 +7087,7 @@ gene_symbols:
   - GmSWEET10b
 gene_symbol_long: Sugars Will Eventually Be Exported Transporter 10b
 gene_model_pub_name: Glyma.08G183500
-gene_model_full_id: glyma.Wm82.gnm6.ann1.Glyma.08G183500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G183500
 confidence: 4
 curators:
   - Molly Hardacre
@@ -7057,14 +7125,13 @@ references:
     doi: 10.1111/tpj.70435
     pmid: 40839861
 
-
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmAKT2
 gene_symbol_long: soybean potassium transporter gene 2
 gene_model_pub_name: Glyma08g20030
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g20030
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G187600
 confidence: 5
 curators:
   - Marlene Dorneich-Hayes
@@ -7093,7 +7160,7 @@ gene_symbols:
   - GmFATA1a
 gene_symbol_long: Fatty Acid Thioesterase A1a
 gene_model_pub_name: Glyma18g36130
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma18g36130
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G167300
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -7114,10 +7181,10 @@ traits:
   - entity_name: seed development
     entity: GO:0048316
 references:
-  - citation: Zhou, Lakhssassi et. al., 2021
+  - citation: Zhou, Lakhssassi et al., 2021
     doi: 10.1007/s00122-021-03917-9
     pmid: 34319424
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 
@@ -7127,8 +7194,8 @@ classical_locus: fap3
 gene_symbols:
   - GmFATB1a
 gene_symbol_long: Fatty Acid Thioesterase B1a
-gene_model_pub_name: Glyma05G012300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.05G012300
+gene_model_pub_name: Glyma05g08060
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G012300
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -7149,10 +7216,10 @@ traits:
   - entity_name: seed development
     entity: GO:0048316
 references:
-  - citation: Zhou, Lakhssassi et. al., 2021
+  - citation: Zhou, Lakhssassi et al., 2021
     doi: 10.1007/s00122-021-03917-9
     pmid: 34319424
-  - citation: Ma, Sun et. al., 2021
+  - citation: Ma, Sun et al., 2021
     doi: 10.3390/ijms22083877
     pmid: 33918544
 
@@ -7162,7 +7229,7 @@ gene_symbols:
   - GmFATB1b
 gene_symbol_long: Fatty Acid Thioesterase B1b
 gene_model_pub_name: Glyma.17G120400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G120400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G120400
 confidence: 4
 curators:
   - Marlene Dorneich-Hayes
@@ -7183,13 +7250,13 @@ traits:
   - entity_name: seed development
     entity: GO:0048316
 references:
-  - citation: Zhou, Lakhssassi et. al., 2021
+  - citation: Zhou, Lakhssassi et al., 2021
     doi: 10.1007/s00122-021-03917-9
     pmid: 34319424
-  - citation: Ma, Sun et. al., 2021
+  - citation: Ma, Sun et al., 2021
     doi: 10.3390/ijms22083877
     pmid: 33918544
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
 
@@ -7199,7 +7266,7 @@ gene_symbols:
   - GmFATB2b
 gene_symbol_long: Fatty Acid Thioesterase B2b
 gene_model_pub_name: Glyma06g23560
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g23560
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G211300
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -7220,108 +7287,12 @@ traits:
   - entity_name: seed development
     entity: GO:0048316
 references:
-  - citation: Zhou, Lakhssassi et. al., 2021
+  - citation: Zhou, Lakhssassi et al., 2021
     doi: 10.1007/s00122-021-03917-9
     pmid: 34319424
-  - citation: Zuo, Ikram et. al., 2022
+  - citation: Zuo, Ikram et al., 2022
     doi: 10.1016/j.csbj.2022.06.014
     pmid: 35782726
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmSPX5
-gene_symbol_long: SYG1/Pho81/Xpr1 5
-gene_model_pub_name: Glyma10G40820
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G261900
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - GmSPX5 was most strongly expressed in soybean root nodules. Overexpression
-      of SPX5 enhanced nodule development particularly under
-      phosphate-sufficient conditions, whereas SPX5 suppression didn't cause
-      any phenotypic differences.
-  - Phosphorus concentration was unaffected in leaves, roots, and nodules of
-      both SPX5 overexpression and suppression lines; nor was phosphate
-      transporter gene expression altered in SPX5-overexpressing nodules. These
-      facts contraindicate a role in phosphorus homeostasis as seen for
-      homologous SPX proteins.
-  - Phosphorus starvation typically inhibits nodulation in legumes. Yao, Tian
-      et al. (2014) found that phosphorus deficiency promoted expression of
-      SPX5 in roots and reduced expression in flowers and seeds. Conversely,
-      SPX5 expression in roots was very low when phosphorus availability was
-      high. Nitrogen and potassium deficiencies resulted in decreased and
-      increased SPX5 expression in roots, respectively.
-  - SPX5 expression was upregulated by arbuscular mycorrhizal fungal infection
-      in phosphorus-deficient conditions (Yao, Tian et al., 2014).
-  - SPX5 interacts with the transcription regulator Nuclear Factor Y Subunit C4
-      (GmNF-YC4) and promotes its binding to the promoter of Asparagine
-      Synthetase-like Gene 6 (GmASL6), thus increasing expression of ASL6
-      during nodule development. However, nodule overexpression of SPX5 did not
-      impact asparagine accumulation.
-phenotype_synopsis: GmSPX5 functions alongside GmNF-YC4 to upregulate GmASL6,
-  positively regulate nodule number, and adapt to phosphorus deficiencies. SPX5
-  doesn't interact with or modulate expression of phosphate starvation response
-  (PHR) genes involved in phosphorus homeostasis.
-traits:
-  - entity_name: regulation of biological process involved in symbiotic
-      interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-  - relation_name: positively regulates
-    relation: RO:0002213
-references:
-  - citation: Zhuang, Xue et al., 2021
-    doi: 10.1111/tpj.15520
-    pmid: 34587329
-  - citation: Yao, Tian et al., 2014
-    doi: 10.1093/aob/mcu147
-    pmid: 25074550
-  - citation: Yang, Lan et al., 2022
-    doi: 10.1111/jipb.13207
-    pmid: 34962095
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmNF-YC4
-gene_symbol_long: Nuclear Factor Y Subunit C4
-gene_model_pub_name: Glyma06G17780
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G169600
-confidence: 4
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - Nuclear Factor Y Subunit C4 (GmNF-YC4) positively regulates nodule number
-      and nitrogenase activity.
-  - Overexpression of either GmSPX5 or NF-YC4 leads to upregulation of
-      Asparagine Synthetase-like Genes ASL2,3,4,5,and 6.
-  - SPX5 promotes binding of NF-YC4 to the promoter of GmASL6, increasing
-      expression of ASL6 during nodule development and functionality of the
-      asparagine synthesis pathway.
-phenotype_synopsis: GmNF-YC4 is a transcription factor which upregulates GmASL
-  genes to positively regulate nodule number.
-traits:
-  - entity_name: DNA-binding transcription factor activity
-    entity: GO:0003700
-  - entity_name: regulation of biological process involved in symbiotic
-      interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-  - relation_name: positively regulates
-    relation: RO:0002213
-references:
-  - citation: Zhuang, Xue et al., 2021
-    doi: 10.1111/tpj.15520
-    pmid: 34587329
-  - citation: Yang, Lan et al., 2022
-    doi: 10.1111/jipb.13207
-    pmid: 34962095
 
 ---
 scientific_name: Glycine max
@@ -7403,42 +7374,99 @@ references:
     doi: 10.3389/fpls.2016.00372
     pmid: 27065041
 
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSPX5
+gene_symbol_long: SYG1/Pho81/Xpr1 5
+gene_model_pub_name: Glyma10g40820
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G261900
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - GmSPX5 was most strongly expressed in soybean root nodules. Overexpression
+      of SPX5 enhanced nodule development particularly under
+      phosphate-sufficient conditions, whereas SPX5 suppression didn't cause
+      any phenotypic differences.
+  - Phosphorus concentration was unaffected in leaves, roots, and nodules of
+      both SPX5 overexpression and suppression lines; nor was phosphate
+      transporter gene expression altered in SPX5-overexpressing nodules. These
+      facts contraindicate a role in phosphorus homeostasis as seen for
+      homologous SPX proteins.
+  - Phosphorus starvation typically inhibits nodulation in legumes. Yao, Tian
+      et al. (2014) found that phosphorus deficiency promoted expression of
+      SPX5 in roots and reduced expression in flowers and seeds. Conversely,
+      SPX5 expression in roots was very low when phosphorus availability was
+      high. Nitrogen and potassium deficiencies resulted in decreased and
+      increased SPX5 expression in roots, respectively.
+  - SPX5 expression was upregulated by arbuscular mycorrhizal fungal infection
+      in phosphorus-deficient conditions (Yao, Tian et al., 2014).
+  - SPX5 interacts with the transcription regulator Nuclear Factor Y Subunit C4
+      (GmNF-YC4) and promotes its binding to the promoter of Asparagine
+      Synthetase-like Gene 6 (GmASL6), thus increasing expression of ASL6
+      during nodule development. However, nodule overexpression of SPX5 did not
+      impact asparagine accumulation.
+phenotype_synopsis: GmSPX5 functions alongside GmNF-YC4 to upregulate GmASL6,
+  positively regulate nodule number, and adapt to phosphorus deficiencies. SPX5
+  doesn't interact with or modulate expression of phosphate starvation response
+  (PHR) genes involved in phosphorus homeostasis.
+traits:
+  - entity_name: regulation of biological process involved in symbiotic
+      interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Zhuang, Xue et al., 2021
+    doi: 10.1111/tpj.15520
+    pmid: 34587329
+  - citation: Yao, Tian et al., 2014
+    doi: 10.1093/aob/mcu147
+    pmid: 25074550
+  - citation: Yang, Lan et al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
 
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmTOC1b
-gene_symbol_long: TIMING OF CAB EXPRESSION 1b
-gene_model_pub_name: Glyma.06G196200
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G196200
-confidence: 5
+  - GmNF-YC4
+gene_symbol_long: Nuclear Factor Y Subunit C4
+gene_model_pub_name: Glyma06g17780
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G169600
+confidence: 4
 curators:
-  - Molly Hardacre
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
-  - Homozygous GmTOC1b mutants exhibited increased tolerance to Soybean Mosiac
-      Virus strain SC3 due to the activation of programmed cell death triggered
-      by a hypersensitive response.
-  - GmTOC1b binds to the promoter of GmWRKY40, which encodes a protein that
-      activates the expression of salicylic acid-mediated defense-related
-      genes.
-  - The GmTOC1bH1 haplotype, which confers increased tolerance to Soybean
-      Mosiac Virus, was artificially selected in improved cultivars from the
-      Northern and Huang-Huai regions of China.
-  - Results show that GmTOC1bH3 exhibited the strongest inhibitory activity on
-      the GmWRKY40 promoter, whereas GmTOC1bH1 showed the weakest repressive
-      effect.
-phenotype_synopsis: GmTOC1b negatively regulates resistance to Soybean Mosaic
-  Virus.
+  - Nuclear Factor Y Subunit C4 (GmNF-YC4) positively regulates nodule number
+      and nitrogenase activity.
+  - Overexpression of either GmSPX5 or NF-YC4 leads to upregulation of
+      Asparagine Synthetase-like Genes ASL2,3,4,5,and 6.
+  - SPX5 promotes binding of NF-YC4 to the promoter of GmASL6, increasing
+      expression of ASL6 during nodule development and functionality of the
+      asparagine synthesis pathway.
+phenotype_synopsis: GmNF-YC4 is a transcription factor which upregulates GmASL
+  genes to positively regulate nodule number.
 traits:
-  - entity_name: viral disease response trait
-    entity: TO:0000148
-  - entity_name: salicylic acid mediated signaling pathway
-    entity: GO:0009863
+  - entity_name: DNA-binding transcription factor activity
+    entity: GO:0003700
+  - entity_name: regulation of biological process involved in symbiotic
+      interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: positively regulates
+    relation: RO:0002213
 references:
-  - citation: Zhang, Du et al., 2023
-    doi: 10.1016/j.cj.2023.08.001
-    pmid: null
-  - citation: Zhang, Cheng et al., 2022
-    doi: 10.3389/fpls.2022.1052017
-    pmid: 36438085
+  - citation: Zhuang, Xue et al., 2021
+    doi: 10.1111/tpj.15520
+    pmid: 34587329
+  - citation: Yang, Lan et al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
 

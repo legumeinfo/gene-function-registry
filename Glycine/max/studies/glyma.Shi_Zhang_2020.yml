@@ -4,7 +4,7 @@ gene_symbols:
   - GmDRR1
 gene_symbol_long: Disease Resistance Responsive 1
 gene_model_pub_name: Glyma.11G150400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G150400
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -36,7 +36,7 @@ gene_symbols:
   - GmDRR2
 gene_symbol_long: Disease Resistance Responsive 2
 gene_model_pub_name: Glyma.11G150300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.11G150300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G150300
 confidence: 3
 curators:
   - Marlene Dorneich-Hayes
@@ -59,5 +59,4 @@ references:
     pmid: 32186464
   - citation: Yu, Zou et al., 2021
     doi: 10.1016/j.cj.2021.08.009
-    pmid: null
 

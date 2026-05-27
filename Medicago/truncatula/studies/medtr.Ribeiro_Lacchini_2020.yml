@@ -1,15 +1,15 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - GT3
-  - UGT73F3
+  - MtGT3
+  - MtUGT73F3
 gene_symbol_long: Glycosyltransferase 3
 gene_model_pub_name: Medtr2g035020
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g035020
 confidence: 5
 curators:
   - Steven Cannon
-phenotype_synopsis: The uridine diphosphate glycosyltransferase (GT3, UGT73F3) showed specificity for multiple sapogenins and functions in saponin biosynthesis.  Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism.  Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks).  Roots in homozygous lines were very short and less branched compared with the wild type.  Leaf saponin levels did not differ between controls and mutants.  Levels of 5 different saponins were lower in mutant lines (approx. 3-fold) compared with controls, while only one saponin was higher in the mutants.  The large (10-fold) increase of 3-Glc-28-Ara-Rha-Xyl-medicagenic acid in UGT73F3 knockout lines suggests that the UDP-glucose pool is being diverted toward increased formation of non-C-28-glucosylated sapogenins. Levels of the isoflavone formononetin and its conjugates were also increased in UGT73F3 knockouts.
+phenotype_synopsis: Homozygous plants were retarded in growth relative to normal plants, whereas heterozygous plants did not show dwarfism. Homozygous plants could flower and produce a few pods. The seeds did not show visible morphological changes but took an unusually long time to germinate (at least 3 weeks). Roots in homozygous lines were very short and less branched compared with the wild type.
 traits:
   - entity_name: plant structure growth and development trait
     entity: TO:0000928

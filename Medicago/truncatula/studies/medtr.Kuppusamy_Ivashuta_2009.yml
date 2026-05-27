@@ -1,7 +1,7 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - CDC16
+  - MtCDC16
 gene_symbol_long: cell division cycle 16
 gene_model_pub_name: Medtr8g058380
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g058380
