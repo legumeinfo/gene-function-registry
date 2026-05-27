@@ -8,11 +8,14 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G238800
 confidence: 5
 curators:
   - Raegan Nelson
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
 comments:
   - Gm-lpa-TW-1 lpa (low phytic acid) mutation resulted from a 2 bp deletion in MIPS1
   - Gm-lpa-TW-1 had a significant increase in inorganic phosphorus levels and a decrease in organic phosphorus levels compared to the WT
   - Gm-lpa-TW-1 can negatively affect seed emergence when seeds are produced in unfavorable enviorments (spring season)
-phenotype_synopsis: involved in the early stages of phytic acid synthesis
+  - Silencing of GmMIPS in transgenic lines (with RNAi and antisense) reduces accumulation of phytic acid in seeds.
+phenotype_synopsis: GmMIPS codes for the rate-limiting enzyme in phytic acid biosynthesis. Supression of MIPS reduces the phytic acid concentration in seeds which improves their nutritional value, but also reduces their germination rate.
 traits:
   - entity_name: myo-inositol hexakisphosphate metabolic process
     entity: GO:0033517
@@ -27,6 +30,21 @@ references:
   - citation: DeMers, Raboy et al., 2021
     doi: 10.3389/fpls.2021.708286
     pmid: 34531883
+  - citation: Redekar, Glover et al., 2020
+    doi: 10.1371/journal.pone.0235120
+    pmid: 32584851
+  - citation: Kumar, Kumar et al., 2019
+    doi: 10.1038/s41598-019-44255-7
+    pmid: 31123331
+  - citation: Yu, Jin et al., 2019
+    doi: 10.1186/s12870-019-2201-4
+    pmid: 31856712
+  - citation: Nunes, Vianna et al., 2006
+    doi: 10.1007/s00425-005-0201-0
+    pmid: 16395584
+  - citation: Hegeman, Good et al., 2001
+    doi: 10.1104/pp.125.4.1941
+    pmid: 11299373
 ---
 scientific_name: Glycine max
 gene_symbols:
