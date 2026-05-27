@@ -110,6 +110,8 @@ traits:
     relation: RO:0002213
   - entity_name: blue light signaling pathway
     entity: GO:0009785
+  - entity_name: days to maturity
+    entity: TO:0000469
 references:
   - citation: Wang, Guo et al., 2021
     doi: 10.1126/science.abh2890
