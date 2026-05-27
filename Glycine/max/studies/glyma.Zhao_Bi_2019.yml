@@ -1,0 +1,118 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDGAT1A
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1A
+gene_model_pub_name: Glyma13g16560
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G106100
+confidence: 3
+curators:
+  - William Hardison
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - Overexpression of DGAT1A enhances triacylglycerol biosynthesis in seeds (and in other tissues to a lesser extent).
+  - It is involved in stress response and downregulated by stressors like cold, insect bites, and jasmonate.
+  - DGAT1A produces similar results when transformed into other species.
+phenotype_synopsis: increased fat content, reduced protein content, and increased response to temperature stress
+traits:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: seed development
+    entity: GO:0048316
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+  - citation: Chen, Wang et al., 2016
+    doi: 10.1038/srep28541
+    pmid: 27345221
+  - citation: Li, Hatanaka et al., 2013
+    doi: 10.1007/s10142-012-0306-z
+    pmid: 23322364
+  - citation: Zuo, Ikram et al., 2022
+    doi: 10.1016/j.csbj.2022.06.014
+    pmid: 35782726
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDGAT1B
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1B
+gene_model_pub_name: Glyma17g06120
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G053300
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - soybean genome contains more DGAT genes -> duplicaiton events
+phenotype_synopsis: increased fat content and reduced protein content
+traits:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+  - entity_name: temperature response trait
+    entity: TO:0000432
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDGAT1C
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 1C
+gene_model_pub_name: Glyma09g07520
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G065300
+confidence: 2
+curators:
+  - William Hardison
+comments:
+  - transcriptional analysis -> similarity to GmDGAT1A and GmDGAT1B, no knockdowns or other experiments
+phenotype_synopsis: increased fat content and reduced protein content
+traits:
+  - entity_name: fat and essential oil content
+    entity: TO:0000604
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDGAT2D
+gene_symbol_long: Acyl-CoA:Diacylglycerol Acyltransferase 2D
+gene_model_pub_name: Glyma01g36011
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G156000
+confidence: 3
+curators:
+  - William Hardison
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - The gene model full id I pieced together from Information I found so it is probably wrong. (Williams 82, Glycine_Max_v4.0)
+  - soybean genome contains more DGAT genes -> duplicaiton events
+  - Overexpression of DGAT2D enhances triacylglycerol biosynthesis in flower tissues.
+  - DGAT2D is upregulated by temperature stress but downregulated by insect bites and jasmonate.
+  - DGAT2D produces similar results when transformed into other species.
+phenotype_synopsis: DGAT2D controls synthesis of many triacylglycerols, using 18:1 and 18:2 acyl CoA as acyl donors. Oil accumulates most in flowers.
+traits:
+  - entity_name: temperature response trait
+    entity: TO:0000432
+  - entity_name: regulation of triglyceride biosynthetic process
+    entity: GO:0010866
+  - entity_name: seed development
+    entity: GO:0048316
+references:
+  - citation: Zhao, Bi et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+  - citation: Zhao, Jiangzhe, et al., 2019
+    doi: 10.1016/j.jplph.2019.153019
+    pmid: 31437808
+  - citation: Chen, Wang et al., 2016
+    doi: 10.1038/srep28541
+    pmid: 27345221
+
