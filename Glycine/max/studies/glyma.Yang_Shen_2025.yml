@@ -1,0 +1,33 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSCAMP4
+gene_symbol_long: Secretory Carrier Membrane Protein 4
+gene_model_pub_name: Glyma.09G210800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G210800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Downregulation of GmSCAMP4 impaired low phosphorus tolerance, root
+    architecture, and phosphorus accumulation.
+  - Overexpression of GmSCAMP4 can drive root remodeling to improve phosphorus
+    acquisition efficiency, positively regulating deficiency adaptation.
+  - GmSCAMP4 interacts with GmZFP2 and they collaboratively contribute to the
+    response to low phosphorus stress.
+  - Tissue expression analysis revealed GmSCAMP4 expression in all major organs,
+    with predominant transcript accumulation in roots which are the principal
+    site for phosphorus perception and assimilation.
+phenotype_synopsis: Overexpression of GmSCAMP4 enhances the tolerance of
+  soybeans to low phosphorus stress.
+traits:
+  - entity_name: phosphorus response
+    entity: TO:0000102
+  - entity_name: phosphorus utilization
+    entity: GO:0006794
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Yang, Shen et al., 2025
+    doi: 10.1016/j.plantsci.2025.112680
+    pmid: 40716498
