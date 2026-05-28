@@ -9,26 +9,22 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - GmEID1 helps soybean flower earlier. When the gene is active, it suppresses
-    the flowering repressor E1, allowing the plant to transition to flowering
+  - GmEID1 is an F-box protein that acts as a photoperiod-independent 
+    flowering regulator. When GmEID1 is active, it suppresses the 
+    flowering repressor E1, allowing the plant to transition to flowering
     sooner.
-  - GmEID1 stabilizes the J protein, which normally keeps E1 turned off. It
-    physically interacts with J (a key Evening Complex protein that represses
-    the flowering repressor E1) and helps maintain its protein levels,
-    indirectly keeping E1 low. Under long days, light‑activated E3/E4 block
-    GmEID1 from protecting J.
-  - When phytochrome A (E3/E4) is activated by light, it binds GmEID1 and
-    prevents it from interacting with J, causing J to degrade and E1 to rise.
-    Additionally GmEID1 acts as a bridge to link the light signals perceived by
-    E3/E4 to the activity of the circadian Evening Complex.
+  - GmEID1 physically interacts with and stabilizes the J protein 
+    (also known as GmELF3a) and other ELF3 co-orthologs (GmELF3b-1 and 
+    GmELF3b-2), as well as GmELF4a and GmELF4b, components of the Evening Complex (EC).
+  - GmEID1 helps maintain its protein levels, indirectly keeping E1 low. 
+    Under long days, light‑activated E3/E4 block GmEID1 from protecting J.
+  - Additionally GmEID1 acts as a bridge to link the light signals perceived by 
+    phytochrome A (E3/E4) to the activity of the circadian Evening Complex.
   - Knocking out GmEID1 can dramatically increase yield. Since later flowering
     extends vegetative growth, GmEID1 mutants produced up to 55% more yield
     across a wide range of latitudes.
-  - GmEID1's expression peaks during the day (when E1 is low) and drops at
-    night, positioning it as a circadian‑regulated factor that helps the Evening
-    Complex (via J/ELF3 proteins)
 phenotype_synopsis: GmEID1 modulates light signaling to control flowering time
-  and increase yield in soybean
+  and when knocked out can increase yield in soybean.
 traits:
   - entity_name: photoperiod-sensitive flowering time trait
     entity: TO:0000934
