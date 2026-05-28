@@ -1,0 +1,34 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMs1
+gene_symbol_long: Male-sterile mutant 1
+gene_model_pub_name: Glyma.13G114200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G114200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmMs1 gene encodes the kinesin‐like protein NACK2 in soybean, which
+    displayed high homology to Arabidopsis TES, and is the candidate gene
+    controlling fertility
+  - In addition to regulating cell division, GmMs1 is associated with plant
+    hormone signal transduction and sucrose metabolism.
+  - The sterility of the GmMs1 mutant was due to the failure of normal
+    cytoplasmic division at the end of the second meiosis, resulting in the
+    formation of large, multinucleated microspores a similar process occurs in
+    the Arabidopsis tes mutant (which carries a mutation of AtNACK2).
+phenotype_synopsis: GmMs1 knockout plants displayed a complete malesterile
+  phenotype in soybean, making GmMs1 essential for male plant sterility
+traits:
+  - entity_name: plant male sterility
+    entity: TO:0000437
+  - entity_name: plant fertility trait
+    entity: TO:0000420
+references:
+  - citation: Nadeem, Chen et al., 2022
+    doi: 10.1111/jipb.13110
+    pmid: 33963661
+  - citation: Nishihama, Soyano et al., 2002
+    doi: 10.1016/s0092-8674(02)00691-8
+    pmid: 11955449
