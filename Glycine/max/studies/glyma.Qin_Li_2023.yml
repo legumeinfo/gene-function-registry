@@ -1,0 +1,45 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEID1
+gene_symbol_long: null
+gene_model_pub_name: Glyma.03G214300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G214300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Diurnal expression pattern of GmEID1 is opposite to that of E1 and targeted
+    mutations in the GmEID1 gene delay soybean flowering regardless of
+    daylength.
+  - GmEID1 interacts with J, a key component of circadian Evening Complex (EC),
+    to inhibit E1 transcription. Photoactivated E3/E4 interacts with GmEID1 to
+    inhibit GmEID1–J interaction, promoting J degradation resulting in a
+    negative correlation between daylength and the level of J protein.
+  - Notably, targeted mutations in GmEID1 improved soybean adaptability by
+    enhancing yield per plant up to 55.3% compared to WT in field trials
+    performed in a broad latitudinal span of more than 24°
+  - GmEID1 can conditionally interact with either J or E3/ E4 in soybean in
+    response to light variations. The GmEID1–J interaction enhances the
+    accumulation of the J protein, which directly inhibits the E1 transcript to
+    accelerate flowering. The light-dependent GmEID1–E3/E4 interaction
+    interferes with the GmEID1–J interaction to reduce J protein level and
+    modulate flowering time.
+  - Mutations in GmEID1 result in a stout main stem and short internodes, which
+    can improve the lodging resistant ability and thus expand the adaptive range
+    of TL1 to northern latitudes. On the contrary, short-day conditions lead to
+    early flowering, less vegetative growth, anreduced yield at low latitudes,
+    while dysfunction of GmEID1 delays flowering time, increases the number of
+    internodes and branches, and enhances yield, thus expanding the adaptability
+    of TL1 to southern regions.
+phenotype_synopsis: GmEID1 modulates light signaling to control flowering time
+  and increase yield in soybean
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: circadian regulation of gene expression
+    entity: GO:0032922
+references:
+  - citation: Qin, Li et al., 2023
+    doi: 10.1073/pnas.2212468120
+    pmid: 37011215
