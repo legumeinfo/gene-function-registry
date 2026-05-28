@@ -1,0 +1,105 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNLA1-1
+gene_symbol_long: Nitrogen limitation adaptation 1-1
+gene_model_pub_name: Glyma.03g214100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G214100
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmNLA1-1 and GmNLA1-3 expression was decreased in soybean by nitrogen
+    starvation under phosphate sufficient conditions
+  - Suppression of all three GmNLA1 members was able to increase phosphate
+    concentration regardless of the phosphorus and nitrogen availability in the
+    growth medium, but decrease fresh weight under normal conditions in soybean
+    hairy roots
+  - GFP-GmNLA1-1 and GFP-GmNLA1-3 were detected in both the plasma membrane and
+    nucleus
+  - GmNLA1-1, GmNLA1-2 or GmNLA1-3 suppression increased phosphate concentration
+    in transgenic hairy roots
+phenotype_synopsis: GmNLA1-1 or GmNLA1-3 might regulate phosphorus homeostasis
+  in soybean response to nitrogen starvation, as well as potentially decrease
+  fresh weight in soybean hairy roots
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: nitrogen sensitivity
+    entity: TO:0000011
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNLA1-2
+gene_symbol_long: Nitrogen limitation adaptation 1-2
+gene_model_pub_name: Glyma.10g018800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G018800
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - Nitrogen starvation only led to significant decreases of transcripts for
+    GmNLA1-1 and GmNLA1-3 in soybean roots under phosphate-sufficient
+    conditions, not for GmNLA1-2
+  - GmNLA1-2 might differ from GmNLA1-1 and GmNLA1-3 in soybean response to
+    interaction of nitrogen and phosphorus availability despite their capability
+    controlling phosphorus homeostasis.
+  - Suppression of all three GmNLA1 members was able to increase phosphate
+    concentration regardless of the phosphorus and nitrogen availability in the
+    growth medium, but decrease fresh weight under normal conditions in soybean
+    hairy roots
+  - GmNLA1-2 was only detected in the plasma membrane
+  - GmNLA1-1, GmNLA1-2 or GmNLA1-3 suppression increased phosphate concentration
+    in transgenic hairy roots
+phenotype_synopsis: GmNLA1-2 supression may increase phosphate concentration in
+  transgenic hairy roots, as well as potentially decrease fresh weight in
+  soybean hairy roots
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: phosphate content
+    entity: TO:0020102
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNLA1-3
+gene_symbol_long: Nitrogen limitation adaptation 1-3
+gene_model_pub_name: Glyma.19g210900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G210900
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmNLA1-1 and GmNLA1-3 expression was decreased in soybean by nitrogen
+    starvation under phosphate sufficient conditions
+  - Suppression of all three GmNLA1 members was able to increase phosphate
+    concentration regardless of the phosphorus and nitrogen availability in the
+    growth medium, but decrease fresh weight under normal conditions in soybean
+    hairy roots
+  - GFP-GmNLA1-1 and GFP-GmNLA1-3 were detected in both the plasma membrane and
+    nucleus
+  - GmNLA1-1, GmNLA1-2 or GmNLA1-3 suppression increased phosphate concentration
+    in transgenic hairy roots
+phenotype_synopsis: GmNLA1-1 or GmNLA1-3 might regulate phosphorus homeostasis
+  in soybean response to nitrogen starvation, as well as potentially decrease
+  fresh weight in soybean hairy roots
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: nitrogen sensitivity
+    entity: TO:0000011
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
