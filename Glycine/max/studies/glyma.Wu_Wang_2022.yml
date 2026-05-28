@@ -1,0 +1,80 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmYSL7
+gene_symbol_long: Yellow Stripe 1 like 7
+gene_model_pub_name: Glyma.11G203400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G203400
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmYSL7 is a transporter that transports iron from root to nodule cells to
+    meet the high demand of iron for the normal development and nitrogen
+    fixation of root nodules.
+  - In young nodules, GmYSL7 is upregulated to facilitate iron transport from
+    roots to nodules. By increasing iron in nodule cells, it inhibits the
+    transcriptional repression of GmbHLH300 (a factor required for iron response
+    of nodules) on nodule development genes like ENOD93 and GmLbs, which in
+    turn, promotes nodule development.
+  - When iron is sufficient, bHLH300 is upregulated and functions as a feedback
+    inhibitor to reduce GmYSL7 activity and iron uptake from roots to nodules
+  - GmYSL7 is localized in both the plasma membrane and the symbiotic membrane
+    of plant cells
+  - Loss-of-function mutant GmYSL7 contained a reduced level of iron in nodules
+    but increased iron in roots, while GmYSL7 overexpression showed the opposite
+    effect on iron contents in roots and nodules
+  - GmYSL7 may be involved in nodule development and function through the
+    regulation of both iron and oligopeptides.
+phenotype_synopsis: GmYSL7 controls iron uptake and allocation, as well as
+  outgrowth and development of nodules in soybean
+traits:
+  - entity_name: root system iron content
+    entity: TO:1000034
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+references:
+  - citation: Wu, Wang et al., 2022
+    doi: 10.1111/jipb.13364
+    pmid: 36107150
+  - citation: Li, Gao et al., 2018
+    doi: 10.1111/jipb.12651
+    pmid: 29575545
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmbHLH300
+gene_symbol_long: Basic helix-loop-helix 300
+gene_model_pub_name: Glyma.03G130600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G130600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmbHLH300 decreases nodule number, nitrogenase activity,
+    and iron content in nodules.
+  - GmbHLH300 directly binds to the promoters of ENOD93 and GmLbs, which
+    regulate nodule number and nitrogenase activity, and represses their
+    transcription.
+  - GmbHLH300 is induced by iron deficiency and mediates the plant response to
+    iron deficiency in soybean plants
+  - GmbHLH300 might be involved in the transcriptional regulation of downstream
+    iron deficiency-responsive genes that mediate nodule cell and bacteroid
+    development.
+phenotype_synopsis: GmbHLH300 negatively regulates nodule development in soybean
+  and potentially regulates iron deficiency-responsive genes
+traits:
+  - entity_name: root system iron content
+    entity: TO:1000034
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+references:
+  - citation: Wu, Wang et al., 2022
+    doi: 10.1111/jipb.13364
+    pmid: 36107150
+  - citation: Li, Gao et al., 2018
+    doi: 10.1111/jipb.12651
+    pmid: 29575545
