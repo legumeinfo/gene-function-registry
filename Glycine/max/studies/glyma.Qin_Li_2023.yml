@@ -9,16 +9,16 @@ confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - GmEID1 is an F-box protein that acts as a photoperiod-independent 
-    flowering regulator. When GmEID1 is active, it suppresses the 
+  - GmEID1 is an F-box protein that acts as a photoperiod-independent
+    flowering regulator. When GmEID1 is active, it suppresses the
     flowering repressor E1, allowing the plant to transition to flowering
     sooner.
-  - GmEID1 physically interacts with and stabilizes the J protein 
-    (also known as GmELF3a) and other ELF3 co-orthologs (GmELF3b-1 and 
+  - GmEID1 physically interacts with and stabilizes the J protein
+    (also known as GmELF3a) and other ELF3 co-orthologs (GmELF3b-1 and
     GmELF3b-2), as well as GmELF4a and GmELF4b, components of the Evening Complex (EC).
-  - GmEID1 helps maintain its protein levels, indirectly keeping E1 low. 
+  - GmEID1 helps maintain its protein levels, indirectly keeping E1 low.
     Under long days, light‑activated E3/E4 block GmEID1 from protecting J.
-  - Additionally GmEID1 acts as a bridge to link the light signals perceived by 
+  - Additionally GmEID1 acts as a bridge to link the light signals perceived by
     phytochrome A (E3/E4) to the activity of the circadian Evening Complex.
   - Knocking out GmEID1 can dramatically increase yield. Since later flowering
     extends vegetative growth, GmEID1 mutants produced up to 55% more yield
