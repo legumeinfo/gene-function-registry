@@ -4,7 +4,7 @@ gene_symbols:
   - MsIFS1
 gene_symbol_long: Isoflavonoid synthesis 1
 gene_model_pub_name: MsG0480022309.01
-gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene39535.t1
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene39535
 confidence: 3
 curators:
   - Molly Hardacre
