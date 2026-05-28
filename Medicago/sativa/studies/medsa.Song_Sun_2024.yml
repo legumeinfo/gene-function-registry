@@ -1,0 +1,40 @@
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsIFS1
+gene_symbol_long: Isoflavonoid synthesis 1
+gene_model_pub_name: MsG0480022309.01
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene39535
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - Shading suppresses the expression of the MsWRKY41-MsIFS1 module, leading to
+    reduced isoflavonoid levels and consequently diminished disease resistance
+  - The expression of MsIFS1 was rapidly induced by methyl jasmonate and
+    abscisic acid radiation within 12–24 h’ post-treatment. Additionally, MsIFS1
+    was rapidly induced by Pseudomonas syringae pv. tomato DC3000 and wound,
+    suggesting its involvement in the abiotic stress response
+  - Yeast one-hybrid (Y1H) assays revealed that the shade-responsive
+    transcription factor MsWRKY41 could directly bind to the MsIFS1 promoter.
+  - Overexpression of MsWRKY41 not only enhanced alfalfa's resistance to Pst.
+    DC3000 but also promoted the accumulation of isoflavonoids. Additionally,
+    yeast two-hybrid (Y2H) assays showed that neither MsWRKY41 nor MsIFS1
+    physically interacted with the Type III effector HopZ1 secreted by
+    Pseudomonas syringae pv. tomato DC3000, suggesting that the MsWRKY41-MsIFS1
+    module is not a direct target of HopZ1
+phenotype_synopsis: MsIFS1, which is involved in isoflavonoid synthesis,
+  enhances both isoflavonoid production and resistance to Pseudomonas syringae
+  pv. tomato DC3000 in alfalfa
+traits:
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: shade avoidance
+    entity: GO:0009641
+references:
+  - citation: Song, Sun et al., 2024
+    doi: 10.1016/j.plaphy.2024.109191
+    pmid: 39406004
+
