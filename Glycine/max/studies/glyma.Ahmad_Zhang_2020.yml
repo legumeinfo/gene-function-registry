@@ -1,0 +1,48 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMaT2
+gene_symbol_long: Malonyl-CoA:flavonoid acyltransferase 2
+gene_model_pub_name: Glyma.18G258000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G258000
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis: 
+traits:
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+references:
+  - citation: Ahmad, Zhang et al., 2020
+    doi: 10.1093/jxb/eraa511
+    pmid: 33130852
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - GmMaT4
+gene_symbol_long: Malonyl-CoA:flavonoid acyltransferase 4
+gene_model_pub_name: Glyma.18G268400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268400
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis: 
+traits:
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+references:
+  - citation: Ahmad, Zhang et al., 2020
+    doi: 10.1093/jxb/eraa511
+    pmid: 33130852
+  - citation:
+    doi:
+    pmid:
+---
