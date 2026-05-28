@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMs1
-gene_symbol_long: null
+gene_symbol_long: Male-sterile mutant 1
 gene_model_pub_name: Glyma.13G114200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G114200
 confidence: 5
@@ -17,7 +17,7 @@ comments:
   - The sterility of the GmMs1 mutant was due to the failure of normal
     cytoplasmic division at the end of the second meiosis, resulting in the
     formation of large, multinucleated microspores a similar process occurs in
-    the Arabidopsis tes mutant (which carries a mutation of AtNACK2)
+    the Arabidopsis tes mutant (which carries a mutation of AtNACK2).
 phenotype_synopsis: GmMs1 knockout plants displayed a complete malesterile
   phenotype in soybean, making GmMs1 essential for male plant sterility
 traits:
