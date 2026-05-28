@@ -24,6 +24,8 @@ phenotype_synopsis: GmFtsH25 overexpression increases soybean seed yield by
 traits:
   - entity_name: photosynthetic rate
     entity: TO:0001015
+  - entity_name: photosynthetic ability
+    entity: TO:0000316
   - entity_name: seed yield trait
     entity: TO:0000905
   - entity_name: starch content
