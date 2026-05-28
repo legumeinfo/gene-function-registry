@@ -2,24 +2,25 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmFtsH25
-gene_symbol_long: Filamentation temperature‐sensitive protein H protease family 25
+gene_symbol_long: Filamentation Temperature‐Sensitive Protein H Protease 25
 gene_model_pub_name: Glyma.18G065600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G065600
 confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - Overexpressing GmFtsH25 resulted in  more grana thylakoid stacks in
+  - Overexpressing GmFtsH25 resulted in more grana thylakoid stacks in
     chloroplasts and increased photosynthetic efficiency and starch content,
     while knocking out GmFtsH25 produced the opposite phenotypes.
   - GmFtsH25 interacted with photosystem I light harvesting complex 2 (GmLHCa2),
     and this interaction may contribute to the observed enhanced photosynthesis.
-  - GmFtsH25 overexpression lines had superior yield traits, such as yield per
+  - GmFtsH25 overexpression lines had superior yield traits, such as seed yield per
     plant, compared to the wild type and knockout lines.
-  - Although soybean was previously reported to contain 11 FtsH genes, there
-    were an identified an additional 23 FtsHs in this study
+  - Although soybean was previously reported to contain 11 FtsH genes, an
+    additional 23 FtsHs were identified by this study.
 phenotype_synopsis: GmFtsH25 overexpression increases soybean seed yield by
-  enhancing photosynthesis and photosynthates
+  enhancing net photosynthetic rate, light energy conversion efficiency, and
+  photosynthate production.
 traits:
   - entity_name: photosynthetic rate
     entity: TO:0001015
