@@ -1,0 +1,36 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEID1
+gene_symbol_long: EMPFINDLICHER IM DUNNKELROTEN LICHT 1
+gene_model_pub_name: Glyma.03G214300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G214300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmEID1 is an F-box protein that acts as a photoperiod-independent
+    flowering regulator. When GmEID1 is active, it suppresses the
+    flowering repressor E1, allowing the plant to transition to flowering
+    sooner.
+  - GmEID1 physically interacts with and stabilizes the J protein
+    (also known as GmELF3a) and other ELF3 co-orthologs (GmELF3b-1 and
+    GmELF3b-2), as well as GmELF4a and GmELF4b, components of the Evening Complex (EC).
+  - GmEID1 helps maintain its protein levels, indirectly keeping E1 low.
+    Under long days, light‑activated E3/E4 block GmEID1 from protecting J.
+  - Additionally GmEID1 acts as a bridge to link the light signals perceived by
+    phytochrome A (E3/E4) to the activity of the circadian Evening Complex.
+  - Knocking out GmEID1 can dramatically increase yield. Since later flowering
+    extends vegetative growth, GmEID1 mutants produced up to 55% more yield
+    across a wide range of latitudes.
+phenotype_synopsis: GmEID1 modulates light signaling to control flowering time
+  and when knocked out can increase yield in soybean.
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: circadian regulation of gene expression
+    entity: GO:0032922
+references:
+  - citation: Qin, Li et al., 2023
+    doi: 10.1073/pnas.2212468120
+    pmid: 37011215
