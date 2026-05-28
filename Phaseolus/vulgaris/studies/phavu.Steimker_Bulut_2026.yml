@@ -1,0 +1,24 @@
+---
+scientific_name: Phaseolus vulgaris 
+gene_symbols:
+  - PvOFP5
+gene_symbol_long: OVATE Family Protein 5
+gene_model_pub_name: 
+gene_model_full_id:
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis: PvOFP5 is a key regulator of seed size in common bean
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
