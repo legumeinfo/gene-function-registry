@@ -8,6 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G203400
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmYSL7 is a transporter that directs iron from root to nodule cells to
     meet the high demand of iron for the normal development and nitrogen
@@ -33,6 +34,8 @@ traits:
     entity: TO:1000034
   - entity_name: root nodule morphology trait
     entity: TO:0000898
+  - entity_name: iron ion transmembrane transport
+    entity: GO:0034755
 references:
   - citation: Wu, Wang et al., 2022
     doi: 10.1111/jipb.13364
@@ -51,14 +54,20 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G130600
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
+  - GmbHLH300, induced by both iron deficiency and abundance, mediates
+    downstream responses by soybean plants.
   - Overexpression of GmbHLH300 decreases nodule number, nitrogenase activity,
     and iron content in nodules.
   - GmbHLH300 directly binds to the promoters of ENOD93 and GmLbs, which
     regulate nodule number and nitrogenase activity, and represses their
     transcription.
-  - GmbHLH300 is induced by iron deficiency and mediates the plant response to
-    iron deficiency in soybean plants.
+  - Increasing iron in nodule cells inhibits the GmbHLH300 transcriptional
+    repression of these nodule development genes.
+  - Iron-sufficient conditions also cause bHLH300 to be upregulated and function
+    as a feedback inhibitor to reduce GmYSL7 activity and Fe uptake from roots
+    to nodules.
   - GmbHLH300 might be involved in the transcriptional regulation of downstream
     iron deficiency-responsive genes that mediate nodule cell and bacteroid
     development.
@@ -71,6 +80,8 @@ traits:
     entity: TO:0000898
   - entity_name: enzyme activity trait
     entity: TO:0000599
+  - entity_name: regulation of iron ion transport
+    entity: GO:0034756
 references:
   - citation: Wu, Wang et al., 2022
     doi: 10.1111/jipb.13364
