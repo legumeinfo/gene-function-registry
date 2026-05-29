@@ -1,0 +1,72 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNF-YC9
+gene_symbol_long: Nuclear factor YC 9
+gene_model_pub_name: Glyma.13G189400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G189400
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - Experiments conducted over two seasons reveal increased yields per plant in
+    both GmNF-YC9 and GmSQE1 overexpressing plants under drought stress
+    conditions
+  - Unlike any other GmNF-YC genes, the GmNF-YC9-mediated NF-Y transcription
+    complex directly regulates the expression of GmSQE1 under stress conditions
+  - GmNF-YC9 could form a NF-Y transcriptional complex with GmNF-YA2 and
+    GmNF-YB24 through protein–protein interactions to directly activate
+    expression of the key enzyme involved in phytosterol synthesis pathway
+    (GmSQE1), thereby promoting sterol synthesis to improve soybean stress
+    tolerance
+phenotype_synopsis: Overexpression of either GmNF-YC9 or GmSQE1 significantly
+  enhances soybean stress tolerance under drought and salt conditions
+traits:
+  - entity_name: sterol biosynthetic process
+    entity: GO:0016126
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Yu, Hou et al., 2024
+    doi: 10.1111/pbi.14349
+    pmid: 38600703
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSQE1
+gene_symbol_long: Squalene monooxygenase 1
+gene_model_pub_name: Glyma.08G063700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G063700
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmSQE1 is a rate-limiting enzyme in steroid synthesis, which could mean
+    GmSQE1 enhances soybean stress tolerance and the inhibition of SQE weakens
+    this tolerance
+  - Overexpression of GmSQE1 in soybean improved significantly soybean’s
+    tolerance to oxidative stress while reducing oxidative stress-induced cell
+    injury
+  - Transcriptome and metabolome analyses shed light on the upregulation of
+    multiple sterol compounds, including fucosterol and soyasaponin II, in
+    GmNFYC9 and GmSQE1 overexpressing soybean plants under stress conditions
+phenotype_synopsis: Overexpression of either GmNF-YC9 or GmSQE1 significantly
+  enhances soybean stress tolerance under drought and salt conditions
+traits:
+  - entity_name: sterol biosynthetic process
+    entity: GO:0016126
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Yu, Hou et al., 2024
+    doi: 10.1111/pbi.14349
+    pmid: 38600703
