@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMaT2
-gene_symbol_long: Malonyl-CoA:flavonoid acyltransferase 2
+gene_symbol_long: Malonyl-CoA:Flavonoid Acyltransferase 2
 gene_model_pub_name: Glyma.18G258000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G258000
 confidence: 5
@@ -19,7 +19,7 @@ comments:
   - GmMaT2 had higher activity towards isoflavone glucosides than GmMaT4.
   - GmMaT2 was highly expressed in seeds, root hairs, and nodules.
 phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation, promoting
-  the development of more nodules in soybean roots
+  the development of more nodules in soybean roots.
 traits:
   - entity_name: isoflavonoid biosynthetic process
     entity: GO:0009717
@@ -34,7 +34,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmMaT4
-gene_symbol_long: Malonyl-CoA:flavonoid acyltransferase 4
+gene_symbol_long: Malonyl-CoA:Flavonoid Acyltransferase 4
 gene_model_pub_name: Glyma.18G268400
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268400
 confidence: 5
@@ -50,7 +50,7 @@ comments:
     malonyldaidzin, malonylgenistin, and malonylglycitin, and resulted in more
     nodules than control.
 phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation, promoting
-  the development of more nodules in soybean roots
+  the development of more nodules in soybean roots.
 traits:
   - entity_name: isoflavonoid biosynthetic process
     entity: GO:0009717
