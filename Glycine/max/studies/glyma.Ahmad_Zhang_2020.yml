@@ -21,12 +21,14 @@ comments:
 phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation, promoting
   the development of more nodules in soybean roots.
 traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
   - entity_name: isoflavonoid biosynthetic process
     entity: GO:0009717
   - entity_name: root nodule morphology trait
     entity: TO:0000898
 references:
-  - citation: Ahmad, Zhang et al., 2020
+  - citation: Ahmad, Zhang et al., 2021
     doi: 10.1093/jxb/eraa511
     pmid: 33130852
 
@@ -52,11 +54,13 @@ comments:
 phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation, promoting
   the development of more nodules in soybean roots.
 traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
   - entity_name: isoflavonoid biosynthetic process
     entity: GO:0009717
   - entity_name: root nodule morphology trait
     entity: TO:0000898
 references:
-  - citation: Ahmad, Zhang et al., 2020
+  - citation: Ahmad, Zhang et al., 2021
     doi: 10.1093/jxb/eraa511
     pmid: 33130852
