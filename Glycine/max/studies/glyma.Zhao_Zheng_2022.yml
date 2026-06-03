@@ -1,0 +1,19 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPLATZ17
+gene_symbol_long: Plant AT-rich sequence and zinc binding transcription factor 17
+gene_model_pub_name: 
+gene_model_full_id:
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhao, Zheng et al., 2022
+    doi: 10.1016/j.cj.2022.03.009
