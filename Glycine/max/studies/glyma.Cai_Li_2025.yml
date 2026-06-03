@@ -1,0 +1,73 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCLO1
+gene_symbol_long: Caleosin-encoding gene 1
+gene_model_pub_name: Glyma.09G123800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G123800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - When common cutworm larvae were fed GmCLO1 hairy roots, a decrease in weight
+    gain compared with that of the larvae fed with the control hairy roots was
+    observed, suggesting that GmCLO1 may negatively regulate soybean resistance
+    to common cutworm
+  - GmCLO1 may compete with GmAOS3 for the same substrate, 13-HPOT. The
+    overexpression of GmCLO1 may reduce the flow of 13-HPOT to the AOS-mediated
+    jasmonic acid pathway, resulting in a decrease in jasmonic acid synthesis
+  - Phenotypic validation of the transgenic soybean plants further demonstrated
+    that GmCLO1 and GmAOC3 played opposing roles in soybean insect resistance
+  - null
+phenotype_synopsis: GmCLO1 negatively regulates soybean resistance to common cutworm
+traits:
+  - entity_name: cutworm response trait
+    entity: TO:0000317
+  - entity_name: insect damage response trait
+    entity: TO:0000261
+  - entity_name: jasmonic acid biosynthetic process
+    entity: GO:0009695
+references:
+  - citation: Cai, Li et al., 2025
+    doi: 10.1111/ppl.70260
+    pmid: 40375436
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAOC3
+gene_symbol_long: Allene oxide cyclase encoding gene 3
+gene_model_pub_name: Glyma.19G044900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G044900
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmAOC3-overexpressing transgenic soybean lines and the insertion of the
+    GmAOC3 gene resulted in the silencing of GmCLO1
+  - The GmAOC3-OE-1 soybean material, which overexpressed GmAOC3 and was
+    accompanied by the suppression of GmCLO1, was more resistant to insects
+  - Previous studies have demonstrated that GmAOC3 positively enhances tobacco
+    resistance to common cutworm, and is one of the key enzymes in jasmonic acid
+    biosynthesis
+  - Common cutworm larvae that fed on the GmAOC3-overexpression line showed the
+    lowest weight after five days of feeding compared with those that consumed
+    the other three common cutworm-resistant lines GmAOC3-OE-11, GmAOC3-OE-29,
+    and gmclo1-ko-2
+  - In addition to its resistance to common cutworm, the GmAOC3-OE-1 line also
+    exhibited resistance to fall armyworm, one of the most destructive pests
+    affecting corn production in Asia and Africa
+phenotype_synopsis: GmAOC3 over-expression increases soybean resistance to common cutworm
+traits:
+  - entity_name: cutworm response trait
+    entity: TO:0000317
+  - entity_name: insect damage response trait
+    entity: TO:0000261
+  - entity_name: jasmonic acid biosynthetic process
+    entity: GO:0009695
+references:
+  - citation: Cai, Li et al., 2025
+    doi: 10.1111/ppl.70260
+    pmid: 40375436
+  - citation: Wu, Wang et al., 2015
+    doi: 10.1007/s12374-015-0072-2
