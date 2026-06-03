@@ -1,0 +1,31 @@
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhGSNOR1
+gene_symbol_long: S-nitrosoglutathione reductase 1
+gene_model_pub_name: Arahy.987ZKS.1
+gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.987ZKS.1
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - The AhGSNOR1 negatively regulated aluminum-induced programmed cell death by
+    enhancing superoxide dismutase, peroxidase and catalase activities.
+  - AhGSNOR1 reduced the extent of lipid peroxidation and nitric oxide,
+    S-Nitrosothiol and H2O2 levels, and maintaining intracellular nitric oxide
+    and redox levels.
+  - AhGSNOR1 directly interacted with AhTRXh (Cytosolic thioredoxin h) in vivo,
+    and AhGSNOR1 positively regulated the transcriptional level of Trxh3.
+  - AhGSNOR1 was most closely related to the GSNOR proteins of Prunus persica,
+    Cucumis sativus and Arabidopsis thaliana.
+phenotype_synopsis: AhGSNOR1 improved plant resistance to aluminum stress and
+  negatively regulated the occurrence of aluminum-induced programmed cell death
+traits:
+  - entity_name: aluminum response trait
+    entity: TO:0000354
+  - entity_name: negative regulation of programmed cell death
+    entity: GO:0043069
+references:
+  - citation: Pan, Li et al., 2024
+    doi: 10.1016/j.plantsci.2024.112275
+    pmid: 39341375
