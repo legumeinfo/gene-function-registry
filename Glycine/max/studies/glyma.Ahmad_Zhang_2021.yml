@@ -8,6 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G258000
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - Ectopic expression of GmMaT2 and GmMaT4 produced more isoflavones in hairy
     root exudates, promoting the development of more nodules in soybean roots
@@ -42,6 +43,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268400
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmMaT2 and GmMaT4 can synthesize malonyl isoflavone glucosides both in vitro
     and in vivo.
