@@ -1,0 +1,68 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMaT2
+gene_symbol_long: Malonyl-CoA:Flavonoid Acyltransferase 2
+gene_model_pub_name: Glyma.18G258000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G258000
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Ectopic expression of GmMaT2 and GmMaT4 produced more isoflavones in hairy
+    root exudates, promoting the development of more nodules in soybean roots
+    than in the control.
+  - GmMaT2 and GmMaT4 enzymes convert daidzin into malonyldaidzin, glycitin into
+    malonylglycitin, and genistin into malonylgenistin.
+  - Only GmMaT2 knockdown hairy roots showed reduced levels of malonyldaidzin,
+    malonylgenistin, and malonylglycitin, and, likewise, reduced nodule numbers.
+  - GmMaT2 had higher activity towards isoflavone glucosides than GmMaT4.
+  - GmMaT2 was highly expressed in seeds, root hairs, and nodules.
+phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation, promoting
+  the development of more nodules in soybean roots.
+traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+references:
+  - citation: Ahmad, Zhang et al., 2021
+    doi: 10.1093/jxb/eraa511
+    pmid: 33130852
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMaT4
+gene_symbol_long: Malonyl-CoA:Flavonoid Acyltransferase 4
+gene_model_pub_name: Glyma.18G268400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268400
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMaT2 and GmMaT4 can synthesize malonyl isoflavone glucosides both in vitro
+    and in vivo.
+  - GmMaT4 is expressed in all tissues but at higher levels in seed coat than in
+    the cotyledon, and at >10-fold higher levels in black and brown seed coats
+    than in yellow seed coats.
+  - Overexpression in hairy roots of GmMaT2 and GmMaT4 produced more
+    malonyldaidzin, malonylgenistin, and malonylglycitin, and resulted in more
+    nodules than control.
+phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation, promoting
+  the development of more nodules in soybean roots.
+traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+references:
+  - citation: Ahmad, Zhang et al., 2021
+    doi: 10.1093/jxb/eraa511
+    pmid: 33130852
