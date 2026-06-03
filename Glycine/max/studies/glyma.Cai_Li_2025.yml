@@ -18,7 +18,6 @@ comments:
     jasmonic acid pathway, resulting in a decrease in jasmonic acid synthesis
   - Phenotypic validation of the transgenic soybean plants further demonstrated
     that GmCLO1 and GmAOC3 played opposing roles in soybean insect resistance
-  - null
 phenotype_synopsis: GmCLO1 negatively regulates soybean resistance to common cutworm
 traits:
   - entity_name: cutworm response trait
