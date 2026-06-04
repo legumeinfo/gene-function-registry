@@ -3,14 +3,33 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPLATZ17
 gene_symbol_long: Plant AT-rich sequence and zinc binding transcription factor 17
-gene_model_pub_name: 
-gene_model_full_id:
-confidence:
+gene_model_pub_name: Glyma.10G063200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G063200
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - 
+phenotype_synopsis: GmPLATZ17 negatively regulates drought tolerance
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Zhao, Zheng et al., 2022
+    doi: 10.1016/j.cj.2022.03.009
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDREB5
+gene_symbol_long: Plant AT-rich sequence and zinc binding transcription factor 17
+gene_model_pub_name: Glyma.13G298600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G298600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis: Overexpression of GmDREB5 increased drought tolerance in soybean hairy roots
 traits:
   - entity_name:
     entity:
