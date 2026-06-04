@@ -8,6 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G114200
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmMs1 gene encodes a kinesin‐like protein in soybean, which displays high
     homology to Arabidopsis STD/TES/AtNACK2 and Nicotiana NACK2, and is the
