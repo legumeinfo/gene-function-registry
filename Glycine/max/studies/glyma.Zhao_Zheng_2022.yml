@@ -9,11 +9,12 @@ confidence: 4
 curators:
   - Molly Hardacre
 comments:
+  - Overexpression of GmPLATZ17 reduces drought tolerance by interfering with the DRE-binding activity of GmDREB5.
   - 
-phenotype_synopsis: GmPLATZ17 negatively regulates drought tolerance
+phenotype_synopsis: GmPLATZ17 negatively regulates drought tolerance in soybean
 traits:
-  - entity_name:
-    entity:
+  - entity_name: drought tolerance
+    entity: TO:0000276
 references:
   - citation: Zhao, Zheng et al., 2022
     doi: 10.1016/j.cj.2022.03.009
@@ -29,10 +30,10 @@ curators:
   - Molly Hardacre
 comments:
   - 
-phenotype_synopsis: Overexpression of GmDREB5 increased drought tolerance in soybean hairy roots
+phenotype_synopsis: GmDREB5 increased drought tolerance in soybean hairy roots
 traits:
-  - entity_name:
-    entity:
+  - entity_name: drought tolerance
+    entity: TO:0000276
 references:
   - citation: Zhao, Zheng et al., 2022
     doi: 10.1016/j.cj.2022.03.009
