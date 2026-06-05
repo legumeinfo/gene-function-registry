@@ -26,6 +26,8 @@ traits:
     entity: TO:0000437
   - entity_name: plant fertility trait
     entity: TO:0000420
+  - entity_name: meiotic cell cycle trait
+    entity: TO:0000729
 references:
   - citation: Nadeem, Chen et al., 2022
     doi: 10.1111/jipb.13110
