@@ -1,0 +1,33 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmZAT10-1
+gene_symbol_long: C2H2-type zinc finger protein family member 10-1
+gene_model_pub_name: Glyma.04G044900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G044900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Salt stress-induced and cell nucleus-located GmZAT10–1 functions as a
+    transcription factor
+  - GmZAT10–1 may confer salt tolerance in soybeans by upregulating the
+    expression of the GmCLC-c1 gene through binding to its promoter, regulating
+    the uptake of chlorine by roots and reducing its translocation to the
+    aboveground parts including the stems and leaves of plants, and thereby
+    maintaining a relatively low clorine/nitrate ratio.
+  - Over-expressed GmZAT10–1 hairy-root soybean composite plants and
+    GmZAT10–1-trangenic Arabidopsis thaliana presented enhanced salt tolerance.
+  - Phylogenetic tree analysis demonstrated that GmZAT10–1, GmZAT10–2 and
+    AtZAT10 were located in the same clade, suggesting that they have high
+    homology in evolution and may also possess some functional similarities.
+phenotype_synopsis: GmZAT10–1 is involved in the response and adaptation of soybean to salt stress
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Zhang, Yu et al., 2025
+    doi: 10.1016/j.plantsci.2025.112485
+    pmid: 40158630
