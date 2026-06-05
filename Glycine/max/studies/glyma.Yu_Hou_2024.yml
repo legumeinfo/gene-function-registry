@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: Nuclear factor YC 9
 gene_model_pub_name: Glyma.13G189400
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G189400
-confidence: 3
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
@@ -42,7 +42,7 @@ gene_symbols:
 gene_symbol_long: Squalene monooxygenase 1
 gene_model_pub_name: Glyma.08G063700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G063700
-confidence: 3
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
