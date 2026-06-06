@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB14
+gene_symbol_long: Transcription factor R2R3-MYB 14
+gene_model_pub_name: Glyma.19g164600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G164600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMYB14-overexpressing transgenic soybean plants displayed a semi-dwarfism
+    and compact plant architecture associated with decreased cell size,
+    resulting in a decrease in plant height, internode length, leaf area, leaf
+    petiole length and leaf petiole angle, and improved yield in high density
+    under field conditions.
+  - GmMYB14-overexpressing plants showed reduced endogenous brassinosteroid
+    contents, while exogenous application of brassinolide could partly rescue
+    the phenotype of GmMYB14-overexpressing plants.
+  - GmMYB14 was shown to directly bind to the promoter of GmBEN1 and up-regulate
+    its expression, leading to reduced brassinosteroid content in
+    GmMYB14-overexpression plants.
+  - GmBEN1 expression was also upregulated in the leaves of
+    GmMYB14-overexpression plants, indicating that the GmBEN1-mediated reduction
+    in brassinosteroid level under stress also contributed to drought/osmotic
+    stress tolerance of the transgenic plants.
+  - GmMYB14 was shown to localize to nucleus and has a transactivation activity
+phenotype_synopsis: GmMYB14 improves high-density yield and drought tolerance of soybean
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: relative yield
+    entity: TO:0000153
+  - entity_name: brassinosteroid biosynthetic process
+    entity: GO:0016132
+references:
+  - citation: Chen, Yang et al., 2021
+    doi: 10.1111/pbi.13496
+    pmid: 33098207
