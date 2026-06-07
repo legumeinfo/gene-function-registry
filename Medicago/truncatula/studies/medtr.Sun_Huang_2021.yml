@@ -3,8 +3,8 @@ scientific_name: Medicago truncatula
 gene_symbols:
   - MtCML42
 gene_symbol_long: Calmodulin-like protein 42
-gene_model_pub_name: MtrunA17Chr7g0245371
-gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0245371
+gene_model_pub_name: Medtr7g090450
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g090450
 confidence: 4
 curators:
   - Molly Hardacre
@@ -30,9 +30,10 @@ traits:
     entity: TO:0000303
   - entity_name: flowering time trait
     entity: TO:0002616
-  - entity_name: vernalization response
-    entity: GO:0010048
 references:
   - citation: Sun, Huang et al., 2021
     doi: 10.1111/tpj.15494
     pmid: 34528312
+  - citation: Sun, Yu et al., 2020
+    doi: 10.3390/ijms21197142
+    pmid: 32992668
