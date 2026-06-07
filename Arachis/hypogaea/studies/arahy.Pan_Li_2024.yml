@@ -3,7 +3,7 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhGSNOR1
 gene_symbol_long: S-nitrosoglutathione reductase 1
-gene_model_pub_name: Arahy.987ZKS
+gene_model_pub_name: LOC112695146
 gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.987ZKS
 confidence: 4
 curators:
