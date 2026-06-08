@@ -2,7 +2,7 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtCML42
-gene_symbol_long: Calmodulin-like protein 42
+gene_symbol_long: Calmodulin-Like Protein 42
 gene_model_pub_name: Medtr7g090450
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g090450
 confidence: 4
@@ -10,21 +10,21 @@ curators:
   - Molly Hardacre
 comments:
   - MtCML42 expression leads to the sequential downregulation of MtABI5 and the
-    upregulation of MtFTa1, which regulates flowering time
+    upregulation of MtFTa1, which regulates flowering time.
   - MtCML42 positively regulates MtCBF1 and MtCBF4 expression, which in turn
     upregulates some cold-regulated/cold-resposnsive genes, and MtGolS1 and
     MtGolS2 expression that leads to raffinose accumulation for increased cold
-    tolerance
+    tolerance.
   - Compared with the wild-types that started flowering at 44 days when plants
     had eight nodes, the flowering time was earlier by 7 days in
     MtCML42-overexpression plants, when plants had seven nodes, but was delayed
     by 10 days in cml42 plants under vernalization plus long-day conditions,
-    when plants had eight nodes
+    when plants had eight nodes.
   - MtCML42 has 73.8% identity with AtCML42 and is located in the cytosol and
     the nucleus, consistent with AtCML42 being localized to the cytosol and the
-    nucleus
+    nucleus.
 phenotype_synopsis: MtCML42 is a key regulator of cold tolerance and flowering
-  time in Medicago truncatula
+  time in Medicago truncatula.
 traits:
   - entity_name: low temperature stress response
     entity: TO:0000303
