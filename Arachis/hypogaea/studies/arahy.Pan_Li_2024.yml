@@ -2,7 +2,7 @@
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhGSNOR1
-gene_symbol_long: S-nitrosoglutathione reductase 1
+gene_symbol_long: S-Nitrosoglutathione Reductase 1
 gene_model_pub_name: LOC112695146
 gene_model_full_id: arahy.Tifrunner.gnm2.ann1.Arahy.987ZKS
 confidence: 4
@@ -19,7 +19,7 @@ comments:
   - AhGSNOR1 was most closely related to the GSNOR proteins of Prunus persica,
     Cucumis sativus and Arabidopsis thaliana.
 phenotype_synopsis: AhGSNOR1 improved plant resistance to aluminum stress and
-  negatively regulated the occurrence of aluminum-induced programmed cell death
+  negatively regulated the occurrence of aluminum-induced programmed cell death.
 traits:
   - entity_name: aluminum response trait
     entity: TO:0000354
