@@ -27,7 +27,8 @@ comments:
     gene.
 phenotype_synopsis: GmNAC6 is a stress‑activated NAC transcription factor that
   sits downstream of NRPs and triggers programmed cell death, senescence, and
-  defense responses when ER stress, osmotic stress, or pathogen attack occur.
+  defense responses when endoplasmic reticulum stress, osmotic stress, or
+  pathogen attack occur.
 traits:
   - entity_name: programmed cell death
     entity: GO:0012501
