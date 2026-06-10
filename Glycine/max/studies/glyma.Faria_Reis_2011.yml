@@ -1,0 +1,42 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNAC6
+gene_symbol_long: NAC domain-containing protein 6
+gene_model_pub_name: AY974354
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G022700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmNAC6 is induced by endoplasmic reticulum stress and osmotic stress
+    individually, but requires both signals for full activation
+  - GmNAC6 is also induced by biotic stress, including pathogen attack. The
+    transient expression of GmNAC6 in tobacco leaves promoted the induction of
+    the pathogenesis-related gene 1, PR1 and caused necrotic lesions.
+  - GmNAC6 promotes programmed cell death and senescence-like responses.
+    Transient expression of GmNAC6 promoted cell death and hypersensitive-like
+    responses in planta.
+  - GmNAC6 does not activate N-rich proteins, confirming one‑directional
+    signaling. GmNAC6 and NRPs also share overlapping responses to biotic
+    signals, but the induction of NRPs peaked before the increased accumulation
+    of GmNAC6 transcripts. GmNAC6 acts downstream of NRP-A and NRP-B in the
+    stress‑induced cell‑death pathway. Consistent with the delayed kinetics of
+    GmNAC6 induction, increased levels of N-rich protein-A and N-rich protein-B
+    transcripts induced promoter activation and the expression of the GmNAC6
+    gene.
+phenotype_synopsis: GmNAC6 is a stress‑activated NAC transcription factor that
+  sits downstream of NRPs and triggers programmed cell death, senescence, and
+  defense responses when ER stress, osmotic stress, or pathogen attack occur.
+traits:
+  - entity_name: programmed cell death
+    entity: GO:0012501
+  - entity_name: intrinsic apoptotic signaling pathway in response to osmotic stress
+    entity: GO:0008627
+  - entity_name: intrinsic apoptotic signaling pathway in response to endoplasmic
+      reticulum stress
+    entity: GO:0070059
+references:
+  - citation: Faria, Reis et al., 2011
+    doi: 10.1186/1471-2229-11-129
+    pmid: 21943253
