@@ -1,0 +1,20 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMATE100
+gene_symbol_long:
+gene_model_pub_name: Glyma.18G143700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G143700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Ma, Yuan et al., 2024
+    doi: 10.1021/acs.jafc.4c01774
+    pmid: 38648468
