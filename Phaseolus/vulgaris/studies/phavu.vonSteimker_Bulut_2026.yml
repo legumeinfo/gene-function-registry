@@ -1,0 +1,36 @@
+---
+scientific_name: Phaseolus vulgaris
+gene_symbols:
+  - PvOFP5
+gene_symbol_long: OVATE Family Protein 5
+gene_model_pub_name: Phvul.006G171800
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.006G171800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Members of the OFP group are known to interact with TONNEAU1 RECRUITMENT
+    MOTIF (TRM) proteins, thereby modulating cell division and potentially organ
+    development.
+  - Heterologous research was done by overexpressing the inferior (Mesoamerican)
+    and superior (Andean) alleles of PvOFP5 from Phaseolus vulgaris in
+    Arabidopsis thaliana wild-type and knockout lines, and confirmed the key
+    role of PvOFP5 in determining seed area (seed length x width).
+  - Across all parameters, OFP5-2 (superior allele) consistently produced larger
+    seeds than OFP5-1 (inferior allele). The inferior allele complemented the
+    seed area and length phenotype in the knockout background, but led to reduced
+    seed size when overexpressed in wild types.
+  - Both overexpression and complementation of OFP5‐2 led to increased seed
+    width in Arabidopsis.
+  - Overexpression of OFP5‐1 in wild types resulted in an increase in seed
+    width, while its complementation line showed reduced width.
+phenotype_synopsis: PvOFP5 is a major gene that regulates seed size in common bean.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed width
+    entity: TO:0000149
+references:
+  - citation: von Steimker, Bulut et al., 2026
+    doi: 10.1111/tpj.70909
+    pmid: 42089377
