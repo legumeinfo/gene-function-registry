@@ -1,0 +1,38 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB68
+gene_symbol_long: Transcription factor R2R3-MYB 68
+gene_model_pub_name: Glyma.04G042300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G042300
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMYB68 transgenic soybean lines led to a noteworthy enhancement in the
+    isoflavone content of their seeds, exhibiting a significant 1.66-fold
+    increase compared to the control group, in addition to a 1.8-fold increase
+    in daidzin content.
+  - Transcriptome and metabolome data revealed the identification of two
+    differentially expressed genes, GmCHS7 and GmCHS8, which are associated with
+    GmMYB68. Further validation, employing yeast one-hybrid and luciferase
+    reporter assays, conclusively confirmed the capacity of GmMYB68 to
+    downregulate the expression of GmCHS7 and GmCHS8.
+  - Two stress-responsive proteins, GMSBT1.4 and GmYAPPY11, were identified as
+    potential interactors of GmMYB68. It is hypothesized that GmMYB68 may
+    contribute to resilience against abiotic stress through the augmentation of
+    isoflavone content.
+  - GmMYB68 was predominantly localized to the nucleus and mapped to chromosome
+    Gm04.
+phenotype_synopsis: GmMYB68 overexpression increases isoflavone contents,
+  confirming its positive role in regulating isoflavone synthesis
+traits:
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+references:
+  - citation: Xu, Liu et al., 2024
+    doi: 10.1016/j.plaphy.2024.109187
+    pmid: 39406006
+  - citation: He, Dong et al., 2019
+    doi: 10.1139/gen-2018-0132
+    pmid: 31550433
