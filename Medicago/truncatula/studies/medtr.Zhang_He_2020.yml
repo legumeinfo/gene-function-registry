@@ -6,7 +6,7 @@ gene_symbols:
 gene_symbol_long: Dwarf and Increased Branching 1
 gene_model_pub_name: Medtr2g102570
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g102570
-confidence: 3
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
