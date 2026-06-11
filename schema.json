@@ -72,7 +72,7 @@
                       "citation": {
                         "description": "String with format 'Author, Author et al., YEAR', 'Author, Author, YEAR', or 'Author, YEAR'",
                         "type": "string",
-                        "pattern": "(^\\S+, \\S+ et al\\., \\d{4}$)|(^\\S+, \\S+, \\d{4}$)|(^\\S+, \\d{4}$)"
+                        "pattern": "(^\\S+\\s*\\S+, \\S+\\s*\\S+ et al\\., \\d{4}$)|(^\\S+\\s*\\S+, ^\\S+\\s*\\S+, \\d{4}$)|(^\\S+\\s*\\S+, \\d{4}$)"
                       },
                       "doi": {
                         "description": "DOI pointing to the dataset; NOTE this is NOT a URI!",
