@@ -1,0 +1,32 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmOFP8
+gene_symbol_long: OVATE family protein 8
+gene_model_pub_name: Glyma.05G230900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G230900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmOFP8 shows root-enriched expression and is strongly upregulated by
+    brassinolide (BL) treatment and drought stress conditions
+  - GmOFP8 Overexpression lines demonstrate enhanced drought survival (~70%
+    survival rate) compared to knockout mutants (~20%) and wild-type plants
+    (~33%)
+  - GmOFP8 physically interacts with GmSK2, a GSK3-like kinase that negatively
+    regulates the same processes, creating a regulatory balance
+  - GmOFP8 promotes nodule formation under both normal and drought-stressed
+    conditions, with overexpressing lines developing significantly more nodules
+    than wild-type plants
+phenotype_synopsis: GmOFP8 overexpression enhances soybean drought tolerance by
+  improving survival rates and promoting increased nodule formation under both
+  normal and drought conditions.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: root nodule number
+    entity: TO:0000900
+references:
+  - citation: Zhang, Qiao et al., 2026
+    doi: 10.1016/j.cj.2025.10.015
