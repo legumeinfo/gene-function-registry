@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmOFP8
-gene_symbol_long: OVATE family protein 8
+gene_symbol_long: OVATE Family Protein 8
 gene_model_pub_name: Glyma.05G230900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G230900
 confidence: 5
@@ -10,17 +10,17 @@ curators:
   - Molly Hardacre
 comments:
   - GmOFP8 shows root-enriched expression and is strongly upregulated by
-    brassinolide (BL) treatment and drought stress conditions
+    brassinolide (BL) treatment and drought stress conditions.
   - GmOFP8 overexpression lines demonstrate enhanced drought survival (~70%
     survival rate) compared to knockout mutants (~20%) and wild-type plants
-    (~33%)
+    (~33%).
   - GmOFP8 physically interacts with GmSK2, a GSK3-like kinase that negatively
     regulates the same processes, creating a regulatory balance. It is plausible
     that GmSK2 modulates GmOFP8 through phosphorylation, thereby influencing its
     activity or protein stability.
   - GmOFP8 promotes nodule formation under both normal and drought-stressed
     conditions, with overexpressing lines developing significantly more nodules
-    than wild-type plants
+    than wild-type plants.
 phenotype_synopsis: GmOFP8 overexpression enhances soybean drought tolerance by
   improving survival rates and promoting increased nodule formation under both
   normal and drought conditions.
@@ -37,7 +37,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmSK2
-gene_symbol_long: Glycogen synthase kinase 3-like kinase 2
+gene_symbol_long: Glycogen Synthase Kinase 3-like Kinase 2
 gene_model_pub_name: Glyma.12G129600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G129600
 confidence: 4
@@ -45,17 +45,17 @@ curators:
   - Molly Hardacre
 comments:
   - GmSK2 physically interacts with GmOFP8 as confirmed through yeast
-    two-hybrid, luciferase complementation, and GST pull-down assays
+    two-hybrid, luciferase complementation, and GST pull-down assays.
   - GmSK2 facilitates nucleocytoplasmic translocation of GmOFP8, promoting its
     nuclear export from exclusive nuclear localization to cytoplasmic
-    redistribution
+    redistribution.
   - GmSK2 negatively affects nodulation development, as overexpressing lines
-    developed significantly fewer nodules compared to controls
+    developed significantly fewer nodules compared to controls.
   - GmSK2 overexpression suppresses drought-responsive genes (GmRD26, GmDREB1,
-    GmMYB14) and antioxidant enzyme genes, compromising stress resilience
+    GmMYB14) and antioxidant enzyme genes, compromising stress resilience.
 phenotype_synopsis: GmSK2 negatively regulates drought tolerance, with
   overexpression lines showing severe leaf wilting, lower water content, and
-  increased oxidative stress markers
+  increased oxidative stress markers.
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
