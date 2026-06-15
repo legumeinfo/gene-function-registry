@@ -2,22 +2,23 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmNAC6
-gene_symbol_long: NAC domain-containing protein 6
+gene_symbol_long: NAC Domain-Containing Protein 6
 gene_model_pub_name: AY974354
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G022700
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmNAC6 is induced by endoplasmic reticulum stress and osmotic stress
-    individually, but requires both signals for full activation
+    individually, but requires both signals for full activation.
   - GmNAC6 is also induced by biotic stress, including pathogen attack. The
     transient expression of GmNAC6 in tobacco leaves promoted the induction of
     the pathogenesis-related gene 1, PR1 and caused necrotic lesions.
-  - GmNAC6 promotes programmed cell death and senescence-like responses.
-    Transient expression of GmNAC6 promoted cell death and hypersensitive-like
-    responses in planta.
-  - GmNAC6 does not activate N-rich proteins, confirming one‑directional
+  - GmNAC6 promotes programmed cell death and senescence-like responses in
+    tobacco leaves and in soybean cells. Transient expression of GmNAC6 promoted
+    cell death and hypersensitive-like responses in planta.
+  - GmNAC6 does not activate N-rich proteins (NRPs), confirming one‑directional
     signaling. GmNAC6 and NRPs also share overlapping responses to biotic
     signals, but the induction of NRPs peaked before the increased accumulation
     of GmNAC6 transcripts. GmNAC6 acts downstream of NRP-A and NRP-B in the
@@ -37,6 +38,8 @@ traits:
   - entity_name: intrinsic apoptotic signaling pathway in response to endoplasmic
       reticulum stress
     entity: GO:0070059
+  - entity_name: microbial disease response
+    entity: TO:0000112
 references:
   - citation: Faria, Reis et al., 2011
     doi: 10.1186/1471-2229-11-129
