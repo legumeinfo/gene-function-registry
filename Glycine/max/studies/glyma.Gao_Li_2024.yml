@@ -1,0 +1,47 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBA3
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBR1
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
