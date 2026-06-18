@@ -1,0 +1,19 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtWRKY76
+gene_symbol_long: 
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Liu, Zhang et al., 2016
+    doi: 10.1016/j.envexpbot.2015.10.007
