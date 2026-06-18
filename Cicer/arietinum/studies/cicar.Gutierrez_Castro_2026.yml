@@ -1,0 +1,24 @@
+---
+scientific_name: Cicer arietinum
+gene_symbols:
+  - 
+gene_symbol_long: Homeotic protein knotted-1-like
+gene_model_pub_name: LOC101500499
+gene_model_full_id:
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
+---
