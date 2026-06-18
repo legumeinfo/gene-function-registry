@@ -14,11 +14,15 @@ comments:
   - Under salt stress treatment, GsWRKY23-overexpression soybean plants
     exhibited upregulated root GsPER3 expression, and elevated peroxidase
     activity in both roots and leaves as compared to empty vector controls.
+  - The Glysoja.02G002639 name of the gene model was taken from Sun, Liu et al.,
+    2023
 phenotype_synopsis: GsWRKY23 enhances salt tolerance by activating antioxidant
   defenses through GsPER3.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
+  - entity_name: oxidative stress response
+    entity: TO:0002657
   - entity_name: peroxidase activity
     entity: GO:0004601
 references:
@@ -53,6 +57,8 @@ phenotype_synopsis: GsPER3 enhances salt‑stress with lowering oxidative damage
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
+  - entity_name: oxidative stress response
+    entity: TO:0002657
   - entity_name: plant fresh weight
     entity: TO:0000442
   - entity_name: leaf relative water content
@@ -61,7 +67,4 @@ references:
   - citation: Sun, Yu et al., 2026
     doi: 10.1016/j.plaphy.2026.111035
     pmid: 41548341
-  - citation: Sun, Liu et al., 2023
-    doi: 10.3390/plants12173030
-    pmid: 37687277
 
