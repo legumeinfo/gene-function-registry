@@ -1,0 +1,48 @@
+---
+scientific_name: Glycine soja
+gene_symbols:
+  - GsWRKY23 
+gene_symbol_long: Transcription factor WRKY
+gene_model_pub_name: 
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Sun, Yu et al., 2026
+    doi: 10.1016/j.plaphy.2026.111035
+    pmid: 41548341
+  - citation:
+    doi:
+    pmid:
+---
+
+scientific_name: Glycine soja
+gene_symbols:
+  - GsPER3
+gene_symbol_long: 
+gene_model_pub_name: Glysoja.10G025790
+gene_model_full_id: glyso.W05.gnm1.ann1.Glysoja.10G025790
+confidence:
+curators:
+  - Molly Hardacre
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Sun, Yu et al., 2026
+    doi: 10.1016/j.plaphy.2026.111035
+    pmid: 41548341
+  - citation:
+    doi:
+    pmid:
+---
