@@ -15,10 +15,5 @@ traits:
   - entity_name:
     entity:
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
----
+  - citation: Ma, Fan et al., 2026
+    doi: 10.1016/j.cj.2026.02.009
