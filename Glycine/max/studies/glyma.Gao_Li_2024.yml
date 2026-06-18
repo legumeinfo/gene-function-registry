@@ -2,46 +2,69 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMYBA3
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+gene_symbol_long: MYB activator 3
+gene_model_pub_name: Glyma.18G262000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G262000
+confidence: 4
 curators:
-  -
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - GmMYBA3 functions as a positive transcriptional activator that promotes
+    anthocyanin biosynthesis in soybean flowers, leading to intensified
+    pigmentation
+  - Subcellular localization assays confirm that GmMYBA3 is localized in the
+    nucleus, consistent with its role as a transcriptional regulator
+  - Overexpression of GmMYBA3 in soybean leads to intense purple pigmentation
+    not only in flowers but also in pods, leaves, and seed coats, indicating its
+    potent activation effect
+  - GmMYBA3 directly binds to promoters of anthocyanin biosynthesis-related
+    genes including GmF3'5'H, GmDFR2, GmMYBR1, and GmTT8a, thereby activating
+    their expression
+  - GmMYBA3 and GmMYBR1 exhibit major expression levels across diverse soybean
+    cultivars, indicating their central role in regulating anthocyanin genes,
+    although flower color variation mainly depends on GmF3'5'H sequence variants
+phenotype_synopsis: GmMYBA3 overexpression causes intense purple pigmentation in
+  soybean flowers and other organs, while its silencing leads to loss of flower
+  color.
 traits:
-  - entity_name:
-    entity:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: positive regulation of anthocyanin biosynthetic process
+    entity: GO:0031542
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
----
+  - citation: Gao, Li et al., 2024
+    doi: 10.1016/j.cj.2024.02.002
 
+---
 scientific_name: Glycine max
 gene_symbols:
   - GmMYBR1
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+gene_symbol_long: MYB repressor 1
+gene_model_pub_name: Glyma.02G247100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G247100
+confidence: 4
 curators:
-  -
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - GmMYBR1 acts as a transcriptional repressor that inhibits anthocyanin
+    accumulation, resulting in pale flower pigmentation when overexpressed
+  - GmMYBR1 does not directly recognize target promoters but acts through
+    interaction with the GmMYBA3-GmTT8a complex to exert its repressive effects
+  - Fusion of a strong activation domain (VP16) to GmMYBR1 does not convert it
+    into an activator, suggesting the dominance of its repression domains
+  - GmMYBR1 and GmMYBA3 form part of an antagonistic regulatory complex bridged
+    by the bHLH factor GmTT8a, which modulates floral anthocyanin biosynthesis
+  - Despite its repressive role, GmMYBR1 is highly expressed in soybean flowers
+    across diverse cultivars, implying it plays a major role in fine-tuning
+    anthocyanin biosynthesis
+phenotype_synopsis: GmMYBR1 overexpression results in reduced anthocyanin
+  accumulation and fading of flower color and hypocotyl pigmentation in soybean.
 traits:
-  - entity_name:
-    entity:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: negative regulation of anthocyanin biosynthetic process
+    entity: GO:0031541
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Gao, Li et al., 2024
+    doi: 10.1016/j.cj.2024.02.002
+
