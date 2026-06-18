@@ -2,18 +2,58 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtWRKY76
-gene_symbol_long: 
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+gene_symbol_long: WRKY transcription factor 76
+gene_model_pub_name: MTR_1g013760
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0150281
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - MtWRKY76 expression is rapidly induced by abiotic stresses such as salt,
+    drought, and abscisic acid treatment, but not significantly by cold stress
+  - Overexpression of MtWRKY76 in transgenic Medicago truncatula enhances both
+    salt and drought tolerance, improving root growth, survival rate, and
+    activating abiotic stress-responsive genes
+  - Transcriptome analysis by digital gene expression reveals that MtWRKY76
+    overexpression significantly alters the expression of numerous
+    stress-related genes including transcription factors and F-box proteins,
+    suggesting a multifaceted role in abiotic stress response
+phenotype_synopsis: Overexpression of MtWRKY76 enhances salt and drought
+  tolerance in Medicago truncatula, improving plant survival and growth under
+  these abiotic stresses
 traits:
-  - entity_name:
-    entity:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: drought tolerance
+    entity: TO:0000276
+references:
+  - citation: Liu, Zhang et al., 2016
+    doi: 10.1016/j.envexpbot.2015.10.007
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtASR (?)
+gene_symbol_long: ASR Like Protein (?)
+gene_model_pub_name: Medtr1g098680.1
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g098680
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - In vivo bimolecular fluorescence complementation (BiFC) assays showed that
+    Medtr1g098680.1 interacts with MtWRKY76 in the nucleus of plant cells,
+    supporting a functional interaction in planta
+  - MtWRKY76 is localized in the nucleus and physically interacts with
+    Medtr1g098680.1, a protein homologous to abscisic acid-, stress-, and
+    ripening-induced proteins, forming a transcription-regulating complex
+    involved in abiotic stress pathways
+phenotype_synopsis: Medtr1g098680.1, an ASR-like protein, interacts with
+  MtWRKY76 in the nucleus and is implicated in mediating abiotic stress
+  responses in Medicago truncatula
+traits:
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
 references:
   - citation: Liu, Zhang et al., 2016
     doi: 10.1016/j.envexpbot.2015.10.007
