@@ -1,0 +1,87 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB29A2
+gene_symbol_long: Glyceollin R2R3-type MYB Transcription Factor A2
+gene_model_pub_name: Glyma.02G005600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G005600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Overexpression and RNA interference silencing of GmMYB29A2 increased and
+    decreased expression of GmNAC42-1, GmMYB29A1, and glyceollin biosynthesis
+    genes and metabolites, respectively, in response to wall glucan elicitor
+    from Phytophthora sojae.
+  - GmMYB29A2 directly binds to promoters of glyceollin‑biosynthesis genes.
+    GmMYB29A2 interacted with the promoters of two glyceollin I biosynthesis
+    genes in vitro and in vivo.
+  - Silencing GmMYB29A2 in Williams 82, a soybean variety that encodes the
+    resistance gene Rps1k, rendered it compatible with race 1 Phytophthora
+    sojae, whereas overexpressing GmMYB29A2 rendered the susceptible Williams
+    variety incompatible.
+  - GmMYB29A2 specifically boosts glyceollin I isomer, not all isoflavonoids.
+    Compatibility and incompatibility coincided with reduced and enhanced
+    accumulations of glyceollin I but not other 5-deoxyisoflavonoids.
+  - Silencing either GmMYB29A2 or GmMYB29A1 in W82 hairy roots decreased the
+    accumulations of glyceollin I metabolites, but silencing specifically
+    GmMYB29A2 reduced the expression of GmNAC42-1 and most glyceollin
+    biosynthesis genes.
+phenotype_synopsis: GmMYB29A2 is a core activator of glyceollin biosynthesis
+  that is essential for disease resistance against Phytophthora sojae.
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+  - entity_name: glyceollin synthase activity
+    entity: GO:0033769
+  - entity_name: phytoalexin content
+    entity: TO:0002669
+references:
+  - citation: Jahan, Harris et al., 2020
+    doi: 10.1104/pp.19.01293
+    pmid: 32209590
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB29A1
+gene_symbol_long: Glyceollin R2R3-type MYB Transcription Factor A2
+gene_model_pub_name: Glyma.10G006600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G006600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMYB29A1 does not activate glyceollin biosynthesis genes strongly.
+    Overexpressing or silencing GmMYB29A1 decreased glyceollin I isomer
+    accumulation with marginal or no effects on the expressions of glyceollin
+    synthesis genes.
+  - Overexpressing GmMYB29A1 in W82 hairy roots demonstrated that GmMYB29A1
+    slightly down-regulated GmMYB29A2 and G4DT but not other glyceollin
+    biosynthesis genes.
+  - GmMYB29A2 and GmMYB29A1 had only one amino acid difference in their SG2
+    motif, specifically at amino acid 192. Amino acid sequence analysis found
+    that GmMYB29A1 and GmMYB29A2 proteins encoded R2R3 DNA binding domains in
+    their N-terminal regions where they were 100% identical to each other.
+  - GmMYB29A1 may have a preferential role in promoting or regulating glyceollin
+    turnover and/or competing biosynthetic pathways.
+  - GmMYB29A1 marginally affected the expressions of most glyceollin
+    biosynthetic genes; data suggests it reduced glyceollin I levels by
+    inducing the expressions of metabolizing enzymes. Thus, the role of
+    GmMYB29A1 may be to limit glyceollin I levels.
+phenotype_synopsis: GmMYB29A1 affects glyceollin levels but mainly by
+  influencing turnover or side‑pathways, not by activating glyceollin
+  biosynthesis for disease resistance against Phytophthora sojae.
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+  - entity_name: glyceollin synthase activity
+    entity: GO:0033769
+  - entity_name: phytoalexin content
+    entity: TO:0002669
+references:
+  - citation: Jahan, Harris et al., 2020
+    doi: 10.1104/pp.19.01293
+    pmid: 32209590
