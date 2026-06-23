@@ -1,7 +1,7 @@
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - DIB1
+  - MtDIB1
   - MtGA3ox1
 gene_symbol_long: Dwarf and Increased Branching 1
 gene_model_pub_name: Medtr2g102570
@@ -9,24 +9,25 @@ gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g102570
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - DIB1 encodes a gibberellin 3β‑hydroxylase (GA3ox) enzyme, catalysing the
-    final step of the biosynthetic pathway for bioactive gibberellins
+    final step of the biosynthetic pathway for bioactive gibberellins.
   - Loss of DIB1 causes extreme dwarfism due to reduced cell elongation. Cells
-    in the dib1-1 mutant were ~28% the length of those in the wild type. The
-    total epidermal cell number as internode length/epidermal cell length was
-    also calculated, and results showed that the number of cells in the dib1-1
-    mutant was ~58% that of the wild type
+    in the dib1-1 mutant were ~28% the length of wild type cells. The total
+    epidermal cell number as internode length/epidermal cell length was also
+    calculated, showing the number of cells in the dib1-1 mutant was ~58% that
+    of the wild type.
   - DIB1 mutants have reduced Gibberellin 1 and Gibberellin 4 levels. The
     concentration of Gibberellin 1 was slightly lower in the dib1-1 mutant
-    whilst Gibberellin 4 was only 27% of that in the wild type. However,
-    applying Gibberellin 3 rescues the dwarf phenotype, indicating that DIB1 is
-    necessary for gibberellins biosynthesis in Medicago truncatula.
+    whilst Gibberellin 4 was only 27% of wild type levels. However, applying
+    Gibberellin 3 rescues the dwarf phenotype, indicating that DIB1 is necessary
+    for gibberellin biosynthesis in Medicago truncatula.
   - DIB1 also suppresses excessive branching by maintaining gibberellin levels.
     Low gibberellins in the mutant releases axillary buds, causing extreme
     dwarfism and increased numbers of lateral branches.
   - DIB1 was responsible for the last step in the synthesis of bioactive
-    gibberellins and it was detected in elongating organs and seeds
+    gibberellins and it was detected in elongating organs and seeds.
 phenotype_synopsis: DIB1 mutants exhibit extreme dwarfism due to severely
   reduced cell elongation, resulting in very short internodes and increased
   lateral branching caused by low gibberellin levels.
@@ -37,8 +38,10 @@ traits:
     entity: TO:0000207
   - entity_name: gibberellin biosynthetic process
     entity: GO:0009686
-  - entity_name: lateral root branching
-    entity: GO:0080181
+  - entity_name: shoot axis branching
+    entity: TO:0002639
+  - entity_name: plant cell length
+    entity: TO:0020107
 references:
   - citation: Zhang, He et al., 2020
     doi: 10.1093/jxb/eraa364
@@ -51,26 +54,26 @@ references:
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtGA3ox2
-gene_symbol_long: Gibberellin 3β-hydroxylase enzyme 2
+gene_symbol_long: Gibberellin 3β-Hydroxylase Enzyme 2
 gene_model_pub_name: Medtr1g011580
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g011580
 confidence: 3
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
-  - Both MtGA3ox2 and DIB1 genes encode GA3ox enzymes, but DIB1 is the primary
-    gene for shoot elongation.
+  - Both the MtGA3ox2 and DIB1 (MtGA3ox1) genes encode GA3ox enzymes, but DIB1
+    is the primary gene responsible for shoot elongation.
   - Analysis showed that MtGA3ox2 had a different pattern of expression compared
     with DIB1. First, the expression of MtGA3ox2 was higher in all the organs
-    examined, and second, MtGA3ox2 transcripts were more abundant in seeds at 10
-    days after pollination and 30 days after pollination than at 20 days after
-    pollination, with highest expression being observed at 10 days after
-    pollination.
+    examined. Second, MtGA3ox2 transcripts were more abundant in seeds at 10 and
+    30 days after pollination than at 20 days after pollination, with the
+    highest expression being observed at 10 days after pollination.
   - It is possible that MtGA3ox2 might still have a function in the last step of
     the biosynthesis of bioactive gibberellins in Medicago truncatula, as
     MtGA3ox2 mRNA was highly accumulated in most of the tissues. This implies
     that MtGA3ox2 might also catalyse inactive gibberellins into bioactive
-    gibberellins in the last step of biosynthesis in the dib1 mutant
+    gibberellins in the last step of biosynthesis in the dib1 mutant.
 phenotype_synopsis: MtGA3ox2 mutants do not show dwarfism or shoot growth
   defects, it likely functions in other tissues or developmental stages such as
   roots and seeds.
