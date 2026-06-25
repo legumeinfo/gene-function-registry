@@ -5,7 +5,7 @@ gene_symbols:
 gene_symbol_long: Multidrug and toxic compound extrusion transporter 100
 gene_model_pub_name: Glyma.18G143700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G143700
-confidence: 5
+confidence: 4
 curators:
   - Molly Hardacre
 comments:
