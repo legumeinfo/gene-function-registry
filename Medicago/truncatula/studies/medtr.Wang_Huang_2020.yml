@@ -1,0 +1,42 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNPF7.6
+gene_symbol_long: Nitrate Peptide Family 7.6
+gene_model_pub_name: Medtr1g116930
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g116930
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - NPF7.6 expression is specifically localized to nodule vasculature transfer
+    cells, where it is induced by both rhizobial infection and high external
+    nitrate.
+  - NPF7.6 encodes a high‑affinity nitrate transporter with a Michaelis constant
+    of around 150 μM, enabling efficient nitrate uptake across a wide
+    concentration range.
+  - NPF7.6 knockout phenotypes show that loss of NPF7.6 disrupts nodule
+    vasculature development, producing abnormal wall ingrowths with plasma
+    membranes that had exaggerated jagged margins.
+  - NPF7.6 nitrate responsiveness is essential for proper nitrate‑mediated
+    regulation of nodulation, as npf7.6 mutants show severely reduced
+    responsiveness to both low and high nitrate.
+  - NPF7.6 impact on nitrogen fixation affects nitrogenase activity by altering
+    leghaemoglobin expression and nitric oxide homeostasis, leading to
+    dramatically reduced nitrogen fixation.
+phenotype_synopsis: NPF7.6 is a high‑affinity nitrate transporter in Medicago
+  truncatula whose loss causes severely reduced nitrate uptake and
+  defective/abnormally shaped cell walls within root nodules, producing nodules
+  that fail to properly respond to either low or high external nitrate.
+traits:
+  - entity_name: nitrate uptake
+    entity: TO:0020100
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogenase activity
+    entity: GO:0016163
+references:
+  - citation: Wang, Huang et al., 2020
+    doi: 10.1038/s41477-020-0683-6
+    pmid: 32514144
+
