@@ -24,7 +24,10 @@ comments:
   - Transcript levels of the homeotic knotted-1-like gene are significantly
     reduced in simple-leaf genotypes, supporting its functional role in compound
     leaf formation
-phenotype_synopsis: null
+phenotype_synopsis: The homeotic knotted-1-like gene in chickpea controls leaf
+  morphology so that a single-nucleotide deletion causes a loss of function
+  leading to a simple-leaf phenotype, while its normal expression creates a
+  plant with the typical compound leaf form
 traits:
   - entity_name: leaf growth and development trait
     entity: TO:0000655
