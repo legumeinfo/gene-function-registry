@@ -1,0 +1,37 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmABF1
+gene_symbol_long: ABRE-binding factor 1
+gene_model_pub_name: Glyma.02G131700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G131700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmABF1 is a key member of the soybean ABRE-binding factor gene family that
+    is strongly responsive to salt stress and abscisic acid signaling
+  - Overexpression of GmABF1 in soybean enhances salt tolerance by reducing Na+
+    accumulation, membrane damage, and oxidative stress through upregulation of
+    antioxidant enzymes
+  - Variations in the promoter region of GmABF1 (Indel-372, Indel-359, and
+    Indel-357) are associated with differences in salt tolerance among soybean
+    cultivars, suggesting a genetic basis for stress response variation
+  - GmABF1 is conserved across plant species (Glycine soja, Arabidopsis
+    thaliana, and other legumes) and plays a significant role in regulating
+    genes involved in osmotic adjustment and reactive oxygen species scavenging,
+    contributing to soybean resilience under abiotic stress
+phenotype_synopsis: GmABF1 in soybean results in improved salt tolerance
+  characterized by increased root length and fresh weight, reduced electrolyte
+  leakage, and decreased oxidative damage under salt stress conditions
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: root length
+    entity: TO:0000227
+references:
+  - citation: Zhang, Li et al., 2025
+    doi: 10.1016/j.ijbiomac.2025.144763
+    pmid: 40446993
