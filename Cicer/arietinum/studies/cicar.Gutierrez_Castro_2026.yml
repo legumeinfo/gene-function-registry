@@ -1,24 +1,35 @@
 ---
 scientific_name: Cicer arietinum
 gene_symbols:
-  - 
-gene_symbol_long: Homeotic protein knotted-1-like
+  - KNOTTED1-like (KNOX)
+gene_symbol_long: Homeotic knotted-1-like gene on chromosome 8
 gene_model_pub_name: LOC101500499
-gene_model_full_id:
-confidence:
+gene_model_full_id: cicar.CDCFrontier.gnm1.ann1.Ca_16793.1 CDS=1-372
+confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - Comment
-phenotype_synopsis:
+  - The homeotic knotted-1-like gene LOC101500499 functions as an active
+    regulator of leaf development in chickpea, controlling the transition
+    between compound and simple leaf morphology
+  - A single-base deletion mutation within the open reading frame of this gene
+    leads to a frameshift and premature stop codon, directly associated with the
+    simple-leaf phenotype
+  - Phylogenetic analysis places this gene in the M subclass of KNOX genes,
+    which lack the ELK and homeobox domains but retain the KNOX1 and KNOX2
+    domains necessary for DNA binding and protein interactions
+  - The development of a KASP marker targeting the mutation in this homeotic
+    knotted-1-like gene enabled accurate genotyping and explained 90% of leaf
+    type variation
+  - Transcript levels of the homeotic knotted-1-like gene are significantly
+    reduced in simple-leaf genotypes, supporting its functional role in compound
+    leaf formation
+phenotype_synopsis: null
 traits:
-  - entity_name:
-    entity:
+  - entity_name: leaf growth and development trait
+    entity: TO:0000655
+  - entity_name: simple leaf morphogenesis
+    entity: GO:0060776
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
----
+  - citation: Gutierrez, Castro et al., 2026
+    doi: 10.3389/fpls.2026.1803976
