@@ -3,8 +3,8 @@ scientific_name: Glycine max
 gene_symbols:
   - GmMPK6
 gene_symbol_long: Mitogen-activated protein kinase 6
-gene_model_pub_name: null
-gene_model_full_id: null
+gene_model_pub_name: Glyma.02G138800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G138800
 confidence: 4
 curators:
   - Molly Hardacre
@@ -17,6 +17,7 @@ comments:
     resistance, decreased chlorophyll content, and increased membrane damage
   - GmMPK6 is activated by multiple stress conditions including abscisic acid,
     osmotic stress (mannitol), salt stress, and drought conditions
+  - The gene_pub_name Glyma.02G138800 was taken from Gao, Jiang et al., 2022
 phenotype_synopsis: GmMPK6 is a mitogen-activated protein kinase that enhances
   drought tolerance through post-translational modifications in soybean
 traits:
@@ -28,4 +29,6 @@ references:
   - citation: Son, An et al., 2025
     doi: 10.1016/j.bbrc.2024.151170
     pmid: 39740401
-  - citation: Needs additional citation for pubname and full_id
+  - citation: Gao, Jiang et al., 2022
+    doi: doi.org/10.1111/tpj.15809
+    pmid: 35562858
