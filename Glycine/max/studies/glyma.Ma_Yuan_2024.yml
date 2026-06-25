@@ -27,8 +27,8 @@ phenotype_synopsis: GmMATE100 loss-of-function mutants exhibit no obvious
   type-A and type-B soyasaponins in soybean roots and seeds without affecting
   overall plant morphology
 traits:
-  - entity_name: saponin biosynthetic process
-    entity: GO:0016135
+  - entity_name: saponin metabolic process
+    entity: GO:0016134
 references:
   - citation: Ma, Yuan et al., 2024
     doi: 10.1021/acs.jafc.4c01774
