@@ -2,17 +2,21 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMATE100
-gene_symbol_long: Multidrug and toxic compound extrusion 100 transporter
+gene_symbol_long: Multidrug and toxic compound extrusion transporter 100
 gene_model_pub_name: Glyma.18G143700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G143700
-confidence: 4
+confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - 
-phenotype_synopsis:
+  - GmMATE100 is a tonoplast-localized multidrug and toxic compound extrusion (MATE) transporter in soybean responsible for importing type-A and type-B soyasaponins into vacuoles
+  - Loss-of-function mutants of GmMATE100 generated via CRISPR-Cas9 show a significant reduction (20–30%) in type-A and type-B soyasaponin content in soybean roots and seeds, confirming its role in soyasaponin homeostasis
+  - Functional assays in yeast showed that GmMATE100 transports multiple soyasaponins with a higher affinity for type-B soyasaponins
+  - Expression of GmMATE100 is co-regulated with soyasaponin biosynthetic genes and induced by methyl jasmonate treatment, increasing soyasaponin accumulation in roots
+  - Subcellular localization studies using GFP fusion revealed that GmMATE100 resides specifically on the vacuolar membrane (tonoplast)
+phenotype_synopsis: GmMATE100 loss-of-function mutants exhibit no obvious morphological changes but show a significant reduction in the content of type-A and type-B soyasaponins in soybean roots and seeds without affecting overall plant morphology
 traits:
-  - entity_name:
+  - entity_name: 
     entity:
 references:
   - citation: Ma, Yuan et al., 2024
