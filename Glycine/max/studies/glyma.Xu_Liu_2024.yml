@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmMYB68
-gene_symbol_long: Transcription factor R2R3-MYB 68
+gene_symbol_long: Transcription Factor R2R3-MYB 68
 gene_model_pub_name: Glyma.04G042300
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G042300
 confidence: 4
@@ -14,7 +14,7 @@ comments:
     increase compared to the control group, in addition to a 1.8-fold increase
     in daidzin content.
   - GmMYB68 expression is organ-specific, with higher transcript levels detected
-    in leaves and pods, suggesting tissue-specific roles beyond stress responses
+    in leaves and pods, suggesting tissue-specific roles beyond stress responses.
   - Transcriptome and metabolome data revealed the identification of two
     differentially expressed genes, GmCHS7 and GmCHS8, which are associated with
     GmMYB68. Further validation, employing yeast one-hybrid and luciferase
@@ -34,7 +34,7 @@ comments:
     challenges.
 phenotype_synopsis: GmMYB68 overexpression enhances tolerance to salt and alkali
   stresses while simultaneously increasing isoflavone contents, confirming its
-  positive role in regulating isoflavone synthesis and stress resistance
+  positive role in regulating isoflavone synthesis and stress resistance.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
@@ -42,6 +42,8 @@ traits:
     entity: TO:0000481
   - entity_name: isoflavonoid biosynthetic process
     entity: GO:0009717
+  - entity_name: flavonoid content
+    entity: TO:0000290
 references:
   - citation: Xu, Liu et al., 2024
     doi: 10.1016/j.plaphy.2024.109187
@@ -49,4 +51,3 @@ references:
   - citation: He, Dong et al., 2020
     doi: 10.1139/gen-2018-0132
     pmid: 31550433
-
