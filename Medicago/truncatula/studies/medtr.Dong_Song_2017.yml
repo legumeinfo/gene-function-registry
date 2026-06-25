@@ -1,0 +1,38 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtMYBS1
+gene_symbol_long: R2R3-MYB transcription factor gene
+gene_model_pub_name: Medtr1g073170
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g073170
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - MtMYBS1 is an R2R3-MYB transcription factor gene induced by salinity,
+    drought, and  abscisic acid treatments, indicating its role in stress
+    response
+  - Constitutive expression of MtMYBS1 in Arabidopsis enhances root growth under
+    salt and osmotic stress conditions, demonstrating its contribution to stress
+    tolerance
+  - MtMYBS1 localized to the nucleus and functions as a transcriptional
+    activator, regulating the expression of stress-responsive genes [T2,T3].
+  - Transgenic Arabidopsis expressing MtMYBS1 accumulated higher levels of
+    proline and soluble sugars and exhibited reduced cellular damage markers
+    like MDA, supporting its role in osmotic adjustment
+  - MtMYBS1 modulates both  abscisic acid-dependent and  abscisic
+    acid-independent stress pathways by increasing the transcript levels of key
+    stress-related genes such as AtDREB2A, AtRD29A, and AtP5CS
+phenotype_synopsis: MtMYBS1 in Arabidopsis results in enhanced salinity and
+  osmotic stress tolerance which manifested as improved root growth
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: response to osmotic stress
+    entity: GO:0006970
+references:
+  - citation: Dong, Song et al., 2017
+    doi: 10.1016/j.bbrc.2017.06.025
+    pmid: 28602696
