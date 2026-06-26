@@ -1,0 +1,34 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMPK6
+gene_symbol_long: Mitogen-activated Protein Kinase 6
+gene_model_pub_name: Glyma.02G138800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G138800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMPK6 positively regulates the expression of GmRD19A (RESPONSIVE TO
+    DEHYDRATION 19A) under drought stress conditions.
+  - GmMPK6's activation is mediated by calcium signaling pathways, as calcium
+    channel inhibitors reduce its kinase activity.
+  - Inhibition of GmMPK6 activity using SB202190 leads to reduced drought
+    resistance, decreased chlorophyll content, and increased membrane damage.
+  - GmMPK6 is activated by multiple stress conditions including abscisic acid,
+    osmotic stress (mannitol), salt stress, and drought conditions.
+  - The gene_pub_name Glyma.02G138800 was taken from Gao, Jiang et al., 2022.
+phenotype_synopsis: GmMPK6 is a mitogen-activated protein kinase that enhances
+  drought tolerance through post-translational modifications in soybean.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: calcium-mediated signaling
+    entity: GO:0019722
+references:
+  - citation: Son, An et al., 2025
+    doi: 10.1016/j.bbrc.2024.151170
+    pmid: 39740401
+  - citation: Gao, Jiang et al., 2022
+    doi: doi.org/10.1111/tpj.15809
+    pmid: 35562858
