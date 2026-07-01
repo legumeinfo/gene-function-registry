@@ -2,20 +2,20 @@
 scientific_name: Glycine soja
 gene_symbols:
   - GsWRKY23
-gene_symbol_long: Transcription factor WRKY 23
+gene_symbol_long: Transcription Factor WRKY 23
 gene_model_pub_name: Glysoja.02G002639
 gene_model_full_id: glyso.W05.gnm1.ann1.Glysoja.02G002639
 confidence: 5
 curators:
   - Molly Hardacre
 comments:
-  - GsWRKY23 specifically binds to the W-box element at position -486 in the
+  - GsWRKY23 specifically binds to the W-box element at position-486 in the
     promoter of GsPER3, thereby transcriptionally activating its expression.
   - Under salt stress treatment, GsWRKY23-overexpression soybean plants
     exhibited upregulated root GsPER3 expression, and elevated peroxidase
     activity in both roots and leaves as compared to empty vector controls.
   - The Glysoja.02G002639 name of the gene model was taken from Sun, Liu et al.,
-    2023
+    2023.
 phenotype_synopsis: GsWRKY23 enhances salt tolerance by activating antioxidant
   defenses through GsPER3.
 traits:
@@ -48,10 +48,10 @@ comments:
     superior performance in physiological parameters including plant fresh
     weight, leaf relative water content, as well as lower relative electrolytic
     leakage levels.
-  - GsPER3-overexpression also showed reduced malondialdehyde content, reactive
+  - GsPER3-overexpression also showed reduced malondialdehyde content, lower reactive
     oxygen species accumulation, and higher antioxidant enzyme activities,
     whereas GsPER3-Cas9 plants showed the opposite trends.
-phenotype_synopsis: GsPER3 enhances salt‑stress with lowering oxidative damage,
+phenotype_synopsis: GsPER3 enhances salt‑stress by lowering oxidative damage,
   increasing antioxidant enzyme activity, and preserving plant water content,
   which results in higher fresh weight/improved plant performance.
 traits:
