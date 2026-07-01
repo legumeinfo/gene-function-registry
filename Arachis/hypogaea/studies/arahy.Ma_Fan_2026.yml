@@ -8,31 +8,37 @@ gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah09g388200
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - AhZAR1-4 is a leucine-rich repeat receptor-like kinase that plays an
-    essential role in early seed development in peanut
+    essential role in early seed development in peanut.
   - The gene contains a C-to-T mutation at position 907 bp in the mutant,
     resulting in a premature stop codon and loss of transmembrane and kinase
-    domains
+    domains.
   - AhZAR1-4 interacts with AhIAA31 in the auxin signaling pathway and responds
     to brassinosteroid and indole-3-acetic acid treatments, indicating its role
-    in hormone regulation
+    in hormone regulation.
   - The mutation disrupts the SSP-YODA-MPKK4/5-MAPK3/6-WRKY2 signaling pathway,
-    leading to downregulation of downstream genes like AhYDA and AhWOX8
-  - Heterologous overexpression of AhZAR1-4 wild-types successfully rescued the
-    seed-abortion phenotype of the Arabidopsis thaliana atzar1-4 mutant and
-    increased seed size, whereas AhZAR1-4 mutant expression did not.
+    leading to downregulation of downstream genes like AhYDA and AhWOX8.
+  - Heterologous overexpression of AhZAR1-4 wild-type alleles successfully
+    rescued the seed-abortion phenotype of the Arabidopsis thaliana atzar1-4
+    mutant and increased seed size, whereas AhZAR1-4 mutant allele expression
+    did not.
 phenotype_synopsis: The AhZAR1-4 mutant lacks transmembrane and kinase
   domains due to a premature stop codon, loses membrane localization, and when
   overexpressed in wild-type form increases seed size while the mutant form
-  fails to complement seed abortion defects
+  fails to complement seed abortion defects.
 traits:
-  - entity_name: seed growth and development trait
-    entity: TO:0000653
+  - entity_name: plant embryo morphology trait
+    entity: TO:0000064
+  - entity_name: seed viability
+    entity: TO:0000345
   - entity_name: seed size
     entity: TO:0000391
   - entity_name: plant growth hormone response
     entity: TO:0000401
+  - entity_name: auxin-activated signaling pathway
+    entity: GO:0009734
 references:
   - citation: Ma, Fan et al., 2026
     doi: 10.1016/j.cj.2026.02.009
