@@ -8,6 +8,7 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G131700
 confidence: 4
 curators:
   - Molly Hardacre
+  - Jacqueline Campbell
 comments:
   - GmABF1 is a key member of the soybean ABRE-binding factor gene family that
     is strongly responsive to salt stress and abscisic acid signaling
@@ -27,6 +28,8 @@ phenotype_synopsis: GmABF1 in soybean results in improved salt tolerance
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
+  - entity_name: oxidative stress response
+    entity: TO:0002657
   - entity_name: root fresh weight
     entity: TO:0000578
   - entity_name: root length
@@ -35,3 +38,4 @@ references:
   - citation: Zhang, Li et al., 2025
     doi: 10.1016/j.ijbiomac.2025.144763
     pmid: 40446993
+---
