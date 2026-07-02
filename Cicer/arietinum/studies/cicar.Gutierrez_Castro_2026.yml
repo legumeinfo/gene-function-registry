@@ -4,7 +4,7 @@ gene_symbols:
   - KNOTTED1-like (KNOX)
 gene_symbol_long: Homeotic knotted-1-like gene on chromosome 8
 gene_model_pub_name: LOC101500499
-gene_model_full_id: cicar.CDCFrontier.gnm2.ann1.Ca_24443.1 
+gene_model_full_id: cicar.CDCFrontier.gnm2.ann1.Ca_24443.1
 confidence: 5
 curators:
   - Molly Hardacre
