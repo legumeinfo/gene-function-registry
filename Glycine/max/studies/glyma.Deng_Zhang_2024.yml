@@ -1,0 +1,37 @@
+---
+scientific_name: Glcyine max
+gene_symbols:
+  - GmSRC2
+gene_symbol_long: Source of resistance C2 domain-containing protein
+gene_model_pub_name: Glyma.15G152900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G152900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmSRC2 in soybean enhances resistance to Phytophthora
+    sojae by promoting reactive oxygen species accumulation and activating
+    defense-related enzymes, while silencing GmSRC2 increases susceptibility
+  - GmSRC2 interacts directly with the P. sojae effector PsAvh23 at the plasma
+    membrane and appears to protect the soybean immune response by competing
+    with PsAvh23 to maintain the integrity of the ADA2/GCN5 transcriptional
+    module
+  - GmSRC2 expression is significantly upregulated upon Phytophthora sojae
+    infection and pathogen-associated molecular pattern treatments like flg22,
+    as well as hormone signals such as salicylic acid and  methyl jasmonate,
+    indicating a role in pathogen-induced defense signaling
+  - GmSRC2 is a conserved gene in soybean that encodes a plasma
+    membrane-localized C2 domain-containing protein and is involved in plant
+    immunity response to Phytophthora sojae
+phenotype_synopsis: Overexpression of GmSRC2 in soybean results in enhanced
+  resistance characterized by lighter lesion areas, reduced Phytophthora sojae
+  biomass, and increased reactive oxygen species accumulation, whereas silencing
+  GmSRC2 leads to increased susceptibility with larger lesion areas and higher
+  pathogen biomass
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+references:
+  - citation: Deng, Zhang et al., 2024
+    doi: 10.1016/j.plantsci.2024.112247
+    pmid: 39313002
