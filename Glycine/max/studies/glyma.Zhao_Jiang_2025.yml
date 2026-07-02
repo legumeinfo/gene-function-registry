@@ -1,0 +1,46 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPAP14
+gene_symbol_long: Purple acid phosphatase 14
+gene_model_pub_name: Glyma.12G07500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G075000
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmPAP14 overexpression results in improved plant growth, higher seed oil
+    content, and enhanced photosynthetic efficiency under phosphorus-deficient
+    conditions
+  - GmPAP14 is significantly upregulated in soybean roots and leaves under
+    organic phosphorus conditions, indicating its role in organic phosphorus
+    utilization
+  - Overexpression of GmPAP14 enhances both extracellular and intracellular acid
+    inorganic phosphatase activities, leading to increased phosphorus content in
+    soybean tissues under organic phosphorus stress
+  - Overexpression of GmPAP14 in soybean enhances external phytate hydrolysis,
+    increases phosphorus content, and promotes plant growth under low phosphorus
+    conditions
+  - GmPAP14 exhibits high phytase activity, enabling it to hydrolyze phytate and
+    release inorganic phosphate for plant absorption
+  - GmPAP14 is a soybean purple acid phosphatase primarily expressed in roots,
+    strongly induced under organic phosphorus conditions, particularly phytate,
+    to facilitate phosphorus utilization
+phenotype_synopsis: Overexpression of GmPAP14 enhances soybean growth, seed oil,
+  photosynthetic efficiency, phytate utilization, phosphorus uptake in root
+  systems and other plant tissues under phosphorus deficiency
+traits:
+  - entity_name: phosphorus content
+    entity: TO:0001024
+  - entity_name: phosphorus concentration
+    entity: TO:0006045
+  - entity_name: plant growth and development trait
+    entity: TO:0000357
+  - entity_name: phosphorus utilization
+    entity: GO:0006794
+references:
+  - citation: Zhao, Jiang et al., 2025
+    doi: 10.1016/j.jia.2025.12.060
+  - citation: Kong, Li et al., 2018
+    doi: 10.3389/fpls.2018.00292
+    pmid: 29593758
