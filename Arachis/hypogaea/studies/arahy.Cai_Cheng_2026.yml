@@ -1,0 +1,39 @@
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhSUT4
+gene_symbol_long: Sucrose transporter 4
+gene_model_pub_name: AH05G37310.1
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah05g373100
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - AhSUT4 is predominantly expressed in peanut root tips and flowers,
+    indicating a role in tissue-specific sucrose transport
+  - Overexpression of AhSUT4 in Arabidopsis increases soluble sugars and alters
+    plant architecture, such as promoting branching and reducing silique length
+  - AhSUT4 responds to salt stress, with increased expression under saline
+    conditions, indicating a role in stress adaptation alongside sucrose
+    transport
+  - AhSUT4 localizes mainly to the plasma membrane and vesicles, suggesting
+    functions in transmembrane sugar uptake and cellular trafficking
+  - AhSUT4 expression is higher during pod and kernel development in high-sugar
+    peanut varieties, implying a contribution to seed sugar accumulation
+phenotype_synopsis: AhSUT4 plays a role in sugar transport and developmental
+  regulation. Overexpression of AhSUT4 in Arabidopsis results in increased sugar
+  content and altered growth patterns, including enhanced branching and
+  shortened siliques
+traits:
+  - entity_name: sugar content
+    entity: TO:0000333
+  - entity_name: branch morphology trait
+    entity: TO:0000740
+  - entity_name: plant growth and development trait
+    entity: TO:0000357
+  - entity_name: sugar transmembrane transporter activity
+    entity: GO:0051119
+references:
+  - citation: Cai, Cheng et al., 2026
+    doi: 10.1016/j.stress.2026.101395
+    pmid: 41614859
