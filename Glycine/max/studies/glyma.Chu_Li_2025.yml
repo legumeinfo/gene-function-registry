@@ -1,0 +1,35 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - Gm18GRSC3
+gene_symbol_long: Chromosome 18 resistance gene SC3
+gene_model_pub_name: Glyma.18G086200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G086200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Gm18GRSC3 contains non-synonymous mutations that differentiate resistant and
+    sensitive haplotypes, with certain allelic variations being linked to
+    resistance phenotypes
+  - Functional analyses demonstrated that overexpression of Gm18GRSC3
+    significantly decreased Soybean mosaic virus strain SC3 accumulation, while
+    silencing increased its levels, confirming its positive regulatory role in
+    resistance
+  - Gm18GRSC3 is a resistance gene in soybean located within the 8.47–8.89 Mb
+    region on chromosome 18, associated with resistance to Soybean mosaic virus
+    strain SC3 at both seedling and adult stages
+  - A functional marker, FM18GSC3, was developed based on the allelic variation
+    of Gm18GRSC3, enabling effective detection of resistance-associated alleles
+    in soybean germplasm
+phenotype_synopsis: Gm18GRSC3-positive soybean plants exhibit significantly
+  reduced accumulation of Soybean mosaic virus strain SC3, leading to enhanced
+  resistance of the virus at both seedling and adult stages
+traits:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: defense response to virus
+    entity: GO:0051607
+references:
+  - citation: Chu, Li et al., 2025
+    doi: 10.1016/j.cj.2025.05.012
