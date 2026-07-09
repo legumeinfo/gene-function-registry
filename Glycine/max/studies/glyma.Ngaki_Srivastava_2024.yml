@@ -1,0 +1,46 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDR1
+gene_symbol_long: Disease resistance 1
+gene_model_pub_name: Glyma.10g094800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G094800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmDR1 is an integral plasma membrane protein that confers broad-spectrum
+    resistance against multiple pathogens and pests in soybean, including
+    Fusarium virguliforme, Heterodera glycines, spider mites, and soybean aphids
+  - Overexpression of GmDR1 enhances the expression of several receptor kinases,
+    nucleotide-binding leucine-rich repeat proteins, and transcription factors
+    related to plant immunity, suggesting its role as a pattern recognition
+    receptor
+  - GmDR1 is hypothesized to recognize pest-associated molecular patterns
+    (PAMPs) such as chitin, thereby activating pattern-triggered immunity (PTI)
+    and possibly priming effector-triggered immunity (ETI) pathways
+  - Transcriptome analysis revealed that GmDR1 regulates hundreds of biotic
+    stress-related genes, including those encoding receptor kinases and
+    nucleotide-binding leucine-rich repeat receptor proteins, which are induced
+    following chitin treatment and pathogen/insect infection
+  - The gene_pub_name Glyma.10g094800 was taken from Ngaki, Sahoo et al., 2020.
+phenotype_synopsis: Overexpression of GmDR1 in soybean results in enhanced
+  broad-spectrum resistance to multiple pathogens and pests
+traits:
+  - entity_name: fungal disease response
+    entity: TO:0000439
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+  - entity_name: arachnid damage response trait
+    entity: TO:0020121
+  - entity_name: aphid response trait
+    entity: TO:0006067
+  - entity_name: biotic plant stress trait
+    entity: TO:0000179
+references:
+  - citation: Ngaki, Srivastava et al., 2024
+    doi: 10.1038/s41598-024-62332-4
+    pmid: 38806545
+  - citation: Ngaki, Sahoo et al., 2020
+    doi: 10.1111/pbi.13479
+    pmid: 32954627
