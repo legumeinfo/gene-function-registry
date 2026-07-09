@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNFYA5
+gene_symbol_long: Nuclear factor YA 5
+gene_model_pub_name: Glyma07g04050
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma07g04050
+confidence: null
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmNFYA5 enhances drought tolerance in both Arabidopsis and
+    soybean by reducing water loss through stomatal regulation
+  - Transgenic Arabidopsis lines with GmNFYA5 showed longer shoot and pod
+    lengths, higher pod and seed numbers under drought stress, and maintained
+    better growth than controls
+  - GmNFYA5 upregulates drought-responsive genes in both abscisic acid-dependent
+    (e.g., ABI2, ABI3, LEA3) and abscisic acid-independent pathways,
+    contributing to improved stress resilience
+  - GmNFYA5 directly binds to promoters of certain stress-related genes, such as
+    GmDREB2 and GmbZIP1, activating their expression
+  - GmNFYA5 was successfully overexpressed in Arabidopsis and soybean, resulting
+    in enhanced drought tolerance compared to wild-type plants in both species
+phenotype_synopsis: Overexpression of GmNFYA5 enhances drought tolerance in
+  transgenic Arabidopsis and soybean plants
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: abscisic acid sensitivity
+    entity: TO:0000615
+  - entity_name: regulation of stomatal movement
+    entity: GO:0010119
+references:
+  - citation: Ma, Yu et al., 2020
+    doi: 10.1186/s12870-020-02337-z
+    pmid: 32192425
+  - citation: Quach, Nguyen et al., 2014
+    doi: 10.1007/s00438-014-0978-2
+    pmid: 25542200
