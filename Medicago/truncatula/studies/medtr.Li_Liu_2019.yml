@@ -4,7 +4,7 @@ gene_symbols:
   - MtCAS31
 gene_symbol_long: Cold acclimation-specific 31
 gene_model_pub_name: EU139871
-gene_model_full_id: medtr.A17.gnm5.MtrunA17Chr6 (?)
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr6g0484671
 confidence: 5
 curators:
   - Molly Hardacre
