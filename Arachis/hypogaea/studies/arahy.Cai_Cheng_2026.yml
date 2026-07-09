@@ -3,8 +3,8 @@ scientific_name: Arachis hypogaea
 gene_symbols:
   - AhSUT4
 gene_symbol_long: Sucrose transporter 4
-gene_model_pub_name: AH05G37310.1
-gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah05g373100
+gene_model_pub_name: AH07G21450.1
+gene_model_full_id: null
 confidence: 4
 curators:
   - Molly Hardacre
