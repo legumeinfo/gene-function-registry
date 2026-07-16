@@ -1,0 +1,45 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmERF3
+gene_symbol_long: Ethylene response factor 3
+gene_model_pub_name: EU681278
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G263700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmERF3 in transgenic tobacco enhances resistance to
+    pathogens like Ralstonia solanacearum, Alternaria alternata, and Tobacco
+    Mosaic Virus, as well as increasing tolerance to salt and drought stresses
+  - Overexpression of GmERF5 enhances resistance to Phytophthora sojae and
+    upregulates PR genes, such as GmPR10 and GmPR1-1
+  - GmERF5 contains an APETALA 2/Athylene response factor domain and
+    ERF-associated amphiphilic repression motif, functioning as a
+    nuclear-localized transcriptional repressor in soybean
+  - GmERF5 interacts with the basic helix–loop–helix transcription factor GmbHLH
+    and the translation initiation factor GmEIF, indicating its involvement in
+    stress signaling pathways
+  - GmERF3 can bind to GCC box and dehydration-responsive elements (DRE/CRT)
+    elements, which are associated with biotic and abiotic stress-responsive
+    genes, indicating its role in activating defense-related gene expression
+phenotype_synopsis: Overexpression of GmERF5 in soybean and tobacco leads to
+  enhanced resistance against different pathogens and other abiotic stresses
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: fungal disease response
+    entity: TO:0000439
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Zhang, Chen et al., 2009
+    doi: 10.1093/jxb/erp214
+    pmid: 19602544
+  - citation: Dong, Cheng et al., 2015
+    doi: 10.1093/jxb/erv078
+    pmid: 25779701
