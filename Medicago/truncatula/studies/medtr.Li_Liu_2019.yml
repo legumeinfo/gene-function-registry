@@ -1,0 +1,33 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtCAS31
+gene_symbol_long: Cold acclimation-specific 31
+gene_model_pub_name: EU139871
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr6g0484671
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - MtCAS31 functions as a positive regulator of drought response by promoting
+    autophagic degradation of specific proteins under stress conditions
+  - MtCAS31 specifically interacts with the cargo protein MtPIP2;7, targeting it
+    for autophagic degradation to reduce water loss in drought conditions
+  - MtCAS31 localizes mainly to the endoplasmic reticulum and nucleus and acts
+    as a cargo receptor in autophagy, extending dehydrins' functional roles in
+    protein quality control during drought stress
+  - During drought stress, MtCAS31 is highly induced, interacts with ATG8a via
+    its AIM-like motif, and facilitates autophagic degradation pathways
+  - Overexpression of MtCAS31 enhances drought tolerance by decreasing root
+    hydraulic conductivity and water transpirations rates, indicating its role
+    in water conservation
+phenotype_synopsis: Knockout of MtCAS31 impairs drought tolerance, increases
+  water loss, reduces survival rates, and heightens electrolyte leakage under
+  drought stress conditions
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+references:
+  - citation: Li, Liu et al., 2019
+    doi: 10.1080/15548627.2019.1643656
+    pmid: 31362589
