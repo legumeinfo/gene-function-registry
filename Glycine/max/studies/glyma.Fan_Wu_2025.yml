@@ -1,0 +1,42 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSRS14
+gene_symbol_long: SHORT INTERNODES-related sequence 14
+gene_model_pub_name: Glyma.13G197300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G197300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Exogenous indole-3-acetic acid at low concentrations (1 μM) promotes GmSRS14
+    expression, increases nodule number and nitrogenase activity, while abscisic
+    acid treatments inhibit GmSRS14 expression, reduces nodule size, and
+    decreases nitrogenase activity
+  - GmSRS14 influences the expression of key nodulation and hormone-signaling
+    genes such as GmENOD40 and GmYUC2a, indicating it may coordinate hormone
+    pathways during nodule development
+  - GmSRS14 is specifically expressed in soybean root nodules and localizes
+    exclusively in the nucleus
+  - Overexpression of GmSRS14 enhances nodule formation and nitrogen fixation,
+    while silencing it suppresses nodulation
+  - The gene_pub_name Glyma.13G197300 was taken from Zhao, Song et al., 2020
+phenotype_synopsis: Overexpression of GmSRS14 results in increased root nodule
+  number, weight, and nitrogenase activity whilst silencing GmSRS14 leads to
+  reduced nodulation and nitrogen-fixing efficiency in soybean.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogenase activity
+    entity: GO:0016163
+references:
+  - citation: Fan, Wu et al., 2025
+    doi: 10.1016/j.jplph.2025.154649
+    pmid: 41197331
+  - citation: Zhao, Song et al., 2020
+    doi: 10.3390/ijms21051810
+    pmid: 32155727
