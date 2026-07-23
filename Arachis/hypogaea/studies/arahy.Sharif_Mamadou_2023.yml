@@ -20,8 +20,7 @@ comments:
     expression in the pericarp
 phenotype_synopsis: The AhAPY2-1p promoter effectively drives tissue-specific
   gene expression in the peanut pericarp, as demonstrated by strong GUS activity
-  in this tissue of transgenic Arabidopsis without significant expression in
-  other organs
+  in this tissue of transgenic Arabidopsis
 traits:
   - entity_name: pericarp morphology trait
     entity: TO:0000945
