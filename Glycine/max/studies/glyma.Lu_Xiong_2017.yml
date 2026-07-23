@@ -1,0 +1,31 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBZR1
+gene_symbol_long: BRASSINAZOLE-RESISTANT 1
+gene_model_pub_name: Glyma17g36730
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g36730
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmBZR1 interacts directly with the phosphatase PP2C-1, which facilitates its
+    dephosphorylation and activation, thereby enhancing its function in seed
+    development
+  - Overexpression of GmBZR1 in transgenic plants results in increased seed size
+    and seed weight, demonstrating its pivotal role in seed trait improvement
+  - GmBZR1 forms complexes with other BZR family proteins and is localized
+    mainly in the nucleus, indicating its function as a nuclear transcription
+    regulator
+phenotype_synopsis: GmBZR1 positively influences seed size and weight by
+  promoting cell expansion and growth during seed development in transgenic
+  Arabidopsis plants
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Lu, Xiong, et al., 2017
+    doi: 10.1016/j.molp.2017.03.006
+    pmid: 28363587
