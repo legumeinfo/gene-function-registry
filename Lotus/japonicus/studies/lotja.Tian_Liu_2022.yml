@@ -24,9 +24,9 @@ comments:
   - Functional analysis in yeast revealed that LjPLT11 transports polyols such
     as xylitol and pinitol, indicating its role in polyol translocation within
     plant cells
-phenotype_synopsis: Knock-down of LjPLT11 results in defective nodule
-  development, premature nodule senescence, and decreased nitrogen fixation,
-  adversely affecting plant growth
+phenotype_synopsis: Knock-down of LjPLT11 caused abnormalities in nodule
+  development, disrupted bacteroid structure, and reduced nitrogen fixation,
+  emphasizing its essential role in nodule formation and function
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
