@@ -30,6 +30,8 @@ phenotype_synopsis: Knock-down of LjPLT11 results in defective nodule
 traits:
   - entity_name: root nodule morphology trait
     entity: TO:0000898
+  - entity_name: plant organ senescence
+    entity: GO:0090693
   - entity_name: nitrogen fixation
     entity: GO:0009399
 references:
