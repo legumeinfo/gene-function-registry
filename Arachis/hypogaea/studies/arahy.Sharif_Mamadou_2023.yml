@@ -2,23 +2,30 @@
 scientific_name: Arachis hypogaea
 gene_symbols:
   - AhAPY2-1p
-gene_symbol_long: 
+gene_symbol_long: Apyrase 2-1 Promoter
 gene_model_pub_name: AH16G28160.1
-gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16g281600	
-confidence:
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16g281600
+confidence: 3
 curators:
   - Molly Hardacre
 comments:
-  -
-phenotype_synopsis: 
+  - The AhAPY2-1p promoter is derived from the AhAPY2-1 gene, which is highly
+    expressed specifically in the peanut pericarp, making it suitable for
+    pod-specific gene expression
+  - Functional validation of AhAPY2-1p in transgenic Arabidopsis showed that it
+    effectively directs GUS gene expression predominantly in the pericarp
+  - Cis-regulatory element analysis of AhAPY2-1p revealed the presence of
+    hormone-responsive, light-responsive, wound-responsive, and defense-related
+    elements, indicating its potential to regulate stress-related gene
+    expression in the pericarp
+phenotype_synopsis: The AhAPY2-1p promoter effectively drives tissue-specific
+  gene expression in the peanut pericarp, as demonstrated by strong GUS activity
+  in this tissue of transgenic Arabidopsis without significant expression in
+  other organs
 traits:
-  - entity_name:
-    entity:
+  - entity_name: pericarp morphology trait
+    entity: TO:0000945
 references:
   - citation: Sharif, Mamadou et al., 2023
     doi: 10.3390/ijms24054622
     pmid: 36902052
-  - citation:
-    doi:
-    pmid:
----
