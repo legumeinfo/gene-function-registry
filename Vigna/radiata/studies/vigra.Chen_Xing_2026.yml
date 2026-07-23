@@ -17,7 +17,7 @@ comments:
   - The promoter insertion in VrTIFY6B enhances its expression, leading to
     increased flavonoid content and potentially contributing to traits like seed
     pigmentation
-phenotype_synopsis: Variations in VrTIFY6B influence seed coat flavonoid content in mung bean
+phenotype_synopsis: The promoter insertion in VrTIFY6B influences seed coat flavonoid content in mung bean
 traits:
   - entity_name: flavonoid content
     entity: TO:0000290
