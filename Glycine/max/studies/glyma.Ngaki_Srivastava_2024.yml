@@ -27,6 +27,8 @@ comments:
 phenotype_synopsis: Overexpression of GmDR1 in soybean results in enhanced
   broad-spectrum resistance to multiple pathogens and pests
 traits:
+  - entity_name: biotic plant stress trait
+    entity: TO:0000179
   - entity_name: fungal disease response
     entity: TO:0000439
   - entity_name: Heterodera glycines response
@@ -35,8 +37,6 @@ traits:
     entity: TO:0020121
   - entity_name: aphid response trait
     entity: TO:0006067
-  - entity_name: biotic plant stress trait
-    entity: TO:0000179
 references:
   - citation: Ngaki, Srivastava et al., 2024
     doi: 10.1038/s41598-024-62332-4
