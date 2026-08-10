@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmERF75
-gene_symbol_long: Ethylene-responsive factor 75
+gene_symbol_long: Ethylene-responsive Factor 75
 gene_model_pub_name: Glyma.10G016500
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G016500
 confidence: 4
@@ -11,21 +11,21 @@ curators:
 comments:
   - GmERF75 expression is predominantly found in soybean hypocotyls and roots
     and is rapidly induced by multiple stress-related hormones and environmental
-    stimuli, including abscisic acid, salt, drought, and temperature stresses
+    stimuli, including abscisic acid, salt, drought, and temperature stresses.
   - Overexpression of GmERF75 in Arabidopsis enhances tolerance to osmotic
     stresses, such as salt and drought, by maintaining higher chlorophyll
     content under various stress conditions. As a homolog of the AtERF71 gene,
     it can rescue the short hypocotyl phenotype observed in Arabidopsis erf71
-    mutant lines
+    mutant lines.
   - The protein encoded by GmERF75 localizes specifically in the nucleus and
-    contains motifs suggestive of transcriptional activation domains
+    contains motifs suggestive of transcriptional activation domains.
   - Transgenic soybean hairy roots overexpressing GmERF75 exhibited improved
-    growth and salt tolerance, demonstrating its potential in enhancing stress
-    resilience in soybean crops
+    growth and salt tolerance, demonstrating its potential to enhance stress
+    resilience in soybean crops.
 phenotype_synopsis: GmERF75 promotes hypocotyl elongation and enhances osmotic
   stress tolerance in Arabidopsis and soybean, effectively rescuing mutant
   short-hypocotyl phenotypes and improving stress resilience under various
-  conditions
+  conditions.
 traits:
   - entity_name: osmotic response sensitivity
     entity: TO:0000095
