@@ -1,0 +1,50 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRAV3
+gene_symbol_long: Related To ABI3/VP1 Transcription Factor 3
+gene_model_pub_name: MTR_1g116920
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0213701
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - MtRAV3 is a transcription factor in Medicago truncatula that is rapidly
+    induced by salt and osmotic stresses such as NaCl and polyethylene glycol
+    treatments.
+  - Overexpression of MtRAV3 enhances tolerance to drought, salt, and osmotic
+    stresses by inducing the expression of adversity-related genes like
+    MtWRKY76, MtMYB61, MtCAS31, MtAOX1, and MtERF1.
+  - MtRAV3 overexpression results in phenotypic changes such as dwarfing,
+    delayed flowering, increased branching, and smaller floral and leaf organs,
+    linked to downregulation of gibberellin biosynthesis genes like MtGA3ox1,
+    MtGA20ox1, and MtGA20ox2.
+  - MtRAV3 negatively regulates flowering time by repressing MtFTa1 and MtSOC1,
+    key genes involved in flowering control, possibly through interaction with
+    gibberellin pathways.
+  - The promoter of MtRAV3 contains stress-responsive cis-elements such as W-BOX
+    and MYC elements, which may regulate its stress-induced expression.
+  - MtRAV3 influences plant architecture by repressing gibberellin and
+    strigolactone related genes, contributing to increased branching and
+    dwarfism.
+phenotype_synopsis: Overexpression of MtRAV3 in Medicago truncatula results in a
+  dwarf phenotype with delayed flowering, increased branching, smaller floral
+  and leaf organs, and enhanced salt tolerance.
+traits:
+  - entity_name: whole plant size
+    entity: TO:1000012
+  - entity_name: secondary shoot axis branch number
+    entity: TO:0020019
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: floral organ size
+    entity: TO:0002600
+  - entity_name: gibberellin biosynthesis trait
+    entity: TO:0000992
+references:
+  - citation: Wang, Guo et al., 2021
+    doi: 10.1016/j.plaphy.2021.04.003
+    pmid: 33845331
