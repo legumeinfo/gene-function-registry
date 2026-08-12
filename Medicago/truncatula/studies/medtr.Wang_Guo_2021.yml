@@ -2,12 +2,13 @@
 scientific_name: Medicago truncatula
 gene_symbols:
   - MtRAV3
-gene_symbol_long: AP2/ERF and B3 Domain Transcription Factor 3
+gene_symbol_long: Related To ABI3/VP1 Transcription Factor 3
 gene_model_pub_name: MTR_1g116920
 gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0213701
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - MtRAV3 is a transcription factor in Medicago truncatula that is rapidly
     induced by salt and osmotic stresses such as NaCl and polyethylene glycol
@@ -31,8 +32,8 @@ phenotype_synopsis: Overexpression of MtRAV3 in Medicago truncatula results in a
   dwarf phenotype with delayed flowering, increased branching, smaller floral
   and leaf organs, and enhanced salt tolerance.
 traits:
-  - entity_name: plant height
-    entity: TO:0000207
+  - entity_name: whole plant size
+    entity: TO:1000012
   - entity_name: secondary shoot axis branch number
     entity: TO:0020019
   - entity_name: salt tolerance
