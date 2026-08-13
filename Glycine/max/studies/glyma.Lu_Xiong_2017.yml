@@ -1,0 +1,73 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBZR1
+gene_symbol_long: Brassinazole-Resistant 1
+gene_model_pub_name: Glyma17g36730
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G221100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmBZR1 interacts directly with the phosphatase allele PP2C-1, which
+    facilitates its dephosphorylation and activation, thereby enhancing GmBZR1
+    function in seed development.
+  - Overexpression of GmBZR1 in transgenic plants results in increased seed size
+    and seed weight, demonstrating its pivotal role in seed trait improvement.
+  - GmBZR1 forms complexes with other BZR family proteins and is localized
+    mainly in the nucleus, indicating its function as a nuclear transcription
+    regulator.
+phenotype_synopsis: GmBZR1 positively influences seed size and weight by
+  promoting cell expansion and growth during seed development in transgenic
+  Arabidopsis plants.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Lu, Xiong, et al., 2017
+    doi: 10.1016/j.molp.2017.03.006
+    pmid: 28363587
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPP2C
+gene_symbol_long: Phosphatase 2C
+gene_model_pub_name: Glyma17g33690
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G221100
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - The GmPP2C-1 allele derived from wild soybean (ZYD7) significantly enhances
+    soybean 100-seed weight and size by promoting cell enlargement in the seed
+    integument and activating seed trait-related genes.
+  - PP2C-1 interacts with GmBZR1 and facilitates the accumulation of its
+    dephosphorylated, active form to promote seed growth.
+  - Overexpression of PP2C-1, but not the closely related GmPP2C-2 allele from
+    cultivated soybean, leads to increased seed weight in transgenic plants,
+    highlighting functional differences due to amino acid variations at the
+    N-terminus.
+  - GmBZR1 overexpression independently enhances seed size and weight,
+    supporting its central role in the brassinosteroid pathway regulated by
+    PP2C-1.
+phenotype_synopsis: The GmPP2C-1 allele from soybean increases soybean 100-seed
+  weight and seed size primarily by enlarging seed cell size, resulting in
+  higher seed yield.
+traits:
+  - entity_name: 100-grain weight
+    entity: TO:0000269
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed yield trait
+    entity: TO:0000905
+references:
+  - citation: Lu, Xiong, et al., 2017
+    doi: 10.1016/j.molp.2017.03.006
+    pmid: 28363587
