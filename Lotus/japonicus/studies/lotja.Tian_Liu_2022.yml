@@ -3,8 +3,8 @@ scientific_name: Lotus japonicus
 gene_symbols:
   - LjPLT11
 gene_symbol_long: Polyol transporter protein 11
-gene_model_pub_name: BI420529 (?)
-gene_model_full_id: lotja.MG20.gnm3.ann1.Lj4g3v0937820.2
+gene_model_pub_name: BI420529
+gene_model_full_id: lotja.MG20.gnm3.ann1.Lj4g3v0937820
 confidence: 5
 curators:
   - Molly Hardacre
