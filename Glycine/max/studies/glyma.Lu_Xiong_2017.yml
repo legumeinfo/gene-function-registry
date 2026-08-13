@@ -4,7 +4,7 @@ gene_symbols:
   - GmBZR1
 gene_symbol_long: BRASSINAZOLE-RESISTANT 1
 gene_model_pub_name: Glyma17g36730
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g36730
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G221100
 confidence: 4
 curators:
   - Molly Hardacre
@@ -36,7 +36,7 @@ gene_symbols:
   - PP2C-1
 gene_symbol_long: Phosphatase 2C-1
 gene_model_pub_name: Glyma17g33690
-gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma17g33690
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G221100
 confidence: 5
 curators:
   - Molly Hardacre
