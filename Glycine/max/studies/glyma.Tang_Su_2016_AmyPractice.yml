@@ -10,7 +10,8 @@ gene_model_full_id: 	glyma.Wm82.gnm4.Gm17:2662794
 confidence: 4
 curators: Amy Pollpeter
   -
-comments: GmCIF1 is an invertase inhibitor that showed a higher affinity for Cell wall invertases than vacuolar invertase.
+comments: 
+- GmCIF1 is an invertase inhibitor that showed a higher affinity for Cell wall invertases than vacuolar invertase.
 - GMCIF1 had high homology (>40%) to AtCIF1.
 - Treatment with ABA resulted in increased expression of both GmCIF1 and GmC/VIF2.
 - Fluorescence studies showed that both GmCIF1 and GmC/VIF2 had extracellular targets.
@@ -32,7 +33,7 @@ traits:
 scientific_name: Glycine max
 gene_symbols: GmC/CIF2
   -
-gene_symbol_long: Cell wall/Vacuolar Inhibitor of Fructosidase 2
+gene_symbol_long: Cell wall or Vacuolar Inhibitor of Fructosidase 2
 gene_model_pub_name: Glyma.17G036400
 gene_model_full_id: 	glyma.Wm82.gnm4.Gm17:2665937
 confidence: 4
@@ -44,17 +45,15 @@ comments:
   - GmC/VIF2 showed more expression in flowers, developing seeds, and roots.
   - ABA treatment increased GmC/VIF2 expression.
 # Question: Since there were no RNAi plants, do I report a phenotype?  It reported in the paper that the transformation appeared to not work for this gene.
+- Should I use the same traits as the first gene in this case because it wasn't truly tested phenotypically in this paper?
 phenotype_synopsis: 
 
 traits:
-  - entity_name:
-    entity:
+  - entity_name: seed growth and development
+    entity: TO:0000653
 references:
-  - citation:
-    doi:
-    pmid:
-  - citation:
-    doi:
-    pmid:
+  - citation: Tang, Su, et al., 2017
+    doi: 10.1093/jxb/erw425
+    pmid: 28204559
 ---
 
