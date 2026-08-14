@@ -1,0 +1,55 @@
+---
+scientific_name: Vigna radiata
+gene_symbols:
+  - VrTIFY6B
+gene_symbol_long: TIFY6B protein (?)
+gene_model_pub_name: Vr06g21880
+gene_model_full_id: (?)
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - VrTIFY6B is a transcription factor whose expression is regulated by a 68-bp
+    promoter insertion, affecting flavonoid biosynthesis
+  - Functional assays indicate that VrTIFY6B interacts with other regulatory
+    proteins, influencing pathways related to plant development and secondary
+    metabolite production
+  - The promoter insertion in VrTIFY6B enhances its expression, leading to
+    increased flavonoid content and potentially contributing to traits like seed
+    pigmentation
+phenotype_synopsis: The promoter insertion in VrTIFY6B influences seed coat flavonoid content in mung bean
+traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
+references:
+  - citation: Chen, Xing et al., 2026
+    doi: 10.1038/s41588-026-02644-5
+    pmid: 42432247
+
+---
+scientific_name: Vigna radiata
+gene_symbols:
+  - VrPGIP1
+gene_symbol_long: Polygalacturonase-inhibiting protein 1
+gene_model_pub_name: Vr04g09850
+gene_model_full_id: (?)
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - VrPGIP1 contains a 136-bp promoter deletion that reduces its expression,
+    which has been shown to enhance resistance to bruchid insects by inhibiting
+    their digestive enzyme
+  - Transcript analysis reveals that the deletion leads to altered expression
+    patterns of VrPGIP1 during seed development and pest attack
+  - The promoter deletion in VrPGIP1 results in increased
+    polygalacturonase-inhibiting activity, conferring bruchid resistance in
+    certain mung bean accessions
+phenotype_synopsis: The promoter deletion in VrPGIP1 enhances bruchid resistance in mung bean
+traits:
+  - entity_name: insect damage response trait
+    entity: TO:0000261
+references:
+  - citation: Chen, Xing et al., 2026
+    doi: 10.1038/s41588-026-02644-5
+    pmid: 42432247
