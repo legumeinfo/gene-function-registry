@@ -1,0 +1,42 @@
+---
+scientific_name: Lotus japonicus
+gene_symbols:
+  - LjPLT11
+gene_symbol_long: Polyol Transporter Protein 11
+gene_model_pub_name: BI420529
+gene_model_full_id: lotja.MG20.gnm3.ann1.Lj4g3v0937820
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Knock-down of LjPLT11 results in abnormal nodule development, reduced
+    nitrogenase activity, and premature senescence of infected cells,
+    highlighting its importance in nodule longevity and nitrogen fixation.
+  - LjPLT11 helps maintain osmotic balance in nodule cells by regulating pinitol
+    levels, thereby stabilizing membrane integrity and supporting bacteroid
+    function.
+  - Reduced expression of LjPLT11 leads to increased cytosolic pinitol, altered
+    osmotic pressure, and accumulation of reactive oxygen species, which
+    ultimately impacts nodule health and plant growth under symbiotic conditions.
+  - LjPLT11 is a facilitative transporter localized on the peribacteroid
+    membrane in Lotus japonicus nodules, facilitating the intracellular
+    transport of pinitol in infected cells.
+  - Functional analysis in yeast revealed that LjPLT11 transports polyols such
+    as xylitol and pinitol, indicating its role in polyol translocation within
+    plant cells.
+phenotype_synopsis: Knock-down of LjPLT11 caused abnormalities in nodule
+  development, disrupted bacteroid structure, and reduced nitrogen fixation,
+  emphasizing its essential role in nodule formation and function.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: bacteroid-containing symbiosome
+    entity: GO:0043660
+  - entity_name: plant organ senescence
+    entity: GO:0090693
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+references:
+  - citation: Tian, Liu et al., 2022
+    doi: 10.1093/jxb/erab402
+    pmid: 34460912
