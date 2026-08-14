@@ -10,21 +10,21 @@ curators:
   - Molly Hardacre
 comments:
   - GmSRG16 is identified as a negative regulator of cadmium tolerance in
-    soybean, where its knockout enhances heavy metal tolerance
+    soybean, where its knockout enhances heavy metal tolerance.
   - GmSRG16 expression is strongly induced by cadmium stress and is localized to
-    both the cell membrane and nucleus
+    both the cell membrane and nucleus.
   - Knockout or silencing of GmSRG16 results in improved soybean root growth and
     larger plant architecture under cadmium stress, despite increased cadmium
-    accumulation in roots
+    accumulation in roots.
   - GmSRG16 does not function as a transcription factor, as demonstrated by
-    yeast one-hybrid assays showing no transcriptional activation activity
+    yeast one-hybrid assays showing no transcriptional activation activity.
   - The GmSRG16 gene negatively regulates cadmium tolerance by suppressing
     phenylalanine/phenylpropanoid metabolism, which includes key downstream
-    genes like GmCAD9
+    genes like GmCAD9.
 phenotype_synopsis: Knockout of GmSRG16 in soybean leads to enhanced cadmium
   tolerance which leads to more developed roots, larger plant architecture, and
   reduced signs of heavy metal stress despite higher cadmium accumulation in
-  roots
+  roots.
 traits:
   - entity_name: cadmium content trait
     entity: TO:0006059
@@ -41,7 +41,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmCAD9L
-gene_symbol_long: Cinnamyl alcohol dehydrogenase 9-related
+gene_symbol_long: Cinnamyl Alcohol Dehydrogenase 9-Related
 gene_model_pub_name: Glyma.08G145900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G145900
 confidence: 5
@@ -49,18 +49,18 @@ curators:
   - Molly Hardacre
 comments:
   - GmCAD9L is a downstream target gene of GmSRG16 and is positively involved in
-    mediating cadmium tolerance in soybean
+    mediating cadmium tolerance in soybean.
   - Overexpression of GmCAD9L enhances cadmium tolerance in soybean, resulting
-    in improved resistance to heavy metal stress
+    in improved resistance to heavy metal stress.
   - GmCAD9L functions in the phenylpropanoid metabolic pathway, which is
-    activated in GmSRG16 knockout plants leading to enhanced cadmium tolerance
+    activated in GmSRG16 knockout plants leading to enhanced cadmium tolerance.
   - GmCAD9L overexpression increases the accumulation of coniferin, a lignin
     precursor metabolite that chelates cadmium ions, which alleviates cadmium
-    toxicity
+    toxicity.
 phenotype_synopsis: Upregulation of GmCAD9L enhances cadmium tolerance in
   soybean by activating phenylpropanoid metabolism and promoting the
   accumulation of coniferin that chelates cadmium ions, which reduces toxicity
-  and maintains root growth
+  and maintains root growth.
 traits:
   - entity_name: cadmium content trait
     entity: TO:0006059
