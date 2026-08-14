@@ -1,7 +1,8 @@
 ---
-scientific_name:
+# IN PROCESS
+scientific_name: Lupinus angustifolius
 classical_locus:
-gene_symbols:
+gene_symbols: LanFTc1
   -
 gene_symbol_long:
 gene_model_pub_name:
@@ -10,16 +11,46 @@ confidence:
 curators:
   - Amy Pollpeter
 comments:
-  -
+  - The FT gene in Arabidopsis is known as a floral promoter gene that responds to signals from photoperiod, veranalization (cold period) and other floral pathways.
+  - 3 subclades of the FT gene have been identified in legumes - FTa, FTb and FTc, however the exact role of these genes seems complex and differs in different legume genera.
+  - The two genes referred to in this paper are homologous to the FT gene in Arabidopsis gene model At1g65480.
 phenotype_synopsis:
 traits:
   - entity_name:
     entity:
 references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
-    doi:
-    pmid:
+    doi: 10.1111/nph.14094
+    pmid: 27418400
   - citation:
     doi:
     pmid:
 ---
+
+scientific_name: Lupinus angustifolius
+classical_locus:
+gene_symbols: LanFTc2
+  -
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  - Amy Pollpeter
+comments:
+  - The FT gene in Arabidopsis is known as a floral promoter gene that responds to signals from photoperiod, veranalization (cold period) and other floral pathways.
+  - 3 subclades of the FT gene have been identified in legumes - FTa, FTb and FTc, however the exact role of these genes seems complex and differs in different legume genera.
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Nelson, Ksiazkiewicz et al., 2017
+    doi: 10.1111/nph.14094
+    pmid: 27418400
+  - citation:
+    doi:
+    pmid:
+---
+
