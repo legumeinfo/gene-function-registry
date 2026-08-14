@@ -1,9 +1,5 @@
 ---
-# DIRECTIONS
-# As your first curation assignment, read the paper Tang, Su et al., 2017 (doi: 10.1093/jxb/erw425).
-# Create your own yml file based on the blank and annotated templates below.
-# Name your new file "glyma.Tang_Su_2012_practice.yml."
-# When you are done, compare your yml file to the Answer Key provided below.
+#Realized after I created this branch that the correct year should be 2017.  I looked at the advanced access date instead of the publication date.
 ---
 # BLANK TEMPLATE
 scientific_name: Glycine max
