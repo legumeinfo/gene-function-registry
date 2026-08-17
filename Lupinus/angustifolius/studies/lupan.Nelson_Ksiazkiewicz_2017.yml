@@ -28,12 +28,10 @@ phenotype_synopsis:
 - Australian breeders rely on the Ku dominant locus for breeding as it removes the requirement for a vernalization period.
 - LanFTc1 showed molecular and physiological concordance with plants exhibiting the Ku allele.
 traits:
-  - entity_name: Early Flowering Time
-    entity:
-  - entity_name: Vernalization Response
-    entity:
-  - entity_name: Ku allele
-    entity:
+  - entity_name: days to flowering
+    entity: TO:0000344
+  - entity_name: regulation of vernalization Response
+    entity: GO:0010219
 references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
     doi: 10.1111/nph.14094
@@ -59,8 +57,10 @@ comments:
   - 
 phenotype_synopsis:
 traits:
-  - entity_name:
-    entity:
+  - entity_name: days to flowering
+    entity: TO:0000344
+  - entity_name: regulation of vernalization Response
+    entity: GO:0010219
 references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
     doi: 10.1111/nph.14094
