@@ -14,9 +14,15 @@ comments:
   - The FT gene in Arabidopsis is known as a floral promoter gene that responds to signals from photoperiod, veranalization (cold period) and other floral pathways.
   - 3 subclades of the FT gene have been identified in legumes - FTa, FTb and FTc, however the exact role of these genes seems complex and differs in different legume genera.
   - The two genes referred to in this paper are homologous to the FT gene in Arabidopsis gene model At1g65480.
+  - Goal was to determine the gene responsible for the Ku allele used by breeders in Australia and Europe which results in early flowering time.
+  - Primer pairs targeting the second and third exons of the resulted in two fragments, 231 bp and 293 bp.
+  - Three acessions were used: 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
+  - The 231 bp fragment contained a SNP that co-segregated witht he Ku locus in aceession P27255 (Vernalization responsive strain), this SNP was not present in 83A:476 (Vernalization insensitive) and Sonet strains.
+  - The 293 bp fragment was identifical in all 3 accessions.
+  - 231 bp fragment named LanFTc1, and 293 bp fragment named LanFTc2
 phenotype_synopsis:
 traits:
-  - entity_name:
+  - entity_name: Early Flowering Time
     entity:
 references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
