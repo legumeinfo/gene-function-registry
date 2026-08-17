@@ -3,9 +3,9 @@
 scientific_name: Phaseolus vulgaris
 classical_locus:
 gene_symbols: PHYA3
-  -
-gene_symbol_long:
-gene_model_pub_name:
+  - 
+gene_symbol_long: Phytochrome A
+gene_model_pub_name: PhvulG221100
 gene_model_full_id:
 confidence:
 curators:
@@ -13,6 +13,18 @@ curators:
 comments:
   -
 phenotype_synopsis: PHYA3 identified as strong candidate for Ppd (Photoperiod insensitive) phenotype allowing for flowering in long day conditions.
+
+gene_symbols: TFL1y
+  - 
+gene_symbol_long:
+gene_model_pub_name: PhvulG189200
+gene_model_full_id:
+confidence:
+curators:
+  -Amy Pollpeter
+comments: 
+
+phenotype_synopsis: 
 
 traits:
   - entity_name:
