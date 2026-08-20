@@ -1,0 +1,35 @@
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhRD21B
+gene_symbol_long: Responsive to desiccation 21B
+gene_model_pub_name: AH16G47510.1
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16g475100
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - AhRD21B is a papain-like cysteine protease gene in cultivated peanut that is
+    strongly induced by low-temperature stress, indicating its role in cold
+    tolerance
+  - The promoter region of AhRD21B contains low-temperature responsive
+    cis-elements, suggesting regulation by cold stress signals
+  - Overexpression of AhRD21B in transgenic Arabidopsis significantly enhances
+    freezing tolerance, reflected by higher survival rates and reduced
+    electrolyte leakage compared to wild-type plants
+  - AhRD21B positively regulates the expression of C-repeat binding factor
+    transcription and their downstream cold-responsive genes (RD29A, KIN1,
+    COR47, COR15A, COR15b, and COR414), indicating involvement in the C-repeat
+    binding factor-dependent cold signaling pathway
+  - Subcellular localization shows AhRD21B functions in the cytoplasm, nucleus,
+    and plasma membrane, suggesting multiple cellular roles during cold stress
+    response
+phenotype_synopsis: Overexpression of AhRD21B in transgenic Arabidopsis leads to
+  enhanced chilling tolerance, characterized by increased survival rates and
+  reduced cellular damage under low-temperature stress
+traits:
+  - entity_name: chilling stress response
+    entity: TO:0001150
+references:
+  - citation: Zhang, Chen, et al., 2023
+    doi: 10.1016/j.envexpbot.2023.105272
