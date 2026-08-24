@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSW6
+gene_symbol_long: Seed Weight 6
+gene_model_pub_name: Glyma.06G072400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G072400
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmSW6 encodes a 2-oxoglutarate Fe(II)-dependent dioxygenase that acts as a
+    master regulator of 100-seed weight in soybean.
+  - Natural variation in GmSW6, specifically a G/Ins 10-bp insertion
+    polymorphism, defines haplotypes that significantly affect seed weight, with
+    the GmSW6^G allele associated with heavier seeds.
+  - Knockout of GmSW6 leads to increased seed weight and protein content while
+    reducing oil content, revealing its pleiotropic effects.
+  - The transcription factor GmSW13 directly activates GmSW6 expression, forming
+    a regulatory module that controls seed weight and quality by modulating
+    downstream genes like GmOLEO1.
+  - The favorable GmSW6^G allele was subject to strong positive selection during
+    soybean domestication and modern breeding, with its frequency rising notably
+    from wild soybeans to improved cultivars.
+phenotype_synopsis: GmSW6 regulates soybean seed development by modulating seed
+  weight, protein, and oil content, where loss-of-function mutants produce
+  larger seeds with increased protein but decreased oil.
+traits:
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed protein content
+    entity: TO:0000490
+  - entity_name: fatty acid content trait
+    entity: TO:0001170
+references:
+  - citation: Zhang, Ge et al., 2026
+    doi: 10.1016/j.jare.2026.07.014
+    pmid: 42401335
