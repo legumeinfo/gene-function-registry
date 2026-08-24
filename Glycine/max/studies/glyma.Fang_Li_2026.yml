@@ -10,14 +10,14 @@ curators:
   - Molly Hardacre
 comments:
   - GmDYT1a and GmDYT1c are two bHLH transcription factor genes in soybean that
-    function redundantly to regulate pollen development and male fertility
+    function redundantly to regulate pollen development and male fertility.
   - Knockout of both GmDYT1a and GmDYT1c via CRISPR/Cas9 leads to complete male
     sterility characterized by microspore degeneration and absence of viable
-    pollen, while single mutants remain fertile
+    pollen, while single mutants remain fertile.
   - GmDYT1a exhibits broad expression in multiple tissues including leaves and
-    floral organs
+    floral organs.
 phenotype_synopsis: The simultaneous knockout of the functionally redundant
-  GmDYT1a and GmDYT1c genes in soybean results in complete male sterility
+  GmDYT1a and GmDYT1c genes in soybean results in complete male sterility.
 traits:
   - entity_name: plant male sterility
     entity: TO:0000437
@@ -42,17 +42,17 @@ curators:
 comments:
   - Subcellular localization studies showed that GmDYT1a and GmDYT1c proteins
     have distinct cellular distributions suggesting possible functional
-    divergence despite redundancy in male fertility regulation
+    divergence despite redundancy in male fertility regulation.
   - Unlike GmDYT1a and GmDYT1c, GmDYT1b showed almost no detectable expression
     in floral tissues and its knockout had no effect on male fertility,
-    indicating it does not regulate male sterility in soybean
+    indicating it does not regulate male sterility in soybean.
   - The conserved DYT1–TDF1–AMS regulatory pathway involving GmDYT1a and GmDYT1c
     was confirmed in soybean, supporting their role as key upstream regulators
-    of pollen development similar to other plant species
+    of pollen development similar to other plant species.
   - GmDYT1c expression is predominantly flower-specific at late anther
-    developmental stages
+    developmental stages.
 phenotype_synopsis: The simultaneous knockout of the functionally redundant
-  GmDYT1a and GmDYT1c genes in soybean results in complete male sterility
+  GmDYT1a and GmDYT1c genes in soybean results in complete male sterility.
 traits:
   - entity_name: plant male sterility
     entity: TO:0000437
