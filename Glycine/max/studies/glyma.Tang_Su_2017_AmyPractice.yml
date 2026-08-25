@@ -1,23 +1,17 @@
 ---
-#Realized after I created this branch that the correct year should be 2017.  I looked at the advanced access date instead of the publication date.
----
 scientific_name: Glycine max
 gene_symbols: GmCIF1
-  -
 gene_symbol_long: Cell wall/Vacuolar Inhibitor of Fructosidase I
 gene_model_pub_name: Glyma.17G036300
 gene_model_full_id: 	glyma.Wm82.gnm4.Gm17:2662794
 confidence: 4
 curators: Amy Pollpeter
-  -
 comments: 
 - GmCIF1 is an invertase inhibitor that showed a higher affinity for Cell wall invertases than vacuolar invertase.
-- GMCIF1 had high homology (>40%) to AtCIF1.
 - Treatment with ABA resulted in increased expression of both GmCIF1 and GmC/VIF2.
 - Fluorescence studies showed that both GmCIF1 and GmC/VIF2 had extracellular targets.
 - RNAi plants showed a prolonged plant greening period of approximately 4-6d.
 - Suppression of GmCIF1 resulted in an increase of starch and protein in mature seeds.  Hexoses increased statistically, sucrose increased as well, but not significantly.
--
 phenotype_synopsis: Suppression of GmCIF1 in RNAi plants increased seed weight, but did not show a statistical effect on germination rate. 
 traits:
 - entity_name: seed weight
@@ -28,29 +22,6 @@ traits:
   entity: TO:0000490
 - entity_name: starch content
   entity: TO:0000696
-
----
-scientific_name: Glycine max
-gene_symbols: GmC/CIF2
-  -
-gene_symbol_long: Cell wall or Vacuolar Inhibitor of Fructosidase 2
-gene_model_pub_name: Glyma.17G036400
-gene_model_full_id: 	glyma.Wm82.gnm4.Gm17:2665937
-confidence: 4
-curators: Amy Pollpeter
-  -
-comments: 
--In the RNAi experiment reported in the paper, there appeared to be an issue with the transformation leading to now positive G/VIF2-silenced plants being identified.
-- Recombinant GMC/VIF2 resulted in a maximum inhibition of 80% decrease in cell wall invertase activity and 75% decrease in vacuolar invertase activity.
-- GmC/VIF2 showed more expression in flowers, developing seeds, and roots.
-- ABA treatment increased GmC/VIF2 expression.
-# Question: Since there were no RNAi plants, do I report a phenotype?  It reported in the paper that the transformation appeared to not work for this gene.
-- Should I use the same traits as the first gene in this case because it wasn't truly tested phenotypically in this paper?
-phenotype_synopsis: 
-
-traits:
-- entity_name: seed growth and development
-  entity: TO:0000653
 references:
 - citation: Tang, Su, et al., 2017
   doi: 10.1093/jxb/erw425
