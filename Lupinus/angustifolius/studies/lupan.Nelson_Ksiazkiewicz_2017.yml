@@ -1,32 +1,20 @@
 ---
-# IN PROCESS
 scientific_name: Lupinus angustifolius
 classical_locus:
 gene_symbols: LanFTc1
 gene_symbol_long: Flowering Locus T c1
 gene_model_pub_name: LanFTc1
-gene_model_full_id:
-confidence:  3 (unless there is any type of tranformation or knock out plants)
+gene_model_full_id: lupan.Tanjil.gnm1.ann1.Lup015264
+confidence: 3
 curators:
-  - Amy Pollpeter
+- Amy Pollpeter
 comments:
-  - The FT gene in Arabidopsis is known as a floral promoter gene that responds to signals from photoperiod, veranalization (cold period) and other floral pathways.
-  - 3 subclades of the FT gene have been identified in legumes - FTa, FTb and FTc, however the exact role of these genes seems complex and differs in different legume genera.
-  - The two genes referred to in this paper are homologous to the FT gene in Arabidopsis gene model At1g65480.
-  - Goal was to determine the gene responsible for the Ku allele used by breeders in Australia and Europe which results in early flowering time.
-  - Primer pairs targeting the second and third exons of the resulted in two fragments, 231 bp and 293 bp.
-  - Three acessions were used: 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
-  - The 231 bp fragment contained a SNP that co-segregated witht he Ku locus in aceession P27255 (Vernalization responsive strain), this SNP was not present in 83A:476 (Vernalization insensitive) and Sonet strains.
-  - The 293 bp fragment was identifical in all 3 accessions.
-  - 231 bp fragment named LanFTc1, and 293 bp fragment named LanFTc2
-  Keep these
-  - LanFTc1 expressed dramatically increased in vernalization-responsive ku line (P27255) with vernalization
-  - LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines (83A:476) was  equivalent to the corresponding tissues of vernalized P27255 plants and was not affected by vernalization.
-  - LanFTc2 showed a 7-fold increase in response to vernalization in the shoot meristems of 83A:476 (vernalization-insensitive line).
-  - Three acessions were used 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
-phenotype_synopsis: remove these (move to notes). Not required.
 - Australian breeders rely on the Ku dominant locus for breeding as it removes the requirement for a vernalization period.
 - LanFTc1 showed molecular and physiological concordance with plants exhibiting the Ku allele.
+- LanFTc1 expression dramatically increased in vernalization-responsive ku line (P27255) with vernalization
+- LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines (83A:476) was  equivalent to the corresponding tissues of vernalized P27255 plants and was not affected by vernalization.
+- Three acessions were used 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
+phenotype_synopsis: 
 traits:
   - entity_name: days to flowering
     entity: TO:0000344
@@ -36,25 +24,19 @@ references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
     doi: 10.1111/nph.14094
     pmid: 27418400
-  - citation:
-    doi:
-    pmid:
 ---
 
 scientific_name: Lupinus angustifolius
 classical_locus:
 gene_symbols: LanFTc2
-  -
-gene_symbol_long:
-gene_model_pub_name:
-gene_model_full_id:
-confidence:
+gene_symbol_long: Flowering locus T c2
+gene_model_pub_name:LanFTc2
+gene_model_full_id: lupan.Tanjil.gnm1.ann1.Lup005674
+confidence: 3
 curators:
   - Amy Pollpeter
-comments:
-  - The FT gene in Arabidopsis is known as a floral promoter gene that responds to signals from photoperiod, veranalization (cold period) and other floral pathways.
-  - 3 subclades of the FT gene have been identified in legumes - FTa, FTb and FTc, however the exact role of these genes seems complex and differs in different legume genera.
-  - 
+comments: 
+- LanFTc2 showed a 7-fold increase in response to vernalization in the shoot meristems of 83A:476 (vernalization-insensitive line).
 phenotype_synopsis:
 traits:
   - entity_name: days to flowering
@@ -65,8 +47,5 @@ references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
     doi: 10.1111/nph.14094
     pmid: 27418400
-  - citation:
-    doi:
-    pmid:
 ---
 
