@@ -3,11 +3,10 @@
 scientific_name: Lupinus angustifolius
 classical_locus:
 gene_symbols: LanFTc1
-  -
 gene_symbol_long: Flowering Locus T c1
-gene_model_pub_name:
+gene_model_pub_name: LanFTc1
 gene_model_full_id:
-confidence: 4
+confidence:  3 (unless there is any type of tranformation or knock out plants)
 curators:
   - Amy Pollpeter
 comments:
@@ -20,17 +19,18 @@ comments:
   - The 231 bp fragment contained a SNP that co-segregated witht he Ku locus in aceession P27255 (Vernalization responsive strain), this SNP was not present in 83A:476 (Vernalization insensitive) and Sonet strains.
   - The 293 bp fragment was identifical in all 3 accessions.
   - 231 bp fragment named LanFTc1, and 293 bp fragment named LanFTc2
+  Keep these
   - LanFTc1 expressed dramatically increased in vernalization-responsive ku line (P27255) with vernalization
   - LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines (83A:476) was  equivalent to the corresponding tissues of vernalized P27255 plants and was not affected by vernalization.
   - LanFTc2 showed a 7-fold increase in response to vernalization in the shoot meristems of 83A:476 (vernalization-insensitive line).
-  
-phenotype_synopsis:
+  - Three acessions were used 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
+phenotype_synopsis: remove these (move to notes). Not required.
 - Australian breeders rely on the Ku dominant locus for breeding as it removes the requirement for a vernalization period.
 - LanFTc1 showed molecular and physiological concordance with plants exhibiting the Ku allele.
 traits:
   - entity_name: days to flowering
     entity: TO:0000344
-  - entity_name: regulation of vernalization Response
+  - entity_name: regulation of vernalization response
     entity: GO:0010219
 references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
