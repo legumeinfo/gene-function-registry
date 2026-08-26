@@ -4,46 +4,21 @@ classical_locus: Ppd
 gene_symbols: PHYA3
 gene_symbol_long: Phytochrome A
 gene_model_pub_name: Phvul.001G221100
-gene_model_full_id:
-confidence:
+gene_model_full_id: phavu.G19833.gnm1.ann1.Phvul.001G221100
+confidence: 3
 curators:
   -Amy Pollpeter
 comments:
   - Wild accessions - G12873 from mesoamerica - indeterminate growth habit, photoperiod sensitive (requires short days).
   - Domesticated accession - cv. Midas - from Andean - determinate growth habit, photoperiod insensitive (grows and flowers in long days)
-  - These traits previously associated with 2 loci on Chromosome 1. Fin - Indeterminate growth, fin - determinate growth; Ppd - photoperiod sensitive, ppd - photoperiod insensitive
-  - 
+  - These traits previously associated with 2 loci on Chromosome 1. Fin - Indeterminate growth, fin - determinate growth; Ppd - photoperiod sensitive, ppd - photoperiod insensitive.
+  - Fin previously associated with TFL1y gene.
+  - Identified a deleterious PHYA3 sequence in ppd (photoperiod insensitive) plants in several accessions of Andean origin.
+  - 2nd deleterious allel present in photoperiod insensitive ppd plants in some Mesoamerican accessions.
+  - PHYA3 and Ppd have been associated to each other in other legumes (soybean).
 phenotype_synopsis:
 references:
   - citation: Weller, Vander Schoor et al., 2019
     doi: 10.1093/jxb/ery455
     pmid: 31222352
-  - citation:
-    doi:
-    pmid:
----
-scientific_name: Phaseolus vulgaris
-classical_locus:
-gene_symbols: TFL1y
-  - 
-gene_symbol_long:
-gene_model_pub_name: PhvulG189200
-gene_model_full_id:
-confidence:
-curators:
-  -Amy Pollpeter
-comments: 
-
-phenotype_synopsis: 
-
-traits:
-  - entity_name:
-    entity:
-references:
-  - citation: Weller, Vander Schoor et al., 2019
-    doi: 10.1093/jxb/ery455
-    pmid: 31222352
-  - citation:
-    doi:
-    pmid:
 ---
