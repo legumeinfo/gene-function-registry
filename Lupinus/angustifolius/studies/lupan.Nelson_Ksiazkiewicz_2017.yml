@@ -1,20 +1,20 @@
 ---
 scientific_name: Lupinus angustifolius
-classical_locus:
+classical_locus: Ku
 gene_symbols: LanFTc1
 gene_symbol_long: Flowering Locus T c1
 gene_model_pub_name: LanFTc1
 gene_model_full_id: lupan.Tanjil.gnm1.ann1.Lup015264
 confidence: 3
 curators:
-- Amy Pollpeter
+  - Amy Pollpeter
 comments:
-- Australian breeders rely on the Ku dominant locus for breeding as it removes the requirement for a vernalization period.
-- LanFTc1 showed molecular and physiological concordance with plants exhibiting the Ku allele.
-- LanFTc1 expression dramatically increased in vernalization-responsive ku line (P27255) with vernalization
-- LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines (83A:476) was  equivalent to the corresponding tissues of vernalized P27255 plants and was not affected by vernalization.
-- Three acessions were used 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
-phenotype_synopsis: 
+  - Australian breeders rely on the Ku dominant locus for breeding as it removes the requirement for a vernalization period.
+  - LanFTc1 showed molecular and physiological concordance with plants exhibiting the Ku allele.
+  - LanFTc1 expression dramatically increased in vernalization-responsive ku line (P27255) with vernalization
+  - LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines (83A:476) was  equivalent to the corresponding tissues of vernalized P27255 plants and was not affected by vernalization.
+  - Three acessions were used 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
+phenotype_synopsis:
 traits:
   - entity_name: days to flowering
     entity: TO:0000344
@@ -36,7 +36,7 @@ confidence: 3
 curators:
   - Amy Pollpeter
 comments: 
-- LanFTc2 showed a 7-fold increase in response to vernalization in the shoot meristems of 83A:476 (vernalization-insensitive line).
+  - LanFTc2 showed a 7-fold increase in response to vernalization in the shoot meristems of 83A:476 (vernalization-insensitive line).
 phenotype_synopsis:
 traits:
   - entity_name: days to flowering
