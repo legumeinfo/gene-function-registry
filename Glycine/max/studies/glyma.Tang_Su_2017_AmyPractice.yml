@@ -12,7 +12,7 @@ comments:
   - Fluorescence studies showed that both GmCIF1 and GmC/VIF2 had extracellular targets.
   - RNAi plants showed a prolonged plant greening period of approximately 4-6d.
   - Suppression of GmCIF1 resulted in an increase of starch and protein in mature seeds.  Hexoses increased statistically, sucrose increased as well, but not significantly.
-phenotype_synopsis: Suppression of GmCIF1 in RNAi plants increased seed weight, but did not show a statistical effect on germination rate. 
+phenotype_synopsis: Suppression of GmCIF1 in RNAi plants increased seed weight, but did not show a statistical effect on germination rate.
 traits:
   - entity_name: seed weight
     entity: TO:0000181
