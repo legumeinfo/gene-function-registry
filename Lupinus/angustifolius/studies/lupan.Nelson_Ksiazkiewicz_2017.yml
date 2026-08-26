@@ -30,7 +30,7 @@ scientific_name: Lupinus angustifolius
 classical_locus:
 gene_symbols: LanFTc2
 gene_symbol_long: Flowering locus T c2
-gene_model_pub_name:LanFTc2
+gene_model_pub_name: LanFTc2
 gene_model_full_id: lupan.Tanjil.gnm1.ann1.Lup005674
 confidence: 3
 curators:
