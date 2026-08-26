@@ -7,24 +7,24 @@ gene_model_full_id: 	glyma.Wm82.gnm4.Gm17.2662794
 confidence: 4
 curators: Amy Pollpeter
 comments:
-- GmCIF1 is an invertase inhibitor that showed a higher affinity for Cell wall invertases than vacuolar invertase.
-- Treatment with ABA resulted in increased expression of both GmCIF1 and GmC/VIF2.
-- Fluorescence studies showed that both GmCIF1 and GmC/VIF2 had extracellular targets.
-- RNAi plants showed a prolonged plant greening period of approximately 4-6d.
-- Suppression of GmCIF1 resulted in an increase of starch and protein in mature seeds.  Hexoses increased statistically, sucrose increased as well, but not significantly.
+  - GmCIF1 is an invertase inhibitor that showed a higher affinity for Cell wall invertases than vacuolar invertase.
+  - Treatment with ABA resulted in increased expression of both GmCIF1 and GmC/VIF2.
+  - Fluorescence studies showed that both GmCIF1 and GmC/VIF2 had extracellular targets.
+  - RNAi plants showed a prolonged plant greening period of approximately 4-6d.
+  - Suppression of GmCIF1 resulted in an increase of starch and protein in mature seeds.  Hexoses increased statistically, sucrose increased as well, but not significantly.
 phenotype_synopsis: Suppression of GmCIF1 in RNAi plants increased seed weight, but did not show a statistical effect on germination rate. 
 traits:
-- entity_name: seed weight
-  entity: TO:0000181
-- entity_name: seed growth and development
-  entity: TO:0000653
-- entity_name: seed protein content
-  entity: TO:0000490
-- entity_name: starch content
-  entity: TO:0000696
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed growth and development
+    entity: TO:0000653
+  - entity_name: seed protein content
+    entity: TO:0000490
+  - entity_name: starch content
+    entity: TO:0000696
 references:
-- citation: Tang, Su, et al., 2017
-  doi: 10.1093/jxb/erw425
-  pmid: 28204559
+  - citation: Tang, Su, et al., 2017
+    doi: 10.1093/jxb/erw425
+    pmid: 28204559
 ---
 
