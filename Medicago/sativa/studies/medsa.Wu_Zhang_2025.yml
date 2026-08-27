@@ -18,9 +18,7 @@ references:
   - citation: Wu, Zhang et al., 2025
     doi: 10.1371/journal.pone.0322981
     pmid: 40338965
-  - citation:
-    doi:
-    pmid:
+
 ---
 
 scientific_name: Medicago sativa
@@ -42,7 +40,5 @@ references:
   - citation: Wu, Zhang et al., 2025
     doi: 10.1371/journal.pone.0322981
     pmid: 40338965
-  - citation:
-    doi:
-    pmid:
+
 ---
