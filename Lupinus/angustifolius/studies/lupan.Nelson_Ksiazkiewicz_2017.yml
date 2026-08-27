@@ -9,12 +9,29 @@ confidence: 3
 curators:
   - Amy Pollpeter
 comments:
-  - Australian breeders rely on the Ku dominant locus for breeding as it removes the requirement for a vernalization period.
-  - LanFTc1 showed molecular and physiological concordance with plants exhibiting the Ku allele.
-  - LanFTc1 expression dramatically increased in vernalization-responsive ku line (P27255) with vernalization
-  - LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines (83A:476) was  equivalent to the corresponding tissues of vernalized P27255 plants and was not affected by vernalization.
-  - Three acessions were used 83A:476 - Australian vernalization-insensitive line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish vernalization insensitive cultivar used for BAC library construction
+  - Australian breeders rely on the Ku dominant locus for breeding as it removes
+    the requirement for a vernalization period.
+  - LanFTc1 showed molecular and physiological concordance with plants
+    exhibiting the Ku allele.
+  - LanFTc1 expression dramatically increased in vernalization-responsive ku
+    line (P27255) with vernalization
+  - LanFTc1 expression of non-vernalized vernalization-insensitive Ku lines
+    (83A:476) was  equivalent to the corresponding tissues of vernalized P27255
+    plants and was not affected by vernalization.
+  - Three acessions were used 83A:476 - Australian vernalization-insensitive
+    line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish
+    vernalization insensitive cultivar used for BAC library construction
 phenotype_synopsis:
+  - Vernalization in the vernalizataion-responsive (ku) accession - P27255
+    increased LanFTc1 expression in shoot and leaves by 3600 fold and l74,000
+    fold.
+  - In the vernalization insensitive (Ku) plants (83A:476), the expression
+    levels of LanFTc1 were similar in both vernalized and non-vernalized plants
+    at levels similar to the vernalized plants of the vernalization-responsive
+    line (P27255)
+  - An indel in the putative promoter region of intron 3 is suggested as the
+    causal polymorphism resulting in the Ku vernalization-insensitive phenoytpe,
+    but this suggestion needs more experimentation for confirmation.
 traits:
   - entity_name: days to flowering
     entity: TO:0000344
@@ -24,28 +41,5 @@ references:
   - citation: Nelson, Ksiazkiewicz et al., 2017
     doi: 10.1111/nph.14094
     pmid: 27418400
----
 
-scientific_name: Lupinus angustifolius
-classical_locus:
-gene_symbols: LanFTc2
-gene_symbol_long: Flowering locus T c2
-gene_model_pub_name: LanFTc2
-gene_model_full_id: lupan.Tanjil.gnm1.ann1.Lup005674
-confidence: 3
-curators:
-  - Amy Pollpeter
-comments:
-  - LanFTc2 showed a 7-fold increase in response to vernalization in the shoot meristems of 83A:476 (vernalization-insensitive line).
-phenotype_synopsis:
-traits:
-  - entity_name: days to flowering
-    entity: TO:0000344
-  - entity_name: regulation of vernalization Response
-    entity: GO:0010219
-references:
-  - citation: Nelson, Ksiazkiewicz et al., 2017
-    doi: 10.1111/nph.14094
-    pmid: 27418400
 ---
-
