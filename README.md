@@ -22,6 +22,17 @@ The traits.yml file contains one or more yaml "documents", indicated by three le
 
 </details>
 
+## Curation best practices
+- When evaluating a paper to curate, look at the "gensp.report.txt" file to see if the gene(s) and symbol(s) described in the paper have already been handled for this species.
+    - The gene_model_full_id plus the first of the gene_symbols should be unique within a species.
+    - Better yet, run generate_report.pl to get a completely up-to-date report. Just run it with output going to the terminal, like so: ```./scripts/generate_report.sh Glycine max```
+- When available, use a gene from ***glyma.Wm82.gnm4.ann1*** as the gene_model_full_id. This will facilitate comparisons with with our previous work.
+    - After finishing a new study, validate it, like so:
+```./scripts/validate_gfr.sh Pisum/sativum/studies/pissa.Feng_Chen_2025.yml```
+- Pay attention to capitalization in the gene symbols, especially for soybean.
+    - Genes from assembly 1 (which we should only be using if the paper references genes that assembly) have a lower-case g in the middle, e.g. Glyma10g40820; genes for all other assemblies have an upper-case G in the middle, e.g. glyma.Wm82.gnm4.ann1.Glyma.10G261900.
+    - Why this matters: tools that use pangene lookup are case-sensitive.
+
 ## Curation and review process
 Because the curation process for this type of data involves close reading and review of scientific literature, and because several curators will be doing this work, we will prepare the files away from the main Data Store. The workspace for drafting and reviewing the records is at the <a href="https://github.com/legumeinfo/gene-function-registry" target="_blank">gene-function-registry</a> with the yaml documents going into the respective Genus/species/studies directories. In general, a yaml document is associated with a publication (aka "study"), and is named in the `Author_Author_YEAR.yml` pattern. A manuscript may describe one or several genes. Each gene "record" should have its own "document" within the yaml file, where a "document" is signified by a line with three dashes at the top of the document.
 
@@ -82,7 +93,7 @@ The ***gene_symbols*** block is optional. It holds the name of a locus as descri
 
 The ***gene_symbol_long*** block is optional. It holds the "spelled out" or descriptive name of the gene symbol.
 
-The ***gene_model_pub_names)*** block is required. It holds the name of a gene as identified in the first citation from the "references" section. This gene name may be from any annotation. It will typically be "bare," without indication of assembly or annotation versions.
+The ***gene_model_pub_names*** block is required. It holds the name of a gene as identified in the first citation from the "references" section. This gene name may be from any annotation. It will typically be "bare," without indication of assembly or annotation versions.
 
 The ***gene_model_full_ID*** block is required. It holds the fully-qualified gene ID, with components "gensp.Accession.gnm#.ann#.gene_ID". The "gene_ID" may be the same as ***gene_model_pub_name***, but may be different if a corresponding and preferable gene model is available from another assembly and/or annotation. The purpose of this ID is to enable linking this gene to other resources at SoyBase/LIS/PeanutBase.
 
