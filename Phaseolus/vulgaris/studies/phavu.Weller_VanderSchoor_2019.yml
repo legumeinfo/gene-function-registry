@@ -6,19 +6,34 @@ gene_symbol_long: Phytochrome A
 gene_model_pub_name: Phvul.001G221100
 gene_model_full_id: phavu.G19833.gnm1.ann1.Phvul.001G221100
 confidence: 3
-curators:
-  -Amy Pollpeter
+curators: -Amy Pollpeter
 comments:
-  - Wild accessions - G12873 from mesoamerica - indeterminate growth habit, photoperiod sensitive (requires short days).
-  - Domesticated accession - cv. Midas - from Andean - determinate growth habit, photoperiod insensitive (grows and flowers in long days)
-  - These traits previously associated with 2 loci on Chromosome 1. Fin - Indeterminate growth, fin - determinate growth; Ppd - photoperiod sensitive, ppd - photoperiod insensitive.
+  - Wild accessions - G12873 from mesoamerica - indeterminate growth habit,
+    photoperiod sensitive (requires short days).
+  - Domesticated accession - cv. Midas - from Andean - determinate growth habit,
+    photoperiod insensitive (grows and flowers in long days)
+  - These traits previously associated with 2 loci on Chromosome 1. Fin -
+    Indeterminate growth, fin - determinate growth; Ppd - photoperiod sensitive,
+    ppd - photoperiod insensitive.
   - Fin previously associated with TFL1y gene.
-  - Identified a deleterious PHYA3 sequence in ppd (photoperiod insensitive) plants in several accessions of Andean origin.
-  - 2nd deleterious allel present in photoperiod insensitive ppd plants in some Mesoamerican accessions.
+  - Identified a deleterious PHYA3 sequence in ppd (photoperiod insensitive)
+    plants in several accessions of Andean origin.
+  - 2nd deleterious allel present in photoperiod insensitive ppd plants in some
+    Mesoamerican accessions.
   - PHYA3 and Ppd have been associated to each other in other legumes (soybean).
 phenotype_synopsis:
+  - Loss of function mutations in the PHYA3 gene result in photoperiod
+    insensitive plants that show early flowering behavior without the short day
+    requirement of wild accessions.
+  - Two different mutations appear to have resulted in this same phenotype in
+    two different lines of common bean. One in the mesoamerican lineage and one
+    in the Andean lineage.
+  - There is evidence for an epistatic interaction between the Ppd locus
+    associated with PHYA3 and the Fin locus associated with
+    indeterminate/determinate growth habits.
 references:
   - citation: Weller, Vander Schoor et al., 2019
     doi: 10.1093/jxb/ery455
     pmid: 31222352
+
 ---
