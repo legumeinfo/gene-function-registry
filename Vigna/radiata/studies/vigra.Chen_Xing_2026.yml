@@ -2,9 +2,9 @@
 scientific_name: Vigna radiata
 gene_symbols:
   - VrTIFY6B
-gene_symbol_long: TIFY6B protein (?)
+gene_symbol_long: Protein TIFY 6B
 gene_model_pub_name: Vr06g21880
-gene_model_full_id: (?)
+gene_model_full_id: vigra.VC1973A.gnm7.ann1.Vradi01g00000364
 confidence: 5
 curators:
   - Molly Hardacre
@@ -32,7 +32,7 @@ gene_symbols:
   - VrPGIP1
 gene_symbol_long: Polygalacturonase-inhibiting protein 1
 gene_model_pub_name: Vr04g09850
-gene_model_full_id: (?)
+gene_model_full_id: error presented in data
 confidence: 5
 curators:
   - Molly Hardacre
