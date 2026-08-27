@@ -50,7 +50,7 @@ comments:
   -  # If the information is available, briefly describe the function of the gene, what genes it interacts with, and how it is regulated.
   -  # If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interacting gene.
   -  # E.g. "miR172c cleaves the protein product of NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle_Men_2003.yml)."
-phenotype_synopsis:  # Briefly describe the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
+phenotype_synopsis:  # REQUIRED; Briefly describe the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
 traits:  # REQUIRED; at least one "entity" ontology accession describing the function of the gene. Find ontologies by searching this database: https://www.ebi.ac.uk/ols/ontologies
   - entity_name:  # The name of the ontology accession, e.g. "nodulation"
     entity:  # The ontology accession code, e.g. "TO:0000898", with "TO" indicating the Trait Ontology
