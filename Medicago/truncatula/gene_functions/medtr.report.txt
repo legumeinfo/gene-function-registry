@@ -1,5 +1,5 @@
 
-Status for Medicago truncatula (medtr) as of 2026-07-01:
+Status for Medicago truncatula (medtr) as of 2026-08-28:
 
 Count  gene_symbols; Summary for medtr
   --------------------------------------------------
@@ -14,6 +14,7 @@ Count  gene_symbols; Summary for medtr
       1	MtBS1
       1	MtbZIP60
       1	MtBZR1
+      1	MtCAS31
       1	MtCBF4
       1	MtCBS1
       1	MtCCD1
@@ -65,6 +66,7 @@ Count  gene_symbols; Summary for medtr
       1	MtLYK4
       1	MtMIO1
       1	MtMSD1
+      1	MtMYBS1
       1	MtNAD1
       1	MtNAM
       1	MtNAM-2
@@ -81,6 +83,7 @@ Count  gene_symbols; Summary for medtr
       1	MtPIN1
       1	MtPIN3
       1	MtPLP
+      1	MtRAV3
       1	MtRGF3
       1	MtRH1
       1	MtRH2
@@ -93,14 +96,18 @@ Count  gene_symbols; Summary for medtr
       1	MtTFL1
       1	MtUGT73F3
       1	MtVPY
+      1	MtWRKY76
       1	MtYSL3
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for medtr
   --------------------------------------------------
+      1	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0150281
+      1	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0213701
       1	medtr.A17.gnm5.ann1_6.MtrunA17Chr2g0284911
       1	medtr.A17.gnm5.ann1_6.MtrunA17Chr3g0140861
       1	medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0035451
+      1	medtr.A17.gnm5.ann1_6.MtrunA17Chr6g0484671
       1	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0222521
       1	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
       1	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229131
@@ -111,6 +118,7 @@ Count  gene_model_full_id; Summary for medtr
       1	medtr.A17_HM341.gnm4.ann2.Medtr1g030890
       1	medtr.A17_HM341.gnm4.ann2.Medtr1g056530
       1	medtr.A17_HM341.gnm4.ann2.Medtr1g064260
+      1	medtr.A17_HM341.gnm4.ann2.Medtr1g073170
       1	medtr.A17_HM341.gnm4.ann2.Medtr1g090320
       1	medtr.A17_HM341.gnm4.ann2.Medtr1g101600
       1	medtr.A17_HM341.gnm4.ann2.Medtr1g102070
@@ -199,6 +207,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
       1	MtBS1	medtr.A17_HM341.gnm4.ann2.Medtr1g102900
       1	MtbZIP60	medtr.A17_HM341.gnm4.ann2.Medtr4g070860
       1	MtBZR1	medtr.A17_HM341.gnm4.ann2.Medtr3g111680
+      1	MtCAS31	medtr.A17.gnm5.ann1_6.MtrunA17Chr6g0484671
       1	MtCBF4	medtr.A17_HM341.gnm4.ann2.Medtr1g101600
       1	MtCBS1	medtr.A17_HM341.gnm4.ann2.Medtr6g052300
       1	MtCCD1	medtr.A17_HM341.gnm4.ann2.Medtr6g034835
@@ -248,6 +257,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
       1	MtLYK4	medtr.A17_HM341.gnm4.ann2.Medtr5g086120
       1	MtMIO1	medtr.A17_HM341.gnm4.ann2.Medtr5g097060
       1	MtMSD1	medtr.A17_HM341.gnm4.ann2.Medtr1g102070
+      1	MtMYBS1	medtr.A17_HM341.gnm4.ann2.Medtr1g073170
       1	MtNAD1	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0222521
       1	MtNAM	medtr.A17_HM341.gnm4.ann2.Medtr2g078700
       1	MtNAP1	medtr.A17_HM341.gnm4.ann2.Medtr4g084140
@@ -263,6 +273,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
       1	MtPIN1	medtr.A17_HM341.gnm4.ann2.Medtr4g084870
       1	MtPIN3	medtr.A17_HM341.gnm4.ann2.Medtr1g030890
       1	MtPLP	medtr.A17_HM341.gnm4.ann2.Medtr3g077240
+      1	MtRAV3	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0213701
       1	MtRGF3	medtr.A17_HM341.gnm4.ann2.Medtr4g116360
       1	MtRH1	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229101
       1	MtRH2	medtr.A17.gnm5.ann1_6.MtrunA17Chr7g0229131
@@ -273,6 +284,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
       1	MtTCP18	medtr.A17_HM341.gnm4.ann2.Medtr4g111935
       1	MtTFL1	medtr.A17_HM341.gnm4.ann2.Medtr7g104460
       1	MtVPY	medtr.A17_HM341.gnm4.ann2.Medtr6g027840
+      1	MtWRKY76	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0150281
       1	MtYSL3	medtr.A17_HM341.gnm4.ann2.Medtr3g092090
   --------------------------------------------------
 
@@ -324,6 +336,7 @@ Count  PMID   DOI   Citation; Summary for medtr
       1	26410301	10.1105/tpc.15.00476	Jun, Liu et al., 2015
       1	26884486	10.1104/pp.15.01853	Sinharoy, Liu et al., 2016
       1	27245091	10.1111/nph.14017	Wang, Yu et al., 2016
+      1	28602696	10.1016/j.bbrc.2017.06.025	Dong, Song et al., 2017
       1	30397259	10.1038/s41477-018-0286-7	Pecrix, Staton et al., 2018
       1	30416059	10.1016/j.cub.2018.09.031	Gaudioso-Pedraza, Beck et al., 2018
       1	30476329	10.1093/pcp/pcy228	Valdés-López, Jayaraman et al., 2019
@@ -332,6 +345,7 @@ Count  PMID   DOI   Citation; Summary for medtr
       1	30782966	10.1104/pp.18.01588	Laffont, Huault et al., 2019
       1	31061106	10.1104/pp.18.01613	Pislariu, Sinharoy et al., 2019
       1	31208116	10.3390/ijms20122941	Cui, Wang et al., 2019
+      1	31362589	10.1080/15548627.2019.1643656	Li, Liu et al., 2019
       1	31831172	10.1016/j.bbrc.2019.12.017	Li, Li et al., 2019
       1	31856724	10.1186/s12870-019-2194-z	Shen, Kulikova et al., 2019
       1	32303662	10.1105/tpc.19.00609	Ribeiro, Lacchini et al., 2020
@@ -344,6 +358,7 @@ Count  PMID   DOI   Citation; Summary for medtr
       1	33506247	10.1093/jxb/erab033	Zhou, Yang et al., 2023
       1	33606812	10.1371/journal.pone.0247170	Hasan, Singh et al., 2021
       1	33631796	10.1093/plphys/kiaa005	Cheng, Li et al., 2021
+      1	33845331	10.1016/j.plaphy.2021.04.003	Wang, Guo et al., 2021
       1	34329408	10.1093/jxb/erab359	Zhao, Chai et al., 2021
       1	34421956	10.3389/fpls.2021.709625	Li, Ma et al., 2021
       1	34528312	10.1111/tpj.15494	Sun, Huang et al., 2021
@@ -363,11 +378,13 @@ Count  Ontology accession   Description; Summary for medtr
      12	GO:0009877	nodulation
      12	TO:0000898	root nodule morphology trait
       6	PO:0009005	root
+      5	TO:0000227	root length
       4	GO:0009399	nitrogen fixation
-      4	TO:0000227	root length
       4	TO:0000373	inflorescence morphology trait
       4	TO:0000766	petiole length
+      4	TO:0002616	flowering time trait
       4	TO:0002692	root meristem development
+      4	TO:0006001	salt tolerance
       4	TO:0006019	floral organ identity
       3	GO:0009686	gibberellin biosynthetic process
       3	GO:0010582	floral meristem determinacy
@@ -375,7 +392,6 @@ Count  Ontology accession   Description; Summary for medtr
       3	PO:0020121	lateral root
       3	TO:0000071	anthocyanin content
       3	TO:0000163	auxin sensitivity
-      3	TO:0002616	flowering time trait
       3	TO:0002637	Leaf size
       2	GO:0006543	glutamine catabolic process
       2	GO:0009691	cytokinin biosynthetic process
@@ -393,11 +409,13 @@ Count  Ontology accession   Description; Summary for medtr
       2	TO:0000084	root number
       2	TO:0000142	secondary branching of inflorescence
       2	TO:0000145	shoot axis internode length
+      2	TO:0000276	drought tolerance
       2	TO:0000344	days to flowering trait
       2	TO:0000419	vascular leaf morphology trait
       2	TO:0000495	chlorophyll content
       2	TO:0000656	root development trait
       2	TO:0000928	plant structure growth and development trait
+      2	TO:0002600	floral organ size
       2	TO:0002600	Floral organ size
       2	TO:0002637	leaf size
       2	TO:0002661	seed maturation
@@ -406,6 +424,7 @@ Count  Ontology accession   Description; Summary for medtr
       2	TO:0020093	nitrogen content
       2	TO:0020107	plant cell length
       1	GO:0006076	(1->3)-beta-D-glucan catabolic process
+      1	GO:0006970	response to osmotic stress
       1	GO:0009626	plant-type hypersensitive response
       1	GO:0009718	anthocyanin-containing compound metabolic process
       1	GO:0010162	seed dormancy process
@@ -483,10 +502,10 @@ Count  Ontology accession   Description; Summary for medtr
       1	TO:0000899	root nodule weight
       1	TO:0000911	trichome morphology trait
       1	TO:0000927	plant organ growth and development trait
+      1	TO:0000992	gibberellin biosynthesis trait
       1	TO:0001012	lateral root length
       1	TO:0001075	Pulvinus size
       1	TO:0001121	compound leaf morphology trait
-      1	TO:0002600	floral organ size
       1	TO:0002616	vernalization response
       1	TO:0002624	exocarp texture
       1	TO:0002638	shoot meristem development
@@ -494,15 +513,16 @@ Count  Ontology accession   Description; Summary for medtr
       1	TO:0002693	gravity response trait
       1	TO:0002729	fruit senescing quality trait
       1	TO:0003074	root nitrogen content
-      1	TO:0006001	salt tolerance
       1	TO:0006012	carpel morphology trait
       1	TO:0006020	shoot apical meristem development
       1	TO:0006036	stem elongation
       1	TO:0006038	floral organ number
       1	TO:0012012	Leaf senescence duration
+      1	TO:0020019	secondary shoot axis branch number
       1	TO:0020100	nitrate uptake
       1	TO:0020108	root cortical cell length
       1	TO:0020109	vascular bundle development trait
+      1	TO:1000012	whole plant size
       1	TO:1000034	root system iron content
   --------------------------------------------------
 

@@ -12,7 +12,7 @@ curators:  # Name of curators who worked on this
   -
 comments:
   -  # Use if needed
-phenotype_synopsis:  # Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
     entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
