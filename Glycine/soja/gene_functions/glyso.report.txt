@@ -1,32 +1,44 @@
 
-Status for Glycine soja (glyso) as of 2026-07-01:
+Status for Glycine soja (glyso) as of 2026-08-28:
 
 Count  gene_symbols; Summary for glyso
   --------------------------------------------------
       1	GsCHX1
       1	GsERD15B
+      1	GsPER3
+      1	GsWRKY23
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for glyso
   --------------------------------------------------
       1	glyso.PI483463.gnm1.ann1.GlysoPI483463.03G135400
       1	glyso.PI483463.gnm1.ann1.GlysoPI483463.11G164100
+      1	glyso.W05.gnm1.ann1.Glysoja.02G002639
+      1	glyso.W05.gnm1.ann1.Glysoja.10G025790
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for glyso
   --------------------------------------------------
       1	GsCHX1	glyso.PI483463.gnm1.ann1.GlysoPI483463.03G135400
       1	GsERD15B	glyso.PI483463.gnm1.ann1.GlysoPI483463.11G164100
+      1	GsPER3	glyso.W05.gnm1.ann1.Glysoja.10G025790
+      1	GsWRKY23	glyso.W05.gnm1.ann1.Glysoja.02G002639
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for glyso
   --------------------------------------------------
+      2	41548341	10.1016/j.plaphy.2026.111035	Sun, Yu et al., 2026
       1	25004933	10.1038/ncomms5340	Qi, Li et al., 2014
       1	33368860	10.1111/pbi.13536	Jin, Sun et al., 2021
+      1	37687277	10.3390/plants12173030	Sun, Liu et al., 2023
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for glyso
   --------------------------------------------------
-      2	TO:0006001	salt tolerance
+      4	TO:0006001	salt tolerance
+      2	TO:0002657	oxidative stress response
+      1	GO:0004601	peroxidase activity
+      1	TO:0000136	leaf relative water content
+      1	TO:0000442	plant fresh weight
   --------------------------------------------------
 

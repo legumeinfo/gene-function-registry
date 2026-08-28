@@ -1,5 +1,5 @@
 
-Status for Phaseolus vulgaris (phavu) as of 2026-07-01:
+Status for Phaseolus vulgaris (phavu) as of 2026-08-28:
 
 Count  gene_symbols; Summary for phavu
   --------------------------------------------------

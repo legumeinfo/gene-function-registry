@@ -1,19 +1,22 @@
 
-Status for Lotus japonicus (lotja) as of 2026-07-01:
+Status for Lotus japonicus (lotja) as of 2026-08-28:
 
 Count  gene_symbols; Summary for lotja
   --------------------------------------------------
       1	LjNIN
+      1	LjPLT11
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for lotja
   --------------------------------------------------
       1	lotja.MG20.gnm3.ann1.Lj2G3V3373110
+      1	lotja.MG20.gnm3.ann1.Lj4g3v0937820
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for lotja
   --------------------------------------------------
       1	LjNIN	lotja.MG20.gnm3.ann1.Lj2G3V3373110
+      1	LjPLT11	lotja.MG20.gnm3.ann1.Lj4g3v0937820
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for lotja
@@ -22,11 +25,16 @@ Count  PMID   DOI   Citation; Summary for lotja
       1	25246578	10.1073/pnas.1412716111	Soyano, Hirakawa et al., 2014
       1	25416287	10.1093/pcp/pcu168	Soyano, Shimoda et al., 2015
       1	33826745	10.1093/plcell/koab103	Nishida, Nosaki et al., 2021
+      1	34460912	10.1093/jxb/erab402	Tian, Liu et al., 2022
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for lotja
   --------------------------------------------------
+      1	GO:0009399	nitrogen fixation
       1	GO:0009877	nodulation
+      1	GO:0043660	bacteroid-containing symbiosome
       1	GO:0043903	regulation of biological process involved in symbiotic interaction
+      1	GO:0090693	plant organ senescence
+      1	TO:0000898	root nodule morphology trait
   --------------------------------------------------
 
