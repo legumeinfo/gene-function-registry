@@ -21,16 +21,16 @@ comments:
   - 2nd deleterious allel present in photoperiod insensitive ppd plants in some
     Mesoamerican accessions.
   - PHYA3 and Ppd have been associated to each other in other legumes (soybean).
-phenotype_synopsis:
-  - Loss of function mutations in the PHYA3 gene result in photoperiod
-    insensitive plants that show early flowering behavior without the short day
-    requirement of wild accessions.
   - Two different mutations appear to have resulted in this same phenotype in
     two different lines of common bean. One in the mesoamerican lineage and one
     in the Andean lineage.
   - There is evidence for an epistatic interaction between the Ppd locus
     associated with PHYA3 and the Fin locus associated with
     indeterminate/determinate growth habits.
+phenotype_synopsis: Loss of function mutations in the PHYA3 gene result in photoperiod
+    insensitive plants that show early flowering behavior without the short day
+    requirement of wild accessions.
+
 references:
   - citation: Weller, Vander Schoor et al., 2019
     doi: 10.1093/jxb/ery455
