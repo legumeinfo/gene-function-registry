@@ -2,7 +2,7 @@
 scientific_name: Phaseolus vulgaris
 classical_locus: Ppd
 gene_symbols:
-  - PHYA3
+  - PvPHYA3
 gene_symbol_long: Phytochrome A
 gene_model_pub_name: Phvul.001G221100
 gene_model_full_id: phavu.G19833.gnm1.ann1.Phvul.001G221100
