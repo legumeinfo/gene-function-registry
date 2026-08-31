@@ -1,0 +1,38 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmIRT1.1
+gene_symbol_long: IRON-REGULATED TRANSPORTER 1.1
+gene_model_pub_name: Glyma_07g223200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G223200
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmIRT1.1 from soybean functions as a transporter involved in the uptake of
+    iron, manganese, and cadmium ions.
+  - Expression of GmIRT1.1 is primarily induced by iron deficiency and is
+    predominantly localized in the roots.
+  - Overexpression of GmIRT1.1 in Arabidopsis improves tolerance to iron
+    deficiency by enhancing iron accumulation in roots and shoots.
+  - GmIRT1.1 localizes to the plasma membrane, and its localization is regulated
+    by the iron status of the plant, demonstrated in soybean hairy roots.
+  - Transgenic lines of Arabidopsis overexpressing GmIRT1.1 exhibit increased
+    sensitivity to manganese and cadmium toxicity.
+phenotype_synopsis: GmIRT1.1 from soybean is a transporter that mediates uptake
+  of iron, manganese, and cadmium, enhancing iron deficiency tolerance but
+  increasing manganese and cadmium sensitivity when overexpressed in transgenic
+  Arabidopsis.
+traits:
+  - entity_name: mineral and ion transport trait
+    entity: TO:0020096
+  - entity_name: iron ion transport
+    entity: GO:0006826
+  - entity_name: cadmium ion transport
+    entity: GO:0015691
+  - entity_name: manganese ion transport
+    entity: GO:0006828
+references:
+  - citation: Gong, Yin et al., 2024
+    doi: 10.1016/j.plaphy.2024.109010
+    pmid: 39146910
