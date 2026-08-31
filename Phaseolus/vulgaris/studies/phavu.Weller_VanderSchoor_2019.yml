@@ -7,7 +7,8 @@ gene_symbol_long: Phytochrome A
 gene_model_pub_name: Phvul.001G221100
 gene_model_full_id: phavu.G19833.gnm1.ann1.Phvul.001G221100
 confidence: 3
-curators: -Amy Pollpeter
+curators:
+  - Amy Pollpeter
 comments:
   - Wild accessions - G12873 from mesoamerica - indeterminate growth habit,
     photoperiod sensitive (requires short days).
