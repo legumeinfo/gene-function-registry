@@ -22,7 +22,6 @@ comments:
   - Three acessions were used 83A:476 - Australian vernalization-insensitive
     line, P27255 - wild moroccan vernalization-responsive line, Sonet - Polish
     vernalization insensitive cultivar used for BAC library construction
-phenotype_synopsis:
   - Vernalization in the vernalizataion-responsive (ku) accession - P27255
     increased LanFTc1 expression in shoot and leaves by 3600 fold and l74,000
     fold.
@@ -33,6 +32,9 @@ phenotype_synopsis:
   - An indel in the putative promoter region of intron 3 is suggested as the
     causal polymorphism resulting in the Ku vernalization-insensitive phenoytpe,
     but this suggestion needs more experimentation for confirmation.
+phenotype_synopsis: Vernalization increased LanFTc1 expression in
+  vernalization-responsive lines and vernalization insensitive lines had similar
+  LanFTc1 expression levels regardless of vernalization.
 traits:
   - entity_name: days to flowering
     entity: TO:0000344
