@@ -2,31 +2,34 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmPLATZ17
-gene_symbol_long: Plant AT-rich sequence and zinc binding transcription factor 17
+gene_symbol_long: Plant AT-rich Sequence and Zinc Binding Transcription Factor 17
 gene_model_pub_name: Glyma.10G063200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G063200
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmPLATZ17 is a soybean PLATZ transcription factor that is downregulated by
-    drought and abscisic acid treatments
+    drought and abscisic acid treatments.
   - Overexpression of GmPLATZ17 in Arabidopsis and soybean hairy roots led to
     increased drought sensitivity and suppression of stress-associated gene
-    expression
+    expression.
   - GmPLATZ17 protein localizes to the nucleus, supporting its role as a
-    transcriptional regulator
+    transcriptional regulator.
   - GmPLATZ17 interacts physically with the GmDREB5 transcription factor,
     interfering with its ability to bind DNA and activate stress-responsive
-    genes
+    genes.
   - Suppression of GmPLATZ17 enhances drought tolerance in soybean by allowing
-    the activation of downstream stress response genes
+    the activation of downstream stress response genes.
 phenotype_synopsis: GmPLATZ17 overexpression causes increased drought
   sensitivity with inhibited stress gene expression, whereas its suppression
-  enhances drought tolerance in soybean
+  enhances drought tolerance in soybean.
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
+  - entity_name: negative regulation of gene expression
+    entity: GO:0010629
 references:
   - citation: Zhao, Zheng et al., 2022
     doi: 10.1016/j.cj.2022.03.009
@@ -35,30 +38,32 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmDREB5
-gene_symbol_long: Dehydration-responsive element binder 5
+gene_symbol_long: Dehydration-responsive Element Binder 5
 gene_model_pub_name: Glyma.13G298600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G298600
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmDREB5 is a drought-induced DREB transcription factor in soybean that
-    positively regulates drought tolerance
+    positively regulates drought tolerance.
   - Overexpression of GmDREB5 in soybean hairy roots increased drought
-    tolerance, while its knockdown compromised tolerance
+    tolerance, while its knockdown compromised tolerance.
   - GmDREB5 binds directly to dehydration-responsive element (DRE) motifs in
-    promoters of stress-associated genes such as GmDHN
+    promoters of stress-associated genes such as GmDHN.
   - The physical interaction of GmDREB5 with GmPLATZ17 reduces GmDREB5’s
-    DNA-binding affinity, modulating the expression of stress genes
+    DNA-binding affinity, modulating the expression of stress genes.
   - Under drought stress, downregulation of GmPLATZ17 frees GmDREB5 to activate
-    stress-responsive gene expression, improving drought tolerance
+    stress-responsive gene expression, improving drought tolerance.
 phenotype_synopsis: GmDREB5 overexpression improves drought tolerance by
   activating stress-responsive genes, while its knockdown leads to reduced
-  drought tolerance
+  drought tolerance.
 traits:
   - entity_name: drought tolerance
     entity: TO:0000276
+  - entity_name: positive regulation of gene expression
+    entity: GO:0010628
 references:
   - citation: Zhao, Zheng et al., 2022
     doi: 10.1016/j.cj.2022.03.009
-
