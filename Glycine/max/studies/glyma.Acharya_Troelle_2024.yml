@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmPGIP11
-gene_symbol_long: Polygalacturonase inhibiting protein 11
+gene_symbol_long: Polygalacturonase Inhibiting Protein 11
 gene_model_pub_name: Glyma.19G145200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G145200
 confidence: 5
@@ -11,26 +11,26 @@ curators:
 comments:
   - GmPGIP11 is a polygalacturonase inhibiting protein in soybean roots that is
     expressed during defense responses against the soybean cyst nematode,
-    Heterodera glycines, by inhibiting pathogen-secreted polygalacturonases
-    responsible for cell wall degradation
+    Heterodera glycines. PGIP11 inhibits pathogen-secreted polygalacturonases
+    responsible for cell wall degradation.
   - Overexpression of GmPGIP11 in soybean roots leads to increased transcript
     abundance and significantly reduces Heterodera glycines parasitism without
     adversely affecting soybean root growth, whereas RNA interference knockdown
-    of GmPGIP11 increases susceptibility to the nematode
+    of GmPGIP11 increases susceptibility to the nematode.
   - The expression of GmPGIP11 is modulated by components of both PAMP-triggered
-    immunity and effector-triggered immunity signaling pathways
+    immunity and effector-triggered immunity signaling pathways.
   - GmPGIP11 belongs to a small gene family with distinct expression patterns,
-    and unlike other PGIPs, it is specifically upregulated in syncytial nurse
-    cells during the defense response to nematode infection
+    and unlike other PGIPs, it's specifically upregulated in syncytial nurse
+    cells during the defense response to nematode infection.
   - PGIP family genes have been shown to play similar/important roles in plant
     defense (specifically nematode defense) across various species. For example,
     in Arabidopsis thaliana, AtPGIP1 increases in response to Heterodera
-    schachtii invasion, and its loss-of-function mutants are more susceptible,
-    while overexpression restores resistance
+    schachtii invasion. The loss-of-function mutants are more susceptible,
+    whereas overexpression of AtPGIP1 restores resistance.
 phenotype_synopsis: GmPGIP11 functions as a defense-related gene in soybean
   roots, where its overexpression significantly reduces Heterodera glycines
   parasitism without affecting root growth, while its suppression via RNA
-  interference increases susceptibility to the nematode
+  interference increases susceptibility to the nematode.
 traits:
   - entity_name: Heterodera glycines response
     entity: TO:0001111
