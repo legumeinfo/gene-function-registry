@@ -1,0 +1,42 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtJMJC5
+gene_symbol_long: Jumonji C domain-containing gene 5
+gene_model_pub_name: Medtr4g066020
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g066020
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - MtJMJC5 is an ortholog of the Arabidopsis JMJ30/JMJD5 gene, encoding a
+    Jumonji C domain-containing protein involved in circadian clock regulation
+    in Medicago truncatula
+  - MtJMJC5 expression oscillates with a circadian rhythm and is specifically
+    regulated by cold stress through induction of alternative splicing events
+    that generate multiple RNA isoforms
+  - Four alternative splicing variants of MtJMJC5 were identified under cold
+    treatment, including one full-length variant encoding the authentic protein
+    and three premature termination codon containing variants resulting from
+    alternative 3' splice sites
+  - The PTC-containing splicing variants are targets of nonsense-mediated decay,
+    but those variants sharing the 3' alternative splice site at the second
+    intron show reduced sensitivity to nonsense-mediated decay under cold stress
+    compared to variants with only first intron splicing
+  - Cold-dependent alternative splicing of MtJMJC5 likely represents a
+    species-specific mechanism linking circadian clock regulation and cold
+    response, potentially influencing epigenetic regulation and cold-related
+    developmental processes such as flowering time in Medicago truncatula
+phenotype_synopsis: The MtJMJC5 gene, through its cold-induced alternative
+  splicing and regulation of circadian rhythms, is implicated in modulating cold
+  stress responses and may influence cold-related developmental processes such
+  as flowering time in Medicago truncatula
+traits:
+  - entity_name: low temperature stress response
+    entity: TO:0000303
+  - entity_name: temperature compensation of the circadian clock
+    entity: GO:0010378
+references:
+  - citation: Shen, Wu et al., 2016
+    doi: 10.1016/j.bbrc.2016.04.062
+    pmid: 27086112
