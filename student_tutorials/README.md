@@ -29,7 +29,7 @@
 1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)
 2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
-3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and remain the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)
+3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and rename the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)
 </details>
 
 ### Branch management using Git on the terminal
