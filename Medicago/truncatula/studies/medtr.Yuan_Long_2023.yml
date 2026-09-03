@@ -1,0 +1,40 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSOC1c
+gene_symbol_long: SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1C
+gene_model_pub_name: Medtr8g033220
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g033220
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MtSOC1c is a nucleus-localized MADS-box transcription factor homologous to
+    SOC1 genes in other plants and plays a key role in flowering regulation in
+    Medicago truncatula
+  - Overexpression of MtSOC1c accelerates flowering time but reduces overall
+    plant biomass, resulting in shorter stems and fewer node
+  - MtSOC1c overexpression causes notable alterations in seed development,
+    including smaller pods and seeds, reduced embryo cell size, darker seed
+    color, and delayed germination
+  - MtSOC1c physically interacts with other MADS-box proteins MtAGL15 and
+    MtAGL16a/b, suggesting a complex regulatory network mediating both flowering
+    and seed development
+  - Transcriptomic analysis reveals that MtSOC1c influences the expression of
+    genes involved in photosynthesis and hormone signaling pathways,
+    particularly upregulating abscisic acid signaling-related genes like MtHVA22
+    and MtATHB, which contribute to seed dormancy
+phenotype_synopsis: Overexpression of MtSOC1c in Medicago truncatula results in
+  earlier flowering with reduced plant stature, along with altered seed
+  development inlcuding smaller pods and seeds, darker seed color, and delayed
+  seed germination
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: seed growth and development trait
+    entity: TO:0000653
+references:
+  - citation: Yuan, Long et al., 2023
+    doi: 10.1016/j.indcrop.2022.116125
