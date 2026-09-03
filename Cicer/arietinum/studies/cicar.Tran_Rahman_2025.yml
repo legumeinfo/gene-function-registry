@@ -1,0 +1,20 @@
+---
+scientific_name: Cicer arietinum
+gene_symbols:
+  - CaNAC67
+gene_symbol_long:
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Tran, Rahman et al., 2025
+    doi: 10.1016/j.plaphy.2025.110449
+    pmid: 40934611
