@@ -1,0 +1,43 @@
+---
+scientific_name: Phaseolus vulgaris
+classical_locus: Ppd
+gene_symbols:
+  - PvPHYA3
+gene_symbol_long: Phytochrome A
+gene_model_pub_name: Phvul.001G221100
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.001G221100
+confidence: 3
+curators:
+  - Amy Pollpeter
+comments:
+  - Wild accession - G12873 from Mesoamerica - indeterminate growth habit,
+    photoperiod sensitive (requires short days).
+  - Domesticated accession - cv. Midas - from Andean South America - determinate
+    growth habit, photoperiod insensitive (grows and flowers in long days).
+  - These traits previously associated with 2 loci on Chromosome 1. Fin -
+    Indeterminate growth, fin - determinate growth; Ppd - photoperiod sensitive,
+    ppd - photoperiod insensitive.
+  - Fin was previously associated with the TFL1y gene.
+  - Identified a deleterious PHYA3 sequence in ppd (photoperiod insensitive)
+    plants in several accessions of Andean origin.
+  - A 2nd deleterious allele present in photoperiod insensitive ppd plants in
+    some Mesoamerican accessions.
+  - PHYA3 and Ppd have been associated to each other in other legumes (soybean).
+  - Two different mutations appear to have resulted in this same phenotype in
+    two different lines of common bean. One in the Mesoamerican lineage and one
+    in the Andean lineage.
+  - There is evidence for an epistatic interaction between the Ppd locus
+    associated with PHYA3 and the Fin locus associated with
+    indeterminate/determinate growth habits.
+phenotype_synopsis: Loss of function mutations in the PHYA3 gene result in
+  photoperiod insensitive plants that show early flowering behavior without the
+  short day requirement of wild accessions.
+traits:
+  - entity_name: days to flowering trait
+    entity: TO:0000344
+  - entity_name: negative regulation of short-day photoperiodism, flowering
+    entity: GO:0048577
+references:
+  - citation: Weller, Vander Schoor et al., 2019
+    doi: 10.1093/jxb/ery455
+    pmid: 31222352
