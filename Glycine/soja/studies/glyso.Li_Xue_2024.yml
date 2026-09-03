@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine soja
+gene_symbols:
+  - GsWRKY40
+gene_symbol_long: WRKY family transcription factor 40
+gene_model_pub_name: GlysoPI483463.07G020800
+gene_model_full_id: glyso.PI483463.gnm1.ann1.GlysoPI483463.07G020800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+references:
+  - citation: Li, Xue et al., 2024
+    doi: 10.1016/j.cj.2024.03.011
+
+---
+scientific_name: Glycine soja
+gene_symbols:
+  - GsbHLH92
+gene_symbol_long: Basic helix-loop-helix family transcription factor 92
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - 
+phenotype_synopsis:
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+references:
+  - citation: Li, Xue et al., 2024
+    doi: 10.1016/j.cj.2024.03.011
