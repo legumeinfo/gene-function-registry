@@ -1,0 +1,54 @@
+---
+scientific_name: Phaseolus vulgaris
+classical_locus: Fin
+gene_symbols:
+  - PvTFL1y
+gene_symbol_long: Terminal Flower 1
+gene_model_pub_name: Phvul.001G189200
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.001G189200
+confidence: 5
+curators:
+  - Amy Pollpeter
+comments:
+  - PVTFL1 is a funtional homologue of Arabidopsis gene TFL1.
+  - PvTFL1y co-segregates with the fin determinate growth habit phenotype loci.
+  - Andean accessions contain with the fin phenotype have a 1.4kb retrotranposon
+    insertion in exon 4 of the gene.
+  - Mesoamerican accessions contain a substitution at a putative splice site at
+    the end of exon 2.
+  - The expression level of PvTFLy mRNA decreases significantly in plants with
+    the determinate growth habit.
+  - Wild type PvTFL1y gene transformed into Agrobacterium strain GV3101 and
+    introduced into Arabidopsis tfl1-1 mutants (with determinate growth habit)
+    resulted in restoration of the indeterminate growth in 17 out of 19 mutant
+    plants.
+  - In Arabidopsis, TFL1 represses AP1 and LFY to result in repression of floral
+    initiation, maintaining the inflorescence meristem
+  - Both mutations result in loss of function of the TFL1y gene.
+  - Multiple GenBank accessions relate to this gene. The one used to determine
+    the gene model was GenBank JN418230-BAT93-indeterminate control chosen as a
+    core mapping population for the standard genotype. Others include GenBank
+    JN418231-G12873-Indeterminate (wild type) mesoamerican accession;
+    JN418250-Midas-Domesticated Andean accession (mutant);
+    JN418248-CDRK-Determinate (mutant) accession of Andean Origin;
+    JN418223-G00750-Determinate (mutant) accession of Mesoamerican Origin.
+phenotype_synopsis: Wild type accessions have an indeterminate growth habit.
+  Possessing either of the two mutant versions of TFLy results in a determinate
+  growth habit.
+traits:
+  - entity_name: vegetative to reproductive phase transition trait
+    entity: TO:0006021
+  - entity_name: regulation of inflorescence meristem growth
+    entity: GO:0010081
+  - entity_name: maintenance of inflorescence meristem identity
+    entity: GO:0010077
+references:
+  - citation: Repinski, Kwak et al., 2012
+    doi: 10.1007/s00122-012-1808-8
+    pmid: 22331140
+  - citation: Kwak, Velasco et al., 2008
+    doi: 10.1093/jhered/esn005
+    pmid: 18316323
+  - citation: Kwak, Toro et al., 2012
+    doi: 10.1093/aob/mcs207
+    pmid: 23019270
