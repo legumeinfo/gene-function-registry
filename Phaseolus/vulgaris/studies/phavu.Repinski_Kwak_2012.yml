@@ -4,8 +4,8 @@ classical_locus: Fin
 gene_symbols:
   - PvTFL1y
 gene_symbol_long: Terminal Flower 1
-gene_model_pub_name: null
-gene_model_full_id: null
+gene_model_pub_name: Phvul.001G189200
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.001G189200
 confidence: 5
 curators:
   - Amy Pollpeter
@@ -25,6 +25,13 @@ comments:
   - In Arabidopsis, TFL1 represses AP1 and LFY to result in repression of floral
     initiation, maintaining the inflorescence meristem
   - Both mutations result in loss of function of the TFL1y gene.
+  - Multiple GenBank accessions relate to this gene. The one used to determine
+    the gene model was GenBank JN418230-BAT93-indeterminate control chosen as a
+    core mapping population for the standard genotype. Others include GenBank
+    JN418231-G12873-Indeterminate (wild type) mesoamerican accession;
+    JN418250-Midas-Domesticated Andean accession (mutant);
+    JN418248-CDRK-Determinate (mutant) accession of Andean Origin;
+    JN418223-G00750-Determinate (mutant) accession of Mesoamerican Origin.
 phenotype_synopsis: Wild type accessions have an indeterminate growth habit.
   Possessing either of the two mutant versions of TFLy results in a determinate
   growth habit.
