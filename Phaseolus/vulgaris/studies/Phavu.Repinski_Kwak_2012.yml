@@ -1,0 +1,24 @@
+---
+scientific_name: Phaseolus vulgaris
+classical_locus: Fin
+gene_symbols:
+  - PvTFL1y
+gene_symbol_long: Terminal Flower 1
+gene_model_pub_name:
+gene_model_full_id:
+confidence:
+curators:
+  -
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation:
+    doi:
+    pmid:
+  - citation:
+    doi:
+    pmid:
