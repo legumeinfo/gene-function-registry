@@ -1,0 +1,43 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBI-1B
+gene_symbol_long: Bax Inhibitor-1B
+gene_model_pub_name: GLYMA_01G205200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G205200
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmBI-1b is one of four Bax Inhibitor-1 (BI-1) genes identified in soybean
+    and is significantly induced at both RNA and protein levels under drought
+    stress, especially in leaves.
+  - The GmBI-1b protein localizes to the endoplasmic reticulum and contains a
+    BI-1-like superfamily motif along with seven transmembrane domains.
+  - Overexpression of GmBI-1b in soybean enhances drought tolerance by reducing
+    drought-induced cell death and maintaining higher leaf water and chlorophyll
+    content.
+  - Transcriptomic analysis revealed that GmBI-1b upregulates abscisic acid
+    signaling genes, cell death suppression genes, and aquaporin genes, which
+    collectively contribute to improved drought resilience.
+  - BI-1 homologs, including OsBI-1 in rice and AtBI-1 in Arabidopsis, have been
+    identified, and overexpression of these BI-1 genes suppresses Bax-mediated
+    cell death in both yeast and Arabidopsis, demonstrating their conserved role
+    in inhibiting programmed cell death.
+phenotype_synopsis: Overexpression of the GmBI-1b gene in soybean enhances
+  drought tolerance by reducing cell death and maintaining higher leaf water
+  content and chlorophyll levels without affecting plant growth.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: leaf relative water content
+    entity: TO:0000136
+  - entity_name: cell death
+    entity: GO:0008219
+  - entity_name: positive regulation of gene expression
+    entity: GO:0010628
+references:
+  - citation: Liu, Cao, 2026
+    doi: 10.1016/j.plantsci.2026.113408
+    pmid: 42665236
