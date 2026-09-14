@@ -4,7 +4,7 @@ gene_symbols:
   - CaEMB8-like
 gene_symbol_long: Embryogenesis-associated protein 8-like
 gene_model_pub_name: LOC101514452
-gene_model_full_id: cicar.CDCFrontier.gnm1.Ca4 version 1.0
+gene_model_full_id: cicar.CDCFrontier.gnm1.Ca4
 confidence: 3
 curators:
   - AI Curation Assistant
@@ -37,7 +37,7 @@ gene_symbols:
   - CaRPLP0
 gene_symbol_long: Ribosomal Protein Large P0
 gene_model_pub_name: LOC101497480
-gene_model_full_id: cicar.CDCFrontier.gnm1.Ca2 version 1.0
+gene_model_full_id: cicar.CDCFrontier.gnm1.Ca2
 confidence: 3
 curators:
   - AI Curation Assistant
