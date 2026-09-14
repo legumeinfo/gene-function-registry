@@ -1,7 +1,7 @@
 ---
 scientific_name: Cicer arietinum
 gene_symbols:
-  - EMB8
+  - CaEMB8-like
 gene_symbol_long: Embryogenesis-associated protein 8-like
 gene_model_pub_name: LOC101514452
 gene_model_full_id: cicar.CDCFrontier.gnm1.Ca4 version 1.0
@@ -34,7 +34,7 @@ references:
 ---
 scientific_name: Cicer arietinum
 gene_symbols:
-  - RPLP0
+  - CaRPLP0
 gene_symbol_long: Ribosomal Protein Large P0
 gene_model_pub_name: LOC101497480
 gene_model_full_id: cicar.CDCFrontier.gnm1.Ca2 version 1.0
