@@ -1,0 +1,64 @@
+---
+scientific_name: Cicer arietinum
+gene_symbols:
+  - CaEMB8-like
+gene_symbol_long: Embryogenesis-associated protein 8-like
+gene_model_pub_name: LOC101514452
+gene_model_full_id: cicar.CDCFrontier.gnm1.Ca4
+confidence: 3
+curators:
+  - AI Curation Assistant
+  - Amy Pollpeter
+comments:
+  - rs5825813 - Located on chromosome Ca4 within a locus associated with
+    salinity tolerance under hydroponic and field conditions.
+  - Identified via multi-trait genome-wide association analysis (mtGWAS).
+  - Salinity stress was measured with a "stress tolerance rate" (STR) that
+    ranged from 1 to 5.  Salinity resistant plants had an STR of less than 2.5.
+  - STR was based on the percentage of healthy leaves the plant had during 4
+    different scoring periods over a 2 week interval during the experiment.
+  - Acknowledges relatively high LD, which may mean that this gene is not
+    responsible for salinity tolerance, but in LD with one that is.
+phenotype_synopsis: Associated with high salinity tolerance in chickpea
+  genotypes grown in both hydroponic and field conditions.
+traits:
+  - entity_name: hyperosmotic salinity response
+    entity: GO:0042538
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Ahmed, Alsamman et al., 2021
+    doi: 10.1371/journal.pone.0260709
+    pmid: 34852014
+
+---
+scientific_name: Cicer arietinum
+gene_symbols:
+  - CaRPLP0
+gene_symbol_long: Ribosomal Protein Large P0
+gene_model_pub_name: LOC101497480
+gene_model_full_id: cicar.CDCFrontier.gnm1.Ca2
+confidence: 3
+curators:
+  - AI Curation Assistant
+  - Amy Pollpeter
+comments:
+  - Located on chromosome Ca2 within a locus specific to the hydroponic system
+    for salinity tolerance.
+  - Identified via multi-trait genome-wide association analysis (mtGWAS).
+  - Salinity stress was measured with a "stress tolerance rate" (STR) that
+    ranged from 1 to 5.  Salinity resistant plants had an STR of less than 2.5.
+  - STR was based on the percentage of healthy leaves the plant had during 4
+    different scoring periods over a 2 week interval during the experiment.
+  - Acknowledges relatively high LD, which may mean that this gene is not
+    responsible for salinity tolerance, but in LD with one that is.
+phenotype_synopsis: Associated with salinity tolerance in hydroponic screening systems.
+traits:
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+  - entity_name: hyperosmotic salinity response
+    entity: GO:0042538
+references:
+  - citation: Ahmed, Alsamman et al., 2021
+    doi: 10.1371/journal.pone.0260709
+    pmid: 34852014
