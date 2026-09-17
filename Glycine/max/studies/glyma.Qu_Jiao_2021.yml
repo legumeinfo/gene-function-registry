@@ -1,0 +1,36 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - null
+gene_symbol_long: null
+gene_model_pub_name: Gm15G117700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G117700
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - The Gm15G117700 gene was successfully cloned and identified as a regulator
+    involved in soybean oleic acid metabolism
+  - Bioinformatic analysis predicted the Gm15G117700 protein to be a
+    non-secretory, cytoplasmic protein with secondary and tertiary structures
+    similar to homologues in Arabidopsis
+  - Overexpression of Gm15G117700 resulted in a decrease in oleic acid content
+    by approximately 3.94%, while gene editing increased oleic acid by about
+    3.49%, indicating its regulatory role
+  - Expression analysis showed that Gm15G117700 is less active in high oleic
+    soybean varieties and more active in low oleic varieties, suggesting a
+    negative correlation with oleic acid levels
+  - The gene likely influences oleic acid biosynthesis by promoting the
+    conversion from oleic acid to linoleic acid via regulating the FAD2 pathway
+phenotype_synopsis: The Gm15G117700 gene functions as a regulatory element that
+  inversely affects soybean oleic acid content, with its decreased expression
+  associated with higher oleic acid levels
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+references:
+  - citation: Qu, Jiao et al., 2021
+    doi: 10.32604/phyton.2021.015206
+  - citation: Freitas-Alves, Moreira-Pinto et al., 2025
+    doi: 10.1016/j.jare.2024.08.024
+    pmid: 39163906
