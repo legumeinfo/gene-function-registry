@@ -1,0 +1,41 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmHY2a
+  - Gmlin1
+gene_symbol_long: ELONGATED HYPOCOTYL 2a
+gene_model_pub_name: Glyma.02G304700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G304700
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - The disruption of GmHY2a causes soybean mutants (Gmlin1) to exhibit
+    elongated internodes and early flowering due to deregulation of downstream
+    hormones such as auxin and gibberellins
+  - GmHY2a is constitutively expressed across various tissues and is localized
+    within the chloroplast, highlighting its role in chlorophyll and phytochrome
+    biosynthesis
+  - GmHY2a encodes a protochlorophyllide oxidoreductase that is crucial for the
+    biosynthesis of the phytochrome chromophore, phytochromobilin, which is
+    essential for functional phytochromes in soybean
+  - Mutations in GmHY2a lead to deficiency in phytochrome chromophore
+    production, resulting in inactivation of the entire phytochrome system and
+    impaired light signal transduction
+  - Loss-of-function mutations in GmHY2a result in decreased sensitivity to red
+    and far-red light, altering plant developmental responses including
+    hypocotyl elongation and flowering time
+phenotype_synopsis: Mutations in GmHY2a result in soybean plants with elongated
+  internodes, early flowering, and reduced responsiveness to red and far-red
+  light, indicating a disruption in phytochrome-mediated light signaling
+traits:
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: phytochrome chromophore biosynthetic process
+    entity: GO:0048543
+references:
+  - citation: Zhang, Yang et al., 2022
+    doi: 10.1093/jxb/erac318
+    pmid: 35946571
