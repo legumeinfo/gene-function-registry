@@ -1,0 +1,34 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDHN9
+gene_symbol_long: Dehydrin-like protein 9
+gene_model_pub_name: GLYMA_09G185500v4
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G185500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - The GmDHN9 gene is a dehydrin gene from soybean that is significantly
+    upregulated under drought stress, indicating its role in abiotic stress
+    response
+  - GmDHN9 localizes in the cytoplasm, where it potentially interacts with
+    cellular membranes and proteins to confer drought tolerance
+  - Overexpression of GmDHN9 in Arabidopsis enhances drought resistance by
+    improving germination, root growth, chlorophyll retention, and reducing
+    oxidative damage markers like MDA, H2O2, and O2-
+  - GmDHN9 stimulates increased activity of antioxidant enzymes, which help
+    eliminate reactive oxygen species generated during drought stress
+  - GmDHN9 positively regulates drought-responsive genes such as DREB2A, RD17,
+    RD26, and CBF3, thereby enhancing the plant's drought tolerance mechanisms
+    at the molecular level
+phenotype_synopsis: Overexpression of GmDHN9 in Arabidopsis results in improved
+  drought tolerance, longer roots, increased chlorophyll and proline contents,
+  and reduced oxidative damage markers
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+references:
+  - citation: Fan, Zhang et al., 2024
+    doi: 10.1080/21645698.2024.2327116
+    pmid: 38564429
