@@ -1,8 +1,8 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - null
-gene_symbol_long: null
+  - Gm15G117700
+gene_symbol_long: Oleaic acid regulator
 gene_model_pub_name: Gm15G117700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G117700
 confidence: 5
