@@ -10,19 +10,19 @@ curators:
   - Molly Hardacre
 comments:
   - GmCRP is a soybean gene induced by the rhizobial effector NopC, positively
-    regulating nodule formation and nitrogen fixation in soybean
+    regulating nodule formation and nitrogen fixation in soybean.
   - Natural variations in the GmCRP promoter region, particularly the presence
     or absence of GATA motifs, influence the gene's expression response to NopC
-    and consequently affect nodulation traits
+    and consequently affect nodulation traits.
   - Haplotypes of GmCRP, especially Hap 1 and Hap 2, are associated with
     differences in nodulation efficiency, with Hap 1 being favored during
-    soybean domestication
+    soybean domestication.
   - SNPs located in GmCRP’s regulatory regions contribute to its expression
     variability among soybean accessions, impacting symbiosis and nitrogen
-    fixation capability
+    fixation capability.
   - GmCRP homologs in other plants are involved in responses to biotic stresses
     (particularly resistance to insects), suggesting its broader role in plant
-    defense and symbiosis pathways
+    defense and symbiosis pathways.
 phenotype_synopsis: GmCRP influences soybean nodulation by responding to
   rhizobial effectors like NopC, with its expression levels and haplotypes
   associated with variations in nodule number and dry weight, thereby affecting
