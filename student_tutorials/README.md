@@ -26,6 +26,7 @@
 
 
 ### How to curate with GitHub
+<details>
 1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)
 2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper <b><i>NOTE: are we still doing this process - it seems like now we are not making an Issue unless there is a problem (e.g. broken link) or question about something?</b></i>
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
@@ -92,9 +93,10 @@
 </details>
 
 ### How to find ontology terms
+<details>
 - Head to the website "https://www.ebi.ac.uk/ols4" and search in the field under "Welcome to the EMBL-EBI Ontology Lookup Service".  Use keywords and likley trait names to search for ontology terms within their records and travel along the branches of the ontology trees to compare and contrast options.
 
 - Ontologies considered of high value to our project are the Trait Ontology (TO) "describes phenotypic traits in plants. Each trait is a distinguishable feature, characteristic, quality or phenotypic feature of a developing or mature plant", Gene Ontology (GO) "describing the functions of gene products from all organisms", and Plant Ontology (PO) "describes plant anatomy, morphology, and growth and development in plants".
 
 - There are ontologies specific to certain organisms that may also be included such as the Soybean Trait Ontology (SOY) "https://amigo.soybase.org/amigo/amigo/term/SOY:0000099" and the variety of Crop Ontologies (CO) "https://cropontology.org".
-
+</details>
