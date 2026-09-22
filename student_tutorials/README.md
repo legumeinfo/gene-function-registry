@@ -76,7 +76,7 @@
     TO DO
 </details>
 
-### How do determine the 'Confindence Value'
+### How to determine the 'Confindence Value'
 <details>
 - Short Answer: The confidence block is to have values 1 through 5.  This field indicates level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
 - Long Answer: The S-Tier level of 5, and to a lesser extent 4, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest.  A level of 3 would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation.  Levels 1 and 2 would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level 1 or 2 support.
