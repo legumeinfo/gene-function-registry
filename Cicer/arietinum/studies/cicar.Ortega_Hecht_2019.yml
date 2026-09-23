@@ -1,16 +1,14 @@
 ---
 scientific_name: Cicer arietinum
-classical_locus: DTF3A
 gene_symbols:
   - CaFTa1
-  - CaFTc
-gene_symbol_long: FLOWERING LOCUS T
-gene_model_pub_name: GeneID 101497376 (obtained from Supplemenatary Table 1)
-gene_model_full_id: cicar.CDCFrontier.gnm1.Ca3.v1.0
+gene_symbol_long: FLOWERING LOCUS T a1
+gene_model_pub_name: XP_004493127
+gene_model_full_id: cicar.CDCFrontier.gnm3.ann1.Ca3g148300
 confidence: 3
 curators:
-  - AI Curation Assistant
   - Amy Pollpeter
+  - AI Curation Assistant
 comments:
   - Found in a cluster of three FT genes (FTa1, FTa2, FTc - all adjacent) within
     the DTF3A quantitative trait locus.
