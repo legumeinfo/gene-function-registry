@@ -1,0 +1,36 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtCaMP1
+gene_symbol_long: Calcium-binding Motif-containing Protein 1
+gene_model_pub_name: BT053074
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0149571
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - MtCaMP1 encodes a calcium-binding EF-hand protein from Medicago truncatula
+    that is involved in responses to drought and salt stress
+  - Expression of MtCaMP1 in Arabidopsis enhances drought and salt tolerance by
+    increasing survival rates under these stresses
+  - Under drought stress, MtCaMP1 expression promotes proline accumulation via
+    upregulation of P5CS1 and downregulation of ProDH genes, aiding in osmotic
+    regulation
+  - MtCaMP1 reduces toxic Na+ accumulation during salt stress by downregulating
+    the AtHKT1 transporter responsible for Na+ influx and upregulating AtNHX1,
+    which sequesters Na+ into vacuoles
+  - The enhanced stress tolerance in MtCaMP1-expressing plants is also
+    associated with decreased oxidative damage indicated by lower levels of H2O2
+    and malondialdehyde under drought and salt stress
+phenotype_synopsis: Expression of the MtCaMP1 gene in trangenic Arabidopsis
+  results in enhanced tolerance to drought and salt stress
+traits:
+  - entity_name: drought stress response trait
+    entity: TO:0000394
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Wang, Zhang et al., 2013
+    doi: 10.1371/journal.pone.0058952
+    pmid: 23593126
+
