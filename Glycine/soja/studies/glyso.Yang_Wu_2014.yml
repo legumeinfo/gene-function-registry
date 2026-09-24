@@ -1,0 +1,33 @@
+---
+scientific_name: Glycine soja
+gene_symbols:
+  - GsLRPK
+gene_symbol_long: Leucine-rich repeat receptor-like protein kinase
+gene_model_pub_name: HM034812
+gene_model_full_id: glyso.PI483463.gnm1.ann1.GlysoPI483463.16G013700
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - The expression of GsLRPK is upregulated by cold, salt, drought, and abscisic
+    acid treatments, indicating its role in multiple abiotic stress responses
+  - The kinase activity of GsLRPK is specifically triggered by cold stress,
+    suggesting its involvement in early cold signaling pathways
+  - Overexpression of GsLRPK enhances cold tolerance in yeast and Arabidopsis,
+    as evidenced by increased growth under cold conditions and higher survival
+    rates after freezing stress
+  - GsLRPK influences the expression of key cold-responsive genes such as CBFs,
+    RD29a, KIN1, and others, indicating its regulatory role in cold stress gene
+    networks
+  - GsLRPK encodes a plasma membrane-localized leucine-rich repeat receptor-like
+    kinase that is rapidly activated by cold stress
+phenotype_synopsis: Overexpression of GsLRPK confers enhanced cold tolerance,
+  resulting in improved growth and survival of transgenic plants under
+  low-temperature stress conditions
+traits:
+  - entity_name: low temperature stress response
+    entity: TO:0000303
+references:
+  - citation: Yang, Wu et al., 2014
+    doi: 10.1016/j.plantsci.2013.10.009
+    pmid: 24388511
