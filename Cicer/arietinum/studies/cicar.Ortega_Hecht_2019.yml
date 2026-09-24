@@ -8,7 +8,6 @@ gene_model_full_id: cicar.CDCFrontier.gnm3.ann1.Ca3g148300
 confidence: 3
 curators:
   - Amy Pollpeter
-  - AI Curation Assistant
 comments:
   - Found in a cluster of three FT genes (FTa1, FTa2, FTc - all adjacent) within
     the DTF3A quantitative trait locus.
@@ -72,7 +71,6 @@ gene_model_full_id: cicar.CDCFrontier.gnm3.ann1.Ca3g147900
 confidence: 3
 curators:
   - Amy Pollpeter
-  - AI Curation Assistant
 comments:
   - Found in a cluster of three FT genes (FTa1, FTa2, FTc - all adjacent) within
     the DTF3A quantitative trait locus.
