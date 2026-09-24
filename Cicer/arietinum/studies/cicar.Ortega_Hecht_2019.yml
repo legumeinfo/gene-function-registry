@@ -39,6 +39,76 @@ comments:
   - FTc expression was upregulated in the apical meristem of the early flowering
     parents under SD and LD conditions - suggested that this gene adds to the
     flowering time effect.
+  - Gene_model_pub_name was identified by searching the NCBI GeneID 101497376
+    listed in Sup tables 1 and 2 to find the corresponding transcript accession.
+  - Gene_model_full_id was identified by searching the FASTA format protein
+    sequence from the Genbank Accession against the Cicer arietinum CDCFrontier
+    v3.1 proteins database on Cicer Resources Portal
+    (https://cicer.legumeinfo.org/).
+phenotype_synopsis: Domesticated C. arietinum accessions flowered earlier than
+  wild C. reticulatum in short day conditions, but slightly later than either
+  group flowered in long day (wild) conditions.
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: days to flowering trait
+    entity: TO:0000344
+  - entity_name: general adaptation syndrome, behavioral process
+    entity: GO:0051867
+references:
+  - citation: Ortega, Hecht et al., 2019
+    doi: 10.3389/fpls.2019.00824
+    pmid: 31333691
+  - citation: Cobos, Winter et al., 2009
+    doi: 10.1016/j.fcr.2008.11.006
+
+    ---
+scientific_name: Cicer arietinum
+gene_symbols:
+  - CaFTc
+gene_symbol_long: putative protein Flowering Time Locus c
+gene_model_pub_name: XP_073222236
+gene_model_full_id: cicar.CDCFrontier.gnm3.ann1.Ca3g147900
+confidence: 3
+curators:
+  - Amy Pollpeter
+  - AI Curation Assistant
+comments:
+  - Found in a cluster of three FT genes (FTa1, FTa2, FTc - all adjacent) within
+    the DTF3A quantitative trait locus.
+  - FTa1 and FTc showed upregulated expression in domesticated chickpea relative
+    to wild parent lines.
+  - FTa2 showed upregulated expression only in the interspecific cross lines, it
+    was not detected in the early flowering parents of the intraspecific RIL,
+    thus eliminating it as a likely genetic candidate for the DTF3A trait.
+  - Growth habit appeared linked with flowering time trait (early flowering
+    plants had erect growth habit) suggesting a pleiotropic effect.
+  - Gene expression analyzed in the parents of two interspecific recombinant
+    inbred lines (RILs) and one intraspecific RIL.
+  - Interspecific RIL CRIL2 consisted of cross of C. arietinum accession ICC4958
+    (early flowering with erect growth habit) and C. reticulatum (wild ancestor)
+    accession (PI489777 (late flowering and prostrate growth habit)
+  - Interspecific RIL RIP12 consisted of cross of C. arietinum accession
+    ICC81001 (early flowering with resistance to fusarium wilt) and C.
+    reticulatum accession CR5-9 (late flowering and susceptible to fusarium
+    wilt) as described in Cobos et al. (2009).
+  - Intraspecific RIL RIP5 and RIP8 consisted of reciprocal crosses of C.
+    arietinum landrace W315 (semi-erect growth habit, resistant to fusarium
+    wilt, susceptible to asochyta blight, flowering time not described) and
+    accession ILC3279 (erect growth habit, resistant to asochyta blight,
+    susceptible to fusarium wilt, flowering time not described), as described in
+    Iruela et al. (2007) and Ali et al. (2015)
+  - Expression of FTa1 was significantly higher in leaves of early flowering
+    parents under SD and LD conditions.
+  - FTc expression was upregulated in the apical meristem of the early flowering
+    parents under SD and LD conditions - suggested that this gene adds to the
+    flowering time effect.
+  - Gene_model_pub_name was identified by searching the NCBI GeneID 101508200
+    listed in Sup table 2 to find the corresponding transcript accession.
+  - Gene_model_full_id was identified by searching the FASTA format protein
+    sequence from the Genbank Accession against the Cicer arietinum CDCFrontier
+    v3.1 proteins database on Cicer Resources Portal
+    (https://cicer.legumeinfo.org/).
 phenotype_synopsis: Domesticated C. arietinum accessions flowered earlier than
   wild C. reticulatum in short day conditions, but slightly later than either
   group flowered in long day (wild) conditions.
