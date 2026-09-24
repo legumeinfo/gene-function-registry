@@ -5,40 +5,67 @@ gene_symbols:
 gene_symbol_long: Cytochrome P450 monooxygenases 79
 gene_model_pub_name: Ms.gene41484
 gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene41484
-confidence: 4
+confidence: 3
 curators:
   - Molly Hardacre
 comments:
-  - 
-phenotype_synopsis:
+  - The MsCYP79 family in alfalfa comprises 59 members, exhibiting varied
+    sequence lengths, structures, and subcellular localizations, primarily in
+    the endoplasmic reticulum
+  - Certain MsCYP79 genes respond significantly to mechanical damage, indicating
+    a role in stress-induced glucosinolate biosynthesis related to plant defense
+    responses
+  - Phylogenetic analysis classified MsCYP79 genes into eight main groups,
+    showing evolutionary divergence and expansion through tandem and segmental
+    duplications
+  - Certain MsCYP79 genes respond significantly to mechanical damage, indicating
+    a role in stress-induced glucosinolate biosynthesis related to plant defense
+    responses
+phenotype_synopsis: MsCYP79 family members are involved in the biosynthesis of
+  glucosinolates, with some exhibiting tissue-specific expression and increased
+  activity in response to mechanical damage
 traits:
   - entity_name: plant stress response trait
     entity: TO:0000164
+  - entity_name: glucosinolate metabolic process
+    entity: GO:0019760
 references:
   - citation: Wu, Zhang et al., 2025
     doi: 10.1371/journal.pone.0322981
     pmid: 40338965
 
 ---
-
 scientific_name: Medicago sativa
 gene_symbols:
   - MsCYP83
 gene_symbol_long: Cytochrome P450 monooxygenases 83
 gene_model_pub_name: Ms.gene45866
 gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene45866
-confidence: 4
+confidence: 3
 curators:
   - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - The MsCYP83 family includes 56 members in alfalfa, predominantly localized
+    in the plasma membrane and characterized by diverse gene structures and
+    motif compositions
+  - MsCYP83 genes harbor cis-regulatory elements related to stress responses and
+    hormone regulation, suggesting their involvement in multiple physiological
+    processes
+  - Phylogenetic and collinearity analyses reveal that MsCYP83 genes have
+    expanded through tandem duplications and show high homology with Medicago
+    truncatula, but less so with Arabidopsis
+  - Certain MsCYP83 genes to mechanical stress suggests they play crucial roles
+    in glucosinolate metabolism and plant defense mechanisms
+phenotype_synopsis: MsCYP83 genes, such as MsCYP43 and MsCYP89, show heightened
+  expression following mechanical injury, implying their phenotypic role in
+  modulating glucosinolate levels that enhance stress resilience and defense in
+  alfalfa
 traits:
   - entity_name: plant stress response trait
     entity: TO:0000164
+  - entity_name: glucosinolate metabolic process
+    entity: GO:0019760
 references:
   - citation: Wu, Zhang et al., 2025
     doi: 10.1371/journal.pone.0322981
     pmid: 40338965
-
----
