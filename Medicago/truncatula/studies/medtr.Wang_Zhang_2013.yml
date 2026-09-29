@@ -30,7 +30,7 @@ traits:
     entity: TO:0000394
   - entity_name: salt response
     entity: TO:0000429
- - entity_name: oxidative stress response
+  - entity_name: oxidative stress response
     entity: TO:0002657
 references:
   - citation: Wang, Zhang et al., 2013
