@@ -1,19 +1,64 @@
 ---
 scientific_name: Glycine max
-gene_symbols: 
+gene_symbols:
+  - GmW1
+gene_symbol_long: flavanone 3-hydroxylase encoding gene
+gene_model_pub_name: SoyZH13_13G057501
+gene_model_full_id: glyma.Zh13.gnm2.ann1.SoyZH13_13G057501
+confidence: 4
+curators:
+  - Amy Pollpeter
+comments:
+  - Gene model full id was obtained by searching gene_model_pub_name in LIS gene
+    search.
+  - A series of insertions in multiple variants of the gene result in the
+    premature termination of translation.
+  - Flower color and hypocotyl color are linked traits in soybean and the gene
+    is located in a strong LD block.
+  - Accessions carrying the insertion overwelmingly had white flowers compared
+    to reference-type accessions with purple flowers.
+  - Anthocyanin content was signficantly higher in the purple-flowered plants
+    than in white-flowered plants.
+  - Transciptome analysis using published data showed reference-like GmW1
+    expression was higher in purple flowered varieties.
+  - Introduction of the reference GmW1 gene in white flowered Wm82 plants
+    restored purple flower pigmentation and increased anthocyanin content.
+phenotype_synopsis: Accessions with the mutant GmW1 gene result in white flower
+  color and lower anthocyanin content.
+traits:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+references:
+  - citation: Li, Yue et al., 2026
+    doi: 10.1038/s41467-026-76055-9
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmMATE1
 gene_symbol_long: Multidrug and toxic compound extrusion transporter 1
 gene_model_pub_name: SoyZH13_02G084000
 gene_model_full_id: glyma.Zh13.gnm2.ann1.SoyZH13_02G084000
 confidence: 3
-curators: 
+curators:
   - Amy Pollpeter
 comments:
-  - Gene model full id was obtained by searching gene_model_pub_name in LIS gene search.
-  - A 2652 bp-deletion in this gene resulted in complete loss of function of the protein and was correlated with increased 100-seed weight, seed length, seed width, and seed thickness across wild soybeans, landraces, and cultivars.
-  - The morphological effects are accomplished without significantly altering oil or protein content.
-  - An ethyl methane sulfonate (EMS) induced Gmmate1 mutant displayed more vigorous growth than a Wm82 control at 7-week stage with larger leaves and pods, a prolonged growth period, and fewer pods per plant resulting in significantly larger pods and seeds with increases in seed length, width, thickness and 100-seed weeight.
-phenotype_synopsis:
+  - Gene model full id was obtained by searching gene_model_pub_name in LIS gene
+    search.
+  - A 2652 bp-deletion in this gene resulted in complete loss of function of the
+    protein and was correlated with increased 100-seed weight, seed length, seed
+    width, and seed thickness across wild soybeans, landraces, and cultivars.
+  - The morphological effects are accomplished without significantly altering
+    oil or protein content.
+  - An ethyl methane sulfonate (EMS) induced Gmmate1 mutant displayed more
+    vigorous growth than a Wm82 control at 7-week stage with larger leaves and
+    pods, a prolonged growth period, and fewer pods per plant resulting in
+    significantly larger pods and seeds with increases in seed length, width,
+    thickness and 100-seed weeight.
+phenotype_synopsis: Accessions with the mutated GmMATE1 have increased 100-seed
+  weight, associated with increased seed length, width and thickness.
 traits:
   - entity_name: seed weight
     entity: TO:0000181
@@ -26,4 +71,3 @@ traits:
 references:
   - citation: Li, Yue et al., 2026
     doi: 10.1038/s41467-026-76055-9
-    
