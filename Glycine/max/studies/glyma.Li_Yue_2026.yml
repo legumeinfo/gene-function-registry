@@ -1,0 +1,20 @@
+---
+scientific_name: Glycine max
+gene_symbols: 
+  - GmMate1
+gene_symbol_long:
+gene_model_pub_name: SoyZH13_02G084000
+gene_model_full_id:
+confidence:
+curators: 3
+  - Amy Pollpeter
+comments:
+  -
+phenotype_synopsis:
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Li, Yue et al., 2026
+    doi: 10.1038/s41467-026-76055-9
+    
