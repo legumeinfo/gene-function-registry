@@ -1,19 +1,28 @@
 ---
 scientific_name: Glycine max
 gene_symbols: 
-  - GmMate1
-gene_symbol_long:
+  - GmMATE1
+gene_symbol_long: Multidrug and toxic compound extrusion transporter 1
 gene_model_pub_name: SoyZH13_02G084000
-gene_model_full_id:
-confidence:
-curators: 3
+gene_model_full_id: glyma.Zh13.gnm2.ann1.SoyZH13_02G084000
+confidence: 3
+curators: 
   - Amy Pollpeter
 comments:
-  -
+  - Gene model full id was obtained by searching gene_model_pub_name in LIS gene search.
+  - A 2652 bp-deletion in this gene resulted in complete loss of function of the protein and was correlated with increased 100-seed weight, seed length, seed width, and seed thickness across wild soybeans, landraces, and cultivars.
+  - The morphological effects are accomplished without significantly altering oil or protein content.
+  - An ethyl methane sulfonate (EMS) induced Gmmate1 mutant displayed more vigorous growth than a Wm82 control at 7-week stage with larger leaves and pods, a prolonged growth period, and fewer pods per plant resulting in significantly larger pods and seeds with increases in seed length, width, thickness and 100-seed weeight.
 phenotype_synopsis:
 traits:
-  - entity_name:
-    entity:
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed length
+    entity: TO:0000146
+  - entity_name: seed width
+    entity: TO:0000149
+  - entity_name: seed thickness
+    entity: TO:0000304
 references:
   - citation: Li, Yue et al., 2026
     doi: 10.1038/s41467-026-76055-9
