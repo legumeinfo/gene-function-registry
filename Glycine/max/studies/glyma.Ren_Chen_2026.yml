@@ -11,19 +11,19 @@ curators:
 comments:
   - GmRGD14 encodes a lysophosphatidic acid acyltransferase (LPAT4), primarily
     localized to the endoplasmic reticulum and cell membrane, and plays a
-    crucial role in positively regulating soybean root growth
+    crucial role in positively regulating soybean root growth.
   - Natural variation analysis revealed that the superior haplotype Hap6 of
     GmRGD14 is associated with increased root dry weight and was selectively
-    retained during soybean domestication
+    retained during soybean domestication.
   - Overexpression of GmRGD14 in soybean and Arabidopsis significantly enhances
     root traits, including root length, surface area, and number of lateral
-    roots, confirming its role in promoting root development
+    roots, confirming its role in promoting root development.
   - Knockdown experiments demonstrated that reduced GmRGD14 expression inhibits
     root growth, further supporting its positive regulatory function in root
-    system architecture
+    system architecture.
 phenotype_synopsis: GmRGD14 positively regulates soybean root development, with
   overexpression promoting increased root length, surface area, dry weight, and
-  it also increases lateral root formation in both soybean and Arabidopsis
+  it also increases lateral root formation in both soybean and Arabidopsis.
 traits:
   - entity_name: root development trait
     entity: TO:0000656
