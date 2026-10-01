@@ -1,0 +1,40 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmRGD14
+gene_symbol_long: null
+gene_model_pub_name: Glyma.14G077500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G077500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmRGD14 encodes a lysophosphatidic acid acyltransferase (LPAT4), primarily
+    localized to the endoplasmic reticulum and cell membrane, and plays a
+    crucial role in positively regulating soybean root growth
+  - Natural variation analysis revealed that the superior haplotype Hap6 of
+    GmRGD14 is associated with increased root dry weight and was selectively
+    retained during soybean domestication
+  - Overexpression of GmRGD14 in soybean and Arabidopsis significantly enhances
+    root traits, including root length, surface area, and number of lateral
+    roots, confirming its role in promoting root development
+  - Knockdown experiments demonstrated that reduced GmRGD14 expression inhibits
+    root growth, further supporting its positive regulatory function in root
+    system architecture
+phenotype_synopsis: GmRGD14 positively regulates root development, with
+  overexpression promoting increased root length, surface area, dry weight, and
+  lateral root formation in soybean and Arabidopsis
+traits:
+  - entity_name: root development trait
+    entity: TO:0000656
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: root hair length
+    entity: TO:0002665
+  - entity_name: root dry weight
+    entity: TO:0000078
+  - entity_name: lateral root formation
+    entity: GO:0010311
+references:
+  - citation: Ren, Chen et al., 2026
+    doi: 10.1016/j.jia.2025.03.007
