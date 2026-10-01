@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmIAA9
-gene_symbol_long: Auxin-responsive protein 9
+gene_symbol_long: Auxin-responsive Protein 9
 gene_model_pub_name: PZ171990
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G207900
 confidence: 3
@@ -11,19 +11,19 @@ curators:
 comments:
   - Overexpression of GmIAA9 enhances root architecture by increasing total root
     length, surface area, and volume, thereby improving phosphorus uptake
-    efficiency
+    efficiency.
   - GmIAA9 promotes accumulation of auxin and abscisic acid, which are crucial
     hormones for root development and stress response modulation under
-    phosphorus deficiency
+    phosphorus deficiency.
   - Transcriptome analysis shows GmIAA9 influences multiple pathways related to
     phenylpropanoid biosynthesis, cell cycle, and nuclear-cytoplasmic transport,
-    facilitating adaptation to low phosphorus conditions
+    facilitating adaptation to low phosphorus conditions.
   - While heterologous expression in tobacco demonstrates GmIAA9’s positive
     effect on growth and stress tolerance, its function in soybean requires
-    further validation through homologous gene editing techniques
+    further validation through homologous gene editing techniques.
 phenotype_synopsis: Overexpression of GmIAA9 in tobacco results in enhanced root
   development, increased phosphorus acquisition, and improved tolerance to low
-  phosphorus stress
+  phosphorus stress.
 traits:
   - entity_name: root development trait
     entity: TO:0000656
