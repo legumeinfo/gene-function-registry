@@ -12,22 +12,22 @@ curators:
 comments:
   - The disruption of GmHY2a causes soybean mutants (Gmlin1) to exhibit
     elongated internodes and early flowering due to deregulation of downstream
-    hormones such as auxin and gibberellins
+    hormones such as auxins and gibberellins.
   - GmHY2a is constitutively expressed across various tissues and is localized
     within the chloroplast, highlighting its role in chlorophyll and phytochrome
-    biosynthesis
+    biosynthesis.
   - GmHY2a encodes a protochlorophyllide oxidoreductase that is crucial for the
     biosynthesis of the phytochrome chromophore, phytochromobilin, which is
-    essential for functional phytochromes in soybean
+    essential for functional phytochromes in soybean.
   - Mutations in GmHY2a lead to deficiency in phytochrome chromophore
     production, resulting in inactivation of the entire phytochrome system and
-    impaired light signal transduction
+    impaired light signal transduction.
   - Loss-of-function mutations in GmHY2a result in decreased sensitivity to red
     and far-red light, altering plant developmental responses including
-    hypocotyl elongation and flowering time
+    hypocotyl elongation and flowering time.
 phenotype_synopsis: Mutations in GmHY2a result in soybean plants with elongated
   internodes, early flowering, and reduced responsiveness to red and far-red
-  light, indicating a disruption in phytochrome-mediated light signaling
+  light, indicating a disruption in phytochrome-mediated light signaling.
 traits:
   - entity_name: shoot axis internode length
     entity: TO:0000145
