@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmRGD14
-gene_symbol_long: null
+gene_symbol_long: Root Growth and Development 14
 gene_model_pub_name: Glyma.14G077500
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G077500
 confidence: 4
@@ -21,9 +21,9 @@ comments:
   - Knockdown experiments demonstrated that reduced GmRGD14 expression inhibits
     root growth, further supporting its positive regulatory function in root
     system architecture
-phenotype_synopsis: GmRGD14 positively regulates root development, with
+phenotype_synopsis: GmRGD14 positively regulates soybean root development, with
   overexpression promoting increased root length, surface area, dry weight, and
-  lateral root formation in soybean and Arabidopsis
+  it also increases lateral root formation in both soybean and Arabidopsis
 traits:
   - entity_name: root development trait
     entity: TO:0000656
