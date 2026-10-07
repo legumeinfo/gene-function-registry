@@ -9,9 +9,18 @@ confidence: 5
 curators:
   - Scott Kalberer
 comments:
-  - Locus Rsv3 confers strain-specific resistance to soybean mosaic virus (SMV)
-    and was mapped on chromosome 14 in soybean genotype L29. Five NBS-LRR
-    candidate genes were identified between two genetic markers.
+  - Soybean mosaic virus (SMV) is a single-stranded positive-sense RNA virus
+    that is destructive to soybean and SMV strains are classified by patterns of
+    virulence. Resistance genes (R genes) include dominant NBS-LRR proteins that
+    recognize pathogen avirulence factors. The four loci Rsv1, Rsv3, Rsv4, and
+    Rsv5 confer strain-specific resistance.
+  - Locus Rsv3 confers extreme resistance to the virulent SMV strains G5 to G7
+    and was mapped on chromosome 14 in soybean genotype L29 (Jeong, Kristipati
+    et al., 2002). Five NBS-LRR candidate genes for Rsv3 were identified in the
+    154-kbp region between the two genetic markers A519F/R and M3Satt (Suh,
+    Bowman et al., 2011).
+  - Glyma.14g204700 exhibited the highest transcript abundance and
+    genotype-phenotype correlation of the five candidates.
   - Glyma.14G204700 in assemblies 2 and 4 is the same as Glyma14g38533 in
     assembly 1.
   - Isolated and confirmed a locus, Glyma.14G204700, as full-length cDNA from
@@ -36,4 +45,6 @@ references:
     pmid: 27898808
   - citation: Suh, Bowman et al., 2011
     doi: 10.3835/plantgenome2010.11.0024
-
+  - citation: Jeong, Kristipati et al., 2002
+    doi: 10.2135/cropsci2002.2650
+    pmid: 11756284
