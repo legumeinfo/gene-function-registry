@@ -78,10 +78,8 @@ Each section will start by stating whether a particular component is required to
 
 #### Gene Symbols: REQUIRED
 <details>
-    This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".  Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.
-
-    If there are multiple names for one gene, enter them on separate lines with the most common name entered first.
-
+    This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".  Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.<br><br>
+    If there are multiple names for one gene, enter them on separate lines with the most common name entered first.<br><br>
     If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
 </details>
 
