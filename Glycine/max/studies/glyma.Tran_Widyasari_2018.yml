@@ -9,24 +9,38 @@ confidence: 5
 curators:
   - Scott Kalberer
 comments:
-  - Soybean mosaic virus (SMV) is a single-stranded positive-sense RNA virus
+  - Soybean mosaic virus (SMV) is a single-stranded positive-sense RNA potyvirus
     that is destructive to soybean and SMV strains are classified by patterns of
-    virulence. Resistance genes (R genes) include dominant NBS-LRR proteins that
-    recognize pathogen avirulence factors. The four loci Rsv1, Rsv3, Rsv4, and
-    Rsv5 confer strain-specific resistance.
+    virulence. Dominant resistance genes (R genes) most often express proteins
+    with NBS-LRR domains that recognize pathogen avirulence factors. The four
+    loci Rsv1, Rsv3, Rsv4, and Rsv5 confer strain-specific resistance to SMV.
   - Locus Rsv3 confers extreme resistance to the virulent SMV strains G5 to G7
     and was mapped on chromosome 14 in soybean genotype L29 (Jeong, Kristipati
     et al., 2002). Five NBS-LRR candidate genes for Rsv3 were identified in the
     154-kbp region between the two genetic markers A519F/R and M3Satt (Suh,
     Bowman et al., 2011).
-  - Glyma.14g204700 exhibited the highest transcript abundance and
-    genotype-phenotype correlation of the five candidates.
-  - Glyma.14G204700 in assemblies 2 and 4 is the same as Glyma14g38533 in
-    assembly 1.
   - Isolated and confirmed a locus, Glyma.14G204700, as full-length cDNA from
     soybean variety L29 that provides targeted resistance against SMV.
-  - Overexpressing Glyma.14G204700 in susceptible soybeans inhibited SMV
-    infection.
+  - Glyma.14G204700 in assemblies 2 and 4 is the same as Glyma14g38533 in
+    assembly 1.
+  - Glyma.14g204700 exhibited the highest transcript abundance and
+    genotype-phenotype correlation of the five candidates.
+  - The 15593-bp Glyma.14G204700 genomic sequence from L29 has 8 exons and 7
+    introns. The coding sequence, 3888-bp in length, is predicted to translate
+    into a 1295 amino acid CC-NBS-LRR protein with N-terminal coiled-coil,
+    nucleotide-binding, and leucine-rich repeat domains.
+  - Amino acid comparison between resistant (L29) and susceptible (William 82)
+    genotypes shows 90% sequence identity. Most of the amino acid substitutions
+    (93 out of 100) clustered within the LRR-domain itself, with 54
+    substitutions found in 22 LRR motifs. The functional differences in
+    LRR-domains likely affect Avr recognition by these proteins.
+  - Transient co-expression in vivo of the candidate gene (Glyma.14G204700) and
+    SMV-G5H viral infectious clones expressing green fluorescent protein (GFP)
+    in susceptible soybeans resulted in strain-specific inhibition of SMV
+    accumulation. SMV infection was not completely inhibited probably because
+    expression was only local and transient. Nevertheless, transient expression
+    of Glyma.14g204700 in the co-inoculation experiments did not inhibit
+    infection of the more virulent strain SMV-G7H.
   - Transient silencing of Glyma.14G204700 in resistant L29 plants increased
     accumulation of the virus.
 phenotype_synopsis: Glyma.14g204700 is a strong candidate for the Rsv3 gene
