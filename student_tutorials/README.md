@@ -61,38 +61,62 @@
 - The “git push” command then takes the updates in local “.git”, which have been staged ready for the push by “git-commit”, and pushes (uploads) the staged files to a remote repository at github.com.  Requires a sign-in or permission to access and use “git-push” in the command line without specifying the files.
 </details>
 
-### How to determine gene symbol long name
+### The components of the YAML file
+This section will discuss the individual components of the YAML file with information on what should be included, and how to find the information. 
+
+Each section will start by stating whether a particular component is required to be included in the YAML file or not.  If a component is not required, and you are not including it - you can delete the line containing that component.
+
+#### Scientific_name: REQUIRED
+<details>
+    The two-word binomial, e.g. Glycine max
+</details>
+
+#### Classical Locus: Not Required
+<details>
+    Name of the locus (if available) from classical genetic studies. An example of this may be the R locus characterized by Mendel for seed shape in the pea plant (Round vs Wrinkled). This may not be mentioned in more recent papers that are not studying traits characterized by classical breeding studies.
+</details>
+
+#### Gene Symbols: REQUIRED
+<details>
+    This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".  Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.
+
+    If there are multiple names for one gene, enter them on separate lines with the most common name entered first.
+
+    If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
+</details>
+
+#### Gene Symbol long: REQUIRED
 <details> 
     TO DO
 </details>
 
-### How to determine gene model pub name
+#### How to determine gene model pub name
 <details> 
     TO DO
 </details>
 
-### How to determine gene model full id
+#### How to determine gene model full id
 <details> 
     TO DO
 </details>
 
-### How to determine the 'Confindence Value'
+#### How to determine the 'Confindence Value'
 <details>
 - Short Answer: The confidence block is to have values 1 through 5.  This field indicates level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
 - Long Answer: The S-Tier level of 5, and to a lesser extent 4, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest.  A level of 3 would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation.  Levels 1 and 2 would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level 1 or 2 support.
 </details>
 
-### What should go in the "Comments" section
+#### What should go in the "Comments" section
 <details> 
     TO DO
 </details>
 
-### What should go in the "phenotypic summary" section
+#### What should go in the "phenotypic summary" section
 <details> 
     TO DO
 </details>
 
-### How to find ontology terms
+#### How to find ontology terms
 <details>
 - Head to the website "https://www.ebi.ac.uk/ols4" and search in the field under "Welcome to the EMBL-EBI Ontology Lookup Service".  Use keywords and likley trait names to search for ontology terms within their records and travel along the branches of the ontology trees to compare and contrast options.
 
