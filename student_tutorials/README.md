@@ -79,22 +79,29 @@ Each section will start by stating whether a particular component is required to
 #### Gene Symbols: REQUIRED
 <details>
     This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".  Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.<br><br>
-    If there are multiple names for one gene, enter them on separate lines with the most common name entered first.<br><br>
-    If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
+
+If there are multiple names for one gene, enter them on separate lines with the most common name entered first.<br><br>
+
+If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
 </details>
 
 #### Gene Symbol long: REQUIRED
 <details> 
-    The long-hand version of the gene-symbol acronym, e.g. "Nodule Number Control 1".  You do not need to include the prefix for the scientific name (i.e. "Gm" for Glycine max).<br><br>
-    Most of the time this is going to be listed in the publication. In the event it is not listed, the easiest place to find this would be on the [NCBI Gene search](https://www.ncbi.nlm.nih.gov/gene/) website.
+    The long-hand version of the gene-symbol acronym, e.g. "Nodule Number Control 1".  You do not need to include the prefix for the scientific name (i.e. "Gm" for Glycine max).
+    
+Most of the time this is going to be listed in the publication. In the event it is not listed, the easiest place to find this would be on the [NCBI Gene search](https://www.ncbi.nlm.nih.gov/gene/) website.
+
+If for some reason the gene symbol does not come up in the NCBI website (this is rare, but it happens), search the term on Google to see if a gene name or protein name (that makes sense with the topic of the publication) comes up. For example, the gene symbol given in this guide "GmNNC1" does not actually return results in the NCBI gene website, but Google will return the correct Gene_symbol_long.
 </details>
 
-#### How to determine gene model pub name
+#### Gene model pub name: REQUIRED
 <details> 
-    TO DO
+    Ideally, this will be the gene model as it is listed in the publication, e.g. Glyma02g17170.2, SoyW82_02G12800.1 or Glyma.02G152800 depending on the annotation version.<br><br>
+
+Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.
 </details>
 
-#### How to determine gene model full id
+#### Gene model full id: REQUIRED
 <details> 
     TO DO
 </details>
