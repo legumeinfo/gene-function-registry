@@ -85,7 +85,8 @@ Each section will start by stating whether a particular component is required to
 
 #### Gene Symbol long: REQUIRED
 <details> 
-    TO DO
+    The long-hand version of the gene-symbol acronym, e.g. "Nodule Number Control 1".  You do not need to include the prefix for the scientific name (i.e. "Gm" for Glycine max).<br><br>
+    Most of the time this is going to be listed in the publication. In the event it is not listed, the easiest place to find this would be on the [NCBI Gene search](https://www.ncbi.nlm.nih.gov/gene/) website.
 </details>
 
 #### How to determine gene model pub name
