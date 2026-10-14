@@ -135,27 +135,71 @@ Clicking on the top result just moves you down the page to the details for that 
 <img width="1480" height="1381" alt="Screenshot 2026-10-14 151615" src="https://github.com/user-attachments/assets/e5d4997b-4275-4329-8031-495058587fa5" />
 </details>
 
-#### How to determine the 'Confindence Value'
+#### Confidence Value: REQUIRED
 <details>
-- Short Answer: The confidence block is to have values 1 through 5.  This field indicates level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
-- Long Answer: The S-Tier level of 5, and to a lesser extent 4, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest.  A level of 3 would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation.  Levels 1 and 2 would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level 1 or 2 support.
+    This is a value from 1 to 5 showing how strong the evidence for the gene's function is.<br><br>
+
+**How to determine it:**<br><br>
+_Short Answer:_ This field indicates the level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.<br><br>
+
+_Long Answer:_ Level **5**, and to a lesser extent  **4**, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest. <br><br>
+A level of **3** would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation. For example, if specific transformation experiments and observations of mutant alleles were not observed in the specified species, but a related species or close outgroup (such as Arabidopsis) would warrant a level 3 (or possibly a low level **4** if it has been observed in multiple species). <br><br>
+
+In general, publications being entered into the gene function registry should be at a level **3** or higher.<br>
+Levels **1** and **2** would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level **1** or **2** support.
 </details>
 
-#### What should go in the "Comments" section
+#### Curators: REQUIRED
+This section lists who created the yaml file. Put your name here. This section is required to be an array (a list) so you must have the following format for the validator to read it correctly.<br>
+Curators:<br>
+    - _Your name here_
+    
+#### Comments: REQUIRED
 <details> 
-    TO DO
+    This section should consist of 5 to 7 comments describing the gene's function (to the extent it is known), other genes it interacts with, and a brief summary of the publication findings that led you to the confidence value you gave it.<br>
+
+_Example describing the gene:_ "- A cytochrome P450 superfamily protein"<br>
+_Example validating confidence value_" - Gene function established using mutation, expression, and related function tests."<br><br>
+If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interacting gene.<br>
+_Example of an interaction:_ "miR172c cleaves the protein product of the NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle_Men_2003.yml)."
+
+This is also the section to include where you found the gene_model_pub_name if it is not obvious, and how you determined the gene_model_full_id if you needed to use the LIS resources to search for the full id.<br>
+_Example:_ "- Gene_model_full_id was identified by searching the FASTA format protein
+    sequence from the Genbank Accession against the Cicer arietinum CDCFrontier
+    v3.1 proteins database on Cicer Resources Portal
+    (https://cicer.legumeinfo.org/)."
 </details>
 
-#### What should go in the "phenotypic summary" section
+#### Phenotypic Synopsis: REQUIRED
 <details> 
-    TO DO
+    This should be 1 to 2 sentences describing the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."<br><br>
+
+Note that while the comments section is required to be a list (each statement starts with an indented "-"), this section is not so the statement should be placed directly after the ":".  "Phenoytypic_synopsis:" _Your comment here_
 </details>
 
-#### How to find ontology terms
+#### "Traits" Ontology Section: REQUIRED (at least 1)
 <details>
-- Head to the website "https://www.ebi.ac.uk/ols4" and search in the field under "Welcome to the EMBL-EBI Ontology Lookup Service".  Use keywords and likley trait names to search for ontology terms within their records and travel along the branches of the ontology trees to compare and contrast options.
+    Immediately after the Phenotypic_synopsis section is a section to include Ontology terms for the gene function. Each term consists of a two-line entry.  Line 1 is the _entity name_ and Line 2 is the _entity__ (or term ID). These terms can be searched for using the process below.  You are required to have at least 1 entity, but sometimes may have several.<br>
+
+_Example:_ <br>
+traits:<br>
+    entity_name: _the name of the ontology accession,_ e.g. "nodulation"<br>
+    - entity: _The ontology accession code,_ e.g. TO:#####<br>
+
+**To find ontology terms:**
+- Head to the [Ontology Lookup Service](https://www.ebi.ac.uk/ols4) website at "https://www.ebi.ac.uk/ols4" and search in the field under "Welcome to the EMBL-EBI Ontology Lookup Service".  Use keywords and likely trait names to search for ontology terms within their records and travel along the branches of the ontology trees to compare and contrast options.
 
 - Ontologies considered of high value to our project are the Trait Ontology (TO) "describes phenotypic traits in plants. Each trait is a distinguishable feature, characteristic, quality or phenotypic feature of a developing or mature plant", Gene Ontology (GO) "describing the functions of gene products from all organisms", and Plant Ontology (PO) "describes plant anatomy, morphology, and growth and development in plants".
 
-- There are ontologies specific to certain organisms that may also be included such as the Soybean Trait Ontology (SOY) "https://amigo.soybase.org/amigo/amigo/term/SOY:0000099" and the variety of Crop Ontologies (CO) "https://cropontology.org".
+- There are ontologies specific to certain organisms that may also be included such as the [Soybean Trait Ontology (SOY)](https://amigo.soybase.org/amigo/amigo/term/SOY:0000099) at "https://amigo.soybase.org/amigo/amigo/term/SOY:0000099" and the variety of [Crop Ontologies (CO)](https://cropontology.org) at "https://cropontology.org".
+
+- Typically we will list Trait Ontologies (TO) first, then  Gene Ontologies (GO), and then any other ontology terms we use.
+</details>
+
+#### References: REQUIRED
+<details>
+    At least 1 reference is required for each gene (typically the publication you are reporting on).  If possible include both the pmid (Pubmed ID) and the doi, however at least 1 of these needs to be included for each citation.
+
+- If you used other references in searching for the gene function (other publications, not websites) include those in this section as well.  For example, if an Orthologous gene in another species is used to validate the confidence level, include that reference.
+- This section may also contain papers that are added later when more information about the gene function is published.
 </details>
