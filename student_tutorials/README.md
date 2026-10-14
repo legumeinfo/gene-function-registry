@@ -103,7 +103,36 @@ Occasionally, the publication will list the gene model as something different. s
 
 #### Gene model full id: REQUIRED
 <details> 
-    TO DO
+    This field is often the one that takes the most work to find.  The gene_model_full_id must directly link to a gene model in the LIS (Legume Information System).  Often, this specific identifier is not listed in the paper, or even in the supplementary data. Below, are several different examples of steps to finding the gene_model_full_id ranging from most simplistic to a little more work.<br><br>
+
+**Case 1: Your gene model pub name is in the preferred format listed above (e.g. Glyma02g17170.2)**
+This is the easiest case to find the gene_model_full_id.  Go to the ["Gene Identifier Search"](https://www.legumeinfo.org/tools/search/gene.html) at [Legume Information System Website](https://www.legumeinfo.org/) at https://www.legumeinfo.org/tools/search/gene.html and enter the gene_model_pub_name into the "Identifier" field and select the Genus you are looking at. Note, if your pub name has a .1 or .2 at the end of it, this is a splice variant and you should remove that portion of the name before performing the search.  See the screenshot below as an example of searching for the pub_name example "Glyma02g17170.2" from the previous section, and example results.
+
+<img width="1477" height="1138" alt="image" src="https://github.com/user-attachments/assets/5471c462-ba70-4c3c-94e9-d35f48ff9975" />
+
+Your gene_model_full_id is the gene model listed in the 2nd column of the results under "Identifier" (see red box in the image above).  The identifier has a specific format with 5 fields separated by periods.  It begins with the 5 letter abbreviation for genus species (glyma for Glycine max), then the cultivar name (in this case "Wm82" for "Williams82", then the genome assembly (in this case "gnm1" referring to assembly 1), then the annotaation (in this case "ann1" for annotation 1, and finally the gene name ("Glyma02g17170"). In this case, there was a single result.  If the search returns more than one result, you want to generally use the highest annotation number listed, as this is usually the newest annotation.
+
+**Case 2: Your pub_name returns no results in the search or is in a different format**
+If your pub_name returns no search results or is in a different format, your first step is to search that pub_name in the NCBI database (discussed above in the "Gene Symbol Long" Section. If this returns a result, go to the "Transcripts and Proteins table"  (See red arrow in screenshot example below for the pub name "EU391460.1").
+<img width="1442" height="978" alt="image" src="https://github.com/user-attachments/assets/f02538fd-5847-463d-8289-568618f88958" />
+
+Once on that page, you can select either the transcript (mRNA) accession ("NM_####" or "XM_#####") or the protein accession ("NP_####" or "XP_#####"). You may get the same results with either in the following steps, but the protein sequence is more likely to be conserved.  For well studied species such as Glycine max (soybean) either should work.  If the paper is looking at a species with less resources, the protein sequence might be the best choice to try first.  The example below uses the mRNA sequence.
+<img width="1478" height="797" alt="image" src="https://github.com/user-attachments/assets/cd069831-50ab-4c46-acd4-f639617cb3f7" />
+
+Clicking on either of these will take you to the mRNA or protein accession page of the gene.  Click on the "FASTA" just below the gene name to get to the specific mRNA or protein sequence.
+<img width="1457" height="791" alt="image" src="https://github.com/user-attachments/assets/9c107a42-593a-4d10-b09c-bd8bd8ec95f5" />
+
+(You can actually get to these sequences further down in the page, but this is just a bit of a cleaner way to get it.) Highlight and copy the resulting sequence.
+<img width="1469" height="1201" alt="image" src="https://github.com/user-attachments/assets/8d2d1fc8-4402-45ff-a3bd-fdefe80ff714" />
+
+You will now go back to the [Legume Information System](https://www.legumeinfo.org/) main page and select ["Sequence Search (Blast)"](https://sequenceserver.legumeinfo.org/).  Here, you will paste the copied sequence into the search box and then select the specific scientific name for the apecies your paper is referring to.  Generally you will be using either an mRNA sequence or a protein sequence.  For mRNA sequences, you'll use the "mRNA_Sequence_Collection" in the lower half of the first column.  In the example below, the "Genomic_Sequence_Collection" has been collapsed so that the sequence box and the list of species fit on the screen. In this example I have pasted the first line with the description of the FASTA sequence starting with the ">" and the sequence.  The search tool does require a FASTA format using a first line that starts with ">".  What is typed after doesn't matter - it's just seen as a descriptor.
+<img width="1472" height="1391" alt="Screenshot 2026-10-14 144730" src="https://github.com/user-attachments/assets/be85ea61-efda-41bc-8da4-d944e0e22f8f" />
+
+The results page will show the top set of results.  Typically the gene model you are looking for should be one of the first ones. As in the example below, you may hit to some sequences of closely related species.  Your gene_model_full_id should be from the same species as you listed in the scientific name. <br><br>
+As you can see in the example below, the first result had 96% Query Coverage and 100% identity.  This is the type of result you are looking for, although sometimes it won't be quite as high, especially in less studied species.  If you don't see a strong result using mRNA, try using the protein sequence in the steps above.<br><br>
+
+Clicking on the top result just moves you down the page to the details for that result. The full identifier is the gene_model_full_id. You can copy the gene_model_full_id from either spot.
+<img width="1480" height="1381" alt="Screenshot 2026-10-14 151615" src="https://github.com/user-attachments/assets/e5d4997b-4275-4329-8031-495058587fa5" />
 </details>
 
 #### How to determine the 'Confindence Value'
