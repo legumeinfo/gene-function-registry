@@ -41,8 +41,16 @@ comments:
     expression was only local and transient. Nevertheless, transient expression
     of Glyma.14g204700 in the co-inoculation experiments did not inhibit
     infection of the more virulent strain SMV-G7H.
-  - Transient silencing of Glyma.14G204700 in resistant L29 plants increased
-    accumulation of the virus.
+  - Virus-Induced Gene Silencing (VIGS) of Glyma.14G204700 in resistant L29
+    plants temporarily reduced its expression to around 20%. The bean pod mottle
+    virus (BPMV) VIGS vector expressed a short, antisense RNA fragment of the
+    GmRsv3 target (BPMV::Gm14g204700) in inoculated plants.
+  - Additionally, increased accumulation of the SMV-G5H virus in inoculated
+    leaves resulted from transient silencing, with virus levels dropping again
+    once Glyma.14G204700 transcription was no longer inhibited. Neither local
+    nor systemic infection of the SMV-G5H detected via GFP expression was
+    observed in L29 even though Glyma.14g204700 had been silenced using the
+    BPMV-based VIGS, and thus Rsv3-mediated resistance was not fully suppressed.
 phenotype_synopsis: Glyma.14g204700 is a strong candidate for the Rsv3 gene
   responsible for strain-specific SMV resistance in soybean.
 traits:
