@@ -1,0 +1,45 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmISO5
+  - GmST05
+  - GmMFT
+gene_symbol_long: Isoflavone 5
+gene_model_pub_name: Glyma.05G244100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G244100
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmISO5 is identified as a key regulator of seed isoflavone biosynthesis in
+    soybean, with natural variation at this locus influencing isoflavone content
+  - CRISPR/Cas9-mediated knockout of GmISO5 results in approximately an 80%
+    reduction in total seed isoflavones
+  - GmISO5 directly binds to and activates promoters of GmHIDH and GmCHS1, key
+    enzymes at various steps of the isoflavone biosynthetic pathway, indicating
+    its role as a transcriptional activator
+  - Loss of GmISO5 increases soybean susceptibility to soybean mosaic virus,
+    linking its regulatory function not only to isoflavone biosynthesis but also
+    to plant stress response mechanisms
+  - The low-isoflavone haplotype of GmISO5 (GmISO5Low) has become highly
+    prevalent in improved soybean cultivars, reaching a frequency of 91%,
+    suggesting it has undergone strong positive selection during domestication
+    and breeding
+phenotype_synopsis: GmISO5 regulates isoflavone biosynthesis in soybean seeds,
+  and its knockout leads to reduced seed isoflavone content and increased
+  susceptibility to soybean mosaic virus infection
+traits:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+references:
+  - citation: Feng, Sun et al., 2026
+    doi: 10.1016/j.jare.2026.09.011
+    pmid: 42732830
+  - citation: Duan, Zhang et al., 2022
+    doi: 10.1111/pbi.13865
+    pmid: 35642379
+  - citation: Cai, Xian et al., 2023
+    doi: 10.1111/nph.18792
+    pmid: 36740575
