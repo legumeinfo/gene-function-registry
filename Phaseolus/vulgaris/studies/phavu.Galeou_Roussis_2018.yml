@@ -1,0 +1,32 @@
+---
+scientific_name: Phaseolus vulgaris
+gene_symbols:
+  - PvTOC1
+gene_symbol_long: TIMING OF CAB EXPRESSION 1
+gene_model_pub_name: JF520783
+gene_model_full_id: phavu.G19833.gnm2.ann1.Phvul.009G185500
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - PvTOC1 functions as a transcriptional repressor of its own promoter, with
+    its CCT domain being essential for this repressive activity
+  - Overexpression of PvTOC1 in bean protoplasts leads to decreased expression
+    of clock-related genes such as PvLHY and PvELF4, indicating its role in
+    suppressing morning and evening loop genes
+  - PvTOC1's activity is influenced by chromatin modifications, as evidenced by
+    its response to histone deacetylase inhibitor trichostatin A, which
+    differentially affects clock gene expression
+  - The PvTOC1 protein contains conserved domains, including the CCT domain,
+    which is crucial for its repressive function, as demonstrated by
+    domain-deletion experiments
+phenotype_synopsis: PvTOC1 acts as a repressor within the circadian clock, with
+  its overexpression resulting in suppressed expression of core clock genes;
+  influencing the timing and rhythmicity of the plant's circadian functions
+traits:
+  - entity_name: regulation of circadian rhythm
+    entity: GO:0042752
+references:
+  - citation: Gasleou, Roussis et al., 2018
+    doi: 10.1016/j.jplph.2017.12.018
+    pmid: 29407552
