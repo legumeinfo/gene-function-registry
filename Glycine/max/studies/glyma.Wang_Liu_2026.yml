@@ -1,0 +1,33 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmLPAT11
+gene_symbol_long: Lysophosphatidic acid acyltransferase 11
+gene_model_pub_name: Glyma.14G216800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G216800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmLPAT11 localizes to chloroplasts and endoplasmic reticulum, indicating its
+    role in lipid metabolism within specific organelles
+  - Natural genetic variation in GmLPAT11, particularly SNPs, is closely
+    associated with seedling salt tolerance, with certain haplotypes conferring
+    better tolerance
+  - Promoter analyses suggest that GmLPAT11 expression is regulated by
+    stress-related cis-acting elements, linking its transcription to hormonal
+    and abiotic stress signals
+  - Overexpression of GmLPAT11 enhances soybean salt tolerance by reducing
+    reactive oxygen species and improving antioxidant enzyme activities, such as
+    SOD, POD, and CAT
+  - GmLPAT11 was identified as a key gene involved in soybean salt stress
+    response, showing significant upregulation under salt treatment
+phenotype_synopsis: Overexpression of GmLPAT11 in soybean enhances salt
+  tolerance by promoting root growth, reducing cellular membrane damage, and
+  limiting oxidative stress under saline conditions
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+references:
+  - citation: Wang, Liu et al., 2026
+    doi: 10.1016/j.jia.2024.12.031
