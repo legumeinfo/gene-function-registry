@@ -24,8 +24,8 @@ phenotype_synopsis: PvTOC1 acts as a repressor within the circadian clock, with
   its overexpression resulting in suppressed expression of core clock genes;
   influencing the timing and rhythmicity of the plant's circadian functions
 traits:
-  - entity_name: null
-    entity: null
+  - entity_name: regulation of circadian rhythm
+    entity: GO:0042752
 references:
   - citation: Gasleou, Roussis et al., 2018
     doi: 10.1016/j.jplph.2017.12.018
