@@ -11,8 +11,10 @@
 
 ### General curation information
 <details>
+
 - We use a "Genus species" code for curation. We use the first three letters of the <b>gen</b>us and the first two letters of the <b>sp</b>ecies (Example: <i>Glycine max</i> == glyma)
-- Advanced gene function curation protocol can be found [here](https://github.com/legumeinfo/datastore-specifications/tree/main/PROTOCOLS/gene_functions)
+
+- Advanced gene function curation protocol can be found [here](https://github.com/legumeinfo/datastore-specifications/blob/main/PROTOCOLS/gene_functions/README.md)
 
 </details>
 
