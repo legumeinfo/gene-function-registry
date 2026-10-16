@@ -17,48 +17,59 @@
 </details>
 
 ### Selecting and accessing research papers
-1. The manuscript should be selected from the Google Docs [tracking sheet](href="https://docs.google.com/spreadsheets/d/1hjBq1RSRtmjMVbzEEuKSQ1ArI8ydmVFBBkiA9ymWDrg/edit?usp=sharing) and then note in the spreadsheet the status <b><i>Note - the link to this sheet is not showing up in the README - is it still valid?</b></i>
-    - Curator will note "WIP_Name" in the column called "doc status" (example: WIP_Steven)
-4. Using the Title, Author and Year or DOI a curator can find the research paper using any of these sites:
-    - [Google Scholar](https://scholar.google.com/)
-    - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-    - [PubAg / USDA National Ag Library](https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN&search_scope=pubag&tab=pubag)
+<details>
+    
+1. The publications can be selected from the "Gene_Function_Registry" collection in Zoterro that Jacqueline will invite you to.
+   - The curator should right click on the paper and select "Add Note".  The first line of the Note will become the title of the note in the collection.  Title the note WIP_Curator Name so other curators know that this paper is already currently being analyzed.  When you finish the yml file, change the first line to "Done_Curator Name_Date".  Jacqueline will periodically go through and remove finished publications from the collection.<br><br>
+    
+2. The publications in the collection should all have the full PDF attached so you can read the paper in Zoterro.  If you choose to, you can take notes about the paper in your WIP note. Alternatively, you may choose to just have the paper open in one window and your yml curation file open in a second window and enter information directly into it.<br><br>
+    
+3. Once you have chosen a paper, it is a good idea to double check that the paper has not already been added to the registry.  (If everyone follows step 1 above, it shouldn't, but it happens).  The yml file (and any branches created prior to being merged to main) will be named "Gensp.First Author Last Name_Second Author Last Name_Year".  Look at the existing branches, as well as the "Studies" folder under the specific species referred to in your paper to ensure that there is no identical entries.<br><br>
+    
+4. **RUN REPORTS - TO DO** <br><br>
 
+5. There is a sub-folder within this collection called "For Future Assessment." These are papers that a curator decided did not have strong enough evidence to warrant a yml entry on their own, but they can be supported to additional papers later.  The gene symbols and species for these papers should be included as tags.  It's a good idea to filter the tags in Zoterro by the gene symbo(s) used in your paper to check that these papers do not provide additional support or information regarding your specific gene symbol.
+</details>
 
 ### How to curate with GitHub
 <details>
-1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)
-2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper <b><i>NOTE: are we still doing this process - it seems like now we are not making an Issue unless there is a problem (e.g. broken link) or question about something?</b></i>
+    
+1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)<br><br>
+    
+2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper <b><i>NOTE: are we still doing this process - it seems like now we are not making an Issue unless there is a problem (e.g. broken link) or question about something?</b></i><br><br>
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
-3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and rename the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)
+3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and rename the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)<br>
    - Make sure to use the date the paper was published in the journal not the date the paper was first published online (generally this should be the date in the paper's citation).
+
 </details>
 
 ### Branch management using Git on the terminal
 <details>
-- To start a brand new branch on your own computer first start within the correct directory.  Within the terminal use the command "git checkout -b gensp.Author_Author_YEAR" or "git branch (new_branch_name)" followed by "git switch (new_branch_name)".
 
-- To create a new branch on your local device that tracks a branch already present at https://github.com/legumeinfo/gene-function-registry, use the command "git checkout --track origin/(remote_branch_name)" in the terminal.
+- To start a brand new branch on your own computer first start within the correct directory.  Within the terminal use the command `git checkout -b gensp.Author_Author_YEAR` or ```git branch (new_branch_name)``` followed by ```git switch (new_branch_name)```.
 
-- If the local branch has no upstream branch at GitHub created earlier, you cannot simply push your file changes.  Rather, to push the current branch and set the remote as upstream, use one of the following commands; "git push --set-upstream origin (local_branch_name)" or "git push -u origin (local-branch_name)".
+- To create a new branch on your local device that tracks a branch already present at https://github.com/legumeinfo/gene-function-registry, use the command `git checkout --track origin/(remote_branch_name)` in the terminal.
 
-- To rename a local branch first change directories to within that branch and use the command "git branch -m (new_branch_name)".  Additionally, you may rename a branch from within any other local branches using "git branch -m (old_branch_name) (new_branch_name)".
+- If the local branch has no upstream branch at GitHub created earlier, you cannot simply push your file changes.  Rather, to push the current branch and set the remote as upstream, use one of the following commands; `git push --set-upstream origin (local_branch_name)` or `git push -u origin (local-branch_name)`.
 
-- To rename a remote branch that exists at GitHub, you must first delete the older one with the command "git push origin --delete (old_remote_branch_name)".  You then push the newly renamed local branch using "git push origin -u (new_local_branch_name)".
+- To rename a local branch first change directories to within that branch and use the command `git branch -m (new_branch_name)`.  Additionally, you may rename a branch from within any other local branches using `git branch -m (old_branch_name) (new_branch_name)`.
+
+- To rename a remote branch that exists at GitHub, you must first delete the older one with the command `git push origin --delete (old_remote_branch_name)`.  You then push the newly renamed local branch using `git push origin -u (new_local_branch_name)`.
 
 - Save and track versions of your files using git and GitHub.  You should save your local files to a hard drive regularly during the workday, create saved local versions at least daily using git, and push your local versions (commits) to the shared workspace on https://github.com/legumeinfo/gene-function-registry.
 
-- The “git status” command will help you find recent updates to your local branch and how they contrast with the remote repository.  Git status compares the contents of the local “.git” to the contents of GitHub, and you can decide to reconcile them using git push, git fetch, git pull, etc.
+- The `git status` command will help you find recent updates to your local branch and how they contrast with the remote repository.  Git status compares the contents of the local `.git` to the contents of GitHub, and you can decide to reconcile them using `git push`, `git fetch`, `git pull`, etc.
 
-- The commands “git fetch” followed by “git pull” take the latest updates at the remote website GitHub and place them into the repository of “.git” on your local device.  Hence your local version of the branch, e.g. "main" is made identical to the tracked branch on GitHub.
+- The commands `git fetch` followed by `git pull` take the latest updates at the remote website GitHub and place them into the repository of `.git` on your local device.  Hence your local version of the branch, e.g. "main" is made identical to the tracked branch on GitHub.
 
-- The command “git add” tells git locally about new or altered files and updates these versions to “.git”.  For example on the command line: git add path/file1 path/file2 path/file3.  To remove files from your local latest version use the command "git rm".  The "git add" and "git rm" stage files so they are ready for a "git commit".  You can use "git status" to see if there are files that have been changed and hence need addition or removal.
+- The command `git add` tells git locally about new or altered files and updates these versions to `.git`.  For example on the command line: `git add path/file1 path/file2 path/file3`.  To remove files from your local latest version use the command `git rm`.  The `git add` and `git rm` stage files so they are ready for a `git commit`.  You can use `git status` to see if there are files that have been changed and hence need addition or removal.
 
-- We create a new recorded version of our directories using the command “git commit -m”.  The “git commit” ensconces new or changed files made available by “git add” and "git rm" within “.git”.  The “m” option allows you to write a brief message describing the new updates for your records.
+- We create a new recorded version of our directories using the command `git commit -m`.  The `git commit` ensconces new or changed files made available by `git add` and `git rm` within `.git`.  The `-m` option allows you to write a brief message describing the new updates for your records.
 
-- The record of "commits" and other changes within your git repository may be seen using "git log".  The command "git branch" allows you to see all the possible branches available in the directory and "git branch -a" shows the tracking branches at GitHub.  Shift from one branch to another using "git switch (different_branch_name)"
+- The record of "commits" and other changes within your git repository may be seen using `git log`.  The command `git branch` allows you to see all the possible branches available in the directory and `git branch -a` shows the tracking branches at GitHub.  Shift from one branch to another using `git switch (different_branch_name)`.
 
-- The “git push” command then takes the updates in local “.git”, which have been staged ready for the push by “git-commit”, and pushes (uploads) the staged files to a remote repository at github.com.  Requires a sign-in or permission to access and use “git-push” in the command line without specifying the files.
+- The `git push` command then takes the updates in local `.git`, which have been staged ready for the push by `git-commit`, and pushes (uploads) the staged files to a remote repository at github.com.  Requires a sign-in or permission to access and use `git-push` in the command line without specifying the files.
+
 </details>
 
 ### The components of the YAML file
