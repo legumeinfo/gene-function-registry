@@ -38,13 +38,10 @@
     
 1. Make a branch from 'main' and name it "gensp.Author_Author_Year" (example: glyma.Song_Montes-Luz_2022)<br><br>
     
-2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper <b><i>NOTE: are we still doing this process - it seems like now we are not making an Issue unless there is a problem (e.g. broken link) or question about something?</b></i><br><br>
-    - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
-    
-3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and rename the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)<br>
+2. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and rename the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)<br>
    - Make sure to use the date the paper was published in the journal not the date the paper was first published online (generally this should be the date in the paper's citation).<br><br>
 
-4. Once you've completed the gensp.traits.yml document, use the YAML Lint website to check for formatting errors.
+3. Once you've completed the gensp.traits.yml document, use the YAML Lint website to check for formatting errors.
    - Highlight and copy the entire .yml file and paste it into the entry box at [YAML Lint](https://www.yamllint.com/) at https://www.yamllint.com/.
    - Click `GO` in the lower right hand corner.
    - YAML Lint will read the file, shorten the lines to 80 characters each (for readability), and tell you if there are any formatting errors.  If the bar below the box turns green and says either "Valid YAML!" or "Multiple documents detected. Valid YAML!" there are no formatting errors.
@@ -118,7 +115,10 @@ If for some reason the gene symbol does not come up in the NCBI website (this is
 <details> 
     Ideally, this will be the gene model as it is listed in the publication, e.g. Glyma02g17170.2, SoyW82_02G12800.1 or Glyma.02G152800 depending on the annotation version.<br><br>
 
-Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.
+Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.<br><br>
+
+If you don't find a gene model pub name in the main text of the paper, look in the supplementary data, tables or figures.  These types of details are often listed somewhere in this supplementary data. To get to the supplementary data, you may need to go to the online version of the paper.  The quickest way to do this is to use [Google](https://google.com) or [Google Scholar](https://scholar.google.com/) and search for the papers DOI.  Alternatively, you can search for the PMID (Pubmed ID) in the [Pubmed Database](https://pubmed.ncbi.nlm.nih.gov/). (The PMID can also be searched on Google).
+
 </details>
 
 #### Gene model full id: REQUIRED
