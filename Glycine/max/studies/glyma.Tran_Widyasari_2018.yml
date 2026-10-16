@@ -1,58 +1,61 @@
 scientific_name: Glycine max
-classical_locus:
 gene_symbols:
   - GmRsv3
 gene_symbol_long: Soybean Mosaic Virus Resistance 3
 gene_model_pub_name: Glyma.14G204700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G204700
-confidence: 5
+confidence: 4
 curators:
   - Scott Kalberer
 comments:
   - Soybean mosaic virus (SMV) is a single-stranded positive-sense RNA potyvirus
-    that is destructive to soybean and SMV strains are classified by patterns of
-    virulence. Dominant resistance genes (R genes) most often express proteins
-    with NBS-LRR domains that recognize pathogen avirulence factors. The four
-    loci Rsv1, Rsv3, Rsv4, and Rsv5 confer strain-specific resistance to SMV.
-  - Locus Rsv3 confers extreme resistance to the virulent SMV strains G5 to G7
-    and was mapped on chromosome 14 in soybean genotype L29 (Jeong, Kristipati
-    et al., 2002). Five NBS-LRR candidate genes for Rsv3 were identified in the
-    154-kbp region between the two genetic markers A519F/R and M3Satt (Suh,
-    Bowman et al., 2011).
-  - Isolated and confirmed a locus, Glyma.14G204700, as full-length cDNA from
-    soybean variety L29 that provides targeted resistance against SMV.
-  - Glyma.14G204700 in assemblies 2 and 4 is the same as Glyma14g38533 in
-    assembly 1.
-  - Glyma.14g204700 exhibited the highest transcript abundance and
-    genotype-phenotype correlation of the five candidates.
-  - The 15593-bp Glyma.14G204700 genomic sequence from L29 has 8 exons and 7
-    introns. The coding sequence, 3888-bp in length, is predicted to translate
-    into a 1295 amino acid CC-NBS-LRR protein with N-terminal coiled-coil,
+    and SMV strains are classified by patterns of virulence towards soybeans.
+    Dominant resistance genes (R genes) often express proteins with NBS-LRR
+    domains that recognize pathogen avirulence factors. The four loci Rsv1,
+    Rsv3, Rsv4, and Rsv5 confer strain-specific resistance to SMV.
+  - Locus GmRsv3 confers extreme resistance to the virulent SMV strains G5 to G7
+    and was mapped on chromosome 14 in soybean variety L29 (Jeong et al.,
+    2002). Five NBS-LRR candidate genes for Rsv3 were identified in the 154-kbp
+    region between the two genetic markers A519F/R and M3Satt (Suh et al.,
+    2011).
+  - The candidate Rsv3 gene models were Glyma.14G204500, Glyma.14G204600,
+    Glyma.14G204700, Glyma.14G205000, and Glyma.14G205300. Glyma.14g204700
+    exhibited the highest transcript abundance and numbered genotype-phenotype
+    correlations out of the five after comparative sequence analysis (Redekar et
+    al., 2016).
+  - Tran et al. (2018) isolated from L29 and confirmed this locus,
+    Glyma.14G204700, as a full-length cDNA that provides targeted resistance
+    against SMV. Glyma.14G204700 in assemblies 2 and 4 is the same as gene model
+    Glyma14g38533 in assembly 1.
+  - The 15593-bp Glyma.14G204700 genomic sequence has 8 exons and 7 introns. The
+    coding sequence, 3888-bp in length, is predicted to translate into a 1295
+    amino acid CC-NBS-LRR protein with N-terminal coiled-coil,
     nucleotide-binding, and leucine-rich repeat domains.
   - Amino acid comparison between resistant (L29) and susceptible (William 82)
     genotypes shows 90% sequence identity. Most of the amino acid substitutions
     (93 out of 100) clustered within the LRR-domain itself, with 54
     substitutions found in 22 LRR motifs. The functional differences in
     LRR-domains likely affect Avr recognition by these proteins.
-  - Transient co-expression in vivo of the candidate gene (Glyma.14G204700) and
-    SMV-G5H viral infectious clones expressing green fluorescent protein (GFP)
-    in susceptible soybeans resulted in strain-specific inhibition of SMV
-    accumulation. SMV infection was not completely inhibited probably because
-    expression was only local and transient. Nevertheless, transient expression
-    of Glyma.14g204700 in the co-inoculation experiments did not inhibit
-    infection of the more virulent strain SMV-G7H.
+  - Transient co-expression in susceptible Lee74 soybeans of the Glyma.14G204700
+    plasmids and SMV-G5H viral infectious clones that expressed green
+    fluorescent protein (GFP) resulted in strain-specific inhibition of SMV
+    accumulation. SMV infection was incompletely hampered probably because
+    resistance gene expression was only local and transient. Nevertheless,
+    transient expression of Glyma.14g204700 didn't inhibit infection of the more
+    virulent strain SMV-G7H.
   - Virus-Induced Gene Silencing (VIGS) of Glyma.14G204700 in resistant L29
     plants temporarily reduced its expression to around 20%. The bean pod mottle
     virus (BPMV) VIGS vector expressed a short, antisense RNA fragment of the
-    GmRsv3 target (BPMV::Gm14g204700) in inoculated plants.
-  - Additionally, increased accumulation of the SMV-G5H virus in inoculated
-    leaves resulted from transient silencing, with virus levels dropping again
-    once Glyma.14G204700 transcription was no longer inhibited. Neither local
-    nor systemic infection of the SMV-G5H detected via GFP expression was
-    observed in L29 even though Glyma.14g204700 had been silenced using the
-    BPMV-based VIGS, and thus Rsv3-mediated resistance was not fully suppressed.
-phenotype_synopsis: Glyma.14g204700 is a strong candidate for the Rsv3 gene
-  responsible for strain-specific SMV resistance in soybean.
+    candidate (BPMV::Gm14g204700) in inoculated plants.
+  - Increased replication of the SMV-G5H virus in inoculated leaves resulted
+    from transient silencing, with virus levels dropping once Glyma.14G204700
+    transcription was no longer inhibited. Neither local nor systemic infection
+    of the SMV-G5H detected via GFP expression was observed in L29 even though
+    Glyma.14g204700 had been silenced with VIGS, and thus Rsv3-mediated
+    resistance was not fully suppressed.
+phenotype_synopsis: Glyma.14g204700, based on gene expression and sequence
+  characteristics, is the strongest candidate for the GmRsv3 gene responsible
+  for strain-specific SMV resistance in soybean.
 traits:
   - entity_name: viral disease response trait
     entity: TO:0000148
