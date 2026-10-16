@@ -142,18 +142,25 @@ Each section will start by stating whether a particular component is required to
 
 **"Traits" Ontology Section:** _REQUIRED_ 
 
-> Immediately after the Phenotypic_synopsis section is a section to include Ontology terms for the gene function. Each term consists of a two-line entry.  Line 1 is the _entity name_ and Line 2 is the _entity__ (or term ID). These terms can be searched for using the process mentioned in [Common Challenges](#common-challenges).  **You are required to have at least 1 entity and no more then 5 entities**.
+- Immediately after the Phenotypic_synopsis section is a section to include Ontology terms for the gene function.
+- Each term consists of a two-line entry.
+    - Line 1 is the _entity name_ and Line 2 is the _entity__ (or term ID).
+    - These terms can be searched for using the process mentioned in [Common Challenges](#common-challenges).
+    - **You are required to have at least 1 entity and no more then 5 entities**.
 
-> _Example:_ 
->> traits:<br>
-    >> - entity_name: _the name of the ontology accession,_ e.g. "nodulation"<br>
-    >> - entity: _The ontology accession code,_ e.g. TO:#####
+> [!NOTE]
+> 
+> traits:
+> - entity_name: flowering time trait
+> - entity: TO:0002616
 
 **References:** _REQUIRED_
 
-> At least 1 reference is required for each gene (typically the publication you are reporting on).  If possible include both the pmid (Pubmed ID) and the doi, however at least 1 of these needs to be included for each citation.
-> If you used other references in searching for the gene function (other publications, not websites) include those in this section as well.  For example, if an Orthologous gene in another species is used to validate the confidence level, include that reference.
-> This section may also contain papers that are added later when more information about the gene function is published.
+- At least 1 reference is required for each gene (typically the publication you are reporting on).
+- If possible include both the pmid (Pubmed ID) and the doi, however at least 1 of these needs to be included for each citation.
+- If you used other references in searching for the gene function (other publications, not websites) include those in this section as well.
+    - For example, if an Orthologous gene in another species is used to validate the confidence level, include that reference.
+- This section may also contain papers that are added later when more information about the gene function is published.
 
 ## Common Challenges
 
