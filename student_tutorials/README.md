@@ -38,9 +38,16 @@
     
 2. Create a new issue using "gensp.Author_Author_Year" so that students and mentors (other curators) can easily discuss issues with curating the research paper <b><i>NOTE: are we still doing this process - it seems like now we are not making an Issue unless there is a problem (e.g. broken link) or question about something?</b></i><br><br>
     - The issue can be closed once the curation for the particular paper is done (done == reviewed and merged).
+    
 3. Copy the [curation template](https://github.com/legumeinfo/gene-function-registry/blob/main/templates/gensp.traits.yml) and rename the file "gensp.Author_Author_Year.yml" (example: glyma.Song_Montes-Luz_2022.yml)<br>
-   - Make sure to use the date the paper was published in the journal not the date the paper was first published online (generally this should be the date in the paper's citation).
+   - Make sure to use the date the paper was published in the journal not the date the paper was first published online (generally this should be the date in the paper's citation).<br><br>
 
+4. Once you've completed the gensp.traits.yml document, use the YAML Lint website to check for formatting errors.
+   - Highlight and copy the entire .yml file and paste it into the entry box at [YAML Lint](https://www.yamllint.com/) at https://www.yamllint.com/.
+   - Click `GO` in the lower right hand corner.
+   - YAML Lint will read the file, shorten the lines to 80 characters each (for readability), and tell you if there are any formatting errors.  If the bar below the box turns green and says either "Valid YAML!" or "Multiple documents detected. Valid YAML!" there are no formatting errors.
+   - YAML sees the line `---` as the beginning of a new "document."  In the gene function registry, each separate gene symbol within a publication is treating as a new "entry" or "document".  So a single YAML file may have multiple "documents" if a publication addressed multiple gene symbols.  If you intended your file to only address a single gene symbol but you get the message "Multiple documents detected..." double check that there is not a second copy of the `---` line in your file.
+   
 </details>
 
 ### Branch management using Git on the terminal
