@@ -1,0 +1,37 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSTOP1a
+gene_symbol_long: SENSITIVE TO PROTON RHIZOTOXICITY 1a
+gene_model_pub_name: Glyma.10G215200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G215200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - The GmSTOP1a gene encodes a transcription factor crucial for soybean
+    responses to low-phosphorus and acidic soil conditions.
+  - A natural 24-bp insertion in the GmSTOP1a promoter reduces its
+    responsiveness to phosphorus deficiency by disrupting the GmAGL12 binding
+    site, leading to weaker gene activation in certain soybean varieties.
+  - The allele lacking the 24-bp insertion enables strong GmSTOP1a activation,
+    enhancing organic acid secretion and phosphate mobilization in
+    phosphorus-deficient soils, especially in low-latitude regions.
+  - Population genetic analysis suggests that the superior GmSTOP1a allele was
+    selected during soybean expansion into low-latitude areas with acidic,
+    phosphorus-fixed soils.
+  - Overexpression of GmSTOP1a improves soybean yield under phosphorus-deficient
+    conditions, demonstrating its potential for breeding phosphorus-efficient
+    cultivars.
+phenotype_synopsis: GmSTOP1a enhances soybean tolerance to low-phosphorus and
+  acidic soils by promoting organic acid secretion and root phosphate
+  mobilization.
+traits:
+  - entity_name: phosphorus content
+    entity: TO:0001024
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Guo, Duan et al., 2026
+    doi: 10.1016/j.xplc.2026.101967
+    pmid: 42298819
