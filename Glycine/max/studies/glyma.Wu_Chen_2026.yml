@@ -2,35 +2,38 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmTCP13
-gene_symbol_long: Teosintebranched1/Cycloidea/Proliferating cell factor 13
-gene_model_pub_name: Glyma.18G26870
+gene_symbol_long: Teosintebranched1/Cycloidea/Proliferating Cell Factor 13
+gene_model_pub_name: Glyma.18G268700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268700
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmTCP13 is a TCP transcription factor gene identified within a stable salt
     tolerance QTL region on chromosome 18, contributing to soybean's ability to
-    withstand salt stress
+    withstand salt stress.
   - GmTCP13 likely modulates water loss and stomatal behavior under salt stress,
     as silenced plants exhibit lower water retention and water content,
-    indicating a role in water regulation mechanisms
+    indicating a role in water regulation mechanisms.
   - A derived dCAPS marker based on a SNP in GmTCP13 allows for marker-assisted
     selection of salt-tolerant soybean lines, facilitating breeding programs
-    aimed at improving salinity resilience
+    aimed at improving salinity resilience.
   - Variations in the GmTCP13 gene, particularly non-synonymous SNPs, are
     associated with enhanced salt tolerance, with the GmTCP13WH allele showing
-    superior performance compared to GmTCP13PI
+    superior performance compared to the GmTCP13PI allele.
   - Functional assays demonstrated that overexpression of GmTCP13 increases salt
     tolerance in yeast, while silencing GmTCP13 in soybean reduces the plant's
-    salt tolerance, confirming its regulatory role
+    salt tolerance, confirming its regulatory role.
 phenotype_synopsis: GmTCP13 enhances soybean salt tolerance by maintaining
   higher relative water content and reducing leaf chlorosis under salt stress
   conditions, with the superior GmTCP13WH allele conferring greater resilience
-  than the GmTCP13PI allele
+  than the GmTCP13PI allele.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
+  - entity_name: leaf relative water content
+    entity: TO:0000136
 references:
-  - citation: We, Chen et al., 2026
+  - citation: Wu, Chen et al., 2026
     doi: 10.1016/j.jia.2026.09.034
