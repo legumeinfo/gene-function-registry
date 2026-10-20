@@ -6,16 +6,16 @@
 # When you are done, compare your yml file to the Answer Key provided below.
 ---
 # BLANK TEMPLATE
-scientific_name:
-classical_locus:
-gene_symbols:
+scientific_name: Glycine Max
+classical_locus: 
+gene_symbols: GmCIF1
   -
-gene_symbol_long:
+gene_symbol_long: cell-wall inhibitor of beta-fructosidase
 gene_model_pub_name:
 gene_model_full_id:
-confidence:
+confidence: 5
 curators:
-  -
+  - olivia
 comments:
   -
 phenotype_synopsis:
