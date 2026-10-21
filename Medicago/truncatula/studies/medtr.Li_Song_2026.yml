@@ -1,0 +1,42 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSMAX1
+gene_symbol_long: SUPPRESSOR OF MAX2 1
+gene_model_pub_name: MtrunA17_Chr4g0073021
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0073021
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - MtSMAX1 is a highly conserved ortholog in Medicago truncatula that functions
+    as a negative regulator in the karrikin signaling pathway, interacting with
+    the receptors MtKAI2a/b and MtMAX2.
+  - Mutations in MtSMAX1 lead to phenotypes such as reduced seed size, dwarfism,
+    and delayed flowering, indicating its critical role in seed development and
+    reproductive timing.
+  - The Q210 residue within MtSMAX1 contributes to its regulatory functions;
+    mutations at this position partially impair seed pod development without
+    significantly affecting plant height or flowering time.
+  - Overexpression of MtSMAX1 promotes increased plant height and earlier
+    flowering, demonstrating its function as a positive regulator of plant
+    growth and development.
+  - MtSMAX1 potentially modulates downstream genes involved in gibberellin
+    biosynthesis and flowering pathways, linking karrikin signaling to key
+    developmental processes.
+phenotype_synopsis: Loss of MtSMAX1 results in dwarfism, reduced seed size and
+  number, delayed flowering, while overexpression promotes increased plant
+  height and earlier flowering in Medicago truncatula.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed morphology trait
+    entity: TO:0000184
+references:
+  - citation: Li, Song et al., 2026
+    doi: 10.1016/j.plaphy.2026.111628
+    pmid: 42575002
