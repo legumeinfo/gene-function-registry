@@ -66,89 +66,96 @@ Each section will start by stating whether a particular component is required to
 #### **Gene Symbols:** _REQUIRED_
 ###### - This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".
 ###### - Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.
-- If there are multiple names for one gene, enter them on separate lines with the most common name entered first.
-- If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
+###### - If there are multiple names for one gene, enter them on separate lines with the most common name entered first.
+###### - If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
 
-**Gene Symbol long:** _REQUIRED_
+
+<details><summary><b>Gene Symbol long:</b> REQUIRED</summary>
 - The long-hand version of the gene-symbol acronym, e.g. "Nodule Number Control 1".  You do not need to include the prefix for the scientific name (i.e. "Gm" for Glycine max).
 - Most of the time this is going to be listed in the publication. In the event it is not listed, the easiest place to find this would be on the [NCBI Gene search](https://www.ncbi.nlm.nih.gov/gene/) website.
 - If for some reason the gene symbol does not come up in the NCBI website (this is rare, but it happens), search the term on Google to see if a gene name or protein name (that makes sense with the topic of the publication) comes up.
     - For example, the gene symbol given in this guide "GmNNC1" does not actually return results in the NCBI gene website, but Google will return the correct Gene_symbol_long.
+</details> 
 
-**Gene model pub name:** _REQUIRED_
-- Ideally, this will be the gene model as it is listed in the publication, e.g. Glyma02g17170.2, SoyW82_02G12800.1 or Glyma.02G152800 depending on the annotation version.<br><br>
-- Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.<br><br>
-- If you don't find a gene model pub name in the main text of the paper, look in the supplementary data, tables or figures.  These types of details are often listed somewhere in this supplementary data. To get to the supplementary data, you may need to go to the online version of the paper.
-    - The quickest way to do this is to use [Google](https://google.com) or [Google Scholar](https://scholar.google.com/) and search for the papers DOI.  Alternatively, you can search for the PMID (Pubmed ID) in the [Pubmed Database](https://pubmed.ncbi.nlm.nih.gov/). (The PMID can also be searched on Google).
+<details>
+<summary><b>Gene model pub name:</b> REQUIRED</summary>
+<ul>    
+    <li>Ideally, this will be the gene model as it is listed in the publication, e.g. Glyma02g17170.2, SoyW82_02G12800.1 or Glyma.02G152800 depending on the annotation version.</li>
+    <li>Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.</li>
+    <li>If you don't find a gene model pub name in the main text of the paper, look in the supplementary data, tables or figures.  These types of details are often listed somewhere in this supplementary data. To get to the supplementary data, you may need to go to the online version of the paper.</li>
+<li>The quickest way to do this is to use [Google](https://google.com) or [Google Scholar](https://scholar.google.com/) and search for the papers DOI.  Alternatively, you can search for the PMID (Pubmed ID) in the [Pubmed Database](https://pubmed.ncbi.nlm.nih.gov/). (The PMID can also be searched on Google).</li>
+</details>
 
-**Gene model full id:** _REQUIRED_
+<details><summary><b>Gene model full id:</b> REQUIRED</summary>
 - This field is often the one that takes the most work to find.  The gene_model_full_id must directly link to a gene model in the LIS (Legume Information System).  Often, this specific identifier is not listed in the paper, or even in the supplementary data. Below, are several different examples of steps to finding the gene_model_full_id ranging from most simplistic to a little more work.
+</details>
 
-**Confidence Value:** _REQUIRED_
+<details><summary><b>Confidence Value:</b> REQUIRED</summary>
 - This is a value from 1 to 5 showing how strong the evidence for the gene's function is.
+</details>
 
->[!TIP]
+> [!TIP]
 > How to determine the Confidence value
 >    - _Short Answer:_ This field indicates the level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
 >    - _Long Answer:_ Level **5**, and to a lesser extent  **4**, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest. 
 >    - A level of **3** would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation. For example, if specific transformation experiments and observations of mutant alleles were not observed in the specified species, but a related species or close outgroup (such as Arabidopsis) would warrant a level 3 (or possibly a low level **4** if it has been observed in multiple species). <br><br>
 >    - In general, publications being entered into the gene function registry should be at a level **3** or higher. Levels **1** and **2** would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized. For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level **1** or **2** support.
 
-**Curators:** _REQUIRED_
 
-> This section lists who created the yaml file. Put your name here. This section is required to be an array (a list) so you must have the following format for the validator to read it correctly.<br>
->> EXAMPLE
->>> Curators:<br>
->>>    - _Your name here_
-    
-**Comments:** _REQUIRED_  **NOTE to curators: Is this field required?**
+<details><summary><b>Curators:</b> REQUIRED</summary>
+> This section lists who created the yaml file. Put your name here. This section is required to be an array (a list) so you must have the following format for the validator to read it correctly.
+</details>
 
-> This section should consist of 5 to 7 comments describing the gene's function (to the extent it is known), other genes it interacts with, and a brief summary of the publication findings that led you to the confidence value you gave it.<br>
+> [!TIP]
+> Curators:<br>
+>    - _Your name here_
 
+<details><summary><b>Comments:</b> REQUIRED</summary>
+This section should consist of 5 to 7 comments describing the gene's function (to the extent it is known), other genes it interacts with, and a brief summary of the publication findings that led you to the confidence value you gave it.
+> [!TIP]
 > _Example describing the gene:_
->> "A cytochrome P450 superfamily protein"
+>    "A cytochrome P450 superfamily protein"
 
-> _Example validating confidence value_
->> "Gene function established using mutation, expression, and related function tests."
+>_Example validating confidence value_
+>    "Gene function established using mutation, expression, and related function tests."
 
 > If the gene affects/is affected by another gene you have curated, include the name of the yml file which discusses the interacting gene.
-> _Example of an interaction:_
-> >> "miR172c cleaves the protein product of the NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle_Men_2003.yml)."
+>_Example of an interaction:_
+>    "miR172c cleaves the protein product of the NNC1, allowing ENOD40 to be transcribed. miR172c is negatively regulated by NARK (see Searle_Men_2003.yml)."
 
-> This is also the section to include where you found the gene_model_pub_name if it is not obvious, and how you determined the gene_model_full_id if you needed to use the LIS resources to search for the full id.<br>
-> _Example:_ "
->> Gene_model_full_id was identified by searching the FASTA format protein
-    sequence from the Genbank Accession against the Cicer arietinum CDCFrontier
-    v3.1 proteins database on Cicer Resources Portal
-    (https://cicer.legumeinfo.org/)."
+This is also the section to include where you found the gene_model_pub_name if it is not obvious, and how you determined the gene_model_full_id if you needed to use the LIS resources to search for the full id.
 
-**Phenotypic Synopsis:** _REQUIRED_
+> [!TIP]
+>_Example:_ "
+>    Gene_model_full_id was identified by searching the FASTA format protein sequence from the Genbank Accession against the <i>Cicer arietinum</i> CDCFrontier v3.1 proteins database on Cicer Resources Portal (https://cicer.legumeinfo.org/)."
+</details>
 
-> This should be 1 to 2 sentences describing the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
+<details><summary><b>Phenotypic Synopsis:</b> REQUIRED</summary>
+- This should be 1 to 2 sentences describing the phenotype, e.g. "NNC1 is a transcription factor that negatively regulates nodule number by repressing GmENOD40."
+- Note that while the comments section is required to be a list (each statement starts with an indented "-"), this section is not so the statement should be placed directly after the ":".  "Phenoytypic_synopsis:" _Your comment here_
+</details>
 
-> Note that while the comments section is required to be a list (each statement starts with an indented "-"), this section is not so the statement should be placed directly after the ":".  "Phenoytypic_synopsis:" _Your comment here_
-
-**"Traits" Ontology Section:** _REQUIRED_ 
-
+<details><summary><b>Traits:</b> REQUIRED</summary>
+Ontology Section
 - Immediately after the Phenotypic_synopsis section is a section to include Ontology terms for the gene function.
 - Each term consists of a two-line entry.
     - Line 1 is the _entity name_ and Line 2 is the _entity__ (or term ID).
     - These terms can be searched for using the process mentioned in [Common Challenges](#common-challenges).
     - **You are required to have at least 1 entity and no more then 5 entities**.
-
-> [!NOTE]
-> 
+</details>
+> [!TIP]
 > traits:
 > - entity_name: flowering time trait
 > - entity: TO:0002616
 
-**References:** _REQUIRED_
 
+<details><summary><b>References:</b> REQUIRED</summary>
 - At least 1 reference is required for each gene (typically the publication you are reporting on).
 - If possible include both the pmid (Pubmed ID) and the doi, however at least 1 of these needs to be included for each citation.
 - If you used other references in searching for the gene function (other publications, not websites) include those in this section as well.
     - For example, if an Orthologous gene in another species is used to validate the confidence level, include that reference.
 - This section may also contain papers that are added later when more information about the gene function is published.
+</details>
 
 ## Common Challenges
 
