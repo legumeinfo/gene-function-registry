@@ -1,0 +1,43 @@
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRAV1
+gene_symbol_long: Related to ABI3 and VP1
+gene_model_pub_name: MTR_1g093600
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0198661
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MtRAV1’s promoter contains cis-elements responsive to light, stress, and
+    hormones (e.g., ABRE for ABA), suggesting it integrates environmental and
+    hormonal signals to regulate plant development
+  - DNA affinity purification sequencing (DAP-seq) identified MtRAV1 binding
+    motifs and target genes, including those involved in photosystem II and
+    auxin response such as MtFd-l3, MtLhcb-l2, and MtSAUR-l
+  - Transcriptomic analyses reveal MtRAV1 influences multiple pathways related
+    to photosynthesis, circadian rhythm, and especially auxin signaling,
+    indicating it controls complex growth regulatory networks
+  - MtRAV1 represses the expression of flowering-related genes MtFTa1 and
+    MtSOC1, as well as hormone biosynthesis genes MtGA3OX1, MtDWARF14, and
+    MtCCD7, contributing to delayed flowering and altered growth
+  - Overexpression of MtRAV1 in Medicago truncatula causes dwarfism, delayed
+    flowering, reduced leaves and floral organs, increased branching, and
+    smaller pods and seeds
+phenotype_synopsis: Overexpression of the MtRAV1 gene in Medicago truncatula
+  results in a dwarf, slow-growing plant with delayed flowering, smaller leaves
+  and floral organs, increased primary branching, and reduced pod and seed size
+  and number
+traits:
+  - entity_name: plant morphology trait
+    entity: TO:0000017
+  - entity_name: plant organ morphology trait
+    entity: TO:0000736
+  - entity_name: flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Wang, Guo et al., 2025
+    doi: 10.1016/j.jia.2023.12.032
+  - citation: Wang, Guo et al., 2021
+    doi: 10.1016/j.plaphy.2021.04.003
+    pmid: 33845331
