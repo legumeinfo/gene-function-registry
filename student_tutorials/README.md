@@ -57,54 +57,42 @@
 This section will discuss the individual components of the YAML file with information on what should be included, and how to find the information. 
 Each section will start by stating whether a particular component is required to be included in the YAML file or not.  If a component is not required, and you are not including it - you can delete the line containing that component.
 
-**Scientific_name:** _REQUIRED_
+#### **Scientific_name:** _REQUIRED_
+###### - The two-word binomial, e.g. Glycine max
 
-> The two-word binomial, e.g. Glycine max
+#### **Classical Locus:** Not Required
+###### - Name of the locus (if available) from classical genetic studies. An example of this may be the R locus characterized by Mendel for seed shape in the pea plant (Round vs Wrinkled). This may not be mentioned in more recent papers that are not studying traits characterized by classical breeding studies.
 
-**Classical Locus:** Not Required
-
-> Name of the locus (if available) from classical genetic studies. An example of this may be the R locus characterized by Mendel for seed shape in the pea plant (Round vs Wrinkled). This may not be mentioned in more recent papers that are not studying traits characterized by classical breeding studies.
-
-**Gene Symbols:** _REQUIRED_
-
-> This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".  Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.
-
-> If there are multiple names for one gene, enter them on separate lines with the most common name entered first.
-
-> If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
+#### **Gene Symbols:** _REQUIRED_
+###### - This field is required to be listed as an array (or list), even if there is just a single gene symbol being listed. The gene symbol should be the abbreviated gene name as listed in the paper. For Example, "GmNNC1".
+###### - Note that the gene symbol must start with a 2 letter designation from the scientific name of the species with the first letter capitalized for the Genus name and the second letter lower case for the species name.
+- If there are multiple names for one gene, enter them on separate lines with the most common name entered first.
+- If more than one gene is described in the same paper, paste another copy of the YAML template below the first one (starting with the line "---" and describe all sections of the YAML file for the separate gene.
 
 **Gene Symbol long:** _REQUIRED_
-
-> The long-hand version of the gene-symbol acronym, e.g. "Nodule Number Control 1".  You do not need to include the prefix for the scientific name (i.e. "Gm" for Glycine max).
-    
-> Most of the time this is going to be listed in the publication. In the event it is not listed, the easiest place to find this would be on the [NCBI Gene search](https://www.ncbi.nlm.nih.gov/gene/) website.
-
-> If for some reason the gene symbol does not come up in the NCBI website (this is rare, but it happens), search the term on Google to see if a gene name or protein name (that makes sense with the topic of the publication) comes up. For example, the gene symbol given in this guide "GmNNC1" does not actually return results in the NCBI gene website, but Google will return the correct Gene_symbol_long.
+- The long-hand version of the gene-symbol acronym, e.g. "Nodule Number Control 1".  You do not need to include the prefix for the scientific name (i.e. "Gm" for Glycine max).
+- Most of the time this is going to be listed in the publication. In the event it is not listed, the easiest place to find this would be on the [NCBI Gene search](https://www.ncbi.nlm.nih.gov/gene/) website.
+- If for some reason the gene symbol does not come up in the NCBI website (this is rare, but it happens), search the term on Google to see if a gene name or protein name (that makes sense with the topic of the publication) comes up.
+    - For example, the gene symbol given in this guide "GmNNC1" does not actually return results in the NCBI gene website, but Google will return the correct Gene_symbol_long.
 
 **Gene model pub name:** _REQUIRED_
-
-> Ideally, this will be the gene model as it is listed in the publication, e.g. Glyma02g17170.2, SoyW82_02G12800.1 or Glyma.02G152800 depending on the annotation version.<br><br>
-
-> Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.<br><br>
-
-> If you don't find a gene model pub name in the main text of the paper, look in the supplementary data, tables or figures.  These types of details are often listed somewhere in this supplementary data. To get to the supplementary data, you may need to go to the online version of the paper.  The quickest way to do this is to use [Google](https://google.com) or [Google Scholar](https://scholar.google.com/) and search for the papers DOI.  Alternatively, you can search for the PMID (Pubmed ID) in the [Pubmed Database](https://pubmed.ncbi.nlm.nih.gov/). (The PMID can also be searched on Google).
+- Ideally, this will be the gene model as it is listed in the publication, e.g. Glyma02g17170.2, SoyW82_02G12800.1 or Glyma.02G152800 depending on the annotation version.<br><br>
+- Occasionally, the publication will list the gene model as something different. such as a Genbank accession number (XP_004493127) or an author-given gene name.  While these aren't ideal, the Gene_model_pub_name should be something that is directly linked to that publication. If you have to use an author given name, or another unconventional publication name, state how the name was obtained as a comment in the comments section below.<br><br>
+- If you don't find a gene model pub name in the main text of the paper, look in the supplementary data, tables or figures.  These types of details are often listed somewhere in this supplementary data. To get to the supplementary data, you may need to go to the online version of the paper.
+    - The quickest way to do this is to use [Google](https://google.com) or [Google Scholar](https://scholar.google.com/) and search for the papers DOI.  Alternatively, you can search for the PMID (Pubmed ID) in the [Pubmed Database](https://pubmed.ncbi.nlm.nih.gov/). (The PMID can also be searched on Google).
 
 **Gene model full id:** _REQUIRED_
-
-> This field is often the one that takes the most work to find.  The gene_model_full_id must directly link to a gene model in the LIS (Legume Information System).  Often, this specific identifier is not listed in the paper, or even in the supplementary data. Below, are several different examples of steps to finding the gene_model_full_id ranging from most simplistic to a little more work.
+- This field is often the one that takes the most work to find.  The gene_model_full_id must directly link to a gene model in the LIS (Legume Information System).  Often, this specific identifier is not listed in the paper, or even in the supplementary data. Below, are several different examples of steps to finding the gene_model_full_id ranging from most simplistic to a little more work.
 
 **Confidence Value:** _REQUIRED_
+- This is a value from 1 to 5 showing how strong the evidence for the gene's function is.
 
-> This is a value from 1 to 5 showing how strong the evidence for the gene's function is.
-
->> **How to determine the Confidence value**
->> _Short Answer:_ This field indicates the level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.<br><br>
-
->> _Long Answer:_ Level **5**, and to a lesser extent  **4**, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest. <br><br>
->> A level of **3** would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation. For example, if specific transformation experiments and observations of mutant alleles were not observed in the specified species, but a related species or close outgroup (such as Arabidopsis) would warrant a level 3 (or possibly a low level **4** if it has been observed in multiple species). <br><br>
-
->> In general, publications being entered into the gene function registry should be at a level **3** or higher.<br>
->> Levels **1** and **2** would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized.  For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level **1** or **2** support.
+>[!TIP]
+> How to determine the Confidence value
+>    - _Short Answer:_ This field indicates the level of experimental support for the candidate gene, with 5 being the strongest and 1 the weakest.  Search your feelings and write down a plausible number as this task doesn't merit substantial investment.
+>    - _Long Answer:_ Level **5**, and to a lesser extent  **4**, typically consist of strong experimental evidence such as genetic complementation tests or observations of mutant phenotypes associated with alleles of the gene-of-interest. 
+>    - A level of **3** would represent strong associational support, but lacking experimental laboratory validation to demonstate causation over correlation. For example, if specific transformation experiments and observations of mutant alleles were not observed in the specified species, but a related species or close outgroup (such as Arabidopsis) would warrant a level 3 (or possibly a low level **4** if it has been observed in multiple species). <br><br>
+>    - In general, publications being entered into the gene function registry should be at a level **3** or higher. Levels **1** and **2** would be largely high-throughput evidence and weak associations that generally should not be collected or prioritized. For example, papers that report lists of "candidate genes" due to being in the vicinity of a GWAS or QTL region would be level **1** or **2** support.
 
 **Curators:** _REQUIRED_
 
