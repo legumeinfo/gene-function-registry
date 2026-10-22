@@ -30,6 +30,8 @@ traits:
     entity: TO:0006001
   - entity_name: plant structure growth and development trait
     entity: TO:0000928
+  - entity_name: lipid biosynthetic process
+    entity: GO:0008610
   - entity_name: strigolactone metabolic process
     entity: GO:1901600
 references:
