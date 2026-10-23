@@ -7,25 +7,47 @@
 ---
 # BLANK TEMPLATE
 scientific_name: Glycine Max
-classical_locus: 
-gene_symbols: GmCIF1
-  -
+gene_symbols:
+  - GmCIF1
 gene_symbol_long: cell-wall inhibitor of beta-fructosidase
-gene_model_pub_name:
-gene_model_full_id:
+gene_model_pub_name: Glyma.17G036300
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036300
 confidence: 5
 curators:
   - olivia
 comments:
-  -
-phenotype_synopsis:
+  - GmCIF1 encodes a cell wall invertase inhibitor protein. Inhibits cell wall invertase, an enzyme that breaks down sucrose into glucose and fructose. It helps regulate sugar metabolism in soybean development. Gene function established by RNAi transgenic plants via the silencing of its expression.
+phenotype_synopsis: GmCIF1 encodes a cell wall invertase inhibitor that negatively regulates cell wall invertase activity
 traits:
   - entity_name:
     entity:
 references:
+  - citation: Tang, Su, et al., 2016
+    doi: 10.1093/jxb/erw425
+    pmid: 28204559
   - citation:
     doi:
     pmid:
+    
+scientific_name: Glycine Max
+gene_symbols:
+  - GmC/VIF2
+gene_symbol_long: cell wall / vacuolar inhibitor of beta-fructosidase
+gene_model_pub_name: Glyma.17G036400
+gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
+confidence: 5
+curators:
+  - olivia
+comments:
+  - GmC/VIF2 encodes a cell wall and vacuolar invertase inhibitor protein. It inhibits cell wall invertase and vacuolar invertase, enzymes that break down sucrose into glucose and fructose. It helps regulate sugar metabolism in soybean development. Gene function established using recombinant protein enzyme inhibition assays and gene expression analysis.
+phenotype_synopsis: GmC/VIF2 encodes a cell wall and vacuolar invertase inhibitor that negatively regulates cell wall invertase activity
+traits:
+  - entity_name:
+    entity:
+references:
+  - citation: Tang, Su, et al., 2016
+    doi: 10.1093/jxb/erw425
+    pmid: 28204559
   - citation:
     doi:
     pmid:
