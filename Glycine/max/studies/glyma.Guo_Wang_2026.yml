@@ -1,0 +1,40 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GMCXE31
+gene_symbol_long: Carboxylesterase 31
+gene_model_pub_name: Glyma.09G157600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G157600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCXE31 is a member of the soybean CXE gene family that is highly expressed
+    in seedling roots and responds to salt stress and strigolactones.
+  - GmCXE31 modulates lipid metabolism by transcriptionally regulating lipid
+    biosynthesis-related genes, leading to higher seed oil content and an
+    improved fatty acid profile in edited lines.
+  - Disruption of GmCXE31 results in increased nodule number, plant height, and
+    seed yield, demonstrating its influence on agronomic traits.
+  - GMCXE31 negatively regulates salt tolerance in soybean, as its
+    overexpression decreases salt tolerance while knockout enhances salt
+    resilience in both soybean and Arabidopsis.
+  - GmCXE31 influences strigolactone homeostasis which controls multiple
+    physiological pathways including antioxidant response, lipid synthesis, and
+    symbiosis, contributing to enhanced stress tolerance and yield outcomes.
+phenotype_synopsis: Disruption of GmCXE31 via knockout enhances soybean salt
+  tolerance, seed oil content, and overall plant growth, whereas its
+  overexpression suppresses these traits.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: lipid biosynthetic process
+    entity: GO:0008610
+  - entity_name: strigolactone metabolic process
+    entity: GO:1901600
+references:
+  - citation: Guo, Wang et al., 2026
+    doi: 10.1016/j.plantsci.2026.113398
+    pmid: 42641813
