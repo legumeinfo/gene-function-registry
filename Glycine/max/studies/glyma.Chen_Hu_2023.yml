@@ -1,0 +1,34 @@
+---
+scientific_name: Glycine max
+classical_locus: E9  # Name of locus if available from classical genetic studies
+gene_symbols:
+  - GmBES1-1
+gene_symbol_long: Flowering Time 2a  # Descriptive name of gene symbol if available
+gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
+confidence: 5  # Value from 1 to 5 -- 5 being equivalent to complementation test
+curators:
+  - Olivia Wall
+comments:
+  -  # Use if needed
+phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+  - quality_name: premature  # Optional; short descriptive name for accession quality term
+    quality:  # Optional; typically from generally from PATO, https://www.ebi.ac.uk/ols/ontologies/pato
+  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
+    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
+  - entity_name: days to maturity
+    entity: TO:0000469
+  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
+    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
+  - citation: 
+    doi: 
+  - citation: 
+    doi: 
+    pmid:
