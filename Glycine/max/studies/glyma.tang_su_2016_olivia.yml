@@ -28,16 +28,16 @@ references:
   - citation:
     doi:
     pmid:
-    
+---    
 scientific_name: Glycine Max
 gene_symbols:
   - GmC/VIF2
 gene_symbol_long: cell wall / vacuolar inhibitor of beta-fructosidase
 gene_model_pub_name: Glyma.17G036400
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G036400
 confidence: 5
 curators:
-  - olivia
+  - Olivia Wall
 comments:
   - GmC/VIF2 encodes a cell wall and vacuolar invertase inhibitor protein. It inhibits cell wall invertase and vacuolar invertase, enzymes that break down sucrose into glucose and fructose. It helps regulate sugar metabolism in soybean development. Gene function established using recombinant protein enzyme inhibition assays and gene expression analysis.
 phenotype_synopsis: GmC/VIF2 encodes a cell wall and vacuolar invertase inhibitor that negatively regulates cell wall invertase activity
