@@ -6,15 +6,15 @@
 # When you are done, compare your yml file to the Answer Key provided below.
 ---
 # BLANK TEMPLATE
-scientific_name: Glycine Max
+scientific_name: Glycine max
 gene_symbols:
   - GmCIF1
 gene_symbol_long: cell-wall inhibitor of beta-fructosidase
 gene_model_pub_name: Glyma.17G036300
-gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G036300
 confidence: 5
 curators:
-  - olivia
+  - Olivia Wall
 comments:
   - GmCIF1 encodes a cell wall invertase inhibitor protein. Inhibits cell wall invertase, an enzyme that breaks down sucrose into glucose and fructose. It helps regulate sugar metabolism in soybean development. Gene function established by RNAi transgenic plants via the silencing of its expression.
 phenotype_synopsis: GmCIF1 encodes a cell wall invertase inhibitor that negatively regulates cell wall invertase activity
