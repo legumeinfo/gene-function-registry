@@ -2,7 +2,7 @@
 # DIRECTIONS
 # As your first curation assignment, read the paper Tang, Su et al., 2017 (doi: 10.1093/jxb/erw425).
 # Create your own yml file based on the blank and annotated templates below.
-# Name your new file "Tang_Su_2012_practice.yml."
+# Name your new file "Tang_Su_2017_practice.yml."
 # When you are done, compare your yml file to the Answer Key provided below.
 ---
 # BLANK TEMPLATE
@@ -85,16 +85,16 @@ comments:
   - CIF1 is strongly expressed in flowers, mature leaves, and developing seeds.
 phenotype_synopsis: CIF1 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
-  - entity_name: regulation of seed growth
-    entity: GO:0080113
-  - entity_name: seed development
-    entity: GO:0048316
   - entity_name: seed size
     entity: TO:0000391
   - entity_name: protein content
     entity: TO:0000598
   - entity_name: starch content
     entity: TO:0000696
+  - entity_name: regulation of seed growth
+    entity: GO:0080113
+  - entity_name: seed development
+    entity: GO:0048316
 references:
   - citation: Tang, Su et al., 2017
     doi: 10.1093/jxb/erw425
@@ -122,16 +122,16 @@ comments:
   - It is most strongly expressed in flowers, roots, and developing seeds.
 phenotype_synopsis: C/VIF2 is an invertase inhibitor which represses CWI (cell wall invertase).
 traits:
-  - entity_name: regulation of seed growth
-    entity: GO:0080113
-  - entity_name: seed development
-    entity: GO:0048316
   - entity_name: seed size
     entity: TO:0000391
   - entity_name: protein content
     entity: TO:0000598
   - entity_name: starch content
     entity: TO:0000696
+  - entity_name: regulation of seed growth
+    entity: GO:0080113
+  - entity_name: seed development
+    entity: GO:0048316
 references:
   - citation: Tang, Su et al., 2017
     doi: 10.1093/jxb/erw425
