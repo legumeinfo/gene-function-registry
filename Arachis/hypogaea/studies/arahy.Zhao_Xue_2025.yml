@@ -4,11 +4,12 @@ gene_symbols:
   - AhARF2-2
 gene_symbol_long: Auxin Response Factor 2-2
 gene_model_pub_name: NDH08G29450
-gene_model_full_id: arahy.TODO.TODO.AhARF2-2
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08g349400
 confidence: 5
 curators:
   - Steven Cannon
 comments:
+  - Gene arahy.NDH108.gnm1.ann1.NDH08G29450.5 from accession NDH108
   - A 275-bp deletion in the gene results in loss of interaction with AhIAA13 and TOPLESS.
   - Reduces the inhibitory effect on AhGRF5 and promotes seed expansion.
 phenotype_synopsis: A 275-bp deletion causes reduced inhibitory effect on AhGRF5, which promotes seed expansion, leading to increased seed size and weight.
@@ -27,7 +28,7 @@ gene_symbols:
   - AhCKX6
 gene_symbol_long: Cytokinin Dehydrogenase 6
 gene_model_pub_name: NDH03G08990
-gene_model_full_id: arahy.TODO.TODO.AhARF2-2
+gene_model_full_id: arahy.NDH108.gnm1.ann1.NDH03G08990
 confidence: 5
 curators:
   - Steven Cannon
