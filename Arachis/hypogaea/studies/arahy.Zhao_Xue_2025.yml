@@ -1,0 +1,49 @@
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhARF2-2
+gene_symbol_long: Auxin Response Factor 2-2
+gene_model_pub_name: NDH08G29450
+gene_model_full_id: arahy.TODO.TODO.AhARF2-2
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - A 275-bp deletion in the gene results in loss of interaction with AhIAA13 and TOPLESS.
+  - Reduces the inhibitory effect on AhGRF5 and promotes seed expansion.
+phenotype_synopsis: A 275-bp deletion causes reduced inhibitory effect on AhGRF5, which promotes seed expansion, leading to increased seed size and weight.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Zhao, Xue et al., 2025
+    doi: 10.1038/s41588-025-02170-w
+    pmid: 40295880
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhCKX6
+gene_symbol_long: Cytokinin Dehydrogenase 6
+gene_model_pub_name: NDH03G08990
+gene_model_full_id: arahy.TODO.TODO.AhARF2-2
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - AhCKX6 expression levels were elevated in small-seed accessions relative to large-seed
+    accessions at various stages of seed development.
+  - The insertion in the 3′-UTR of the CKX6 gene results in reduced expression levels.
+    This increase in cytokinin promotes early cell division, ultimately leading to the development of larger seeds.
+phenotype_synopsis: The insertion in the 3′-UTR of the CKX6 gene results in reduced expression levels.
+  This increase in cytokinin promotes early cell division, ultimately leading to the development of larger seeds.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Zhao, Xue et al., 2025
+    doi: 10.1038/s41588-025-02170-w
+    pmid: 40295880
