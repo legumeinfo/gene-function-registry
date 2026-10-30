@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmBES1-1
-gene_symbol_long: Flowering Time 2a  # Descriptive name of gene symbol if available
+gene_symbol_long: bri1-EMS-suppressor 1
 gene_model_pub_name: Gm17g248900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G248900.1
 confidence: 5
@@ -11,25 +11,37 @@ curators:
 comments:
   - Mediates brassinosteroid (BR) signaling to inhibit soybean nodulation by suppressing nodulation factor (NF) signaling and nodule formation
   - Directly interacts with GmNSP1 and GmNSP2 to inhibit their interaction, and the DNA-binding activity of GmNSP1
-  - 
-phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
-traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
-    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
-  - quality_name: premature  # Optional; short descriptive name for accession quality term
-    quality:  # Optional; typically from generally from PATO, https://www.ebi.ac.uk/ols/ontologies/pato
-  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
-    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
-  - entity_name: days to maturity
-    entity: TO:0000469
-  - relation_name: positively regulates  # Relations Ontology may be used as modifier if known;
-    relation: RO:0002213  # https://www.ebi.ac.uk/ols/ontologies/ro
+  - Function determined through RNAi, protein interaction assays, DNA binding assays.
+phenotype_synopsis: Reduced root nodulation by suppressing GmNSP1 and GmNSP2
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
 references:
   - citation: Chen, Hu et al., 2023
     doi: 10.1016/j.xplc.2023.100627
     pmid: 37208896
-  - citation: 
-    doi: 
-  - citation: 
-    doi: 
-    pmid:
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNSP1
+gene_symbol_long: Nodulation signaling pathway 1
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 5
+curators:
+  - Olivia Wall
+comments:
+  - Required for nodule formation in soybeans
+  - Directly binds to the promoter regions of early responsive genes, including nodule inception
+  - Forms a heterodimer with GmNSP2
+phenotype_synopsis: reduced root nodule formation when gene is knocked out
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
+  - citation: He, Gao et al., 2021
+    doi: 10.1016/j.molp.2020.12.015
+    pmid: 33359013
