@@ -25,15 +25,16 @@ scientific_name: Glycine max
 gene_symbols:
   - GmNSP1
 gene_symbol_long: Nodulation signaling pathway 1
-gene_model_pub_name: 
-gene_model_full_id: 
-confidence: 5
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 4
 curators:
   - Olivia Wall
 comments:
   - Required for nodule formation in soybeans
   - Directly binds to the promoter regions of early responsive genes, including nodule inception
   - Forms a heterodimer with GmNSP2
+  - Function determined through DNA pull down assays and BiFC
 phenotype_synopsis: reduced root nodule formation when gene is knocked out
 traits:
   - entity_name: nodulation
@@ -45,3 +46,26 @@ references:
   - citation: He, Gao et al., 2021
     doi: 10.1016/j.molp.2020.12.015
     pmid: 33359013
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNSP2
+gene_symbol_long: Nodulation signaling pathway 2
+gene_model_pub_name:
+gene_model_full_id:
+confidence: 4
+curators:
+  - Olivia Wall
+comments:
+  - interacts with GmNSP1 to enhance transcriptional activity
+  - Forms a heterodimer with GmNSP1
+  - Works with GmNSP1 in the nodulation signaling pathway, regulating genes required for the soybean–rhizobia symbiosis
+  - Function determined through DNA pull down assays and BiFC assays
+phenotype_synopsis: reduced root nodule formation when gene is knocked out
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
