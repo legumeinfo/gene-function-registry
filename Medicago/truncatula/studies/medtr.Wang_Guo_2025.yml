@@ -35,6 +35,10 @@ traits:
     entity: TO:0000736
   - entity_name: flowering time trait
     entity: TO:0002616
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: stem branch number
+    entity: TO:0020020
 references:
   - citation: Wang, Guo et al., 2025
     doi: 10.1016/j.jia.2023.12.032
