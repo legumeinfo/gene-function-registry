@@ -25,14 +25,31 @@ comments:
     prevalent in improved soybean cultivars, reaching a frequency of 91%,
     suggesting it has undergone strong positive selection during domestication
     and breeding
+  - While the seed oil and weight were increased by the overexpression of GmISO5
+    and decreased by the disruption of GmISO5, the seed protein content showed a
+    decrease; establishing an inverse relationship.
+  - GmISO5 regulates seeds trait, possibly by modulating the expression SWEETs
+    and FAD2
+  - Although SWEETs, FAD2-1A, and several other FA biosynthesis genes were
+    downregulated in the knockout lines, which is consistent with the observed
+    phenotype, whether these genes are directly regulated by GmISO5 is still
+    unclear
 phenotype_synopsis: GmISO5 regulates isoflavone biosynthesis in soybean seeds,
   and its knockout leads to reduced seed isoflavone content and increased
-  susceptibility to soybean mosaic virus infection
+  susceptibility to soybean mosaic virus infection. Additionally, increased
+  expression enhanced seeds oil content and weight but showed a decrease in the
+  seed protein conten, indicating an inverse relationship
 traits:
   - entity_name: viral disease response trait
     entity: TO:0000148
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed protein content
+    entity: TO:0000490
   - entity_name: isoflavonoid biosynthetic process
     entity: GO:0009717
+  - entity_name: seed oilbody biogenesis
+    entity: GO:0010344
 references:
   - citation: Feng, Sun et al., 2026
     doi: 10.1016/j.jare.2026.09.011
