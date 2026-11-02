@@ -1,0 +1,44 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFER1
+gene_symbol_long: Soybean ferritin 1
+gene_model_pub_name: Glyma.18G205800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G205800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmFER1 is a soybean ferritin that enhances tolerance to salt stress and root
+    rot disease, and improves soybean yield
+  - Overexpression of GmFER1 leads to iron accumulation and Fe3+ sequestration
+    in both aboveground and roots, activating the iron uptake and transport
+    system
+  - GmFER1 enhances salt stress resistance by improving the activities of SOD
+    and CAT enzymes and Na+ efflux capacity, and boosts resistance to Fusarium
+    infection by increasing antioxidant capacity
+  - GmFER1 overexpression significantly upregulates genes involved in iron
+    uptake and transport, such as GmbHLH300, GmbHLH57, GmIRT1, GmFRO2, and
+    GmVIT1, in roots
+  - Natural variations in the GmFER1 gene, specifically Hap2 haplotypes, can
+    enhance salt resistance, disease resistance, pod number, and oil content in
+    soybean, suggesting its potential for synergistic improvement of multiple
+    traits
+phenotype_synopsis: Overexpression of GmFER1 in soybeans leads to increased salt
+  and Fusarium root rot disease tolerance, enhanced iron accumulation, improved
+  photosynthetic rates and Rubisco enzyme activity, and ultimately higher yields
+  through increased pod number, seed weight, and branch number, all while
+  minimizing growth penalties
+traits:
+  - entity_name: salt response
+    entity: TO:0000429
+  - entity_name: fungal disease response
+    entity: TO:0000439
+  - entity_name: iron content trait
+    entity: TO:0020089
+  - entity_name: pod number trait
+    entity: TO:0001125
+references:
+  - citation: Zhang, Liu et al., 2025
+    doi: 10.1111/pbi.70102
+    pmid: 40365869
