@@ -4,7 +4,7 @@ gene_symbols:
   - GmBES1-1
 gene_symbol_long: bri1-EMS-suppressor 1
 gene_model_pub_name: Gm17g248900
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G248900.1
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G248900
 confidence: 5
 curators:
   - Olivia Wall
