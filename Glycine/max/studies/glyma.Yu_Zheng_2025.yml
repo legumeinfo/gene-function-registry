@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPPC6
+gene_symbol_long: Phosphoenolpyruvic Carboxylase 6
+gene_model_pub_name: Glyma06g43050
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g43050
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmPPC6 was identified as a staple gene by integrating genome-wide
+    association study and comparative transcriptome analysis of soybean
+    genotypes under low phosphorus stress
+  - The functional annotation of GmPPC6 suggests its involvement in cellular
+    responses to phosphate starvation
+  - Polymorphisms, specifically InDels and SNPs in the promoter region of
+    GmPPC6, were found to potentially influence the tolerance of soybean to low
+    phosphorus stress
+  - Overexpression of GmPPC6 in transgenic hairy roots significantly reduced
+    root length and root surface area under low phosphorus conditions
+  - RNA interference of GmPPC6 led to a significant increase in root
+    length, root tips, root forks, and root surface area in hairy roots under
+    low phosphorus treatment, indicating its negative regulatory role
+phenotype_synopsis: Overexpression of the GmPPC6 gene negatively affects root
+  length and root surface area under low phosphorus stress, while its
+  suppression by RNA interference enhances these root traits, suggesting it
+  negatively regulates root system development in soybean under such conditions.
+traits:
+  - entity_name: root phosphorus content
+    entity: TO:0001124
+  - entity_name: chemical stress response
+    entity: TO:0000482
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Yu, Zheng et al., 2025
+    doi: 10.1111/pce.70083
+    pmid: 40708189
