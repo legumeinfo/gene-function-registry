@@ -12,33 +12,34 @@ curators:
   - Molly Hardacre
 comments:
   - GmISO5 is identified as a key regulator of seed isoflavone biosynthesis in
-    soybean, with natural variation at this locus influencing isoflavone content
+    soybean, with natural variation at this locus influencing isoflavone content.
   - CRISPR/Cas9-mediated knockout of GmISO5 results in approximately an 80%
-    reduction in total seed isoflavones
+    reduction in total seed isoflavones.
   - GmISO5 directly binds to and activates promoters of GmHIDH and GmCHS1, key
     enzymes at various steps of the isoflavone biosynthetic pathway, indicating
-    its role as a transcriptional activator
+    its role as a transcriptional activator.
   - Loss of GmISO5 increases soybean susceptibility to soybean mosaic virus,
     linking its regulatory function not only to isoflavone biosynthesis but also
-    to plant stress response mechanisms
+    to plant stress response mechanisms.
   - The low-isoflavone haplotype of GmISO5 (GmISO5Low) has become highly
     prevalent in improved soybean cultivars, reaching a frequency of 91%,
     suggesting it has undergone strong positive selection during domestication
-    and breeding
-  - While the seed oil and weight were increased by the overexpression of GmISO5
-    and decreased by the disruption of GmISO5, the seed protein content showed a
-    decrease; establishing an inverse relationship.
-  - GmISO5 regulates seeds trait, possibly by modulating the expression SWEETs
-    and FAD2
+    and breeding.
+  - The seed oil and weight were increased by the overexpression of GmISO5 and
+    decreased by the disruption of GmISO5. However, the seed protein content
+    showed a decrease and increase in the overexpressor and knockout lines that
+    established an inverse relationship.
+  - GmISO5 regulates seed traits, possibly by modulating the expression of
+    SWEETs and FAD2.
   - Although SWEETs, FAD2-1A, and several other FA biosynthesis genes were
     downregulated in the knockout lines, which is consistent with the observed
     phenotype, whether these genes are directly regulated by GmISO5 is still
-    unclear
+    unclear.
 phenotype_synopsis: GmISO5 regulates isoflavone biosynthesis in soybean seeds,
   and its knockout leads to reduced seed isoflavone content and increased
   susceptibility to soybean mosaic virus infection. Additionally, increased
-  expression enhanced seeds oil content and weight but showed a decrease in the
-  seed protein content, indicating an inverse relationship
+  expression enhanced seed oil content and weight but showed a decrease in the
+  seed protein content, indicating an inverse relationship.
 traits:
   - entity_name: viral disease response trait
     entity: TO:0000148
