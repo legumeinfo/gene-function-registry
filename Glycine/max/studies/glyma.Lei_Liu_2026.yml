@@ -1,0 +1,48 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCYCLOPS1
+gene_symbol_long: 
+gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
+confidence: 5
+curators:
+  - Olivia Wall
+comments:
+  - Function determined through RNAi and CRISPR assays
+phenotype_synopsis: 
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+  - quality_name: premature  # Optional; short descriptive name for accession quality term
+references:
+  - citation: 
+    doi: 
+    pmid: 41223706
+  - citation: 
+    doi: 
+    pmid:
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCYCLOPS2
+gene_symbol_long: 
+gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
+confidence: 5
+curators:
+  - Olivia Wall
+comments:
+  - Function determined through RNAi and CRISPR assays
+phenotype_synopsis: 
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+  - quality_name: premature  # Optional; short descriptive name for accession quality term
+references:
+  - citation: 
+    doi: 
+    pmid: 41223706
+  - citation: 
+    doi: 
+    pmid:
