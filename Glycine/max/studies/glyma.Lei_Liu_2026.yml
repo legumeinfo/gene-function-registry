@@ -3,22 +3,24 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCYCLOPS1
 gene_symbol_long: 
-gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
+gene_model_pub_name: Glyma.01G149500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G149500
 confidence: 5
 curators:
   - Olivia Wall
 comments:
-  - Function determined through RNAi and CRISPR assays
-phenotype_synopsis: 
+  - Regulates soybean root nodulation, allowing for symbiotic relationships with Nitrogen-fixing bacteria
+  - 
+  - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
+phenotype_synopsis: Overexpression leads to increased nodule formation
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
     entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
   - quality_name: premature  # Optional; short descriptive name for accession quality term
 references:
-  - citation: 
-    doi: 
-    pmid: 41223706
+  - citation: Lei, Liu et al., 2026
+    doi: 10.1016/j.plantsci.2026.113287
+    pmid: 
   - citation: 
     doi: 
     pmid:
@@ -27,22 +29,22 @@ scientific_name: Glycine max
 gene_symbols:
   - GmCYCLOPS2
 gene_symbol_long: 
-gene_model_pub_name: Glyma.16g150700  # REQUIRED; Gene name from publication
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.16G150700  # REQUIRED; Gene name in Data Store, with full prefix
+gene_model_pub_name: Glyma.09G213700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G213700
 confidence: 5
 curators:
   - Olivia Wall
 comments:
-  - Function determined through RNAi and CRISPR assays
-phenotype_synopsis: 
+  - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
+phenotype_synopsis: Overexpression leads to increased nodule formation
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
     entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
   - quality_name: premature  # Optional; short descriptive name for accession quality term
 references:
-  - citation: 
-    doi: 
-    pmid: 41223706
+  - citation: Lei, Liu et al., 2026
+    doi: 10.1016/j.plantsci.2026.113287
+    pmid: 
   - citation: 
     doi: 
     pmid:
