@@ -2,7 +2,7 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmCYCLOPS1
-gene_symbol_long: 
+gene_symbol_long: CYCLOPS 1
 gene_model_pub_name: Glyma.01G149500
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G149500
 confidence: 5
@@ -10,41 +10,37 @@ curators:
   - Olivia Wall
 comments:
   - Regulates soybean root nodulation, allowing for symbiotic relationships with Nitrogen-fixing bacteria
-  - 
+  - Assembles with DELLA proteins and NSP1/NSP2 transcription factors to activate NIN, a regulator of symbiosis
+  - Loss-of-function of CYCLOPS mutants in model legumes exhibits impaired nodulation and nitrogen-fixation capacity
   - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
 phenotype_synopsis: Overexpression leads to increased nodule formation
-traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
-    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
-  - quality_name: premature  # Optional; short descriptive name for accession quality term
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
 references:
   - citation: Lei, Liu et al., 2026
     doi: 10.1016/j.plantsci.2026.113287
-    pmid: 
-  - citation: 
-    doi: 
-    pmid:
+    pmid: 42331038
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmCYCLOPS2
-gene_symbol_long: 
+gene_symbol_long: CYCLOPS 2
 gene_model_pub_name: Glyma.09G213700
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G213700
 confidence: 5
 curators:
   - Olivia Wall
 comments:
+  - Assembles with DELLA proteins and NSP1/NSP2 transcription factors to activate NIN, a regulator of symbiosis
+  - Regulates soybean root nodulation, allowing for symbiotic relationships with Nitrogen-fixing bacteria
+  - Loss-of-function of CYCLOPS mutants in model legumes exhibits impaired nodulation and nitrogen-fixation capacity
   - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
 phenotype_synopsis: Overexpression leads to increased nodule formation
-traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
-    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
-  - quality_name: premature  # Optional; short descriptive name for accession quality term
+traits:
+  - entity_name: root nodule
+    entity: PO:0003023
 references:
   - citation: Lei, Liu et al., 2026
     doi: 10.1016/j.plantsci.2026.113287
-    pmid: 
-  - citation: 
-    doi: 
-    pmid:
+    pmid: 42331038
