@@ -1,0 +1,40 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmANKTM21
+gene_symbol_long: Ankyrin repeat proteins with a transmembrane domain 21
+gene_model_pub_name: Glyma.15G160600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G160600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - The GmANKTM21 gene encodes an ankyrin repeat protein belonging to the
+    transmembrane domain (ANK-TM) subfamily, which is poorly understood despite
+    being abundant in plants
+  - GmANKTM21 is localized in both the cell membrane and nucleus of plant cells
+  - Overexpression of GmANKTM21 in transgenic soybeans significantly enhances
+    drought tolerance during germination and seedling stages. Additionally, it
+    boosts the antioxidant capacity of soybeans by increasing the activity of
+    enzymes like SOD, POD, and CAT, and reducing MDA content, thereby mitigating
+    oxidative stress under drought conditions
+  - GmANKTM21 improves drought resistance by enhancing the plant's water
+    retention ability through the adjustment of stomatal aperture, rather than
+    altering leaf cuticle or wax properties
+  - The gene_model_pub_name was not found in the original paper, but obatined
+    from in Jiao, Zhao et al., 2026
+phenotype_synopsis: Overexpression of GmANKTM21 in transgenic soybeans leads to
+  an enhanced drought-tolerant phenotype, characterized by increased water
+  retention through stomatal closure and bolstered antioxidant defenses.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: regulation of stomatal movement
+    entity: GO:0010119
+references:
+  - citation: Zhang, Wang et al., 2024
+    doi: 10.3390/ijms25136972
+    pmid: 39000082
+  - citation: Jiao, Zhao et al., 2026
+    doi: 10.3390/ijms25136972
+    pmid: 39000082
