@@ -32,9 +32,9 @@ traits:
   - entity_name: regulation of stomatal movement
     entity: GO:0010119
 references:
-  - citation: Zhang, Wang et al., 2024
+  - citation: Zhao, Wang et al., 2024
     doi: 10.3390/ijms25136972
     pmid: 39000082
   - citation: Jiao, Zhao et al., 2026
-    doi: 10.3390/ijms25136972
-    pmid: 39000082
+    doi: 10.1093/plphys/kiag421
+    pmid: 42341177
