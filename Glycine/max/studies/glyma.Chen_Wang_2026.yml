@@ -8,28 +8,29 @@ gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G179400
 confidence: 5
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmFIP37c is one of four GmFIP37 genes identified in the soybean genome,
     encoding a protein with conserved physicochemical properties and the core
     WTAP functional domain, which is essential for assembling the m6A
-    methyltransferase complex
+    methyltransferase complex.
   - GmFIP37c localizes to the nucleus, consistent with m6A modification
     occurring on pre-mRNAs, and its expression is ubiquitous across soybean
     tissues (highest in stems and roots) and rapidly induced under salt and
-    drought stresses
+    drought stresses.
   - Overexpression of GmFIP37c significantly enhances soybean's tolerance to
     salt and drought stresses, while its silencing reduces this tolerance,
     demonstrating its positive regulatory role in abiotic stress responses.
     Additionally, heterologous overexpression of GmFIP37c in Arabidopsis
-    thaliana promoted seedling growth and improved tolerance to both stresses
+    thaliana promoted seedling growth and improved tolerance to both stresses.
   - GmFIP37c acts as a core m6A methyltransferase, with its overexpression
     leading to an increase in total root m6A content, directly linking it to m6A
-    modification activity
+    modification activity.
   - GmFIP37c enhances stress tolerance by synergistically increasing antioxidant
     enzyme activities (like SOD, POD) and osmolyte (proline, betaine) contents,
-    while simultaneously reducing reactive oxygen species (ROS) accumulation
+    while simultaneously reducing reactive oxygen species (ROS) accumulation.
 phenotype_synopsis: Overexpression of GmFIP37c in soybean leads to enhanced
-  growth and significantly improved tolerance to salt and drought stresses
+  growth and significantly improved tolerance to salt and drought stresses.
 traits:
   - entity_name: drought stress response trait
     entity: TO:0000394
@@ -41,6 +42,8 @@ traits:
     entity: TO:0001051
   - entity_name: plant height
     entity: TO:0000207
+  - entity_name: oxidative stress response
+    entity: TO:0002657
 references:
   - citation: Chen, Wang et al., 2026
     doi: 10.1016/j.plaphy.2026.111082
