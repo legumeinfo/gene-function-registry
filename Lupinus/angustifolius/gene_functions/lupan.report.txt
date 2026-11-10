@@ -1,0 +1,29 @@
+
+Status for Lupinus angustifolius (lupan) as of 2026-11-10:
+
+Count  gene_symbols; Summary for lupan
+  --------------------------------------------------
+      1	LanFTc1
+  --------------------------------------------------
+
+Count  gene_model_full_id; Summary for lupan
+  --------------------------------------------------
+      1	lupan.Tanjil.gnm1.ann1.Lup015264
+  --------------------------------------------------
+
+Count  Primary symbol   gene_model_full_id ; Summary for lupan
+  --------------------------------------------------
+      1	LanFTc1	lupan.Tanjil.gnm1.ann1.Lup015264
+  --------------------------------------------------
+
+Count  PMID   DOI   Citation; Summary for lupan
+  --------------------------------------------------
+      1	27418400	10.1111/nph.14094	Nelson, Ksiazkiewicz et al., 2017
+  --------------------------------------------------
+
+Count  Ontology accession   Description; Summary for lupan
+  --------------------------------------------------
+      1	GO:0010219	regulation of vernalization response
+      1	TO:0000344	days to flowering
+  --------------------------------------------------
+
