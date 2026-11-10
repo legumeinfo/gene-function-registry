@@ -2,38 +2,43 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmVOZ1G
-gene_symbol_long: Vascular plant one-zinc-finger 1G
+gene_symbol_long: Vascular Plant One-zinc-finger 1G
 gene_model_pub_name: Glyma.10G068900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G068900
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
   - GmVOZ1G is one of six VOZ transcription factor-encoding genes found in the
     soybean genome, but prior to this study, little information was available
-    regarding them
+    regarding them.
   - The GmVOZ1G protein is primarily located in the nucleus, distinguishing its
     subcellular localization from other GmVOZ gene products like GmVOZ1E,
-    GmVOZ2B, and GmVOZ2D, which are widely dispersed in the cytosol
+    GmVOZ2B, and GmVOZ2D, which are widely dispersed in the cytosol.
   - GmVOZ1G exhibits a significantly induced expression profile in response to
     dehydration, salt, and salicylic acid stress conditions, indicating its
-    involvement in various stress responses
+    involvement in various stress responses.
   - Overexpression of GmVOZ1G in soybean hairy roots leads to greater tolerance
     to drought and salt stress, while its suppression through RNA interference
-    results in increased sensitivity to these stresses
+    results in increased sensitivity to these stresses.
   - Under drought and salt stress, overexpression of GmVOZ1G in soybean hairy
     roots improves physiological parameters such as higher relative water
     content, lower malondialdehyde accumulation, and increased peroxidase and
     superoxide dismutase activities, thereby positively regulating stress
-    tolerance
+    tolerance.
+  - The Glyma.10G068900 gene model publication name may be found in
+    Supplementary Table S2.
 phenotype_synopsis: Overexpression of GmVOZ1G in soybean hairy roots enhances
   tolerance to drought and salt stress, while its suppression leads to increased
-  sensitivity to these conditions
+  sensitivity to these conditions.
 traits:
   - entity_name: drought stress response trait
     entity: TO:0000394
   - entity_name: salt response
     entity: TO:0000429
+  - entity_name: antioxidant activity
+    entity: GO:0016209
 references:
   - citation: Li, Zheng et al., 2020
     doi: 10.3390/ijms21062177
