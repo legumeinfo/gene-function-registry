@@ -115,15 +115,15 @@ The **references** block is required. It contains one or more blocks of citation
 ## Generating/updating reports about data collected so far
 There is a script `scripts/generate_report.sh` that summarizes key data from the yaml files in all Genus/species directories. Run this script in one of the following ways:
 
-To print to STDOUT: 
+To print to STDOUT (in each case below, Phaseolus vulgaris is used as the example; for other species, use the desired "Genus species": 
 
-   `./scripts/generate_report.sh`
+   `./scripts/generate_report.sh Phaseolus vulgaris`
    
-To print reports to each Genus/species/gene_functions/gensp.report.txt:
+To print reports to the Phaseolus/vulgaris/gene_functions/phavu.report.txt:
 
    `./scripts/generate_report.sh -p`
    
-To print reports to each Genus/species/gene_functions/gensp.report.DATE.txt:
+To print reports to each Phaseolus/vulgaris/gene_functions/phavu.report.DATE.txt:
 
    `./scripts/generate_report.sh -p -d`
 
@@ -132,6 +132,15 @@ Use the first form if you just want to have a look at the data as it stands now,
 The second command form will produce files at the directories `Genus/species/gene_functions/gensp.report.txt`. Use this if you wish to generate reports to be committed to the repository.
 
 Use the third form if you want to make TEMPORARY files, labeled with today's date. DO NOT push these to the GitHub repository, as it will result in unnecessary additional files. (Instead, use Git's version control).
+
+To update the reports for all species:
+```
+  cat templates/genus_species.tsv | while read -r line; do 
+    Gs=$(echo $line | cut -f1,2 -d' '); 
+    echo $Gs; 
+    generate_report.sh -p $Gs; 
+  done
+```
 
 ## Updating gene_functions/ files: gensp.traits.yml, gensp.citations.txt, gensp.references.txt
 The information in the gene function registry documents gets incorporated into a Mine instance for some species when the `gensp.traits.yml` file
@@ -163,17 +172,29 @@ These files are generated with two scripts, like so (assuming the scripts have b
 ```
 cat templates/genus_species.tsv
   Arachis hypogaea arahy
+  Cicer arietinum cicar
   Glycine max glyma
   Glycine soja glyso
   Lotus japonicus lotja
-  Medicago truncatula medtr
+  Lupinus angustifolius lupan
   Medicago sativa medsa
+  Medicago truncatula medtr
   Phaseolus vulgaris phavu
   Pisum sativum pissa
   Vicia faba vicfa
   Vigna radiata vigra
+```
 
+Note that as species are added, the table of "Genus species gensp" should also be updated, thus:
+```
+  find . -name studies | 
+    perl -pe 's{\./(\w+)/(\w+)/studies}{$1\t$2}' | 
+    perl -pe 's/^((\w\w\w)\w+)\t((\w\w)\w+)/$1\t$3\t$2$4/' | 
+    awk '{print $1,$2,tolower($3)}' > templates/genus_species.tsv
+```
 
+Below, calling both `get_citations.pl` and `get_references.pl` for all species:
+```
 cat templates/genus_species.tsv | while read -r line; do
   genus=`echo $line | awk '{print $1}'`
   species=`echo $line | awk '{print $2}'`
@@ -186,7 +207,6 @@ cat templates/genus_species.tsv | while read -r line; do
                       $genus/$species/studies/*yml
 
   get_references.pl -out $genus/$species/gene_functions/$gensp.references.txt $genus/$species/gene_functions/$gensp.citations.txt
-
 done
 ```
 </details>
