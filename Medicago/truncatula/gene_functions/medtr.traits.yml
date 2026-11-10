@@ -135,32 +135,6 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
-  - MtHAP2.1
-gene_model_pub_name: Medtr1g056530
-gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
-confidence: 5
-curators:
-  - Steven Cannon
-phenotype_synopsis: Small and nonfunctional nodules arrested in growth when
-  both normally spliced and alternatively spliced variants repressed. When only
-  the alternative spliced form repressed the nodules are small but still fix
-  nitrogen successfully.
-traits:
-  - entity_name: root nodule morphology trait
-    entity: TO:0000898
-  - entity_name: root nodule
-    entity: PO:0003023
-references:
-  - citation: Chen, Liu et al., 2015
-    doi: 10.3389/fpls.2015.00575
-    pmid: 26284091
-  - citation: Oellrich, Walls et al., 2015
-    doi: 10.1186/s13007-015-0053-y
-    pmid: 25774204
-
----
-scientific_name: Medicago truncatula
-gene_symbols:
   - MtFULc
 gene_symbol_long: FRUITFULL
 gene_model_pub_name: Medtr7g016630
@@ -431,6 +405,32 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtHAP2.1
+gene_model_pub_name: Medtr1g056530
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g056530
+confidence: 5
+curators:
+  - Steven Cannon
+phenotype_synopsis: Small and nonfunctional nodules arrested in growth when
+  both normally spliced and alternatively spliced variants repressed. When only
+  the alternative spliced form repressed the nodules are small but still fix
+  nitrogen successfully.
+traits:
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: root nodule
+    entity: PO:0003023
+references:
+  - citation: Chen, Liu et al., 2015
+    doi: 10.3389/fpls.2015.00575
+    pmid: 26284091
+  - citation: Oellrich, Walls et al., 2015
+    doi: 10.1186/s13007-015-0053-y
+    pmid: 25774204
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtNOOT1
 gene_symbol_long: NODULE ROOT 1
 gene_model_pub_name: Medtr7g090020
@@ -621,6 +621,45 @@ references:
   - citation: Cui, Wang et al., 2019
     doi: 10.3390/ijms20122941
     pmid: 31208116
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtMYBS1
+gene_symbol_long: R2R3-MYB Transcription Factor Gene 1
+gene_model_pub_name: Medtr1g073170
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g073170
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - MtMYBS1 is an R2R3-MYB transcription factor gene induced by salinity,
+      drought, and abscisic acid treatments, indicating its role in stress
+      response.
+  - Constitutive expression of MtMYBS1 in Arabidopsis enhances root growth
+      under salt and osmotic stress conditions, demonstrating its contribution
+      to stress tolerance.
+  - MtMYBS1 localized to the nucleus and functions as a transcriptional
+      activator, regulating the expression of stress-responsive genes [T2,T3].
+  - Transgenic Arabidopsis expressing MtMYBS1 accumulated higher levels of
+      proline and soluble sugars and exhibited reduced cellular damage markers
+      like MDA, supporting its role in osmotic adjustment.
+  - MtMYBS1 modulates both abscisic acid-dependent and abscisic
+      acid-independent stress pathways by increasing the transcript levels of
+      key stress-related genes such as AtDREB2A, AtRD29A, and AtP5CS.
+phenotype_synopsis: MtMYBS1 in Arabidopsis results in enhanced salinity and
+  osmotic stress tolerance which manifested as improved root growth.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: response to osmotic stress
+    entity: GO:0006970
+references:
+  - citation: Dong, Song et al., 2017
+    doi: 10.1016/j.bbrc.2017.06.025
+    pmid: 28602696
 
 ---
 scientific_name: Medicago truncatula
@@ -1118,6 +1157,40 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtCAS31
+gene_symbol_long: Cold acclimation-specific 31
+gene_model_pub_name: EU139871
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr6g0484671
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - MtCAS31 functions as a positive regulator of drought response by promoting
+      autophagic degradation of specific proteins under stress conditions
+  - MtCAS31 specifically interacts with the cargo protein MtPIP2;7, targeting
+      it for autophagic degradation to reduce water loss in drought conditions
+  - MtCAS31 localizes mainly to the endoplasmic reticulum and nucleus and acts
+      as a cargo receptor in autophagy, extending dehydrins' functional roles
+      in protein quality control during drought stress
+  - During drought stress, MtCAS31 is highly induced, interacts with ATG8a via
+      its AIM-like motif, and facilitates autophagic degradation pathways
+  - Overexpression of MtCAS31 enhances drought tolerance by decreasing root
+      hydraulic conductivity and water transpirations rates, indicating its
+      role in water conservation
+phenotype_synopsis: Knockout of MtCAS31 impairs drought tolerance, increases
+  water loss, reduces survival rates, and heightens electrolyte leakage under
+  drought stress conditions
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+references:
+  - citation: Li, Liu et al., 2019
+    doi: 10.1080/15548627.2019.1643656
+    pmid: 31362589
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtMSD1
 gene_symbol_long: MAIN STEM DWARF 1
 gene_model_pub_name: Medtr1g102070
@@ -1254,6 +1327,49 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtSMAX1
+gene_symbol_long: SUPPRESSOR OF MAX2 1
+gene_model_pub_name: MtrunA17_Chr4g0073021
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr4g0073021
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - MtSMAX1 is a highly conserved ortholog in Medicago truncatula that
+      functions as a negative regulator in the karrikin signaling pathway,
+      interacting with the receptors MtKAI2a/b and MtMAX2.
+  - Mutations in MtSMAX1 lead to phenotypes such as reduced seed size,
+      dwarfism, and delayed flowering, indicating its critical role in seed
+      development and reproductive timing.
+  - The Q210 residue within MtSMAX1 contributes to its regulatory functions;
+      mutations at this position partially impair seed pod development without
+      significantly affecting plant height or flowering time.
+  - Overexpression of MtSMAX1 promotes increased plant height and earlier
+      flowering, demonstrating its function as a positive regulator of plant
+      growth and development.
+  - MtSMAX1 potentially modulates downstream genes involved in gibberellin
+      biosynthesis and flowering pathways, linking karrikin signaling to key
+      developmental processes.
+phenotype_synopsis: Loss of MtSMAX1 results in dwarfism, reduced seed size and
+  number, delayed flowering, while overexpression promotes increased plant
+  height and earlier flowering in Medicago truncatula.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed morphology trait
+    entity: TO:0000184
+references:
+  - citation: Li, Song et al., 2026
+    doi: 10.1016/j.plaphy.2026.111628
+    pmid: 42575002
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtCYCLOPS
 gene_model_pub_name: Medtr5g026850
 gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr5g026850
@@ -1304,6 +1420,44 @@ references:
   - citation: Oellrich, Walls et al., 2015
     doi: 10.1186/s13007-015-0053-y
     pmid: 25774204
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtWRKY76
+gene_symbol_long: WRKY Transcription Factor 76
+gene_model_pub_name: MTR_1g013760
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0150281
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MtWRKY76 expression is rapidly induced by abiotic stresses such as salt,
+      drought, and abscisic acid treatment, but not significantly by cold
+      stress.
+  - Overexpression of MtWRKY76 in transgenic Medicago truncatula enhances both
+      salt and drought tolerance, improving root growth, survival rate, and
+      activating abiotic stress-responsive genes.
+  - Transcriptome analysis by digital gene expression reveals that MtWRKY76
+      overexpression significantly alters the expression of numerous
+      stress-related genes including transcription factors and F-box proteins,
+      suggesting a multifaceted role in abiotic stress response.
+  - MtWRKY76 is localized in the nucleus and physically interacts with
+      Medtr1g098680.1, a protein homologous to abscisic acid-, stress-, and
+      ripening-induced proteins, forming a transcription-regulating complex
+      involved in abiotic stress pathways.
+phenotype_synopsis: Overexpression of MtWRKY76 enhances salt and drought
+  tolerance in Medicago truncatula, improving plant survival and growth under
+  these abiotic stresses.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: drought tolerance
+    entity: TO:0000276
+references:
+  - citation: Liu, Zhang et al., 2016
+    doi: 10.1016/j.envexpbot.2015.10.007
+    pmid: null
 
 ---
 scientific_name: Medicago truncatula
@@ -1906,6 +2060,52 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtJMJC5
+gene_symbol_long: Jumonji C Domain-containing Gene 5
+gene_model_pub_name: Medtr4g066020
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr4g066020
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - MtJMJC5 is an ortholog of the Arabidopsis JMJ30/JMJD5 gene, encoding a
+      Jumonji C domain-containing protein involved in circadian clock
+      regulation in Medicago truncatula.
+  - MtJMJC5 expression oscillates with a circadian rhythm and is specifically
+      regulated by cold stress through induction of alternative splicing events
+      that generate multiple RNA isoforms.
+  - Four alternative splicing variants of MtJMJC5 were identified under cold
+      treatment, including one full-length variant encoding the authentic
+      protein and three premature termination codon containing variants
+      resulting from alternative 3' splice sites.
+  - The PTC-containing splicing variants are targets of nonsense-mediated
+      decay, but those variants sharing the 3' alternative splice site at the
+      second intron show reduced sensitivity to nonsense-mediated decay under
+      cold stress compared to variants with only first intron splicing.
+  - Cold-dependent alternative splicing of MtJMJC5 likely represents a
+      species-specific mechanism linking circadian clock regulation and cold
+      response, potentially influencing epigenetic regulation and cold-related
+      developmental processes such as flowering time in Medicago truncatula.
+phenotype_synopsis: The MtJMJC5 gene, through its cold-induced alternative
+  splicing and regulation of circadian rhythms, is implicated in modulating
+  cold stress responses and may influence cold-related developmental processes
+  such as flowering time in Medicago truncatula.
+traits:
+  - entity_name: low temperature stress response
+    entity: TO:0000303
+  - entity_name: temperature compensation of the circadian clock
+    entity: GO:0010378
+references:
+  - citation: Shen, Wu et al., 2016
+    doi: 10.1016/j.bbrc.2016.04.062
+    pmid: 27086112
+  - citation: Jones, Covington et al., 2010
+    doi: 10.1073/pnas.1014204108
+    pmid: 21115819
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtCBS1
 gene_symbol_long: Cystathionine-β-Synthase-Like 1
 gene_model_pub_name: Medtr6g052300
@@ -1948,6 +2148,49 @@ references:
   - citation: Sinharoy, Liu et al., 2016
     doi: 10.1104/pp.15.01853
     pmid: 26884486
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtCML42
+gene_symbol_long: Calmodulin-Like Protein 42
+gene_model_pub_name: Medtr7g090450
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr7g090450
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - MtCML42 expression leads to the sequential downregulation of MtABI5 and the
+      upregulation of MtFTa1, which then regulate flowering time.
+  - MtCML42 positively regulates MtCBF1 and MtCBF4 expression, which in turn
+      upregulates transcription of some cold-regulated/cold-responsive COR
+      genes, MtGolS1, and MtGolS2. The resultant raffinose and sucrose
+      accumulation was associated with increased cold tolerance.
+  - Compared with the wild-types that started flowering at 44 days when plants
+      had eight nodes, the flowering time was earlier by 7 days in
+      MtCML42-overexpression plants when plants had seven nodes. Flowering was
+      delayed by 10 days in cml42 plants under vernalization plus long-day
+      conditions when plants had eight nodes.
+  - MtCML42 has 73.8% identity with AtCML42 and is located in the cytosol and
+      the nucleus, consistent with AtCML42 itself being localized to the
+      cytosol and the nucleus.
+  - The Medtr7g090450 name of the gene model was taken from Sun, Yu et al.,
+      2020.
+phenotype_synopsis: MtCML42 is a key regulator of cold tolerance and flowering
+  time in Medicago truncatula.
+traits:
+  - entity_name: low temperature stress response
+    entity: TO:0000303
+  - entity_name: flowering time trait
+    entity: TO:0002616
+references:
+  - citation: Sun, Huang et al., 2021
+    doi: 10.1111/tpj.15494
+    pmid: 34528312
+  - citation: Sun, Yu et al., 2020
+    doi: 10.3390/ijms21197142
+    pmid: 32992668
 
 ---
 scientific_name: Medicago truncatula
@@ -2206,6 +2449,148 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtRAV3
+gene_symbol_long: Related To ABI3/VP1 Transcription Factor 3
+gene_model_pub_name: MTR_1g116920
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0213701
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - MtRAV3 is a transcription factor in Medicago truncatula that is rapidly
+      induced by salt and osmotic stresses such as NaCl and polyethylene glycol
+      treatments.
+  - Overexpression of MtRAV3 enhances tolerance to drought, salt, and osmotic
+      stresses by inducing the expression of adversity-related genes like
+      MtWRKY76, MtMYB61, MtCAS31, MtAOX1, and MtERF1.
+  - MtRAV3 overexpression results in phenotypic changes such as dwarfing,
+      delayed flowering, increased branching, and smaller floral and leaf
+      organs, linked to downregulation of gibberellin biosynthesis genes like
+      MtGA3ox1, MtGA20ox1, and MtGA20ox2.
+  - MtRAV3 negatively regulates flowering time by repressing MtFTa1 and MtSOC1,
+      key genes involved in flowering control, possibly through interaction
+      with gibberellin pathways.
+  - The promoter of MtRAV3 contains stress-responsive cis-elements such as
+      W-BOX and MYC elements, which may regulate its stress-induced expression.
+  - MtRAV3 influences plant architecture by repressing gibberellin and
+      strigolactone related genes, contributing to increased branching and
+      dwarfism.
+phenotype_synopsis: Overexpression of MtRAV3 in Medicago truncatula results in
+  a dwarf phenotype with delayed flowering, increased branching, smaller floral
+  and leaf organs, and enhanced salt tolerance.
+traits:
+  - entity_name: whole plant size
+    entity: TO:1000012
+  - entity_name: secondary shoot axis branch number
+    entity: TO:0020019
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: floral organ size
+    entity: TO:0002600
+  - entity_name: gibberellin biosynthesis trait
+    entity: TO:0000992
+references:
+  - citation: Wang, Guo et al., 2021
+    doi: 10.1016/j.plaphy.2021.04.003
+    pmid: 33845331
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtRAV1
+gene_symbol_long: Related to ABI3 and VP1
+gene_model_pub_name: MTR_1g093600
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0198661
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - MtRAV1’s promoter contains cis-elements responsive to light, stress, and
+      hormones (e.g., ABRE for ABA), suggesting it integrates environmental and
+      hormonal signals to regulate plant development
+  - DNA affinity purification sequencing (DAP-seq) identified MtRAV1 binding
+      motifs and target genes, including those involved in photosystem II and
+      auxin response such as MtFd-l3, MtLhcb-l2, and MtSAUR-l
+  - Transcriptomic analyses reveal MtRAV1 influences multiple pathways related
+      to photosynthesis, circadian rhythm, and especially auxin signaling,
+      indicating it controls complex growth regulatory networks
+  - MtRAV1 represses the expression of flowering-related genes MtFTa1 and
+      MtSOC1, as well as hormone biosynthesis genes MtGA3OX1, MtDWARF14, and
+      MtCCD7, contributing to delayed flowering and altered growth
+  - Overexpression of MtRAV1 in Medicago truncatula causes dwarfism, delayed
+      flowering, reduced leaves and floral organs, increased branching, and
+      smaller pods and seeds
+phenotype_synopsis: Overexpression of the MtRAV1 gene in Medicago truncatula
+  results in a dwarf, slow-growing plant with delayed flowering, smaller leaves
+  and floral organs, increased primary branching, and reduced pod and seed size
+  and number
+traits:
+  - entity_name: plant morphology trait
+    entity: TO:0000017
+  - entity_name: plant organ morphology trait
+    entity: TO:0000736
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: stem branch number
+    entity: TO:0020020
+references:
+  - citation: Wang, Guo et al., 2025
+    doi: 10.1016/j.jia.2023.12.032
+    pmid: null
+  - citation: Wang, Guo et al., 2021
+    doi: 10.1016/j.plaphy.2021.04.003
+    pmid: 33845331
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtNPF7.6
+gene_symbol_long: Nitrate Peptide Family 7.6
+gene_model_pub_name: Medtr1g116930
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g116930
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - NPF7.6 expression is specifically localized to nodule vasculature transfer
+      cells, where it is induced by both rhizobial infection and high external
+      nitrate.
+  - NPF7.6 encodes a high‑affinity nitrate transporter with a Michaelis
+      constant of around 150 μM, enabling efficient nitrate uptake across a
+      wide concentration range.
+  - NPF7.6 knockout phenotypes show that loss of NPF7.6 disrupts nodule
+      vasculature development, producing abnormal wall ingrowths with plasma
+      membranes that had exaggerated jagged margins.
+  - NPF7.6 nitrate responsiveness is essential for proper nitrate‑mediated
+      regulation of nodulation, as npf7.6 mutants show severely reduced
+      responsiveness to both low and high nitrate.
+  - NPF7.6 impact on nitrogen fixation affects nitrogenase activity by altering
+      leghaemoglobin expression and nitric oxide homeostasis, leading to
+      dramatically reduced nitrogen fixation.
+phenotype_synopsis: NPF7.6 is a high‑affinity nitrate transporter in Medicago
+  truncatula whose loss causes severely reduced nitrate uptake and
+  defective/abnormally shaped cell walls within root nodules, producing nodules
+  that fail to properly respond to either low or high external nitrate.
+traits:
+  - entity_name: nitrate uptake
+    entity: TO:0020100
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogenase activity
+    entity: GO:0016163
+references:
+  - citation: Wang, Huang et al., 2020
+    doi: 10.1038/s41477-020-0683-6
+    pmid: 32514144
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtRH1
 gene_symbol_long: RED HEART 1
 gene_model_pub_name: XP_013442258
@@ -2341,6 +2726,45 @@ references:
 ---
 scientific_name: Medicago truncatula
 gene_symbols:
+  - MtCaMP1
+gene_symbol_long: Calcium-binding Motif-containing Protein 1
+gene_model_pub_name: BT053074
+gene_model_full_id: medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0149571
+confidence: 3
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - MtCaMP1 encodes a calcium-binding EF-hand protein from Medicago truncatula
+      that is involved in responses to drought and salt stress.
+  - Expression of MtCaMP1 in Arabidopsis enhances drought and salt tolerance by
+      increasing survival rates under these stresses.
+  - Under drought stress, MtCaMP1 expression promotes proline accumulation via
+      upregulation of P5CS1 and downregulation of ProDH genes, aiding in
+      osmotic regulation.
+  - MtCaMP1 reduces toxic Na+ accumulation during salt stress by downregulating
+      the AtHKT1 transporter responsible for Na+ influx and upregulating
+      AtNHX1, which sequesters Na+ into vacuoles.
+  - The enhanced stress tolerance in MtCaMP1-expressing plants is also
+      associated with decreased oxidative damage indicated by lower levels of
+      H2O2 and malondialdehyde under drought and salt stress.
+phenotype_synopsis: Expression of the MtCaMP1 gene in trangenic Arabidopsis
+  results in enhanced tolerance to drought and salt stress.
+traits:
+  - entity_name: drought stress response trait
+    entity: TO:0000394
+  - entity_name: salt response
+    entity: TO:0000429
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+references:
+  - citation: Wang, Zhang et al., 2013
+    doi: 10.1371/journal.pone.0058952
+    pmid: 23593126
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
   - MtEIN2
   - MtSkl1
 gene_symbol_long: Ethylene Insensitive 2
@@ -2411,6 +2835,142 @@ references:
   - citation: Xing, Weng et al., 2024
     doi: 10.3390/ijms251910410
     pmid: 39408738
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtSOC1c
+gene_symbol_long: SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1C
+gene_model_pub_name: Medtr8g033220
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr8g033220
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - MtSOC1c is a nucleus-localized MADS-box transcription factor homologous to
+      SOC1 genes in other plants and plays a key role in flowering regulation
+      in Medicago truncatula.
+  - Overexpression of MtSOC1c accelerates flowering time but reduces overall
+      plant biomass, resulting in shorter stems and fewer nodes.
+  - MtSOC1c overexpression causes notable alterations in seed development,
+      including smaller pods and seeds, reduced embryo cell size, darker seed
+      color, and delayed germination.
+  - MtSOC1c physically interacts with other MADS-box proteins MtAGL15 and
+      MtAGL16a/b, suggesting a complex regulatory network mediating both
+      flowering and seed development.
+  - Transcriptomic analysis reveals that MtSOC1c influences the expression of
+      genes involved in photosynthesis and hormone signaling pathways,
+      particularly upregulating abscisic acid signaling-related genes like
+      MtHVA22 and MtATHB, which contribute to seed dormancy.
+phenotype_synopsis: Overexpression of MtSOC1c in Medicago truncatula results in
+  earlier flowering with reduced plant stature, along with altered seed
+  development including smaller pods and seeds, darker seed color, and delayed
+  seed germination.
+traits:
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: seed growth and development trait
+    entity: TO:0000653
+  - entity_name: abscisic acid-activated signaling pathway
+    entity: GO:0009738
+references:
+  - citation: Yuan, Long et al., 2023
+    doi: 10.1016/j.indcrop.2022.116125
+    pmid: null
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtDIB1
+  - MtGA3ox1
+gene_symbol_long: Dwarf and Increased Branching 1
+gene_model_pub_name: Medtr2g102570
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr2g102570
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - DIB1 encodes a gibberellin 3β‑hydroxylase (GA3ox) enzyme, catalysing the
+      final step of the biosynthetic pathway for bioactive gibberellins.
+  - Loss of DIB1 causes extreme dwarfism due to reduced cell elongation. Cells
+      in the dib1-1 mutant were ~28% the length of wild type cells. The total
+      epidermal cell number as internode length/epidermal cell length was also
+      calculated, showing the number of cells in the dib1-1 mutant was ~58%
+      that of the wild type.
+  - DIB1 mutants have reduced Gibberellin 1 and Gibberellin 4 levels. The
+      concentration of Gibberellin 1 was slightly lower in the dib1-1 mutant
+      whilst Gibberellin 4 was only 27% of wild type levels. However, applying
+      Gibberellin 3 rescues the dwarf phenotype, indicating that DIB1 is
+      necessary for gibberellin biosynthesis in Medicago truncatula.
+  - DIB1 also suppresses excessive branching by maintaining gibberellin levels.
+      Low gibberellins in the mutant releases axillary buds, causing extreme
+      dwarfism and increased numbers of lateral branches.
+  - DIB1 was responsible for the last step in the synthesis of bioactive
+      gibberellins and it was detected in elongating organs and seeds.
+phenotype_synopsis: DIB1 mutants exhibit extreme dwarfism due to severely
+  reduced cell elongation, resulting in very short internodes and increased
+  lateral branching caused by low gibberellin levels.
+traits:
+  - entity_name: axillary bud morphology trait
+    entity: TO:0000790
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: gibberellin biosynthetic process
+    entity: GO:0009686
+  - entity_name: shoot axis branching
+    entity: TO:0002639
+  - entity_name: plant cell length
+    entity: TO:0020107
+references:
+  - citation: Zhang, He et al., 2020
+    doi: 10.1093/jxb/eraa364
+    pmid: 32964922
+  - citation: Igielski, Kępczyńska et al., 2017
+    doi: 10.1371/journal.pone.0182055
+    pmid: 28750086
+
+---
+scientific_name: Medicago truncatula
+gene_symbols:
+  - MtGA3ox2
+gene_symbol_long: Gibberellin 3β-Hydroxylase Enzyme 2
+gene_model_pub_name: Medtr1g011580
+gene_model_full_id: medtr.A17_HM341.gnm4.ann2.Medtr1g011580
+confidence: 3
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Both the MtGA3ox2 and DIB1 (MtGA3ox1) genes encode GA3ox enzymes, but DIB1
+      is the primary gene responsible for shoot elongation.
+  - Analysis showed that MtGA3ox2 had a different pattern of expression
+      compared with DIB1. First, the expression of MtGA3ox2 was higher in all
+      the organs examined. Second, MtGA3ox2 transcripts were more abundant in
+      seeds at 10 and 30 days after pollination than at 20 days after
+      pollination, with the highest expression being observed at 10 days after
+      pollination.
+  - It is possible that MtGA3ox2 might still have a function in the last step
+      of the biosynthesis of bioactive gibberellins in Medicago truncatula, as
+      MtGA3ox2 mRNA was highly accumulated in most of the tissues. This implies
+      that MtGA3ox2 might also catalyse inactive gibberellins into bioactive
+      gibberellins in the last step of biosynthesis in the dib1 mutant.
+phenotype_synopsis: MtGA3ox2 mutants do not show dwarfism or shoot growth
+  defects, it likely functions in other tissues or developmental stages such as
+  roots and seeds.
+traits:
+  - entity_name: gibberellin biosynthetic process
+    entity: GO:0009686
+references:
+  - citation: Zhang, He et al., 2020
+    doi: 10.1093/jxb/eraa364
+    pmid: 32964922
+  - citation: Igielski, Kępczyńska et al., 2017
+    doi: 10.1371/journal.pone.0182055
+    pmid: 28750086
 
 ---
 scientific_name: Medicago truncatula

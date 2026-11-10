@@ -190,13 +190,101 @@ SO  - Planta. 2023 Mar 16;257(4):83. doi: 10.1007/s00425-023-04116-0.
 
 
 ##### PUB RECORD #####
+## 10.1016/j.jplph.2017.12.018  29407552  Galeou, Roussis et al., 2018  Galeou A, Roussis A, Prombona A. Investigation of the Phaseolus vulgaris circadian clock and the repressive role of the PvTOC1 factor by a newly established in vitro system. J Plant Physiol. 2018 Mar;222:79-85. doi: 10.1016/j.jplph.2017.12.018. Epub 2018 Jan 31. PMID: 29407552. ##
+
+PMID- 29407552
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180820
+LR  - 20200930
+IS  - 1618-1328 (Electronic)
+IS  - 0176-1617 (Linking)
+VI  - 222
+DP  - 2018 Mar
+TI  - Investigation of the Phaseolus vulgaris circadian clock and the repressive role 
+      of the PvTOC1 factor by a newly established in vitro system.
+PG  - 79-85
+LID - S0176-1617(18)30014-2 [pii]
+LID - 10.1016/j.jplph.2017.12.018 [doi]
+AB  - The circadian clock is crucial for the synchronization of an organism's 
+      physiology and metabolism with the geophysical time. In plants, previous work on 
+      the common bean (Phaseolus vulgaris) has identified various differing aspects of 
+      clock function compared to the widely studied Arabidopsis thaliana clock. 
+      However, transformation of legumes for the study of the circadian clock 
+      regulatory mechanisms is extremely laborious. In the present work, we describe an 
+      easy-to-follow and rapid method of preparing bean leaf protoplasts with high 
+      transformation potential and a functional circadian clock. In this system, we 
+      show that application of trichostatin A differentially changes the expression 
+      levels of several clock genes. More importantly, we investigate the effect of the 
+      clock protein PvTOC1 (Phaseolus vulgaris TIMING OF CAB EXPRESSION 1) on the 
+      activity of bean circadian promoters. We present new evidence on the function of 
+      PvTOC1 as a repressor of the promoter activity of its own gene, mediated by its 
+      conserved CCT (CONSTANS, CO-LIKE and TOC1) domain. Using our protoplast system we 
+      were able to uncover functions of the bean circadian clock and to identify an 
+      additional target of the PvTOC1clock transcription factor, not previously 
+      reported.
+CI  - Copyright (c) 2018 Elsevier GmbH. All rights reserved.
+FAU - Galeou, Angeliki
+AU  - Galeou A
+AD  - National Centre for Scientific Research "DEMOKRITOS", Institute of Biosciences 
+      and Applications, Patr. Grigoriou E' & 27 Neapoleos str., 153 41, Agia Paraskevi, 
+      Greece; National and Kapodistrian University of Athens, Faculty of Biology, 
+      Department of Botany, 15784 Athens, Greece.
+FAU - Roussis, Andreas
+AU  - Roussis A
+AD  - National and Kapodistrian University of Athens, Faculty of Biology, Department of 
+      Botany, 15784 Athens, Greece.
+FAU - Prombona, Anastasia
+AU  - Prombona A
+AD  - National Centre for Scientific Research "DEMOKRITOS", Institute of Biosciences 
+      and Applications, Patr. Grigoriou E' & 27 Neapoleos str., 153 41, Agia Paraskevi, 
+      Greece. Electronic address: prombona@bio.demokritos.gr.
+LA  - eng
+PT  - Journal Article
+DEP - 20180131
+PL  - Germany
+TA  - J Plant Physiol
+JT  - Journal of plant physiology
+JID - 9882059
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Circadian Clocks/*genetics
+MH  - In Vitro Techniques/*methods
+MH  - Phaseolus/genetics/*physiology
+MH  - Plant Leaves/physiology
+MH  - Plant Proteins/*genetics/metabolism
+MH  - Protoplasts/physiology
+MH  - Transcription Factors/*genetics/metabolism
+OTO - NOTNLM
+OT  - Circadian
+OT  - Phaseolus vulgaris
+OT  - Protoplast transformation
+OT  - PvTOC1
+EDAT- 2018/02/07 06:00
+MHDA- 2018/08/21 06:00
+CRDT- 2018/02/07 06:00
+PHST- 2017/06/16 00:00 [received]
+PHST- 2017/11/01 00:00 [revised]
+PHST- 2017/12/15 00:00 [accepted]
+PHST- 2018/02/07 06:00 [pubmed]
+PHST- 2018/08/21 06:00 [medline]
+PHST- 2018/02/07 06:00 [entrez]
+AID - S0176-1617(18)30014-2 [pii]
+AID - 10.1016/j.jplph.2017.12.018 [doi]
+PST - ppublish
+SO  - J Plant Physiol. 2018 Mar;222:79-85. doi: 10.1016/j.jplph.2017.12.018. Epub 2018 
+      Jan 31.
+
+
+##### PUB RECORD #####
 ## 10.1007/s00122-021-03922-y  34328529  Garcia-Fernandez, Campa et al., 2021  García-Fernández C, Campa A, Ferreira JJ. Dissecting the genetic control of seed coat color in a RIL population of common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2021 Nov;134(11):3687-3698. doi: 10.1007/s00122-021-03922-y. Epub 2021 Jul 30. PMID: 34328529. ##
 
 PMID- 34328529
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20211028
-LR  - 20220427
+LR  - 20261010
 IS  - 1432-2242 (Electronic)
 IS  - 0040-5752 (Linking)
 VI  - 134
@@ -386,6 +474,222 @@ AID - 10.1002/ppp3.10132 [doi]
 PST - ppublish
 SO  - Plants People Planet. 2020 Nov;2(6):663-677. doi: 10.1002/ppp3.10132. Epub 2020 
       Aug 19.
+
+
+##### PUB RECORD #####
+## 10.1093/aob/mcs207  23019270  Kwak, Toro et al., 2012  Kwak M, Toro O, Debouck DG, Gepts P. Multiple origins of the determinate growth habit in domesticated common bean (Phaseolus vulgaris). Ann Bot. 2012 Dec;110(8):1573-80. doi: 10.1093/aob/mcs207. Epub 2012 Sep 27. PMID: 23019270; PMCID: PMC3503494. ##
+
+PMID- 23019270
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130424
+LR  - 20220409
+IS  - 1095-8290 (Electronic)
+IS  - 0305-7364 (Print)
+IS  - 0305-7364 (Linking)
+VI  - 110
+IP  - 8
+DP  - 2012 Dec
+TI  - Multiple origins of the determinate growth habit in domesticated common bean 
+      (Phaseolus vulgaris).
+PG  - 1573-80
+LID - 10.1093/aob/mcs207 [doi]
+AB  - BACKGROUND AND AIMS: The actual number of domestications of a crop is one of the 
+      key questions in domestication studies. Answers to this question have generally 
+      been based on relationships between wild progenitors and domesticated descendants 
+      determined with anonymous molecular markers. In this study, this question was 
+      investigated by determining the number of instances a domestication phenotype had 
+      been selected in a crop species. One of the traits that appeared during 
+      domestication of common bean (Phaseolus vulgaris) is determinacy, in which stems 
+      end with a terminal inflorescence. It has been shown earlier that a homologue of 
+      the arabidopsis TFL1 gene - PvTFL1y - controls determinacy in a naturally 
+      occurring variation of common bean. METHODS: Sequence variation was analysed for 
+      PvTFL1y in a sample of 46 wild and domesticated accessions that included 
+      determinate and indeterminate accessions. KEY RESULTS: Indeterminate types - wild 
+      and domesticated - showed only synonymous nucleotide substitutions. Determinate 
+      types - observed only among domesticated accessions - showed, in addition to 
+      synonymous substitutions, non-synonymous substitutions, indels, a putative 
+      intron-splicing failure, a retrotransposon insertion and a deletion of the entire 
+      locus. The retrotransposon insertion was observed in 70 % of determinate 
+      cultivars, in the Americas and elsewhere. Other determinate mutants had a more 
+      restricted distribution in the Americas only, either in the Andean or in the 
+      Mesoamerican gene pool of common bean. CONCLUSIONS: Although each of the 
+      determinacy haplotypes probably does not represent distinct domestication events, 
+      they are consistent with the multiple (seven) domestication pattern in the genus 
+      Phaseolus. The predominance of determinacy in the Andean gene pool may reflect 
+      domestication of common bean prior to maize introduction in the Andes.
+FAU - Kwak, Myounghai
+AU  - Kwak M
+AD  - Department of Plant Sciences/MS1, Section of Crop and Ecosystem Sciences, 
+      University of California, Davis, 95616-8780, USA.
+FAU - Toro, Orlando
+AU  - Toro O
+FAU - Debouck, Daniel G
+AU  - Debouck DG
+FAU - Gepts, Paul
+AU  - Gepts P
+LA  - eng
+SI  - GENBANK/JN418219
+SI  - GENBANK/JN418220
+SI  - GENBANK/JN418221
+SI  - GENBANK/JN418222
+SI  - GENBANK/JN418223
+SI  - GENBANK/JN418224
+SI  - GENBANK/JN418225
+SI  - GENBANK/JN418226
+SI  - GENBANK/JN418227
+SI  - GENBANK/JN418228
+SI  - GENBANK/JN418229
+SI  - GENBANK/JN418230
+SI  - GENBANK/JN418231
+SI  - GENBANK/JN418232
+SI  - GENBANK/JN418233
+SI  - GENBANK/JN418234
+SI  - GENBANK/JN418235
+SI  - GENBANK/JN418236
+SI  - GENBANK/JN418237
+SI  - GENBANK/JN418238
+SI  - GENBANK/JN418239
+SI  - GENBANK/JN418240
+SI  - GENBANK/JN418241
+SI  - GENBANK/JN418242
+SI  - GENBANK/JN418243
+SI  - GENBANK/JN418244
+SI  - GENBANK/JN418245
+SI  - GENBANK/JN418246
+SI  - GENBANK/JN418247
+SI  - GENBANK/JN418248
+SI  - GENBANK/JN418249
+SI  - GENBANK/JN418250
+SI  - GENBANK/JN418251
+SI  - GENBANK/JN418252
+SI  - GENBANK/JN418253
+SI  - GENBANK/JN418254
+SI  - GENBANK/JN418255
+SI  - GENBANK/JN418256
+SI  - GENBANK/JN418257
+SI  - GENBANK/JN418258
+SI  - GENBANK/JN418259
+SI  - GENBANK/JN418260
+SI  - GENBANK/JN418261
+SI  - GENBANK/JN418262
+SI  - GENBANK/JN418263
+SI  - GENBANK/JN418264
+SI  - GENBANK/JN418265
+SI  - GENBANK/JN418266
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20120927
+PL  - England
+TA  - Ann Bot
+JT  - Annals of botany
+JID - 0372347
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (Plant Proteins)
+RN  - 0 (TFL1 protein, Arabidopsis)
+SB  - IM
+MH  - Arabidopsis Proteins/genetics
+MH  - Base Sequence
+MH  - Gene Pool
+MH  - Genetic Variation/*genetics
+MH  - Genotype
+MH  - Haplotypes
+MH  - Molecular Sequence Data
+MH  - Phaseolus/*genetics/*growth & development
+MH  - Phenotype
+MH  - Plant Proteins/*genetics
+MH  - Sequence Analysis, DNA
+PMC - PMC3503494
+EDAT- 2012/09/29 06:00
+MHDA- 2013/04/25 06:00
+PMCR- 2013/12/01
+CRDT- 2012/09/29 06:00
+PHST- 2012/09/29 06:00 [entrez]
+PHST- 2012/09/29 06:00 [pubmed]
+PHST- 2013/04/25 06:00 [medline]
+PHST- 2013/12/01 00:00 [pmc-release]
+AID - mcs207 [pii]
+AID - 10.1093/aob/mcs207 [doi]
+PST - ppublish
+SO  - Ann Bot. 2012 Dec;110(8):1573-80. doi: 10.1093/aob/mcs207. Epub 2012 Sep 27.
+
+
+##### PUB RECORD #####
+## 10.1093/jhered/esn005  18316323  Kwak, Velasco et al., 2008  Kwak M, Velasco D, Gepts P. Mapping homologous sequences for determinacy and photoperiod sensitivity in common bean (Phaseolus vulgaris). J Hered. 2008 May-Jun;99(3):283-91. doi: 10.1093/jhered/esn005. Epub 2008 Mar 2. PMID: 18316323. ##
+
+PMID- 18316323
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080516
+LR  - 20220409
+IS  - 1465-7333 (Electronic)
+IS  - 0022-1503 (Linking)
+VI  - 99
+IP  - 3
+DP  - 2008 May-Jun
+TI  - Mapping homologous sequences for determinacy and photoperiod sensitivity in 
+      common bean (Phaseolus vulgaris).
+PG  - 283-91
+LID - 10.1093/jhered/esn005 [doi]
+AB  - Determinacy and photoperiod insensitivity are agronomically important traits, 
+      selected during or after domestication in common bean. Determinacy reduces 
+      aboveground plant biomass and accelerates and synchronizes flowering. Photoperiod 
+      insensitivity allows common bean to be grown at higher latitudes under long days. 
+      In this study, we attempted to identify Phaseolus vulgaris homologues of 12 
+      Arabidopsis genes that are involved in meristem identity determination and the 
+      photoperiod-dependent and autonomous flowering pathways. Amplification products 
+      with homology to the original Arabidopsis gene were obtained for 8 genes, 7 of 
+      which could be mapped onto the common bean-linkage map using the BAT93 x Jalo EEP 
+      558 and Midas x G12873 recombinant inbred populations. Three Terminal Flower 1 
+      homologues (PvTFL1x, PvTFL1y, and PvTFL1z) were mapped to B4, B1, and B7, 
+      respectively. PvTFL1y cosegregated with the determinacy locus, fin. In addition, 
+      PvTFL1z mapped near or at a second determinacy locus on B7. A Zeitlupe homologue 
+      mapped near a quantitative trait locus (QTL) for flowering time on linkage group 
+      B9. Constans, FCA, Flowering locus D, Gigantea, and Leafy homologues did not 
+      cosegregate with currently mapped flowering time QTLs and photoperiod 
+      insensitivity loci in common bean. Further studies are needed to confirm the role 
+      of these homologues as potential candidate genes.
+FAU - Kwak, Myounghai
+AU  - Kwak M
+AD  - Department of Plant Sciences/MS1, Section of Crop and Ecosystem Sciences, 
+      University of California, 1 Shields Avenue, Davis, CA 95616-8780, USA.
+FAU - Velasco, Dianne
+AU  - Velasco D
+FAU - Gepts, Paul
+AU  - Gepts P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20080302
+PL  - United States
+TA  - J Hered
+JT  - The Journal of heredity
+JID - 0375373
+RN  - 0 (DNA, Plant)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Chromosome Mapping
+MH  - DNA, Plant/chemistry
+MH  - Flowers/physiology
+MH  - Genes, Plant/*physiology
+MH  - Phaseolus/*genetics/*physiology
+MH  - *Photoperiod
+MH  - Plant Proteins/*genetics
+MH  - Polymerase Chain Reaction
+MH  - Quantitative Trait Loci/genetics
+MH  - *Sequence Homology
+EDAT- 2008/03/05 09:00
+MHDA- 2008/05/17 09:00
+CRDT- 2008/03/05 09:00
+PHST- 2008/03/05 09:00 [pubmed]
+PHST- 2008/05/17 09:00 [medline]
+PHST- 2008/03/05 09:00 [entrez]
+AID - esn005 [pii]
+AID - 10.1093/jhered/esn005 [doi]
+PST - ppublish
+SO  - J Hered. 2008 May-Jun;99(3):283-91. doi: 10.1093/jhered/esn005. Epub 2008 Mar 2.
 
 
 ##### PUB RECORD #####
@@ -831,5 +1135,357 @@ AID - 10.3389/fpls.2022.869582 [doi]
 PST - epublish
 SO  - Front Plant Sci. 2022 Mar 31;13:869582. doi: 10.3389/fpls.2022.869582. 
       eCollection 2022.
+
+
+##### PUB RECORD #####
+## 10.1007/s00122-012-1808-8  22331140  Repinski, Kwak et al., 2012  Repinski SL, Kwak M, Gepts P. The common bean growth habit gene PvTFL1y is a functional homolog of Arabidopsis TFL1. Theor Appl Genet. 2012 May;124(8):1539-47. doi: 10.1007/s00122-012-1808-8. Epub 2012 Feb 14. PMID: 22331140. ##
+
+PMID- 22331140
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120905
+LR  - 20220409
+IS  - 1432-2242 (Electronic)
+IS  - 0040-5752 (Linking)
+VI  - 124
+IP  - 8
+DP  - 2012 May
+TI  - The common bean growth habit gene PvTFL1y is a functional homolog of Arabidopsis 
+      TFL1.
+PG  - 1539-47
+LID - 10.1007/s00122-012-1808-8 [doi]
+AB  - In a common bean plant exhibiting determinate growth, the terminal shoot meristem 
+      switches from a vegetative to reproductive state, resulting in a terminal 
+      inflorescence. Contrary to this, indeterminate growth habit results in a terminal 
+      meristem that remains vegetative where it further regulates the production of 
+      lateral vegetative and reproductive growth. In the last century, breeders have 
+      selected determinate growth habit, in combination with photoperiod insensitivity, 
+      to obtain varieties with a shorter flowering period, earlier maturation and ease 
+      of mechanized harvest. Previous work has identified TFL1 as a gene controlling 
+      determinate growth habit in Arabidopsis thaliana. In this work, we have validated 
+      that the Phaseolus vulgaris candidate gene, PvTFL1y, is the functional homolog of 
+      TFL1 using three independent lines of evidence. First, in a population of ~1,500 
+      plants, PvTFL1y was found to co-segregate with the phenotypic locus for 
+      determinate growth habit (fin) on chromosome 01. Second, using quantitative PCR, 
+      we found that two unique haplotypes associated with determinacy at the PvTFL1y 
+      locus, a 4.1-kb retrotransposon and a splice-site mutation, cause mRNA abundance 
+      to decrease 20-133 fold, consistent with the recessive nature of fin. Finally, 
+      using a functional complementation approach, through Agrobacterium-mediated 
+      transformation of determinate Arabidopsis, we rescued tfl1-1 mutants with the 
+      wild-type PvTFL1y gene. Together, these three lines of evidence lead to the 
+      conclusion that PvTFL1y is the functional homolog of the Arabidopsis gene, TFL1, 
+      and is the gene responsible for naturally occurring variation for determinacy in 
+      common bean. Further work exploring the different haplotypes at the PvTFL1y locus 
+      may lead to improved plant architecture and phenology of common bean cultivars.
+FAU - Repinski, S L
+AU  - Repinski SL
+AD  - Department of Plant Sciences/MS1, University of California, 1 Shields Avenue, 
+      Davis, CA 95616-8780, USA.
+FAU - Kwak, M
+AU  - Kwak M
+FAU - Gepts, P
+AU  - Gepts P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20120214
+PL  - Germany
+TA  - Theor Appl Genet
+JT  - TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik
+JID - 0145600
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (DNA Primers)
+RN  - 0 (DNA Transposable Elements)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (TFL1 protein, Arabidopsis)
+SB  - IM
+MH  - Agrobacterium/metabolism
+MH  - Arabidopsis/*genetics
+MH  - Arabidopsis Proteins/*genetics
+MH  - Binding Sites
+MH  - Crosses, Genetic
+MH  - DNA Primers/genetics
+MH  - DNA Transposable Elements
+MH  - Fabaceae/*genetics
+MH  - Flowers
+MH  - Gene Expression Regulation, Plant
+MH  - Genes, Plant
+MH  - Models, Genetic
+MH  - Mutation
+MH  - Phenotype
+MH  - Plasmids/metabolism
+MH  - RNA, Messenger/metabolism
+MH  - Sequence Analysis, DNA
+MH  - Transgenes
+EDAT- 2012/02/15 06:00
+MHDA- 2012/09/06 06:00
+CRDT- 2012/02/15 06:00
+PHST- 2011/08/25 00:00 [received]
+PHST- 2012/01/26 00:00 [accepted]
+PHST- 2012/02/15 06:00 [entrez]
+PHST- 2012/02/15 06:00 [pubmed]
+PHST- 2012/09/06 06:00 [medline]
+AID - 10.1007/s00122-012-1808-8 [doi]
+PST - ppublish
+SO  - Theor Appl Genet. 2012 May;124(8):1539-47. doi: 10.1007/s00122-012-1808-8. Epub 
+      2012 Feb 14.
+
+
+##### PUB RECORD #####
+## 10.1093/jxb/ery455  31222352  Weller, Vander Schoor et al., 2019  Weller JL, Vander Schoor JK, Perez-Wright EC, Hecht V, González AM, Capel C, Yuste-Lisbona FJ, Lozano R, Santalla M. Parallel origins of photoperiod adaptation following dual domestications of common bean. J Exp Bot. 2019 Feb 20;70(4):1209-1219. doi: 10.1093/jxb/ery455. PMID: 31222352. ##
+
+PMID- 31222352
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200427
+LR  - 20200427
+IS  - 1460-2431 (Electronic)
+IS  - 0022-0957 (Linking)
+VI  - 70
+IP  - 4
+DP  - 2019 Feb 20
+TI  - Parallel origins of photoperiod adaptation following dual domestications of 
+      common bean.
+PG  - 1209-1219
+LID - 10.1093/jxb/ery455 [doi]
+AB  - Common bean (Phaseolus vulgaris L.) is an important grain legume domesticated 
+      independently in Mexico and Andean South America approximately 8000 years ago. 
+      Wild forms are obligate short-day plants, and relaxation of photoperiod 
+      sensitivity was important for expansion to higher latitudes and subsequent global 
+      spread. To better understand the nature and origin of this key adaptation, we 
+      examined its genetic control in progeny of a wide cross between a wild accession 
+      and a photoperiod-insensitive cultivar. We found that photoperiod sensitivity is 
+      under oligogenic control, and confirm a major effect of the Ppd locus on 
+      chromosome 1. The red/far-red photoreceptor gene PHYTOCHROME A3 (PHYA3) was 
+      identified as a strong positional candidate for Ppd, and sequencing revealed 
+      distinct deleterious PHYA3 mutations in photoperiod-insensitive Andean and 
+      Mesoamerican accessions. These results reveal the independent origins of 
+      photoperiod insensitivity within the two major common bean gene pools and 
+      demonstrate the conserved importance of PHYA genes in photoperiod adaptation of 
+      short-day legume species.
+CI  - (c) The Author(s) 2019. Published by Oxford University Press on behalf of the 
+      Society for Experimental Biology. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Weller, James L
+AU  - Weller JL
+AD  - School of Natural Sciences, University of Tasmania, Hobart, Tasmania, Australia.
+FAU - Vander Schoor, Jacqueline K
+AU  - Vander Schoor JK
+AD  - School of Natural Sciences, University of Tasmania, Hobart, Tasmania, Australia.
+FAU - Perez-Wright, Emilie C
+AU  - Perez-Wright EC
+AD  - School of Natural Sciences, University of Tasmania, Hobart, Tasmania, Australia.
+FAU - Hecht, Valerie
+AU  - Hecht V
+AD  - School of Natural Sciences, University of Tasmania, Hobart, Tasmania, Australia.
+FAU - Gonzalez, Ana M
+AU  - Gonzalez AM
+AD  - Grupo de Genetica del Desarrollo de Plantas, Mision Biologica de Galicia-CSIC, 
+      Pontevedra, Spain.
+FAU - Capel, Carmen
+AU  - Capel C
+AD  - Centro de Investigacion en Biotecnologia Agroalimentaria (BITAL), Universidad de 
+      Almeria, Almeria, Spain.
+FAU - Yuste-Lisbona, Fernando J
+AU  - Yuste-Lisbona FJ
+AD  - Centro de Investigacion en Biotecnologia Agroalimentaria (BITAL), Universidad de 
+      Almeria, Almeria, Spain.
+FAU - Lozano, Rafael
+AU  - Lozano R
+AD  - Centro de Investigacion en Biotecnologia Agroalimentaria (BITAL), Universidad de 
+      Almeria, Almeria, Spain.
+FAU - Santalla, Marta
+AU  - Santalla M
+AD  - Grupo de Genetica del Desarrollo de Plantas, Mision Biologica de Galicia-CSIC, 
+      Pontevedra, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Exp Bot
+JT  - Journal of experimental botany
+JID - 9882906
+RN  - 0 (Phytochrome A)
+SB  - IM
+MH  - *Adaptation, Biological
+MH  - *Domestication
+MH  - Genes, Plant/genetics
+MH  - Phaseolus/genetics/*physiology
+MH  - *Photoperiod
+MH  - Phytochrome A/genetics/metabolism
+OTO - NOTNLM
+OT  - Phaseolus
+OT  - Common bean
+OT  - florigen
+OT  - flowering
+OT  - photoperiod
+OT  - phytochrome
+EDAT- 2019/06/22 06:00
+MHDA- 2020/04/28 06:00
+CRDT- 2019/06/22 06:00
+PHST- 2018/09/09 00:00 [received]
+PHST- 2019/02/09 00:00 [accepted]
+PHST- 2019/06/22 06:00 [entrez]
+PHST- 2019/06/22 06:00 [pubmed]
+PHST- 2020/04/28 06:00 [medline]
+AID - 5348852 [pii]
+AID - 10.1093/jxb/ery455 [doi]
+PST - ppublish
+SO  - J Exp Bot. 2019 Feb 20;70(4):1209-1219. doi: 10.1093/jxb/ery455.
+
+
+##### PUB RECORD #####
+## 10.1111/tpj.70909  42089377  von Steimker, Bulut et al., 2026  von Steimker J, Bulut M, Pozhvanov G, Bergmann S, Wendenburg R, Sun Y, Zhu F, Pieri A, Frascarelli G, Nanni L, Bellucci E, Bitocchi E, Papa R, Fernie AR, Alseekh S. GWAS identifies regulators of seed and leaf morphology in common bean, revealing OFP5 as a major seed size determinant. Plant J. 2026 May;126(3):e70909. doi: 10.1111/tpj.70909. PMID: 42089377; PMCID: PMC13147493. ##
+
+PMID- 42089377
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260716
+LR  - 20260813
+IS  - 1365-313X (Electronic)
+IS  - 0960-7412 (Print)
+IS  - 0960-7412 (Linking)
+VI  - 126
+IP  - 3
+DP  - 2026 May
+TI  - GWAS identifies regulators of seed and leaf morphology in common bean, revealing 
+      OFP5 as a major seed size determinant.
+PG  - e70909
+LID - 10.1111/tpj.70909 [doi]
+LID - e70909
+AB  - Phaseolus vulgaris (common bean) is one of the most economically important 
+      members of the Fabaceae family and a crop of high nutritional value. Seed and 
+      leaf morphological traits are key determinants of yield, shaped by genetic and 
+      environmental factors. In this study, we characterized a diversity panel of 434 
+      P. vulgaris accessions for morphological and colorimetric traits. Using 
+      genome-wide association studies based on both single-nucleotide polymorphisms and 
+      structural variants, we identified 73 high-confidence quantitative trait locus 
+      (QTL). In total, we present 114 candidate genes within 25 quantitative trait loci 
+      linked to seed and leaf morphology and color, including an OVATE Family Protein 5 
+      (PvOFP5), which was functionally validated as a key regulator of seed size in 
+      common bean. We employed a heterologous approach by overexpressing the inferior 
+      (Mesoamerican) and superior (Andean) alleles of PvOFP5 in Arabidopsis thaliana 
+      wild-type and knockout lines, and confirmed the key role of PvOFP5 in determining 
+      seed area. This work provides a comprehensive atlas of genetic associations for 
+      bean morphology and color, and highlights PvOFP5 as a promising target for 
+      marker-assisted breeding aimed at optimizing seed size.
+CI  - (c) 2026 The Author(s). The Plant Journal published by Society for Experimental 
+      Biology and John Wiley & Sons Ltd.
+FAU - von Steimker, Julia
+AU  - von Steimker J
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+FAU - Bulut, Mustafa
+AU  - Bulut M
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+AD  - Program Center MetaCom, Leibniz Institute of Plant Biochemistry, Weinberg 3, 
+      Halle (Saale), 06120, Germany.
+FAU - Pozhvanov, Gregory
+AU  - Pozhvanov G
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+AD  - Komarov Botanical Institute, Russian Academy of Sciences, Saint-Petersburg, 
+      Russia.
+FAU - Bergmann, Susan
+AU  - Bergmann S
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+FAU - Wendenburg, Regina
+AU  - Wendenburg R
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+FAU - Sun, Yuming
+AU  - Sun Y
+AD  - Jiangsu Key Laboratory for Conservation and Utilization of Plant Resources, 
+      Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 
+      210014, China.
+FAU - Zhu, Feng
+AU  - Zhu F
+AD  - Key Laboratory of Horticultural Plant Biology, National R&D Center for Citrus 
+      Preservation, Ministry of Education, Huazhong Agricultural University, Wuhan, 
+      430070, China.
+FAU - Pieri, Alice
+AU  - Pieri A
+AD  - Department of Agricultural, Food and Environmental Sciences, Polytechnic 
+      University of Marche, Via Brecce Bianche, 60131, Ancona, Italy.
+FAU - Frascarelli, Giulia
+AU  - Frascarelli G
+AD  - Department of Agricultural, Food and Environmental Sciences, Polytechnic 
+      University of Marche, Via Brecce Bianche, 60131, Ancona, Italy.
+FAU - Nanni, Laura
+AU  - Nanni L
+AD  - Department of Agricultural, Food and Environmental Sciences, Polytechnic 
+      University of Marche, Via Brecce Bianche, 60131, Ancona, Italy.
+FAU - Bellucci, Elisa
+AU  - Bellucci E
+AD  - Department of Agricultural, Food and Environmental Sciences, Polytechnic 
+      University of Marche, Via Brecce Bianche, 60131, Ancona, Italy.
+FAU - Bitocchi, Elena
+AU  - Bitocchi E
+AD  - Department of Agricultural, Food and Environmental Sciences, Polytechnic 
+      University of Marche, Via Brecce Bianche, 60131, Ancona, Italy.
+FAU - Papa, Roberto
+AU  - Papa R
+AD  - Department of Agricultural, Food and Environmental Sciences, Polytechnic 
+      University of Marche, Via Brecce Bianche, 60131, Ancona, Italy.
+FAU - Fernie, Alisdair R
+AU  - Fernie AR
+AUID- ORCID: 0000-0001-9000-335X
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+AD  - Center of Plant Systems Biology and Biotechnology, Plovdiv, 4023, Bulgaria.
+FAU - Alseekh, Saleh
+AU  - Alseekh S
+AD  - Max-Planck-Institute of Molecular Plant Physiology, Am Muhlenberg 1, 14476, 
+      Potsdam-Golm, Germany.
+AD  - Center of Plant Systems Biology and Biotechnology, Plovdiv, 4023, Bulgaria.
+LA  - eng
+GR  - 862862/European Union's Horizon 2020 research and innovation programme/
+GR  - ERA-CAPS Programme/
+GR  - BG16RFPR002-1.014-0003-C01/European Regional Development Fund/
+GR  - 720101087091/European Regional Development Fund/
+GR  - BIN RAS/
+GR  - 57210733/DAAD/
+PT  - Journal Article
+PL  - England
+TA  - Plant J
+JT  - The Plant journal : for cell and molecular biology
+JID - 9207397
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Phaseolus/genetics/anatomy & histology/growth & development
+MH  - *Seeds/genetics/anatomy & histology/growth & development
+MH  - Genome-Wide Association Study
+MH  - Quantitative Trait Loci/genetics
+MH  - *Plant Leaves/genetics/anatomy & histology/growth & development
+MH  - *Plant Proteins/genetics/metabolism
+MH  - Phenotype
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Arabidopsis/genetics
+PMC - PMC13147493
+OTO - NOTNLM
+OT  - GWAS
+OT  - Phaseolus vulgaris
+OT  - PvOFP5
+OT  - leaf and seed phenomics
+OT  - seed size
+COIS- The authors declare no conflict of interest.
+EDAT- 2026/05/06 12:35
+MHDA- 2026/05/06 12:36
+PMCR- 2026/05/06
+CRDT- 2026/05/06 06:53
+PHST- 2026/04/16 00:00 [revised]
+PHST- 2026/02/04 00:00 [received]
+PHST- 2026/04/24 00:00 [accepted]
+PHST- 2026/05/06 12:36 [medline]
+PHST- 2026/05/06 12:35 [pubmed]
+PHST- 2026/05/06 06:53 [entrez]
+PHST- 2026/05/06 00:00 [pmc-release]
+AID - TPJ70909 [pii]
+AID - 10.1111/tpj.70909 [doi]
+PST - ppublish
+SO  - Plant J. 2026 May;126(3):e70909. doi: 10.1111/tpj.70909.
 
 

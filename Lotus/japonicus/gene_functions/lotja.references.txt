@@ -341,6 +341,133 @@ SO  - Plant Cell Physiol. 2015 Feb;56(2):368-76. doi: 10.1093/pcp/pcu168. Epub 2
 
 
 ##### PUB RECORD #####
+## 10.1093/jxb/erab402  34460912  Tian, Liu et al., 2022  Tian L, Liu L, Xu S, Deng R, Wu P, Jiang H, Wu G, Chen Y. A d-pinitol transporter, LjPLT11, regulates plant growth and nodule development in Lotus japonicus. J Exp Bot. 2022 Jan 5;73(1):351-365. doi: 10.1093/jxb/erab402. PMID: 34460912. ##
+
+PMID- 34460912
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220127
+LR  - 20220127
+IS  - 1460-2431 (Electronic)
+IS  - 0022-0957 (Linking)
+VI  - 73
+IP  - 1
+DP  - 2022 Jan 5
+TI  - A d-pinitol transporter, LjPLT11, regulates plant growth and nodule development 
+      in Lotus japonicus.
+PG  - 351-365
+LID - 10.1093/jxb/erab402 [doi]
+AB  - Polyol transporters have been functionally characterized in yeast and Xenopus 
+      laevis oocytes as H+-symporters with broad substrate specificity, but little is 
+      known about their physiological roles in planta. To extend this knowledge, we 
+      investigated the role of LjPLT11 in Lotus japonicus-Mesorhizobium symbiosis. 
+      Functional analyses of LjPLT11 in yeast characterized it as an energy-independent 
+      transporter of xylitol, two O-methyl inositols, xylose, and galactose. We showed 
+      that LjPLT11 is located on peribacteroid membranes and functions as a 
+      facilitative transporter of d-pinitol within infected cells of L. japonicus 
+      nodules. Knock-down of LjPLT11 (LjPLT11i) in L. japonicus accelerated plant 
+      growth under nitrogen sufficiency, but resulted in abnormal bacteroids with 
+      corresponding reductions in nitrogenase activity in nodules and plant growth in 
+      the nitrogen-fixing symbiosis. LjPLT11i nodules had higher osmotic pressure in 
+      cytosol, and lower osmotic pressure in bacteroids, than wild-type nodules both 3 
+      and 4 weeks after inoculation of Mesorhizobium loti. Levels and distributions of 
+      reactive oxygen species were also perturbed in infected cells of 4-week-old 
+      nodules in LjPLT11i plants. The results indicate that LjPLT11 plays a key role in 
+      adjustment of the levels of its substrate pinitol, and thus maintenance of 
+      osmotic balance in infected cells and peribacteroid membrane stability during 
+      nodule development.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of the 
+      Society for Experimental Biology. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Tian, Lu
+AU  - Tian L
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+AD  - School of Food and Biological Engineering, Shaanxi University of Science and 
+      Technology, Xi'an, China.
+FAU - Liu, Leru
+AU  - Liu L
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Xu, Shaoming
+AU  - Xu S
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Deng, Rufang
+AU  - Deng R
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+FAU - Wu, Pingzhi
+AU  - Wu P
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+FAU - Jiang, Huawu
+AU  - Jiang H
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+FAU - Wu, Guojiang
+AU  - Wu G
+AUID- ORCID: 0000-0001-8204-4928
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+FAU - Chen, Yaping
+AU  - Chen Y
+AUID- ORCID: 0000-0002-0118-4265
+AD  - Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic 
+      Improvement & Guangdong Provincial Key Laboratory of Applied Botany, South China 
+      Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Exp Bot
+JT  - Journal of experimental botany
+JID - 9882906
+RN  - 0 (Plant Proteins)
+RN  - 484-68-4 (pinitol)
+RN  - 4L6452S749 (Inositol)
+SB  - IM
+CIN - J Exp Bot. 2022 Jan 5;73(1):8-10. doi: 10.1093/jxb/erab425. PMID: 34986228
+MH  - Gene Expression Regulation, Plant
+MH  - Inositol/analogs & derivatives
+MH  - *Lotus/genetics/metabolism
+MH  - Nitrogen Fixation
+MH  - Plant Development
+MH  - Plant Proteins/genetics/metabolism
+MH  - Plant Roots/metabolism
+MH  - Root Nodules, Plant/metabolism
+MH  - Symbiosis
+OTO - NOTNLM
+OT  - Lotus japonicus
+OT  - D-pinitol
+OT  - nodule development
+OT  - peribacteroid membrane
+OT  - polyol transporter
+EDAT- 2021/08/31 06:00
+MHDA- 2022/01/28 06:00
+CRDT- 2021/08/30 17:22
+PHST- 2021/05/17 00:00 [received]
+PHST- 2021/08/28 00:00 [accepted]
+PHST- 2021/08/31 06:00 [pubmed]
+PHST- 2022/01/28 06:00 [medline]
+PHST- 2021/08/30 17:22 [entrez]
+AID - 6359879 [pii]
+AID - 10.1093/jxb/erab402 [doi]
+PST - ppublish
+SO  - J Exp Bot. 2022 Jan 5;73(1):351-365. doi: 10.1093/jxb/erab402.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.113.233379  24722550  Yoro, Suzaki et al., 2014  Yoro E, Suzaki T, Toyokura K, Miyazawa H, Fukaki H, Kawaguchi M. A Positive Regulator of Nodule Organogenesis, NODULE INCEPTION, Acts as a Negative Regulator of Rhizobial Infection in Lotus japonicus. Plant Physiol. 2014 Jun;165(2):747-758. doi: 10.1104/pp.113.233379. Epub 2014 Apr 10. PMID: 24722550; PMCID: PMC4043699. ##
 
 PMID- 24722550

@@ -1,0 +1,160 @@
+##### PUB RECORD #####
+## 10.1111/nph.14094  27418400  Nelson, Ksiazkiewicz et al., 2017  Nelson MN, Książkiewicz M, Rychel S, Besharat N, Taylor CM, Wyrwa K, Jost R, Erskine W, Cowling WA, Berger JD, Batley J, Weller JL, Naganowska B, Wolko B. The loss of vernalization requirement in narrow-leafed lupin is associated with a deletion in the promoter and de-repressed expression of a Flowering Locus T (FT) homologue. New Phytol. 2017 Jan;213(1):220-232. doi: 10.1111/nph.14094. Epub 2016 Jul 15. PMID: 27418400. ##
+
+PMID- 27418400
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180214
+LR  - 20240109
+IS  - 1469-8137 (Electronic)
+IS  - 0028-646X (Linking)
+VI  - 213
+IP  - 1
+DP  - 2017 Jan
+TI  - The loss of vernalization requirement in narrow-leafed lupin is associated with a 
+      deletion in the promoter and de-repressed expression of a Flowering Locus T (FT) 
+      homologue.
+PG  - 220-232
+LID - 10.1111/nph.14094 [doi]
+AB  - Adaptation of Lupinus angustifolius (narrow-leafed lupin) to cropping in southern 
+      Australian and northern Europe was transformed by a dominant mutation (Ku) that 
+      removed vernalization requirement for flowering. The Ku mutation is now widely 
+      used in lupin breeding to confer early flowering and maturity. We report here the 
+      identity of the Ku mutation. We used a range of genetic, genomic and gene 
+      expression approaches to determine whether Flowering Locus T (FT) homologues are 
+      associated with the Ku locus. One of four FT homologues present in the 
+      narrow-leafed lupin genome, LanFTc1, perfectly co-segregated with the Ku locus in 
+      a reference mapping population. Expression of LanFTc1 in the ku (late-flowering) 
+      parent was strongly induced by vernalization, in contrast to the Ku 
+      (early-flowering) parent, which showed constitutively high LanFTc1 expression. 
+      Co-segregation of this expression phenotype with the LanFTc1 genotype indicated 
+      that the Ku mutation impairs cis-regulation of LanFTc1. Sequencing of LanFTc1 
+      revealed a 1.4-kb deletion in the promoter region, which was perfectly predictive 
+      of vernalization response in 216 wild and domesticated accessions. Linkage 
+      disequilibrium rapidly decayed around LanFTc1, suggesting that this deletion 
+      caused the loss of vernalization response. This is the first time a legume FTc 
+      subclade gene has been implicated in the vernalization response.
+CI  - (c) 2016 The Authors. New Phytologist (c) 2016 New Phytologist Trust.
+FAU - Nelson, Matthew N
+AU  - Nelson MN
+AD  - Natural Capital and Plant Health, Royal Botanic Gardens Kew, Wakehurst Place, 
+      Ardingly, West Sussex, RH17 6TN, UK.
+AD  - School of Plant Biology, The University of Western Australia, 35 Stirling 
+      Highway, Perth, WA, 6009, Australia.
+AD  - The UWA Institute of Agriculture, The University of Western Australia, 35 
+      Stirling Highway, Perth, WA, 6009, Australia.
+FAU - Ksiazkiewicz, Michal
+AU  - Ksiazkiewicz M
+AD  - Institute of Plant Genetics, Polish Academy of Sciences, Strzeszynska 34, 60-479, 
+      Poznan, Poland.
+FAU - Rychel, Sandra
+AU  - Rychel S
+AD  - Institute of Plant Genetics, Polish Academy of Sciences, Strzeszynska 34, 60-479, 
+      Poznan, Poland.
+FAU - Besharat, Naghmeh
+AU  - Besharat N
+AD  - School of Plant Biology, The University of Western Australia, 35 Stirling 
+      Highway, Perth, WA, 6009, Australia.
+FAU - Taylor, Candy M
+AU  - Taylor CM
+AD  - School of Plant Biology, The University of Western Australia, 35 Stirling 
+      Highway, Perth, WA, 6009, Australia.
+FAU - Wyrwa, Katarzyna
+AU  - Wyrwa K
+AD  - Institute of Plant Genetics, Polish Academy of Sciences, Strzeszynska 34, 60-479, 
+      Poznan, Poland.
+FAU - Jost, Ricarda
+AU  - Jost R
+AD  - School of Plant Biology, The University of Western Australia, 35 Stirling 
+      Highway, Perth, WA, 6009, Australia.
+AD  - Australian Research Council Centre of Excellence in Plant Energy Biology and 
+      Centre for AgriBiosciences, Department of Animal, Plant and Soil Science, School 
+      of Life Science, La Trobe University, 5 Ring Road, Bundoora, Victoria, 3083, 
+      Australia.
+FAU - Erskine, William
+AU  - Erskine W
+AD  - The UWA Institute of Agriculture, The University of Western Australia, 35 
+      Stirling Highway, Perth, WA, 6009, Australia.
+AD  - Centre for Plant Genetics and Breeding, School of Plant Biology, The University 
+      of Western Australia, 35 Stirling Highway, Crawley, WA, 6009, Australia.
+FAU - Cowling, Wallace A
+AU  - Cowling WA
+AD  - The UWA Institute of Agriculture, The University of Western Australia, 35 
+      Stirling Highway, Perth, WA, 6009, Australia.
+FAU - Berger, Jens D
+AU  - Berger JD
+AD  - Centre for Plant Genetics and Breeding, School of Plant Biology, The University 
+      of Western Australia, 35 Stirling Highway, Crawley, WA, 6009, Australia.
+AD  - CSIRO Agriculture, Private Bag No. 5, Wembley, WA, 6913, Australia.
+FAU - Batley, Jacqueline
+AU  - Batley J
+AD  - School of Plant Biology, The University of Western Australia, 35 Stirling 
+      Highway, Perth, WA, 6009, Australia.
+AD  - The UWA Institute of Agriculture, The University of Western Australia, 35 
+      Stirling Highway, Perth, WA, 6009, Australia.
+FAU - Weller, James L
+AU  - Weller JL
+AD  - School of Biological Sciences, University of Tasmania, Hobart, Tasmania, 7001, 
+      Australia.
+FAU - Naganowska, Barbara
+AU  - Naganowska B
+AD  - Institute of Plant Genetics, Polish Academy of Sciences, Strzeszynska 34, 60-479, 
+      Poznan, Poland.
+FAU - Wolko, Bogdan
+AU  - Wolko B
+AD  - Institute of Plant Genetics, Polish Academy of Sciences, Strzeszynska 34, 60-479, 
+      Poznan, Poland.
+LA  - eng
+SI  - GENBANK/KT862490-KT862492
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160715
+PL  - England
+TA  - New Phytol
+JT  - The New phytologist
+JID - 9882884
+RN  - 0 (Genetic Markers)
+RN  - 0 (Plant Proteins)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Arabidopsis/genetics
+MH  - Base Sequence
+MH  - Binding Sites
+MH  - Flowers/*physiology
+MH  - *Gene Expression Regulation, Plant
+MH  - Genes, Plant
+MH  - Genetic Markers
+MH  - INDEL Mutation/genetics
+MH  - Linkage Disequilibrium/genetics
+MH  - Lupinus/genetics/*physiology
+MH  - Nucleotide Motifs/genetics
+MH  - Phylogeny
+MH  - Plant Leaves/*physiology
+MH  - Plant Proteins/*genetics/metabolism
+MH  - Polymorphism, Genetic
+MH  - *Promoter Regions, Genetic
+MH  - RNA, Messenger/genetics/metabolism
+MH  - *Sequence Deletion
+MH  - *Sequence Homology, Amino Acid
+MH  - Transcription Factors/metabolism
+OTO - NOTNLM
+OT  - Lupinus angustifolius
+OT  - Flowering Locus T (FT)
+OT  - florigen
+OT  - mutation
+OT  - promoter
+OT  - vernalization
+EDAT- 2016/07/16 06:00
+MHDA- 2018/02/15 06:00
+CRDT- 2016/07/16 06:00
+PHST- 2016/04/22 00:00 [received]
+PHST- 2016/06/05 00:00 [accepted]
+PHST- 2016/07/16 06:00 [pubmed]
+PHST- 2018/02/15 06:00 [medline]
+PHST- 2016/07/16 06:00 [entrez]
+AID - 10.1111/nph.14094 [doi]
+PST - ppublish
+SO  - New Phytol. 2017 Jan;213(1):220-232. doi: 10.1111/nph.14094. Epub 2016 Jul 15.
+
+

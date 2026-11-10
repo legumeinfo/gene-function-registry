@@ -291,3 +291,113 @@ SO  - J Plant Res. 2017 Mar;130(2):387-396. doi: 10.1007/s10265-017-0905-9. Epub
       Feb 1.
 
 
+##### PUB RECORD #####
+## 10.1016/j.plaphy.2024.109191  39406004  Song, Sun et al., 2024  Song Y, Sun X, Guo X, Ding X, Chen J, Tang H, Zhang Z, Dong W. Shading increases the susceptibility of alfalfa (Medicago sativa) to Pst. DC3000 by inhibiting the expression of MsIFS1. Plant Physiol Biochem. 2024 Nov;216:109191. doi: 10.1016/j.plaphy.2024.109191. Epub 2024 Oct 11. PMID: 39406004. ##
+
+PMID- 39406004
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241107
+LR  - 20241107
+IS  - 1873-2690 (Electronic)
+IS  - 0981-9428 (Linking)
+VI  - 216
+DP  - 2024 Nov
+TI  - Shading increases the susceptibility of alfalfa (Medicago sativa) to Pst. DC3000 
+      by inhibiting the expression of MsIFS1.
+PG  - 109191
+LID - S0981-9428(24)00859-3 [pii]
+LID - 10.1016/j.plaphy.2024.109191 [doi]
+AB  - Shade is a stressful factor for most plants, leading to both morphological and 
+      physiological changes, and often resulting in increased susceptibility to 
+      diseases and pathogen attacks. Our study revealed that the isoflavonoid synthesis 
+      pathway was inhibited in alfalfa under shade, resulting in a significant 
+      reduction in disease resistance. Overexpression of MsIFS1, a switch regulator in 
+      isoflavonoid synthesis, led to a notable increase in endogenous isoflavonoids and 
+      enhanced resistance to Pseudomonas syringae pv. tomato DC3000 (Pst. DC3000). 
+      Conversely, MsIFS1-RNAi had the opposite effect. Yeast one-hybrid (Y1H) assays 
+      revealed that the shade-responsive transcription factor MsWRKY41 could directly 
+      bind to the MsIFS1 promoter. This interaction was confirmed through 
+      Dual-Luciferase Reporter (Dual-LUC) and Chromatin Immunoprecipitation coupled 
+      with quantitative PCR (ChIP-qPCR) assays, both in vitro and in vivo. 
+      Overexpression of MsWRKY41 not only enhanced alfalfa's resistance to Pst. DC3000 
+      but also promoted the accumulation of isoflavonoids. Additionally, yeast 
+      two-hybrid (Y2H) assays showed that neither MsWRKY41 nor MsIFS1 physically 
+      interacted with the Type III effector (T3SE) HopZ1 secreted by Pst. DC3000, 
+      suggesting that the MsWRKY41-MsIFS1 module is not a direct target of HopZ1. These 
+      findings provide valuable theoretical insights and genetic resources for the 
+      development of shade-tolerant alfalfa with enhanced disease resistance.
+CI  - Copyright (c) 2024 Elsevier Masson SAS. All rights reserved.
+FAU - Song, Yuguang
+AU  - Song Y
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Sun, Xueying
+AU  - Sun X
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Guo, Xinying
+AU  - Guo X
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Ding, Xinru
+AU  - Ding X
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Chen, Jifeng
+AU  - Chen J
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Tang, Haoyan
+AU  - Tang H
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Zhang, Zhaoran
+AU  - Zhang Z
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China.
+FAU - Dong, Wei
+AU  - Dong W
+AD  - School of Life Sciences, Qufu Normal University, Qufu, 273165, Shandong, PR 
+      China. Electronic address: dwei@qfnu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20241011
+PL  - France
+TA  - Plant Physiol Biochem
+JT  - Plant physiology and biochemistry : PPB
+JID - 9882449
+RN  - 0 (Plant Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - *Medicago sativa/genetics/metabolism/microbiology
+MH  - *Pseudomonas syringae/pathogenicity/physiology
+MH  - *Plant Proteins/genetics/metabolism
+MH  - *Plant Diseases/microbiology/genetics
+MH  - *Gene Expression Regulation, Plant
+MH  - Disease Resistance/genetics
+MH  - Transcription Factors/metabolism/genetics
+OTO - NOTNLM
+OT  - Alfalfa
+OT  - Disease resistance
+OT  - Isoflavonoid
+OT  - MsWRKY41
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/10/16 00:23
+MHDA- 2024/11/07 10:19
+CRDT- 2024/10/15 18:09
+PHST- 2024/07/24 00:00 [received]
+PHST- 2024/09/06 00:00 [revised]
+PHST- 2024/10/10 00:00 [accepted]
+PHST- 2024/11/07 10:19 [medline]
+PHST- 2024/10/16 00:23 [pubmed]
+PHST- 2024/10/15 18:09 [entrez]
+AID - S0981-9428(24)00859-3 [pii]
+AID - 10.1016/j.plaphy.2024.109191 [doi]
+PST - ppublish
+SO  - Plant Physiol Biochem. 2024 Nov;216:109191. doi: 10.1016/j.plaphy.2024.109191. 
+      Epub 2024 Oct 11.
+
+

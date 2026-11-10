@@ -1,6 +1,73 @@
 ---
 scientific_name: Arachis hypogaea
 gene_symbols:
+  - AhGSA1
+gene_symbol_long: Grain Size and Abiotic stress tolerance 1
+gene_model_pub_name: chr16.3093
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah16g471200
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - This is gene arahy.S245.gnm1.ann1.evm_chr16_3093.1, annotated as a probable
+      glycosyltransferase isoform X4.
+  - overexpression of an ortholog in rice significantly increased grain size by
+      modulating cell proliferation and expansion.
+  - An insertion–deletion within the promoter region of AhGSA1 was identified
+      that results in a premature stop codon and loss of transmembrane and
+      kinase domains.
+  - Evidence includes GWAS, orthology analysis, subcellular localization
+      analysis, and analysis of forty-two accessions classified as Hap1 (ATT
+      type) and 293 accessions of Hap2 (AT type), with the Hap2 type showing
+      significantly higher thousand-grain-weight.
+phenotype_synopsis: AhGSA1, annotated as glycosyltransferase, is associated
+  with seed size. Increased expression is associated with increase in seed size
+  through modulation of cell proliferation and expansion.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+references:
+  - citation: Bian, Zhang et al., 2026
+    doi: 10.1038/s41588-026-02577-z
+    pmid: null
+  - citation: Dong, Sun et al., 2020
+    doi: 10.1038/s41467-020-16403-5
+    pmid: null
+
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhWRI1
+gene_symbol_long: WRINKLED1
+gene_model_pub_name: evm_chr08_2620
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08g309800
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - This is gene arahy.S245.gnm1.ann1.evm_chr08_2620.1, annotated as an
+      AP2-like ethylene-responsive transcription factor, ANT-like.
+  - Transgenic lines overexpressing AhWRI1 in rapeseed and soybean showed lipid
+      droplet accumulation in the leaf mesophyll cells.
+  - AhWRI1 overexpression significantly increased fatty acid levels.
+  - Evidence includes GWAS, orthology analysis, subcellular localization
+      analysis, and transgenic expression in rapeseed and soybean.
+phenotype_synopsis: AhWRI1, annotated as an AP2-like ethylene-responsive
+  transcription factor, is involved in controlling seed oil concentration.
+traits:
+  - entity_name: seed oil content
+    entity: CO_336:0000048
+references:
+  - citation: Bian, Zhang et al., 2026
+    doi: 10.1038/s41588-026-02577-z
+    pmid: null
+  - citation: Kong, Yuan et al., 2019
+    doi: 10.3390/plants8070238
+    pmid: null
+
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
   - AhBSK1
 gene_symbol_long: Brassinosteroid Signaling Kinase 1
 gene_model_pub_name: Ah13g064900
@@ -249,6 +316,52 @@ references:
 ---
 scientific_name: Arachis hypogaea
 gene_symbols:
+  - AhZAR1-4
+gene_symbol_long: ZYGOTIC ARREST 1-4
+gene_model_pub_name: NDH09G30780
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah09g388200
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - AhZAR1-4 is a leucine-rich repeat receptor-like kinase that plays an
+      essential role in early seed development in peanut.
+  - The gene contains a C-to-T mutation at position 907 bp in the mutant,
+      resulting in a premature stop codon and loss of transmembrane and kinase
+      domains.
+  - AhZAR1-4 interacts with AhIAA31 in the auxin signaling pathway and responds
+      to brassinosteroid and indole-3-acetic acid treatments, indicating its
+      role in hormone regulation.
+  - The mutation disrupts the SSP-YODA-MPKK4/5-MAPK3/6-WRKY2 signaling pathway,
+      leading to downregulation of downstream genes like AhYDA and AhWOX8.
+  - Heterologous overexpression of AhZAR1-4 wild-type alleles successfully
+      rescued the seed-abortion phenotype of the Arabidopsis thaliana atzar1-4
+      mutant and increased seed size, whereas AhZAR1-4 mutant allele expression
+      did not.
+phenotype_synopsis: The AhZAR1-4 mutant lacks transmembrane and kinase domains
+  due to a premature stop codon, loses membrane localization, and when
+  overexpressed in wild-type form increases seed size while the mutant form
+  fails to complement seed abortion defects.
+traits:
+  - entity_name: plant embryo morphology trait
+    entity: TO:0000064
+  - entity_name: seed viability
+    entity: TO:0000345
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: plant growth hormone response
+    entity: TO:0000401
+  - entity_name: auxin-activated signaling pathway
+    entity: GO:0009734
+references:
+  - citation: Ma, Fan et al., 2026
+    doi: 10.1016/j.cj.2026.02.009
+    pmid: null
+
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
   - AhUGT75A
   - AhUGT73CG33
 gene_symbol_long: Flavonoid 7-O-UGT
@@ -279,6 +392,45 @@ references:
   - citation: Chen, Wang et al., 2024
     doi: 10.3389/fpls.2024.1363251
     pmid: 38742211
+
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhGSNOR1
+gene_symbol_long: S-Nitrosoglutathione Reductase 1
+gene_model_pub_name: LOC112695146
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah06g005500
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - AhGSNOR1 reduces aluminum‑induced programmed cell death in transgenic
+      tobacco by enhancing superoxide dismutase, peroxidase, and catalase
+      activities.
+  - In tobacco, AhGSNOR1 reduced the extent of lipid peroxidation and nitric
+      oxide, S-Nitrosothiol and H2O2 levels, and maintained intracellular
+      nitric oxide and redox levels.
+  - AhGSNOR1 directly interacted with AhTRXh (Cytosolic thioredoxin h, shown in
+      yeast and rice protoplasts) in vivo, and AhGSNOR1 positively
+      regulated/increased Trxh3 expression in transgenic tobacco.
+  - AhGSNOR1 was most closely related to the GSNOR proteins of Prunus persica,
+      Cucumis sativus, and Arabidopsis thaliana.
+  - AhGSNOR1 gene expression increases under aluminum stress in Arachis
+      hypogaea, with RT‑qPCR analysis showing AhGSNOR1 transcript levels rising
+      after 8, 12, and 24 hours of aluminum exposure. Western blot confirmed
+      AhGSNOR1 protein levels also increase.
+phenotype_synopsis: AhGSNOR1 improved plant resistance to aluminum stress and
+  negatively regulated the occurrence of aluminum-induced programmed cell
+  death.
+traits:
+  - entity_name: aluminum response trait
+    entity: TO:0000354
+  - entity_name: negative regulation of programmed cell death
+    entity: GO:0043069
+references:
+  - citation: Pan, Li et al., 2024
+    doi: 10.1016/j.plantsci.2024.112275
+    pmid: 39341375
 
 ---
 scientific_name: Arachis hypogaea
@@ -407,6 +559,64 @@ references:
   - citation: Zhang, Chen et al., 2016
     doi: 10.1111/pbi.12589
     pmid: 27311738
+
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhARF2-2
+gene_symbol_long: Auxin Response Factor 2-2
+gene_model_pub_name: NDH08G29450
+gene_model_full_id: arahy.Tifrunner.gnm2.ann2.Ah08g349400
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - Gene examined in accession NDH108.
+  - A 275-bp deletion in the gene results in loss of interaction with AhIAA13
+      and TOPLESS.
+  - Reduces the inhibitory effect on AhGRF5 and promotes seed expansion.
+phenotype_synopsis: A 275-bp deletion causes reduced inhibitory effect on
+  AhGRF5, which promotes seed expansion, leading to increased seed size and
+  weight.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Zhao, Xue et al., 2025
+    doi: 10.1038/s41588-025-02170-w
+    pmid: 40295880
+
+---
+scientific_name: Arachis hypogaea
+gene_symbols:
+  - AhCKX6
+gene_symbol_long: Cytokinin Dehydrogenase 6
+gene_model_pub_name: NDH03G08990
+gene_model_full_id: arahy.NDH108.gnm1.ann1.NDH03G08990
+confidence: 5
+curators:
+  - Steven Cannon
+comments:
+  - Gene examined in accession NDH108.
+  - AhCKX6 expression levels were elevated in small-seed accessions relative to
+      large-seed accessions at various stages of seed development.
+  - The insertion in the 3′-UTR of the CKX6 gene results in reduced expression
+      levels. This increase in cytokinin promotes early cell division,
+      ultimately leading to the development of larger seeds.
+phenotype_synopsis: The insertion in the 3′-UTR of the CKX6 gene results in
+  reduced expression levels. This increase in cytokinin promotes early cell
+  division, ultimately leading to the development of larger seeds.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Zhao, Xue et al., 2025
+    doi: 10.1038/s41588-025-02170-w
+    pmid: 40295880
 
 ---
 scientific_name: Arachis hypogaea
