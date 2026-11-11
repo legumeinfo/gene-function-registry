@@ -328,3 +328,334 @@ PST - epublish
 SO  - Nat Commun. 2014 Jul 9;5:4340. doi: 10.1038/ncomms5340.
 
 
+##### PUB RECORD #####
+## 10.3390/plants12173030  37687277  Sun, Liu et al., 2023  Sun S, Liu X, Zhang T, Yang H, Yu B. Functional Characterisation of the Transcription Factor <i>GsWRKY23</i> Gene from <i>Glycine soja</i> in Overexpressed Soybean Composite Plants and <i>Arabidopsis</i> under Salt Stress. Plants (Basel). 2023 Aug 23;12(17):3030. doi: 10.3390/plants12173030. PMID: 37687277; PMCID: PMC10490167. ##
+
+PMID- 37687277
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230912
+IS  - 2223-7747 (Print)
+IS  - 2223-7747 (Electronic)
+IS  - 2223-7747 (Linking)
+VI  - 12
+IP  - 17
+DP  - 2023 Aug 23
+TI  - Functional Characterisation of the Transcription Factor GsWRKY23 Gene from 
+      Glycine soja in Overexpressed Soybean Composite Plants and Arabidopsis under Salt 
+      Stress.
+LID - 10.3390/plants12173030 [doi]
+LID - 3030
+AB  - WRKY proteins are a superfamily of transcription factors (TFs) that play multiple 
+      roles in plants' growth, development, and environmental stress response. In this 
+      study, a novel WRKY gene called GsWRKY23 that is specifically upregulated in 
+      salt-tolerant Glycine soja accession BB52 seedlings was identified by 
+      transcriptomic analysis under salt stress. How the physiological functions and 
+      mechanisms of the GsWRKY23 gene affect salt tolerance was investigated using 
+      transformations of soybean hairy roots and Arabidopsis, including wild-type (WT) 
+      and atwrky23-mutant plants. The results showed that GsWRKY23 in the roots, stems, 
+      and leaves of BB52, along with its promoter in the cotyledons and root tips of 
+      GsWRKY23pro::GUS Arabidopsis seedlings, displayed enhanced induction under salt 
+      stress. GsWRKY23 localises to the nucleus and shows transcriptional activation 
+      ability in yeast cells. Compared to GsWRKY23-RNAi wild soybean hairy-root 
+      composite plants under salt stress, obvious improvements, such as superior growth 
+      appearance, plant height and fresh weight (FW), and leaf chlorophyll and relative 
+      water content (RWC), were displayed by GsWRKY23-overexpressing (OE) composite 
+      plants. Moreover, their relative electrolytic leakage (REL) values and 
+      malondialdehyde (MDA) contents in the roots and leaves declined significantly. 
+      Most of the contents of Na(+) and Cl(-) in the roots, stems, and leaves of 
+      GsWRKY23-OE plants decreased significantly, while the content of K(+) in the 
+      roots increased, and the content of NO(3)(-) displayed no obvious change. 
+      Ultimately, the Na(+)/K(+) ratios of roots, stems, and leaves, along with the 
+      Cl(-)/NO(3)(-) ratios of roots and stems, decreased significantly. In the 
+      transgenic WT-GsWRKY23 and atwrky23-GsWRKY23 Arabidopsis seedlings, the 
+      salt-induced reduction in seed germination rate and seedling growth was markedly 
+      ameliorated; plant FW, leaf chlorophyll content, and RWC increased, and the REL 
+      value and MDA content in shoots decreased significantly. In addition, the 
+      accumulation of Na(+) and Cl(-) decreased, and the K(+) and NO(3)(-) levels 
+      increased markedly to maintain lower Na(+)/K(+) and Cl(-)/NO(3)(-) ratios in the 
+      roots and shoots. Taken together, these results highlight the role of GsWRKY23 in 
+      regulating ionic homeostasis in NaCl-stressed overexpressed soybean composite 
+      plants and Arabidopsis seedlings to maintain lower Na(+)/K(+) and Cl(-)/NO(3)(-) 
+      ratios in the roots and shoots, thus conferring improved salt tolerance.
+FAU - Sun, Shile
+AU  - Sun S
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing 210095, China.
+FAU - Liu, Xun
+AU  - Liu X
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing 210095, China.
+FAU - Zhang, Tianlei
+AU  - Zhang T
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing 210095, China.
+FAU - Yang, Hao
+AU  - Yang H
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing 210095, China.
+FAU - Yu, Bingjun
+AU  - Yu B
+AUID- ORCID: 0000-0002-2767-1328
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing 210095, China.
+AD  - College of Life Sciences, Xinjiang Agricultural University, Urumqi 830052, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230823
+PL  - Switzerland
+TA  - Plants (Basel)
+JT  - Plants (Basel, Switzerland)
+JID - 101596181
+PMC - PMC10490167
+OTO - NOTNLM
+OT  - Glycine soja
+OT  - GsWRKY23 gene
+OT  - gene overexpression
+OT  - salt tolerance
+OT  - soybean hairy root
+OT  - transgenic Arabidopsis
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/09/09 11:47
+MHDA- 2023/09/09 11:48
+PMCR- 2023/08/23
+CRDT- 2023/09/09 01:19
+PHST- 2023/08/10 00:00 [received]
+PHST- 2023/08/18 00:00 [revised]
+PHST- 2023/08/21 00:00 [accepted]
+PHST- 2023/09/09 11:48 [medline]
+PHST- 2023/09/09 11:47 [pubmed]
+PHST- 2023/09/09 01:19 [entrez]
+PHST- 2023/08/23 00:00 [pmc-release]
+AID - plants12173030 [pii]
+AID - plants-12-03030 [pii]
+AID - 10.3390/plants12173030 [doi]
+PST - epublish
+SO  - Plants (Basel). 2023 Aug 23;12(17):3030. doi: 10.3390/plants12173030.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plaphy.2026.111035  41548341  Sun, Yu et al., 2026  Sun S, Yu B, Yang J, Jiang J, Liang D. The transcription factor GsWRKY23 gene from wild soybean confers enhanced salt tolerance by regulating GsPER3 expression via ROS homeostasis. Plant Physiol Biochem. 2026 Feb;231:111035. doi: 10.1016/j.plaphy.2026.111035. Epub 2026 Jan 16. PMID: 41548341. ##
+
+PMID- 41548341
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260626
+LR  - 20260626
+IS  - 1873-2690 (Electronic)
+IS  - 0981-9428 (Linking)
+VI  - 231
+DP  - 2026 Feb
+TI  - The transcription factor GsWRKY23 gene from wild soybean confers enhanced salt 
+      tolerance by regulating GsPER3 expression via ROS homeostasis.
+PG  - 111035
+LID - S0981-9428(26)00021-5 [pii]
+LID - 10.1016/j.plaphy.2026.111035 [doi]
+AB  - The transcription factor WRKYs enable plants to initiate defense responses 
+      against multiple adverse conditions by regulating the expression of downstream 
+      target genes. The salt-tolerant wild soybean (Glycine soja) represents an 
+      important genetic resource for the molecular breeding and genetic improvement of 
+      salt-tolerant cultivated soybean (G. max). In this study, we identified GsPER3, a 
+      downstream target gene of GsWRKY23, using transcriptome sequencing (RNA-seq), 
+      combined with promoter cis-acting element analysis and GUS staining. The 
+      transcriptional regulation of GsWRKY23 on GsPER3 was further confirmed by yeast 
+      one-hybrid (Y1H), electrophoretic mobility shift assay (EMSA), GUS activity, and 
+      dual-luciferase (DLR) assays. As a member of the peroxidase family, GsPER3 
+      functions in scavenging reactive oxygen species (ROS). Using a soybean hairy-root 
+      transformation system, we investigated the mechanism by which GsWRKY23 enhances 
+      salt tolerance in wild soybean by regulating GsPER3. Results showed that GsWRKY23 
+      specifically binds to the W-box element at position -486 in the GsPER3 promoter, 
+      thereby activating its expression. Under salt stress treatment, compared to the 
+      empty vector (EV) control, GsWRKY23-overexpressing (GsWRKY23-OE) plants exhibited 
+      upregulated root GsPER3 expression, and elevated peroxidase (POD) activity in 
+      both roots and leaves. In contrast, GsWRKY23-CRISPR/Cas9 (GsWRKY23-Cas9) plants 
+      showed suppressed GsPER3 expression and significantly decreased POD activity. 
+      Under salt stress, GsPER3-OE plants displayed enhanced salt tolerance, with 
+      superior performance in physiological parameters including plant fresh weight 
+      (FW), leaf relative water content (RWC), as well as lower relative electrolytic 
+      leakage (REL) level and malondialdehyde (MDA) content in roots and leaves 
+      compared to EV plants. Conversely, GsPER3-Cas9 plants showed the opposite trends. 
+      Moreover, GsPER3-OE plants exhibited lower ROS accumulation and higher 
+      antioxidant enzyme activities. Taken together, our findings demonstrate that 
+      GsWRKY23 enhances salt tolerance in wild soybean by activating GsPER3 expression, 
+      which in turn increases antioxidant enzyme activity and reduces ROS accumulation, 
+      thereby maintaining ROS homeostasis.
+CI  - Copyright (c) 2026 The Authors. Published by Elsevier Masson SAS.. All rights 
+      reserved.
+FAU - Sun, Shile
+AU  - Sun S
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing, China.
+FAU - Yu, Bingjun
+AU  - Yu B
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing, China; College of Life Sciences, Xinjiang Agricultural 
+      University, Urumqi, China. Electronic address: bjyu@njau.edu.cn.
+FAU - Yang, Jiaxin
+AU  - Yang J
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing, China.
+FAU - Jiang, Jifeng
+AU  - Jiang J
+AD  - College of Life Sciences, Xinjiang Agricultural University, Urumqi, China.
+FAU - Liang, Dan
+AU  - Liang D
+AD  - Lab of Plant Stress Biology, College of Life Sciences, Nanjing Agricultural 
+      University, Nanjing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20260116
+PL  - France
+TA  - Plant Physiol Biochem
+JT  - Plant physiology and biochemistry : PPB
+JID - 9882449
+RN  - 0 (Reactive Oxygen Species)
+RN  - 0 (Transcription Factors)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Glycine max/genetics/metabolism/physiology
+MH  - *Reactive Oxygen Species/metabolism
+MH  - *Salt Tolerance/genetics
+MH  - Gene Expression Regulation, Plant
+MH  - *Transcription Factors/genetics/metabolism
+MH  - *Plant Proteins/genetics/metabolism
+MH  - Homeostasis
+MH  - Promoter Regions, Genetic
+MH  - Plants, Genetically Modified
+OTO - NOTNLM
+OT  - GsPER3
+OT  - GsWRKY23
+OT  - ROS
+OT  - Salt tolerance
+OT  - Transcription factor
+OT  - Wild soybean
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2026/01/19 01:03
+MHDA- 2026/03/07 18:38
+CRDT- 2026/01/18 18:01
+PHST- 2025/11/06 00:00 [received]
+PHST- 2025/12/30 00:00 [revised]
+PHST- 2026/01/12 00:00 [accepted]
+PHST- 2026/03/07 18:38 [medline]
+PHST- 2026/01/19 01:03 [pubmed]
+PHST- 2026/01/18 18:01 [entrez]
+AID - S0981-9428(26)00021-5 [pii]
+AID - 10.1016/j.plaphy.2026.111035 [doi]
+PST - ppublish
+SO  - Plant Physiol Biochem. 2026 Feb;231:111035. doi: 10.1016/j.plaphy.2026.111035. 
+      Epub 2026 Jan 16.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plantsci.2013.10.009  24388511  Yang, Wu et al., 2014  Yang L, Wu K, Gao P, Liu X, Li G, Wu Z. GsLRPK, a novel cold-activated leucine-rich repeat receptor-like protein kinase from Glycine soja, is a positive regulator to cold stress tolerance. Plant Sci. 2014 Feb;215-216:19-28. doi: 10.1016/j.plantsci.2013.10.009. Epub 2013 Oct 24. PMID: 24388511. ##
+
+PMID- 24388511
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140903
+LR  - 20231213
+IS  - 1873-2259 (Electronic)
+IS  - 0168-9452 (Linking)
+VI  - 215-216
+DP  - 2014 Feb
+TI  - GsLRPK, a novel cold-activated leucine-rich repeat receptor-like protein kinase 
+      from Glycine soja, is a positive regulator to cold stress tolerance.
+PG  - 19-28
+LID - S0168-9452(13)00226-4 [pii]
+LID - 10.1016/j.plantsci.2013.10.009 [doi]
+AB  - Plant LRR-RLKs serve as protein interaction platforms, and as regulatory modules 
+      of protein activation. Here, we report the isolation of a novel plant-specific 
+      LRR-RLK from Glycine soja (termed GsLRPK) by differential screening. GsLRPK 
+      expression was cold-inducible and shows Ser/Thr protein kinase activity. 
+      Subcellular localization studies using GFP fusion protein indicated that GsLRPK 
+      is localized in the plasma membrane. Real-time PCR analysis indicated that 
+      temperature, salt, drought, and ABA treatment can alter GsLRPK gene transcription 
+      in G. soja. However, just protein induced by cold stress not by salinity and ABA 
+      treatment in tobacco was found to possess kinase activity. Furthermore, we found 
+      that overexpression of GsLRPK in yeast and Arabidopsis can enhance resistance to 
+      cold stress and increase the expression of a number of cold responsive gene 
+      markers.
+CI  - Copyright (c) 2013 Elsevier Ireland Ltd. All rights reserved.
+FAU - Yang, Liang
+AU  - Yang L
+AD  - Key Laboratory of Plant Virology of Fujian Province, Institute of Plant Virology, 
+      Fujian Agricultural and Forestry University, Fuzhou 350002, Fujian, China.
+FAU - Wu, Kangcheng
+AU  - Wu K
+AD  - Key Laboratory of Plant Virology of Fujian Province, Institute of Plant Virology, 
+      Fujian Agricultural and Forestry University, Fuzhou 350002, Fujian, China.
+FAU - Gao, Peng
+AU  - Gao P
+AD  - College of Horticulture, Northeast Agricultural University, Harbin 150030, 
+      Heilongjiang, China.
+FAU - Liu, Xiaojuan
+AU  - Liu X
+AD  - Key Laboratory of Plant Virology of Fujian Province, Institute of Plant Virology, 
+      Fujian Agricultural and Forestry University, Fuzhou 350002, Fujian, China.
+FAU - Li, Guangpu
+AU  - Li G
+AD  - Department of Biochemistry and Molecular Biology, University of Oklahoma Health 
+      Sciences Center, Oklahoma City, OK 73104, USA.
+FAU - Wu, Zujian
+AU  - Wu Z
+AD  - Key Laboratory of Plant Virology of Fujian Province, Institute of Plant Virology, 
+      Fujian Agricultural and Forestry University, Fuzhou 350002, Fujian, China. 
+      Electronic address: wuzujian@126.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131024
+PL  - Ireland
+TA  - Plant Sci
+JT  - Plant science : an international journal of experimental plant biology
+JID - 9882015
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Soybean Proteins)
+RN  - 72S9A8J5GW (Abscisic Acid)
+RN  - EC 2.7.- (Protein Kinases)
+RN  - GMW67QNF9C (Leucine)
+SB  - IM
+MH  - Abscisic Acid/pharmacology
+MH  - Adaptation, Physiological/*genetics
+MH  - Amino Acid Sequence
+MH  - Arabidopsis/genetics/metabolism
+MH  - Cell Membrane/metabolism
+MH  - *Cold Temperature
+MH  - Droughts
+MH  - Gene Expression Regulation, Plant
+MH  - *Genes, Plant
+MH  - Leucine/genetics/metabolism
+MH  - Membrane Proteins/*genetics/metabolism
+MH  - Molecular Sequence Data
+MH  - Protein Kinases/genetics/metabolism
+MH  - Real-Time Polymerase Chain Reaction
+MH  - Salt Tolerance/genetics
+MH  - Soybean Proteins/*genetics/metabolism
+MH  - Glycine max/drug effects/*genetics/metabolism
+MH  - Stress, Physiological/*genetics
+MH  - Nicotiana/genetics/metabolism
+MH  - Transcription, Genetic
+MH  - Yeasts/genetics/metabolism
+OTO - NOTNLM
+OT  - Abiotic stress
+OT  - Cold tolerance
+OT  - Leucine-rich repeat receptor-like protein kinase (LRR-RLK)
+OT  - Wild soybean
+EDAT- 2014/01/07 06:00
+MHDA- 2014/09/04 06:00
+CRDT- 2014/01/07 06:00
+PHST- 2012/10/05 00:00 [received]
+PHST- 2013/10/12 00:00 [revised]
+PHST- 2013/10/17 00:00 [accepted]
+PHST- 2014/01/07 06:00 [entrez]
+PHST- 2014/01/07 06:00 [pubmed]
+PHST- 2014/09/04 06:00 [medline]
+AID - S0168-9452(13)00226-4 [pii]
+AID - 10.1016/j.plantsci.2013.10.009 [doi]
+PST - ppublish
+SO  - Plant Sci. 2014 Feb;215-216:19-28. doi: 10.1016/j.plantsci.2013.10.009. Epub 2013 
+      Oct 24.
+
+

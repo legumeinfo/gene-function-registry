@@ -1,6 +1,120 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmPGIP11
+gene_symbol_long: Polygalacturonase Inhibiting Protein 11
+gene_model_pub_name: Glyma.19G145200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G145200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmPGIP11 is a polygalacturonase inhibiting protein in soybean roots that is
+      expressed during defense responses against the soybean cyst nematode,
+      Heterodera glycines. PGIP11 inhibits pathogen-secreted polygalacturonases
+      responsible for cell wall degradation.
+  - Overexpression of GmPGIP11 in soybean roots leads to increased transcript
+      abundance and significantly reduces Heterodera glycines parasitism
+      without adversely affecting soybean root growth, whereas RNA interference
+      knockdown of GmPGIP11 increases susceptibility to the nematode.
+  - The expression of GmPGIP11 is modulated by components of both
+      PAMP-triggered immunity and effector-triggered immunity signaling
+      pathways.
+  - GmPGIP11 belongs to a small gene family with distinct expression patterns,
+      and unlike other PGIPs, it's specifically upregulated in syncytial nurse
+      cells during the defense response to nematode infection.
+  - PGIP family genes have been shown to play similar/important roles in plant
+      defense (specifically nematode defense) across various species. For
+      example, in Arabidopsis thaliana, AtPGIP1 increases in response to
+      Heterodera schachtii invasion. The loss-of-function mutants are more
+      susceptible, whereas overexpression of AtPGIP1 restores resistance.
+phenotype_synopsis: GmPGIP11 functions as a defense-related gene in soybean
+  roots, where its overexpression significantly reduces Heterodera glycines
+  parasitism without affecting root growth, while its suppression via RNA
+  interference increases susceptibility to the nematode.
+traits:
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+  - entity_name: defense response
+    entity: GO:0006952
+references:
+  - citation: Acharya, Troell et al., 2024
+    doi: 10.1016/j.plaphy.2024.108755
+    pmid: 38875777
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMaT2
+gene_symbol_long: Malonyl-CoA:Flavonoid Acyltransferase 2
+gene_model_pub_name: Glyma.18G258000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G258000
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Ectopic expression of GmMaT2 and GmMaT4 produced more isoflavones in hairy
+      root exudates, promoting the development of more nodules in soybean roots
+      than in the control.
+  - GmMaT2 and GmMaT4 enzymes convert daidzin into malonyldaidzin, glycitin
+      into malonylglycitin, and genistin into malonylgenistin.
+  - Only GmMaT2 knockdown hairy roots showed reduced levels of malonyldaidzin,
+      malonylgenistin, and malonylglycitin, and, likewise, reduced nodule
+      numbers.
+  - GmMaT2 had higher activity towards isoflavone glucosides than GmMaT4.
+  - GmMaT2 was highly expressed in seeds, root hairs, and nodules.
+phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation,
+  promoting the development of more nodules in soybean roots.
+traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+references:
+  - citation: Ahmad, Zhang et al., 2021
+    doi: 10.1093/jxb/eraa511
+    pmid: 33130852
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMaT4
+gene_symbol_long: Malonyl-CoA:Flavonoid Acyltransferase 4
+gene_model_pub_name: Glyma.18G268400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268400
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMaT2 and GmMaT4 can synthesize malonyl isoflavone glucosides both in
+      vitro and in vivo.
+  - GmMaT4 is expressed in all tissues but at higher levels in seed coat than
+      in the cotyledon, and at >10-fold higher levels in black and brown seed
+      coats than in yellow seed coats.
+  - Overexpression in hairy roots of GmMaT2 and GmMaT4 produced more
+      malonyldaidzin, malonylgenistin, and malonylglycitin, and resulted in
+      more nodules than control.
+phenotype_synopsis: GmMaT2 and GmMaT4 mediate isoflavone malonylation,
+  promoting the development of more nodules in soybean roots.
+traits:
+  - entity_name: flavonoid content
+    entity: TO:0000290
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+references:
+  - citation: Ahmad, Zhang et al., 2021
+    doi: 10.1093/jxb/eraa511
+    pmid: 33130852
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmPLDγ
 gene_symbol_long: Phospholipase D gamma
 gene_model_pub_name: Glyma.01G215100
@@ -68,6 +182,83 @@ references:
   - citation: Antonietta, Martinez et al., 2024
     doi: 10.1093/jxb/erae174
     pmid: 38635775
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCLO1
+gene_symbol_long: Caleosin-encoding gene 1
+gene_model_pub_name: Glyma.09G123800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G123800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - When common cutworm larvae were fed GmCLO1 hairy roots, a decrease in
+      weight gain compared with that of the larvae fed with the control hairy
+      roots was observed, suggesting that GmCLO1 may negatively regulate
+      soybean resistance to common cutworm
+  - GmCLO1 may compete with GmAOS3 for the same substrate, 13-HPOT. The
+      overexpression of GmCLO1 may reduce the flow of 13-HPOT to the
+      AOS-mediated jasmonic acid pathway, resulting in a decrease in jasmonic
+      acid synthesis
+  - Phenotypic validation of the transgenic soybean plants further demonstrated
+      that GmCLO1 and GmAOC3 played opposing roles in soybean insect resistance
+phenotype_synopsis: GmCLO1 negatively regulates soybean resistance to common
+  cutworm
+traits:
+  - entity_name: cutworm response trait
+    entity: TO:0000317
+  - entity_name: insect damage response trait
+    entity: TO:0000261
+  - entity_name: jasmonic acid biosynthetic process
+    entity: GO:0009695
+references:
+  - citation: Cai, Li et al., 2025
+    doi: 10.1111/ppl.70260
+    pmid: 40375436
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmAOC3
+gene_symbol_long: Allene oxide cyclase encoding gene 3
+gene_model_pub_name: Glyma.19G044900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G044900
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmAOC3-overexpressing transgenic soybean lines and the insertion of the
+      GmAOC3 gene resulted in the silencing of GmCLO1
+  - The GmAOC3-OE-1 soybean material, which overexpressed GmAOC3 and was
+      accompanied by the suppression of GmCLO1, was more resistant to insects
+  - Previous studies have demonstrated that GmAOC3 positively enhances tobacco
+      resistance to common cutworm, and is one of the key enzymes in jasmonic
+      acid biosynthesis
+  - Common cutworm larvae that fed on the GmAOC3-overexpression line showed the
+      lowest weight after five days of feeding compared with those that
+      consumed the other three common cutworm-resistant lines GmAOC3-OE-11,
+      GmAOC3-OE-29, and gmclo1-ko-2
+  - In addition to its resistance to common cutworm, the GmAOC3-OE-1 line also
+      exhibited resistance to fall armyworm, one of the most destructive pests
+      affecting corn production in Asia and Africa
+phenotype_synopsis: GmAOC3 over-expression increases soybean resistance to
+  common cutworm
+traits:
+  - entity_name: cutworm response trait
+    entity: TO:0000317
+  - entity_name: insect damage response trait
+    entity: TO:0000261
+  - entity_name: jasmonic acid biosynthetic process
+    entity: GO:0009695
+references:
+  - citation: Cai, Li et al., 2025
+    doi: 10.1111/ppl.70260
+    pmid: 40375436
+  - citation: Wu, Wang et al., 2015
+    doi: 10.1007/s12374-015-0072-2
+    pmid: null
 
 ---
 scientific_name: Glycine max
@@ -311,40 +502,6 @@ references:
   - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmMFT
-gene_symbol_long: MOTHER-OF-FT-AND-TFL1
-gene_model_pub_name: Glyma.05G243800
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G243800
-confidence: 5
-curators:
-  - Molly Hardacre
-comments:
-  - While the seed oil and weight were increased by the overexpression of GmMFT
-      and decreased by the disruption of GmMFT, the seed protein content showed
-      a decrease; establishing an inverse relationship.
-  - GmMFT regulates seeds trait, possibly by modulating the expression SWEETs
-      and FAD2
-  - Although SWEETs, FAD2-1A, and several other FA biosynthesis genes were
-      downregulated in the knockout lines, which is consistent with the
-      observed phenotype, whether these genes are directly regulated by GmMFT
-      is still unclear
-phenotype_synopsis: Increased expression of GmMFT enhanced seeds oil content
-  and weight but showed a decrease in the seed protein content
-traits:
-  - entity_name: seed weight
-    entity: TO:0000181
-  - entity_name: seed protein content
-    entity: TO:0000490
-  - entity_name: seed oilbody biogenesis
-    entity: GO:0010344
-references:
-  - citation: Cai, Xian et al., 2023
-    doi: 10.1111/nph.18792
-    pmid: 36740575
 
 ---
 scientific_name: Glycine max
@@ -618,6 +775,47 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmMYB14
+gene_symbol_long: Transcription factor R2R3-MYB 14
+gene_model_pub_name: Glyma.19g164600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G164600
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMYB14-overexpressing transgenic soybean plants displayed a semi-dwarfism
+      and compact plant architecture associated with decreased cell size,
+      resulting in a decrease in plant height, internode length, leaf area,
+      leaf petiole length and leaf petiole angle, and improved yield in high
+      density under field conditions.
+  - GmMYB14-overexpressing plants showed reduced endogenous brassinosteroid
+      contents, while exogenous application of brassinolide could partly rescue
+      the phenotype of GmMYB14-overexpressing plants.
+  - GmMYB14 was shown to directly bind to the promoter of GmBEN1 and
+      up-regulate its expression, leading to reduced brassinosteroid content in
+      GmMYB14-overexpression plants.
+  - GmBEN1 expression was also upregulated in the leaves of
+      GmMYB14-overexpression plants, indicating that the GmBEN1-mediated
+      reduction in brassinosteroid level under stress also contributed to
+      drought/osmotic stress tolerance of the transgenic plants.
+  - GmMYB14 was shown to localize to nucleus and has a transactivation activity
+phenotype_synopsis: GmMYB14 improves high-density yield and drought tolerance
+  of soybean
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: relative yield
+    entity: TO:0000153
+  - entity_name: brassinosteroid biosynthetic process
+    entity: GO:0016132
+references:
+  - citation: Chen, Yang et al., 2021
+    doi: 10.1111/pbi.13496
+    pmid: 33098207
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmbHLHm1
   - GmSAT1
 gene_symbol_long: Glycine max bHLH membrane 1
@@ -797,6 +995,43 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - Gm18GRSC3
+gene_symbol_long: Chromosome 18 resistance gene SC3
+gene_model_pub_name: Glyma.18G086200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G086200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Gm18GRSC3 contains non-synonymous mutations that differentiate resistant
+      and sensitive haplotypes, with certain allelic variations being linked to
+      resistance phenotypes
+  - Functional analyses demonstrated that overexpression of Gm18GRSC3
+      significantly decreased Soybean mosaic virus strain SC3 accumulation,
+      while silencing increased its levels, confirming its positive regulatory
+      role in resistance
+  - Gm18GRSC3 is a resistance gene in soybean located within the 8.47–8.89 Mb
+      region on chromosome 18, associated with resistance to Soybean mosaic
+      virus strain SC3 at both seedling and adult stages
+  - A functional marker, FM18GSC3, was developed based on the allelic variation
+      of Gm18GRSC3, enabling effective detection of resistance-associated
+      alleles in soybean germplasm
+phenotype_synopsis: Gm18GRSC3-positive soybean plants exhibit significantly
+  reduced accumulation of Soybean mosaic virus strain SC3, leading to enhanced
+  resistance of the virus at both seedling and adult stages
+traits:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: defense response to virus
+    entity: GO:0051607
+references:
+  - citation: Chu, Li et al., 2025
+    doi: 10.1016/j.cj.2025.05.012
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmBIM1
 gene_symbol_long: BES1-INTERACTING MYC-LIKE 1
 gene_model_pub_name: Glyma.17G082100
@@ -835,6 +1070,44 @@ references:
   - citation: Dai, Huang et al., 2026
     doi: 10.1016/j.cj.2025.10.007
     pmid: null
+
+---
+scientific_name: Glcyine max
+gene_symbols:
+  - GmSRC2
+gene_symbol_long: Source of resistance C2 domain-containing protein
+gene_model_pub_name: Glyma.15G152900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G152900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmSRC2 in soybean enhances resistance to Phytophthora
+      sojae by promoting reactive oxygen species accumulation and activating
+      defense-related enzymes, while silencing GmSRC2 increases susceptibility
+  - GmSRC2 interacts directly with the Phytophthora sojae effector PsAvh23 at
+      the plasma membrane and appears to protect the soybean immune response by
+      competing with PsAvh23 to maintain the integrity of the ADA2/GCN5
+      transcriptional module
+  - GmSRC2 expression is significantly upregulated upon Phytophthora sojae
+      infection and pathogen-associated molecular pattern treatments like
+      flg22, as well as hormone signals such as salicylic acid and methyl
+      jasmonate, indicating a role in pathogen-induced defense signaling
+  - GmSRC2 is a conserved gene in soybean that encodes a plasma
+      membrane-localized C2 domain-containing protein and is involved in plant
+      immunity response to Phytophthora sojae
+phenotype_synopsis: Overexpression of GmSRC2 in soybean results in enhanced
+  resistance characterized by lighter lesion areas, reduced Phytophthora sojae
+  biomass, and increased reactive oxygen species accumulation, whereas
+  silencing GmSRC2 leads to increased susceptibility with larger lesion areas
+  and higher pathogen biomass
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+references:
+  - citation: Deng, Zhang et al., 2024
+    doi: 10.1016/j.plantsci.2024.112247
+    pmid: 39313002
 
 ---
 scientific_name: Glycine max
@@ -1097,6 +1370,124 @@ references:
 
 ---
 scientific_name: Glycine max
+classical_locus: D1
+gene_symbols:
+  - GmD1
+gene_model_pub_name: Glyma01g42390
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G214600
+confidence: 5
+curators:
+  - William Hardison
+phenotype_synopsis: chlorophyll retention in mature tissues
+traits:
+  - entity_name: negative regulation of chlorophyll catabolic process
+    entity: GO:1903647
+references:
+  - citation: Fang, Li et al., 2014
+    doi: 10.1111/tpj.12419
+    pmid: 24372721
+  - citation: Schmutz, Cannon et al., 2010
+    doi: 10.1038/nature08670
+    pmid: 20075913
+  - citation: Chao, Liu et al., 1995
+    doi: 10.1104/pp.107.1.253
+    pmid: 12228359
+
+---
+scientific_name: Glycine max
+classical_locus: D2
+gene_symbols:
+  - GmD2
+gene_model_pub_name: Glyma11g02980
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G027400
+confidence: 4
+curators:
+  - William Hardison
+phenotype_synopsis: chlorophyll retention in mature tissues
+traits:
+  - entity_name: negative regulation of chlorophyll catabolic process
+    entity: GO:1903647
+references:
+  - citation: Fang, Li et al., 2014
+    doi: 10.1111/tpj.12419
+    pmid: 24372721
+  - citation: Schmutz, Cannon et al., 2010
+    doi: 10.1038/nature08670
+    pmid: 20075913
+  - citation: Chao, Liu et al., 1995
+    doi: 10.1104/pp.107.1.253
+    pmid: 12228359
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDYT1a
+gene_symbol_long: Dysfunctional Tapetum 1a
+gene_model_pub_name: Glyma.13G250300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G250300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmDYT1a and GmDYT1c are two bHLH transcription factor genes in soybean that
+      function redundantly to regulate pollen development and male fertility.
+  - Knockout of both GmDYT1a and GmDYT1c via CRISPR/Cas9 leads to complete male
+      sterility characterized by microspore degeneration and absence of viable
+      pollen, while single mutants remain fertile.
+  - GmDYT1a exhibits broad expression in multiple tissues including leaves and
+      floral organs.
+phenotype_synopsis: The simultaneous knockout of the functionally redundant
+  GmDYT1a and GmDYT1c genes in soybean results in complete male sterility.
+traits:
+  - entity_name: plant male sterility
+    entity: TO:0000437
+  - entity_name: pollen free
+    entity: TO:0000245
+  - entity_name: cell growth and development trait
+    entity: TO:0002686
+references:
+  - citation: Fang, Li et al., 2026
+    doi: 10.1016/j.cj.2026.06.009
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDYT1c
+gene_symbol_long: Dysfunctional Tapetum 1c
+gene_model_pub_name: Glyma.15G064000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G064000
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Subcellular localization studies showed that GmDYT1a and GmDYT1c proteins
+      have distinct cellular distributions suggesting possible functional
+      divergence despite redundancy in male fertility regulation.
+  - Unlike GmDYT1a and GmDYT1c, GmDYT1b showed almost no detectable expression
+      in floral tissues and its knockout had no effect on male fertility,
+      indicating it does not regulate male sterility in soybean.
+  - The conserved DYT1–TDF1–AMS regulatory pathway involving GmDYT1a and
+      GmDYT1c was confirmed in soybean, supporting their role as key upstream
+      regulators of pollen development similar to other plant species.
+  - GmDYT1c expression is predominantly flower-specific at late anther
+      developmental stages.
+phenotype_synopsis: The simultaneous knockout of the functionally redundant
+  GmDYT1a and GmDYT1c genes in soybean results in complete male sterility.
+traits:
+  - entity_name: plant male sterility
+    entity: TO:0000437
+  - entity_name: pollen free
+    entity: TO:0000245
+  - entity_name: cell growth and development trait
+    entity: TO:0002686
+references:
+  - citation: Fang, Li et al., 2026
+    doi: 10.1016/j.cj.2026.06.009
+    pmid: null
+
+---
+scientific_name: Glycine max
 gene_symbols:
   - GmFT2b
 gene_symbol_long: Flowering Time 2b
@@ -1227,53 +1618,200 @@ references:
 
 ---
 scientific_name: Glycine max
-classical_locus: D1
 gene_symbols:
-  - GmD1
-gene_model_pub_name: Glyma01g42390
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G214600
+  - GmSRS14
+gene_symbol_long: SHORT INTERNODES-related sequence 14
+gene_model_pub_name: Glyma.13G197300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G197300
 confidence: 5
 curators:
-  - William Hardison
-phenotype_synopsis: chlorophyll retention in mature tissues
+  - Molly Hardacre
+comments:
+  - Exogenous indole-3-acetic acid at low concentrations (1 μM) promotes
+      GmSRS14 expression, increases nodule number and nitrogenase activity,
+      while abscisic acid treatments inhibit GmSRS14 expression, reduces nodule
+      size, and decreases nitrogenase activity
+  - GmSRS14 influences the expression of key nodulation and hormone-signaling
+      genes such as GmENOD40 and GmYUC2a, indicating it may coordinate hormone
+      pathways during nodule development
+  - GmSRS14 is specifically expressed in soybean root nodules and localizes
+      exclusively in the nucleus
+  - Overexpression of GmSRS14 enhances nodule formation and nitrogen fixation,
+      while silencing it suppresses nodulation
+  - The gene_pub_name Glyma.13G197300 was taken from Zhao, Song et al., 2020
+phenotype_synopsis: Overexpression of GmSRS14 results in increased root nodule
+  number, weight, and nitrogenase activity whilst silencing GmSRS14 leads to
+  reduced nodulation and nitrogen-fixing efficiency in soybean.
 traits:
-  - entity_name: negative regulation of chlorophyll catabolic process
-    entity: GO:1903647
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root nodule weight
+    entity: TO:0000899
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nitrogenase activity
+    entity: GO:0016163
 references:
-  - citation: Fang, Li et al., 2014
-    doi: 10.1111/tpj.12419
-    pmid: 24372721
-  - citation: Schmutz, Cannon et al., 2010
-    doi: 10.1038/nature08670
-    pmid: 20075913
-  - citation: Chao, Liu et al., 1995
-    doi: 10.1104/pp.107.1.253
-    pmid: 12228359
+  - citation: Fan, Wu et al., 2025
+    doi: 10.1016/j.jplph.2025.154649
+    pmid: 41197331
+  - citation: Zhao, Song et al., 2020
+    doi: 10.3390/ijms21051810
+    pmid: 32155727
 
 ---
 scientific_name: Glycine max
-classical_locus: D2
 gene_symbols:
-  - GmD2
-gene_model_pub_name: Glyma11g02980
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G027400
+  - GmDHN9
+gene_symbol_long: Dehydrin-like Protein 9
+gene_model_pub_name: GLYMA_09G185500v4
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G185500
+confidence: 3
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - The GmDHN9 gene is a dehydrin gene from soybean that is significantly
+      upregulated under drought stress, indicating its role in abiotic stress
+      response.
+  - GmDHN9 localizes in the cytoplasm, where it potentially interacts with
+      cellular membranes and proteins to confer drought tolerance.
+  - Overexpression of GmDHN9 in Arabidopsis enhances drought resistance by
+      improving germination, root growth, chlorophyll retention, and reducing
+      oxidative damage markers like MDA, H2O2, and superoxide radicals (O2-).
+  - GmDHN9 stimulates increased activity of antioxidant enzymes, which help
+      eliminate reactive oxygen species generated during drought stress.
+  - GmDHN9 positively regulates drought-responsive genes such as DREB2A, RD17,
+      RD26, and CBF3, thereby enhancing the plant's drought tolerance
+      mechanisms at the molecular level.
+phenotype_synopsis: Overexpression of GmDHN9 in Arabidopsis results in improved
+  drought tolerance, longer roots, increased chlorophyll and proline contents,
+  and reduced oxidative damage markers.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+references:
+  - citation: Fan, Zhang et al., 2024
+    doi: 10.1080/21645698.2024.2327116
+    pmid: 38564429
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNAC6
+gene_symbol_long: NAC Domain-Containing Protein 6
+gene_model_pub_name: AY974354
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G022700
 confidence: 4
 curators:
-  - William Hardison
-phenotype_synopsis: chlorophyll retention in mature tissues
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmNAC6 is induced by endoplasmic reticulum stress and osmotic stress
+      individually, but requires both signals for full activation.
+  - GmNAC6 is also induced by biotic stress, including pathogen attack. The
+      transient expression of GmNAC6 in tobacco leaves promoted the induction
+      of the pathogenesis-related gene 1, PR1, and caused necrotic lesions.
+  - GmNAC6 promotes programmed cell death and senescence-like responses in
+      tobacco leaves and in soybean cells. Transient expression of GmNAC6
+      promoted cell death and hypersensitive-like responses in planta.
+  - GmNAC6 does not activate N-rich proteins (NRPs), confirming one‑directional
+      signaling. GmNAC6 and NRPs also share overlapping responses to biotic
+      signals, but the induction of NRPs peaked before the increased
+      accumulation of GmNAC6 transcripts. GmNAC6 acts downstream of NRP-A and
+      NRP-B in the stress‑induced cell‑death pathway. Consistent with the
+      delayed kinetics of GmNAC6 induction, increased levels of N-rich
+      protein-A and N-rich protein-B transcripts induced promoter activation
+      and the expression of the GmNAC6 gene.
+phenotype_synopsis: GmNAC6 is a stress‑activated NAC transcription factor that
+  sits downstream of NRPs and triggers programmed cell death, senescence, and
+  defense responses when endoplasmic reticulum stress, osmotic stress, or
+  pathogen attack occur.
 traits:
-  - entity_name: negative regulation of chlorophyll catabolic process
-    entity: GO:1903647
+  - entity_name: programmed cell death
+    entity: GO:0012501
+  - entity_name: intrinsic apoptotic signaling pathway in response to osmotic
+      stress
+    entity: GO:0008627
+  - entity_name: intrinsic apoptotic signaling pathway in response to
+      endoplasmic reticulum stress
+    entity: GO:0070059
+  - entity_name: microbial disease response
+    entity: TO:0000112
 references:
-  - citation: Fang, Li et al., 2014
-    doi: 10.1111/tpj.12419
-    pmid: 24372721
-  - citation: Schmutz, Cannon et al., 2010
-    doi: 10.1038/nature08670
-    pmid: 20075913
-  - citation: Chao, Liu et al., 1995
-    doi: 10.1104/pp.107.1.253
-    pmid: 12228359
+  - citation: Faria, Reis et al., 2011
+    doi: 10.1186/1471-2229-11-129
+    pmid: 21943253
+  - citation: Meng, Zhang et al., 2007
+    doi: 10.1016/j.jplph.2006.05.019
+    pmid: 16919368
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmISO5
+  - GmST05
+  - GmMFT
+gene_symbol_long: Isoflavone 5
+gene_model_pub_name: Glyma.05G244100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G244100
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmISO5 is identified as a key regulator of seed isoflavone biosynthesis in
+      soybean, with natural variation at this locus influencing isoflavone
+      content.
+  - CRISPR/Cas9-mediated knockout of GmISO5 results in approximately an 80%
+      reduction in total seed isoflavones.
+  - GmISO5 directly binds to and activates promoters of GmHIDH and GmCHS1, key
+      enzymes at various steps of the isoflavone biosynthetic pathway,
+      indicating its role as a transcriptional activator.
+  - Loss of GmISO5 increases soybean susceptibility to soybean mosaic virus,
+      linking its regulatory function not only to isoflavone biosynthesis but
+      also to plant stress response mechanisms.
+  - The low-isoflavone haplotype of GmISO5 (GmISO5Low) has become highly
+      prevalent in improved soybean cultivars, reaching a frequency of 91%,
+      suggesting it has undergone strong positive selection during
+      domestication and breeding.
+  - The seed oil and weight were increased by the overexpression of GmISO5 and
+      decreased by the disruption of GmISO5. However, the seed protein content
+      showed a decrease and increase in the overexpressor and knockout lines
+      that established an inverse relationship.
+  - GmISO5 regulates seed traits, possibly by modulating the expression of
+      SWEETs and FAD2.
+  - Although SWEETs, FAD2-1A, and several other FA biosynthesis genes were
+      downregulated in the knockout lines, which is consistent with the
+      observed phenotype, whether these genes are directly regulated by GmISO5
+      is still unclear.
+phenotype_synopsis: GmISO5 regulates isoflavone biosynthesis in soybean seeds,
+  and its knockout leads to reduced seed isoflavone content and increased
+  susceptibility to soybean mosaic virus infection. Additionally, increased
+  expression enhanced seed oil content and weight but showed a decrease in the
+  seed protein content, indicating an inverse relationship.
+traits:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed protein content
+    entity: TO:0000490
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: seed oilbody biogenesis
+    entity: GO:0010344
+references:
+  - citation: Feng, Sun et al., 2026
+    doi: 10.1016/j.jare.2026.09.011
+    pmid: 42732830
+  - citation: Duan, Zhang et al., 2022
+    doi: 10.1111/pbi.13865
+    pmid: 35642379
+  - citation: Cai, Xian et al., 2023
+    doi: 10.1111/nph.18792
+    pmid: 36740575
 
 ---
 scientific_name: Glycine max
@@ -1304,6 +1842,88 @@ references:
   - citation: Fliege, Ward et al., 2022
     doi: 10.1111/tpj.15658
     pmid: 34978122
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBA3
+gene_symbol_long: MYB Activator 3
+gene_model_pub_name: Glyma.18G262000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G262000
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMYBA3 functions as a positive transcriptional activator that promotes
+      anthocyanin biosynthesis in soybean flowers, leading to intensified
+      pigmentation.
+  - Subcellular localization assays confirm that GmMYBA3 is localized in the
+      nucleus, consistent with its role as a transcriptional regulator.
+  - Overexpression of GmMYBA3 in soybean leads to intense purple pigmentation
+      not only in flowers but also in pods, leaves, and seed coats, indicating
+      its potent activation effect.
+  - GmMYBA3 directly binds to promoters of anthocyanin biosynthesis-related
+      genes including GmF3'5'H, GmDFR2, GmMYBR1, and GmTT8a, thereby activating
+      their expression.
+  - GmMYBA3 and GmMYBR1 exhibit major expression levels across diverse soybean
+      cultivars, indicating their central role in regulating anthocyanin genes,
+      although flower color variation mainly depends on GmF3'5'H sequence
+      variants.
+phenotype_synopsis: GmMYBA3 overexpression causes intense purple pigmentation
+  in soybean flowers and other organs, while its silencing leads to loss of
+  flower color.
+traits:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: positive regulation of anthocyanin biosynthetic process
+    entity: GO:0031542
+references:
+  - citation: Gao, Li et al., 2024
+    doi: 10.1016/j.cj.2024.02.002
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBR1
+gene_symbol_long: MYB Repressor 1
+gene_model_pub_name: Glyma.02G247100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G247100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMYBR1 acts as a transcriptional repressor that inhibits anthocyanin
+      accumulation, resulting in pale flower pigmentation when overexpressed.
+  - GmMYBR1 does not directly recognize target promoters but acts through
+      interaction with the GmMYBA3-GmTT8a complex to exert its repressive
+      effects.
+  - Fusion of a strong activation domain (VP16) to GmMYBR1 does not convert it
+      into an activator, suggesting the dominance of its repression domains.
+  - GmMYBR1 and GmMYBA3 form part of an antagonistic regulatory complex bridged
+      by the bHLH factor GmTT8a, which modulates floral anthocyanin
+      biosynthesis.
+  - Despite its repressive role, GmMYBR1 is highly expressed in soybean flowers
+      across diverse cultivars, implying it plays a major role in fine-tuning
+      anthocyanin biosynthesis.
+phenotype_synopsis: GmMYBR1 overexpression results in reduced anthocyanin
+  accumulation and fading of flower color and hypocotyl pigmentation in
+  soybean.
+traits:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+  - entity_name: negative regulation of anthocyanin biosynthetic process
+    entity: GO:0031541
+references:
+  - citation: Gao, Li et al., 2024
+    doi: 10.1016/j.cj.2024.02.002
+    pmid: null
 
 ---
 scientific_name: Glycine max
@@ -1344,6 +1964,46 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmIRT1.1
+gene_symbol_long: IRON-REGULATED TRANSPORTER 1.1
+gene_model_pub_name: Glyma_07g223200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G223200
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmIRT1.1 from soybean functions as a transporter involved in the uptake of
+      iron, manganese, and cadmium ions.
+  - Expression of GmIRT1.1 is primarily induced by iron deficiency and is
+      predominantly localized in the roots.
+  - Overexpression of GmIRT1.1 in Arabidopsis improves tolerance to iron
+      deficiency by enhancing iron accumulation in roots and shoots.
+  - GmIRT1.1 localizes to the plasma membrane, and its localization is
+      regulated by the iron status of the plant, demonstrated in soybean hairy
+      roots.
+  - Transgenic lines of Arabidopsis overexpressing GmIRT1.1 exhibit increased
+      sensitivity to manganese and cadmium toxicity.
+phenotype_synopsis: GmIRT1.1 from soybean is a transporter that mediates uptake
+  of iron, manganese, and cadmium, enhancing iron deficiency tolerance but
+  increasing manganese and cadmium sensitivity when overexpressed in transgenic
+  Arabidopsis.
+traits:
+  - entity_name: mineral and ion transport trait
+    entity: TO:0020096
+  - entity_name: iron ion transport
+    entity: GO:0006826
+  - entity_name: cadmium ion transport
+    entity: GO:0015691
+  - entity_name: manganese ion transport
+    entity: GO:0006828
+references:
+  - citation: Gong, Yin et al., 2024
+    doi: 10.1016/j.plaphy.2024.109010
+    pmid: 39146910
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmMYB84
 gene_symbol_long: MYB transcription factor 84
 gene_model_pub_name: Glyma.05G234600
@@ -1377,6 +2037,86 @@ references:
   - citation: Gong, Zhao et al., 2026
     doi: 10.1016/j.plantsci.2026.113057
     pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSTOP1a
+gene_symbol_long: SENSITIVE TO PROTON RHIZOTOXICITY 1a
+gene_model_pub_name: Glyma.10G215200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G215200
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - The GmSTOP1a gene encodes a transcription factor crucial for soybean
+      responses to low-phosphorus and acidic soil conditions.
+  - A natural 24-bp insertion in the GmSTOP1a promoter reduces its
+      responsiveness to phosphorus deficiency by disrupting the GmAGL12 binding
+      site, leading to weaker gene activation in certain soybean varieties.
+  - The allele lacking the 24-bp insertion enables strong GmSTOP1a activation,
+      enhancing organic acid secretion and phosphate mobilization in
+      phosphorus-deficient soils, especially in low-latitude regions.
+  - Population genetic analysis suggests that the superior GmSTOP1a allele was
+      selected during soybean expansion into low-latitude areas with acidic,
+      phosphorus-fixed soils.
+  - Overexpression of GmSTOP1a improves soybean yield under
+      phosphorus-deficient conditions, demonstrating its potential for breeding
+      phosphorus-efficient cultivars.
+phenotype_synopsis: GmSTOP1a enhances soybean tolerance to low-phosphorus and
+  acidic soils by promoting organic acid secretion and root phosphate
+  mobilization.
+traits:
+  - entity_name: phosphorus content
+    entity: TO:0001024
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Guo, Duan et al., 2026
+    doi: 10.1016/j.xplc.2026.101967
+    pmid: 42298819
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GMCXE31
+gene_symbol_long: Carboxylesterase 31
+gene_model_pub_name: Glyma.09G157600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G157600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCXE31 is a member of the soybean CXE gene family that is highly expressed
+      in seedling roots and responds to salt stress and strigolactones.
+  - GmCXE31 modulates lipid metabolism by transcriptionally regulating lipid
+      biosynthesis-related genes, leading to higher seed oil content and an
+      improved fatty acid profile in edited lines.
+  - Disruption of GmCXE31 results in increased nodule number, plant height, and
+      seed yield, demonstrating its influence on agronomic traits.
+  - GMCXE31 negatively regulates salt tolerance in soybean, as its
+      overexpression decreases salt tolerance while knockout enhances salt
+      resilience in both soybean and Arabidopsis.
+  - GmCXE31 influences strigolactone homeostasis which controls multiple
+      physiological pathways including antioxidant response, lipid synthesis,
+      and symbiosis, contributing to enhanced stress tolerance and yield
+      outcomes.
+phenotype_synopsis: Disruption of GmCXE31 via knockout enhances soybean salt
+  tolerance, seed oil content, and overall plant growth, whereas its
+  overexpression suppresses these traits.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: plant structure growth and development trait
+    entity: TO:0000928
+  - entity_name: lipid biosynthetic process
+    entity: GO:0008610
+  - entity_name: strigolactone metabolic process
+    entity: GO:1901600
+references:
+  - citation: Guo, Wang et al., 2026
+    doi: 10.1016/j.plantsci.2026.113398
+    pmid: 42641813
 
 ---
 scientific_name: Glycine max
@@ -1663,6 +2403,94 @@ references:
   - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB29A2
+gene_symbol_long: Glyceollin R2R3-type MYB Transcription Factor A2
+gene_model_pub_name: Glyma.02G005600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G005600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Overexpression and RNA interference silencing of GmMYB29A2 increased and
+      decreased expression of GmNAC42-1, GmMYB29A1, and glyceollin biosynthesis
+      genes and metabolites, respectively, in response to wall glucan elicitor
+      from Phytophthora sojae.
+  - GmMYB29A2 directly binds to promoters of glyceollin‑biosynthesis genes.
+      GmMYB29A2 interacted with the promoters of two glyceollin I biosynthesis
+      genes in vitro and in vivo.
+  - Silencing GmMYB29A2 in Williams 82, a soybean variety that encodes the
+      resistance gene Rps1k, rendered it compatible with race 1 Phytophthora
+      sojae, whereas overexpressing GmMYB29A2 rendered the susceptible Williams
+      variety incompatible.
+  - GmMYB29A2 specifically boosts glyceollin I isomer, not all isoflavonoids.
+      Compatibility and incompatibility coincided with reduced and enhanced
+      accumulations of glyceollin I but not other 5-deoxyisoflavonoids.
+  - Silencing either GmMYB29A2 or GmMYB29A1 in W82 hairy roots decreased the
+      accumulations of glyceollin I metabolites, but silencing specifically
+      GmMYB29A2 reduced the expression of GmNAC42-1 and most glyceollin
+      biosynthesis genes.
+phenotype_synopsis: GmMYB29A2 is a core activator of glyceollin biosynthesis
+  that is essential for disease resistance against Phytophthora sojae.
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+  - entity_name: glyceollin synthase activity
+    entity: GO:0033769
+  - entity_name: phytoalexin content
+    entity: TO:0002669
+references:
+  - citation: Jahan, Harris et al., 2020
+    doi: 10.1104/pp.19.01293
+    pmid: 32209590
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYB29A1
+gene_symbol_long: Glyceollin R2R3-type MYB Transcription Factor A2
+gene_model_pub_name: Glyma.10G006600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G006600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMYB29A1 does not activate glyceollin biosynthesis genes strongly.
+      Overexpressing or silencing GmMYB29A1 decreased glyceollin I isomer
+      accumulation with marginal or no effects on the expressions of glyceollin
+      synthesis genes.
+  - Overexpressing GmMYB29A1 in W82 hairy roots demonstrated that GmMYB29A1
+      slightly down-regulated GmMYB29A2 and G4DT but not other glyceollin
+      biosynthesis genes.
+  - GmMYB29A2 and GmMYB29A1 had only one amino acid difference in their SG2
+      motif, specifically at amino acid 192. Amino acid sequence analysis found
+      that GmMYB29A1 and GmMYB29A2 proteins encoded R2R3 DNA binding domains in
+      their N-terminal regions where they were 100% identical to each other.
+  - GmMYB29A1 may have a preferential role in promoting or regulating
+      glyceollin turnover and/or competing biosynthetic pathways.
+  - GmMYB29A1 marginally affected the expressions of most glyceollin
+      biosynthetic genes; data suggests it reduced glyceollin I levels by
+      inducing the expressions of metabolizing enzymes. Thus, the role of
+      GmMYB29A1 may be to limit glyceollin I levels.
+phenotype_synopsis: GmMYB29A1 affects glyceollin levels but mainly by
+  influencing turnover or side‑pathways, not by activating glyceollin
+  biosynthesis for disease resistance against Phytophthora sojae.
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+  - entity_name: glyceollin synthase activity
+    entity: GO:0033769
+  - entity_name: phytoalexin content
+    entity: TO:0002669
+references:
+  - citation: Jahan, Harris et al., 2020
+    doi: 10.1104/pp.19.01293
+    pmid: 32209590
 
 ---
 scientific_name: Glycine max
@@ -2242,6 +3070,34 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmDT2
+gene_symbol_long: Determinacy 2
+gene_model_pub_name: SoyZH13_18G242900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G273600
+confidence: 5
+curators:
+  - Brandon Jordan
+phenotype_synopsis: In the presence of Dt1, Dt2 impacts determinacy, maturity,
+  and branch number.
+comments:
+  - knockout of SoyZH13_18g242900 produces plants with increased branch number
+      and delayed flowering and maturity relative to wildtype.
+traits:
+  - entity_name: shoot branching
+    entity: TO:0002639
+  - relation_name: increased amount
+    relation: PATO:0000470
+references:
+  - citation: Liang, Chen, et al., 2022
+    doi: 10.1038/s41467-022-34153-4
+    pmid: 36307423
+  - citation: Ping, Liu, et al., 2014
+    doi: 10.1105/tpc.114.126938
+    pmid: 25005919
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmDW1
 gene_symbol_long: Dwarf 1
 gene_model_pub_name: Glyma.08G163900
@@ -2466,70 +3322,46 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmCESA7
-gene_symbol_long: Cellulose Synthase 7
-gene_model_pub_name: Glyma.06G225500
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G225500
+  - GmBI-1B
+gene_symbol_long: Bax Inhibitor-1B
+gene_model_pub_name: GLYMA_01G205200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G205200
 confidence: 4
 curators:
   - Molly Hardacre
+  - Scott Kalberer
 comments:
-  - GmCESA7 functions as a positive regulator of soybean plant height, with
-      mutants showing significant height reductions of 20.32% to 51.34%
-      compared to wild-type plants.
-  - GmCESA7 is expressed in multiple soybean tissues, with relatively high
-      transcript levels detected in stems and flowers.
-  - Unlike GmDt1, which controls both plant height and main stem nodes, GmCESA7
-      offers a unique strategy to reduce plant height for lodging resistance
-      without reducing main stem node number or yield potential.
-  - GmCESA7 encodes a cellulose synthase catalytic subunit 7 that is a core
-      component of secondary cell wall cellulose biosynthesis.
-phenotype_synopsis: GmCESA7 functions as a positive regulator of soybean plant
-  height.
+  - GmBI-1b is one of four Bax Inhibitor-1 (BI-1) genes identified in soybean
+      and is significantly induced at both RNA and protein levels under drought
+      stress, especially in leaves.
+  - The GmBI-1b protein localizes to the endoplasmic reticulum and contains a
+      BI-1-like superfamily motif along with seven transmembrane domains.
+  - Overexpression of GmBI-1b in soybean enhances drought tolerance by reducing
+      drought-induced cell death and maintaining higher leaf water and
+      chlorophyll content.
+  - Transcriptomic analysis revealed that GmBI-1b upregulates abscisic acid
+      signaling genes, cell death suppression genes, and aquaporin genes, which
+      collectively contribute to improved drought resilience.
+  - BI-1 homologs, including OsBI-1 in rice and AtBI-1 in Arabidopsis, have
+      been identified, and overexpression of these BI-1 genes suppresses
+      Bax-mediated cell death in both yeast and Arabidopsis, demonstrating
+      their conserved role in inhibiting programmed cell death.
+phenotype_synopsis: Overexpression of the GmBI-1b gene in soybean enhances
+  drought tolerance by reducing cell death and maintaining higher leaf water
+  content and chlorophyll levels without affecting plant growth.
 traits:
-  - entity_name: plant height
-    entity: TO:0000207
-  - entity_name: stem elongation
-    entity: TO:0006036
-  - entity_name: stem node number
-    entity: TO:0000634
-  - entity_name: plant-type secondary cell wall biogenesis
-    entity: GO:0009834
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: leaf relative water content
+    entity: TO:0000136
+  - entity_name: cell death
+    entity: GO:0008219
+  - entity_name: positive regulation of gene expression
+    entity: GO:0010628
 references:
-  - citation: Li, Zhou et al., 2026
-    doi: 10.1016/j.plantsci.2026.113163
-    pmid: null
-  - citation: Sha, Zhang et al., 2026
-    doi: 10.1002/tpg2.70207
-    pmid: 41732898
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmDT2
-gene_symbol_long: Determinacy 2
-gene_model_pub_name: SoyZH13_18G242900
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G273600
-confidence: 5
-curators:
-  - Brandon Jordan
-phenotype_synopsis: In the presence of Dt1, Dt2 impacts determinacy, maturity,
-  and branch number.
-comments:
-  - knockout of SoyZH13_18g242900 produces plants with increased branch number
-      and delayed flowering and maturity relative to wildtype.
-traits:
-  - entity_name: shoot branching
-    entity: TO:0002639
-  - relation_name: increased amount
-    relation: PATO:0000470
-references:
-  - citation: Liang, Chen, et al., 2022
-    doi: 10.1038/s41467-022-34153-4
-    pmid: 36307423
-  - citation: Ping, Liu, et al., 2014
-    doi: 10.1105/tpc.114.126938
-    pmid: 25005919
+  - citation: Liu, Cao, 2026
+    doi: 10.1016/j.plantsci.2026.113408
+    pmid: 42665236
 
 ---
 scientific_name: Glycine max
@@ -2769,6 +3601,124 @@ references:
   - citation: Guo, Sun et al., 2025
     doi: 10.1016/j.gene.2025.149609
     pmid: 40466959
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmW1
+gene_symbol_long: flavanone 3-hydroxylase encoding gene
+gene_model_pub_name: SoyZH13_13G057501
+gene_model_full_id: glyma.Zh13.gnm2.ann1.SoyZH13_13G057501
+confidence: 4
+curators:
+  - Amy Pollpeter
+comments:
+  - Gene model full id was obtained by searching gene_model_pub_name in LIS
+      gene search.
+  - A series of insertions in multiple variants of the gene result in the
+      premature termination of translation.
+  - Flower color and hypocotyl color are linked traits in soybean and in this
+      association panel, the region containing this gene is spanned by an area
+      with high linkage disequilibrium (LD).
+  - Accessions carrying the insertion overwelmingly had white flowers compared
+      to reference-type accessions with purple flowers.
+  - Anthocyanin content was signficantly higher in the purple-flowered plants
+      than in white-flowered plants.
+  - Transciptome analysis using published data showed reference-like GmW1
+      expression was higher in purple flowered varieties.
+  - Introduction of the reference GmW1 gene in white flowered Wm82 plants
+      restored purple flower pigmentation and increased anthocyanin content.
+phenotype_synopsis: Accessions with the mutant GmW1 gene result in white flower
+  color and lower anthocyanin content.
+traits:
+  - entity_name: flower color
+    entity: TO:0000537
+  - entity_name: anthocyanin content
+    entity: TO:0000071
+references:
+  - citation: Li, Yue et al., 2026
+    doi: 10.1038/s41467-026-76055-9
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMATE1
+gene_symbol_long: Multidrug and toxic compound extrusion transporter 1
+gene_model_pub_name: SoyZH13_02G084000
+gene_model_full_id: glyma.Zh13.gnm2.ann1.SoyZH13_02G084000
+confidence: 3
+curators:
+  - Amy Pollpeter
+comments:
+  - Gene model full id was obtained by searching gene_model_pub_name in LIS
+      gene search.
+  - A 2652 bp-deletion in this gene resulted in complete loss of function of
+      the protein and was correlated with increased 100-seed weight, seed
+      length, seed width, and seed thickness across wild soybeans, landraces,
+      and cultivars.
+  - The morphological effects are accomplished without significantly altering
+      oil or protein content.
+  - An ethyl methane sulfonate (EMS) induced Gmmate1 mutant displayed more
+      vigorous growth than a Wm82 control at 7-week stage with larger leaves
+      and pods, a prolonged growth period, and fewer pods per plant resulting
+      in significantly larger pods and seeds with increases in seed length,
+      width, thickness and 100-seed weeight.
+phenotype_synopsis: Accessions with the mutated GmMATE1 have increased 100-seed
+  weight, associated with increased seed length, width and thickness.
+traits:
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed length
+    entity: TO:0000146
+  - entity_name: seed width
+    entity: TO:0000149
+  - entity_name: seed thickness
+    entity: TO:0000304
+references:
+  - citation: Li, Yue et al., 2026
+    doi: 10.1038/s41467-026-76055-9
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCESA7
+gene_symbol_long: Cellulose Synthase 7
+gene_model_pub_name: Glyma.06G225500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G225500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmCESA7 functions as a positive regulator of soybean plant height, with
+      mutants showing significant height reductions of 20.32% to 51.34%
+      compared to wild-type plants.
+  - GmCESA7 is expressed in multiple soybean tissues, with relatively high
+      transcript levels detected in stems and flowers.
+  - Unlike GmDt1, which controls both plant height and main stem nodes, GmCESA7
+      offers a unique strategy to reduce plant height for lodging resistance
+      without reducing main stem node number or yield potential.
+  - GmCESA7 encodes a cellulose synthase catalytic subunit 7 that is a core
+      component of secondary cell wall cellulose biosynthesis.
+phenotype_synopsis: GmCESA7 functions as a positive regulator of soybean plant
+  height.
+traits:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: stem elongation
+    entity: TO:0006036
+  - entity_name: stem node number
+    entity: TO:0000634
+  - entity_name: plant-type secondary cell wall biogenesis
+    entity: GO:0009834
+references:
+  - citation: Li, Zhou et al., 2026
+    doi: 10.1016/j.plantsci.2026.113163
+    pmid: null
+  - citation: Sha, Zhang et al., 2026
+    doi: 10.1002/tpg2.70207
+    pmid: 41732898
 
 ---
 scientific_name: Glycine max
@@ -3045,6 +3995,119 @@ references:
 
 ---
 scientific_name: Glycine max
+gene_symbols:
+  - GmBZR1
+gene_symbol_long: Brassinazole-Resistant 1
+gene_model_pub_name: Glyma17g36730
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G221100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmBZR1 interacts directly with the phosphatase allele PP2C-1, which
+      facilitates its dephosphorylation and activation, thereby enhancing
+      GmBZR1 function in seed development.
+  - Overexpression of GmBZR1 in transgenic plants results in increased seed
+      size and seed weight, demonstrating its pivotal role in seed trait
+      improvement.
+  - GmBZR1 forms complexes with other BZR family proteins and is localized
+      mainly in the nucleus, indicating its function as a nuclear transcription
+      regulator.
+phenotype_synopsis: GmBZR1 positively influences seed size and weight by
+  promoting cell expansion and growth during seed development in transgenic
+  Arabidopsis plants.
+traits:
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+references:
+  - citation: Lu, Xiong, et al., 2017
+    doi: 10.1016/j.molp.2017.03.006
+    pmid: 28363587
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPP2C
+gene_symbol_long: Phosphatase 2C
+gene_model_pub_name: Glyma17g33690
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G221100
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - The GmPP2C-1 allele derived from wild soybean (ZYD7) significantly enhances
+      soybean 100-seed weight and size by promoting cell enlargement in the
+      seed integument and activating seed trait-related genes.
+  - PP2C-1 interacts with GmBZR1 and facilitates the accumulation of its
+      dephosphorylated, active form to promote seed growth.
+  - Overexpression of PP2C-1, but not the closely related GmPP2C-2 allele from
+      cultivated soybean, leads to increased seed weight in transgenic plants,
+      highlighting functional differences due to amino acid variations at the
+      N-terminus.
+  - GmBZR1 overexpression independently enhances seed size and weight,
+      supporting its central role in the brassinosteroid pathway regulated by
+      PP2C-1.
+phenotype_synopsis: The GmPP2C-1 allele from soybean increases soybean 100-seed
+  weight and seed size primarily by enlarging seed cell size, resulting in
+  higher seed yield.
+traits:
+  - entity_name: 100-grain weight
+    entity: TO:0000269
+  - entity_name: seed size
+    entity: TO:0000391
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed yield trait
+    entity: TO:0000905
+references:
+  - citation: Lu, Xiong, et al., 2017
+    doi: 10.1016/j.molp.2017.03.006
+    pmid: 28363587
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmIAA9
+gene_symbol_long: Auxin-responsive Protein 9
+gene_model_pub_name: PZ171990
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G207900
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmIAA9 enhances root architecture by increasing total
+      root length, surface area, and volume, thereby improving phosphorus
+      uptake efficiency.
+  - GmIAA9 promotes accumulation of auxin and abscisic acid, which are crucial
+      hormones for root development and stress response modulation under
+      phosphorus deficiency.
+  - Transcriptome analysis shows GmIAA9 influences multiple pathways related to
+      phenylpropanoid biosynthesis, cell cycle, and nuclear-cytoplasmic
+      transport, facilitating adaptation to low phosphorus conditions.
+  - While heterologous expression in tobacco demonstrates GmIAA9’s positive
+      effect on growth and stress tolerance, its function in soybean requires
+      further validation through homologous gene editing techniques.
+phenotype_synopsis: Overexpression of GmIAA9 in tobacco results in enhanced
+  root development, increased phosphorus acquisition, and improved tolerance to
+  low phosphorus stress.
+traits:
+  - entity_name: root development trait
+    entity: TO:0000656
+  - entity_name: phosphorus uptake
+    entity: TO:0000511
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Lu, Xun et al., 2026
+    doi: 10.1016/j.stress.2026.101537
+    pmid: null
+
+---
+scientific_name: Glycine max
 classical_locus: J
 gene_symbols:
   - GmELF3
@@ -3246,6 +4309,84 @@ references:
   - citation: Manan, Ahmad et al., 2017
     doi: 10.3389/fpls.2017.01604
     pmid: 28979275
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNFYA5
+gene_symbol_long: Nuclear factor YA 5
+gene_model_pub_name: Glyma07g04050
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma07g04050
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmNFYA5 enhances drought tolerance in both Arabidopsis
+      and soybean by reducing water loss through stomatal regulation
+  - Transgenic Arabidopsis lines with GmNFYA5 showed longer shoot and pod
+      lengths, higher pod and seed numbers under drought stress, and maintained
+      better growth than controls
+  - GmNFYA5 upregulates drought-responsive genes in both abscisic
+      acid-dependent (e.g., ABI2, ABI3, LEA3) and abscisic acid-independent
+      pathways, contributing to improved stress resilience
+  - GmNFYA5 directly binds to promoters of certain stress-related genes, such
+      as GmDREB2 and GmbZIP1, activating their expression
+  - GmNFYA5 was successfully overexpressed in Arabidopsis and soybean,
+      resulting in enhanced drought tolerance compared to wild-type plants in
+      both species
+phenotype_synopsis: Overexpression of GmNFYA5 enhances drought tolerance in
+  transgenic Arabidopsis and soybean plants
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: abscisic acid sensitivity
+    entity: TO:0000615
+  - entity_name: regulation of stomatal movement
+    entity: GO:0010119
+references:
+  - citation: Ma, Yu et al., 2020
+    doi: 10.1186/s12870-020-02337-z
+    pmid: 32192425
+  - citation: Quach, Nguyen et al., 2014
+    doi: 10.1007/s00438-014-0978-2
+    pmid: 25542200
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMATE100
+gene_symbol_long: Multidrug and toxic compound extrusion transporter 100
+gene_model_pub_name: Glyma.18G143700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G143700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMATE100 is a tonoplast-localized multidrug and toxic compound extrusion
+      (MATE) transporter in soybean responsible for importing type-A and type-B
+      soyasaponins into vacuoles
+  - Loss-of-function mutants of GmMATE100 generated via CRISPR-Cas9 show a
+      significant reduction (20–30%) in type-A and type-B soyasaponin content
+      in soybean roots and seeds, confirming its role in soyasaponin
+      homeostasis
+  - Functional assays in yeast showed that GmMATE100 transports multiple
+      soyasaponins with a higher affinity for type-B soyasaponins
+  - Expression of GmMATE100 is co-regulated with soyasaponin biosynthetic genes
+      and induced by methyl jasmonate treatment, increasing soyasaponin
+      accumulation in roots
+  - Subcellular localization studies using GFP fusion revealed that GmMATE100
+      resides specifically on the vacuolar membrane (tonoplast)
+phenotype_synopsis: GmMATE100 loss-of-function mutants exhibit no obvious
+  morphological changes but show a significant reduction in the content of
+  type-A and type-B soyasaponins in soybean roots and seeds without affecting
+  overall plant morphology
+traits:
+  - entity_name: saponin metabolic process
+    entity: GO:0016134
+references:
+  - citation: Ma, Yuan et al., 2024
+    doi: 10.1021/acs.jafc.4c01774
+    pmid: 38648468
 
 ---
 scientific_name: Glycine max
@@ -3597,6 +4738,92 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmMs1
+gene_symbol_long: Male-Sterile Mutant 1
+gene_model_pub_name: Glyma.13G114200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G114200
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmMs1 gene encodes a kinesin‐like protein in soybean, which displays high
+      homology to Arabidopsis STD/TES/AtNACK2 and Nicotiana NACK2, and is the
+      candidate gene controlling fertility.
+  - In addition to regulating cell division, GmMs1 is associated with plant
+      hormone signal transduction and sucrose metabolism.
+  - The sterility of the GmMs1 mutant was due to the failure of normal
+      cytoplasmic division at the end of the second meiosis. The result was
+      formation of large, multinucleated microspores; a similar process occurs
+      in the Arabidopsis tes mutant (which carries a mutation of AtNACK2).
+phenotype_synopsis: GmMs1 knockout plants displayed a complete male-sterile
+  phenotype in soybean, making GmMs1 essential for male plant sterility.
+traits:
+  - entity_name: plant male sterility
+    entity: TO:0000437
+  - entity_name: plant fertility trait
+    entity: TO:0000420
+  - entity_name: meiotic cell cycle trait
+    entity: TO:0000729
+references:
+  - citation: Nadeem, Chen et al., 2022
+    doi: 10.1111/jipb.13110
+    pmid: 33963661
+  - citation: Nishihama, Soyano et al., 2002
+    doi: 10.1016/s0092-8674(02)00691-8
+    pmid: 11955449
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDR1
+gene_symbol_long: Disease resistance 1
+gene_model_pub_name: Glyma.10g094800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G094800
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmDR1 is an integral plasma membrane protein that confers broad-spectrum
+      resistance against multiple pathogens and pests in soybean, including
+      Fusarium virguliforme, Heterodera glycines, spider mites, and soybean
+      aphids
+  - Overexpression of GmDR1 enhances the expression of several receptor
+      kinases, nucleotide-binding leucine-rich repeat proteins, and
+      transcription factors related to plant immunity, suggesting its role as a
+      pattern recognition receptor
+  - GmDR1 is hypothesized to recognize pest-associated molecular patterns
+      (PAMPs) such as chitin, thereby activating pattern-triggered immunity
+      (PTI) and possibly priming effector-triggered immunity (ETI) pathways
+  - Transcriptome analysis revealed that GmDR1 regulates hundreds of biotic
+      stress-related genes, including those encoding receptor kinases and
+      nucleotide-binding leucine-rich repeat receptor proteins, which are
+      induced following chitin treatment and pathogen/insect infection
+  - The gene_pub_name Glyma.10g094800 was taken from Ngaki, Sahoo et al., 2020.
+phenotype_synopsis: Overexpression of GmDR1 in soybean results in enhanced
+  broad-spectrum resistance to multiple pathogens and pests
+traits:
+  - entity_name: biotic plant stress trait
+    entity: TO:0000179
+  - entity_name: fungal disease response
+    entity: TO:0000439
+  - entity_name: Heterodera glycines response
+    entity: TO:0001111
+  - entity_name: arachnid damage response trait
+    entity: TO:0020121
+  - entity_name: aphid response trait
+    entity: TO:0006067
+references:
+  - citation: Ngaki, Srivastava et al., 2024
+    doi: 10.1038/s41598-024-62332-4
+    pmid: 38806545
+  - citation: Ngaki, Sahoo et al., 2020
+    doi: 10.1111/pbi.13479
+    pmid: 32954627
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmELF5
 gene_symbol_long: Early Flowering 5
 gene_model_pub_name: Glyma.05G031100
@@ -3672,35 +4899,6 @@ references:
   - citation: Wang, Zeng et al., 2015
     doi: 10.1007/s11104-014-2267-6
     pmid: null
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmABCC8
-gene_symbol_long: ATP-Binding Cassette Transporter 8
-gene_model_pub_name: Glyma.07G011600
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G011600
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-  - Scott Kalberer
-comments:
-  - Overexpression of GmABCC8 in transgenic plants created glyphosate
-      resistance. ABCC8 knockout plants had decreased resistance to glyphosate.
-phenotype_synopsis: GmABCC8 codes for an efflux pump that extrudes the
-  herbicide glyphosate out of a cell's cytoplasm, making the plant glyphosate
-  resistant.
-traits:
-  - entity_name: glyphosate sensitivity
-    entity: TO:0005006
-  - entity_name: herbicide resistance
-    entity: OMIT:0025284
-  - entity_name: ABC-type transporter activity
-    entity: GO:0140359
-references:
-  - citation: Pan, Yu et al., 2021
-    doi: 10.1073/pnas.2100136118
-    pmid: 33846264
 
 ---
 scientific_name: Glycine max
@@ -4083,6 +5281,35 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmABCC8
+gene_symbol_long: ATP-Binding Cassette Transporter 8
+gene_model_pub_name: Glyma.07G011600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G011600
+confidence: 5
+curators:
+  - Marlene Dorneich-Hayes
+  - Scott Kalberer
+comments:
+  - Overexpression of GmABCC8 in transgenic plants created glyphosate
+      resistance. ABCC8 knockout plants had decreased resistance to glyphosate.
+phenotype_synopsis: GmABCC8 codes for an efflux pump that extrudes the
+  herbicide glyphosate out of a cell's cytoplasm, making the plant glyphosate
+  resistant.
+traits:
+  - entity_name: glyphosate sensitivity
+    entity: TO:0005006
+  - entity_name: herbicide resistance
+    entity: OMIT:0025284
+  - entity_name: ABC-type transporter activity
+    entity: GO:0140359
+references:
+  - citation: Pan, Yu et al., 2021
+    doi: 10.1073/pnas.2100136118
+    pmid: 33846264
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmFAD2-1A
 gene_symbol_long: Fatty Acid Desaturase 2-1A
 gene_model_pub_name: Glyma.10G278000
@@ -4153,27 +5380,6 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmCHX1
-gene_symbol_long: cation/H(+) antiporter 1
-gene_model_pub_name: Glyma.03G171600
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G171600
-confidence: 4
-curators:
-  - Greg Murrell
-phenotype_synopsis: Impacts salt tolerance
-traits:
-  - entity_name: salt tolerance
-    entity: TO:0006001
-  - relation_name: positively regulates
-    relation: RO:0002213
-references:
-  - citation: Qi, Li et al., 2014
-    doi: 10.1038/ncomms5340
-    pmid: 25004933
-
----
-scientific_name: Glycine max
-gene_symbols:
   - GmBADH2
 gene_symbol_long: betaine aldehyde dehydrogenase 2
 gene_model_pub_name: Glyma05g01770
@@ -4234,6 +5440,105 @@ references:
   - citation: Xie, Song et al., 2024
     doi: 10.1111/jipb.13631
     pmid: 38390811
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCHX1
+gene_symbol_long: cation/H(+) antiporter 1
+gene_model_pub_name: Glyma.03G171600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G171600
+confidence: 4
+curators:
+  - Greg Murrell
+phenotype_synopsis: Impacts salt tolerance
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - relation_name: positively regulates
+    relation: RO:0002213
+references:
+  - citation: Qi, Li et al., 2014
+    doi: 10.1038/ncomms5340
+    pmid: 25004933
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmEID1
+gene_symbol_long: EMPFINDLICHER IM DUNNKELROTEN LICHT 1
+gene_model_pub_name: Glyma.03G214300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G214300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmEID1 is an F-box protein that acts as a photoperiod-independent flowering
+      regulator. When GmEID1 is active, it suppresses the flowering repressor
+      E1, allowing the plant to transition to flowering sooner.
+  - GmEID1 physically interacts with and stabilizes the J protein (also known
+      as GmELF3a) and other ELF3 co-orthologs (GmELF3b-1 and GmELF3b-2), as
+      well as GmELF4a and GmELF4b, components of the Evening Complex (EC).
+  - GmEID1 helps maintain its protein levels, indirectly keeping E1 low. Under
+      long days, light‑activated E3/E4 block GmEID1 from protecting J.
+  - Additionally GmEID1 acts as a bridge to link the light signals perceived by
+      phytochrome A (E3/E4) to the activity of the circadian Evening Complex.
+  - Knocking out GmEID1 can dramatically increase yield. Since later flowering
+      extends vegetative growth, GmEID1 mutants produced up to 55% more yield
+      across a wide range of latitudes.
+phenotype_synopsis: GmEID1 modulates light signaling to control flowering time
+  and when knocked out can increase yield in soybean.
+traits:
+  - entity_name: photoperiod-sensitive flowering time trait
+    entity: TO:0000934
+  - entity_name: circadian regulation of gene expression
+    entity: GO:0032922
+references:
+  - citation: Qin, Li et al., 2023
+    doi: 10.1073/pnas.2212468120
+    pmid: 37011215
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - Gm15G117700
+gene_symbol_long: Oleic Acid Regulator
+gene_model_pub_name: Gm15G117700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G117700
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - The Gm15G117700 gene was successfully cloned and identified as a regulator
+      involved in soybean oleic acid metabolism.
+  - Bioinformatic analysis predicted the Gm15G117700 protein to be a
+      non-secretory, cytoplasmic protein with secondary and tertiary structures
+      similar to homologues in Arabidopsis.
+  - Overexpression of Gm15G117700 resulted in a decrease in oleic acid content
+      by approximately 3.94%, while gene editing increased oleic acid by about
+      3.49%, indicating its regulatory role.
+  - Expression analysis showed that Gm15G117700 is less active in high oleic
+      soybean varieties and more active in low oleic varieties, suggesting a
+      negative correlation with oleic acid levels.
+  - The gene likely influences oleic acid biosynthesis by promoting the
+      conversion from oleic acid to linoleic acid via regulating the FAD2
+      pathway.
+phenotype_synopsis: The Gm15G117700 gene functions as a regulatory element that
+  inversely affects soybean oleic acid content, with its decreased expression
+  associated with higher oleic acid levels.
+traits:
+  - entity_name: oleic acid content
+    entity: TO:0005002
+  - entity_name: regulation of fatty acid metabolic process
+    entity: GO:0019217
+references:
+  - citation: Qu, Jiao et al., 2021
+    doi: 10.32604/phyton.2021.015206
+    pmid: null
+  - citation: Freitas-Alves, Moreira-Pinto et al., 2025
+    doi: 10.1016/j.jare.2024.08.024
+    pmid: 39163906
 
 ---
 scientific_name: Glycine max
@@ -4326,6 +5631,48 @@ references:
   - citation: Reid, Ferguson et al., 2011
     doi: 10.1094/mpmi-09-10-0207
     pmid: 21198362
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmRGD14
+gene_symbol_long: Root Growth and Development 14
+gene_model_pub_name: Glyma.14G077500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G077500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmRGD14 encodes a lysophosphatidic acid acyltransferase (LPAT4), primarily
+      localized to the endoplasmic reticulum and cell membrane, and plays a
+      crucial role in positively regulating soybean root growth.
+  - Natural variation analysis revealed that the superior haplotype Hap6 of
+      GmRGD14 is associated with increased root dry weight and was selectively
+      retained during soybean domestication.
+  - Overexpression of GmRGD14 in soybean and Arabidopsis significantly enhances
+      root traits, including root length, surface area, and number of lateral
+      roots, confirming its role in promoting root development.
+  - Knockdown experiments demonstrated that reduced GmRGD14 expression inhibits
+      root growth, further supporting its positive regulatory function in root
+      system architecture.
+phenotype_synopsis: GmRGD14 positively regulates soybean root development, with
+  overexpression promoting increased root length, surface area, dry weight, and
+  it also increases lateral root formation in both soybean and Arabidopsis.
+traits:
+  - entity_name: root development trait
+    entity: TO:0000656
+  - entity_name: root length
+    entity: TO:0000227
+  - entity_name: root hair length
+    entity: TO:0002665
+  - entity_name: root dry weight
+    entity: TO:0000078
+  - entity_name: lateral root formation
+    entity: GO:0010311
+references:
+  - citation: Ren, Chen et al., 2026
+    doi: 10.1016/j.jia.2025.03.007
+    pmid: null
 
 ---
 scientific_name: Glycine max
@@ -4546,6 +5893,41 @@ references:
   - citation: Yu, Zou et al., 2021
     doi: 10.1016/j.cj.2021.08.009
     pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMPK6
+gene_symbol_long: Mitogen-activated Protein Kinase 6
+gene_model_pub_name: Glyma.02G138800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G138800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMPK6 positively regulates the expression of GmRD19A (RESPONSIVE TO
+      DEHYDRATION 19A) under drought stress conditions.
+  - GmMPK6's activation is mediated by calcium signaling pathways, as calcium
+      channel inhibitors reduce its kinase activity.
+  - Inhibition of GmMPK6 activity using SB202190 leads to reduced drought
+      resistance, decreased chlorophyll content, and increased membrane damage.
+  - GmMPK6 is activated by multiple stress conditions including abscisic acid,
+      osmotic stress (mannitol), salt stress, and drought conditions.
+  - The gene_pub_name Glyma.02G138800 was taken from Gao, Jiang et al., 2022.
+phenotype_synopsis: GmMPK6 is a mitogen-activated protein kinase that enhances
+  drought tolerance through post-translational modifications in soybean.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: calcium-mediated signaling
+    entity: GO:0019722
+references:
+  - citation: Son, An et al., 2025
+    doi: 10.1016/j.bbrc.2024.151170
+    pmid: 39740401
+  - citation: Gao, Jiang et al., 2022
+    doi: 10.1111/tpj.15809
+    pmid: 35562858
 
 ---
 scientific_name: Glycine max
@@ -5361,6 +6743,84 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmLPAT11
+gene_symbol_long: Lysophosphatidic Acid Acyltransferase 11
+gene_model_pub_name: Glyma.14G216800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G216800
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmLPAT11 localizes to chloroplasts and endoplasmic reticulum, indicating
+      its role in lipid metabolism within specific organelles.
+  - Natural genetic variation in GmLPAT11, particularly SNPs, is closely
+      associated with seedling salt tolerance, with certain haplotypes
+      conferring better tolerance.
+  - Promoter analyses suggest that GmLPAT11 expression is regulated by
+      stress-related cis-acting elements, linking its transcription to hormonal
+      and abiotic stress signals.
+  - Overexpression of GmLPAT11 enhances soybean salt tolerance by reducing
+      reactive oxygen species and improving antioxidant enzyme activities, such
+      as superoxide dismutase (SOD), peroxidase (POD), and catalase (CAT).
+  - GmLPAT11 was identified as a key gene involved in soybean salt stress
+      response, showing significant upregulation under salt treatment.
+phenotype_synopsis: Overexpression of GmLPAT11 in soybean enhances salt
+  tolerance by promoting root growth, reducing cellular membrane damage, and
+  limiting oxidative stress under saline conditions.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+references:
+  - citation: Wang, Liu et al., 2026
+    doi: 10.1016/j.jia.2024.12.031
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCRP
+gene_symbol_long: NopC Related Protein
+gene_model_pub_name: Glyma.19G176300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G176300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCRP is a soybean gene induced by the rhizobial effector NopC, positively
+      regulating nodule formation and nitrogen fixation in soybean.
+  - Natural variations in the GmCRP promoter region, particularly the presence
+      or absence of GATA motifs, influence the gene's expression response to
+      NopC and consequently affect nodulation traits.
+  - Haplotypes of GmCRP, especially Hap 1 and Hap 2, are associated with
+      differences in nodulation efficiency, with Hap 1 being favored during
+      soybean domestication.
+  - SNPs located in GmCRP’s regulatory regions contribute to its expression
+      variability among soybean accessions, impacting symbiosis and nitrogen
+      fixation capability.
+  - GmCRP homologs in other plants are involved in responses to biotic stresses
+      (particularly resistance to insects), suggesting its broader role in
+      plant defense and symbiosis pathways.
+phenotype_synopsis: GmCRP influences soybean nodulation by responding to
+  rhizobial effectors like NopC, with its expression levels and haplotypes
+  associated with variations in nodule number and dry weight, thereby affecting
+  symbiotic nitrogen fixation.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: plant dry weight
+    entity: TO:0000352
+  - entity_name: nitrogen fixation
+    entity: GO:0009399
+references:
+  - citation: Wang, Ma et al., 2023
+    doi: 10.1016/j.cj.2022.07.023
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmEDS1a
 gene_symbol_long: enhanced disease susceptibility 1a
 gene_model_pub_name: Glyma04g34800
@@ -5619,6 +7079,47 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmFtsH25
+gene_symbol_long: Filamentation Temperature‐Sensitive Protein H Protease 25
+gene_model_pub_name: Glyma.18G065600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G065600
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpressing GmFtsH25 resulted in more grana thylakoid stacks in
+      chloroplasts and increased photosynthetic efficiency and starch content,
+      while knocking out GmFtsH25 produced the opposite phenotypes.
+  - GmFtsH25 interacted with photosystem I light harvesting complex 2
+      (GmLHCa2), and this interaction may contribute to the observed enhanced
+      photosynthesis.
+  - GmFtsH25 overexpression lines had superior yield traits, such as seed yield
+      per plant, compared to the wild type and knockout lines.
+  - Although soybean was previously reported to contain 11 FtsH genes, an
+      additional 23 FtsHs were identified by this study.
+phenotype_synopsis: GmFtsH25 overexpression increases soybean seed yield by
+  enhancing net photosynthetic rate, light energy conversion efficiency, and
+  photosynthate production.
+traits:
+  - entity_name: photosynthetic rate
+    entity: TO:0001015
+  - entity_name: photosynthetic ability
+    entity: TO:0000316
+  - entity_name: seed yield trait
+    entity: TO:0000905
+  - entity_name: starch content
+    entity: TO:0000696
+references:
+  - citation: Wang, Yang et al., 2022
+    doi: 10.1111/jipb.13405
+    pmid: 36349957
+  - citation: Yin, Meng et al., 2011
+    doi: 10.1007/s00425-011-1445-5
+    pmid: 21638036
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmPLC8
 gene_symbol_long: Phospholipase C 8
 gene_model_pub_name: Glyma.14G059200
@@ -5741,6 +7242,47 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmTCP13
+gene_symbol_long: Teosintebranched1/Cycloidea/Proliferating Cell Factor 13
+gene_model_pub_name: Glyma.18G268700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G268700
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmTCP13 is a TCP transcription factor gene identified within a stable salt
+      tolerance QTL region on chromosome 18, contributing to soybean's ability
+      to withstand salt stress.
+  - GmTCP13 likely modulates water loss and stomatal behavior under salt
+      stress, as silenced plants exhibit lower water retention and water
+      content, indicating a role in water regulation mechanisms.
+  - A derived dCAPS marker based on a SNP in GmTCP13 allows for marker-assisted
+      selection of salt-tolerant soybean lines, facilitating breeding programs
+      aimed at improving salinity resilience.
+  - Variations in the GmTCP13 gene, particularly non-synonymous SNPs, are
+      associated with enhanced salt tolerance, with the GmTCP13WH allele
+      showing superior performance compared to the GmTCP13PI allele.
+  - Functional assays demonstrated that overexpression of GmTCP13 increases
+      salt tolerance in yeast, while silencing GmTCP13 in soybean reduces the
+      plant's salt tolerance, confirming its regulatory role.
+phenotype_synopsis: GmTCP13 enhances soybean salt tolerance by maintaining
+  higher relative water content and reducing leaf chlorosis under salt stress
+  conditions, with the superior GmTCP13WH allele conferring greater resilience
+  than the GmTCP13PI allele.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: leaf relative water content
+    entity: TO:0000136
+references:
+  - citation: Wu, Chen et al., 2026
+    doi: 10.1016/j.jia.2026.09.034
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmSWN
 gene_symbol_long: Swinger
 gene_model_pub_name: Glyma.03G224300
@@ -5848,6 +7390,99 @@ references:
 
 ---
 scientific_name: Glycine max
+gene_symbols:
+  - GmYSL7
+gene_symbol_long: Yellow Stripe 1 Like 7
+gene_model_pub_name: Glyma.11G203400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G203400
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmYSL7 is a transporter that directs iron from root to nodule cells to meet
+      the high demand of iron for the normal development and nitrogen fixation
+      of root nodules.
+  - In young nodules, GmYSL7 is upregulated to facilitate iron transport from
+      roots to nodules. By increasing iron in nodule cells, it inhibits the
+      transcriptional repression of GmbHLH300 (a factor required for iron
+      response of nodules) on nodule development genes like ENOD93 and GmLbs,
+      which in turn, promotes nodule development.
+  - When iron is sufficient, bHLH300 is upregulated and functions as a feedback
+      inhibitor to reduce GmYSL7 activity and iron uptake from roots to
+      nodules.
+  - GmYSL7 is localized in both the plasma membrane and the symbiotic membrane
+      of plant cells.
+  - Loss-of-function mutant GmYSL7 contained a reduced level of iron in nodules
+      but increased iron in roots, while GmYSL7 overexpression showed the
+      opposite effect on iron contents in roots and nodules.
+  - GmYSL7 may be involved in nodule development and function through the
+      regulation of both iron and oligopeptides.
+phenotype_synopsis: GmYSL7 controls iron uptake and allocation, as well as
+  outgrowth and development of nodules in soybean.
+traits:
+  - entity_name: root system iron content
+    entity: TO:1000034
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: iron ion transmembrane transport
+    entity: GO:0034755
+references:
+  - citation: Wu, Wang et al., 2022
+    doi: 10.1111/jipb.13364
+    pmid: 36107150
+  - citation: Li, Gao et al., 2018
+    doi: 10.1111/jipb.12651
+    pmid: 29575545
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmbHLH300
+gene_symbol_long: Basic Helix-Loop-Helix 300
+gene_model_pub_name: Glyma.03G130600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G130600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmbHLH300, induced by both iron deficiency and abundance, mediates
+      downstream responses by soybean plants.
+  - Overexpression of GmbHLH300 decreases nodule number, nitrogenase activity,
+      and iron content in nodules.
+  - GmbHLH300 directly binds to the promoters of ENOD93 and GmLbs, which
+      regulate nodule number and nitrogenase activity, and represses their
+      transcription.
+  - Increasing iron in nodule cells inhibits the GmbHLH300 transcriptional
+      repression of these nodule development genes.
+  - Iron-sufficient conditions also cause bHLH300 to be upregulated and
+      function as a feedback inhibitor to reduce GmYSL7 activity and Fe uptake
+      from roots to nodules.
+  - GmbHLH300 might be involved in the transcriptional regulation of downstream
+      iron deficiency-responsive genes that mediate nodule cell and bacteroid
+      development.
+phenotype_synopsis: GmbHLH300 negatively regulates nodule development in
+  soybean and potentially regulates iron deficiency-responsive genes.
+traits:
+  - entity_name: root system iron content
+    entity: TO:1000034
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: enzyme activity trait
+    entity: TO:0000599
+  - entity_name: regulation of iron ion transport
+    entity: GO:0034756
+references:
+  - citation: Wu, Wang et al., 2022
+    doi: 10.1111/jipb.13364
+    pmid: 36107150
+  - citation: Li, Gao et al., 2018
+    doi: 10.1111/jipb.12651
+    pmid: 29575545
+
+---
+scientific_name: Glycine max
 classical_locus: E1
 gene_symbols:
   - GmE1
@@ -5894,6 +7529,63 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmMYB68
+gene_symbol_long: Transcription Factor R2R3-MYB 68
+gene_model_pub_name: Glyma.04G042300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G042300
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmMYB68 transgenic soybean lines led to a noteworthy enhancement in the
+      isoflavone content of their seeds, exhibiting a significant 1.66-fold
+      increase compared to the control group, in addition to a 1.8-fold
+      increase in daidzin content.
+  - GmMYB68 expression is organ-specific, with higher transcript levels
+      detected in leaves and pods, suggesting tissue-specific roles beyond
+      stress responses.
+  - Transcriptome and metabolome data revealed the identification of two
+      differentially expressed genes, GmCHS7 and GmCHS8, which are associated
+      with GmMYB68. Further validation, employing yeast one-hybrid and
+      luciferase reporter assays, conclusively confirmed the capacity of
+      GmMYB68 to downregulate the expression of GmCHS7 and GmCHS8.
+  - Two stress-responsive proteins, GMSBT1.4 and GmYAPPY11, were identified as
+      potential interactors of GmMYB68. It is hypothesized that GmMYB68 may
+      contribute to resilience against abiotic stress through the augmentation
+      of isoflavone content.
+  - Under salt and alkali stress, GmMYB68-overexpressing plants show elevated
+      soluble sugar accumulation and increased proline content (notably under
+      salt stress), which are important osmoprotectants enhancing stress
+      tolerance.
+  - Photosynthetic parameters, including chlorophyll content and net
+      photosynthetic rate, are better maintained in GmMYB68-overexpression
+      lines relative to wild-type and RNAi lines under stress, indicating a
+      protective role of GmMYB68 in sustaining photosynthesis during salt and
+      alkali challenges.
+phenotype_synopsis: GmMYB68 overexpression enhances tolerance to salt and
+  alkali stresses while simultaneously increasing isoflavone contents,
+  confirming its positive role in regulating isoflavone synthesis and stress
+  resistance.
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: alkali sensitivity
+    entity: TO:0000481
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+  - entity_name: flavonoid content
+    entity: TO:0000290
+references:
+  - citation: Xu, Liu et al., 2024
+    doi: 10.1016/j.plaphy.2024.109187
+    pmid: 39406006
+  - citation: He, Dong et al., 2020
+    doi: 10.1139/gen-2018-0132
+    pmid: 31550433
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmE1La
 gene_symbol_long: E1-like-a
 gene_model_pub_name: Glyma.04G156400
@@ -5918,48 +7610,6 @@ references:
   - citation: Lin, Liu et al., 2021
     doi: 10.1111/jipb.13021
     pmid: 33090664
-
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmBEHL1
-  - GmBES1-5
-gene_symbol_long: BES1/BZR1 Homolog-Like protein 1
-gene_model_pub_name: Glyma.01G178000
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G178000
-confidence: 5
-curators:
-  - Marlene Dorneich-Hayes
-comments:
-  - Overexpression of BEHL1 decreases nodulation, RNAi knockdown of BEHL1
-      increases nodulation.
-  - BEHL1 interacts with the nodulation factor (NF) pathway as well as the
-      brassinosteroid signalling (BR) pathway.
-  - The product of BEHL1 binds to BR-responsive Responsive Elements (BRRE) and
-      the gene GmBIN2 to regulate BR signalling.
-phenotype_synopsis: BEHL1 is a corepressor. It works with NNC1 (see Wang, Wang
-  et al., 2014) as a negative regulator of nodulation.
-traits:
-  - entity_name: regulation of biological process involved in symbiotic
-      interaction
-    entity: GO:0043903
-  - entity_name: nodulation
-    entity: GO:0009877
-  - relation_name: negatively regulates
-    relation: RO:0002212
-references:
-  - citation: Yan, Wang et al., 2018
-    doi: 10.1038/s41598-018-25910-x
-    pmid: 29769571
-  - citation: Li, Guo et al., 2019
-    doi: 10.1016/j.heliyon.2019.e01868
-    pmid: 31206092
-  - citation: Wang, Wang et al., 2014
-    doi: 10.1105/tpc.114.131607
-    pmid: 25549672
-  - citation: Yang, Lan et al., 2022
-    doi: 10.1111/jipb.13207
-    pmid: 34962095
 
 ---
 scientific_name: Glycine max
@@ -6150,6 +7800,40 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmSCAMP4
+gene_symbol_long: Secretory Carrier Membrane Protein 4
+gene_model_pub_name: Glyma.09G210800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G210800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Downregulation of GmSCAMP4 impaired low phosphorus tolerance, root
+      architecture, and phosphorus accumulation.
+  - Overexpression of GmSCAMP4 can drive root remodeling to improve phosphorus
+      acquisition efficiency, positively regulating deficiency adaptation.
+  - GmSCAMP4 interacts with GmZFP2 and they collaboratively contribute to the
+      response to low phosphorus stress.
+  - Tissue expression analysis revealed GmSCAMP4 expression in all major
+      organs, with predominant transcript accumulation in roots which are the
+      principal site for phosphorus perception and assimilation.
+phenotype_synopsis: Overexpression of GmSCAMP4 enhances the tolerance of
+  soybeans to low phosphorus stress.
+traits:
+  - entity_name: phosphorus response
+    entity: TO:0000102
+  - entity_name: phosphorus utilization
+    entity: GO:0006794
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Yang, Shen et al., 2025
+    doi: 10.1016/j.plantsci.2025.112680
+    pmid: 40716498
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmIDD
 gene_symbol_long: Indeterminate Domain Transcription Factor
 gene_model_pub_name: Glyma.14G095900
@@ -6236,29 +7920,44 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmSFT
-gene_symbol_long: Seed-Flooding Tolerance
-gene_model_pub_name: Glyma.13G248000
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G248000
-confidence: 3
+  - GmBEHL1
+  - GmBES1-5
+gene_symbol_long: BES1/BZR1 Homolog-Like protein 1
+gene_model_pub_name: Glyma.01G178000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G178000
+confidence: 5
 curators:
-  - William Hardison
+  - Marlene Dorneich-Hayes
 comments:
-  - Genome-Wide Association Study (GWAS)
-  - also known as glyma.Wm82.gnm2.ann1.Glyma.13G248000.1
-  - condifence is 4 because further functional validation is required to
-      determine its [Glyma.13G248000] roles in seed-flooding tolerance of
-      soybean
-  - GmSFT(Glyma.13G248000) was considered to be the most likely candidate gene
-      regulating seed-flooding tolerance in soybean
-phenotype_synopsis: Ability to grow in seed flooding conditions
+  - Overexpression of BEHL1 decreases nodulation, RNAi knockdown of BEHL1
+      increases nodulation.
+  - BEHL1 interacts with the nodulation factor (NF) pathway as well as the
+      brassinosteroid signalling (BR) pathway.
+  - The product of BEHL1 binds to BR-responsive Responsive Elements (BRRE) and
+      the gene GmBIN2 to regulate BR signalling.
+phenotype_synopsis: BEHL1 is a corepressor. It works with NNC1 (see Wang, Wang
+  et al., 2014) as a negative regulator of nodulation.
 traits:
-  - entity_name: flooding related trait
-    entity: TO:0000114
+  - entity_name: regulation of biological process involved in symbiotic
+      interaction
+    entity: GO:0043903
+  - entity_name: nodulation
+    entity: GO:0009877
+  - relation_name: negatively regulates
+    relation: RO:0002212
 references:
-  - citation: Yu, Chang et al., 2019
-    doi: 10.3390/genes10120957
-    pmid: 31766569
+  - citation: Yan, Wang et al., 2018
+    doi: 10.1038/s41598-018-25910-x
+    pmid: 29769571
+  - citation: Li, Guo et al., 2019
+    doi: 10.1016/j.heliyon.2019.e01868
+    pmid: 31206092
+  - citation: Wang, Wang et al., 2014
+    doi: 10.1105/tpc.114.131607
+    pmid: 25549672
+  - citation: Yang, Lan et al., 2022
+    doi: 10.1111/jipb.13207
+    pmid: 34962095
 
 ---
 scientific_name: Glycine max
@@ -6347,6 +8046,33 @@ references:
   - citation: Yuan, Zhu et al., 2012
     doi: 10.1007/s00122-012-1922-7
     pmid: 22733447
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSFT
+gene_symbol_long: Seed-Flooding Tolerance
+gene_model_pub_name: Glyma.13G248000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G248000
+confidence: 3
+curators:
+  - William Hardison
+comments:
+  - Genome-Wide Association Study (GWAS)
+  - also known as glyma.Wm82.gnm2.ann1.Glyma.13G248000.1
+  - condifence is 4 because further functional validation is required to
+      determine its [Glyma.13G248000] roles in seed-flooding tolerance of
+      soybean
+  - GmSFT(Glyma.13G248000) was considered to be the most likely candidate gene
+      regulating seed-flooding tolerance in soybean
+phenotype_synopsis: Ability to grow in seed flooding conditions
+traits:
+  - entity_name: flooding related trait
+    entity: TO:0000114
+references:
+  - citation: Yu, Chang et al., 2019
+    doi: 10.3390/genes10120957
+    pmid: 31766569
 
 ---
 scientific_name: Glycine max
@@ -6461,6 +8187,121 @@ references:
 
 ---
 scientific_name: Glycine max
+gene_symbols:
+  - GmNF-YC9
+gene_symbol_long: Nuclear factor YC 9
+gene_model_pub_name: Glyma.13G189400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G189400
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Experiments conducted over two seasons reveal increased yields per plant in
+      both GmNF-YC9 and GmSQE1 overexpressing plants under drought stress
+      conditions
+  - Unlike any other GmNF-YC genes, the GmNF-YC9-mediated NF-Y transcription
+      complex directly regulates the expression of GmSQE1 under stress
+      conditions
+  - GmNF-YC9 could form a NF-Y transcriptional complex with GmNF-YA2 and
+      GmNF-YB24 through protein–protein interactions to directly activate
+      expression of the key enzyme involved in phytosterol synthesis pathway
+      (GmSQE1), thereby promoting sterol synthesis to improve soybean stress
+      tolerance
+phenotype_synopsis: Overexpression of either GmNF-YC9 or GmSQE1 significantly
+  enhances soybean stress tolerance under drought and salt conditions
+traits:
+  - entity_name: sterol biosynthetic process
+    entity: GO:0016126
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Yu, Hou et al., 2024
+    doi: 10.1111/pbi.14349
+    pmid: 38600703
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSQE1
+gene_symbol_long: Squalene monooxygenase 1
+gene_model_pub_name: Glyma.08G063700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G063700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmSQE1 is a rate-limiting enzyme in steroid synthesis, which could mean
+      GmSQE1 enhances soybean stress tolerance and the inhibition of SQE
+      weakens this tolerance
+  - Overexpression of GmSQE1 in soybean improved significantly soybean’s
+      tolerance to oxidative stress while reducing oxidative stress-induced
+      cell injury
+  - Transcriptome and metabolome analyses shed light on the upregulation of
+      multiple sterol compounds, including fucosterol and soyasaponin II, in
+      GmNFYC9 and GmSQE1 overexpressing soybean plants under stress conditions
+phenotype_synopsis: Overexpression of either GmNF-YC9 or GmSQE1 significantly
+  enhances soybean stress tolerance under drought and salt conditions
+traits:
+  - entity_name: sterol biosynthetic process
+    entity: GO:0016126
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Yu, Hou et al., 2024
+    doi: 10.1111/pbi.14349
+    pmid: 38600703
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPPC6
+gene_symbol_long: Phosphoenolpyruvic Carboxylase 6
+gene_model_pub_name: Glyma06g43050
+gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma06g43050
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmPPC6 was identified as a staple gene by integrating genome-wide
+      association study and comparative transcriptome analysis of soybean
+      genotypes under low phosphorus stress
+  - The functional annotation of GmPPC6 suggests its involvement in cellular
+      responses to phosphate starvation
+  - Polymorphisms, specifically InDels and SNPs in the promoter region of
+      GmPPC6, were found to potentially influence the tolerance of soybean to
+      low phosphorus stress
+  - Overexpression of GmPPC6 in transgenic hairy roots significantly reduced
+      root length and root surface area under low phosphorus conditions
+  - RNA interference of GmPPC6 led to a significant increase in root length,
+      root tips, root forks, and root surface area in hairy roots under low
+      phosphorus treatment, indicating its negative regulatory role
+phenotype_synopsis: Overexpression of the GmPPC6 gene negatively affects root
+  length and root surface area under low phosphorus stress, while its
+  suppression by RNA interference enhances these root traits, suggesting it
+  negatively regulates root system development in soybean under such
+  conditions.
+traits:
+  - entity_name: root phosphorus content
+    entity: TO:0001124
+  - entity_name: chemical stress response
+    entity: TO:0000482
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Yu, Zheng et al., 2025
+    doi: 10.1111/pce.70083
+    pmid: 40708189
+
+---
+scientific_name: Glycine max
 classical_locus: R
 gene_symbols:
   - GmR
@@ -6560,6 +8401,53 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmERF3
+gene_symbol_long: Ethylene response factor 3
+gene_model_pub_name: EU681278
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G263700
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - Overexpression of GmERF3 in transgenic tobacco enhances resistance to
+      pathogens like Ralstonia solanacearum, Alternaria alternata, and Tobacco
+      Mosaic Virus, as well as increasing tolerance to salt and drought
+      stresses
+  - Overexpression of GmERF5 enhances resistance to Phytophthora sojae and
+      upregulates PR genes, such as GmPR10 and GmPR1-1
+  - GmERF5 contains an APETALA 2/Athylene response factor domain and
+      ERF-associated amphiphilic repression motif, functioning as a
+      nuclear-localized transcriptional repressor in soybean
+  - GmERF5 interacts with the basic helix–loop–helix transcription factor
+      GmbHLH and the translation initiation factor GmEIF, indicating its
+      involvement in stress signaling pathways
+  - GmERF3 can bind to GCC box and dehydration-responsive elements (DRE/CRT)
+      elements, which are associated with biotic and abiotic stress-responsive
+      genes, indicating its role in activating defense-related gene expression
+phenotype_synopsis: Overexpression of GmERF5 in soybean and tobacco leads to
+  enhanced resistance against different pathogens and other abiotic stresses
+traits:
+  - entity_name: Oomycete disease response
+    entity: TO:0001144
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+  - entity_name: bacterial disease response
+    entity: TO:0000315
+  - entity_name: fungal disease response
+    entity: TO:0000439
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Zhang, Chen et al., 2009
+    doi: 10.1093/jxb/erp214
+    pmid: 19602544
+  - citation: Dong, Cheng et al., 2015
+    doi: 10.1093/jxb/erv078
+    pmid: 25779701
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmMRF2
 gene_symbol_long: MORN-MOTIF REPEAT PROTEIN REGULATING FLOWERING 2
 gene_model_pub_name: Glyma.03G106900
@@ -6626,6 +8514,133 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmSW6
+gene_symbol_long: Seed Weight 6
+gene_model_pub_name: Glyma.06G072400
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G072400
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmSW6 encodes a 2-oxoglutarate Fe(II)-dependent dioxygenase that acts as a
+      master regulator of 100-seed weight in soybean.
+  - Natural variation in GmSW6, specifically a G/Ins 10-bp insertion
+      polymorphism, defines haplotypes that significantly affect seed weight,
+      with the GmSW6^G allele associated with heavier seeds.
+  - Knockout of GmSW6 leads to increased seed weight and protein content while
+      reducing oil content, revealing its pleiotropic effects.
+  - The transcription factor GmSW13 directly activates GmSW6 expression,
+      forming a regulatory module that controls seed weight and quality by
+      modulating downstream genes like GmOLEO1.
+  - The favorable GmSW6^G allele was subject to strong positive selection
+      during soybean domestication and modern breeding, with its frequency
+      rising notably from wild soybeans to improved cultivars.
+phenotype_synopsis: GmSW6 regulates soybean seed development by modulating seed
+  weight, protein, and oil content, where loss-of-function mutants produce
+  larger seeds with increased protein but decreased oil.
+traits:
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: seed protein content
+    entity: TO:0000490
+  - entity_name: fatty acid content trait
+    entity: TO:0001170
+references:
+  - citation: Zhang, Ge et al., 2026
+    doi: 10.1016/j.jare.2026.07.014
+    pmid: 42401335
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmABF1
+gene_symbol_long: ABRE-binding factor 1
+gene_model_pub_name: Glyma.02G131700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G131700
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Jacqueline Campbell
+comments:
+  - GmABF1 is a key member of the soybean ABRE-binding factor gene family that
+      is strongly responsive to salt stress and abscisic acid signaling
+  - Overexpression of GmABF1 in soybean enhances salt tolerance by reducing Na+
+      accumulation, membrane damage, and oxidative stress through upregulation
+      of antioxidant enzymes
+  - Variations in the promoter region of GmABF1 (Indel-372, Indel-359, and
+      Indel-357) are associated with differences in salt tolerance among
+      soybean cultivars, suggesting a genetic basis for stress response
+      variation
+  - GmABF1 is conserved across plant species (Glycine soja, Arabidopsis
+      thaliana, and other legumes) and plays a significant role in regulating
+      genes involved in osmotic adjustment and reactive oxygen species
+      scavenging, contributing to soybean resilience under abiotic stress
+phenotype_synopsis: GmABF1 in soybean results in improved salt tolerance
+  characterized by increased root length and fresh weight, reduced electrolyte
+  leakage, and decreased oxidative damage under salt stress conditions
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: root length
+    entity: TO:0000227
+references:
+  - citation: Zhang, Li et al., 2025
+    doi: 10.1016/j.ijbiomac.2025.144763
+    pmid: 40446993
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmFER1
+gene_symbol_long: Soybean ferritin 1
+gene_model_pub_name: Glyma.18G205800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G205800
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmFER1 is a soybean ferritin that enhances tolerance to salt stress and
+      root rot disease, and improves soybean yield
+  - Overexpression of GmFER1 leads to iron accumulation and Fe3+ sequestration
+      in both aboveground and roots, activating the iron uptake and transport
+      system
+  - GmFER1 enhances salt stress resistance by improving the activities of SOD
+      and CAT enzymes and Na+ efflux capacity, and boosts resistance to
+      Fusarium infection by increasing antioxidant capacity
+  - GmFER1 overexpression significantly upregulates genes involved in iron
+      uptake and transport, such as GmbHLH300, GmbHLH57, GmIRT1, GmFRO2, and
+      GmVIT1, in roots
+  - Natural variations in the GmFER1 gene, specifically Hap2 haplotypes, can
+      enhance salt resistance, disease resistance, pod number, and oil content
+      in soybean, suggesting its potential for synergistic improvement of
+      multiple traits
+phenotype_synopsis: Overexpression of GmFER1 in soybeans leads to increased
+  salt and Fusarium oxysporum root rot disease tolerance, enhanced iron
+  accumulation, improved photosynthetic rates and Rubisco enzyme activity, and
+  ultimately higher yields through increased pod number, seed weight, and
+  branch number, all while minimizing growth penalties
+traits:
+  - entity_name: salt response
+    entity: TO:0000429
+  - entity_name: fungal disease response
+    entity: TO:0000439
+  - entity_name: iron content trait
+    entity: TO:0020089
+  - entity_name: pod number trait
+    entity: TO:0001125
+references:
+  - citation: Zhang, Liu et al., 2025
+    doi: 10.1111/pbi.70102
+    pmid: 40365869
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmTMT2a
 gene_symbol_long: Gamma-Tocopherol methyltransferase
 gene_model_pub_name: Glyma12g01690
@@ -6664,6 +8679,82 @@ references:
   - citation: Burgos, Luca, et al., 2020
     doi: 10.1111/tpj.15077
     pmid: 33179365
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmOFP8
+gene_symbol_long: OVATE Family Protein 8
+gene_model_pub_name: Glyma.05G230900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.05G230900
+confidence: 5
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmOFP8 shows root-enriched expression and is strongly upregulated by
+      brassinolide (BL) treatment and drought stress conditions.
+  - GmOFP8 overexpression lines demonstrate enhanced drought survival (~70%
+      survival rate) compared to knockout mutants (~20%) and wild-type plants
+      (~33%).
+  - GmOFP8 physically interacts with GmSK2, a glycogen synthase kinase 3-like
+      kinase that negatively regulates the same drought stress responses and
+      nodulation processes, creating a regulatory balance. It is plausible that
+      GmSK2 modulates GmOFP8 through phosphorylation, thereby influencing its
+      activity or protein stability.
+  - GmOFP8 promotes nodule formation under both normal and drought-stressed
+      conditions, with overexpressing lines developing significantly more
+      nodules than wild-type plants.
+phenotype_synopsis: GmOFP8 overexpression enhances soybean drought tolerance by
+  improving survival rates and promoting increased nodule formation under both
+  normal and drought conditions.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+references:
+  - citation: Zhang, Qiao et al., 2026
+    doi: 10.1016/j.cj.2025.10.015
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSK2
+gene_symbol_long: Glycogen Synthase Kinase 3-like Kinase 2
+gene_model_pub_name: Glyma.12G129600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G129600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmSK2 physically interacts with GmOFP8 as confirmed through yeast
+      two-hybrid, luciferase complementation, and GST pull-down assays.
+  - GmSK2 facilitates nucleocytoplasmic translocation of GmOFP8, promoting its
+      nuclear export from exclusive nuclear localization to cytoplasmic
+      redistribution.
+  - GmSK2 negatively affects nodulation development, as overexpressing lines
+      developed significantly fewer nodules compared to controls.
+  - GmSK2 overexpression suppresses drought-responsive genes (GmRD26, GmDREB1,
+      GmMYB14) and antioxidant enzyme genes, compromising stress resilience.
+phenotype_synopsis: GmSK2 negatively regulates drought tolerance, with
+  overexpression lines showing severe leaf wilting, lower water content, and
+  increased oxidative stress markers.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: oxidative stress response
+    entity: TO:0002657
+references:
+  - citation: Zhang, Qiao et al., 2026
+    doi: 10.1016/j.cj.2025.10.015
+    pmid: null
 
 ---
 scientific_name: Glycine max
@@ -6757,6 +8848,84 @@ references:
   - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmHY2a
+  - Gmlin1
+gene_symbol_long: ELONGATED HYPOCOTYL 2a
+gene_model_pub_name: Glyma.02G304700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G304700
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - The disruption of GmHY2a causes soybean mutants (Gmlin1) to exhibit
+      elongated internodes and early flowering due to deregulation of
+      downstream hormones such as auxins and gibberellins.
+  - GmHY2a is constitutively expressed across various tissues and is localized
+      within the chloroplast, highlighting its role in chlorophyll and
+      phytochrome biosynthesis.
+  - GmHY2a encodes a protochlorophyllide oxidoreductase that is crucial for the
+      biosynthesis of the phytochrome chromophore, phytochromobilin, which is
+      essential for functional phytochromes in soybean.
+  - Mutations in GmHY2a lead to deficiency in phytochrome chromophore
+      production, resulting in inactivation of the entire phytochrome system
+      and impaired light signal transduction.
+  - Loss-of-function mutations in GmHY2a result in decreased sensitivity to red
+      and far-red light, altering plant developmental responses including
+      hypocotyl elongation and flowering time.
+phenotype_synopsis: Mutations in GmHY2a result in soybean plants with elongated
+  internodes, early flowering, and reduced responsiveness to red and far-red
+  light, indicating a disruption in phytochrome-mediated light signaling.
+traits:
+  - entity_name: shoot axis internode length
+    entity: TO:0000145
+  - entity_name: flowering time trait
+    entity: TO:0002616
+  - entity_name: phytochrome chromophore biosynthetic process
+    entity: GO:0048543
+references:
+  - citation: Zhang, Yang et al., 2022
+    doi: 10.1093/jxb/erac318
+    pmid: 35946571
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmZAT10-1
+gene_symbol_long: C2H2-type zinc finger protein family member 10-1
+gene_model_pub_name: Glyma.04G044900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G044900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - Salt stress-induced and cell nucleus-located GmZAT10–1 functions as a
+      transcription factor
+  - GmZAT10–1 may confer salt tolerance in soybeans by upregulating the
+      expression of the GmCLC-c1 gene through binding to its promoter,
+      regulating the uptake of chlorine by roots and reducing its translocation
+      to the aboveground parts including the stems and leaves of plants, and
+      thereby maintaining a relatively low clorine/nitrate ratio.
+  - Over-expressed GmZAT10–1 hairy-root soybean composite plants and
+      GmZAT10–1-trangenic Arabidopsis thaliana presented enhanced salt
+      tolerance.
+  - Phylogenetic tree analysis demonstrated that GmZAT10–1, GmZAT10–2 and
+      AtZAT10 were located in the same clade, suggesting that they have high
+      homology in evolution and may also possess some functional similarities.
+phenotype_synopsis: GmZAT10–1 is involved in the response and adaptation of
+  soybean to salt stress
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: salt response
+    entity: TO:0000429
+references:
+  - citation: Zhang, Yu et al., 2025
+    doi: 10.1016/j.plantsci.2025.112485
+    pmid: 40158630
 
 ---
 scientific_name: Glycine max
@@ -6886,6 +9055,54 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
+  - GmPAP14
+gene_symbol_long: Purple acid phosphatase 14
+gene_model_pub_name: Glyma.12G07500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.12G075000
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmPAP14 overexpression results in improved plant growth, higher seed oil
+      content, and enhanced photosynthetic efficiency under
+      phosphorus-deficient conditions
+  - GmPAP14 is significantly upregulated in soybean roots and leaves under
+      organic phosphorus conditions, indicating its role in organic phosphorus
+      utilization
+  - Overexpression of GmPAP14 enhances both extracellular and intracellular
+      acid inorganic phosphatase activities, leading to increased phosphorus
+      content in soybean tissues under organic phosphorus stress
+  - Overexpression of GmPAP14 in soybean enhances external phytate hydrolysis,
+      increases phosphorus content, and promotes plant growth under low
+      phosphorus conditions
+  - GmPAP14 exhibits high phytase activity, enabling it to hydrolyze phytate
+      and release inorganic phosphate for plant absorption
+  - GmPAP14 is a soybean purple acid phosphatase primarily expressed in roots,
+      strongly induced under organic phosphorus conditions, particularly
+      phytate, to facilitate phosphorus utilization
+phenotype_synopsis: Overexpression of GmPAP14 enhances soybean growth, seed
+  oil, photosynthetic efficiency, phytate utilization, phosphorus uptake in
+  root systems and other plant tissues under phosphorus deficiency
+traits:
+  - entity_name: phosphorus content
+    entity: TO:0001024
+  - entity_name: phosphorus concentration
+    entity: TO:0006045
+  - entity_name: plant growth and development trait
+    entity: TO:0000357
+  - entity_name: phosphorus utilization
+    entity: GO:0006794
+references:
+  - citation: Zhao, Jiang et al., 2025
+    doi: 10.1016/j.jia.2025.12.060
+    pmid: null
+  - citation: Kong, Li et al., 2018
+    doi: 10.3389/fpls.2018.00292
+    pmid: 29593758
+
+---
+scientific_name: Glycine max
+gene_symbols:
   - GmGBP1
 gene_symbol_long: GAMYB Binding Protein 1
 gene_model_pub_name: DQ112540
@@ -6954,6 +9171,120 @@ references:
   - citation: Yao, Humphries et al., 2025
     doi: 10.3390/plants14030343
     pmid: 39942905
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmERF75
+gene_symbol_long: Ethylene-responsive Factor 75
+gene_model_pub_name: Glyma.10G016500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G016500
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmERF75 expression is predominantly found in soybean hypocotyls and roots
+      and is rapidly induced by multiple stress-related hormones and
+      environmental stimuli, including abscisic acid, salt, drought, and
+      temperature stresses.
+  - Overexpression of GmERF75 in Arabidopsis enhances tolerance to osmotic
+      stresses, such as salt and drought, by maintaining higher chlorophyll
+      content under various stress conditions. As a homolog of the AtERF71
+      gene, it can rescue the short hypocotyl phenotype observed in Arabidopsis
+      erf71 mutant lines.
+  - The protein encoded by GmERF75 localizes specifically in the nucleus and
+      contains motifs suggestive of transcriptional activation domains.
+  - Transgenic soybean hairy roots overexpressing GmERF75 exhibited improved
+      growth and salt tolerance, demonstrating its potential to enhance stress
+      resilience in soybean crops.
+phenotype_synopsis: GmERF75 promotes hypocotyl elongation and enhances osmotic
+  stress tolerance in Arabidopsis and soybean, effectively rescuing mutant
+  short-hypocotyl phenotypes and improving stress resilience under various
+  conditions.
+traits:
+  - entity_name: osmotic response sensitivity
+    entity: TO:0000095
+  - entity_name: hypocotyl morphology trait
+    entity: TO:0000757
+  - entity_name: abiotic plant stress response trait
+    entity: TO:0000168
+references:
+  - citation: Zhao, Yin et al., 2019
+    doi: 10.1186/s12870-019-2066-6
+    pmid: 31747904
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPLATZ17
+gene_symbol_long: Plant AT-rich Sequence and Zinc Binding Transcription Factor
+  17
+gene_model_pub_name: Glyma.10G063200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G063200
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmPLATZ17 is a soybean PLATZ transcription factor that is downregulated by
+      drought and abscisic acid treatments.
+  - Overexpression of GmPLATZ17 in Arabidopsis and soybean hairy roots led to
+      increased drought sensitivity and suppression of stress-associated gene
+      expression.
+  - GmPLATZ17 protein localizes to the nucleus, supporting its role as a
+      transcriptional regulator.
+  - GmPLATZ17 interacts physically with the GmDREB5 transcription factor,
+      interfering with its ability to bind DNA and activate stress-responsive
+      genes.
+  - Suppression of GmPLATZ17 enhances drought tolerance in soybean by allowing
+      the activation of downstream stress response genes.
+phenotype_synopsis: GmPLATZ17 overexpression causes increased drought
+  sensitivity with inhibited stress gene expression, whereas its suppression
+  enhances drought tolerance in soybean.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: negative regulation of gene expression
+    entity: GO:0010629
+references:
+  - citation: Zhao, Zheng et al., 2022
+    doi: 10.1016/j.cj.2022.03.009
+    pmid: null
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmDREB5
+gene_symbol_long: Dehydration-responsive Element Binder 5
+gene_model_pub_name: Glyma.13G298600
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G298600
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - GmDREB5 is a drought-induced DREB transcription factor in soybean that
+      positively regulates drought tolerance.
+  - Overexpression of GmDREB5 in soybean hairy roots increased drought
+      tolerance, while its knockdown compromised tolerance.
+  - GmDREB5 binds directly to dehydration-responsive element (DRE) motifs in
+      promoters of stress-associated genes such as GmDHN.
+  - The physical interaction of GmDREB5 with GmPLATZ17 reduces GmDREB5’s
+      DNA-binding affinity, modulating the expression of stress genes.
+  - Under drought stress, downregulation of GmPLATZ17 frees GmDREB5 to activate
+      stress-responsive gene expression, improving drought tolerance.
+phenotype_synopsis: GmDREB5 overexpression improves drought tolerance by
+  activating stress-responsive genes, while its knockdown leads to reduced
+  drought tolerance.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: positive regulation of gene expression
+    entity: GO:0010628
+references:
+  - citation: Zhao, Zheng et al., 2022
+    doi: 10.1016/j.cj.2022.03.009
+    pmid: null
 
 ---
 scientific_name: Glycine max
@@ -7297,82 +9628,111 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmERF57
-gene_symbol_long: Soybean Ethylene Response Factor 57
-gene_model_pub_name: Glyma.20G070100
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G070100
-confidence: 4
+  - GmNLA1-1
+gene_symbol_long: Nitrogen limitation adaptation 1-1
+gene_model_pub_name: Glyma.03g214100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G214100
+confidence: 3
 curators:
   - Molly Hardacre
-  - Scott Kalberer
 comments:
-  - Silencing GmERF57 expression promoted root development (total root length,
-      root surface area, root volume, branch number, shoot dry weight, root dry
-      weight) and enhanced plant soil phosphate uptake.
-  - Overexpression of GmERF57 yielded contrasting phenotypes compared to
-      silenced roots.
-  - GmERF57 physically interacts with GmTUB1 (β-tubulin protein) and modulates
-      soybean root architecture and soil phosphate uptake capacity by
-      downregulating GmTUB1 and other phosphate starvation response genes.
-  - Population genomics analysis revealed that GmERF57 has undergone artificial
-      selection, and allelic distribution analysis significantly correlated
-      with traits associated with low phosphate tolerance in soybean.
-  - Haplotype 2 (Hap2), carrying the T to C single nucleotide polymorphism
-      (SNP) in GmERF57, is an allele linked to low-phosphate tolerance.
-phenotype_synopsis: GmERF57 negatively impacts soybean root structure and its
-  expression in roots was induced by low phosphate.
+  - GmNLA1-1 and GmNLA1-3 expression was decreased in soybean by nitrogen
+      starvation under phosphate sufficient conditions
+  - Suppression of all three GmNLA1 members was able to increase phosphate
+      concentration regardless of the phosphorus and nitrogen availability in
+      the growth medium, but decrease fresh weight under normal conditions in
+      soybean hairy roots
+  - GFP-GmNLA1-1 and GFP-GmNLA1-3 were detected in both the plasma membrane and
+      nucleus
+  - GmNLA1-1, GmNLA1-2 or GmNLA1-3 suppression increased phosphate
+      concentration in transgenic hairy roots
+phenotype_synopsis: GmNLA1-1 or GmNLA1-3 might regulate phosphorus homeostasis
+  in soybean response to nitrogen starvation, as well as potentially decrease
+  fresh weight in soybean hairy roots
 traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
   - entity_name: phosphate content
     entity: TO:0020102
-  - entity_name: root development
-    entity: GO:0048364
+  - entity_name: nitrogen sensitivity
+    entity: TO:0000011
 references:
-  - citation: Zhu, Hu et al., 2024
-    doi: 10.1016/j.stress.2025.100763
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
     pmid: null
-  - citation: Zhang, Li et al., 2016
-    doi: 10.3389/fpls.2016.00372
-    pmid: 27065041
 
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmTUB1
-gene_symbol_long: β-Tubulin Protein 1
-gene_model_pub_name: Glyma.06G024100
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G024100
-confidence: 4
+  - GmNLA1-2
+gene_symbol_long: Nitrogen limitation adaptation 1-2
+gene_model_pub_name: Glyma.10g018800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.10G018800
+confidence: 3
 curators:
   - Molly Hardacre
-  - Scott Kalberer
 comments:
-  - Overexpression of GmTUB1 promotes the growth of soybean hairy roots,
-      thereby enhancing their phosphate acquisition capability and increasing
-      root phosphate content.
-  - Silencing of GmTUB1 inhibited the root growth, but the difference between
-      checks and Ri-GmTUB1 plants was not significant.
-  - Regardless of phosphate supply, GmTUB1 was significantly upregulated in
-      Ri-GmERF57 (RNA interference-mediated silencing plant) roots compared
-      with checks, while no significant change was observed in OE-GmERF57
-      (overexpressing plant) roots.
-  - Most of the fusion protein of GmTUB1 was found in nucleus and cell
-      membrane.
-phenotype_synopsis: GmERF57 interacts with GmTUB1, which enhances root growth
-  and phosphate uptake.
+  - Nitrogen starvation only led to significant decreases of transcripts for
+      GmNLA1-1 and GmNLA1-3 in soybean roots under phosphate-sufficient
+      conditions, not for GmNLA1-2
+  - GmNLA1-2 might differ from GmNLA1-1 and GmNLA1-3 in soybean response to
+      interaction of nitrogen and phosphorus availability despite their
+      capability controlling phosphorus homeostasis.
+  - Suppression of all three GmNLA1 members was able to increase phosphate
+      concentration regardless of the phosphorus and nitrogen availability in
+      the growth medium, but decrease fresh weight under normal conditions in
+      soybean hairy roots
+  - GmNLA1-2 was only detected in the plasma membrane
+  - GmNLA1-1, GmNLA1-2 or GmNLA1-3 suppression increased phosphate
+      concentration in transgenic hairy roots
+phenotype_synopsis: GmNLA1-2 supression may increase phosphate concentration in
+  transgenic hairy roots, as well as potentially decrease fresh weight in
+  soybean hairy roots
 traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
   - entity_name: phosphate content
     entity: TO:0020102
-  - entity_name: root development
-    entity: GO:0048364
-  - entity_name: root hair
-    entity: GO:0035618
 references:
-  - citation: Zhu, Hu et al., 2024
-    doi: 10.1016/j.stress.2025.100763
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
     pmid: null
-  - citation: Zhang, Li et al., 2016
-    doi: 10.3389/fpls.2016.00372
-    pmid: 27065041
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNLA1-3
+gene_symbol_long: Nitrogen limitation adaptation 1-3
+gene_model_pub_name: Glyma.19g210900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G210900
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GmNLA1-1 and GmNLA1-3 expression was decreased in soybean by nitrogen
+      starvation under phosphate sufficient conditions
+  - Suppression of all three GmNLA1 members was able to increase phosphate
+      concentration regardless of the phosphorus and nitrogen availability in
+      the growth medium, but decrease fresh weight under normal conditions in
+      soybean hairy roots
+  - GFP-GmNLA1-1 and GFP-GmNLA1-3 were detected in both the plasma membrane and
+      nucleus
+  - GmNLA1-1, GmNLA1-2 or GmNLA1-3 suppression increased phosphate
+      concentration in transgenic hairy roots
+phenotype_synopsis: GmNLA1-1 or GmNLA1-3 might regulate phosphorus homeostasis
+  in soybean response to nitrogen starvation, as well as potentially decrease
+  fresh weight in soybean hairy roots
+traits:
+  - entity_name: root fresh weight
+    entity: TO:0000578
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: nitrogen sensitivity
+    entity: TO:0000011
+references:
+  - citation: Zhou, Li et al., 2022
+    doi: 10.1016/j.cj.2022.12.003
+    pmid: null
 
 ---
 scientific_name: Glycine max
@@ -7469,4 +9829,160 @@ references:
   - citation: Yang, Lan et al., 2022
     doi: 10.1111/jipb.13207
     pmid: 34962095
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmERF57
+gene_symbol_long: Soybean Ethylene Response Factor 57
+gene_model_pub_name: Glyma.20G070100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G070100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Silencing GmERF57 expression promoted root development (total root length,
+      root surface area, root volume, branch number, shoot dry weight, root dry
+      weight) and enhanced plant soil phosphate uptake.
+  - Overexpression of GmERF57 yielded contrasting phenotypes compared to
+      silenced roots.
+  - GmERF57 physically interacts with GmTUB1 (β-tubulin protein) and modulates
+      soybean root architecture and soil phosphate uptake capacity by
+      downregulating GmTUB1 and other phosphate starvation response genes.
+  - Population genomics analysis revealed that GmERF57 has undergone artificial
+      selection, and allelic distribution analysis significantly correlated
+      with traits associated with low phosphate tolerance in soybean.
+  - Haplotype 2 (Hap2), carrying the T to C single nucleotide polymorphism
+      (SNP) in GmERF57, is an allele linked to low-phosphate tolerance.
+phenotype_synopsis: GmERF57 negatively impacts soybean root structure and its
+  expression in roots was induced by low phosphate.
+traits:
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: root development
+    entity: GO:0048364
+references:
+  - citation: Zhu, Hu et al., 2024
+    doi: 10.1016/j.stress.2025.100763
+    pmid: null
+  - citation: Zhang, Li et al., 2016
+    doi: 10.3389/fpls.2016.00372
+    pmid: 27065041
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmTUB1
+gene_symbol_long: β-Tubulin Protein 1
+gene_model_pub_name: Glyma.06G024100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G024100
+confidence: 4
+curators:
+  - Molly Hardacre
+  - Scott Kalberer
+comments:
+  - Overexpression of GmTUB1 promotes the growth of soybean hairy roots,
+      thereby enhancing their phosphate acquisition capability and increasing
+      root phosphate content.
+  - Silencing of GmTUB1 inhibited the root growth, but the difference between
+      checks and Ri-GmTUB1 plants was not significant.
+  - Regardless of phosphate supply, GmTUB1 was significantly upregulated in
+      Ri-GmERF57 (RNA interference-mediated silencing plant) roots compared
+      with checks, while no significant change was observed in OE-GmERF57
+      (overexpressing plant) roots.
+  - Most of the fusion protein of GmTUB1 was found in nucleus and cell
+      membrane.
+phenotype_synopsis: GmERF57 interacts with GmTUB1, which enhances root growth
+  and phosphate uptake.
+traits:
+  - entity_name: phosphate content
+    entity: TO:0020102
+  - entity_name: root development
+    entity: GO:0048364
+  - entity_name: root hair
+    entity: GO:0035618
+references:
+  - citation: Zhu, Hu et al., 2024
+    doi: 10.1016/j.stress.2025.100763
+    pmid: null
+  - citation: Zhang, Li et al., 2016
+    doi: 10.3389/fpls.2016.00372
+    pmid: 27065041
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSRG16
+gene_symbol_long: Stress Responsive Gene 16
+gene_model_pub_name: Glyma.13G264000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.13G264000
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmSRG16 is identified as a negative regulator of cadmium tolerance in
+      soybean, where its knockout enhances heavy metal tolerance.
+  - GmSRG16 expression is strongly induced by cadmium stress and is localized
+      to both the cell membrane and nucleus.
+  - Knockout or silencing of GmSRG16 results in improved soybean root growth
+      and larger plant architecture under cadmium stress, despite increased
+      cadmium accumulation in roots.
+  - GmSRG16 does not function as a transcription factor, as demonstrated by
+      yeast one-hybrid assays showing no transcriptional activation activity.
+  - The GmSRG16 gene negatively regulates cadmium tolerance by suppressing
+      phenylalanine/phenylpropanoid metabolism, which includes key downstream
+      genes like GmCAD9.
+phenotype_synopsis: Knockout of GmSRG16 in soybean leads to enhanced cadmium
+  tolerance which leads to more developed roots, larger plant architecture, and
+  reduced signs of heavy metal stress despite higher cadmium accumulation in
+  roots.
+traits:
+  - entity_name: cadmium content trait
+    entity: TO:0006059
+  - entity_name: plant stress response trait
+    entity: TO:0000164
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Zikun, Yu et al., 2026
+    doi: 10.1016/j.jhazmat.2026.142928
+    pmid: 42546645
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCAD9L
+gene_symbol_long: Cinnamyl Alcohol Dehydrogenase 9-Related
+gene_model_pub_name: Glyma.08G145900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G145900
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmCAD9L is a downstream target gene of GmSRG16 and is positively involved
+      in mediating cadmium tolerance in soybean.
+  - Overexpression of GmCAD9L enhances cadmium tolerance in soybean, resulting
+      in improved resistance to heavy metal stress.
+  - GmCAD9L functions in the phenylpropanoid metabolic pathway, which is
+      activated in GmSRG16 knockout plants leading to enhanced cadmium
+      tolerance.
+  - GmCAD9L overexpression increases the accumulation of coniferin, a lignin
+      precursor metabolite that chelates cadmium ions, which alleviates cadmium
+      toxicity.
+phenotype_synopsis: Upregulation of GmCAD9L enhances cadmium tolerance in
+  soybean by activating phenylpropanoid metabolism and promoting the
+  accumulation of coniferin that chelates cadmium ions, which reduces toxicity
+  and maintains root growth.
+traits:
+  - entity_name: cadmium content trait
+    entity: TO:0006059
+  - entity_name: plant stress response trait
+    entity: TO:0000164
+  - entity_name: root development trait
+    entity: TO:0000656
+references:
+  - citation: Zikun, Yu et al., 2026
+    doi: 10.1016/j.jhazmat.2026.142928
+    pmid: 42546645
 

@@ -1,16 +1,17 @@
 
-Status for Pisum sativum (pissa) as of 2026-08-28:
+Status for Pisum sativum (pissa) as of 2026-11-11:
 
 Count  gene_symbols; Summary for pissa
   --------------------------------------------------
-      1	PsbHLH
-      1	PsChlG
       1	PsCIK1
       1	PsCLE41
+      1	PsChlG
       1	PsGA3OX1
       1	PsMYB26
       1	PsSBE1
       1	PsSGR
+      1	PsbHLH
+Total for gene_symbols: 8
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for pissa
@@ -23,18 +24,20 @@ Count  gene_model_full_id; Summary for pissa
       1	pissa.Cameor.gnm1.ann1.Psat5g291560
       1	pissa.Cameor.gnm1.ann1.Psat5g299720
       1	pissa.Cameor.gnm1.ann1.Psat6g060480
+Total for gene_model_full_id: 8
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for pissa
   --------------------------------------------------
-      1	PsbHLH	pissa.Cameor.gnm1.ann1.Psat6g060480
-      1	PsChlG	pissa.Cameor.gnm1.ann1.Psat3g126440
       1	PsCIK1	pissa.Cameor.gnm1.ann1.Psat0s2289g0040
       1	PsCLE41	pissa.Cameor.gnm1.ann1.Psat1g151160
+      1	PsChlG	pissa.Cameor.gnm1.ann1.Psat3g126440
       1	PsGA3OX1	pissa.Cameor.gnm1.ann1.Psat5g299720
       1	PsMYB26	pissa.Cameor.gnm1.ann1.Psat5g291560
       1	PsSBE1	pissa.Cameor.gnm1.ann1.Psat3g034640
       1	PsSGR	pissa.Cameor.gnm1.ann1.Psat2g181040
+      1	PsbHLH	pissa.Cameor.gnm1.ann1.Psat6g060480
+Total for Primary symbol: 8
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for pissa
@@ -44,6 +47,7 @@ Count  PMID   DOI   Citation; Summary for pissa
       1	17709752	10.1073/pnas.0705521104	Sato, Morita et al., 2007
       1	18301989	10.1007/s11103-008-9314-8	Aubry, Mani et al., 2008
       1	19237309	10.1016/j.tplants.2009.01.002	Hortensteiner, 2009
+Total for PMID: 12
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for pissa
@@ -61,5 +65,6 @@ Count  Ontology accession   Description; Summary for pissa
       1	TO:0000903	Seed coat texture
       1	TO:0000980	plant embryo cotyledon color
       1	TO:0006020	Shoot apical meristem development
+Total for Ontology accession: 15
   --------------------------------------------------
 

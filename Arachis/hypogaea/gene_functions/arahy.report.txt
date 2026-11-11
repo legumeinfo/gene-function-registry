@@ -1,52 +1,65 @@
 
-Status for Arachis hypogaea (arahy) as of 2026-08-28:
+Status for Arachis hypogaea (arahy) as of 2026-11-11:
 
 Count  gene_symbols; Summary for arahy
   --------------------------------------------------
+      2	AhWRI1
       1	AhANT
+      1	AhARF2-2
       1	AhBSK1
+      1	AhCKX6
       1	AhCML69
+      1	AhGSA1
       1	AhGSNOR1
       1	AhRt3
       1	AhTPS9
       1	AhUGT73CG33
       1	AhUGT75A
-      1	AhWRI1
       1	AhXTH32
       1	AhZAR1-4
+Total for gene_symbols: 15
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for arahy
   --------------------------------------------------
+      2	arahy.Tifrunner.gnm2.ann2.Ah08g309800
+      1	arahy.NDH108.gnm1.ann1.NDH03G08990
       1	arahy.Tifrunner.gnm2.ann1.Arahy.1XW75L
       1	arahy.Tifrunner.gnm2.ann1.Arahy.5Q6PVM
       1	arahy.Tifrunner.gnm2.ann1.Arahy.W8TDEC
       1	arahy.Tifrunner.gnm2.ann2.Ah06g005500
       1	arahy.Tifrunner.gnm2.ann2.Ah06g207600
       1	arahy.Tifrunner.gnm2.ann2.Ah08g062600
-      1	arahy.Tifrunner.gnm2.ann2.Ah08g309800
+      1	arahy.Tifrunner.gnm2.ann2.Ah08g349400
       1	arahy.Tifrunner.gnm2.ann2.Ah09g388200
       1	arahy.Tifrunner.gnm2.ann2.Ah13g064900
+      1	arahy.Tifrunner.gnm2.ann2.Ah16g471200
       1	arahy.Tifrunner.gnm2.ann2.Ah16g512200
+Total for gene_model_full_id: 14
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for arahy
   --------------------------------------------------
+      2	AhWRI1	arahy.Tifrunner.gnm2.ann2.Ah08g309800
       1	AhANT	arahy.Tifrunner.gnm2.ann2.Ah16g512200
+      1	AhARF2-2	arahy.Tifrunner.gnm2.ann2.Ah08g349400
       1	AhBSK1	arahy.Tifrunner.gnm2.ann2.Ah13g064900
+      1	AhCKX6	arahy.NDH108.gnm1.ann1.NDH03G08990
       1	AhCML69	arahy.Tifrunner.gnm2.ann2.Ah08g062600
+      1	AhGSA1	arahy.Tifrunner.gnm2.ann2.Ah16g471200
       1	AhGSNOR1	arahy.Tifrunner.gnm2.ann2.Ah06g005500
       1	AhRt3	arahy.Tifrunner.gnm2.ann1.Arahy.W8TDEC
       1	AhTPS9	arahy.Tifrunner.gnm2.ann1.Arahy.1XW75L
       1	AhUGT75A	arahy.Tifrunner.gnm2.ann1.Arahy.5Q6PVM
-      1	AhWRI1	arahy.Tifrunner.gnm2.ann2.Ah08g309800
       1	AhXTH32	arahy.Tifrunner.gnm2.ann2.Ah06g207600
       1	AhZAR1-4	arahy.Tifrunner.gnm2.ann2.Ah09g388200
+Total for Primary symbol: 14
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for arahy
   --------------------------------------------------
       3	38378864	10.1038/s41588-024-01660-7	Lu, Huang et al., 2024
+      2	40295880	10.1038/s41588-025-02170-w	Zhao, Xue et al., 2025
       1	27311738	10.1111/pbi.12589	Zhang, Chen et al., 2016
       1	27746793	10.3389/fpls.2016.01446	Clevenger, Chu et al., 2016
       1	30902685	10.1016/j.molp.2019.03.005	Chen, Lu et al., 2019
@@ -60,13 +73,16 @@ Count  PMID   DOI   Citation; Summary for arahy
       1	39341375	10.1016/j.plantsci.2024.112275	Pan, Li et al., 2024
       1	40358622	10.1007/s00122-025-04903-1	Tang, Zhou et al., 2025
       1	40915113	10.1016/j.plaphy.2025.110475	Li, Li et al., 2025
+Total for PMID: 18
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for arahy
   --------------------------------------------------
+      5	TO:0000391	seed size
+      3	TO:0000181	seed weight
       2	TO:0000354	aluminum response trait
       2	TO:0000357	plant growth and development trait
-      2	TO:0000391	seed size
+      1	CO_336:0000048	seed oil content
       1	GO:0009734	auxin-activated signaling pathway
       1	GO:0009737	response to abscisic acid
       1	GO:0009742	brassinosteroid mediated signaling pathway
@@ -80,7 +96,6 @@ Count  Ontology accession   Description; Summary for arahy
       1	TO:0000064	plant embryo morphology trait
       1	TO:0000071	anthocyanin content
       1	TO:0000168	abiotic plant stress response trait
-      1	TO:0000181	seed weight
       1	TO:0000190	seed coat color
       1	TO:0000227	root length
       1	TO:0000303	low temperature stress response
@@ -98,5 +113,6 @@ Count  Ontology accession   Description; Summary for arahy
       1	TO:0006002	proline content
       1	TO:0006062	plant width
       1	TO:1000075	palmitic acid content
+Total for Ontology accession: 43
   --------------------------------------------------
 

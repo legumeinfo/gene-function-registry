@@ -1,9 +1,14 @@
 
-Status for Glycine max (glyma) as of 2026-08-28:
+Status for Glycine max (glyma) as of 2026-11-11:
 
 Count  gene_symbols; Summary for glyma
   --------------------------------------------------
       2	GmAP1
+      1	GMCXE31
+      1	Gm-BIK1-6
+      1	Gm-JAG1
+      1	Gm-SYP38
+      1	Gm15G117700
       1	Gm18GRSC3
       1	GmABCC8
       1	GmABF1
@@ -33,20 +38,15 @@ Count  gene_symbols; Summary for glyma
       1	GmBADH2
       1	GmBEHL1
       1	GmBES1-5
-      1	GmbHLH300
-      1	GmbHLHm1
-      1	Gm-BIK1-6
+      1	GmBI-1B
       1	GmBIM1
       1	GmBS1
       1	GmBTB/POZ
-      1	GmbZIP123
-      1	Gmbzip5
       1	GmBZR1
+      1	GmC/VIF2
       1	GmCAD9L
       1	GmCAMTA12
       1	GmCESA7
-      1	GmChlI1a
-      1	GmChlI1b
       1	GmCHX1
       1	GmCIF1
       1	GmCKX14
@@ -55,21 +55,24 @@ Count  gene_symbols; Summary for glyma
       1	GmCLO1
       1	GmCOL1a
       1	GmCOL1b
-      1	GmcqSP003
-      1	GmCrRLK1L2
+      1	GmCRP
       1	GmCRY1a
       1	GmCRY2a
-      1	GmC/VIF2
+      1	GmChlI1a
+      1	GmChlI1b
+      1	GmCrRLK1L2
       1	GmD1
       1	GmD2
       1	GmDGAT1A
       1	GmDGAT1B
       1	GmDGAT1C
       1	GmDGAT2D
+      1	GmDHN9
       1	GmDMI1-3
       1	GmDMI2-7
       1	GmDMI3-2
       1	GmDR1
+      1	GmDREB5
       1	GmDRR1
       1	GmDRR2
       1	GmDT1
@@ -106,7 +109,7 @@ Count  gene_symbols; Summary for glyma
       1	GmFATB1b
       1	GmFATB2b
       1	GmFDL19
-      1	GmFg2
+      1	GmFER1
       1	GmFLD
       1	GmFLS2a
       1	GmFLS2b
@@ -121,6 +124,7 @@ Count  gene_symbols; Summary for glyma
       1	GmFT5b
       1	GmFT6
       1	GmFTL4
+      1	GmFg2
       1	GmFtsH25
       1	GmGA20ox_a
       1	GmGA2OX5
@@ -134,11 +138,14 @@ Count  gene_symbols; Summary for glyma
       1	GmGI
       1	GmGIF5
       1	GmHC1
+      1	GmHY2a
+      1	GmIAA9
       1	GmIDD
       1	GmIFS1
       1	GmIFS2
       1	GmIPK1
-      1	Gm-JAG1
+      1	GmIRT1.1
+      1	GmISO5
       1	GmKASI
       1	GmKASII-A
       1	GmKASII-B
@@ -153,14 +160,13 @@ Count  gene_symbols; Summary for glyma
       1	GmLHY1b
       1	GmLHY2a
       1	GmLHY2b
-      1	GmMaT2
-      1	GmMaT4
+      1	GmLPAT11
+      1	GmMATE1
       1	GmMATE100
       1	GmMFT
       1	GmMIPS1
       1	GmMPK6
       1	GmMRF2
-      1	GmMs1
       1	GmMSI1
       1	GmMYB118
       1	GmMYB14
@@ -174,16 +180,19 @@ Count  gene_symbols; Summary for glyma
       1	GmMYBA3
       1	GmMYBLJ
       1	GmMYBR1
+      1	GmMaT2
+      1	GmMaT4
+      1	GmMs1
+      1	GmN:IFR
       1	GmNAC6
       1	GmNARK
+      1	GmNF-YC4
+      1	GmNF-YC9
       1	GmNFR1α
       1	GmNFR1β
       1	GmNFYA
       1	GmNFYA5
-      1	GmNF-YC4
-      1	GmNF-YC9
       1	GmNIC1
-      1	GmN:IFR
       1	GmNLA1-1
       1	GmNLA1-2
       1	GmNLA1-3
@@ -193,24 +202,25 @@ Count  gene_symbols; Summary for glyma
       1	GmPAD4
       1	GmPAP12
       1	GmPAP14
+      1	GmPGIP11
       1	GmPHR1
       1	GmPHR4
       1	GmPHT1-1
       1	GmPHT1-11
       1	GmPHT1-4
-      1	GmphyA1
-      1	GmphyA2
-      1	GmphyA3
       1	GmPHYE1
+      1	GmPLATZ17
       1	GmPLC8
       1	GmPLDγ
       1	GmPP2C
+      1	GmPPC6
       1	GmPR08-BetVI
       1	GmPRR37
       1	GmPRR3a
       1	GmPRR3b
       1	GmPT01
       1	GmR
+      1	GmRGD14
       1	GmRIC1
       1	GmRIC2
       1	GmRIN1
@@ -219,15 +229,12 @@ Count  gene_symbols; Summary for glyma
       1	GmSAT1
       1	GmSCAMP4
       1	GmSERK1
-      1	Gmsf3′h1
       1	GmSFT
       1	GmSHMT08
       1	GmSK2
       1	GmSNAP18
       1	GmSOC1
       1	GmSOC1-like
-      1	GmSop07
-      1	GmSop20
       1	GmSPA3a
       1	GmSPX5
       1	GmSQE1
@@ -237,9 +244,11 @@ Count  gene_symbols; Summary for glyma
       1	GmSS1
       1	GmSS3
       1	GmSS4
+      1	GmST05
       1	GmSTF1
       1	GmSTF2
       1	GmSTF3
+      1	GmSTOP1a
       1	GmSVP1
       1	GmSVP2
       1	GmSW6
@@ -248,7 +257,9 @@ Count  gene_symbols; Summary for glyma
       1	GmSWEET39
       1	GmSWN
       1	GmSYP24
-      1	Gm-SYP38
+      1	GmSop07
+      1	GmSop20
+      1	GmTCP13
       1	GmTEM1a
       1	GmTFL
       1	GmTFL1.1
@@ -259,27 +270,40 @@ Count  gene_symbols; Summary for glyma
       1	GmTIR1D
       1	GmTMT2a
       1	GmTOC1
-      1	GmTof11
-      1	GmTof12
       1	GmTPS12a
       1	GmTUB1
+      1	GmTof11
+      1	GmTof12
       1	GmVPS8a
       1	GmVRN1-like
       1	GmVSPβ
       1	GmVTE2-2
       1	GmVTL1a
       1	GmVTL1b
+      1	GmW1
       1	GmWAK1
       1	GmYSL7
       1	GmZAT10-1
       1	GmZTL3
+      1	GmbHLH300
+      1	GmbHLHm1
+      1	GmbZIP123
+      1	Gmbzip5
+      1	GmcqSP003
+      1	Gmlin1
+      1	GmphyA1
+      1	GmphyA2
+      1	GmphyA3
+      1	Gmsf3′h1
       1	Rhg1-GmAAT
+Total for gene_symbols: 294
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for glyma
   --------------------------------------------------
       2	glyma.Wm82.gnm4.ann1.Glyma.12G073900
       2	glyma.Wm82.gnm4.ann1.Glyma.17G221100
+      1	glyma.Wm82.gnm1.ann1.Glyma06g43050
       1	glyma.Wm82.gnm1.ann1.Glyma07g04050
       1	glyma.Wm82.gnm2.ann1.Glyma.03G106900
       1	glyma.Wm82.gnm2.ann1.Glyma.07G048500
@@ -291,6 +315,7 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.01G156000
       1	glyma.Wm82.gnm4.ann1.Glyma.01G172600
       1	glyma.Wm82.gnm4.ann1.Glyma.01G178000
+      1	glyma.Wm82.gnm4.ann1.Glyma.01G205200
       1	glyma.Wm82.gnm4.ann1.Glyma.01G214600
       1	glyma.Wm82.gnm4.ann1.Glyma.01G215100
       1	glyma.Wm82.gnm4.ann1.Glyma.02G005600
@@ -310,6 +335,7 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.02G247100
       1	glyma.Wm82.gnm4.ann1.Glyma.02G270800
       1	glyma.Wm82.gnm4.ann1.Glyma.02G303800
+      1	glyma.Wm82.gnm4.ann1.Glyma.02G304700
       1	glyma.Wm82.gnm4.ann1.Glyma.03G130600
       1	glyma.Wm82.gnm4.ann1.Glyma.03G171600
       1	glyma.Wm82.gnm4.ann1.Glyma.03G209400
@@ -338,7 +364,7 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.05G131200
       1	glyma.Wm82.gnm4.ann1.Glyma.05G230900
       1	glyma.Wm82.gnm4.ann1.Glyma.05G234600
-      1	glyma.Wm82.gnm4.ann1.Glyma.05G243800
+      1	glyma.Wm82.gnm4.ann1.Glyma.05G244100
       1	glyma.Wm82.gnm4.ann1.Glyma.06G010200
       1	glyma.Wm82.gnm4.ann1.Glyma.06G024100
       1	glyma.Wm82.gnm4.ann1.Glyma.06G028200
@@ -360,6 +386,7 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.07G158200
       1	glyma.Wm82.gnm4.ann1.Glyma.07G184900
       1	glyma.Wm82.gnm4.ann1.Glyma.07G202300
+      1	glyma.Wm82.gnm4.ann1.Glyma.07G223200
       1	glyma.Wm82.gnm4.ann1.Glyma.08G002100
       1	glyma.Wm82.gnm4.ann1.Glyma.08G062000
       1	glyma.Wm82.gnm4.ann1.Glyma.08G062100
@@ -374,6 +401,7 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.08G183500
       1	glyma.Wm82.gnm4.ann1.Glyma.08G187600
       1	glyma.Wm82.gnm4.ann1.Glyma.08G200100
+      1	glyma.Wm82.gnm4.ann1.Glyma.08G207900
       1	glyma.Wm82.gnm4.ann1.Glyma.08G255200
       1	glyma.Wm82.gnm4.ann1.Glyma.08G302500
       1	glyma.Wm82.gnm4.ann1.Glyma.08G363100
@@ -382,7 +410,9 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.09G065300
       1	glyma.Wm82.gnm4.ann1.Glyma.09G088500
       1	glyma.Wm82.gnm4.ann1.Glyma.09G123800
+      1	glyma.Wm82.gnm4.ann1.Glyma.09G157600
       1	glyma.Wm82.gnm4.ann1.Glyma.09G167000
+      1	glyma.Wm82.gnm4.ann1.Glyma.09G185500
       1	glyma.Wm82.gnm4.ann1.Glyma.09G210800
       1	glyma.Wm82.gnm4.ann1.Glyma.09G235100
       1	glyma.Wm82.gnm4.ann1.Glyma.09G235300
@@ -392,12 +422,14 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.10G018800
       1	glyma.Wm82.gnm4.ann1.Glyma.10G021500
       1	glyma.Wm82.gnm4.ann1.Glyma.10G036800
+      1	glyma.Wm82.gnm4.ann1.Glyma.10G063200
       1	glyma.Wm82.gnm4.ann1.Glyma.10G094800
       1	glyma.Wm82.gnm4.ann1.Glyma.10G141400
       1	glyma.Wm82.gnm4.ann1.Glyma.10G164100
       1	glyma.Wm82.gnm4.ann1.Glyma.10G180600
       1	glyma.Wm82.gnm4.ann1.Glyma.10G186500
       1	glyma.Wm82.gnm4.ann1.Glyma.10G194000
+      1	glyma.Wm82.gnm4.ann1.Glyma.10G215200
       1	glyma.Wm82.gnm4.ann1.Glyma.10G218800
       1	glyma.Wm82.gnm4.ann1.Glyma.10G221500
       1	glyma.Wm82.gnm4.ann1.Glyma.10G244400
@@ -441,17 +473,20 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.13G287600
       1	glyma.Wm82.gnm4.ann1.Glyma.13G288000
       1	glyma.Wm82.gnm4.ann1.Glyma.13G292300
+      1	glyma.Wm82.gnm4.ann1.Glyma.13G298600
       1	glyma.Wm82.gnm4.ann1.Glyma.14G046200
       1	glyma.Wm82.gnm4.ann1.Glyma.14G059200
       1	glyma.Wm82.gnm4.ann1.Glyma.14G066100
       1	glyma.Wm82.gnm4.ann1.Glyma.14G068700
       1	glyma.Wm82.gnm4.ann1.Glyma.14G072200
+      1	glyma.Wm82.gnm4.ann1.Glyma.14G077500
       1	glyma.Wm82.gnm4.ann1.Glyma.14G086300
       1	glyma.Wm82.gnm4.ann1.Glyma.14G095900
       1	glyma.Wm82.gnm4.ann1.Glyma.14G121400
       1	glyma.Wm82.gnm4.ann1.Glyma.14G188000
       1	glyma.Wm82.gnm4.ann1.Glyma.14G194300
       1	glyma.Wm82.gnm4.ann1.Glyma.14G195000
+      1	glyma.Wm82.gnm4.ann1.Glyma.14G216800
       1	glyma.Wm82.gnm4.ann1.Glyma.15G012100
       1	glyma.Wm82.gnm4.ann1.Glyma.15G014800
       1	glyma.Wm82.gnm4.ann1.Glyma.15G049200
@@ -459,6 +494,7 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.15G061400
       1	glyma.Wm82.gnm4.ann1.Glyma.15G064000
       1	glyma.Wm82.gnm4.ann1.Glyma.15G080200
+      1	glyma.Wm82.gnm4.ann1.Glyma.15G117700
       1	glyma.Wm82.gnm4.ann1.Glyma.15G152900
       1	glyma.Wm82.gnm4.ann1.Glyma.15G170300
       1	glyma.Wm82.gnm4.ann1.Glyma.15G174800
@@ -493,10 +529,12 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.18G117100
       1	glyma.Wm82.gnm4.ann1.Glyma.18G143700
       1	glyma.Wm82.gnm4.ann1.Glyma.18G167300
+      1	glyma.Wm82.gnm4.ann1.Glyma.18G205800
       1	glyma.Wm82.gnm4.ann1.Glyma.18G224500
       1	glyma.Wm82.gnm4.ann1.Glyma.18G258000
       1	glyma.Wm82.gnm4.ann1.Glyma.18G262000
       1	glyma.Wm82.gnm4.ann1.Glyma.18G268400
+      1	glyma.Wm82.gnm4.ann1.Glyma.18G268700
       1	glyma.Wm82.gnm4.ann1.Glyma.18G273600
       1	glyma.Wm82.gnm4.ann1.Glyma.18G278100
       1	glyma.Wm82.gnm4.ann1.Glyma.18G298900
@@ -506,7 +544,9 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm4.ann1.Glyma.19G108100
       1	glyma.Wm82.gnm4.ann1.Glyma.19G108200
       1	glyma.Wm82.gnm4.ann1.Glyma.19G122800
+      1	glyma.Wm82.gnm4.ann1.Glyma.19G145200
       1	glyma.Wm82.gnm4.ann1.Glyma.19G164600
+      1	glyma.Wm82.gnm4.ann1.Glyma.19G176300
       1	glyma.Wm82.gnm4.ann1.Glyma.19G194300
       1	glyma.Wm82.gnm4.ann1.Glyma.19G198600
       1	glyma.Wm82.gnm4.ann1.Glyma.19G206800
@@ -526,10 +566,18 @@ Count  gene_model_full_id; Summary for glyma
       1	glyma.Wm82.gnm6.ann1.Glyma.04G202001
       1	glyma.Wm82.gnm6.ann1.Glyma.08G230500
       1	glyma.Wm82.gnm6.ann1.Glyma.09G073600
+      1	glyma.Zh13.gnm2.ann1.SoyZH13_02G084000
+      1	glyma.Zh13.gnm2.ann1.SoyZH13_13G057501
+Total for gene_model_full_id: 269
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for glyma
   --------------------------------------------------
+      1	GMCXE31	glyma.Wm82.gnm4.ann1.Glyma.09G157600
+      1	Gm-BIK1-6	glyma.Wm82.gnm4.ann1.Glyma.14G068700
+      1	Gm-JAG1	glyma.Wm82.gnm4.ann1.Glyma.20G116200
+      1	Gm-SYP38	glyma.Wm82.gnm4.ann1.Glyma.14G066100
+      1	Gm15G117700	glyma.Wm82.gnm4.ann1.Glyma.15G117700
       1	Gm18GRSC3	glyma.Wm82.gnm4.ann1.Glyma.18G086200
       1	GmABCC8	glyma.Wm82.gnm4.ann1.Glyma.07G011600
       1	GmABF1	glyma.Wm82.gnm4.ann1.Glyma.02G131700
@@ -559,20 +607,15 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmBADH1	glyma.Wm82.gnm4.ann1.Glyma.06G186300
       1	GmBADH2	glyma.Wm82.gnm4.ann1.Glyma.05G033500
       1	GmBEHL1	glyma.Wm82.gnm4.ann1.Glyma.01G178000
-      1	GmbHLH300	glyma.Wm82.gnm4.ann1.Glyma.03G130600
-      1	GmbHLHm1	glyma.Wm82.gnm4.ann1.Glyma.15G061400
-      1	Gm-BIK1-6	glyma.Wm82.gnm4.ann1.Glyma.14G068700
+      1	GmBI-1B	glyma.Wm82.gnm4.ann1.Glyma.01G205200
       1	GmBIM1	glyma.Wm82.gnm4.ann1.Glyma.17G082100
       1	GmBS1	glyma.Wm82.gnm4.ann1.Glyma.10G244400
       1	GmBTB/POZ	glyma.Wm82.gnm4.ann1.Glyma.04G244900
-      1	GmbZIP123	glyma.Wm82.gnm4.ann1.Glyma.06G010200
-      1	Gmbzip5	glyma.Wm82.gnm4.ann1.Glyma.15G014800
       1	GmBZR1	glyma.Wm82.gnm4.ann1.Glyma.17G221100
+      1	GmC/VIF2	glyma.Wm82.gnm4.ann1.Glyma.17G036400
       1	GmCAD9L	glyma.Wm82.gnm4.ann1.Glyma.08G145900
       1	GmCAMTA12	glyma.Wm82.gnm4.ann1.Glyma.17G031900
       1	GmCESA7	glyma.Wm82.gnm4.ann1.Glyma.06G225500
-      1	GmChlI1a	glyma.Wm82.gnm4.ann1.Glyma.13G232500
-      1	GmChlI1b	glyma.Wm82.gnm4.ann1.Glyma.15G080200
       1	GmCHX1	glyma.Wm82.gnm4.ann1.Glyma.03G171600
       1	GmCIF1	glyma.Wm82.gnm4.ann1.Glyma.17G036300
       1	GmCKX14	glyma.Wm82.gnm4.ann1.Glyma.15G170300
@@ -581,21 +624,24 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmCLO1	glyma.Wm82.gnm4.ann1.Glyma.09G123800
       1	GmCOL1a	glyma.Wm82.gnm4.ann1.Glyma.08G255200
       1	GmCOL1b	glyma.Wm82.gnm4.ann1.Glyma.18G278100
-      1	GmcqSP003	glyma.Wm82.gnm4.ann1.Glyma.20G085100
-      1	GmCrRLK1L2	glyma.Wm82.gnm4.ann1.Glyma.02G122000
+      1	GmCRP	glyma.Wm82.gnm4.ann1.Glyma.19G176300
       1	GmCRY1a	glyma.Wm82.gnm4.ann1.Glyma.04G101500
       1	GmCRY2a	glyma.Wm82.gnm4.ann1.Glyma.10G180600
-      1	GmC/VIF2	glyma.Wm82.gnm4.ann1.Glyma.17G036400
+      1	GmChlI1a	glyma.Wm82.gnm4.ann1.Glyma.13G232500
+      1	GmChlI1b	glyma.Wm82.gnm4.ann1.Glyma.15G080200
+      1	GmCrRLK1L2	glyma.Wm82.gnm4.ann1.Glyma.02G122000
       1	GmD1	glyma.Wm82.gnm4.ann1.Glyma.01G214600
       1	GmD2	glyma.Wm82.gnm4.ann1.Glyma.11G027400
       1	GmDGAT1A	glyma.Wm82.gnm4.ann1.Glyma.13G106100
       1	GmDGAT1B	glyma.Wm82.gnm4.ann1.Glyma.17G053300
       1	GmDGAT1C	glyma.Wm82.gnm4.ann1.Glyma.09G065300
       1	GmDGAT2D	glyma.Wm82.gnm4.ann1.Glyma.01G156000
+      1	GmDHN9	glyma.Wm82.gnm4.ann1.Glyma.09G185500
       1	GmDMI1-3	glyma.Wm82.gnm4.ann1.Glyma.19G263500
       1	GmDMI2-7	glyma.Wm82.gnm4.ann1.Glyma.11G246200
       1	GmDMI3-2	glyma.Wm82.gnm4.ann1.Glyma.15G222300
       1	GmDR1	glyma.Wm82.gnm4.ann1.Glyma.10G094800
+      1	GmDREB5	glyma.Wm82.gnm4.ann1.Glyma.13G298600
       1	GmDRR1	glyma.Wm82.gnm4.ann1.Glyma.11G150400
       1	GmDRR2	glyma.Wm82.gnm4.ann1.Glyma.11G150300
       1	GmDT1	glyma.Wm82.gnm4.ann1.Glyma.19G194300
@@ -628,7 +674,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmFATB1b	glyma.Wm82.gnm4.ann1.Glyma.17G120400
       1	GmFATB2b	glyma.Wm82.gnm4.ann1.Glyma.06G211300
       1	GmFDL19	glyma.Wm82.gnm4.ann1.Glyma.19G122800
-      1	GmFg2	glyma.Wm82.gnm4.ann1.Glyma.10G194000
+      1	GmFER1	glyma.Wm82.gnm4.ann1.Glyma.18G205800
       1	GmFLD	glyma.Wm82.gnm4.ann1.Glyma.02G159100
       1	GmFLS2a	glyma.Wm82.gnm4.ann1.Glyma.08G083300
       1	GmFLS2b	glyma.Wm82.gnm4.ann1.Glyma.05G128200
@@ -642,6 +688,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmFT5a	glyma.Wm82.gnm4.ann1.Glyma.16G044100
       1	GmFT5b	glyma.Wm82.gnm4.ann1.Glyma.19G108200
       1	GmFT6	glyma.Wm82.gnm2.ann1.Glyma.08G363200
+      1	GmFg2	glyma.Wm82.gnm4.ann1.Glyma.10G194000
       1	GmFtsH25	glyma.Wm82.gnm4.ann1.Glyma.18G065600
       1	GmGA20ox_a	glyma.Wm82.gnm4.ann1.Glyma.04G244200
       1	GmGA2OX5	glyma.Wm82.gnm4.ann1.Glyma.13G218200
@@ -654,11 +701,14 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmGBP1	glyma.Wm82.gnm4.ann1.Glyma.01G008600
       1	GmGI	glyma.Wm82.gnm4.ann1.Glyma.10G221500
       1	GmGIF5	glyma.Wm82.gnm4.ann1.Glyma.10G164100
+      1	GmHY2a	glyma.Wm82.gnm4.ann1.Glyma.02G304700
+      1	GmIAA9	glyma.Wm82.gnm4.ann1.Glyma.08G207900
       1	GmIDD	glyma.Wm82.gnm4.ann1.Glyma.14G095900
       1	GmIFS1	glyma.Wm82.gnm4.ann1.Glyma.07G202300
       1	GmIFS2	glyma.Wm82.gnm4.ann1.Glyma.13G173500
       1	GmIPK1	glyma.Wm82.gnm4.ann1.Glyma.14G072200
-      1	Gm-JAG1	glyma.Wm82.gnm4.ann1.Glyma.20G116200
+      1	GmIRT1.1	glyma.Wm82.gnm4.ann1.Glyma.07G223200
+      1	GmISO5	glyma.Wm82.gnm4.ann1.Glyma.05G244100
       1	GmKASI	glyma.Wm82.gnm4.ann1.Glyma.08G084300
       1	GmKASII-A	glyma.Wm82.gnm4.ann1.Glyma.17G047000
       1	GmKASII-B	glyma.Wm82.gnm4.ann1.Glyma.13G112700
@@ -669,14 +719,12 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmLHY1b	glyma.Wm82.gnm2.ann1.Glyma.07G048500
       1	GmLHY2a	glyma.Wm82.gnm4.ann1.Glyma.19G260900
       1	GmLHY2b	glyma.Wm82.gnm4.ann1.Glyma.03G261800
-      1	GmMaT2	glyma.Wm82.gnm4.ann1.Glyma.18G258000
-      1	GmMaT4	glyma.Wm82.gnm4.ann1.Glyma.18G268400
+      1	GmLPAT11	glyma.Wm82.gnm4.ann1.Glyma.14G216800
+      1	GmMATE1	glyma.Zh13.gnm2.ann1.SoyZH13_02G084000
       1	GmMATE100	glyma.Wm82.gnm4.ann1.Glyma.18G143700
-      1	GmMFT	glyma.Wm82.gnm4.ann1.Glyma.05G243800
       1	GmMIPS1	glyma.Wm82.gnm4.ann1.Glyma.11G238800
       1	GmMPK6	glyma.Wm82.gnm4.ann1.Glyma.02G138800
       1	GmMRF2	glyma.Wm82.gnm2.ann1.Glyma.03G106900
-      1	GmMs1	glyma.Wm82.gnm4.ann1.Glyma.13G114200
       1	GmMSI1	glyma.Wm82.gnm4.ann1.Glyma.05G131200
       1	GmMYB118	glyma.Wm82.gnm4.ann1.Glyma.17G094400
       1	GmMYB14	glyma.Wm82.gnm4.ann1.Glyma.19G164600
@@ -689,16 +737,19 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmMYBA3	glyma.Wm82.gnm4.ann1.Glyma.18G262000
       1	GmMYBLJ	glyma.Wm82.gnm4.ann1.Glyma.04G051000
       1	GmMYBR1	glyma.Wm82.gnm4.ann1.Glyma.02G247100
+      1	GmMaT2	glyma.Wm82.gnm4.ann1.Glyma.18G258000
+      1	GmMaT4	glyma.Wm82.gnm4.ann1.Glyma.18G268400
+      1	GmMs1	glyma.Wm82.gnm4.ann1.Glyma.13G114200
+      1	GmN:IFR	glyma.Wm82.gnm4.ann1.Glyma.01G172600
       1	GmNAC6	glyma.Wm82.gnm4.ann1.Glyma.12G022700
       1	GmNARK	glyma.Wm82.gnm4.ann1.Glyma.12G040000
+      1	GmNF-YC4	glyma.Wm82.gnm4.ann1.Glyma.06G169600
+      1	GmNF-YC9	glyma.Wm82.gnm4.ann1.Glyma.13G189400
       1	GmNFR1α	glyma.Wm82.gnm4.ann1.Glyma.02G270800
       1	GmNFR1β	glyma.Wm82.gnm4.ann1.Glyma.14G046200
       1	GmNFYA	glyma.Wm82.gnm4.ann1.Glyma.02G303800
       1	GmNFYA5	glyma.Wm82.gnm1.ann1.Glyma07g04050
-      1	GmNF-YC4	glyma.Wm82.gnm4.ann1.Glyma.06G169600
-      1	GmNF-YC9	glyma.Wm82.gnm4.ann1.Glyma.13G189400
       1	GmNIC1	glyma.Wm82.gnm4.ann1.Glyma.12G208900
-      1	GmN:IFR	glyma.Wm82.gnm4.ann1.Glyma.01G172600
       1	GmNLA1-1	glyma.Wm82.gnm4.ann1.Glyma.03G214100
       1	GmNLA1-2	glyma.Wm82.gnm4.ann1.Glyma.10G018800
       1	GmNLA1-3	glyma.Wm82.gnm4.ann1.Glyma.19G210900
@@ -708,22 +759,23 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmPAD4	glyma.Wm82.gnm4.ann1.Glyma.08G002100
       1	GmPAP12	glyma.Wm82.gnm4.ann1.Glyma.06G028200
       1	GmPAP14	glyma.Wm82.gnm4.ann1.Glyma.12G075000
+      1	GmPGIP11	glyma.Wm82.gnm4.ann1.Glyma.19G145200
       1	GmPHR1	glyma.Wm82.gnm4.ann1.Glyma.01G009600
       1	GmPHR4	glyma.Wm82.gnm4.ann1.Glyma.02G108500
       1	GmPHT1-1	glyma.Wm82.gnm4.ann1.Glyma.10G186500
       1	GmPHT1-11	glyma.Wm82.gnm4.ann1.Glyma.14G188000
       1	GmPHT1-4	glyma.Wm82.gnm4.ann1.Glyma.10G036800
-      1	GmphyA1	glyma.Wm82.gnm4.ann1.Glyma.10G141400
-      1	GmphyA2	glyma.Wm82.gnm4.ann1.Glyma.20G090000
-      1	GmphyA3	glyma.Wm82.gnm4.ann1.Glyma.19G224200
       1	GmPHYE1	glyma.Wm82.gnm4.ann1.Glyma.09G088500
+      1	GmPLATZ17	glyma.Wm82.gnm4.ann1.Glyma.10G063200
       1	GmPLC8	glyma.Wm82.gnm4.ann1.Glyma.14G059200
       1	GmPLDγ	glyma.Wm82.gnm4.ann1.Glyma.01G215100
       1	GmPP2C	glyma.Wm82.gnm4.ann1.Glyma.17G221100
+      1	GmPPC6	glyma.Wm82.gnm1.ann1.Glyma06g43050
       1	GmPR08-BetVI	glyma.Wm82.gnm6.ann1.Glyma.08G230500
       1	GmPRR37	glyma.Wm82.gnm4.ann1.Glyma.12G073900
       1	GmPT01	glyma.Wm82.gnm4.ann1.Glyma.01G134600
       1	GmR	glyma.Wm82.gnm4.ann1.Glyma.09G235100
+      1	GmRGD14	glyma.Wm82.gnm4.ann1.Glyma.14G077500
       1	GmRIC1	glyma.Wm82.gnm4.ann1.Glyma.13G292300
       1	GmRIC2	glyma.Wm82.gnm4.ann1.Glyma.06G284100
       1	GmRIN1	glyma.Wm82.gnm4.ann1.Glyma.12G224600
@@ -737,8 +789,6 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmSNAP18	glyma.Wm82.gnm4.ann1.Glyma.18G022500
       1	GmSOC1	glyma.Wm82.gnm4.ann1.Glyma.18G224500
       1	GmSOC1-like	glyma.Wm82.gnm4.ann1.Glyma.09G266200
-      1	GmSop07	glyma.Wm82.gnm4.ann1.Glyma.07G158200
-      1	GmSop20	glyma.Wm82.gnm4.ann1.Glyma.20G005900
       1	GmSPX5	glyma.Wm82.gnm4.ann1.Glyma.10G261900
       1	GmSQE1	glyma.Wm82.gnm4.ann1.Glyma.08G063700
       1	GmSRC2	glyma.Wm82.gnm4.ann1.Glyma.15G152900
@@ -750,6 +800,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmSTF1	glyma.Wm82.gnm4.ann1.Glyma.18G117100
       1	GmSTF2	glyma.Wm82.gnm4.ann1.Glyma.08G302500
       1	GmSTF3	glyma.Wm82.gnm4.ann1.Glyma.16G092700
+      1	GmSTOP1a	glyma.Wm82.gnm4.ann1.Glyma.10G215200
       1	GmSVP1	glyma.Wm82.gnm4.ann1.Glyma.01G023500
       1	GmSVP2	glyma.Wm82.gnm4.ann1.Glyma.02G041500
       1	GmSW6	glyma.Wm82.gnm4.ann1.Glyma.06G072400
@@ -757,7 +808,9 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmSWEET10b	glyma.Wm82.gnm4.ann1.Glyma.08G183500
       1	GmSWN	glyma.Wm82.gnm4.ann1.Glyma.03G224300
       1	GmSYP24	glyma.Wm82.gnm4.ann1.Glyma.19G198600
-      1	Gm-SYP38	glyma.Wm82.gnm4.ann1.Glyma.14G066100
+      1	GmSop07	glyma.Wm82.gnm4.ann1.Glyma.07G158200
+      1	GmSop20	glyma.Wm82.gnm4.ann1.Glyma.20G005900
+      1	GmTCP13	glyma.Wm82.gnm4.ann1.Glyma.18G268700
       1	GmTEM1a	glyma.Wm82.gnm4.ann1.Glyma.20G186200
       1	GmTIR1A	glyma.Wm82.gnm4.ann1.Glyma.02G152800
       1	GmTIR1B	glyma.Wm82.gnm4.ann1.Glyma.10G021500
@@ -765,21 +818,31 @@ Count  Primary symbol   gene_model_full_id ; Summary for glyma
       1	GmTIR1D	glyma.Wm82.gnm4.ann1.Glyma.03G209400
       1	GmTMT2a	glyma.Wm82.gnm4.ann1.Glyma.12G014300
       1	GmTOC1	glyma.Wm82.gnm4.ann1.Glyma.06G196200
-      1	GmTof11	glyma.Wm82.gnm4.ann1.Glyma.11G148362
-      1	GmTof12	glyma.Wm82.gnm4.ann1.Glyma.12G073900
       1	GmTPS12a	glyma.Wm82.gnm4.ann1.Glyma.06G184200
       1	GmTUB1	glyma.Wm82.gnm4.ann1.Glyma.06G024100
+      1	GmTof11	glyma.Wm82.gnm4.ann1.Glyma.11G148362
+      1	GmTof12	glyma.Wm82.gnm4.ann1.Glyma.12G073900
       1	GmVPS8a	glyma.Wm82.gnm4.ann1.Glyma.07G049700
       1	GmVRN1-like	glyma.Wm82.gnm4.ann1.Glyma.11G124200
       1	GmVSPβ	glyma.Wm82.gnm4.ann1.Glyma.08G200100
       1	GmVTE2-2	glyma.Wm82.gnm4.ann1.Glyma.02G168000
       1	GmVTL1a	glyma.Wm82.gnm4.ann1.Glyma.05G121600
       1	GmVTL1b	glyma.Wm82.gnm4.ann1.Glyma.08G076300
+      1	GmW1	glyma.Zh13.gnm2.ann1.SoyZH13_13G057501
       1	GmWAK1	glyma.Wm82.gnm4.ann1.Glyma.09G027700
       1	GmYSL7	glyma.Wm82.gnm4.ann1.Glyma.11G203400
       1	GmZAT10-1	glyma.Wm82.gnm4.ann1.Glyma.04G044900
       1	GmZTL3	glyma.Wm82.gnm4.ann1.Glyma.15G174800
+      1	GmbHLH300	glyma.Wm82.gnm4.ann1.Glyma.03G130600
+      1	GmbHLHm1	glyma.Wm82.gnm4.ann1.Glyma.15G061400
+      1	GmbZIP123	glyma.Wm82.gnm4.ann1.Glyma.06G010200
+      1	Gmbzip5	glyma.Wm82.gnm4.ann1.Glyma.15G014800
+      1	GmcqSP003	glyma.Wm82.gnm4.ann1.Glyma.20G085100
+      1	GmphyA1	glyma.Wm82.gnm4.ann1.Glyma.10G141400
+      1	GmphyA2	glyma.Wm82.gnm4.ann1.Glyma.20G090000
+      1	GmphyA3	glyma.Wm82.gnm4.ann1.Glyma.19G224200
       1	Rhg1-GmAAT	glyma.Wm82.gnm4.ann1.Glyma.18G022400
+Total for Primary symbol: 269
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for glyma
@@ -987,6 +1050,8 @@ Count  PMID   DOI   Citation; Summary for glyma
       1	34978122	10.1111/tpj.15658	Fliege, Ward et al., 2022
       1	35269637	10.3390/ijms23052497	Su, Chen et al., 2022
       1	35562858	doi.org/10.1111/tpj.15809	Gao, Jiang et al., 2022
+      1	35642379	10.1111/pbi.13865	Duan, Zhang et al., 2022
+      1	35946571	10.1093/jxb/erac318	Zhang, Yang et al., 2022
       1	36249531	10.1515/biol-2022-0490	Zhou, Wang et al., 2022
       1	36307423	10.1038/s41467-022-34153-4	Liang, Chen, et al., 2022
       1	36349957	10.1111/jipb.13405	Wang, Yang et al., 2022
@@ -1001,10 +1066,14 @@ Count  PMID   DOI   Citation; Summary for glyma
       1	38219483	10.1016/j.bbrc.2024.149471	Jordan, Schmidt et al., 2024
       1	38235827	10.1093/plphys/kiae019	Ma, Huang et al., 2023
       1	38390811	10.1111/jipb.13631	Xie, Song et al., 2024
+      1	38564429	10.1080/21645698.2024.2327116	Fan, Zhang et al., 2024
       1	38635775	10.1093/jxb/erae174	Antonietta, Martinez et al., 2024
       1	38648468	10.1021/acs.jafc.4c01774	Ma, Yuan et al., 2024
       1	38806545	10.1038/s41598-024-62332-4	Ngaki, Srivastava et al., 2024
+      1	38875777	10.1016/j.plaphy.2024.108755	Acharya, Troell et al., 2024
       1	39134894	10.1007/s00122-024-04693-y	You, Jo et al., 2024
+      1	39146910	10.1016/j.plaphy.2024.109010	Gong, Yin et al., 2024
+      1	39163906	10.1016/j.jare.2024.08.024	Freitas-Alves, Moreira-Pinto et al., 2025
       1	39313002	10.1016/j.plantsci.2024.112247	Deng, Zhang et al., 2024
       1	39406006	10.1016/j.plaphy.2024.109187	Xu, Liu et al., 2024
       1	39740401	10.1016/j.bbrc.2024.151170	Son, An et al., 2025
@@ -1012,9 +1081,11 @@ Count  PMID   DOI   Citation; Summary for glyma
       1	39926644	10.3389/fpls.2025.1533592	Bao, Xu et al., 2025
       1	39942905	10.3390/plants14030343	Yao, Humphries et al., 2025
       1	40158630	10.1016/j.plantsci.2025.112485	Zhang, Yu et al., 2025
+      1	40365869	10.1111/pbi.70102	Zhang, Liu et al., 2025
       1	40446993	10.1016/j.ijbiomac.2025.144763	Zhang, Li et al., 2025
       1	40466959	10.1016/j.gene.2025.149609	Guo, Sun et al., 2025
       1	40540624	10.1071/FP25045	Hu, Wen et al., 2025
+      1	40708189	10.1111/pce.70083	Yu, Zheng et al., 2025
       1	40716498	10.1016/j.plantsci.2025.112680	Yang, Shen et al., 2025
       1	40874116	10.1002/pld3.70098	Du, Jung et al., 2025
       1	41197331	10.1016/j.jplph.2025.154649	Fan, Wu et al., 2025
@@ -1023,8 +1094,13 @@ Count  PMID   DOI   Citation; Summary for glyma
       1	41623451	10.1016/j.isci.2025.114546	Wang, Yang et al., 2026
       1	41732898	10.1002/tpg2.70207	Sha, Zhang et al., 2026
       1	41775167	10.1016/j.plaphy.2026.111163	Yang, Liu et al., 2026
+      1	42298819	10.1016/j.xplc.2026.101967	Guo, Duan et al., 2026
       1	42401335	10.1016/j.jare.2026.07.014	Zhang, Ge et al., 2026
+      1	42641813	10.1016/j.plantsci.2026.113398	Guo, Wang et al., 2026
+      1	42665236	10.1016/j.plantsci.2026.113408	Liu, Cao, 2026
+      1	42732830	10.1016/j.jare.2026.09.011	Feng, Sun et al., 2026
       1	9712587	10.1126/science.281.5380.1202	Kaiser, Finnegan et al., 1998
+Total for PMID: 471
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for glyma
@@ -1034,45 +1110,52 @@ Count  Ontology accession   Description; Summary for glyma
      26	TO:0002616	flowering time
      22	GO:0043903	regulation of biological process involved in symbiotic interaction
      17	TO:0000490	seed protein content
+     15	TO:0000276	drought tolerance
+     13	TO:0006001	salt tolerance
      12	TO:0000207	plant height
      12	TO:0000604	fat and essential oil content
      11	GO:0048316	seed development
-     11	TO:0000276	drought tolerance
+     11	TO:0000181	seed weight
      10	GO:0044403	biological process involved in symbiotic interaction
-     10	TO:0000181	seed weight
      10	TO:0000934	photoperiod-sensitive flowering time trait
      10	TO:0002616	Flowering time trait
-     10	TO:0006001	salt tolerance
+      9	GO:0009399	nitrogen fixation
+      9	GO:0009717	isoflavonoid biosynthetic process
       9	GO:0010866	regulation of triglyceride biosynthetic process
-      8	GO:0009399	nitrogen fixation
-      8	GO:0009717	isoflavonoid biosynthetic process
       8	GO:0048364	root development
       8	TO:0000898	root nodule morphology trait
+      8	TO:0001111	Heterodera glycines response
       7	GO:0006629	lipid metabolic process
-      7	TO:0001111	Heterodera glycines response
+      7	TO:0000656	root development trait
       6	GO:0004066	asparagine synthase (glutamine-hydrolyzing) activity
       6	GO:0006529	asparagine biosynthetic process
       6	GO:0008152	metabolic process
       6	GO:0038198	auxin receptor activity
+      6	TO:0000168	abiotic plant stress response trait
+      6	TO:0000429	salt response
       6	TO:0001144	Oomycete disease response
       5	GO:0010344	seed oilbody biogenesis
-      5	TO:0000429	salt response
       5	TO:0000756	stem internode morphology trait
+      5	TO:0002657	oxidative stress response
       5	TO:0020102	phosphate content
       4	GO:0016787	hydrolase activity
       4	GO:0080113	regulation of seed growth
       4	GO:1901333	positive regulation of lateral root development
       4	PO:0003023	root nodule
+      4	TO:0000071	anthocyanin content
+      4	TO:0000148	viral disease response trait
       4	TO:0000153	relative yield
       4	TO:0000164	plant stress trait
-      4	TO:0000168	abiotic plant stress response trait
       4	TO:0000168	abiotic plant stress trait
       4	TO:0000179	biotic plant stress trait
       4	TO:0000290	flavonoid content
       4	TO:0000328	sucrose content
       4	TO:0000578	root fresh weight
-      4	TO:0000656	root development trait
+      4	TO:0000900	root nodule number
+      4	TO:0001024	phosphorus content
+      4	TO:0001125	pod number trait
       4	TO:0001170	fatty acid content trait
+      4	TO:0002616	flowering time trait
       3	GO:0002215	defense response to nematode
       3	GO:0005315	inorganic phosphate transmembrane transporter activity
       3	GO:0016192	vesicle-mediated transport
@@ -1085,23 +1168,19 @@ Count  Ontology accession   Description; Summary for glyma
       3	GO:0048578	positive regulation of long-day photoperiodism, flowering
       3	GO:0055114	oxidation-reduction process
       3	GO:1902185	positive regulation of shoot apical meristem development
-      3	TO:0000071	anthocyanin content
       3	TO:0000112	microbial disease response
-      3	TO:0000148	viral disease response trait
+      3	TO:0000145	shoot axis internode length
       3	TO:0000164	plant stress response trait
       3	TO:0000316	photosynthetic ability
       3	TO:0000391	seed size
       3	TO:0000437	plant male sterility
+      3	TO:0000439	fungal disease response
+      3	TO:0000537	flower color
       3	TO:0000598	protein content
       3	TO:0000634	stem node number
       3	TO:0000696	starch content
       3	TO:0000699	sucrose synthase activity trait
-      3	TO:0000900	root nodule number
       3	TO:0000927	plant organ growth and development trait
-      3	TO:0001024	phosphorus content
-      3	TO:0001125	pod number trait
-      3	TO:0002616	flowering time trait
-      3	TO:0002657	oxidative stress response
       3	TO:0005004	omega-3 fatty acid content
       3	TO:0005005	alpha-linolenic acid content
       3	TO:0012002	leaf chlorophyll content
@@ -1115,6 +1194,7 @@ Count  Ontology accession   Description; Summary for glyma
       2	GO:0009686	gibberellin biosynthetic process
       2	GO:0009695	jasmonic acid biosynthetic process
       2	GO:0009785	blue light signaling pathway
+      2	GO:0010628	positive regulation of gene expression
       2	GO:0016126	sterol biosynthetic process
       2	GO:0016851	magnesium chelatase activity
       2	GO:0033817	beta-ketoacyl-acyl-carrier-protein synthase II activity
@@ -1127,7 +1207,8 @@ Count  Ontology accession   Description; Summary for glyma
       2	GO:1903647	negative regulation of chlorophyll catabolic process
       2	TO:0000011	nitrogen sensitivity
       2	TO:0000095	osmotic response sensitivity
-      2	TO:0000145	shoot axis internode length
+      2	TO:0000136	leaf relative water content
+      2	TO:0000227	root length
       2	TO:0000245	pollen free
       2	TO:0000261	insect damage resistance
       2	TO:0000261	insect damage response trait
@@ -1136,15 +1217,15 @@ Count  Ontology accession   Description; Summary for glyma
       2	TO:0000333	sugar content
       2	TO:0000384	nematode damage response trait
       2	TO:0000432	temperature response trait
-      2	TO:0000439	fungal disease response
+      2	TO:0000482	chemical stress response
       2	TO:0000494	plant pigment content trait
-      2	TO:0000537	flower color
       2	TO:0000615	abscisic acid sensitivity
       2	TO:0000905	seed yield trait
       2	TO:0001015	photosynthetic rate
       2	TO:0002616	Flowering Time trait
       2	TO:0002669	phytoalexin content
       2	TO:0002686	cell growth and development trait
+      2	TO:0005002	oleic acid content
       2	TO:0006022	floral organ development trait
       2	TO:0006059	cadmium content trait
       2	TO:1000034	root system iron content
@@ -1159,11 +1240,16 @@ Count  Ontology accession   Description; Summary for glyma
       1	GO:0005516	calmodulin binding
       1	GO:0006636	unsaturated fatty acid biosynthesis process
       1	GO:0006641	triglyceride metabolic process
+      1	GO:0006826	iron ion transport
+      1	GO:0006828	manganese ion transport
       1	GO:0006886	intracellular protein transport
+      1	GO:0006952	defense response
       1	GO:0007275	multicellular organism development
       1	GO:0008134	transcription factor binding
       1	GO:000815	Metabolic process
       1	GO:0008168	Methyltransferase activity
+      1	GO:0008219	cell death
+      1	GO:0008610	lipid biosynthetic process
       1	GO:0008627	intrinsic apoptotic signaling pathway in response to osmotic stress
       1	GO:0009699	phenylpropanoid biosynthetic process
       1	GO:0009738	abscisic acid-activated signaling pathway
@@ -1175,9 +1261,12 @@ Count  Ontology accession   Description; Summary for glyma
       1	GO:0010082	regulation of root meristem growth
       1	GO:0010119	regulation of stomatal movement
       1	GO:0010262	somatic embryogenesis
+      1	GO:0010311	lateral root formation
       1	GO:0010354	homogentisate prenyltransferase activity
       1	GO:0010468	regulation of gene expression
+      1	GO:0010629	negative regulation of gene expression
       1	GO:0012501	programmed cell death
+      1	GO:0015691	cadmium ion transport
       1	GO:0016051	carbohydrate biosynthetic process
       1	GO:0016132	brassinosteroid biosynthetic process
       1	GO:0016134	saponin metabolic process
@@ -1185,6 +1274,7 @@ Count  Ontology accession   Description; Summary for glyma
       1	GO:0016163	nitrogenase activity
       1	GO:0016491	3-chloroallyl aldehyde dehydrogenase activity
       1	GO:0016491	oxidoreductase activity
+      1	GO:0019217	regulation of fatty acid metabolic process
       1	GO:0019222	regulation of metabolic process
       1	GO:0019433	triglyceride catabolic process
       1	GO:0019722	calcium-mediated signaling
@@ -1207,6 +1297,7 @@ Count  Ontology accession   Description; Summary for glyma
       1	GO:0048193	Golgi vesicle transport
       1	GO:0048367	shoot system development
       1	GO:0048450	floral organ structural organization
+      1	GO:0048543	phytochrome chromophore biosynthetic process
       1	GO:0048573	photoperiodism, flowering
       1	GO:0048579	negative regulation of long-day photoperiodism, flowering
       1	GO:0050832	defence response to fungus
@@ -1222,6 +1313,7 @@ Count  Ontology accession   Description; Summary for glyma
       1	GO:0140315	iron ion sequestering activity
       1	GO:0140359	ABC-type transporter activity
       1	GO:1900457	regulation of brassinosteroid mediated signaling pathway
+      1	GO:1901600	strigolactone metabolic process
       1	GO:1901696	cannabinoid biosynthetic process
       1	GO:1902184	negative regulation of shoot apical meristem development
       1	GO:1904966	Positive regulation of vitamin E biosynthetic process
@@ -1234,26 +1326,30 @@ Count  Ontology accession   Description; Summary for glyma
       1	PO:0007057	seed germination stage
       1	PO:0009010	seed
       1	TO:0000056	stem color
+      1	TO:0000078	root dry weight
       1	TO:0000102	phosphorus response
       1	TO:0000114	flooding related trait
+      1	TO:0000146	seed length
       1	TO:0000148	viral disease resistance
+      1	TO:0000149	seed width
       1	TO:0000190	Seed coat color
-      1	TO:0000227	root length
       1	TO:0000229	photoperiod sensitivity trait
       1	TO:0000269	100-grain weight
       1	TO:0000303	low temperature stress response
+      1	TO:0000304	seed thickness
       1	TO:0000315	bacterial disease response
       1	TO:0000326	leaf color
       1	TO:0000344	days to flowering trait
+      1	TO:0000352	plant dry weight
       1	TO:0000357	plant growth and development trait
       1	TO:0000370	leaf width
       1	TO:0000371	yield trait
       1	TO:0000420	plant fertility trait
       1	TO:0000481	alkali sensitivity
-      1	TO:0000482	chemical stress response
       1	TO:0000485	plant sterility trait
       1	TO:0000491	fat and essential oil composition related trait
       1	TO:0000499	Flowering morphology trait
+      1	TO:0000511	phosphorus uptake
       1	TO:0000513	postassium ion concentration
       1	TO:0000540	leaf area trait
       1	TO:0000599	enzyme activity trait
@@ -1270,18 +1366,20 @@ Count  Ontology accession   Description; Summary for glyma
       1	TO:0000870	leaf yeild trait
       1	TO:0000888	seed coat luster
       1	TO:0000899	root nodule weight
+      1	TO:0000928	plant structure growth and development trait
       1	TO:0000933	days to maturity
       1	TO:0000934	photoperiod-sensitive flowering time
       1	TO:0000967	hilum morphology trait
       1	TO:0000968	hilum color
       1	TO:0000992	gibberellin biosynthesis trait
       1	TO:0001035	stem width
+      1	TO:0001124	root phosphorus content
       1	TO:0001143	antioxidant activity trait
       1	TO:0002616	photoperiod-sensitive flowering time trait
       1	TO:0002639	shoot branching
+      1	TO:0002665	root hair length
       1	TO:0002684	plant cell size
       1	TO:0002687	cell elongation trait
-      1	TO:0005002	oleic acid content
       1	TO:0005003	stearic acid content
       1	TO:0005006	glyphosate sensitivity
       1	TO:0006017	meristem identity
@@ -1290,8 +1388,11 @@ Count  Ontology accession   Description; Summary for glyma
       1	TO:0006067	aphid response trait
       1	TO:0012004	quantum yield
       1	TO:0012011	leaf senescence rate
+      1	TO:0020089	iron content trait
+      1	TO:0020096	mineral and ion transport trait
       1	TO:0020096	mineral and ion transportation
       1	TO:0020107	plant cell length
       1	TO:0020121	arachnid damage response trait
+Total for Ontology accession: 770
   --------------------------------------------------
 

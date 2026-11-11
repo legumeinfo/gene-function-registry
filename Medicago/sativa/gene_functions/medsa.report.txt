@@ -1,11 +1,12 @@
 
-Status for Medicago sativa (medsa) as of 2026-08-28:
+Status for Medicago sativa (medsa) as of 2026-11-11:
 
 Count  gene_symbols; Summary for medsa
   --------------------------------------------------
       1	MsHSP70
       1	MsIFS1
       1	MsTPS16
+Total for gene_symbols: 3
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for medsa
@@ -13,6 +14,7 @@ Count  gene_model_full_id; Summary for medsa
       1	medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
       1	medsa.XinJiangDaYe.gnm1.ann1.MS.gene028516
       1	medsa.XinJiangDaYe.gnm1.ann1.MS.gene39535
+Total for gene_model_full_id: 3
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for medsa
@@ -20,6 +22,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for medsa
       1	MsHSP70	medsa.XinJiangDaYe.gnm1.ann1.MS.gene028516
       1	MsIFS1	medsa.XinJiangDaYe.gnm1.ann1.MS.gene39535
       1	MsTPS16	medsa.XinJiangDaYe.gnm1.ann1.MS.gene015639
+Total for Primary symbol: 3
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for medsa
@@ -28,6 +31,7 @@ Count  PMID   DOI   Citation; Summary for medsa
       1	28150171	10.1007/s10265-017-0905-9	Li, Long et al., 2017
       1	39406004	10.1016/j.plaphy.2024.109191	Song, Sun et al., 2024
       1	40466959	10.1016/j.gene.2025.149609	Guo, Sun et al., 2025
+Total for PMID: 4
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for medsa
@@ -42,5 +46,6 @@ Count  Ontology accession   Description; Summary for medsa
       1	TO:0000615	abscisic acid sensitivity
       1	TO:0002657	oxidative stress response
       1	TO:0006001	salt tolerance
+Total for Ontology accession: 10
   --------------------------------------------------
 

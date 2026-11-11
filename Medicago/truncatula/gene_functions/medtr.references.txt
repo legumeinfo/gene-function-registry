@@ -1145,13 +1145,98 @@ SO  - Int J Mol Sci. 2019 Jun 16;20(12):2941. doi: 10.3390/ijms20122941.
 
 
 ##### PUB RECORD #####
+## 10.1016/j.bbrc.2017.06.025  28602696  Dong, Song et al., 2017  Dong W, Song Y, Zhao Z, Qiu NW, Liu X, Guo W. The Medicago truncatula R2R3-MYB transcription factor gene MtMYBS1 enhances salinity tolerance when constitutively expressed in Arabidopsis thaliana. Biochem Biophys Res Commun. 2017 Aug 19;490(2):225-230. doi: 10.1016/j.bbrc.2017.06.025. Epub 2017 Jun 8. PMID: 28602696. ##
+
+PMID- 28602696
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170926
+LR  - 20220409
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+VI  - 490
+IP  - 2
+DP  - 2017 Aug 19
+TI  - The Medicago truncatula R2R3-MYB transcription factor gene MtMYBS1 enhances 
+      salinity tolerance when constitutively expressed in Arabidopsis thaliana.
+PG  - 225-230
+LID - S0006-291X(17)31144-0 [pii]
+LID - 10.1016/j.bbrc.2017.06.025 [doi]
+AB  - MYB-type proteins are known to participate in many stress responses, although 
+      their role in legumes is still less clear. Here, the isolation and 
+      characterization of MtMYBS1, an R2R3 MYB gene isolated from the model legume 
+      Medicago truncatula, is described. MtMYBS1 transcription was inducible by NaCl, 
+      polyethylene glycol or abscisic acid (ABA). When tested in yeast, its product was 
+      shown to have transactivational activity. The constitutive expression of MtMYBS1 
+      in Arabidopsis thaliana seedlings mitigated the restriction on root growth 
+      imposed by either salinity or osmotic stress and raised their sensitivity to ABA. 
+      It also resulted in the plants being able to overcome several growth constraints 
+      and promoted activity in both the ABA-dependent and -independent 
+      stress-responsive pathways. In particular, it enhanced the transcription of P5CS, 
+      a gene which encodes a component of proline synthesis. MtMYBS1 may prove to be a 
+      useful gene for manipulating the salinity tolerance of legumes.
+CI  - Copyright (c) 2017 Elsevier Inc. All rights reserved.
+FAU - Dong, Wei
+AU  - Dong W
+AD  - Institute of Ecology and Biodiversity, College of Life Sciences, Shandong 
+      University, Jinan, 250100, PR China.
+FAU - Song, Yuguang
+AU  - Song Y
+AD  - School of Life Science, Qufu Normal University, Qufu, Shandong, 273165, PR China.
+FAU - Zhao, Zhong
+AU  - Zhao Z
+AD  - School of Life Science, Qufu Normal University, Qufu, Shandong, 273165, PR China.
+FAU - Qiu, Nian Wei
+AU  - Qiu NW
+AD  - School of Life Science, Qufu Normal University, Qufu, Shandong, 273165, PR China.
+FAU - Liu, Xijiang
+AU  - Liu X
+AD  - School of Life Science, Qufu Normal University, Qufu, Shandong, 273165, PR China.
+FAU - Guo, Weihua
+AU  - Guo W
+AD  - Institute of Ecology and Biodiversity, College of Life Sciences, Shandong 
+      University, Jinan, 250100, PR China. Electronic address: guo_weihua@yahoo.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20170608
+PL  - United States
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Arabidopsis/*genetics/*metabolism
+MH  - Medicago truncatula/*genetics/metabolism
+MH  - Salt Tolerance/*genetics
+MH  - Seeds/genetics
+MH  - Transcription Factors/genetics/*metabolism
+OTO - NOTNLM
+OT  - MYB transcription factor
+OT  - Medicago truncatula
+OT  - Salt stress
+EDAT- 2017/06/13 06:00
+MHDA- 2017/09/28 06:00
+CRDT- 2017/06/13 06:00
+PHST- 2017/06/01 00:00 [received]
+PHST- 2017/06/07 00:00 [accepted]
+PHST- 2017/06/13 06:00 [pubmed]
+PHST- 2017/09/28 06:00 [medline]
+PHST- 2017/06/13 06:00 [entrez]
+AID - S0006-291X(17)31144-0 [pii]
+AID - 10.1016/j.bbrc.2017.06.025 [doi]
+PST - ppublish
+SO  - Biochem Biophys Res Commun. 2017 Aug 19;490(2):225-230. doi: 
+      10.1016/j.bbrc.2017.06.025. Epub 2017 Jun 8.
+
+
+##### PUB RECORD #####
 ## 10.1111/pbi.13469  32816361  Du, Lu et al., 2020  Du J, Lu S, Chai M, Zhou C, Sun L, Tang Y, Nakashima J, Kolape J, Wen Z, Behzadirad M, Zhong T, Sun J, Zhang Y, Wang ZY. Functional characterization of PETIOLULE-LIKE PULVINUS (PLP) gene in abscission zone development in Medicago truncatula and its application to genetic improvement of alfalfa. Plant Biotechnol J. 2021 Feb;19(2):351-364. doi: 10.1111/pbi.13469. Epub 2020 Sep 14. PMID: 32816361; PMCID: PMC7868985. ##
 
 PMID- 32816361
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20210421
-LR  - 20240330
+LR  - 20260923
 IS  - 1467-7652 (Electronic)
 IS  - 1467-7644 (Print)
 IS  - 1467-7644 (Linking)
@@ -2092,6 +2177,92 @@ SO  - PLoS Genet. 2014 Dec 18;10(12):e1004891. doi: 10.1371/journal.pgen.1004891
 
 
 ##### PUB RECORD #####
+## 10.1371/journal.pone.0182055  28750086  Igielski, Kępczyńska et al., 2017  Igielski R, Kępczyńska E. Gene expression and metabolite profiling of gibberellin biosynthesis during induction of somatic embryogenesis in Medicago truncatula Gaertn. PLoS One. 2017 Jul 27;12(7):e0182055. doi: 10.1371/journal.pone.0182055. PMID: 28750086; PMCID: PMC5531487. ##
+
+PMID- 28750086
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171004
+LR  - 20240326
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 12
+IP  - 7
+DP  - 2017
+TI  - Gene expression and metabolite profiling of gibberellin biosynthesis during 
+      induction of somatic embryogenesis in Medicago truncatula Gaertn.
+PG  - e0182055
+LID - 10.1371/journal.pone.0182055 [doi]
+LID - e0182055
+AB  - Gibberellins (GAs) are involved in the regulation of numerous developmental 
+      processes in plants including zygotic embryogenesis, but their biosynthesis and 
+      role during somatic embryogenesis (SE) is mostly unknown. In this study we show 
+      that during three week- long induction phase, when cells of leaf explants from 
+      non-embryogenic genotype (M9) and embryogenic variant (M9-10a) were forming the 
+      callus, all the bioactive gibberellins from non-13-hydroxylation (GA4, GA7) and 
+      13-hydroxylation (GA1, GA5, GA3, GA6) pathways were present, but the contents of 
+      only a few of them differed between the tested lines. The GA53 and GA19 
+      substrates synthesized by the 13-hydroxylation pathway accumulated specifically 
+      in the M9-10a line after the first week of induction; subsequently, among the 
+      bioactive gibberellins detected, only the content of GA3 increased and appeared 
+      to be connected with acquisition of embryogenic competence. We fully annotated 20 
+      Medicago truncatula orthologous genes coding the enzymes which catalyze all the 
+      known reactions of gibberellin biosynthesis. Our results indicate that, within 
+      all the genes tested, expression of only three: MtCPS, MtGA3ox1 and MtGA3ox2, was 
+      specific to embryogenic explants and reflected the changes observed in GA53, GA19 
+      and GA3 contents. Moreover, by analyzing expression of MtBBM, SE marker gene, we 
+      confirmed the inhibitory effect of manipulation in GAs metabolism, applying 
+      exogenous GA3, which not only impaired the production of somatic embryos, but 
+      also significantly decreased expression of this gene.
+FAU - Igielski, Rafal
+AU  - Igielski R
+AD  - Department of Plant Biotechnology, University of Szczecin, Szczecin, Poland.
+FAU - Kepczynska, Ewa
+AU  - Kepczynska E
+AUID- ORCID: 0000-0001-7833-3807
+AD  - Department of Plant Biotechnology, University of Szczecin, Szczecin, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20170727
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Gibberellins)
+RN  - 0 (Triazoles)
+RN  - 6PLV42R3ZA (paclobutrazol)
+SB  - IM
+MH  - Biosynthetic Pathways/drug effects/genetics
+MH  - Gene Expression Profiling/*methods
+MH  - Gene Expression Regulation, Plant/drug effects
+MH  - Genes, Plant
+MH  - Gibberellins/*biosynthesis
+MH  - Medicago truncatula/drug effects/embryology/*genetics/*metabolism
+MH  - Metabolomics/*methods
+MH  - Plant Leaves/anatomy & histology/genetics/metabolism
+MH  - *Plant Somatic Embryogenesis Techniques
+MH  - Seeds/drug effects/genetics/metabolism
+MH  - Triazoles/pharmacology
+PMC - PMC5531487
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2017/07/28 06:00
+MHDA- 2017/10/05 06:00
+PMCR- 2017/07/27
+CRDT- 2017/07/28 06:00
+PHST- 2017/04/21 00:00 [received]
+PHST- 2017/07/11 00:00 [accepted]
+PHST- 2017/07/28 06:00 [entrez]
+PHST- 2017/07/28 06:00 [pubmed]
+PHST- 2017/10/05 06:00 [medline]
+PHST- 2017/07/27 00:00 [pmc-release]
+AID - PONE-D-17-15486 [pii]
+AID - 10.1371/journal.pone.0182055 [doi]
+PST - epublish
+SO  - PLoS One. 2017 Jul 27;12(7):e0182055. doi: 10.1371/journal.pone.0182055. 
+      eCollection 2017.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.105.069054  16244141  Isayenkov, Mrosk et al., 2005  Isayenkov S, Mrosk C, Stenzel I, Strack D, Hause B. Suppression of allene oxide cyclase in hairy roots of Medicago truncatula reduces jasmonate levels and the degree of mycorrhization with Glomus intraradices. Plant Physiol. 2005 Nov;139(3):1401-10. doi: 10.1104/pp.105.069054. Epub 2005 Oct 21. PMID: 16244141; PMCID: PMC1283775. ##
 
 PMID- 16244141
@@ -2438,6 +2609,104 @@ AID - 2619 [pii]
 AID - 10.1186/s12870-020-02619-6 [doi]
 PST - epublish
 SO  - BMC Plant Biol. 2020 Aug 31;20(1):401. doi: 10.1186/s12870-020-02619-6.
+
+
+##### PUB RECORD #####
+## 10.1073/pnas.1014204108  21115819  Jones, Covington et al., 2010  Jones MA, Covington MF, DiTacchio L, Vollmers C, Panda S, Harmer SL. Jumonji domain protein JMJD5 functions in both the plant and human circadian systems. Proc Natl Acad Sci U S A. 2010 Dec 14;107(50):21623-8. doi: 10.1073/pnas.1014204108. Epub 2010 Nov 29. PMID: 21115819; PMCID: PMC3003042. ##
+
+PMID- 21115819
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110512
+LR  - 20240109
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 107
+IP  - 50
+DP  - 2010 Dec 14
+TI  - Jumonji domain protein JMJD5 functions in both the plant and human circadian 
+      systems.
+PG  - 21623-8
+LID - 10.1073/pnas.1014204108 [doi]
+AB  - Circadian clocks are near-ubiquitous molecular oscillators that coordinate 
+      biochemical, physiological, and behavioral processes with environmental cues, 
+      such as dawn and dusk. Circadian timing mechanisms are thought to have arisen 
+      multiple times throughout the evolution of eukaryotes but share a similar overall 
+      structure consisting of interlocking transcriptional and posttranslational 
+      feedback loops. Recent work in both plants and animals has also linked 
+      modification of histones to circadian clock function. Now, using data from 
+      published microarray experiments, we have identified a histone demethylase, 
+      jumonji domain containing 5 (JMJD5), as a previously undescribed participant in 
+      both the human and Arabidopsis circadian systems. Arabidopsis JMJD5 is 
+      coregulated with evening-phased clock components and positively affects 
+      expression of clock genes expressed at dawn. We found that both Arabidopsis jmjd5 
+      mutant seedlings and mammalian cell cultures deficient for the human ortholog of 
+      this gene have similar fast-running circadian oscillations compared with WT. 
+      Remarkably, both the Arabidopsis and human JMJD5 orthologs retain sufficient 
+      commonality to rescue the circadian phenotype of the reciprocal system. Thus, 
+      JMJD5 plays an interchangeable role in the timing mechanisms of plants and 
+      animals despite their highly divergent evolutionary paths.
+FAU - Jones, Matthew A
+AU  - Jones MA
+AD  - Department of Plant Biology, College of Biological Sciences, University of 
+      California, Davis, CA 95616, USA.
+FAU - Covington, Michael F
+AU  - Covington MF
+FAU - DiTacchio, Luciano
+AU  - DiTacchio L
+FAU - Vollmers, Christopher
+AU  - Vollmers C
+FAU - Panda, Satchidananda
+AU  - Panda S
+FAU - Harmer, Stacey L
+AU  - Harmer SL
+LA  - eng
+GR  - R01 GM069418/GM/NIGMS NIH HHS/United States
+GR  - GM069418/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20101129
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (Protein Isoforms)
+RN  - 0 (TOC1 protein, Arabidopsis)
+RN  - 0 (Transcription Factors)
+RN  - EC 1.14.11.- (Jumonji Domain-Containing Histone Demethylases)
+SB  - IM
+MH  - Arabidopsis/*physiology
+MH  - Arabidopsis Proteins/genetics/metabolism
+MH  - Biological Clocks/*physiology
+MH  - Cell Line
+MH  - Circadian Rhythm/*physiology
+MH  - Gene Expression Regulation, Plant
+MH  - Humans
+MH  - Jumonji Domain-Containing Histone Demethylases/genetics/*metabolism
+MH  - Phenotype
+MH  - Photoperiod
+MH  - Protein Isoforms/genetics/*metabolism
+MH  - Seedlings/genetics/metabolism
+MH  - Transcription Factors/genetics/metabolism
+PMC - PMC3003042
+COIS- The authors declare no conflict of interest.
+EDAT- 2010/12/01 06:00
+MHDA- 2011/05/13 06:00
+PMCR- 2011/06/14
+CRDT- 2010/12/01 06:00
+PHST- 2010/12/01 06:00 [entrez]
+PHST- 2010/12/01 06:00 [pubmed]
+PHST- 2011/05/13 06:00 [medline]
+PHST- 2011/06/14 00:00 [pmc-release]
+AID - 1014204108 [pii]
+AID - 201014204 [pii]
+AID - 10.1073/pnas.1014204108 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2010 Dec 14;107(50):21623-8. doi: 
+      10.1073/pnas.1014204108. Epub 2010 Nov 29.
 
 
 ##### PUB RECORD #####
@@ -3338,6 +3607,123 @@ SO  - Biochem Biophys Res Commun. 2020 Feb 26;523(1):66-71. doi:
 
 
 ##### PUB RECORD #####
+## 10.1080/15548627.2019.1643656  31362589  Li, Liu et al., 2019  Li X, Liu Q, Feng H, Deng J, Zhang R, Wen J, Dong J, Wang T. Dehydrin MtCAS31 promotes autophagic degradation under drought stress. Autophagy. 2020 May;16(5):862-877. doi: 10.1080/15548627.2019.1643656. Epub 2019 Jul 30. PMID: 31362589; PMCID: PMC7144882. ##
+
+PMID- 31362589
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210607
+LR  - 20210607
+IS  - 1554-8635 (Electronic)
+IS  - 1554-8627 (Print)
+IS  - 1554-8627 (Linking)
+VI  - 16
+IP  - 5
+DP  - 2020 May
+TI  - Dehydrin MtCAS31 promotes autophagic degradation under drought stress.
+PG  - 862-877
+LID - 10.1080/15548627.2019.1643656 [doi]
+AB  - Drought stress seriously affects crop yield, and the mechanism underlying plant 
+      resistance to drought stress via macroautophagy/autophagy is not clear. Here, we 
+      show that a dehydrin, Medicago truncatula MtCAS31 (cold acclimation-specific 31), 
+      a positive regulator of drought response, plays a key role in autophagic 
+      degradation. A GFP cleavage assay and treatment with an autophagy-specific 
+      inhibitor indicated that MtCAS31 participates in the autophagic degradation 
+      pathway and that overexpressing MtCAS31 promotes autophagy under drought stress. 
+      Furthermore, we discovered that MtCAS31 interacts with the autophagy-related 
+      protein ATG8a in the AIM-like motif YXXXI, supporting its function in autophagic 
+      degradation. In addition, we identified a cargo protein of MtCAS31, the aquaporin 
+      MtPIP2;7, by screening an M. truncatula cDNA library. We found that MtPIP2;7 
+      functions as a negative regulator of drought response. Under drought stress, 
+      MtCAS31 facilitated the autophagic degradation of MtPIP2;7 and reduced root 
+      hydraulic conductivity, thus reducing water loss and improving drought tolerance. 
+      Taken together, our results reveal a novel function of dehydrins in promoting the 
+      autophagic degradation of proteins, which extends our knowledge of the function 
+      of dehydrins.Abbreviations: AIM: ATG8-interacting motif; ATG: autophagy-related; 
+      ATI1: ATG8-interacting protein1; BiFC: Biomolecular fluorescence complementation; 
+      CAS31: cold acclimation-specific 31; ConcA: concanamycin A; DSK2: dominant 
+      suppressor of KAR2; ER: endoplasmic reticulum; ERAD: ER-associated degradation; 
+      NBR1: next to BRCA1 gene 1; PM: plasma membrane; PIPs: plasma membrane intrinsic 
+      proteins; TALEN: transcription activator-like effector nuclease; TSPO: 
+      tryptophan-rich sensory protein/translocator; UPR: unfolded protein response; VC: 
+      vector control.
+FAU - Li, Xin
+AU  - Li X
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+FAU - Liu, Qianwen
+AU  - Liu Q
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+FAU - Feng, Hao
+AU  - Feng H
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+FAU - Deng, Jie
+AU  - Deng J
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+FAU - Zhang, Rongxue
+AU  - Zhang R
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+FAU - Wen, Jiangqi
+AU  - Wen J
+AD  - Plant Biology Division, Samuel Roberts Noble Research Institute, Ardmore, OK, 
+      USA.
+FAU - Dong, Jiangli
+AU  - Dong J
+AUID- ORCID: 0000-0003-2643-6358
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+FAU - Wang, Tao
+AU  - Wang T
+AUID- ORCID: 0000-0002-4001-9828
+AD  - State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China 
+      Agricultural University, Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190730
+PL  - United States
+TA  - Autophagy
+JT  - Autophagy
+JID - 101265188
+RN  - 0 (Autophagy-Related Proteins)
+RN  - 0 (Membrane Proteins)
+SB  - IM
+MH  - Arabidopsis/*metabolism
+MH  - Autophagy/*physiology
+MH  - Autophagy-Related Proteins/metabolism
+MH  - Droughts
+MH  - Endoplasmic Reticulum/*metabolism
+MH  - Medicago truncatula/*metabolism
+MH  - Membrane Proteins/metabolism
+MH  - Stress, Physiological/*physiology
+PMC - PMC7144882
+OTO - NOTNLM
+OT  - Aquaporin
+OT  - Medicago truncatula
+OT  - autophagy
+OT  - dehydrin
+OT  - drought
+OT  - stress
+EDAT- 2019/08/01 06:00
+MHDA- 2021/06/08 06:00
+PMCR- 2019/07/30
+CRDT- 2019/08/01 06:00
+PHST- 2019/08/01 06:00 [pubmed]
+PHST- 2021/06/08 06:00 [medline]
+PHST- 2019/08/01 06:00 [entrez]
+PHST- 2019/07/30 00:00 [pmc-release]
+AID - 1643656 [pii]
+AID - 10.1080/15548627.2019.1643656 [doi]
+PST - ppublish
+SO  - Autophagy. 2020 May;16(5):862-877. doi: 10.1080/15548627.2019.1643656. Epub 2019 
+      Jul 30.
+
+
+##### PUB RECORD #####
 ## 10.3389/fpls.2021.709625  34421956  Li, Ma et al., 2021  Li W, Ma Q, Yin P, Wen J, Pei Y, Niu L, Lin H. The GA 20-Oxidase Encoding Gene <i>MSD1</i> Controls the Main Stem Elongation in <i>Medicago truncatula</i>. Front Plant Sci. 2021 Aug 4;12:709625. doi: 10.3389/fpls.2021.709625. PMID: 34421956; PMCID: PMC8371406. ##
 
 PMID- 34421956
@@ -3555,6 +3941,165 @@ AID - kiab140 [pii]
 AID - 10.1093/plphys/kiab140 [doi]
 PST - ppublish
 SO  - Plant Physiol. 2021 Jul 6;186(3):1591-1605. doi: 10.1093/plphys/kiab140.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plaphy.2026.111628  42575002  Li, Song et al., 2026  Li W, Song H, Xie M, Li Y, Wang Z, Wang Y, Yao R, Zhang M, Chen L. Conservation and developmental roles of MtSMAX1 in Medicago truncatula. Plant Physiol Biochem. 2026 Sep;238:111628. doi: 10.1016/j.plaphy.2026.111628. Epub 2026 Aug 7. PMID: 42575002. ##
+
+PMID- 42575002
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260930
+LR  - 20260930
+IS  - 1873-2690 (Electronic)
+IS  - 0981-9428 (Linking)
+VI  - 238
+DP  - 2026 Sep
+TI  - Conservation and developmental roles of MtSMAX1 in Medicago truncatula.
+PG  - 111628
+LID - S0981-9428(26)00614-5 [pii]
+LID - 10.1016/j.plaphy.2026.111628 [doi]
+AB  - Karrikin (KAR) signaling plays crucial roles in plant development, regulating key 
+      traits such as photomorphogenesis, root hair development, and arbuscular 
+      mycorrhizal symbiosis. SUPPRESSOR OF MAX2 1 (SMAX1), a key negative regulator of 
+      the KAR pathway, has been functionally studied in several plant species. However, 
+      the SMAX1 protein remains poorly understood in Medicago truncatula, an important 
+      model legume, which limits the comprehensive understanding and application of the 
+      KAR pathway in legumes. In this study, we identified the single SMAX1 ortholog 
+      MtSMAX1 in M. truncatula. Sequence alignment and structural modeling analyses 
+      revealed that MtSMAX1 is highly conserved with SMAX1 homologs from other plant 
+      species. Yeast two-hybrid assays demonstrated that MtSMAX1 interacts with two KAR 
+      signaling receptors KARRIKIN INSENSITIVE 2 (MtKAI2a/b). In addition, both 
+      MtKAI2a/b interact with the F-box protein MORE AXILLARY GROWTH 2 (MtMAX2), 
+      suggesting a conserved KAR signaling pathway in M. truncatula. To further 
+      investigate the biological functions of MtSMAX1, we generated two distinct 
+      CRISPR-edited mutant lines. The loss-of-function mutant Mtsmax1, which carries a 
+      premature termination mutation, displays defective phenotypes including reduced 
+      seed size, dwarfism, and delayed flowering. In contrast, the Mtsmax1(DeltaQ210) 
+      mutant, harboring a single glutamine deletion at position 210, exhibits specific 
+      defects only in seed development. These phenotypic differences indicate a 
+      previously unreported role of MtSMAX1 in regulating legume seed development, with 
+      the conserved Q210 residue potentially involved in this process. Furthermore, 
+      MtSMAX1 overexpression lines exhibit phenotypes opposite to those of the mutants, 
+      further validating the biological functions of MtSMAX1. Gene expression analysis 
+      of key developmental marker genes revealed altered expression levels in MtSMAX1 
+      mutants, which are tightly consistent with the corresponding phenotypic 
+      variations. These results suggest that MtSMAX1 likely functions as an important 
+      transcriptional regulator to modulate the expression of downstream developmental 
+      genes. Collectively, our findings establish MtSMAX1 as a pivotal regulator of 
+      multiple developmental processes in legumes and provide a foundation for 
+      elucidating the broader biological functions and regulatory mechanisms of the KAR 
+      signaling pathway.
+CI  - Copyright (c) 2026 The Authors. Published by Elsevier Masson SAS.. All rights 
+      reserved.
+FAU - Li, Wanyuan
+AU  - Li W
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Song, Hui
+AU  - Song H
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Xie, Miao
+AU  - Xie M
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Li, Yuhuan
+AU  - Li Y
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Wang, Zibing
+AU  - Wang Z
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Wang, Yuehua
+AU  - Wang Y
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Yao, Ruifeng
+AU  - Yao R
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China.
+FAU - Zhang, Meng
+AU  - Zhang M
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China. Electronic address: zhangmeng2019@hnu.edu.cn.
+FAU - Chen, Li
+AU  - Chen L
+AD  - State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of 
+      Plant Functional Genomics and Developmental Regulation, College of Biology, 
+      Longping Agricultural College, Hunan University, Changsha, 410082, China; 
+      Yuelushan Laboratory, Changsha, 410082, China; Hunan Research Center of the Basic 
+      Discipline for Cell Signaling, College of Biology, Hunan University, Changsha, 
+      410082, China. Electronic address: chenli2018@hnu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20260807
+PL  - France
+TA  - Plant Physiol Biochem
+JT  - Plant physiology and biochemistry : PPB
+JID - 9882449
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - *Medicago truncatula/metabolism/genetics/growth & development
+MH  - *Plant Proteins/metabolism/genetics/chemistry
+MH  - Gene Expression Regulation, Plant
+MH  - Signal Transduction
+MH  - Amino Acid Sequence
+OTO - NOTNLM
+OT  - Karrikin signaling
+OT  - Medicago truncatula
+OT  - Plant development
+OT  - SMAX1
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2026/08/11 00:35
+MHDA- 2026/09/30 05:30
+CRDT- 2026/08/10 18:06
+PHST- 2026/06/03 00:00 [received]
+PHST- 2026/07/20 00:00 [revised]
+PHST- 2026/08/06 00:00 [accepted]
+PHST- 2026/09/30 05:30 [medline]
+PHST- 2026/08/11 00:35 [pubmed]
+PHST- 2026/08/10 18:06 [entrez]
+AID - S0981-9428(26)00614-5 [pii]
+AID - 10.1016/j.plaphy.2026.111628 [doi]
+PST - ppublish
+SO  - Plant Physiol Biochem. 2026 Sep;238:111628. doi: 10.1016/j.plaphy.2026.111628. 
+      Epub 2026 Aug 7.
 
 
 ##### PUB RECORD #####
@@ -3880,6 +4425,10 @@ PST - ppublish
 SO  - Proc Natl Acad Sci U S A. 2022 Aug 23;119(34):e2205920119. doi: 
       10.1073/pnas.2205920119. Epub 2022 Aug 16.
 
+
+##### PUB RECORD #####
+## 10.1016/j.envexpbot.2015.10.007  null  Liu, Zhang et al., 2016  WARNING Citation not reported, given DOI only. Title: Overexpression of MtWRKY76 increases both salt and drought tolerance in Medicago truncatula ##
+## Skipping retrieval of this record because there is no pubmed ID ##
 
 ##### PUB RECORD #####
 ## 10.1111/ppl.14046  37882293  Mao, Zhou et al., 2023  Mao Y, Zhou S, Yang J, Wen J, Wang D, Zhou X, Wu X, He L, Liu M, Wu H, Yang L, Zhao B, Tadege M, Liu Y, Liu C, Chen J. The MIO1-MtKIX8 module regulates the organ size in Medicago truncatula. Physiol Plant. 2023 Sep-Oct;175(5):e14046. doi: 10.1111/ppl.14046. PMID: 37882293. ##
@@ -6093,6 +6642,124 @@ SO  - BMC Plant Biol. 2019 Dec 19;19(1):571. doi: 10.1186/s12870-019-2194-z.
 
 
 ##### PUB RECORD #####
+## 10.1016/j.bbrc.2016.04.062  27086112  Shen, Wu et al., 2016  Shen Y, Wu X, Liu D, Song S, Liu D, Wang H. Cold-dependent alternative splicing of a Jumonji C domain-containing gene MtJMJC5 in Medicago truncatula. Biochem Biophys Res Commun. 2016 May 27;474(2):271-276. doi: 10.1016/j.bbrc.2016.04.062. Epub 2016 Apr 13. PMID: 27086112. ##
+
+PMID- 27086112
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170510
+LR  - 20220311
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+VI  - 474
+IP  - 2
+DP  - 2016 May 27
+TI  - Cold-dependent alternative splicing of a Jumonji C domain-containing gene MtJMJC5 
+      in Medicago truncatula.
+PG  - 271-276
+LID - S0006-291X(16)30564-2 [pii]
+LID - 10.1016/j.bbrc.2016.04.062 [doi]
+AB  - Histone methylation is an epigenetic modification mechanism that regulates gene 
+      expression in eukaryotic cells. Jumonji C domain-containing demethylases are 
+      involved in removal of methyl groups at lysine or arginine residues. The JmjC 
+      domain-only member, JMJ30/JMJD5 of Arabidopsis, is a component of the plant 
+      circadian clock. Although some plant circadian clock genes undergo alternative 
+      splicing in response to external cues, there is no evidence that JMJ30/JMJD5 is 
+      regulated by alternative splicing. In this study, the expression of an 
+      Arabidopsis JMJ30/JMJD5 ortholog in Medicago truncatula, MtJMJC5, in response to 
+      circadian clock and abiotic stresses were characterized. The results showed that 
+      MtJMJC5 oscillates with a circadian rhythm, and undergoes cold specifically 
+      induced alternative splicing. The cold-induced alternative splicing could be 
+      reversed after ambient temperature returning to the normal. Sequencing results 
+      revealed four alternative splicing RNA isoforms including a full-length authentic 
+      protein encoding variant, and three premature termination condon-containing 
+      variants due to alternative 3' splice sites at the first and second intron. Under 
+      cold treatment, the variants that share a common 3' alternative splicing site at 
+      the second intron were intensively up-regulated while the authentic protein 
+      encoding variant and the premature termination condon-containing variant only 
+      undergoing a 3' alternative splicing at the first intron were down regulated. 
+      Although all the premature termination condon-harboring alternative splicing 
+      variants were sensitive to nonsense-mediated decay, the premature termination 
+      codon-harboring alternative splicing variants sharing the 3' alternative splicing 
+      site at the second intron showed less sensitivity than the one only containing 
+      the 3' alternative slicing site at the first intron under cold treatment. These 
+      results suggest that the cold-dependent alternative splicing of MtJMJC5 is likely 
+      a species or genus-specific mechanism of gene expression regulation on RNA 
+      levels, and might play a role in epigenetic regulation of the link between the 
+      circadian clock and ambient temperature fluctuation in Medicago.
+CI  - Copyright (c) 2016 Elsevier Inc. All rights reserved.
+FAU - Shen, Yingfang
+AU  - Shen Y
+AD  - Key Laboratory of Adaptation and Evolution of Plateau Biota, Northwest Institute 
+      of Plateau Biology, Chinese Academy of Sciences, Xining 810001, People's Republic 
+      of China; Graduate University of the Chinese Academy of Sciences, Beijing 100081, 
+      People's Republic of China.
+FAU - Wu, Xiaopei
+AU  - Wu X
+AD  - Key Laboratory of Adaptation and Evolution of Plateau Biota, Northwest Institute 
+      of Plateau Biology, Chinese Academy of Sciences, Xining 810001, People's Republic 
+      of China; Graduate University of the Chinese Academy of Sciences, Beijing 100081, 
+      People's Republic of China.
+FAU - Liu, Demei
+AU  - Liu D
+AD  - Key Laboratory of Adaptation and Evolution of Plateau Biota, Northwest Institute 
+      of Plateau Biology, Chinese Academy of Sciences, Xining 810001, People's Republic 
+      of China.
+FAU - Song, Shengjing
+AU  - Song S
+AD  - College of Life Sciences, Northwest University, Xi'an 710069, People's Republic 
+      of China.
+FAU - Liu, Dengcai
+AU  - Liu D
+AD  - Key Laboratory of Adaptation and Evolution of Plateau Biota, Northwest Institute 
+      of Plateau Biology, Chinese Academy of Sciences, Xining 810001, People's Republic 
+      of China.
+FAU - Wang, Haiqing
+AU  - Wang H
+AD  - Key Laboratory of Adaptation and Evolution of Plateau Biota, Northwest Institute 
+      of Plateau Biology, Chinese Academy of Sciences, Xining 810001, People's Republic 
+      of China. Electronic address: wanghq@nwipb.cas.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160413
+PL  - United States
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+RN  - EC 1.14.11.- (Jumonji Domain-Containing Histone Demethylases)
+SB  - IM
+MH  - Adaptation, Physiological/genetics
+MH  - Alternative Splicing/*genetics
+MH  - Circadian Clocks/*genetics
+MH  - Cold Temperature
+MH  - Cold-Shock Response/*genetics
+MH  - Gene Expression Regulation, Plant/genetics
+MH  - Jumonji Domain-Containing Histone Demethylases/*genetics
+MH  - Medicago truncatula/*physiology
+MH  - Protein Domains/genetics
+OTO - NOTNLM
+OT  - Alternative splicing
+OT  - Cold stress
+OT  - JMJ30/JMJD5 ortholog
+OT  - JmjC domain-containing protein
+OT  - Medicago truncatula
+EDAT- 2016/04/18 06:00
+MHDA- 2017/05/11 06:00
+CRDT- 2016/04/18 06:00
+PHST- 2016/04/08 00:00 [received]
+PHST- 2016/04/12 00:00 [accepted]
+PHST- 2016/04/18 06:00 [entrez]
+PHST- 2016/04/18 06:00 [pubmed]
+PHST- 2017/05/11 06:00 [medline]
+AID - S0006-291X(16)30564-2 [pii]
+AID - 10.1016/j.bbrc.2016.04.062 [doi]
+PST - ppublish
+SO  - Biochem Biophys Res Commun. 2016 May 27;474(2):271-276. doi: 
+      10.1016/j.bbrc.2016.04.062. Epub 2016 Apr 13.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.15.01853  26884486  Sinharoy, Liu et al., 2016  Sinharoy S, Liu C, Breakspear A, Guan D, Shailes S, Nakashima J, Zhang S, Wen J, Torres-Jerez I, Oldroyd G, Murray JD, Udvardi MK. A Medicago truncatula Cystathionine-β-Synthase-like Domain-Containing Protein Is Required for Rhizobial Infection and Symbiotic Nitrogen Fixation. Plant Physiol. 2016 Apr;170(4):2204-17. doi: 10.1104/pp.15.01853. Epub 2016 Feb 16. PMID: 26884486; PMCID: PMC4825145. ##
 
 PMID- 26884486
@@ -6373,6 +7040,209 @@ SO  - Plants (Basel). 2024 Apr 2;13(7):1012. doi: 10.3390/plants13071012.
 
 
 ##### PUB RECORD #####
+## 10.1111/tpj.15494  34528312  Sun, Huang et al., 2021  Sun Q, Huang R, Zhu H, Sun Y, Guo Z. A novel Medicago truncatula calmodulin-like protein (MtCML42) regulates cold tolerance and flowering time. Plant J. 2021 Nov;108(4):1069-1082. doi: 10.1111/tpj.15494. Epub 2021 Sep 30. PMID: 34528312. ##
+
+PMID- 34528312
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220124
+LR  - 20220124
+IS  - 1365-313X (Electronic)
+IS  - 0960-7412 (Linking)
+VI  - 108
+IP  - 4
+DP  - 2021 Nov
+TI  - A novel Medicago truncatula calmodulin-like protein (MtCML42) regulates cold 
+      tolerance and flowering time.
+PG  - 1069-1082
+LID - 10.1111/tpj.15494 [doi]
+AB  - Calmodulin-like proteins (CMLs) are one of the Ca(2+) sensors in plants, but the 
+      functions of most CMLs remain unknown. The regulation of cold tolerance and 
+      flowering time by MtCML42 in Medicago truncatula and the underlying mechanisms 
+      were investigated using MtCML42-overexpressing plants and cml42 Medicago mutants 
+      with a Tnt1 retrotransposon insertion. Compared with the wild type (WT), 
+      MtCML42-overexpressing lines had increased cold tolerance, whereas cml42 mutants 
+      showed decreased cold tolerance. The impaired cold tolerance in cml42 could b 
+      complemented by MtCML42 expression. The transcript levels of MtCBF1, MtCBF4, 
+      MtCOR413, MtCAS15, MtLTI6A, MtGolS1 and MtGolS2 and the concentrations of 
+      raffinose and sucrose were increased in response to cold treatment, whereas 
+      higher levels were observed in MtCML42-overexpressing lines and lower levels were 
+      observed in cml42 mutants. In addition, early flowering with upregulated MtFTa1 
+      and downregulated MtABI5 transcripts was observed in MtCML42-overexpressing 
+      lines, whereas delayed flowering with downregulated MtFTa1 and upregulated MtABI5 
+      was observed in cml42. MtABI5 expression could complement the flowering phenotype 
+      in the Arabidopsis mutant abi5. Our results suggest that MtCML42 positively 
+      regulates MtCBF1 and MtCBF4 expression, which in turn upregulates the expression 
+      of some COR genes, MtGolS1 and MtGolS2, which leads to raffinose accumulation and 
+      increased cold tolerance. MtCML42 regulates flowering time through sequentially 
+      downregulating MtABI5 and upregulating MtFTa1 expression.
+CI  - (c) 2021 Society for Experimental Biology and John Wiley & Sons Ltd.
+FAU - Sun, Qiguo
+AU  - Sun Q
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing, 210095, 
+      China.
+FAU - Huang, Risheng
+AU  - Huang R
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing, 210095, 
+      China.
+FAU - Zhu, Haifeng
+AU  - Zhu H
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing, 210095, 
+      China.
+FAU - Sun, Yanmei
+AU  - Sun Y
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing, 210095, 
+      China.
+FAU - Guo, Zhenfei
+AU  - Guo Z
+AUID- ORCID: 0000-0001-6840-1589
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing, 210095, 
+      China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210930
+PL  - England
+TA  - Plant J
+JT  - The Plant journal : for cell and molecular biology
+JID - 9207397
+RN  - 0 (Calmodulin)
+RN  - 0 (Plant Proteins)
+RN  - N5O3QU595M (Raffinose)
+SB  - IM
+MH  - Calmodulin/genetics/*metabolism
+MH  - Cold Temperature
+MH  - Down-Regulation
+MH  - Flowers/genetics/physiology
+MH  - *Gene Expression Regulation, Plant
+MH  - Medicago truncatula/*genetics/physiology
+MH  - Phenotype
+MH  - Plant Proteins/genetics/metabolism
+MH  - Raffinose/*metabolism
+MH  - Stress, Physiological
+MH  - Up-Regulation
+OTO - NOTNLM
+OT  - COR genes
+OT  - GolS
+OT  - calmodulin-like protein
+OT  - cold tolerance
+OT  - flowering time
+OT  - raffinose
+EDAT- 2021/09/17 06:00
+MHDA- 2022/01/27 06:00
+CRDT- 2021/09/16 07:37
+PHST- 2021/09/02 00:00 [revised]
+PHST- 2021/03/13 00:00 [received]
+PHST- 2021/09/09 00:00 [accepted]
+PHST- 2021/09/17 06:00 [pubmed]
+PHST- 2022/01/27 06:00 [medline]
+PHST- 2021/09/16 07:37 [entrez]
+AID - 10.1111/tpj.15494 [doi]
+PST - ppublish
+SO  - Plant J. 2021 Nov;108(4):1069-1082. doi: 10.1111/tpj.15494. Epub 2021 Sep 30.
+
+
+##### PUB RECORD #####
+## 10.3390/ijms21197142  32992668  Sun, Yu et al., 2020  Sun Q, Yu S, Guo Z. <i>Calmodulin-Like (CML)</i> Gene Family in <i>Medicago truncatula</i>: Genome-Wide Identification, Characterization and Expression Analysis. Int J Mol Sci. 2020 Sep 27;21(19):7142. doi: 10.3390/ijms21197142. PMID: 32992668; PMCID: PMC7582678. ##
+
+PMID- 32992668
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210308
+LR  - 20240330
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 19
+DP  - 2020 Sep 27
+TI  - Calmodulin-Like (CML) Gene Family in Medicago truncatula: Genome-Wide 
+      Identification, Characterization and Expression Analysis.
+LID - 10.3390/ijms21197142 [doi]
+LID - 7142
+AB  - Calcium is an important second messenger in mediating adaptation responses of 
+      plants to abiotic and biotic stresses. Calmodulin-like (CML) protein is an 
+      important calcium-signaling protein that can sense and decode Ca(2+) signal in 
+      plants. Medicago truncatula is a model legume plant; however, investigations of 
+      MtCML proteins are limited. Using genome analysis and BLAST database searches, 
+      fifty MtCML proteins that possess EF-hand motifs were identified. Phylogenetic 
+      analysis showed that CML homologs between M. truncatula, Arabidopsis thaliana and 
+      Oryza sativa shared close relationships. Gene structure analysis revealed that 
+      these MtCML genes contained one to four conserved EF-hand motifs. All MtCMLs are 
+      localized to eight chromosomes and underwent gene duplication. In addition, MtCML 
+      genes were differentially expressed in different tissues of M. truncatula. 
+      Cis-acting elements in promoter region and expression analysis revealed the 
+      potential response of MtCML protein to abiotic stress and hormones. The results 
+      provide a basis of further functional research on the MtCML gene family and 
+      facilitate their potential use for applications in the genetic improvement on M. 
+      truncatula in drought, cold and salt stress environments.
+FAU - Sun, Qiguo
+AU  - Sun Q
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing 210095, 
+      China.
+FAU - Yu, Shuhan
+AU  - Yu S
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing 210095, 
+      China.
+FAU - Guo, Zhenfei
+AU  - Guo Z
+AUID- ORCID: 0000-0001-6840-1589
+AD  - College of Grassland Science, Nanjing Agricultural University, Nanjing 210095, 
+      China.
+LA  - eng
+GR  - 3203000041/The National Natural Science Foundation/
+PT  - Journal Article
+DEP - 20200927
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Calcium-Binding Proteins)
+RN  - 0 (Calmodulin)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Arabidopsis/genetics
+MH  - Calcium-Binding Proteins/chemistry/*genetics
+MH  - Calmodulin/chemistry/*genetics
+MH  - Chromosomes, Plant/genetics
+MH  - EF Hand Motifs
+MH  - Gene Duplication
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Plant
+MH  - *Genes, Plant
+MH  - Medicago truncatula/*genetics
+MH  - *Multigene Family
+MH  - Oryza/genetics
+MH  - Phylogeny
+MH  - Plant Proteins/chemistry/*genetics
+MH  - Stress, Physiological/genetics
+MH  - Transcriptome
+PMC - PMC7582678
+OTO - NOTNLM
+OT  - CML
+OT  - Medicago truncatula
+OT  - abiotic stress
+OT  - expression profiling
+OT  - promoter cis-acting element
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/10/01 06:00
+MHDA- 2021/03/09 06:00
+PMCR- 2020/10/01
+CRDT- 2020/09/30 01:01
+PHST- 2020/08/31 00:00 [received]
+PHST- 2020/09/24 00:00 [revised]
+PHST- 2020/09/25 00:00 [accepted]
+PHST- 2020/09/30 01:01 [entrez]
+PHST- 2020/10/01 06:00 [pubmed]
+PHST- 2021/03/09 06:00 [medline]
+PHST- 2020/10/01 00:00 [pmc-release]
+AID - ijms21197142 [pii]
+AID - ijms-21-07142 [pii]
+AID - 10.3390/ijms21197142 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Sep 27;21(19):7142. doi: 10.3390/ijms21197142.
+
+
+##### PUB RECORD #####
 ## 10.1093/pcp/pcy228  30476329  Valdés-López, Jayaraman et al., 2019  Valdés-López O, Jayaraman D, Maeda J, Delaux PM, Venkateshwaran M, Isidra-Arellano MC, Reyero-Saavedra MR, Sánchez-Correa MS, Verastegui-Vidal MA, Delgado-Buenrostro N, Van Ness L, Mysore KS, Wen J, Sussman MR, Ané JM. A Novel Positive Regulator of the Early Stages of Root Nodule Symbiosis Identified by Phosphoproteomics. Plant Cell Physiol. 2019 Mar 1;60(3):575-586. doi: 10.1093/pcp/pcy228. PMID: 30476329. ##
 
 PMID- 30476329
@@ -6641,6 +7511,259 @@ AID - TPC201500461RAR2 [pii]
 AID - 10.1105/tpc.15.00461 [doi]
 PST - ppublish
 SO  - Plant Cell. 2015 Dec;27(12):3410-24. doi: 10.1105/tpc.15.00461. Epub 2015 Dec 15.
+
+
+##### PUB RECORD #####
+## 10.1016/j.plaphy.2021.04.003  33845331  Wang, Guo et al., 2021  Wang S, Guo T, Shen Y, Wang Z, Kang J, Zhang J, Yi F, Yang Q, Long R. Overexpression of MtRAV3 enhances osmotic and salt tolerance and inhibits growth of Medicago truncatula. Plant Physiol Biochem. 2021 Jun;163:154-165. doi: 10.1016/j.plaphy.2021.04.003. Epub 2021 Apr 4. PMID: 33845331. ##
+
+PMID- 33845331
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210512
+LR  - 20210512
+IS  - 1873-2690 (Electronic)
+IS  - 0981-9428 (Linking)
+VI  - 163
+DP  - 2021 Jun
+TI  - Overexpression of MtRAV3 enhances osmotic and salt tolerance and inhibits growth 
+      of Medicago truncatula.
+PG  - 154-165
+LID - S0981-9428(21)00187-X [pii]
+LID - 10.1016/j.plaphy.2021.04.003 [doi]
+AB  - Related to ABI3/VP1 (RAV) transcription factors play important roles in 
+      regulating plant growth and stress tolerance, which have been studied in many 
+      plant species, but have remained largely unidentified in legumes. To functionally 
+      characterize RAV in legumes, MtRAV3 from legume model plant Medicago truncatula 
+      was isolated and its function was investigated by overexpressing MtRAV3 in M. 
+      truncatula. Expression analysis demonstrated that MtRAV3 was markedly induced by 
+      NaCl and polyethylene glycol (PEG). MtRAV3 overexpression enhanced tolerance of 
+      transgenic M. truncatula to mannitol, drought and salt stresses, and induced the 
+      expression of adversity-related genes, including MtWRKY76, MtMYB61, 
+      cold-acclimation specific protein 31 (MtCAS31), alternative oxidase 1 (MtAOX1) 
+      and ethylene response factor 1 (MtERF1). There were lower relative electrolyte 
+      leakage and higher chlorophyll content of leaves in the MtRAV3 overexpression 
+      plants than in wild type plants under both salt and drought stress. MtRAV3 
+      overexpression M. truncatula were featured by some phenotypes of dwarfing, late 
+      flowering, more branches, smaller flower and leaf organs. Further investigations 
+      showed that the expression levels of DWARF14 (MtD14), CAROTENOID CLEAVAGE 
+      DIOXYGENASES 7 (MtCCD7) and GA3-oxidase1 (MtGA3ox1), which related to dwarf and 
+      branch phenotype, were obviously reduced, as well as MtGA3ox1' (MTR_1g011580), 
+      GA20-oxidase1 (MtGA20ox1), MtGA20ox1' (MTR_1g102070) and GA20-oxidase2 
+      (MtGA20ox2) involved in gibberellins (GAs) pathway. Overall, our results revealed 
+      that MtRAV3 exerted an important role in adversity response and plant growth, was 
+      a multifunctional gene in M. truncatula, which provided reference for genetic 
+      improvement of alfalfa (Medicago sativa).
+CI  - Copyright (c) 2021 Elsevier Masson SAS. All rights reserved.
+FAU - Wang, Shumin
+AU  - Wang S
+AD  - Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 
+      100193, China; College of Agro-grassland Sciences, Nanjing Agricultural 
+      University, Nanjing, Jiangsu, 210095, China.
+FAU - Guo, Tao
+AU  - Guo T
+AD  - College of Grassland Science, Beijing Forestry University, Beijing, 100083, 
+      China.
+FAU - Shen, Yixin
+AU  - Shen Y
+AD  - College of Agro-grassland Sciences, Nanjing Agricultural University, Nanjing, 
+      Jiangsu, 210095, China.
+FAU - Wang, Zhen
+AU  - Wang Z
+AD  - Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 
+      100193, China.
+FAU - Kang, Junmei
+AU  - Kang J
+AD  - Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 
+      100193, China.
+FAU - Zhang, Jiaju
+AU  - Zhang J
+AD  - Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 
+      100193, China.
+FAU - Yi, Fengyan
+AU  - Yi F
+AD  - Inner Mongolia Academy of Agricultural and Animal Husbandry Sciences, Hohhot, 
+      010000, China.
+FAU - Yang, Qingchuan
+AU  - Yang Q
+AD  - Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 
+      100193, China. Electronic address: qchyang66@163.com.
+FAU - Long, Ruicai
+AU  - Long R
+AD  - Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 
+      100193, China. Electronic address: dragongodsgod@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20210404
+PL  - France
+TA  - Plant Physiol Biochem
+JT  - Plant physiology and biochemistry : PPB
+JID - 9882449
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Droughts
+MH  - Gene Expression Regulation, Plant
+MH  - Medicago sativa/metabolism
+MH  - *Medicago truncatula/genetics/metabolism
+MH  - Plant Proteins/genetics/metabolism
+MH  - Salt Tolerance/genetics
+OTO - NOTNLM
+OT  - Flowering time
+OT  - Medicago truncatula
+OT  - Osmotic and salt tolerance
+OT  - Plant architecture
+OT  - RAV transcription Factor
+EDAT- 2021/04/13 06:00
+MHDA- 2021/05/13 06:00
+CRDT- 2021/04/12 20:21
+PHST- 2021/01/29 00:00 [received]
+PHST- 2021/04/01 00:00 [accepted]
+PHST- 2021/04/13 06:00 [pubmed]
+PHST- 2021/05/13 06:00 [medline]
+PHST- 2021/04/12 20:21 [entrez]
+AID - S0981-9428(21)00187-X [pii]
+AID - 10.1016/j.plaphy.2021.04.003 [doi]
+PST - ppublish
+SO  - Plant Physiol Biochem. 2021 Jun;163:154-165. doi: 10.1016/j.plaphy.2021.04.003. 
+      Epub 2021 Apr 4.
+
+
+##### PUB RECORD #####
+## 10.1016/j.jia.2023.12.032  null  Wang, Guo et al., 2025  WARNING Citation not reported, given DOI only. Title: Functional identification of Medicago truncatula MtRAV1 in regulating growth and development ##
+## Skipping retrieval of this record because there is no pubmed ID ##
+
+##### PUB RECORD #####
+## 10.1038/s41477-020-0683-6  32514144  Wang, Huang et al., 2020  Wang Q, Huang Y, Ren Z, Zhang X, Ren J, Su J, Zhang C, Tian J, Yu Y, Gao GF, Li L, Kong Z. Transfer cells mediate nitrate uptake to control root nodule symbiosis. Nat Plants. 2020 Jul;6(7):800-808. doi: 10.1038/s41477-020-0683-6. Epub 2020 Jun 8. PMID: 32514144. ##
+
+PMID- 32514144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210317
+LR  - 20211204
+IS  - 2055-0278 (Electronic)
+IS  - 2055-0278 (Linking)
+VI  - 6
+IP  - 7
+DP  - 2020 Jul
+TI  - Transfer cells mediate nitrate uptake to control root nodule symbiosis.
+PG  - 800-808
+LID - 10.1038/s41477-020-0683-6 [doi]
+AB  - Root nodule symbiosis enables nitrogen fixation in legumes and, therefore, 
+      improves crop production for sustainable agriculture(1,2). Environmental nitrate 
+      levels affect nodulation and nitrogen fixation, but the mechanisms by which 
+      legume plants modulate nitrate uptake to regulate nodule symbiosis remain 
+      unclear(1). Here, we identify a member of the Medicago truncatula nitrate peptide 
+      family (NPF), NPF7.6, which is expressed specifically in the nodule vasculature. 
+      NPF7.6 localizes to the plasma membrane of nodule transfer cells (NTCs), where it 
+      functions as a high-affinity nitrate transporter. Transfer cells show 
+      characteristic wall ingrowths that enhance the capacity for membrane transport at 
+      the apoplasmic-symplasmic interface between the vasculature and surrounding 
+      tissues(3). Importantly, knockout of NPF7.6 using CRISPR-Cas9 resulted in 
+      developmental defects of the nodule vasculature, with excessive expansion of NTC 
+      plasma membranes. npf7.6 nodules showed severely compromised nitrate 
+      responsiveness caused by an attenuated ability to transport nitrate. Moreover, 
+      npf7.6 nodules exhibited disturbed nitric oxide homeostasis and a notable 
+      decrease in nitrogenase activity. Our findings indicate that NPF7.6 has been 
+      co-opted into a regulatory role in nodulation, functioning in nitrate uptake 
+      through NTCs to fine-tune nodule symbiosis in response to fluctuating 
+      environmental nitrate status. These observations will inform efforts to optimize 
+      nitrogen fixation in legume crops.
+FAU - Wang, Qi
+AU  - Wang Q
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+FAU - Huang, Yige
+AU  - Huang Y
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+AD  - College of Advanced Agricultural Sciences, University of Chinese Academy of 
+      Sciences, Beijing, China.
+FAU - Ren, Zhijie
+AU  - Ren Z
+AD  - College of Life Sciences, Capital Normal University, Beijing, China.
+FAU - Zhang, Xiaxia
+AU  - Zhang X
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+AD  - College of Advanced Agricultural Sciences, University of Chinese Academy of 
+      Sciences, Beijing, China.
+FAU - Ren, Jing
+AU  - Ren J
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+AD  - College of Advanced Agricultural Sciences, University of Chinese Academy of 
+      Sciences, Beijing, China.
+FAU - Su, Jiaqi
+AU  - Su J
+AD  - Chinese Academy of Sciences Key Laboratory of Pathogenic Microbiology and 
+      Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 
+      China.
+FAU - Zhang, Chen
+AU  - Zhang C
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+AD  - College of Advanced Agricultural Sciences, University of Chinese Academy of 
+      Sciences, Beijing, China.
+FAU - Tian, Juan
+AU  - Tian J
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+FAU - Yu, Yanjun
+AU  - Yu Y
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China.
+FAU - Gao, George F
+AU  - Gao GF
+AUID- ORCID: 0000-0002-3869-615X
+AD  - Chinese Academy of Sciences Key Laboratory of Pathogenic Microbiology and 
+      Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 
+      China.
+FAU - Li, Legong
+AU  - Li L
+AUID- ORCID: 0000-0003-3371-7561
+AD  - College of Life Sciences, Capital Normal University, Beijing, China.
+FAU - Kong, Zhaosheng
+AU  - Kong Z
+AUID- ORCID: 0000-0003-3788-7883
+AD  - State Key Laboratory of Plant Genomics, Institute of Microbiology, Innovative 
+      Academy of Seed Design, Chinese Academy of Sciences, Beijing, China. 
+      zskong@im.ac.cn.
+AD  - College of Advanced Agricultural Sciences, University of Chinese Academy of 
+      Sciences, Beijing, China. zskong@im.ac.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20200608
+PL  - England
+TA  - Nat Plants
+JT  - Nature plants
+JID - 101651677
+RN  - 0 (Anion Transport Proteins)
+RN  - 0 (Nitrate Transporters)
+RN  - 0 (Nitrates)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Anion Transport Proteins/metabolism
+MH  - Biological Transport
+MH  - Cell Membrane/metabolism
+MH  - Medicago truncatula/metabolism
+MH  - Nitrate Transporters
+MH  - Nitrates/*metabolism
+MH  - Nitrogen Fixation
+MH  - Plant Proteins/metabolism
+MH  - Root Nodules, Plant/cytology/*metabolism/physiology
+MH  - *Symbiosis
+EDAT- 2020/06/10 06:00
+MHDA- 2021/03/18 06:00
+CRDT- 2020/06/10 06:00
+PHST- 2019/05/03 00:00 [received]
+PHST- 2020/04/29 00:00 [accepted]
+PHST- 2020/06/10 06:00 [pubmed]
+PHST- 2021/03/18 06:00 [medline]
+PHST- 2020/06/10 06:00 [entrez]
+AID - 10.1038/s41477-020-0683-6 [pii]
+AID - 10.1038/s41477-020-0683-6 [doi]
+PST - ppublish
+SO  - Nat Plants. 2020 Jul;6(7):800-808. doi: 10.1038/s41477-020-0683-6. Epub 2020 Jun 
+      8.
 
 
 ##### PUB RECORD #####
@@ -7112,6 +8235,108 @@ SO  - New Phytol. 2016 Oct;212(1):176-91. doi: 10.1111/nph.14017. Epub 2016 Jun 
 
 
 ##### PUB RECORD #####
+## 10.1371/journal.pone.0058952  23593126  Wang, Zhang et al., 2013  Wang TZ, Zhang JL, Tian QY, Zhao MG, Zhang WH. A Medicago truncatula EF-hand family gene, MtCaMP1, is involved in drought and salt stress tolerance. PLoS One. 2013 Apr 8;8(4):e58952. doi: 10.1371/journal.pone.0058952. PMID: 23593126; PMCID: PMC3620156. ##
+
+PMID- 23593126
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131105
+LR  - 20240313
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 8
+IP  - 4
+DP  - 2013
+TI  - A Medicago truncatula EF-hand family gene, MtCaMP1, is involved in drought and 
+      salt stress tolerance.
+PG  - e58952
+LID - 10.1371/journal.pone.0058952 [doi]
+LID - e58952
+AB  - BACKGROUND: Calcium-binding proteins that contain EF-hand motifs have been 
+      reported to play important roles in transduction of signals associated with 
+      biotic and abiotic stresses. To functionally characterize genes of EF-hand family 
+      in response to abiotic stress, an MtCaMP1 gene belonging to EF-hand family from 
+      legume model plant Medicago truncatula was isolated and its function in response 
+      to drought and salt stress was investigated by expressing MtCaMP1 in Arabidopsis. 
+      METHODOLOGY/PRINCIPAL FINDINGS: Transgenic Arabidopsis seedlings expressing 
+      MtCaMP1 exhibited higher survival rate than wild-type seedlings under drought and 
+      salt stress, suggesting that expression of MtCaMP1 confers tolerance of 
+      Arabidopsis to drought and salt stress. The transgenic plants accumulated greater 
+      amounts of Pro due to up-regulation of P5CS1 and down-regulation of ProDH than 
+      wild-type plants under drought stress. There was a less accumulation of Na(+) in 
+      the transgenic plants than in WT plants due to reduced up-regulation of AtHKT1 
+      and enhanced regulation of AtNHX1 in the transgenic plants compared to WT plants 
+      under salt stress. There was a reduced accumulation of H2O2 and malondialdehyde 
+      in the transgenic plants than in WT plants under both drought and salt stress. 
+      CONCLUSIONS/SIGNIFICANCE: The expression of MtCaMP1 in Arabidopsis enhanced 
+      tolerance of the transgenic plants to drought and salt stress by effective 
+      osmo-regulation due to greater accumulation of Pro and by minimizing toxic Na(+) 
+      accumulation, respectively. The enhanced accumulation of Pro and reduced 
+      accumulation of Na(+) under drought and salt stress would protect plants from 
+      water default and Na(+) toxicity, and alleviate the associated oxidative stress. 
+      These findings demonstrate that MtCaMP1 encodes a stress-responsive EF-hand 
+      protein that plays a regulatory role in response of plants to drought and salt 
+      stress.
+FAU - Wang, Tian-Zuo
+AU  - Wang TZ
+AD  - State Key Laboratory of Vegetation and Environmental Change, Institute of Botany, 
+      The Chinese Academy of Sciences, Beijing, PR China. whzhang@ibcas.ac.cn
+FAU - Zhang, Jin-Li
+AU  - Zhang JL
+FAU - Tian, Qiu-Ying
+AU  - Tian QY
+FAU - Zhao, Min-Gui
+AU  - Zhao MG
+FAU - Zhang, Wen-Hao
+AU  - Zhang WH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130408
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Plant Proteins)
+RN  - 0 (Salts)
+RN  - 4Y8F71G49Q (Malondialdehyde)
+RN  - 9DLQ4CIU6V (Proline)
+RN  - 9NEZ333N27 (Sodium)
+RN  - BBX060AN9V (Hydrogen Peroxide)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Arabidopsis/drug effects/genetics/metabolism/physiology
+MH  - *Droughts
+MH  - *EF Hand Motifs
+MH  - Hydrogen Peroxide/metabolism
+MH  - Malondialdehyde/metabolism
+MH  - Medicago truncatula/drug effects/*genetics/physiology
+MH  - Molecular Sequence Data
+MH  - Plant Proteins/*chemistry/genetics/isolation & purification/*metabolism
+MH  - Plants, Genetically Modified
+MH  - Proline/metabolism
+MH  - Salts/*pharmacology
+MH  - Sodium/metabolism
+MH  - Stress, Physiological/drug effects/*genetics
+PMC - PMC3620156
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2013/04/18 06:00
+MHDA- 2013/11/06 06:00
+PMCR- 2013/04/08
+CRDT- 2013/04/18 06:00
+PHST- 2012/11/06 00:00 [received]
+PHST- 2013/02/08 00:00 [accepted]
+PHST- 2013/04/18 06:00 [entrez]
+PHST- 2013/04/18 06:00 [pubmed]
+PHST- 2013/11/06 06:00 [medline]
+PHST- 2013/04/08 00:00 [pmc-release]
+AID - PONE-D-12-34310 [pii]
+AID - 10.1371/journal.pone.0058952 [doi]
+PST - epublish
+SO  - PLoS One. 2013 Apr 8;8(4):e58952. doi: 10.1371/journal.pone.0058952. Print 2013.
+
+
+##### PUB RECORD #####
 ## 10.1104/pp.15.00164  25792252  Weller, Foo et al., 2015  Weller JL, Foo EM, Hecht V, Ridge S, Vander Schoor JK, Reid JB. Ethylene Signaling Influences Light-Regulated Development in Pea. Plant Physiol. 2015 Sep;169(1):115-24. doi: 10.1104/pp.15.00164. Epub 2015 Mar 19. PMID: 25792252; PMCID: PMC4577373. ##
 
 PMID- 25792252
@@ -7379,6 +8604,149 @@ AID - ijms-25-10410 [pii]
 AID - 10.3390/ijms251910410 [doi]
 PST - epublish
 SO  - Int J Mol Sci. 2024 Sep 27;25(19):10410. doi: 10.3390/ijms251910410.
+
+
+##### PUB RECORD #####
+## 10.1016/j.indcrop.2022.116125  null  Yuan, Long et al., 2023  WARNING Citation not reported, given DOI only. Title: MADS-box protein MtSOC1c regulates flowering and seed development in Medicago truncatula ##
+## Skipping retrieval of this record because there is no pubmed ID ##
+
+##### PUB RECORD #####
+## 10.1093/jxb/eraa364  32964922  Zhang, He et al., 2020  Zhang X, He L, Zhao B, Zhou S, Li Y, He H, Bai Q, Zhao W, Guo S, Liu Y, Chen J. Dwarf and Increased Branching 1 controls plant height and axillary bud outgrowth in Medicago truncatula. J Exp Bot. 2020 Oct 22;71(20):6355-6365. doi: 10.1093/jxb/eraa364. PMID: 32964922. ##
+
+PMID- 32964922
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20220531
+IS  - 1460-2431 (Electronic)
+IS  - 0022-0957 (Linking)
+VI  - 71
+IP  - 20
+DP  - 2020 Oct 22
+TI  - Dwarf and Increased Branching 1 controls plant height and axillary bud outgrowth 
+      in Medicago truncatula.
+PG  - 6355-6365
+LID - 10.1093/jxb/eraa364 [doi]
+AB  - Optimizing plant architecture is an efficient approach for breeders to increase 
+      crop yields, and phytohormones such as gibberellins (GAs) play an important role 
+      in controlling growth. Medicago truncatula is a model legume species, but the 
+      molecular mechanisms underlying its architecture are largely unknown. In this 
+      study, we examined a tobacco retrotransposon Tnt1-tagged mutant collection of M. 
+      truncatula and identified dwarf and increased branching 1 (dib1), which exhibited 
+      extreme dwarfism and increased numbers of lateral branches. By analysis of the 
+      flanking sequences of Tnt1 insertions in different alleles of the tagged lines, 
+      we were able to clone DIB1. Linkage analysis and reverse screening of the 
+      flanking-sequence tags identified Medtr2g102570 as the gene corresponding to the 
+      DIB1 locus in the dib1 loss-of-function mutants. Phylogenetic analysis indicated 
+      that DIB1 was the ortholog of PsGA3ox1/Le in Pisum sativum. Expression analysis 
+      using a GUS-staining reporter line showed that DIB1 was expressed in the root 
+      apex, pods, and immature seeds. Endogenous GA4 concentrations were markedly 
+      decreased whilst some of representative GA biosynthetic enzymes were up-regulated 
+      in the dib1 mutant. In addition, exogenous application of GA3 rescued the dib1 
+      mutant phenotypes. Overall, our results suggest that DIB1 controls plant height 
+      and axillary bud outgrowth via an influence on the biosynthesis of bioactive GAs. 
+      DIB1 could therefore be a good candidate gene for breeders to optimize plant 
+      architecture for crop improvement.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the 
+      Society for Experimental Biology. All rights reserved. For permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Zhang, Xiaojia
+AU  - Zhang X
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - He, Liangliang
+AU  - He L
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Zhao, Baolin
+AU  - Zhao B
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+FAU - Zhou, Shaoli
+AU  - Zhou S
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Li, Youhan
+AU  - Li Y
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+FAU - He, Hua
+AU  - He H
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+FAU - Bai, Quanzi
+AU  - Bai Q
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Zhao, Weiyue
+AU  - Zhao W
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Guo, Shiqi
+AU  - Guo S
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Liu, Yu
+AU  - Liu Y
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+FAU - Chen, Jianghua
+AU  - Chen J
+AD  - CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, CAS Center 
+      for Excellence in Molecular Plant Sciences, Xishuangbanna Tropical Botanical 
+      Garden, Chinese Academy of Sciences, Kunming, Yunnan Province, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Exp Bot
+JT  - Journal of experimental botany
+JID - 9882906
+RN  - 0 (Gibberellins)
+RN  - 0 (Plant Growth Regulators)
+RN  - 0 (Plant Proteins)
+SB  - IM
+MH  - Gene Expression Regulation, Plant
+MH  - Gibberellins
+MH  - *Medicago truncatula/genetics/metabolism
+MH  - Phylogeny
+MH  - Plant Growth Regulators
+MH  - Plant Proteins/genetics/metabolism
+OTO - NOTNLM
+OT  - Medicago truncatula
+OT  - dib1
+OT  - Axillary bud outgrowth
+OT  - gibberellins
+OT  - plant architecture
+OT  - plant height
+EDAT- 2020/09/24 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2020/09/23 09:03
+PHST- 2020/04/12 00:00 [received]
+PHST- 2020/08/11 00:00 [accepted]
+PHST- 2020/09/24 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+PHST- 2020/09/23 09:03 [entrez]
+AID - 5910386 [pii]
+AID - 10.1093/jxb/eraa364 [doi]
+PST - ppublish
+SO  - J Exp Bot. 2020 Oct 22;71(20):6355-6365. doi: 10.1093/jxb/eraa364.
 
 
 ##### PUB RECORD #####

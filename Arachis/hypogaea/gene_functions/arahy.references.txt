@@ -1,4 +1,8 @@
 ##### PUB RECORD #####
+## 10.1038/s41588-026-02577-z  null  Bian, Zhang et al., 2026  WARNING Citation not reported, given DOI only. Title: Telomere-to-telomere genome assemblies and population resequencing of diploid and allotetraploid peanut varieties ##
+## Skipping retrieval of this record because there is no pubmed ID ##
+
+##### PUB RECORD #####
 ## 10.1016/j.molp.2019.03.005  30902685  Chen, Lu et al., 2019  Chen X, Lu Q, Liu H, Zhang J, Hong Y, Lan H, Li H, Wang J, Liu H, Li S, Pandey MK, Zhang Z, Zhou G, Yu J, Zhang G, Yuan J, Li X, Wen S, Meng F, Yu S, Wang X, Siddique KHM, Liu ZJ, Paterson AH, Varshney RK, Liang X. Sequencing of Cultivated Peanut, Arachis hypogaea, Yields Insights into Genome Evolution and Oil Improvement. Mol Plant. 2019 Jul 1;12(7):920-934. doi: 10.1016/j.molp.2019.03.005. Epub 2019 Mar 19. PMID: 30902685. ##
 
 PMID- 30902685
@@ -425,6 +429,10 @@ SO  - Front Plant Sci. 2016 Sep 30;7:1446. doi: 10.3389/fpls.2016.01446. eCollec
 
 
 ##### PUB RECORD #####
+## 10.1038/s41467-020-16403-5  null  Dong, Sun et al., 2020  WARNING Citation not reported, given DOI only. Title: UDP-glucosyltransferase regulates grain size and abiotic stress tolerance associated with metabolic flux redirection in rice ##
+## Skipping retrieval of this record because there is no pubmed ID ##
+
+##### PUB RECORD #####
 ## 10.1111/pbi.13311  31808273  Gangurde, Wang et al., 2020  Gangurde SS, Wang H, Yaduru S, Pandey MK, Fountain JC, Chu Y, Isleib T, Holbrook CC, Xavier A, Culbreath AK, Ozias-Akins P, Varshney RK, Guo B. Nested-association mapping (NAM)-based genetic dissection uncovers candidate genes for seed and pod weights in peanut (Arachis hypogaea). Plant Biotechnol J. 2020 Jun;18(6):1457-1471. doi: 10.1111/pbi.13311. Epub 2019 Dec 25. PMID: 31808273; PMCID: PMC7206994. ##
 
 PMID- 31808273
@@ -562,6 +570,10 @@ SO  - Plant Biotechnol J. 2020 Jun;18(6):1457-1471. doi: 10.1111/pbi.13311. Epub
 
 
 ##### PUB RECORD #####
+## 10.3390/plants8070238  null  Kong, Yuan et al., 2019  WARNING Citation not reported, given DOI only. Title: WRINKLED1, a “Master Regulator” in Transcriptional Control of Plant Oil Biosynthesis ##
+## Skipping retrieval of this record because there is no pubmed ID ##
+
+##### PUB RECORD #####
 ## 10.1016/j.plaphy.2025.110475  40915113  Li, Li et al., 2025  Li J, Li M, Dai Y, Lai S, Zhang S. The role of XTHs in cell wall immobilization of metal ions. Plant Physiol Biochem. 2025 Dec;229(Pt B):110475. doi: 10.1016/j.plaphy.2025.110475. Epub 2025 Sep 3. PMID: 40915113. ##
 
 PMID- 40915113
@@ -673,7 +685,7 @@ PMID- 38378864
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240315
-LR  - 20240317
+LR  - 20261010
 IS  - 1546-1718 (Electronic)
 IS  - 1061-4036 (Linking)
 VI  - 56
@@ -960,6 +972,10 @@ SO  - Plant Physiol Biochem. 2023 Jan;194:161-168. doi: 10.1016/j.plaphy.2022.11
 
 
 ##### PUB RECORD #####
+## 10.1016/j.cj.2026.02.009  null  Ma, Fan et al., 2026  WARNING Citation not reported, given DOI only. Title: The leucine-rich repeat receptor-like kinase AhZAR1 regulates early seed development in peanut ##
+## Skipping retrieval of this record because there is no pubmed ID ##
+
+##### PUB RECORD #####
 ## 10.1186/s12870-023-04656-3  38062387  Ouyang, Liu et al., 2023  Ouyang L, Liu Y, Yao R, He D, Yan L, Chen Y, Huai D, Wang Z, Yu B, Kang Y, Jiang H, Lei Y, Liao B, Wang X. Genome-wide analysis of UDP-glycosyltransferase gene family and identification of a flavonoid 7-O-UGT (AhUGT75A) enhancing abiotic stress in peanut (Arachis hypogaea L.). BMC Plant Biol. 2023 Dec 7;23(1):626. doi: 10.1186/s12870-023-04656-3. PMID: 38062387; PMCID: PMC10702079. ##
 
 PMID- 38062387
@@ -1130,13 +1146,130 @@ SO  - BMC Plant Biol. 2023 Dec 7;23(1):626. doi: 10.1186/s12870-023-04656-3.
 
 
 ##### PUB RECORD #####
+## 10.1016/j.plantsci.2024.112275  39341375  Pan, Li et al., 2024  Pan C, Li X, Jian C, Zhou Y, Wang A, Xiao D, Zhan J, He L. AhGSNOR1 negatively regulates Al-induced programmed cell death by regulating intracellular NO and redox levels. Plant Sci. 2024 Dec;349:112275. doi: 10.1016/j.plantsci.2024.112275. Epub 2024 Sep 26. PMID: 39341375. ##
+
+PMID- 39341375
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241026
+LR  - 20241104
+IS  - 1873-2259 (Electronic)
+IS  - 0168-9452 (Linking)
+VI  - 349
+DP  - 2024 Dec
+TI  - AhGSNOR1 negatively regulates Al-induced programmed cell death by regulating 
+      intracellular NO and redox levels.
+PG  - 112275
+LID - S0168-9452(24)00302-9 [pii]
+LID - 10.1016/j.plantsci.2024.112275 [doi]
+AB  - The toxicity of aluminum (Al) in acidic soil inhibits plant development and 
+      reduces crop yields. Programmed cell death (PCD) is one of the important 
+      mechanisms in the plant response to Al toxicity. However, it is yet unknown if 
+      S-nitrosoglutathione reductase (GSNOR) provides Al-PCD. Here, transcription and 
+      protein expression of AhGSNOR1 were both induced by Al stress. 
+      AhGSNOR1-overexpressing transgenic tobacco plants reduced Al-induced nitric oxide 
+      (NO) and S-nitrosothiol accumulation, the inhibitory effect of Al stress on root 
+      elongation and the degree of cell death, and enhanced antioxidant enzyme activity 
+      to effectively remove hydrogen peroxide. In addition, AhGSNOR1 directly 
+      interacted with AhTRXh in vivo. Expression of Trxh3 in AhGSNOR1-overexpressing 
+      transgenic plants was significantly upregulated, indicating that AhGSNOR1 
+      positively regulated the transcriptional level of Trxh3. Together, these results 
+      suggested that AhGSNOR1 was a negative regulatory factor of Al-induced PCD and 
+      improved plant Al-tolerance by modulating intracellular NO and redox homeostasis.
+CI  - Copyright (c) 2024. Published by Elsevier B.V.
+FAU - Pan, Chunliu
+AU  - Pan C
+AD  - Guangxi Key Laboratory of Agro-Environment and Agro-Products Safety, Guangxi 
+      University, Nanning, 530004, China; Guangxi Botanical Garden of Medicinal Plants, 
+      Nanning, 530004, China; College of Agriculture, Guangxi University, Nanning, 
+      530004, China.
+FAU - Li, Xia
+AU  - Li X
+AD  - College of Agriculture, Guangxi University, Nanning, 530004, China.
+FAU - Jian, Changge
+AU  - Jian C
+AD  - College of Agriculture, Guangxi University, Nanning, 530004, China.
+FAU - Zhou, Yunyi
+AU  - Zhou Y
+AD  - Guangxi Botanical Garden of Medicinal Plants, Nanning, 530004, China.
+FAU - Wang, Aiqin
+AU  - Wang A
+AD  - Guangxi Key Laboratory of Agro-Environment and Agro-Products Safety, Guangxi 
+      University, Nanning, 530004, China; College of Agriculture, Guangxi University, 
+      Nanning, 530004, China; Key Laboratory of Crop Cultivation and Tillage, Guangxi 
+      University, Nanning, 530004, China.
+FAU - Xiao, Dong
+AU  - Xiao D
+AD  - Guangxi Key Laboratory of Agro-Environment and Agro-Products Safety, Guangxi 
+      University, Nanning, 530004, China; College of Agriculture, Guangxi University, 
+      Nanning, 530004, China; Key Laboratory of Crop Cultivation and Tillage, Guangxi 
+      University, Nanning, 530004, China.
+FAU - Zhan, Jie
+AU  - Zhan J
+AD  - Guangxi Key Laboratory of Agro-Environment and Agro-Products Safety, Guangxi 
+      University, Nanning, 530004, China; College of Agriculture, Guangxi University, 
+      Nanning, 530004, China; Key Laboratory of Crop Cultivation and Tillage, Guangxi 
+      University, Nanning, 530004, China. Electronic address: may2399@163.com.
+FAU - He, Longfei
+AU  - He L
+AD  - Guangxi Key Laboratory of Agro-Environment and Agro-Products Safety, Guangxi 
+      University, Nanning, 530004, China; College of Agriculture, Guangxi University, 
+      Nanning, 530004, China; Key Laboratory of Crop Cultivation and Tillage, Guangxi 
+      University, Nanning, 530004, China. Electronic address: lfhe@gxu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20240926
+PL  - Ireland
+TA  - Plant Sci
+JT  - Plant science : an international journal of experimental plant biology
+JID - 9882015
+RN  - CPD4NFA903 (Aluminum)
+RN  - 31C4KY9ESH (Nitric Oxide)
+RN  - EC 1.2.- (Aldehyde Oxidoreductases)
+RN  - EC 1.2.1.46 (formaldehyde dehydrogenase, glutathione-independent)
+SB  - IM
+MH  - *Aluminum/toxicity
+MH  - *Nitric Oxide/metabolism
+MH  - *Nicotiana/genetics/metabolism/physiology
+MH  - *Plants, Genetically Modified
+MH  - *Oxidation-Reduction
+MH  - Gene Expression Regulation, Plant
+MH  - Apoptosis
+MH  - Aldehyde Oxidoreductases/metabolism/genetics
+OTO - NOTNLM
+OT  - AhGSNOR1
+OT  - AhTRXh
+OT  - Al stress
+OT  - Peanut
+OT  - Programmed cell death
+OT  - Reactive oxygen species
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/09/29 00:42
+MHDA- 2024/10/27 17:12
+CRDT- 2024/09/28 19:18
+PHST- 2024/04/06 00:00 [received]
+PHST- 2024/08/24 00:00 [revised]
+PHST- 2024/09/25 00:00 [accepted]
+PHST- 2024/10/27 17:12 [medline]
+PHST- 2024/09/29 00:42 [pubmed]
+PHST- 2024/09/28 19:18 [entrez]
+AID - S0168-9452(24)00302-9 [pii]
+AID - 10.1016/j.plantsci.2024.112275 [doi]
+PST - ppublish
+SO  - Plant Sci. 2024 Dec;349:112275. doi: 10.1016/j.plantsci.2024.112275. Epub 2024 
+      Sep 26.
+
+
+##### PUB RECORD #####
 ## 10.1007/s00122-025-04903-1  40358622  Tang, Zhou et al., 2025  Tang Y, Zhou X, Li X, Zhou C, Wang W, Zhou M, Hu Z, Li X, Zhang K, Wang S, Zhang Z, Chen H, Wang J, Qiao L. Genetic analysis and fine mapping reveal that AhRt3, which encodes an anthocyanin reductase, is responsible for red testa in cultivated peanuts. Theor Appl Genet. 2025 May 13;138(6):117. doi: 10.1007/s00122-025-04903-1. PMID: 40358622. ##
 
 PMID- 40358622
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250513
-LR  - 20250615
+LR  - 20261103
 IS  - 1432-2242 (Electronic)
 IS  - 0040-5752 (Linking)
 VI  - 138
@@ -1554,7 +1687,7 @@ PMID- 27311738
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170905
-LR  - 20231213
+LR  - 20260923
 IS  - 1467-7652 (Electronic)
 IS  - 1467-7644 (Print)
 IS  - 1467-7644 (Linking)
@@ -1724,6 +1857,145 @@ AID - 10.1111/pbi.12589 [doi]
 PST - ppublish
 SO  - Plant Biotechnol J. 2017 Jan;15(1):39-55. doi: 10.1111/pbi.12589. Epub 2016 Jul 
       26.
+
+
+##### PUB RECORD #####
+## 10.1038/s41588-025-02170-w  40295880  Zhao, Xue et al., 2025  Zhao K, Xue H, Li G, Chitikineni A, Fan Y, Cao Z, Dong X, Lu H, Zhao K, Zhang L, Qiu D, Ren R, Gong F, Li Z, Ma X, Wan S, Varshney RK, Wei C, Yin D. Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut. Nat Genet. 2025 May;57(5):1250-1261. doi: 10.1038/s41588-025-02170-w. Epub 2025 Apr 28. PMID: 40295880; PMCID: PMC12081311. ##
+
+PMID- 40295880
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250516
+LR  - 20250518
+IS  - 1546-1718 (Electronic)
+IS  - 1061-4036 (Print)
+IS  - 1061-4036 (Linking)
+VI  - 57
+IP  - 5
+DP  - 2025 May
+TI  - Pangenome analysis reveals structural variation associated with seed size and 
+      weight traits in peanut.
+PG  - 1250-1261
+LID - 10.1038/s41588-025-02170-w [doi]
+AB  - Peanut (Arachis hypogaea L.) is an important oilseed and food legume crop, with 
+      seed size and weight being critical traits for domestication and breeding. 
+      However, genomic rearrangements like structural variations (SVs) underlying seed 
+      size and weight remain unclear. Here we present a comprehensive pangenome 
+      analysis utilizing eight high-quality genomes (two diploid wild, two tetraploid 
+      wild and four tetraploid cultivated peanuts) and resequencing data of 269 
+      accessions with diverse seed sizes. We identified 22,222 core or soft-core, 
+      22,232 distributed and 5,643 private gene families. The frequency of SVs in 
+      subgenome A is higher than in subgenome B. We identified 1,335 
+      domestication-related SVs and 190 SVs associated with seed size or weight. 
+      Notably, a 275-bp deletion in gene AhARF2-2 results in loss of interaction with 
+      AhIAA13 and TOPLESS, reducing the inhibitory effect on AhGRF5 and promoting seed 
+      expansion. This high-quality pangenome serves as a fundamental resource for the 
+      genetic enhancement of peanuts and other legume crops.
+CI  - (c) 2025. The Author(s).
+FAU - Zhao, Kunkun
+AU  - Zhao K
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Xue, Hongzhang
+AU  - Xue H
+AD  - School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 
+      Shanghai, China.
+FAU - Li, Guowei
+AU  - Li G
+AD  - Institute of Crop Germplasm Resources, Shandong Academy of Agricultural Sciences, 
+      Ji'nan, China.
+FAU - Chitikineni, Annapurna
+AU  - Chitikineni A
+AUID- ORCID: 0000-0002-1058-2900
+AD  - WA State Biotechnology Centre, Centre for Crop and Food Innovation, Food Futures 
+      Institute, Murdoch University, Murdoch, Western Australia, Australia.
+FAU - Fan, Yi
+AU  - Fan Y
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Cao, Zenghui
+AU  - Cao Z
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Dong, Xiaorui
+AU  - Dong X
+AD  - School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 
+      Shanghai, China.
+FAU - Lu, Huimin
+AU  - Lu H
+AD  - School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 
+      Shanghai, China.
+FAU - Zhao, Kai
+AU  - Zhao K
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Zhang, Lin
+AU  - Zhang L
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Qiu, Ding
+AU  - Qiu D
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Ren, Rui
+AU  - Ren R
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Gong, Fangping
+AU  - Gong F
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Li, Zhongfeng
+AU  - Li Z
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Ma, Xingli
+AU  - Ma X
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China.
+FAU - Wan, Shubo
+AU  - Wan S
+AD  - Institute of Crop Germplasm Resources, Shandong Academy of Agricultural Sciences, 
+      Ji'nan, China.
+FAU - Varshney, Rajeev K
+AU  - Varshney RK
+AUID- ORCID: 0000-0002-4562-9131
+AD  - WA State Biotechnology Centre, Centre for Crop and Food Innovation, Food Futures 
+      Institute, Murdoch University, Murdoch, Western Australia, Australia. 
+      rajeev.varshney@murdoch.edu.au.
+FAU - Wei, Chaochun
+AU  - Wei C
+AUID- ORCID: 0000-0002-1031-034X
+AD  - School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 
+      Shanghai, China. ccwei@sjtu.edu.cn.
+FAU - Yin, Dongmei
+AU  - Yin D
+AUID- ORCID: 0000-0002-6031-2677
+AD  - College of Agronomy, Henan Agricultural University, Zhengzhou, China. 
+      yindm@henau.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250428
+PL  - United States
+TA  - Nat Genet
+JT  - Nature genetics
+JID - 9216904
+SB  - IM
+MH  - *Arachis/genetics/anatomy & histology
+MH  - *Seeds/genetics/anatomy & histology/growth & development
+MH  - *Genome, Plant/genetics
+MH  - Quantitative Trait Loci
+MH  - Phenotype
+MH  - *Genomic Structural Variation/genetics
+MH  - Genes, Plant
+PMC - PMC12081311
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/04/29 00:28
+MHDA- 2025/05/16 11:44
+PMCR- 2025/04/28
+CRDT- 2025/04/28 23:44
+PHST- 2024/09/12 00:00 [received]
+PHST- 2025/03/17 00:00 [accepted]
+PHST- 2025/05/16 11:44 [medline]
+PHST- 2025/04/29 00:28 [pubmed]
+PHST- 2025/04/28 23:44 [entrez]
+PHST- 2025/04/28 00:00 [pmc-release]
+AID - 10.1038/s41588-025-02170-w [pii]
+AID - 2170 [pii]
+AID - 10.1038/s41588-025-02170-w [doi]
+PST - ppublish
+SO  - Nat Genet. 2025 May;57(5):1250-1261. doi: 10.1038/s41588-025-02170-w. Epub 2025 
+      Apr 28.
 
 
 ##### PUB RECORD #####
