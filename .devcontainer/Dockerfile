@@ -3,6 +3,8 @@ FROM mcr.microsoft.com/devcontainers/base:ubuntu
 RUN apt-get update && apt-get install -y \
     vim \
     curl \
+    libyaml-pp-perl \
+    libjson-parse-perl \
     nodejs \
     npm \
     && rm -rf /var/lib/apt/lists/*
