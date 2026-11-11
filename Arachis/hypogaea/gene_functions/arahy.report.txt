@@ -1,5 +1,5 @@
 
-Status for Arachis hypogaea (arahy) as of 2026-11-10:
+Status for Arachis hypogaea (arahy) as of 2026-11-11:
 
 Count  gene_symbols; Summary for arahy
   --------------------------------------------------
@@ -17,6 +17,7 @@ Count  gene_symbols; Summary for arahy
       1	AhUGT75A
       1	AhXTH32
       1	AhZAR1-4
+Total for gene_symbols: 15
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for arahy
@@ -34,6 +35,7 @@ Count  gene_model_full_id; Summary for arahy
       1	arahy.Tifrunner.gnm2.ann2.Ah13g064900
       1	arahy.Tifrunner.gnm2.ann2.Ah16g471200
       1	arahy.Tifrunner.gnm2.ann2.Ah16g512200
+Total for gene_model_full_id: 14
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for arahy
@@ -51,6 +53,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for arahy
       1	AhUGT75A	arahy.Tifrunner.gnm2.ann1.Arahy.5Q6PVM
       1	AhXTH32	arahy.Tifrunner.gnm2.ann2.Ah06g207600
       1	AhZAR1-4	arahy.Tifrunner.gnm2.ann2.Ah09g388200
+Total for Primary symbol: 14
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for arahy
@@ -70,6 +73,7 @@ Count  PMID   DOI   Citation; Summary for arahy
       1	39341375	10.1016/j.plantsci.2024.112275	Pan, Li et al., 2024
       1	40358622	10.1007/s00122-025-04903-1	Tang, Zhou et al., 2025
       1	40915113	10.1016/j.plaphy.2025.110475	Li, Li et al., 2025
+Total for PMID: 18
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for arahy
@@ -109,5 +113,6 @@ Count  Ontology accession   Description; Summary for arahy
       1	TO:0006002	proline content
       1	TO:0006062	plant width
       1	TO:1000075	palmitic acid content
+Total for Ontology accession: 43
   --------------------------------------------------
 

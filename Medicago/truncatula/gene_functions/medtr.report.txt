@@ -1,35 +1,31 @@
 
-Status for Medicago truncatula (medtr) as of 2026-11-10:
+Status for Medicago truncatula (medtr) as of 2026-11-11:
 
 Count  gene_symbols; Summary for medtr
   --------------------------------------------------
+      1	MtAGLF
       1	MtAGa
       1	MtAGb
-      1	MtAGLF
       1	MtANS
       1	MtAOC
       1	MtAP1
       1	MtBG2
-      1	MtbHLH1
       1	MtBS1
-      1	MtbZIP60
       1	MtBZR1
-      1	MtCaMP1
       1	MtCAS31
       1	MtCBF4
       1	MtCBS1
       1	MtCCD1
       1	MtCDC16
       1	MtCDPK1
-      1	MtchitIII-3
       1	MtCLV2
       1	MtCML42
       1	MtCPK3
       1	MtCRA2
-      1	MtCre1
       1	MtCRN
       1	MtCYCLOPS
-      1	Mtcyp716A12
+      1	MtCaMP1
+      1	MtCre1
       1	MtDIB1
       1	MtDMI1
       1	MtDMI3
@@ -92,17 +88,22 @@ Count  gene_symbols; Summary for medtr
       1	MtRH2
       1	MtRR4
       1	MtSGL1
-      1	MtSkl1
       1	MtSMAX1
       1	MtSOC1c
       1	MtSSP1
       1	MtSUNN
+      1	MtSkl1
       1	MtTCP18
       1	MtTFL1
       1	MtUGT73F3
       1	MtVPY
       1	MtWRKY76
       1	MtYSL3
+      1	MtbHLH1
+      1	MtbZIP60
+      1	MtchitIII-3
+      1	Mtcyp716A12
+Total for gene_symbols: 100
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for medtr
@@ -202,37 +203,34 @@ Count  gene_model_full_id; Summary for medtr
       1	medtr.A17_HM341.gnm4.ann2.Medtr8g066260
       1	medtr.A17_HM341.gnm4.ann2.Medtr8g069135
       1	medtr.A17_HM341.gnm4.ann2.Medtr8g106150
+Total for gene_model_full_id: 95
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for medtr
   --------------------------------------------------
+      1	MtAGLF	medtr.A17_HM341.gnm4.ann2.Medtr0007s0220
       1	MtAGa	medtr.A17.gnm5.ann1_6.MtrunA17Chr2g0284911
       1	MtAGb	medtr.A17.gnm5.ann1_6.MtrunA17Chr8g0380021
-      1	MtAGLF	medtr.A17_HM341.gnm4.ann2.Medtr0007s0220
       1	MtANS	medtr.A17_HM341.gnm4.ann2.Medtr5g011250
       1	MtAOC	medtr.A17_HM341.gnm4.ann2.Medtr7g417750
       1	MtAP1	medtr.A17_HM341.gnm4.ann2.Medtr3g098560
       1	MtBG2	medtr.A17_HM341.gnm4.ann2.Medtr3g083580
-      1	MtbHLH1	medtr.A17_HM341.gnm4.ann2.Medtr3g099620
       1	MtBS1	medtr.A17_HM341.gnm4.ann2.Medtr1g102900
-      1	MtbZIP60	medtr.A17_HM341.gnm4.ann2.Medtr4g070860
       1	MtBZR1	medtr.A17_HM341.gnm4.ann2.Medtr3g111680
-      1	MtCaMP1	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0149571
       1	MtCAS31	medtr.A17.gnm5.ann1_6.MtrunA17Chr6g0484671
       1	MtCBF4	medtr.A17_HM341.gnm4.ann2.Medtr1g101600
       1	MtCBS1	medtr.A17_HM341.gnm4.ann2.Medtr6g052300
       1	MtCCD1	medtr.A17_HM341.gnm4.ann2.Medtr6g034835
       1	MtCDC16	medtr.A17_HM341.gnm4.ann2.Medtr8g058380
       1	MtCDPK1	medtr.A17_HM341.gnm4.ann2.Medtr5g022030
-      1	MtchitIII-3	medtr.A17_HM341.gnm4.ann2.Medtr8g055940
       1	MtCLV2	medtr.A17_HM341.gnm4.ann2.Medtr7g079550
       1	MtCML42	medtr.A17_HM341.gnm4.ann2.Medtr7g090450
       1	MtCPK3	medtr.A17_HM341.gnm4.ann2.Medtr3g051770
       1	MtCRA2	medtr.A17.gnm5.ann1_6.MtrunA17Chr3g0140861
-      1	MtCre1	medtr.A17_HM341.gnm4.ann2.Medtr8g106150
       1	MtCRN	medtr.A17_HM341.gnm4.ann2.Medtr7g020850
       1	MtCYCLOPS	medtr.A17_HM341.gnm4.ann2.Medtr5g026850
-      1	Mtcyp716A12	medtr.A17_HM341.gnm4.ann2.Medtr3g021350
+      1	MtCaMP1	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0149571
+      1	MtCre1	medtr.A17_HM341.gnm4.ann2.Medtr8g106150
       1	MtDIB1	medtr.A17_HM341.gnm4.ann2.Medtr2g102570
       1	MtDMI1	medtr.A17_HM341.gnm4.ann2.Medtr2g005870
       1	MtDMI3	medtr.A17_HM341.gnm4.ann2.Medtr8g043970
@@ -301,6 +299,11 @@ Count  Primary symbol   gene_model_full_id ; Summary for medtr
       1	MtVPY	medtr.A17_HM341.gnm4.ann2.Medtr6g027840
       1	MtWRKY76	medtr.A17.gnm5.ann1_6.MtrunA17Chr1g0150281
       1	MtYSL3	medtr.A17_HM341.gnm4.ann2.Medtr3g092090
+      1	MtbHLH1	medtr.A17_HM341.gnm4.ann2.Medtr3g099620
+      1	MtbZIP60	medtr.A17_HM341.gnm4.ann2.Medtr4g070860
+      1	MtchitIII-3	medtr.A17_HM341.gnm4.ann2.Medtr8g055940
+      1	Mtcyp716A12	medtr.A17_HM341.gnm4.ann2.Medtr3g021350
+Total for Primary symbol: 95
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for medtr
@@ -387,6 +390,7 @@ Count  PMID   DOI   Citation; Summary for medtr
       1	38611541	10.3390/plants13071012	Su, Zheng et al., 2024
       1	39408738	10.3390/ijms251910410	Xing, Weng et al., 2024
       1	42575002	10.1016/j.plaphy.2026.111628	Li, Song et al., 2026
+Total for PMID: 150
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for medtr
@@ -437,8 +441,8 @@ Count  Ontology accession   Description; Summary for medtr
       2	TO:0000419	vascular leaf morphology trait
       2	TO:0000495	chlorophyll content
       2	TO:0000656	root development trait
-      2	TO:0002600	floral organ size
       2	TO:0002600	Floral organ size
+      2	TO:0002600	floral organ size
       2	TO:0002637	leaf size
       2	TO:0002661	seed maturation
       2	TO:0002665	root hair length
@@ -524,8 +528,8 @@ Count  Ontology accession   Description; Summary for medtr
       1	TO:0000756	stem internode morphology trait
       1	TO:0000757	hypocotyl morphology trait
       1	TO:0000767	petiole shape
-      1	TO:0000790	axillary bud morphology trait
       1	TO:0000790	Axillary bud morphology trait
+      1	TO:0000790	axillary bud morphology trait
       1	TO:0000893	stem shape
       1	TO:0000899	root nodule weight
       1	TO:0000911	trichome morphology trait
@@ -554,5 +558,6 @@ Count  Ontology accession   Description; Summary for medtr
       1	TO:0020109	vascular bundle development trait
       1	TO:1000012	whole plant size
       1	TO:1000034	root system iron content
+Total for Ontology accession: 328
   --------------------------------------------------
 

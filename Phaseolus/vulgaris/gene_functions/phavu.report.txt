@@ -1,5 +1,5 @@
 
-Status for Phaseolus vulgaris (phavu) as of 2026-11-10:
+Status for Phaseolus vulgaris (phavu) as of 2026-11-11:
 
 Count  gene_symbols; Summary for phavu
   --------------------------------------------------
@@ -11,6 +11,7 @@ Count  gene_symbols; Summary for phavu
       1	PvTFL1y
       1	PvTOC1
       1	PvV
+Total for gene_symbols: 8
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for phavu
@@ -22,6 +23,7 @@ Count  gene_model_full_id; Summary for phavu
       1	phavu.G19833.gnm2.ann1.Phvul.006G171800
       1	phavu.G19833.gnm2.ann1.Phvul.007G171333
       1	phavu.G19833.gnm2.ann1.Phvul.009G185500
+Total for gene_model_full_id: 7
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for phavu
@@ -33,6 +35,7 @@ Count  Primary symbol   gene_model_full_id ; Summary for phavu
       1	PvTFL1y	phavu.G19833.gnm2.ann1.Phvul.001G189200
       1	PvTOC1	phavu.G19833.gnm2.ann1.Phvul.009G185500
       1	PvV	phavu.G19833.gnm2.ann1.Phvul.006G018800
+Total for Primary symbol: 7
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for phavu
@@ -51,6 +54,7 @@ Count  PMID   DOI   Citation; Summary for phavu
       1	36928335	10.1007/s00425-023-04116-0	Davila-Delgado, Flores-Canul et al., 2023
       1	37313298	10.1007/s11032-023-01362-8	Liu, Yang et al., 2023
       1	42089377	10.1111/tpj.70909	von Steimker, Bulut et al., 2026
+Total for PMID: 14
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for phavu
@@ -75,5 +79,6 @@ Count  Ontology accession   Description; Summary for phavu
       1	TO:0000537	flower color
       1	TO:0000707	pericarp color
       1	TO:0006021	vegetative to reproductive phase transition trait
+Total for Ontology accession: 21
   --------------------------------------------------
 
