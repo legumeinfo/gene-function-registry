@@ -8,8 +8,9 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Install mikefarah/yq (Go version)
-RUN curl -sSL https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -o /usr/local/bin/yq && \
-    chmod +x /usr/local/bin/yq
+RUN curl -fsSL https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -o /usr/local/bin/yq && \
+    chmod +x /usr/local/bin/yq && \
+    yq --version
 
 # Install ajv-cli globally for validator scripts
 RUN npm install -g ajv-cli

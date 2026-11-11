@@ -11,7 +11,7 @@ if ! command -v yq &> /dev/null; then
     echo "The 'yq' tool is required to parse YAML files for entity pairs."
     echo "Please install yq, e.g., 'brew install yq' on macOS,"
     echo "or on ceres.scinet.usda.gov, activate the 'ds-curate' conda environment."
-    echo "In GitHub codespaces, yq should be installed by postCreateCommand in the devcontainer."
+    echo "In GitHub Codespaces, yq is installed when the devcontainer image is built. Rebuild the container if it is missing."
     exit 1
 fi
 
