@@ -115,6 +115,8 @@ The **references** block is required. It contains one or more blocks of citation
 ## Generating/updating reports about data collected so far
 There is a script `scripts/generate_report.sh` that summarizes key data from the yaml files in all Genus/species directories. Run this script in one of the following ways:
 
+Each report section ends with a total count, calculated by summing the values in its left-hand count column and labeled with the item counted.
+
 To print to STDOUT (in each case below, Phaseolus vulgaris is used as the example; for other species, use the desired "Genus species": 
 
    `./scripts/generate_report.sh Phaseolus vulgaris`
@@ -228,4 +230,3 @@ cat templates/genus_species.tsv | while read -r line; do
 done
 ```
 </details>
-

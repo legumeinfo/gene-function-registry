@@ -15,6 +15,10 @@ if ! command -v yq &> /dev/null; then
     exit 1
 fi
 
+sum_report_counts() {
+    awk 'NF { total += $1 } END { print total + 0 }' <<< "$1"
+}
+
 # --- Function to process all gene_symbols in YAML files ---
 # Arguments:
 #   $1: The gensp string, e.g., "glyma"
@@ -43,18 +47,22 @@ process_gene_symbols() {
             yq '.gene_symbols[]' "$yml_file" 2>/dev/null
         done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
+    local total_count
+    total_count=$(sum_report_counts "$gene_symbols_output")
 
     # Save the output to a file if '-p', else print to STDOUT
     if [ "$PRINT" = true ]; then
         ( echo "Count  gene_symbols; Summary for $gensp"
           echo "  --------------------------------------------------" 
           echo "$gene_symbols_output" >> "$output_file"
+          echo "Total for gene_symbols: $total_count"
           echo "  --------------------------------------------------" 
           echo "" ) >> "$output_file"
     else    
         echo "Count  gene_symbols; Summary for $gensp"
         echo "  --------------------------------------------------" 
         echo "$gene_symbols_output"
+        echo "Total for gene_symbols: $total_count"
         echo "  --------------------------------------------------"
         echo ""
     fi
@@ -88,18 +96,22 @@ process_gene_model_full_id() {
             yq '.gene_model_full_id' "$yml_file" 2>/dev/null
         done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
+    local total_count
+    total_count=$(sum_report_counts "$gene_id_output")
 
     # Save the output to a file if '-p', else print to STDOUT
     if [ "$PRINT" = true ]; then
         ( echo "Count  gene_model_full_id; Summary for $gensp"
           echo "  --------------------------------------------------" 
           echo "$gene_id_output" >> "$output_file"
+          echo "Total for gene_model_full_id: $total_count"
           echo "  --------------------------------------------------" 
           echo "" ) >> "$output_file"
     else    
         echo "Count  gene_model_full_id; Summary for $gensp"
         echo "  --------------------------------------------------" 
         echo "$gene_id_output"
+        echo "Total for gene_model_full_id: $total_count"
         echo "  --------------------------------------------------"
         echo ""
     fi
@@ -133,18 +145,22 @@ process_gene_symbol_and_gene_model() {
             yq '.gene_symbols[0] + "\t" + .gene_model_full_id' "$yml_file" 2>/dev/null
         done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
+    local total_count
+    total_count=$(sum_report_counts "$gene_symbol_and_id_output")
 
     # Save the output to a file if '-p', else print to STDOUT
     if [ "$PRINT" = true ]; then
         ( echo "Count  Primary symbol   gene_model_full_id ; Summary for $gensp"
           echo "  --------------------------------------------------" 
           echo "$gene_symbol_and_id_output" >> "$output_file"
+          echo "Total for Primary symbol: $total_count"
           echo "  --------------------------------------------------" 
           echo "" ) >> "$output_file"
     else    
         echo "Count  Primary symbol   gene_model_full_id ; Summary for $gensp"
         echo "  --------------------------------------------------" 
         echo "$gene_symbol_and_id_output"
+        echo "Total for Primary symbol: $total_count"
         echo "  --------------------------------------------------"
         echo ""
     fi
@@ -180,26 +196,33 @@ process_citation_table() {
         done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
+    local total_count
+    total_count=$(sum_report_counts "$table_output")
+
     if [ -n "$table_output" ]; then
         if [ "$PRINT" = true ]; then
             ( echo "Count  PMID   DOI   Citation; Summary for $gensp" >> "$output_file"
               echo "  --------------------------------------------------" 
               echo "$table_output" >> "$output_file"
+              echo "Total for PMID: $total_count"
               echo "  --------------------------------------------------" 
               echo "" ) >> "$output_file"
         else
             echo "Count  PMID   DOI   Citation; Summary for $gensp"
             echo "  --------------------------------------------------"
             echo "$table_output"
+            echo "Total for PMID: $total_count"
             echo "  --------------------------------------------------"
             echo ""
         fi
     else
         echo "    No records with citation, doi, and pmid found."
         if [ "$PRINT" = true ]; then
+            echo "Total for PMID: $total_count" >> "$output_file"
             echo "  --------------------------------------------------" >> "$output_file"
             echo "" >> "$output_file"
         else
+            echo "Total for PMID: $total_count"
             echo ""
         fi
     fi
@@ -236,24 +259,34 @@ process_entity_pairs() {
         done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
 
+    local total_count
+    total_count=$(sum_report_counts "$combined_pairs_output")
+
     if [ -n "$combined_pairs_output" ]; then
         # Save the output to a file if '-p', else print to STDOUT
         if [ "$PRINT" = true ]; then
             ( echo "Count  Ontology accession   Description; Summary for $gensp"
               echo "  --------------------------------------------------" 
               echo "$combined_pairs_output" >> "$output_file"
+              echo "Total for Ontology accession: $total_count"
               echo "  --------------------------------------------------" 
               echo "" ) >> "$output_file"
         else    
             echo "Count  Ontology accession   Description; Summary for $gensp"
             echo "  --------------------------------------------------" 
             echo "$combined_pairs_output"
+            echo "Total for Ontology accession: $total_count"
             echo "  --------------------------------------------------"
             echo ""
         fi
 
     else
         echo "    No entity/entity_name pairs found."
+        if [ "$PRINT" = true ]; then
+            echo "Total for Ontology accession: $total_count" >> "$output_file"
+        else
+            echo "Total for Ontology accession: $total_count"
+        fi
     fi
 }
 
@@ -368,4 +401,3 @@ process_citation_table "$gensp" "$full_path" "$current_output_file"
 
 # Process for 'entity' and 'entity_name' as a pair using the new function
 process_entity_pairs "$gensp" "$full_path" "$current_output_file"
-
