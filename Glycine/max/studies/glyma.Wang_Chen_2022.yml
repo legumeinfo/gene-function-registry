@@ -2,9 +2,9 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmNAC181
-gene_symbol_long:
+gene_symbol_long: NAM, ATAF, and CUC
 gene_model_pub_name: Glyma.19G108800
-gene_model_full_id:
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108800
 confidence:
 curators:
   - Olivia Wall
@@ -25,9 +25,9 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmNINa
-gene_symbol_long:
+gene_symbol_long: Nodule inception
 gene_model_pub_name: Glyma.04G000600
-gene_model_full_id:
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G000600
 confidence:
 curators:
   - Olivia Wall
