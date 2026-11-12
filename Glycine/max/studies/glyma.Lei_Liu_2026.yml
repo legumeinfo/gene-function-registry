@@ -12,15 +12,19 @@ comments:
   - Regulates soybean root nodulation, allowing for symbiotic relationships with Nitrogen-fixing bacteria
   - Assembles with DELLA proteins and NSP1/NSP2 transcription factors to activate NIN, a regulator of symbiosis
   - Loss-of-function of CYCLOPS mutants in model legumes exhibits impaired nodulation and nitrogen-fixation capacity
+  - a CCaMK-regulated DNA-binding transcriptional activator that initiates gene expression leading to nodule organogenesis
   - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
 phenotype_synopsis: Overexpression leads to increased nodule formation
 traits:
-  - entity_name: root nodule
-    entity: PO:0003023
+  - entity_name: nodulation
+    entity: GO:0009877
 references:
   - citation: Lei, Liu et al., 2026
     doi: 10.1016/j.plantsci.2026.113287
     pmid: 42331038
+  - citation: Sing, Katzer et at., 2014
+    doi: 10.1016/j.chom.2014.01.011
+    pmid: 24528861
 ---
 scientific_name: Glycine max
 gene_symbols:
@@ -35,12 +39,16 @@ comments:
   - Assembles with DELLA proteins and NSP1/NSP2 transcription factors to activate NIN, a regulator of symbiosis
   - Regulates soybean root nodulation, allowing for symbiotic relationships with Nitrogen-fixing bacteria
   - Loss-of-function of CYCLOPS mutants in model legumes exhibits impaired nodulation and nitrogen-fixation capacity
+  - a CCaMK-regulated DNA-binding transcriptional activator that initiates gene expression leading to nodule organogenesis
   - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
 phenotype_synopsis: Overexpression leads to increased nodule formation
 traits:
-  - entity_name: root nodule
-    entity: PO:0003023
+  - entity_name: nodulation
+    entity: GO:0009877
 references:
   - citation: Lei, Liu et al., 2026
     doi: 10.1016/j.plantsci.2026.113287
     pmid: 42331038
+  - citation: Sing, Katzer et at., 2014
+    doi: 10.1016/j.chom.2014.01.011
+    pmid: 24528861
