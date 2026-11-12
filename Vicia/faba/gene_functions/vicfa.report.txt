@@ -1,37 +1,37 @@
 
-Status for Vicia faba (vicfa) as of 2026-11-11:
+Status for Vicia faba (vicfa) as of 2026-11-12:
 
 Count  gene_symbols; Summary for vicfa
   --------------------------------------------------
-      1	VfCYP78A
-      1	VfPPO-2
+   1	VfCYP78A
+   1	VfPPO-2
 Total for gene_symbols: 2
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for vicfa
   --------------------------------------------------
-      1	vicfa.Hedin2.gnm1.ann1.4g051440
-      1	vicfa.Tiffany.gnm1.ann1.1g391400
+   1	vicfa.Hedin2.gnm1.ann1.4g051440
+   1	vicfa.Tiffany.gnm1.ann1.1g391400
 Total for gene_model_full_id: 2
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for vicfa
   --------------------------------------------------
-      1	VfCYP78A	vicfa.Hedin2.gnm1.ann1.4g051440
-      1	VfPPO-2	vicfa.Tiffany.gnm1.ann1.1g391400
+   1	VfCYP78A	vicfa.Hedin2.gnm1.ann1.4g051440
+   1	VfPPO-2	vicfa.Tiffany.gnm1.ann1.1g391400
 Total for Primary symbol: 2
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for vicfa
   --------------------------------------------------
-      2	36890232	10.1038/s41586-023-05791-5	Jayakodi, Golicz et al., 2023
-Total for PMID: 2
+   2	36890232	10.1038/s41586-023-05791-5	Jayakodi, Golicz et al., 2023
+Total Citation Occurrences: 2
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for vicfa
   --------------------------------------------------
-      1	TO:0000391	seed size
-      1	TO:0000968	hilum color
+   1	TO:0000391	seed size
+   1	TO:0000968	hilum color
 Total for Ontology accession: 2
   --------------------------------------------------
 
