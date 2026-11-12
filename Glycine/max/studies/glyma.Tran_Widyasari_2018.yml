@@ -10,8 +10,8 @@ curators:
 comments:
   - Soybean mosaic virus (SMV) is a single-stranded positive-sense RNA potyvirus
     and SMV strains are classified by patterns of virulence towards soybeans.
-    Dominant resistance genes (R genes) often express proteins with NBS-LRR
-    domains that recognize pathogen avirulence factors. The four loci Rsv1,
+    Dominant resistance genes (R genes), which often express proteins with NBS-LRR
+    domains, recognize particular pathogen avirulence factors and lead to active resistance measures. The four loci Rsv1,
     Rsv3, Rsv4, and Rsv5 confer strain-specific resistance to SMV.
   - Locus GmRsv3 confers extreme resistance to the virulent SMV strains G5 to G7
     and was mapped on chromosome 14 in soybean variety L29 (Jeong et al.,
@@ -36,11 +36,11 @@ comments:
     (93 out of 100) clustered within the LRR-domain itself, with 54
     substitutions found in 22 LRR motifs. The functional differences in
     LRR-domains likely affect Avr recognition by these proteins.
-  - Transient co-expression in susceptible Lee74 soybeans of the Glyma.14G204700
+  - Transient co-expression in susceptible Lee74 soybeans (lacking Rsv3) of the Glyma.14G204700
     plasmids and SMV-G5H viral infectious clones that expressed green
     fluorescent protein (GFP) resulted in strain-specific inhibition of SMV
     accumulation. SMV infection was incompletely hampered probably because
-    resistance gene expression was only local and transient. Nevertheless,
+    resistance gene over-expression was only local and transient. Nevertheless,
     transient expression of Glyma.14g204700 didn't inhibit infection of the more
     virulent strain SMV-G7H.
   - Virus-Induced Gene Silencing (VIGS) of Glyma.14G204700 in resistant L29
@@ -54,7 +54,7 @@ comments:
     Glyma.14g204700 had been silenced with VIGS, and thus Rsv3-mediated
     resistance was not fully suppressed.
 phenotype_synopsis: Glyma.14g204700, based on gene expression and sequence
-  characteristics, is the strongest candidate for the GmRsv3 gene responsible
+  characteristics, emerged as the strongest candidate for the GmRsv3 gene responsible
   for strain-specific SMV resistance in soybean.
 traits:
   - entity_name: viral disease response trait
