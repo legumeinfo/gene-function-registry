@@ -191,7 +191,7 @@ process_citation_table() {
     table_output=$(
         for yml_file in "${yaml_files[@]}"; do
             # Extract citation, doi, and pmid from references and format as pipe-separated
-            yq '.references[] | select(has("citation") and has("doi") and has("pmid")) | 
+            yq '.references[] | select(has("citation") and has("doi") or has("pmid")) | 
                 (.pmid // "N/A") + "\t" + (.doi // "N/A") + "\t" + .citation' "$yml_file" 2>/dev/null
         done | sed '/---/d' | sort | uniq -c | sort -k1nr,1nr -k2,2 | perl -pe 's/^( +\d+) /$1\t/'
     )
@@ -204,7 +204,7 @@ process_citation_table() {
             ( echo "Count  PMID   DOI   Citation; Summary for $gensp" >> "$output_file"
               echo "  --------------------------------------------------" 
               echo "$table_output" >> "$output_file"
-              echo "Total for PMID: $total_count"
+              echo "Total Citation Occurrences: $total_count"
               echo "  --------------------------------------------------" 
               echo "" ) >> "$output_file"
         else

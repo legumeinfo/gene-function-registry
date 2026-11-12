@@ -1,43 +1,47 @@
 
-Status for Cicer arietinum (cicar) as of 2026-11-11:
+Status for Cicer arietinum (cicar) as of 2026-11-12:
 
 Count  gene_symbols; Summary for cicar
   --------------------------------------------------
-      1	CaFTa1
-      1	CaFTc
-      1	KNOTTED1-like (KNOX)
+   1	CaFTa1
+   1	CaFTc
+   1	KNOTTED1-like (KNOX)
 Total for gene_symbols: 3
   --------------------------------------------------
 
 Count  gene_model_full_id; Summary for cicar
   --------------------------------------------------
-      1	cicar.CDCFrontier.gnm2.ann1.Ca_24443.1
-      1	cicar.CDCFrontier.gnm3.ann1.Ca3g147900
-      1	cicar.CDCFrontier.gnm3.ann1.Ca3g148300
+   1	cicar.CDCFrontier.gnm2.ann1.Ca_24443.1
+   1	cicar.CDCFrontier.gnm3.ann1.Ca3g147900
+   1	cicar.CDCFrontier.gnm3.ann1.Ca3g148300
 Total for gene_model_full_id: 3
   --------------------------------------------------
 
 Count  Primary symbol   gene_model_full_id ; Summary for cicar
   --------------------------------------------------
-      1	CaFTa1	cicar.CDCFrontier.gnm3.ann1.Ca3g148300
-      1	CaFTc	cicar.CDCFrontier.gnm3.ann1.Ca3g147900
-      1	KNOTTED1-like (KNOX)	cicar.CDCFrontier.gnm2.ann1.Ca_24443.1
+   1	CaFTa1	cicar.CDCFrontier.gnm3.ann1.Ca3g148300
+   1	CaFTc	cicar.CDCFrontier.gnm3.ann1.Ca3g147900
+   1	KNOTTED1-like (KNOX)	cicar.CDCFrontier.gnm2.ann1.Ca_24443.1
 Total for Primary symbol: 3
   --------------------------------------------------
 
 Count  PMID   DOI   Citation; Summary for cicar
   --------------------------------------------------
-      2	31333691	10.3389/fpls.2019.00824	Ortega, Hecht et al., 2019
-Total for PMID: 2
+   2	31333691	10.3389/fpls.2019.00824	Ortega, Hecht et al., 2019
+   2	N/A	10.1016/j.fcr.2008.11.006	Cobos, Winter et al., 2009
+   1	N/A	10.1007/978-1-4020-6065-6_4	Iruela, Castro, et al., 2007
+   1	N/A	10.1007/s10681-015-1369-4	Ali, Azam et al., 2015
+   1	N/A	10.3389/fpls.2026.1803976	Gutierrez, Castro et al., 2026
+Total Citation Occurrences: 7
   --------------------------------------------------
 
 Count  Ontology accession   Description; Summary for cicar
   --------------------------------------------------
-      2	GO:0051867	general adaptation syndrome, behavioral process
-      2	TO:0000344	days to flowering trait
-      2	TO:0000934	photoperiod-sensitive flowering time trait
-      1	GO:0060776	simple leaf morphogenesis
-      1	TO:0000655	leaf growth and development trait
+   2	GO:0051867	general adaptation syndrome, behavioral process
+   2	TO:0000344	days to flowering trait
+   2	TO:0000934	photoperiod-sensitive flowering time trait
+   1	GO:0060776	simple leaf morphogenesis
+   1	TO:0000655	leaf growth and development trait
 Total for Ontology accession: 8
   --------------------------------------------------
 
