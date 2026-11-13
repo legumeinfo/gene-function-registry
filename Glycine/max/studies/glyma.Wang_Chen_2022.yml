@@ -5,11 +5,14 @@ gene_symbols:
 gene_symbol_long: NAM, ATAF, and CUC
 gene_model_pub_name: Glyma.19G108800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108800
-confidence:
+confidence: 5
 curators:
   - Olivia Wall
 comments:
-  -  # Use if needed
+  - directly binds and activates the expression of the nodulation gene GmNINa
+  - transcriptional activator that promotes root nodulation
+  - expression increases under salt stress, helping maintain nodulation against environmental stress
+  - Function determined through overexpression and gene knockdown
 phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
