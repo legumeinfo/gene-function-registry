@@ -9,20 +9,22 @@ curators:
   - Scott Kalberer
 comments:
   - Soybean mosaic virus (SMV) is a single-stranded positive-sense RNA potyvirus
-    and SMV strains are classified by patterns of virulence towards soybeans.
-    Dominant resistance genes (R genes), which often express proteins with NBS-LRR
-    domains, recognize particular pathogen avirulence factors and lead to active resistance measures. The four loci Rsv1,
-    Rsv3, Rsv4, and Rsv5 confer strain-specific resistance to SMV.
+    and SMV strains are classified by patterns of virulence towards soybean
+    genotypes. Dominant resistance genes (R genes), which often express proteins
+    with NBS-LRR (nucleotide-binding site - leucine-rich repeat) domains,
+    recognize particular pathogen avirulence factors and lead to active
+    resistance measures. The four loci Rsv1, Rsv3, Rsv4, and Rsv5 confer
+    strain-specific resistance to SMV.
   - Locus GmRsv3 confers extreme resistance to the virulent SMV strains G5 to G7
-    and was mapped on chromosome 14 in soybean variety L29 (Jeong et al.,
-    2002). Five NBS-LRR candidate genes for Rsv3 were identified in the 154-kbp
-    region between the two genetic markers A519F/R and M3Satt (Suh et al.,
-    2011).
+    and was mapped on chromosome 14 in soybean variety L29 (Jeong et al., 2002).
+    Five NBS-LRR candidate genes for Rsv3 were identified in the 154-kbp region
+    between the two genetic markers A519F/R and M3Satt (Suh et al., 2011).
   - The candidate Rsv3 gene models were Glyma.14G204500, Glyma.14G204600,
-    Glyma.14G204700, Glyma.14G205000, and Glyma.14G205300. Glyma.14g204700
+    Glyma.14G204700, Glyma.14G205000, and Glyma.14G205300. Glyma.14G204700
     exhibited the highest transcript abundance and numbered genotype-phenotype
     correlations out of the five after comparative sequence analysis (Redekar et
-    al., 2016).
+    al., 2016). The majority of the polymorphisms in Glyma.14G204700 were found
+    in the LRR domain (Redekar et al., 2016).
   - Tran et al. (2018) isolated from L29 and confirmed this locus,
     Glyma.14G204700, as a full-length cDNA that provides targeted resistance
     against SMV. Glyma.14G204700 in assemblies 2 and 4 is the same as gene model
@@ -36,9 +38,10 @@ comments:
     (93 out of 100) clustered within the LRR-domain itself, with 54
     substitutions found in 22 LRR motifs. The functional differences in
     LRR-domains likely affect Avr recognition by these proteins.
-  - Transient co-expression in susceptible Lee74 soybeans (lacking Rsv3) of the Glyma.14G204700
-    plasmids and SMV-G5H viral infectious clones that expressed green
-    fluorescent protein (GFP) resulted in strain-specific inhibition of SMV
+  - Transient co-expression in susceptible Lee74 soybeans (lacking Rsv3) of the
+    Glyma.14G204700-expressing gene delivery vector and SMV-G5H viral infectious
+    cDNA clones that expressed green fluorescent protein (GFP) resulted in
+    strain-specific inhibition of the local infection and SMV systemic
     accumulation. SMV infection was incompletely hampered probably because
     resistance gene over-expression was only local and transient. Nevertheless,
     transient expression of Glyma.14g204700 didn't inhibit infection of the more
@@ -48,14 +51,14 @@ comments:
     virus (BPMV) VIGS vector expressed a short, antisense RNA fragment of the
     candidate (BPMV::Gm14g204700) in inoculated plants.
   - Increased replication of the SMV-G5H virus in inoculated leaves resulted
-    from transient silencing, with virus levels dropping once Glyma.14G204700
-    transcription was no longer inhibited. Neither local nor systemic infection
-    of the SMV-G5H detected via GFP expression was observed in L29 even though
-    Glyma.14g204700 had been silenced with VIGS, and thus Rsv3-mediated
-    resistance was not fully suppressed.
-phenotype_synopsis: Glyma.14g204700, based on gene expression and sequence
-  characteristics, emerged as the strongest candidate for the GmRsv3 gene responsible
-  for strain-specific SMV resistance in soybean.
+    from transient silencing, with virus levels in L29 dropping once
+    Glyma.14G204700 transcription was no longer inhibited. Neither local nor
+    systemic infection of the SMV-G5H detected via GFP expression was observed
+    in L29 even though Glyma.14g204700 had been silenced with VIGS, and thus
+    Rsv3-mediated resistance was not fully suppressed.
+phenotype_synopsis: Glyma.14G204700, based on gene expression and sequence
+  characteristics, emerged as the strongest candidate for the GmRsv3 gene
+  responsible for strain-specific SMV resistance in soybean.
 traits:
   - entity_name: viral disease response trait
     entity: TO:0000148
