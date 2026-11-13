@@ -1,0 +1,107 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmWRKY20
+gene_symbol_long: WRKY20 family transcription factor
+gene_model_pub_name: Glyma.08G021900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G021900
+confidence: 5
+curators:
+  - Amy Pollpeter
+comments:
+  - This gene was previously shown to improve drought tolerance when
+    overexpressed in Arabidopsis, Medicago sativa, and soybean.
+  - Loss of function (LOF) mutant plants showed higher susceptibility to drought
+    stress, wilting sooner than wild type and not showing as much recovery when
+    normal watering resumed.
+  - LOF mutants showed higher concentrations of reactive oxygen species (ROS)
+    after drought conditions than wild type plants; no differences between LOF
+    mutants and wild type plants observed under normal watering control
+    treatment.
+  - Activities of peroxidase, superoxide dismutase, and catalase (anti-oxidant
+    enzymes that funtion to remove ROS) were decreased in drought stressed LOF
+    mutants relative to wild type plants; no difference between LOF mutants and
+    wild type plants observed in normal watering control.
+  - Malondialdehyde (MDA) content (a measure of membrane lipid peroxidation and
+    cellular damage) was increased in LOF mutants under drought stress relative
+    to wild type plants; no difference between mutants and wild types observed
+    under normal watering control conditions.
+  - Yellow fluorescent protein (YFP) assays showed co-localization of GmWRKY20
+    and GmbZip9 in the nucleus.
+  - GmWRKY20 protein binds to the W-box of the promoter sequence of GmANKTM21
+    activating its expression.
+  - Yeast mutants over expressing GmWRKY20 showed increased resistance to
+    drought tolerance individually and synergestically with yeast mutants
+    overexpressing GmbZip9.
+  - Transgenic soybean hairy root assays showed increased drought tolerance in
+    GmWRKY20 OE-mutants combined with GmbZip9 hairy roots relative to the empty
+    vector hairy roots and GmWRKY20 LOF mutants combined with GmbZip9 OE-mutant
+    hairy roots.
+phenotype_synopsis: LOF mutants result in decreased drought tolerance; including
+  increased ROS, decreased ROS removal enzymes, and increased indications of
+  membrane peroxidation and cellular damage under drought conditions.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: drought recovery
+    entity: TO:0000458
+  - entity_name: cell membrane stability
+    entity: TO:0000467
+references:
+  - citation: Jiao, Zhao et al., 2026
+    doi: 10.1093/plphys/kiag421
+    pmid: 42341177
+
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmbZip9
+gene_symbol_long: bZip transcription factor family protein
+gene_model_pub_name: Glyma.04G078300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G078300
+confidence: 5
+curators:
+  - Amy Pollpeter
+comments:
+  - Expression of GmbZip9 increased in leaves at 0.5 hours and roots at 3 hours
+    after drought stress.
+  - Over-expression (OE) mutant plants showed less wilting and damage during
+    drought stress than wild type plants; OE-mutants recovered faster with a
+    more robust recovery when normal watering resumed.
+  - OE-mutants showed lower concentrations of reactive oxygen species (ROS)
+    after drought conditions than wild type plants; no differences between LOF
+    mutants and wild type plants observed under normal watering control
+    treatment.
+  - Activities of peroxidase, superoxide dismutase, and catalase (antioxidant
+    enzymes that funtion to remove ROS) were increased in drought stressed
+    OE-mutants relative to wild type plants; no difference between LOF mutants
+    and wild type plants observed in normal watering control.
+  - Malondialdehyde (MDA) content (a measure of membrane lipid peroxidation and
+    cellular damage) was decreased in OE-mutants under drought stress relative
+    to wild type plants; no difference between mutants and wild types observed
+    under normal watering control conditions.
+  - Yellow fluorescent protein (YFP) assays showed co-localization of GmWRKY20
+    and GmbZip9 in the nucleus.
+  - GmbZip9 protein binds to the G-box of the promoter sequence of GmANKTM21
+    activating its expression.
+  - Yeast mutants over expressing GmbZip9 showed increased resistance to drought
+    tolerance synergestically with yeast mutants overexpressing GmWRKY20.
+  - Transgenic soybean hairy root assays showed increased drought tolerance in
+    GmWRKY20 OE-mutants combined with GmbZip9 hairy roots relative to the empty
+    vector hairy roots and GmWRKY20 LOF mutants combined with GmbZip9 OE-mutant
+    hairy roots.
+phenotype_synopsis: Over-expression of GmbZip9 increases drought tolerance and
+  drought recovery; including decreasing the concentration of ROS and increasing
+  the concentration of antioxidant enzymes in OE-mutants resulting in less
+  membrane peroxidation and decreased measures of cellular damage.
+traits:
+  - entity_name: drought tolerance
+    entity: TO:0000276
+  - entity_name: drought recovery
+    entity: TO:0000458
+  - entity_name: cell membrane stability
+    entity: TO:0000467
+references:
+  - citation: Jiao, Zhao et al., 2026
+    doi: 10.1093/plphys/kiag421
+    pmid: 42341177
