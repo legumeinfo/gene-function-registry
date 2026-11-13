@@ -12,7 +12,7 @@ comments:
   - Mediates brassinosteroid (BR) signaling to inhibit soybean nodulation by suppressing nodulation factor (NF) signaling and nodule formation
   - Directly interacts with GmNSP1 and GmNSP2 to inhibit their interaction, and the DNA-binding activity of GmNSP1
   - Function determined through RNAi, protein interaction assays, DNA binding assays.
-phenotype_synopsis: Reduced root nodulation by suppressing GmNSP1 and GmNSP2
+phenotype_synopsis: Over-expression results in reduced nodulation both in nodule density and nodule number and inhibition of early infection stages.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -32,9 +32,11 @@ curators:
   - Olivia Wall
 comments:
   - Required for nodule formation in soybeans
-  - Directly binds to the promoter regions of early responsive genes, including nodule inception
-  - Forms a heterodimer with GmNSP2
-phenotype_synopsis: reduced root nodule formation when gene is knocked out
+  - Transcription factor involved in rhizobial symbiosis in the absence of brassinosteroids (BRs).  
+  - Directly binds to the promoter regions of early responsive genes, including GmERN1a, and GmENOD93, regulating their expression.
+  - Formation of a heterodimer with between GmNSP1 and GmNSP2is inhibited by GmBES1-1 expression induced by BRs.
+  - Suppresses nodulation in the presence of BRs.
+phenotype_synopsis: Decreased expression results in decreased nodulation.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -45,3 +47,108 @@ references:
   - citation: He, Gao et al., 2021
     doi: 10.1016/j.molp.2020.12.015
     pmid: 33359013
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNSP2
+gene_symbol_long: Nodulation signaling pathway 2
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 5
+curators:
+  - Olivia Wall
+  - Amy Pollpeter
+comments:
+  - Transcription factor essential for nodulation.
+  - Interacts with GmNSP1 to regulate te expression of symbiosis-related genes.  
+  - Directly binds to the promoter regions of early responsive genes, including GmERN1a, and GmENOD93, regulating their expression.
+  - Inhibited by expression of BES1-1 in the presence of brassinosteroids (BRs).
+phenotype_synopsis: Decreased expression results in decreased nodulation.
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
+  - citation: He, Gao et al., 2021
+    doi: 10.1016/j.molp.2020.12.015
+    pmid: 33359013
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmBRI1b
+gene_symbol_long: 
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 5
+curators:
+  - Olivia Wall
+  - Amy Pollpeter
+comments:
+  - Encodes the brassinosteroid (BR) receptor in soybean.
+  - Negatively regulated nodulation in trasnsgenic soybean hairy roots and stable transgenic soybean plants.  
+  - Intiates the BR signaling pathway leading to nodulation inhibition.
+phenotype_synopsis: Over-expression results in reduced nodule density and nodule number.
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
+  - citation: He, Gao et al., 2021
+    doi: 10.1016/j.molp.2020.12.015
+    pmid: 33359013
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmENOD93
+gene_symbol_long: 
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 5
+curators:
+  - Olivia Wall
+  - Amy Pollpeter
+comments:
+  - It is a nodulation factor (NF) upregulated gene and brassinosteroid (BR) downregulated gene in regulation of the nodulation pathway.
+  - GmNSP2 binds to the promoter region of the gene regulating the expression during rhizobial symbiosis.
+phenotype_synopsis: Inhibition of the gene by the BR signaling pathway results in decreased nodulation.
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
+  - citation: He, Gao et al., 2021
+    doi: 10.1016/j.molp.2020.12.015
+    pmid: 33359013
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmERN1a
+gene_symbol_long: Early nodulin 1a
+gene_model_pub_name: 
+gene_model_full_id: 
+confidence: 5
+curators:
+  - Olivia Wall
+  - Amy Pollpeter
+comments:
+  - A target of the GmNSP1/GmNSP2 complex with binding of its promoter by the complex regulating its expression.
+  - It is required for nodulation.
+  - Inhibited by GmBES1-1 in the presence of brassinosteroids (BR) reducing nodulation.
+  - marker gene in the Nodulation Factor (NF) primary signaling pathway.
+phenotype_synopsis: Reduced expression of the gene results in decreased nodulation.
+traits:
+  - entity_name: nodulation
+    entity: GO:0009877
+references:
+  - citation: Chen, Hu et al., 2023
+    doi: 10.1016/j.xplc.2023.100627
+    pmid: 37208896
+  - citation: He, Gao et al., 2021
+    doi: 10.1016/j.molp.2020.12.015
+    pmid: 33359013    
