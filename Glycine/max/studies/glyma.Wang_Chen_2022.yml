@@ -11,35 +11,34 @@ curators:
 comments:
   - directly binds and activates the expression of the nodulation gene GmNINa
   - transcriptional activator that promotes root nodulation
-  - expression increases under salt stress, helping maintain nodulation against environmental stress
+  - overexpression resulted in nearly complete insensitivity to salt inhibition of nodulation
   - Function determined through overexpression and gene knockdown
-phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
-traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
-    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+phenotype_synopsis:  overexpression leads to increased levels of nodules
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
 references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
     pmid: 35751548
-  - citation:
-    doi: 
-    pmid:
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmNINa
-gene_symbol_long: Nodule inception
+gene_symbol_long: Nodule inception a
 gene_model_pub_name: Glyma.04G000600
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G000600
-confidence:
+confidence: 4
 curators:
   - Olivia Wall
 comments:
-  -  # Use if needed
-phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
-traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
-  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
-    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+  - transcription factor involved in regulating the expression of downstream nodulation genes
+  - expression is directly activated by GmNAC181, which binds to its promotor
+  - function determined through gene expression analysis and promotor binding experiments
+phenotype_synopsis:  increased root nodule formation
+traits:
+  - entity_name: root nodule morphology
+    entity: GO:0009877
 references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
