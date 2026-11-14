@@ -16,7 +16,7 @@ comments:
   - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
 phenotype_synopsis: Overexpression leads to increased nodule formation
 traits:
-  - entity_name: nodulation
+  - entity_name: root nodule morphology
     entity: GO:0009877
 references:
   - citation: Lei, Liu et al., 2026
@@ -43,7 +43,7 @@ comments:
   - Function determined through RNA interference, overexpression, and CRISPR/Cas9 mutagenesis
 phenotype_synopsis: Overexpression leads to increased nodule formation
 traits:
-  - entity_name: nodulation
+  - entity_name: root nodule morphology
     entity: GO:0009877
 references:
   - citation: Lei, Liu et al., 2026
