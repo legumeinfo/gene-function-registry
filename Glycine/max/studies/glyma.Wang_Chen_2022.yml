@@ -13,7 +13,7 @@ comments:
   - Transcriptional activator that promotes root nodulation
   - Overexpression resulted in nearly complete insensitivity to salt inhibition of nodulation
   - Function determined through overexpression and gene knockdown
-phenotype_synopsis:  overexpression leads to increased levels of nodules
+phenotype_synopsis: overexpression leads to increased levels of nodules
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
