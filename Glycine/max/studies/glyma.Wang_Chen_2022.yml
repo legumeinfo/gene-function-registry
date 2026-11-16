@@ -10,8 +10,8 @@ curators:
   - Olivia Wall
 comments:
   - directly binds and activates the expression of the nodulation gene GmNINa
-  - transcriptional activator that promotes root nodulation
-  - overexpression resulted in nearly complete insensitivity to salt inhibition of nodulation
+  - Transcriptional activator that promotes root nodulation
+  - Overexpression resulted in nearly complete insensitivity to salt inhibition of nodulation
   - Function determined through overexpression and gene knockdown
 phenotype_synopsis:  overexpression leads to increased levels of nodules
 traits:
@@ -34,8 +34,10 @@ curators:
 comments:
   - transcription factor involved in regulating the expression of downstream nodulation genes
   - expression is directly activated by GmNAC181, which binds to its promotor
-  - function determined through gene expression analysis and promotor binding experiments
-phenotype_synopsis:  increased root nodule formation
+  - Regulates genes involved in allowing rhizobia to infect soybean root hairs and enter root tissue
+  - Helps regulate nodule development and the number of nodules formed through signaling pathways
+  - Function determined through gene expression analysis and promotor binding experiments
+phenotype_synopsis: increased root nodule formation
 traits:
   - entity_name: root nodule morphology
     entity: GO:0009877
@@ -43,6 +45,6 @@ references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
     pmid: 35751548
-  - citation:
-    doi: 
-    pmid:
+  - citation: Fu, Sun et al., 2022
+    doi: 10.1093/plphys/kiab473
+    pmid: 34633461
