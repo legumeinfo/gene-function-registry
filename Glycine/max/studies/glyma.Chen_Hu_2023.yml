@@ -43,13 +43,13 @@ comments:
     nodule inception.
   - Forms a heterodimer with GmNSP2.
   - Function determined through DNA pull down assays and BiFC.
-  - No other name besides GmNSP1 was used in the publication Chen, Hu et al. (2023) for this gene. No
-    gene model was specified in that publication or its supplementary
-    material. A gene search of NCBI for "GmNSP1" returned a result with locus
-    tag "GLYMA_07G039400". Review of this "GLYMA_07G039400" in LIS "Gene Search" revealed no
-    results, but the hunt for "Glyma.07G039400" returned the result used for the
-    gene_model_full_id with description "scarecrow-like transcription factor
-    PAT1-like".
+  - No other name besides GmNSP1 was used in the publication Chen, Hu et al.
+    (2023) for this gene. No gene model was specified in that publication or its
+    supplementary material. A gene search of NCBI for "GmNSP1" returned a result
+    with locus tag "GLYMA_07G039400". Review of this "GLYMA_07G039400" in LIS
+    "Gene Search" revealed no results, but the hunt for "Glyma.07G039400"
+    returned the result used for the gene_model_full_id with description
+    "scarecrow-like transcription factor PAT1-like".
   - Searching the NCBI FASTA protein sequence (accession XP_003529836) in the
     LegumeInfo sequence search produced the same gene_model_full_id as a result.
 phenotype_synopsis: Reduced root nodule formation when GmNSP1 function is knocked out.
@@ -78,19 +78,20 @@ curators:
   - Molly Hardacre
   - Scott Kalberer
 comments:
-  - Interacts with GmNSP1 to enhance transcriptional activity, with which it forms a heterodimer.
+  - Interacts with GmNSP1 to enhance transcriptional activity, with which it
+    forms a heterodimer.
   - Works with GmNSP1 in the nodulation signaling pathway, regulating genes
     required for the soybean–rhizobia symbiosis.
   - Function determined through DNA pull down assays and BiFC assays.
-  - No other name for this gene besides GmNSP2 was used in the publication Chen, Hu et al. (2023) or its supplementary
-    material and no gene model was specified. Supplementary file "Data Sheet 1.pdf" of
-    Hossain, Hoang et al. (2019) refers to GmNSP2 as gene model Glyma.04g43090.
-    This gene model name was used to obtain the gene_model_full_id from
-    LegumeInfo.org.
-  - A gene search of NCBI for "GmNSP2" returned a result with locus
-    tag "GLYMA_04G251900". A quest for this "GLYMA_04G251900" in LIS "Gene Search" revealed no
-    results, but looking for "Glyma.04G251900" returned the result used for the
-    gene_model_full_id with description "protein Scarecrow-like".
+  - No other name for this gene besides GmNSP2 was used in the publication Chen,
+    Hu et al. (2023) or its supplementary material and no gene model was
+    specified. Supplementary file "Data Sheet 1.pdf" of Hossain, Hoang et al.
+    (2019) refers to GmNSP2 as gene model Glyma.04g43090. This gene model name
+    was used to obtain the gene_model_full_id from LegumeInfo.org.
+  - A gene search of NCBI for "GmNSP2" returned a result with locus tag
+    "GLYMA_04G251900". A quest for this "GLYMA_04G251900" in LIS "Gene Search"
+    revealed no results, but looking for "Glyma.04G251900" returned the result
+    used for the gene_model_full_id with description "protein Scarecrow-like".
   - Searching the NCBI FASTA protein sequence (accession XP_003522584) in the
     LegumeInfo sequence search produced the same gene_model_full_id as a result.
 phenotype_synopsis: Reduced root nodule formation when GmNSP2 function is knocked out.
