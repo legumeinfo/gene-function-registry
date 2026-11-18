@@ -2,7 +2,8 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmNAC181
-gene_symbol_long: NAM, ATAF, and CUC
+  - GmNAC11
+gene_symbol_long: transcription factor NAC11
 gene_model_pub_name: Glyma.19G108800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108800
 confidence: 5
@@ -13,10 +14,12 @@ comments:
   - Transcriptional activator that promotes root nodulation
   - Overexpression resulted in nearly complete insensitivity to salt inhibition of nodulation
   - Function determined through overexpression and gene knockdown
-phenotype_synopsis: overexpression leads to increased levels of nodules
+phenotype_synopsis: overexpression leads to increased levels of nodules, promotes nodulation under salt stress
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
+  - entity_name: root nodule morphology
+    entity: GO:0009877
 references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
@@ -41,6 +44,8 @@ phenotype_synopsis: increased root nodule formation
 traits:
   - entity_name: root nodule morphology
     entity: GO:0009877
+  - entity_name: salt tolerance
+    entity: TO:0006001
 references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
