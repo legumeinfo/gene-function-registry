@@ -22,8 +22,8 @@ comments:
     CRISPR/Cas9 mutagenesis.
 phenotype_synopsis: Overexpression leads to increased nodule formation.
 traits:
-  - entity_name: root nodule morphology
-    entity: GO:0009877
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
   - entity_name: nitrogen fixation
     entity: GO:0009399
   - entity_name: nodulation
@@ -60,8 +60,8 @@ comments:
     CRISPR/Cas9 mutagenesis.
 phenotype_synopsis: Overexpression leads to increased nodule formation.
 traits:
-  - entity_name: root nodule morphology
-    entity: GO:0009877
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
   - entity_name: nitrogen fixation
     entity: GO:0009399
   - entity_name: nodulation
