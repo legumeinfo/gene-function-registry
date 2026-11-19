@@ -2,21 +2,28 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmNAC181
-gene_symbol_long: NAM, ATAF, and CUC
+  - GmNAC11
+gene_symbol_long: Transcription Factor NAC11
 gene_model_pub_name: Glyma.19G108800
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.19G108800
 confidence: 5
 curators:
   - Olivia Wall
 comments:
-  - directly binds and activates the expression of the nodulation gene GmNINa
-  - transcriptional activator that promotes root nodulation
-  - overexpression resulted in nearly complete insensitivity to salt inhibition of nodulation
-  - Function determined through overexpression and gene knockdown
-phenotype_synopsis:  overexpression leads to increased levels of nodules
+  - Directly binds and activates the expression of the nodulation gene GmNINa.
+  - Transcriptional activator that promotes root nodulation.
+  - Overexpression resulted in nearly complete insensitivity to salt inhibition
+    of nodulation.
+  - Function determined through overexpression and gene knockdown.
+phenotype_synopsis: Overexpression leads to increased levels of nodules and
+  promotes nodulation under salt stress.
 traits:
   - entity_name: salt tolerance
     entity: TO:0006001
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
+    entity: GO:0009877
 references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
@@ -32,17 +39,27 @@ confidence: 4
 curators:
   - Olivia Wall
 comments:
-  - transcription factor involved in regulating the expression of downstream nodulation genes
-  - expression is directly activated by GmNAC181, which binds to its promotor
-  - function determined through gene expression analysis and promotor binding experiments
-phenotype_synopsis:  increased root nodule formation
+  - Transcription factor involved in regulating the expression of downstream
+    nodulation genes.
+  - Expression is directly activated by GmNAC181, which binds to its promoter.
+  - Regulates genes involved in allowing rhizobia to infect soybean root hairs
+    and enter root tissue.
+  - Helps regulate nodule development and the number of nodules formed through
+    signaling pathways.
+  - Function determined through gene expression analysis and promoter binding
+    experiments.
+phenotype_synopsis: Increased root nodule formation.
 traits:
-  - entity_name: root nodule morphology
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: root nodule morphology trait
+    entity: TO:0000898
+  - entity_name: nodulation
     entity: GO:0009877
 references:
   - citation: Wang, Chen et al., 2022
     doi: 10.1111/nph.18343
     pmid: 35751548
-  - citation:
-    doi: 
-    pmid:
+  - citation: Fu, Sun et al., 2022
+    doi: 10.1093/plphys/kiab473
+    pmid: 34633461
