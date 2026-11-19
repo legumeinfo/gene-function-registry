@@ -1,1 +1,81 @@
-
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNF-YA16
+gene_symbol_long:
+gene_model_pub_name: Glyma.15G129900
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G129900
+confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
+curators:  # Name of curators who worked on this
+  - Olivia Wall
+comments:
+  -  # Use if needed
+phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+references:
+  - citation: Yu, Liu et al., 2021
+    doi: 10.1111/pbi.13684
+    pmid: 34416065
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNF-YB2
+gene_symbol_long: 
+gene_model_pub_name: Glyma.02G300200
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G300200
+confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
+curators:  # Name of curators who worked on this
+  - Olivia Wall
+comments:
+  -  # Use if needed
+phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+references:
+  - citation: Yu, Liu et al., 2021
+    doi: 10.1111/pbi.13684
+    pmid: 34416065
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmNF-YC14
+gene_symbol_long: Nuclear factor Y C subunit 14
+gene_model_pub_name: Glyma.18G007100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G007100
+confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
+curators:  # Name of curators who worked on this
+  - Olivia Wall
+comments:
+  -  # Use if needed
+phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+references:
+  - citation: Yu, Liu et al., 2021
+    doi: 10.1111/pbi.13684
+    pmid: 34416065
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmPYR1
+  - GmPYL
+gene_symbol_long: 
+gene_model_pub_name: Glyma.01G097000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G097000
+confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
+curators:  # Name of curators who worked on this
+  - Olivia Wall
+comments:
+  -  # Use if needed
+phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
+  - entity_name: flowering time trait  # Short descriptive name of the ontology accession
+    entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
+references:
+  - citation: Yu, Liu et al., 2021
+    doi: 10.1111/pbi.13684
+    pmid: 34416065
