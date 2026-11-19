@@ -1,20 +1,20 @@
 Registry Summary Stats computed on 2026-11-12
-Stats based on Genus reports from 2026-11-11
+Stats based on Genus reports from 2026-11-12
 
 Genus                         Species        Total Unique Gene_Symbols  Total Unique gene_models  Total Unique Citations  Total Unique Ontology accessions (Traits)
 ----------------------------  -------------  -------------------------  ------------------------  ----------------------  -----------------------------------------
-Arachis                       hypogaea       14                         13                        15                      35
-Cicer                         arietinum      3                          3                         1                       5
-Glycine                       max            293                        267                       247                     274
+Arachis                       hypogaea       14                         13                        19                      35
+Cicer                         arietinum      3                          3                         5                       5
+Glycine                       max            294                        269                       288                     277
 Glycine                       soja           5                          5                         5                       6
 Lotus                         japonicus      2                          2                         5                       6
 Lupinus                       angustifolius  1                          1                         1                       2
-Medicago                      sativa         3                          3                         4                       10
-Medicago                      truncatula     100                        95                        80                      157
+Medicago                      sativa         3                          3                         5                       10
+Medicago                      truncatula     100                        95                        83                      157
 Phaseolus                     vulgaris       8                          7                         14                      20
 Pisum                         sativum        8                          8                         5                       13
 Vicia                         faba           2                          2                         1                       2
 Vigna                         radiata        2                          2                         3                       3
 ----------------------------  -------------  -------------------------  ------------------------  ----------------------  -----------------------------------------
-TOTAL (registry-wide unique)                 441                        408                       378                     431
-SUM OF SPECIES                               441                        408                       381                     533
+TOTAL (registry-wide unique)                 442                        410                       431                     433
+SUM OF SPECIES                               442                        410                       434                     536
