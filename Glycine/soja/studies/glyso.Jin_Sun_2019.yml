@@ -1,0 +1,41 @@
+---
+scientific_name: Glycine soja
+gene_symbols:
+  - GsPRX9
+gene_symbol_long: Peroxidase 9
+gene_model_pub_name: Glyma.14g070800
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.14G070800
+confidence: 3
+curators:
+  - Molly Hardacre
+comments:
+  - GsPRX9, a peroxidase gene from wild soybean, is induced by salt treatment
+    with significantly higher relative expression levels in the roots of
+    salt-tolerant soybean varieties compared to salt-sensitive varieties after
+    NaCl treatment
+  - Overexpression of GsPRX9 in yeast (strains INVSc1 and G19) enhanced their
+    tolerance to both NaCl and H2O2 stress, demonstrating its role in stress
+    response
+  - In soybean, overexpression of GsPRX9 in composite plants resulted in higher
+    shoot fresh weight and leaf relative water content after NaCl treatment
+  - Overexpression of GsPRX9 in soybean hairy roots improved antioxidant
+    responses under salt stress, leading to lower H2O2 content and higher
+    activities of peroxidase and superoxide dismutase, as well as increased
+    glutathione levels
+phenotype_synopsis: Overexpression of the GsPRX9 gene confers enhanced salt
+  tolerance in soybean by having a higher water content in leaves, better plant
+  growth, and a better antioxidant response in both composite plants and hairy
+  roots under salt stress conditions
+traits:
+  - entity_name: salt tolerance
+    entity: TO:0006001
+  - entity_name: leaf relative water content
+    entity: TO:0000136
+  - entity_name: shoot fresh weight
+    entity: TO:0000571
+  - entity_name: antioxidant activity trait
+    entity: TO:0001143
+references:
+  - citation: Jin, Sun et al., 2019
+    doi: 10.3390/ijms20153745
+    pmid: 31370221
