@@ -1,0 +1,41 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmWRI14-like
+gene_symbol_long: WRINKLED1-like transcription factor
+gene_model_pub_name: Glyma.04G116500
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G116500
+confidence: 5
+curators:
+  - David Payne
+comments:
+  - There is some naming inconsistency in the article, as the title uses "GmWRI1-like" instead of "GmWRI14-like".
+  - GmWRI14-like was predicted to be in the WRI1 family and have two AP2/EREB domains. It is primarily expressed in seed tissues.
+  - GWAS experiments over three years identified GmWRI14-like as being a candidate locus for affecting seed weight and oil content. Notably, a SNP-induced premature stop codon in this locus was found in the soybean line with the lowest seed weight.
+  - Overexpression of GmWRI14-like tended to result in a white seed coat color (rather than the yellow color found in the non-transgenic variety), increased fatty acid accumulation, and increased seed length, seed width, and seed weight. It also caused severe bending of soybean branches. Protein content did not change.
+  - Mutation of GmWRI14-like decreased seed length, width, and weight as well as wrinkling. Protein content did not change.
+  - Overexpression of GmWRI14-like increased oleic acid and decreased linoleic acid, while mutation of GmWRI14-like did the reverse.
+  - Overexpression of GmWRI14-like altered the transcriptome such that genes in the fatty acid biosynthesis, fatty acid metabolism, and cytochrome biosynthesis KEGG pathways were enriched.
+  - GmWRI14-like increased the expression of the cytochrome metabolism genes Glyma.07G052300 (GmCYP78A50) and Glyma.16G021200 (GmCYP78A69). Additionally, GmWRI14-like has direct protein-protein interaction with GmCYP78A50 and GmCYP78A69, confirmed by yeast two-hybrid assay and bimolecular fluorescence complementation. Direct binding to their promoters was not tested.
+phenotype_synopsis: GmWRI14-like contributes to phenotypes such as increased seed length, width, and weight, higher oil content, lighter seed coat pigmentation, and a less wrinkled texture. It also caused severe branch bending and was not found to contribute to protein content.
+traits:
+  - entity_name: Seed weight
+    entity: TO:0000181
+  - entity_name: Fatty acid content
+    entity: TO:0001170
+  - entity_name: Seed coat color
+    entity: TO:0000190
+  - entity_name: Oleic acid content
+    entity: TO:0005002
+  - entity_name: Linoleic acid content
+    entity: TO:0005001
+  - entity_name: Seed size
+    entity: TO:0000391
+  - entity_name: Seed width
+    entity: TO:0000149
+  - entity_name: Seed length
+    entity: TO:0000146
+references:
+  - citation: Di, Qin et al., 2023.
+    doi: 10.3389/fpls.2023.1268511
+    pmid: 38046612
