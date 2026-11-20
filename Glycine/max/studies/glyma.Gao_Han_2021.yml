@@ -1,0 +1,70 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBA2
+gene_symbol_long: MYB Transcription Factor A2
+gene_model_pub_name: Glyma.09G235100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.09G235100
+confidence: 5
+curators:
+  - David Payne
+comments:
+  - GmMYBA2 is classified as an R2R3 MYB transactivator with the KPRPR[S/T][F/L] motif, which is common for MYB activators associated with anthocyanin biosynthesis in eudicots.
+  - This paper compares the Wm82 (w1T) and P3 (W1t) genotypes. Wm82 is characterized by likely loss of GmF3'5'H function due to a premature stop codon, while P3 is characterized by loss of GmF3'H function due to a frameshift mutation and protein truncation.
+  - GmMYBA2 overexpression in Wm82 (w1T) and P3 (W1t) hairy roots tended to result in brown and purple colors respectively as opposed to the original yellow color.
+  - GmMYBA2 affected anthocyanin accumulation in hairy roots with methylated delphinidin glycoside derivatives being prominent in P3 and cyanidin and pelargonidin derivatives being prominent in Wm82.
+  - Overexpression of GmMYBA2 in the P3 (W1t) background resulted in purple coloration of the seed hilum and saddle, mimicking the imperfect black (W1/w1, i, R, t) phenotype, leading the authors to conclude that GmMYBA2 corresponds to the R locus.
+  - Overexpression of GmMYBA2 in P3 increased anthocyanin content and resulted in intense purple coloration in the seed pod, flower, leaf, and the seed hilum and saddle.
+  - Overexpression of GmMYBA2 increased the expression of GmTT8a and GmMYBR.
+  - In P3, GmMYBA2 was found to bind the GmF3'5'H and GmUGT78K2 promoters.
+  - GmMYBA2 was found to have protein-protein interaction with GmTT8a.
+  - GmMYBA2, particularly when combined with GmTT8a, increased the expression of GmF3H, GmF3'5'H, GmDFR2, GmANS1/2, GmUGT78K1/2, and GmMYBR in P3 callus protoplasts.
+  - GmMYBA2 forms a complex with GmTT8a that is inhibited by GmMYBR. GmMYBA2 activates the GmMYBR promoter to increase its expression, forming a feedback loop.
+phenotype_synopsis: GmMYBA2 is a transcription factor whose overexpression tends to result in increased pigmentation in hairy roots, seed hila and saddles, leaves, and flowers through increased anthocyanin biosynthesis. This gene likely corresponds to the R locus, as it mimics the imperfect black phenotype in the W1 background.
+traits:
+  - entity_name: Anthocyanin content
+    entity: TO:0000071
+  - entity_name: Seed coat color
+    entity: TO:0000190
+  - entity_name: Root color
+    entity: TO:0000065
+  - entity_name: Hilum color
+    entity: TO:0000968
+  - entity_name: Flower color
+    entity: TO:0000537
+  - entity_name: Leaf color
+    entity: TO:0000326
+references:
+  - citation: Gao, Ruifang et al., 2021
+    doi: 10.1093/jxb/erab152
+    pmid: 33825878
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmMYBR
+gene_symbol_long: MYB repressor
+gene_model_pub_name: Glyma.20G013000
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.20G013000
+confidence: 4
+curators:
+  - David Payne
+comments:
+  - GmMYBR is an R2R3 transrepressor named in this study and distinguished from GmMYBR1 (Glyma.02G247100). It contains the C1, C2, and C5 domains, the latter two of which are characterized as powerful repressor domains in plants.
+  - Overexpression of GmMYBR in P3 soybeans decreased anthocyanin content, induced pale flower color, and changed the hypocotyl color from purple to green. It also reduced the expression of anthocyanin biosynthesis genes.
+  - GmMYBR was not found to directly bind to the GmF3'5'H promoter.
+  - GmMYBR was found to have protein-protein interaction with GmTT8a.
+  - GmMYBR represses the transcriptional regulatory activity of the GmMYBA2-GmTT8a complex on the GmF3'5'H promoter by interacting with GmTT8a.
+  - GmMYBR was said to repress genes responsible for seed coat color, but a direct experiment was not performed to link GmMYBR transformation to lighter seed coat color.
+  - GmMYBA2 forms a complex with GmTT8a that is inhibited by GmMYBR. GmMYBA2 activates the GmMYBR promoter to increase its expression, forming a feedback loop.
+phenotype_synopsis: GmMYBR is a transcription factor that decreases pigmentation, at least in the flower and hypocotyl, by interacting with GmTT8a to inhibit the GmMYBA2-GmTT8a complex from activating anthocyanin biosynthesis genes.
+traits:
+  - entity_name: Anthocyanin content
+    entity: TO:0000071
+  - entity_name: Flower color
+    entity: TO:0000537
+  - entity_name: Seedling hypocotyl color
+    entity: TO:0000759
+references:
+  - citation: Gao, Ruifang et al., 2021
+    doi: 10.1093/jxb/erab152
+    pmid: 33825878
