@@ -2,14 +2,15 @@
 scientific_name: Glycine max
 gene_symbols:
   - GmNF-YA16
-gene_symbol_long:
+gene_symbol_long: Nuclear factor Y subunit A16
 gene_model_pub_name: Glyma.15G129900
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.15G129900
 confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
-curators:  # Name of curators who worked on this
+curators:
   - Olivia Wall
 comments:
-  -  # Use if needed
+  - transcription factor that interacts with GmNF-YB2 and GmNF-YC14 to form a heterotrimer
+  - Heterotrimer is formed under drought and salt stresses, directly interacts with GmPYR1
 phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
@@ -22,14 +23,15 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmNF-YB2
-gene_symbol_long: 
+gene_symbol_long: Nuclear factor Y subunit B2
 gene_model_pub_name: Glyma.02G300200
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G300200
 confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
-curators:  # Name of curators who worked on this
+curators:
   - Olivia Wall
 comments:
-  -  # Use if needed
+  - transcription factor that interacts with GmNF-YA16 and GmNF-YC14 to form a heterotrimer
+  - Heterotrimer is formed under drought and salt stresses, directly interacts with GmPYR1
 phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
@@ -42,15 +44,18 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmNF-YC14
-gene_symbol_long: Nuclear factor Y C subunit 14
+gene_symbol_long: Nuclear factor YC subunit 14
 gene_model_pub_name: Glyma.18G007100
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.18G007100
-confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
-curators:  # Name of curators who worked on this
+confidence: 5
+curators:
   - Olivia Wall
 comments:
-  -  # Use if needed
-phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+  - transcription factor that interacts with GmNF-YA16 and GmNF-YB2 to form a heterotrimer
+  - Heterotrimer is formed under drought and salt stresses, directly interacts with GmPYR1
+  - Knocking out GmNF-YC14 made soybean plants more sensitive to drought.
+  - Function determined through CRISPR/Cas9 knockout, qPCR, overexpression, and protein interaction experiments
+phenotype_synopsis: overexpression leads to increased yield per plant, grain plumpness, and stem base circumference
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
     entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
@@ -63,15 +68,18 @@ scientific_name: Glycine max
 gene_symbols:
   - GmPYR1
   - GmPYL
-gene_symbol_long: 
+gene_symbol_long: Pyrabactin resistance 1
 gene_model_pub_name: Glyma.01G097000
 gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.01G097000
-confidence:   # Value from 1 to 5 -- 5 being equivalent to complementation test
-curators:  # Name of curators who worked on this
+confidence: 4
+curators:
   - Olivia Wall
 comments:
-  -  # Use if needed
-phenotype_synopsis:  # REQUIRED - Brief free-text phenotype description, e.g. "Seed raffinose concentration" or "photoperiod insensitivity to short day conditions"
+  - ABA receptor binds ABA molecules to form an initiation complex
+  - ABA-PYR1 complex inhibits PP2C proteins, allowing SnRK2 kinases to activate stress-response genes
+  - These responses promote stomatal closure, reduce water loss, and increase production of protective proteins
+  - Function determined through qPCR, overexpression, luciferase reporter assays, and protein phosphorylation experiments
+phenotype_synopsis:  overexpression leads to increased yield per plant, grain plumpness, and stem base circumference
 traits:  # REQUIRED - at least one "entity" ontology accession; other ontology types are optional.
   - entity_name: flowering time trait  # Short descriptive name of the ontology accession
     entity: TO:0002616  # Prefer terms from the Plant Trait Ontology, https://www.ebi.ac.uk/ols/ontologies/to or browser.planteome.org
