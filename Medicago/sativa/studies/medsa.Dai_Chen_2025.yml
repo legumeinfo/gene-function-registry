@@ -1,20 +1,40 @@
 ---
 scientific_name: Medicago sativa
-classical_locus:
 gene_symbols:
   - MsJAR1
-gene_symbol_long:
-gene_model_pub_name: 
-gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene050633.t1  
-confidence:
+gene_symbol_long: Jasmonic acid-amido synthetase
+gene_model_pub_name: OK602801
+gene_model_full_id: medsa.XinJiangDaYe.gnm1.ann1.MS.gene050633.t1
+  medsa.XinJiangDaYe.gnm1.ann1.MS.gene025922.t1
+  medsa.XinJiangDaYe.gnm1.ann1.MS.gene22809.t1
+  medsa.XinJiangDaYe.gnm1.ann1.MS.gene024458.t1
+confidence: 4
 curators:
-  - Molly Hardacre 
+  - Molly Hardacre
 comments:
-  -
-phenotype_synopsis:
+  - Overexpression of the MsJAR1 gene in alfalfa leads to phenotypic changes
+    including smaller leaves, shorter internode distances, but increased lateral
+    branches and plant height
+  - The MsJAR1 protein is predominantly localized in the chloroplasts of plant
+    cells
+  - Overexpression of MsJAR1 significantly enhances photosynthetic parameters
+    such as stomatal conductance, net photosynthetic rate, and transpiration
+    rate in transgenic alfalfa
+  - The MsJAR1 gene regulates plant growth and development by altering the
+    anatomical structure of leaves (decreased xylem and phloem area) and stems
+    (increased xylem and phloem area)
+  - Transcriptomic analysis indicates that MsJAR1 affects growth and development
+    by modulating photosynthesis-related pathways, as well as ribosome,
+    glycolysis/gluconeogenesis, and tricarboxylic acid cycle pathways
+phenotype_synopsis: Overexpression of the MsJAR1 gene in alfalfa results in a
+  distinctive phenotype characterized by reduced leaf size and internode
+  distance, coupled with an increase in lateral branches and overall plant
+  height
 traits:
-  - entity_name:
-    entity:
+  - entity_name: plant height
+    entity: TO:0000207
+  - entity_name: 
+    entity: 
 references:
   - citation: Dai, Chen et al., 2025
     doi: 10.1038/s41598-025-01227-4
