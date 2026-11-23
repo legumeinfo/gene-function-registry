@@ -1,0 +1,35 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmGLY1
+gene_symbol_long: Glycitein 1
+gene_model_pub_name: Glyma.11g108300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.11G108300
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmGLY1 encodes a cytochrome P450 family protein located on chromosome 11
+    that is crucial for glycitein biosynthesis in soybean seeds
+  - Overexpression of GmGLY1 in soybean hairy roots and seeds leads to increased
+    glycitein content, while CRISPR/Cas9 knockout mutants show decreased
+    glycitein and increased daidzein content
+  - GmGLY1 likely catalyzes the hydroxylation of liquiritigenin or daidzein,
+    acting similarly to known isoflavone hydroxylases within the phenylpropanoid
+    pathway
+  - Different GmGLY1 haplotypes significantly affect glycitein accumulation
+    without notable differences in gene expression levels, suggesting variation
+    in enzyme activity among alleles
+  - GmGLY1 expression increases during seed development and in aging leaves,
+    indicating roles in both isoflavone biosynthesis and potential plant immune
+    responses.
+phenotype_synopsis: GmGLY1 modulates soybean seed isoflavone profiles by
+  promoting glycitein accumulation while inversely affecting daidzein levels,
+  thereby influencing seed composition and potentially plant stress responses
+traits:
+  - entity_name: isoflavonoid biosynthetic process
+    entity: GO:0009717
+references:
+  - citation: Zhang, Yang et al., 2024
+    doi: 10.1021/acs.jafc.4c00968
+    pmid: 38710505
