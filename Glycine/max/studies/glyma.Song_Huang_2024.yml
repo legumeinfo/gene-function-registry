@@ -1,0 +1,38 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmCYB5-4
+gene_symbol_long: Cytochrome b5-4
+gene_model_pub_name: Glyma03g080100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.03G080100
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmCYB5-4 is a member of the soybean cytochrome b5 gene family that interacts
+    directly with the P3 protein of Soybean mosaic virus to inhibit viral
+    proliferation
+  - Bioinformatic analysis identified 28 GmCYB5 genes distributed across 15
+    soybean chromosomes, with GmCYB5-4 located on chromosome 3 and showing
+    conserved motifs and diverse cis-acting regulatory elements implicated in
+    hormone responses
+  - GmCYB5-4 is highly expressed in various soybean tissues, notably in roots
+    and pods, indicating roles in multiple developmental processes
+  - Experimental evidence from yeast two-hybrid and bimolecular fluorescence
+    complementation assays confirmed the physical interaction between GmCYB5-4
+    and SMV P3 protein, primarily localized in the cytoplasm and endoplasmic
+    reticulum
+  - Silencing GmCYB5-4 (also reducing expression of related isoforms) using a
+    BPMV-based vector significantly enhances SMV accumulation and severity of
+    symptoms in soybean, demonstrating GmCYB5-4’s antiviral function
+phenotype_synopsis: Silencing of the GmCYB5-4 gene in soybean leads to increased
+  susceptibility to Soybean mosaic virus, resulting in more severe viral
+  symptoms such as leaf curling and wrinkling without affecting normal plant
+  morphology
+traits:
+  - entity_name: viral disease response trait
+    entity: TO:0000148
+references:
+  - citation: Song, Huang et al., 2024
+    doi: 10.1016/j.virol.2024.110069
+    pmid: 38640788
