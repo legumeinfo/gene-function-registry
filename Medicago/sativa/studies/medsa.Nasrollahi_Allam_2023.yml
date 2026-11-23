@@ -1,0 +1,40 @@
+---
+scientific_name: Medicago sativa
+gene_symbols:
+  - MsSPL9
+gene_symbol_long: Squamosa-Promoter Binding Protein-Like 9
+gene_model_pub_name: null
+gene_model_full_id: null
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - MsSPL9 silencing (SPL9-RNAi) in alfalfa leads to an increase in nodulation
+    compared to wild-type plants
+  - Transcript levels of MsSPL9 are negatively correlated with nodulation in
+    alfalfa
+  - MsSPL9 silencing prevents the inhibitory effect of nitrate on nodulation in
+    alfalfa, while overexpression of MsSPL9 causes hypersensitivity to nitrate
+    inhibition of nodulation
+  - MsSPL9 regulates the transcription levels of nitrate-responsive genes (NR1,
+    NR2, NRT2.5) and the shoot-controlled AON gene SUNN
+  - MsSPL9 is involved in the regulation of root architecture in response to
+    nitrate and rhizobia inoculation
+phenotype_synopsis: MsSPL9 negatively regulates nodulation and influences root
+  architecture in alfalfa, particularly in response to nitrate and rhizobia
+  inoculation, with its silencing leading to enhanced nodulation and reduction
+  of nitrate's inhibitory effect on nodule formation.
+traits:
+  - entity_name: root nodule number
+    entity: TO:0000900
+  - entity_name: root morphology trait
+    entity: TO:0000043
+  - entity_name: nitrate sensitivity
+    entity: TO:0020098
+references:
+  - citation: Nasrollahi, Allam et al., 2023
+    doi: 10.3390/ijms24119615
+    pmid: 37298564
+  - citation: Hanly, Karagiannis et al., 2020
+    doi: 10.3390/ijms21176003
+    pmid: 32825501
