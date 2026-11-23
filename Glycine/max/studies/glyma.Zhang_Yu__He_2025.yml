@@ -1,0 +1,39 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSAMMt30
+gene_symbol_long: SAM-dependent methyltransferase 30
+gene_model_pub_name: Glyma.08G111100
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.08G111100
+confidence: 4
+curators:
+  - Molly Hardacre
+comments:
+  - GmSAMMt30 was identified as a promising candidate gene responsive to
+    saline-alkali stress through haplotype analysis of 69 identified GmSAMMt
+    members, as well as through quantitative real-time PCR screening
+  - The GmSAMMt30 gene has two main haplotypes, Hap1 and Hap2, which exhibit
+    significantly different responses to salt and alkali stress
+  - In yeast heterologous expression assays, GmSAMMt30 Hap2 significantly
+    enhanced recombinant yeast growth under saline-alkali stress, while Hap1
+    inhibited growth
+  - In transgenic soybean hairy roots, the GmSAMMt30 Hap2 genotype showed
+    significantly better phenotypic performance under salt-alkali stress, with
+    lower leaf wilting and reactive oxygen species content, compared to
+    K599(pSOY1)
+  - Conversely, the GmSAMMt30 Hap1 genotype increased sensitivity to salt-alkali
+    stress in transgenic soybean hairy roots, leading to more severe leaf
+    wilting and higher reactive oxygen species content
+phenotype_synopsis: The GmSAMMt30 gene influences soybean's tolerance to
+  salt-alkali stress, with the Hap2 variant showing enhanced resistance by
+  improving antioxidant capacity and reducing cellular damage, while Hap1 leads
+  to increased sensitivity.
+traits:
+  - entity_name: salt response
+    entity: TO:0000429
+  - entity_name: salkali sensitivity
+    entity: TO:0000481
+references:
+  - citation: Zhang, Yu et al., 2025
+    doi: 10.1007/s00122-025-04982-0
+    pmid: 40906041
