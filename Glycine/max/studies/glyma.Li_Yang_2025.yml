@@ -1,0 +1,41 @@
+---
+scientific_name: Glycine max
+gene_symbols:
+  - GmSMS6
+gene_symbol_long: SMALL SEED 6
+gene_model_pub_name: Glyma.02G208700
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.02G208700
+confidence: 5
+curators:
+  - Molly Hardacre
+comments:
+  - GmSMS6 encodes a 14-3-3 protein that acts as a major determinant of soybean
+    seed weight, negatively regulating seed size and cellular expansion of
+    cotyledons
+  - Knocking out GmSMS6 significantly increases seed weight and protein content
+    while simultaneously decreasing oil accumulation in multiple soybean genetic
+    backgrounds, boosting yield potential by about 10%
+  - The GmSMS6 protein functions as a regulatory hub, coordinating the
+    transcriptional activation activity and stability of the transcription
+    factor GmbZIP151 and the RING-type E3 ligase GmUBQ1
+  - The sms6 allele (GmSMS6A) is a function-enhanced mutation that exerts a
+    stronger negative regulatory effect on seed weight and cell expansion
+    compared to the wild-type GmSMS6G allele
+  - A loss-of-function allele of GmSMS6 is absent in available soybean
+    resources, but a weakly expressed haplotype associated with heavier seed
+    weight has been selected during the domestication of Glycine max, providing
+    insights into crop yield and quality improvement
+phenotype_synopsis: Loss-of-function (or weakly expressed) alleles of GmSMS6 lead
+  to significantly increased soybean seed weight and size due to enhanced
+  cellular expansion, along with higher protein content and improved seed yield.
+traits:
+  - entity_name: seed weight
+    entity: TO:0000181
+  - entity_name: yield trait
+    entity: TO:0000371
+  - entity_name: seed protein content
+    entity: TO:0000490
+references:
+  - citation: Li , Yang et al., 2025
+    doi: 10.1038/s41467-025-65598-y
+    pmid: 41298463
