@@ -4,14 +4,8 @@
         "dockerfile": "Dockerfile"
     },
     "features": {
-        "ghcr.io/devcontainers/features/git:1": {},
-        "ghcr.io/devcontainers/features/node:1": {
-            "version": "lts",
-            "nodeGypDependencies": true,
-            "globalModules": "ajv-cli"
-        }
+        "ghcr.io/devcontainers/features/git:1": {}
     },
-    "postCreateCommand": "sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/local/bin/yq && sudo chmod +x /usr/local/bin/yq",
     "customizations": {
         "vscode": {
             "extensions": [
