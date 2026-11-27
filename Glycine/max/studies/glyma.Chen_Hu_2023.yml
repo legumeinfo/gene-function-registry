@@ -63,6 +63,7 @@ references:
   - citation: He, Gao et al., 2021
     doi: 10.1016/j.molp.2020.12.015
     pmid: 33359013
+
 ---
 scientific_name: Glycine max
 gene_symbols:
@@ -92,7 +93,8 @@ comments:
     revealed no results, but looking for "Glyma.04G251900" returned the result
     used for the gene_model_full_id with description "protein Scarecrow-like".
   - Searching the NCBI FASTA protein sequence (accession XP_003522584) in the
-    LegumeInfo sequence search produced the same gene_model_full_id as a result.
+    LegumeInfo sequence search produced the same gene_model_full_id as the
+    previous result.
 phenotype_synopsis: Reduced root nodule formation when GmNSP2 function is knocked out.
 traits:
   - entity_name: nodulation
@@ -104,30 +106,24 @@ references:
   - citation: Hossain, Hoang et al., 2019
     doi: 10.3389/fpls.2019.00475
     pmid: 31057581
+
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmBRI1b
-gene_symbol_long: 
-gene_model_pub_name: 
-gene_model_full_id: 
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.17G248900
+gene_symbol_long: Brassinosteroid LRR Receptor Kinase
+gene_model_pub_name: Glyma.04g218300
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G218300
 confidence: 5
 curators:
   - Olivia Wall
   - Amy Pollpeter
 comments:
   - Encodes the brassinosteroid (BR) receptor in soybean.
-  - Negatively regulated nodulation in trasnsgenic soybean hairy roots and stable transgenic soybean plants.  
+  - Negatively regulated nodulation in trasnsgenic soybean hairy roots and
+    stable transgenic soybean plants.
   - Intiates the BR signaling pathway leading to nodulation inhibition.
 phenotype_synopsis: Over-expression results in reduced nodule density and nodule number.
-  - Mediates brassinosteroid (BR) signaling to inhibit soybean nodulation by
-    suppressing nodulation factor (NF) signaling and nodule formation.
-  - Directly interacts with GmNSP1 and GmNSP2 to inhibit their interaction, and
-    the DNA-binding activity of GmNSP1.
-  - Function determined through RNAi, protein interaction assays, DNA binding
-    assays.
-phenotype_synopsis: Reduced root nodulation by suppressing GmNSP1 and GmNSP2.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
@@ -138,96 +134,36 @@ references:
   - citation: He, Gao et al., 2021
     doi: 10.1016/j.molp.2020.12.015
     pmid: 33359013
+
 ---
 scientific_name: Glycine max
 gene_symbols:
   - GmENOD93
-gene_symbol_long: 
-gene_model_pub_name: 
-gene_model_full_id: 
+gene_symbol_long: Early Nodulin 93
+gene_model_pub_name: Glyma.06G216500*
+gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.06G216500
 confidence: 5
-  - GmNSP1
-gene_symbol_long: Nodulation Signaling Pathway 1
-gene_model_pub_name: Glyma.07G039400*
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.07G039400
-confidence: 4
 curators:
   - Olivia Wall
   - Amy Pollpeter
   - Scott Kalberer
 comments:
-  - It is a nodulation factor (NF) upregulated gene and brassinosteroid (BR) downregulated gene in regulation of the nodulation pathway.
-  - GmNSP2 binds to the promoter region of the gene regulating the expression during rhizobial symbiosis.
-phenotype_synopsis: Inhibition of the gene by the BR signaling pathway results in decreased nodulation.
+  - It is a nodulation factor (NF) upregulated gene and brassinosteroid (BR)
+    downregulated gene in regulation of the nodulation pathway.
+  - GmNSP2 binds to the promoter region of the gene regulating the expression
+    during rhizobial symbiosis.
+  - No other name for this gene besides GmENOD93 was used in the publication
+    Chen, Hu et al. (2023) or its supplementary material and no gene model was
+    specified. The gene_model_pub_name was determined by searching the GmENOD93
+    FASTA protein sequence (Accession NP_001237669.1) in the LIS sequence search
+    to attain the gene_model_pub_name and corresponding gene_model_full_id.*
   - Required for nodule formation in soybeans.
   - Directly binds to the promoter regions of early responsive genes, including
     nodule inception.
   - Forms a heterodimer with GmNSP2.
   - Function determined through DNA pull down assays and BiFC.
-  - No other name besides GmNSP1 was used in the publication Chen, Hu et al.
-    (2023) for this gene. No gene model was specified in that publication or its
-    supplementary material. A gene search of NCBI for "GmNSP1" returned a result
-    with locus tag "GLYMA_07G039400". Review of this "GLYMA_07G039400" in LIS
-    "Gene Search" revealed no results, but the hunt for "Glyma.07G039400"
-    returned the result used for the gene_model_full_id with description
-    "scarecrow-like transcription factor PAT1-like".
-  - Searching the NCBI FASTA protein sequence (accession XP_003529836) in the
-    LegumeInfo sequence search produced the same gene_model_full_id as a result.
-phenotype_synopsis: Reduced root nodule formation when GmNSP1 function is knocked out.
+phenotype_synopsis: Inhibition of the gene by the BR signaling pathway results
+  in decreased nodulation.
 traits:
   - entity_name: nodulation
     entity: GO:0009877
----
-scientific_name: Glycine max
-gene_symbols:
-  - GmERN1a
-gene_symbol_long: Early nodulin 1a
-gene_model_pub_name: 
-gene_model_full_id: 
-confidence: 5
-  - GmNSP2
-gene_symbol_long: Nodulation Signaling Pathway 2
-gene_model_pub_name: Glyma.04G251900*
-gene_model_full_id: glyma.Wm82.gnm4.ann1.Glyma.04G251900
-confidence: 4
-curators:
-  - Olivia Wall
-  - Amy Pollpeter
-  - Molly Hardacre
-  - Scott Kalberer
-comments:
-  - A target of the GmNSP1/GmNSP2 complex with binding of its promoter by the complex regulating its expression.
-  - It is required for nodulation.
-  - Inhibited by GmBES1-1 in the presence of brassinosteroids (BR) reducing nodulation.
-  - marker gene in the Nodulation Factor (NF) primary signaling pathway.
-phenotype_synopsis: Reduced expression of the gene results in decreased nodulation.
-  - Interacts with GmNSP1 to enhance transcriptional activity, with which it
-    forms a heterodimer.
-  - Works with GmNSP1 in the nodulation signaling pathway, regulating genes
-    required for the soybean–rhizobia symbiosis.
-  - Function determined through DNA pull down assays and BiFC assays.
-  - No other name for this gene besides GmNSP2 was used in the publication Chen,
-    Hu et al. (2023) or its supplementary material and no gene model was
-    specified. Supplementary file "Data Sheet 1.pdf" of Hossain, Hoang et al.
-    (2019) refers to GmNSP2 as gene model Glyma.04g43090. This gene model name
-    was used to obtain the gene_model_full_id from LegumeInfo.org.
-  - A gene search of NCBI for "GmNSP2" returned a result with locus tag
-    "GLYMA_04G251900". A quest for this "GLYMA_04G251900" in LIS "Gene Search"
-    revealed no results, but looking for "Glyma.04G251900" returned the result
-    used for the gene_model_full_id with description "protein Scarecrow-like".
-  - Searching the NCBI FASTA protein sequence (accession XP_003522584) in the
-    LegumeInfo sequence search produced the same gene_model_full_id as a result.
-phenotype_synopsis: Reduced root nodule formation when GmNSP2 function is knocked out.
-traits:
-  - entity_name: nodulation
-    entity: GO:0009877
-references:
-  - citation: Chen, Hu et al., 2023
-    doi: 10.1016/j.xplc.2023.100627
-    pmid: 37208896
-  - citation: He, Gao et al., 2021
-    doi: 10.1016/j.molp.2020.12.015
-    pmid: 33359013    
-  - citation: Hossain, Hoang et al., 2019
-    doi: 10.3389/fpls.2019.00475
-    pmid: 31057581    
